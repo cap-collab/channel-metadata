@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-09T10:49:51.405Z",
+  "updated": "2025-12-09T13:48:12.723Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ Flo",
-        "s": "2025-12-08T09:00:00Z",
-        "e": "2025-12-08T11:00:00Z",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-8th-december-2025"
-      },
-      {
-        "n": "Soup To Nuts w/ John Gómez",
-        "s": "2025-12-08T11:00:00Z",
-        "e": "2025-12-08T13:00:00Z",
-        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-8th-december-2025"
-      },
       {
         "n": "Raisa K w/ LOL K (live)",
         "s": "2025-12-08T13:00:00Z",
@@ -159,17 +143,17 @@
         "n": "Low Life Loves You w/ Bill Brewster",
         "s": "2025-12-09T13:00:00Z",
         "e": "2025-12-09T15:00:00Z",
-        "d": null,
+        "d": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/bill-brewster/episodes/bill-brewster-9th-december-2025"
       },
       {
         "n": "Self Soothe w/ Margeaux",
         "s": "2025-12-09T15:00:00Z",
         "e": "2025-12-09T16:00:00Z",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-9th-december-2025"
       },
       {
         "n": "Answering Machine w/ Meg Mills",
@@ -215,6 +199,14 @@
         "n": "DANIELLE",
         "s": "2025-12-09T21:00:00Z",
         "e": "2025-12-09T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MAXIMUM EXPOSURE POWER HOUR W/ TONY PRICE (R)",
+        "s": "2025-12-09T22:00:00Z",
+        "e": "2025-12-09T23:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -282,33 +274,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "nts2": [
-      {
-        "n": "SOS Radio (R)",
-        "s": "2025-12-08T09:00:00Z",
-        "e": "2025-12-08T11:00:00Z",
-        "d": "Stones Throw's Sofie presents SOS Radio - Everywhere Music 4 Every 1. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sos-radio/episodes/sos-radio-w-sofie-28th-april-2021"
       },
       {
-        "n": "3XL w/ august V. M.",
-        "s": "2025-12-08T11:00:00Z",
-        "e": "2025-12-08T12:00:00Z",
-        "d": "Transmissions from the Outer Rim/Inner Edge. “you know the gates themselves are made of flood.” -Nadia Marcus\nFrom the host: \"august V. M. a beautiful star living in seattle with a transmission from the heart~ ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/3xl/episodes/3xl-8th-december-2025"
-      },
-      {
-        "n": "C.A.R. : ON THE SLIP ROAD w/ Quinn Whalley",
-        "s": "2025-12-08T12:00:00Z",
-        "e": "2025-12-08T13:00:00Z",
+        "n": "BRADLEY ZERO PRESENTS: RHYTHM SECTION",
+        "s": "2025-12-10T13:00:00Z",
+        "e": "2025-12-10T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "nts2": [
       {
         "n": "WEAPONISE YOUR SOUND W/ Bull Horris",
         "s": "2025-12-08T13:00:00Z",
@@ -489,14 +465,22 @@
         "n": "Noura Mint Seymali",
         "s": "2025-12-09T13:00:00Z",
         "e": "2025-12-09T14:00:00Z",
-        "d": null,
+        "d": "Beloved Mauritanian griot, singer and multi-instrumentalist Noura Mint Seymali selects an hour of original music and inspirations, including tracks from Youssou N’dour, Pharoah Sanders, Anita Baker and more.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/noura-mint-seymali-9th-december-2025"
       },
       {
         "n": "ARRHYTHMIA",
         "s": "2025-12-09T14:00:00Z",
         "e": "2025-12-09T16:00:00Z",
+        "d": "Broadcasting out of Birmingham, Arrhythmia is a monthly exploration of interesting new audio and abnormal rhythms. Expect irregular, dark or heavy - but not always.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/ARRHYTHMIA/episodes/arrhythmia-9th-december-2025"
+      },
+      {
+        "n": "SOUNDS ON SCREEN: KORE-EDA (R)",
+        "s": "2025-12-09T16:00:00Z",
+        "e": "2025-12-09T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -604,33 +588,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "A Colourful Storm (R)",
+        "s": "2025-12-10T09:00:00Z",
+        "e": "2025-12-10T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "JIM O'ROURKE (R)",
+        "s": "2025-12-10T10:00:00Z",
+        "e": "2025-12-10T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2025-12-08T06:00:00Z",
-        "e": "2025-12-08T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "syncop8",
-        "s": "2025-12-08T11:00:00Z",
-        "e": "2025-12-08T12:00:00Z",
-        "d": "ixxi and Fei take you on a percussive journey with their show syncop8, moving from downtempo ambient to breaks, polyrhythms, and high energy beats, exploring every rhythmic and textural nuance in between.",
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "lot five two",
-        "s": "2025-12-08T12:00:00Z",
-        "e": "2025-12-08T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Bittersweet Sounds w/ Mass Hysteria",
         "s": "2025-12-08T13:00:00Z",
@@ -1718,17 +1694,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2025-12-08T10:00:00Z",
-        "e": "2025-12-08T12:00:00Z",
-        "d": null,
+        "n": "DIGDIS",
+        "s": "2025-12-16T11:00:00Z",
+        "e": "2025-12-16T13:00:00Z",
+        "d": "DIGDIS presents a selection of tracks that captures the vibrant and ever-evolving edges of dance music. Each show features a wide range of music that can be enjoyed both on the dancefloor and in more intimate listening spaces.\r\n",
         "j": null,
         "u": null
       },
+      {
+        "n": "drisk",
+        "s": "2025-12-16T13:00:00Z",
+        "e": "2025-12-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2025-12-08T12:00:00Z",
@@ -1821,6 +1805,14 @@
         "n": "sounds of NOW",
         "s": "2025-12-09T12:00:00Z",
         "e": "2025-12-09T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2025-12-09T14:00:00Z",
+        "e": "2025-12-09T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -2300,30 +2292,6 @@
     ],
     "rinse": [
       {
-        "n": "Tim Garcia",
-        "s": "2025-12-08T09:00:00Z",
-        "e": "2025-12-08T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "John Glacier",
-        "s": "2025-12-08T11:00:00Z",
-        "e": "2025-12-08T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Christine Kakaire",
-        "s": "2025-12-08T12:00:00Z",
-        "e": "2025-12-08T13:00:00Z",
-        "d": null,
-        "j": "Loose Tracks feat. NM DJ",
-        "u": null
-      },
-      {
         "n": "Nakeira",
         "s": "2025-12-08T13:00:00Z",
         "e": "2025-12-08T14:00:00Z",
@@ -2685,14 +2653,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2025-12-08T08:00:00Z",
-        "e": "2025-12-08T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "LES YEUX FERMÉS",
         "s": "2025-12-08T13:00:00Z",
