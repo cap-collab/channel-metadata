@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-10T16:56:08.630Z",
+  "updated": "2025-12-10T18:55:24.181Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Answering Machine w/ Meg Mills",
-        "s": "2025-12-09T16:00:00Z",
-        "e": "2025-12-09T17:00:00Z",
-        "d": "Transmitted from under the perpetually grey skies of West Yorkshire, fill your ears with a selection of sounds from hardcore/punk to metal, folk and more, curated by musician and Turnstile guitarist Meg Mills.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/meg-mills/episodes/meg-mills-9th-december-2025"
-      },
-      {
-        "n": "QUEST NO MORE W/ ELHEIST",
-        "s": "2025-12-09T17:00:00Z",
-        "e": "2025-12-09T18:00:00Z",
-        "d": "Elheist steers deep‑cuts, left‑field electronica, obscure grooves and sounds from the fam into the fold, where worlds collide, textures shift and surprises hit. check your quest, leave the rest.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/quest-no-more/episodes/quest-no-more-9th-december-2025"
-      },
       {
         "n": "NTS Guide to: French Rap and RNB Vol. 2",
         "s": "2025-12-09T18:00:00Z",
@@ -164,17 +148,19 @@
         "n": "TOUCHING BASS W/ ERROL & ALEX RITA",
         "s": "2025-12-10T18:00:00Z",
         "e": "2025-12-10T20:00:00Z",
-        "d": null,
+        "d": "Join Errol and the Touching Bass family every month for regular voyages into inner-city, concrete jungle productions plus astral-facing funk, jazz, broken beat and anything else with a soulful pulse.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/touching-bass/episodes/touching-bass-10th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "GIULIA TESS",
         "s": "2025-12-10T20:00:00Z",
         "e": "2025-12-10T21:00:00Z",
-        "d": null,
+        "d": "NTS's own Giulia Tess pulls us leftfield once a month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/giulia-tess/episodes/giulia-tess-10th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "TS7",
@@ -204,6 +190,15 @@
         "n": "DEEP GAY W/ KIM LANA (R)",
         "s": "2025-12-11T00:00:00Z",
         "e": "2025-12-11T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "MALA JUNTA W/ SOURCE:LINK (R)",
+        "s": "2025-12-11T02:00:00Z",
+        "e": "2025-12-11T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -291,27 +286,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS Guide to: Rare Groove Inspired Jungle",
+        "s": "2025-12-11T17:00:00Z",
+        "e": "2025-12-11T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "SOUNDS ON SCREEN: KORE-EDA (R)",
-        "s": "2025-12-09T16:00:00Z",
-        "e": "2025-12-09T17:00:00Z",
-        "d": "Exploring the cinematic universe inhabited by Japanese director Hirokazu Kore-eda, master of shomin-geki, the technique of magnifying small but significant human moments on film as opposed to grand dramatic conflict and tension. \n“I’ve learned to value ordinary life. And I still have a wish to portray that.”",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-kore-eda-9th-november-2023",
-        "t": "restream"
-      },
-      {
-        "n": "YU SU",
-        "s": "2025-12-09T17:00:00Z",
-        "e": "2025-12-09T18:00:00Z",
-        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-9th-december-2025",
-        "t": "monthly"
-      },
       {
         "n": "PENDER STREET STEPPERS w/ Second Spring",
         "s": "2025-12-09T18:00:00Z",
@@ -493,17 +478,17 @@
         "n": "Claire Milbrath",
         "s": "2025-12-10T18:00:00Z",
         "e": "2025-12-10T19:00:00Z",
-        "d": null,
+        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-10th-december-2025"
       },
       {
         "n": "Johnny Jewel: Music From The Cutting Room Floor",
         "s": "2025-12-10T19:00:00Z",
         "e": "2025-12-10T20:00:00Z",
-        "d": null,
+        "d": "This three part series is a curated selection of unreleased music, alternate mixes, film versions, & rarities from US composer, songwriter and artist Johnny Jewel’s diverse body of work. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/johnny-jewel/episodes/johnny-jewel-10th-december-2025"
       },
       {
         "n": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
@@ -623,25 +608,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Jimmy2Shoes",
-        "s": "2025-12-09T16:00:00Z",
-        "e": "2025-12-09T17:00:00Z",
-        "d": "Rolling through varied tempo's and genres, Jimmy 2 Shoes brings dance floor orientated vibes and flows to wriggle your toes to. Expect eclectic selections and the freshest sounds from the UK underground. ",
-        "j": null,
-        "u": null
       },
       {
-        "n": "Captain Lew",
-        "s": "2025-12-09T17:00:00Z",
-        "e": "2025-12-09T18:00:00Z",
+        "n": "YL HOOI",
+        "s": "2025-12-11T11:00:00Z",
+        "e": "2025-12-11T12:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "Happy Death",
+        "s": "2025-12-11T12:00:00Z",
+        "e": "2025-12-11T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Bardusco",
         "s": "2025-12-09T18:00:00Z",
@@ -818,6 +803,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2025-12-10T19:00:00Z",
+        "e": "2025-12-10T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Hazel",
@@ -1706,17 +1700,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Mike Harding and Bana Haffar - Long Wave",
-        "s": "2025-12-09T16:00:00Z",
-        "e": "2025-12-09T18:00:00Z",
+        "n": "MixRaw",
+        "s": "2025-12-17T17:00:00Z",
+        "e": "2025-12-17T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "Jeremiah Chiu – Some All None",
         "s": "2025-12-09T18:00:00Z",
@@ -2328,25 +2322,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Brighter Days Family",
-        "s": "2025-12-09T15:00:00Z",
-        "e": "2025-12-09T17:00:00Z",
-        "d": null,
-        "j": "Audio Sunrise Special",
-        "u": null
       },
       {
-        "n": "Maya Jama with Skye Newman",
-        "s": "2025-12-09T17:00:00Z",
-        "e": "2025-12-09T18:00:00Z",
+        "n": "Juan Izguerra – Low Profile",
+        "s": "2025-12-17T18:00:00Z",
+        "e": "2025-12-17T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "riria",
         "s": "2025-12-09T18:00:00Z",
@@ -2505,7 +2491,7 @@
         "s": "2025-12-10T19:00:00Z",
         "e": "2025-12-10T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B Freja",
         "u": null
       },
       {
@@ -2682,27 +2668,11 @@
         "s": "2025-12-11T23:00:00Z",
         "e": "2025-12-12T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Subez",
         "u": null
       }
     ],
     "rinsefr": [
-      {
-        "n": "Hey Bony B2B Nol4.44",
-        "s": "2025-12-09T16:00:00Z",
-        "e": "2025-12-09T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Missy The Kunt",
-        "s": "2025-12-09T17:00:00Z",
-        "e": "2025-12-09T18:00:00Z",
-        "d": null,
-        "j": "vs the Lanvin's",
-        "u": null
-      },
       {
         "n": "Sinjin Hawke",
         "s": "2025-12-09T18:00:00Z",
