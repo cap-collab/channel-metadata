@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2025-12-10T13:50:12.628Z",
+  "updated": "2025-12-10T14:51:59.016Z",
   "stations": {
     "nts1": [
       {
@@ -165,9 +165,9 @@
         "n": "MOXIE",
         "s": "2025-12-10T15:00:00Z",
         "e": "2025-12-10T17:00:00Z",
-        "d": null,
+        "d": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/moxie/episodes/moxie-10th-december-2025"
       },
       {
         "n": "TASH LC",
@@ -291,17 +291,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SECRET SUNDAZE",
+        "s": "2025-12-11T15:00:00Z",
+        "e": "2025-12-11T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Noura Mint Seymali",
-        "s": "2025-12-09T13:00:00Z",
-        "e": "2025-12-09T14:00:00Z",
-        "d": "Beloved Mauritanian griot, singer and multi-instrumentalist Noura Mint Seymali selects an hour of original music and inspirations, including tracks from Youssou N’dour, Pharoah Sanders, Anita Baker and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/noura-mint-seymali-9th-december-2025"
-      },
       {
         "n": "ARRHYTHMIA",
         "s": "2025-12-09T14:00:00Z",
@@ -485,9 +485,10 @@
         "n": "NO WEAPON IS ABSOLUTE w/ DJ Sundae",
         "s": "2025-12-10T15:00:00Z",
         "e": "2025-12-10T16:00:00Z",
-        "d": null,
+        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-10th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "Kokonut Trip w/ Ma Clément & Tim Koh",
@@ -613,17 +614,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "HOMUNKULI W/ LENA WILLIKENS (R)",
+        "s": "2025-12-11T08:00:00Z",
+        "e": "2025-12-11T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "CONE",
-        "s": "2025-12-09T13:00:00Z",
-        "e": "2025-12-09T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Hyrah ",
         "s": "2025-12-09T14:00:00Z",
@@ -1697,18 +1699,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Nabes",
+        "s": "2025-12-17T14:00:00Z",
+        "e": "2025-12-17T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2025-12-09T12:00:00Z",
-        "e": "2025-12-09T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2025-12-09T14:00:00Z",
@@ -2333,14 +2334,6 @@
     ],
     "rinse": [
       {
-        "n": "Savannah Blake",
-        "s": "2025-12-09T13:00:00Z",
-        "e": "2025-12-09T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "HABITAT",
         "s": "2025-12-09T14:00:00Z",
         "e": "2025-12-09T15:00:00Z",
@@ -2705,14 +2698,6 @@
     ],
     "rinsefr": [
       {
-        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
-        "s": "2025-12-09T13:00:00Z",
-        "e": "2025-12-09T14:00:00Z",
-        "d": null,
-        "j": "EP 01 : EBONY & IVORY w/ Sarah Bouchamama & Karelle",
-        "u": null
-      },
-      {
         "n": "Kiala Ogawa",
         "s": "2025-12-09T14:00:00Z",
         "e": "2025-12-09T15:00:00Z",
@@ -2804,7 +2789,7 @@
         "u": null
       },
       {
-        "n": "Andy4000",
+        "n": "Sinjin Hawke",
         "s": "2025-12-10T16:00:00Z",
         "e": "2025-12-10T17:00:00Z",
         "d": null,
@@ -2816,7 +2801,7 @@
         "s": "2025-12-10T17:00:00Z",
         "e": "2025-12-10T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "avec Franssouax",
         "u": null
       },
       {
@@ -2824,7 +2809,7 @@
         "s": "2025-12-10T18:00:00Z",
         "e": "2025-12-10T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "INVITE DJ SPIT",
         "u": null
       },
       {
