@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-10T06:57:51.656Z",
+  "updated": "2025-12-10T08:55:42.876Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOPHIA ZHURAVKOVA (R)",
-        "s": "2025-12-09T06:00:00Z",
-        "e": "2025-12-09T07:00:00Z",
-        "d": "Organic soundscapes, field recordings and melodic ambience from composer Sophia Zhuravkova.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sophia-zhuravkova/episodes/sophia-zhuravkova-18th-may-2025"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2025-12-09T07:00:00Z",
@@ -49,7 +41,8 @@
         "e": "2025-12-09T16:00:00Z",
         "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-9th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-9th-december-2025",
+        "t": "weekly"
       },
       {
         "n": "Answering Machine w/ Meg Mills",
@@ -105,7 +98,8 @@
         "e": "2025-12-09T23:00:00Z",
         "d": "Producer, DJ, L.I.E.S. Records recording artist and head of Maximum Exposure Inc.- Tony Price presents an action-packed mix of raw house, funk and freestyle recorded live in Greektown, Toronto..",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/maximum-exposure-power-hour-w-tony-price/episodes/maximum-exposure-power-hour-w-tony-price-27th-november-2024"
+        "u": "https://www.nts.live/api/v2/shows/maximum-exposure-power-hour-w-tony-price/episodes/maximum-exposure-power-hour-w-tony-price-27th-november-2024",
+        "t": "restream"
       },
       {
         "n": "ELENA COLOMBI - Live at Arkaoda Berlin",
@@ -129,7 +123,8 @@
         "e": "2025-12-10T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "We Are… w/ Paul Camo (R)",
@@ -137,7 +132,8 @@
         "e": "2025-12-10T05:00:00Z",
         "d": "Artist, graphic designer and DJ Paul Camo sets out to push the boundaries: free of all restrictions. Jump in the chat and listen as Paul Camo's WE ARE brings you on a voyage through the spectrum of jazz fusion, spiritual jazz, experimental jazz and everything in between. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/we-are/episodes/we-are-5th-july-2025"
+        "u": "https://www.nts.live/api/v2/shows/we-are/episodes/we-are-5th-july-2025",
+        "t": "restream"
       },
       {
         "n": "SOUNDS OF THE DAWN (R)",
@@ -145,7 +141,8 @@
         "e": "2025-12-10T07:00:00Z",
         "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-22nd-march-2025"
+        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-22nd-march-2025",
+        "t": "restream"
       },
       {
         "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
@@ -159,9 +156,9 @@
         "n": "The NTS Breakfast Show w/ Flo & Snuggle (Live)",
         "s": "2025-12-10T09:00:00Z",
         "e": "2025-12-10T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-10th-december-2025"
       },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
@@ -249,7 +246,8 @@
         "e": "2025-12-11T05:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Claire Milbrath (R)",
@@ -257,7 +255,8 @@
         "e": "2025-12-11T06:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Benedek (R)",
@@ -265,7 +264,8 @@
         "e": "2025-12-11T07:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "THE EARLY BIRD SHOW W/ PAM",
@@ -282,32 +282,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2025-12-11T11:00:00Z",
+        "e": "2025-12-11T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Mishka  (R)",
-        "s": "2025-12-09T06:00:00Z",
-        "e": "2025-12-09T07:00:00Z",
-        "d": "An auditory exploration with SF native Mishka ranging from synth pop and balearic to softrock and global dance gems. One hour, once a month, with love. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mishka/episodes/mishka-21st-june-2024"
-      },
-      {
-        "n": "KISS CAFE (R)",
-        "s": "2025-12-09T07:00:00Z",
-        "e": "2025-12-09T08:00:00Z",
-        "d": "Piper Durabo AKA Maraschino serves up an assortment of hyperdelic jams from her NYC HQ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/piper-durabo/episodes/piper-durabo-25th-march-2025"
-      },
       {
         "n": "TUFF SHED (R)",
         "s": "2025-12-09T08:00:00Z",
         "e": "2025-12-09T10:00:00Z",
         "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-1st-july-2025"
+        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-1st-july-2025",
+        "t": "restream"
       },
       {
         "n": "AN1MA (R)",
@@ -315,13 +308,14 @@
         "e": "2025-12-09T11:00:00Z",
         "d": "integration sounds from the source; an invitation into the shadow.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-21st-april-2025"
+        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-21st-april-2025",
+        "t": "restream"
       },
       {
         "n": "TRUE AS FEW W/ MARK",
         "s": "2025-12-09T11:00:00Z",
         "e": "2025-12-09T12:00:00Z",
-        "d": "Diving into classical composition with Mark aka Klon Dump…",
+        "d": "Diving into classical composition with Mark aka Klon Dump��",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/true-as-few/episodes/true-as-few-9th-december-2025"
       },
@@ -347,7 +341,8 @@
         "e": "2025-12-09T16:00:00Z",
         "d": "Broadcasting out of Birmingham, Arrhythmia is a monthly exploration of interesting new audio and abnormal rhythms. Expect irregular, dark or heavy - but not always.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ARRHYTHMIA/episodes/arrhythmia-9th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/ARRHYTHMIA/episodes/arrhythmia-9th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "SOUNDS ON SCREEN: KORE-EDA (R)",
@@ -355,7 +350,8 @@
         "e": "2025-12-09T17:00:00Z",
         "d": "Exploring the cinematic universe inhabited by Japanese director Hirokazu Kore-eda, master of shomin-geki, the technique of magnifying small but significant human moments on film as opposed to grand dramatic conflict and tension. \n“I’ve learned to value ordinary life. And I still have a wish to portray that.”",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-kore-eda-9th-november-2023"
+        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-kore-eda-9th-november-2023",
+        "t": "restream"
       },
       {
         "n": "YU SU",
@@ -363,7 +359,8 @@
         "e": "2025-12-09T18:00:00Z",
         "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-9th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-9th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "PENDER STREET STEPPERS w/ Second Spring",
@@ -395,7 +392,8 @@
         "e": "2025-12-10T00:00:00Z",
         "d": "Ahwlee & Pink Siifu (B. Cool-Aid) head up BRWN, exploring hip hop's varied and far-reaching experimental corners - live once a month from Los Angeles.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/brwn/episodes/brwn-9th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/brwn/episodes/brwn-9th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "West Coast Fog: Ode To The Whale Folk",
@@ -403,7 +401,8 @@
         "e": "2025-12-10T01:00:00Z",
         "d": "West Coast Fog with Erik Bluhm, broadcasts monthly from far-flung natural environments, bringing along site specific, privately released meditational music from past decades for a deeply involved sensory experience.\nFrom the host: \"Join West Coast Fog asea, at anchor, and eventually ashore. Sail with whales and listen to serene marine sounds from '80s and '90s cassettes.\"",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/west-coast-fog/episodes/west-coast-fog-10th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/west-coast-fog/episodes/west-coast-fog-10th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "Friends & Fiends: RVNG Intl. End of Year Reflection, 2025",
@@ -427,7 +426,8 @@
         "e": "2025-12-10T05:00:00Z",
         "d": "Atmospheric, complex, and influential drum and bass productions from Source Direct, the former duo that distinguished themselves as luminaries in breakbeat science in the mid-1990s. \nSelected and mixed by Tim Reaper. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-source-direct-10th-october-2025"
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-source-direct-10th-october-2025",
+        "t": "restream"
       },
       {
         "n": "Word of Command - Live from Drama Radio Bar, CDMX",
@@ -443,7 +443,8 @@
         "e": "2025-12-10T07:00:00Z",
         "d": "TRiNH - an hour of covers and nostalgic feels, playing a wide range of genres with a focus on L-O-V-E. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/trinh/episodes/trinh-6th-june-2025"
+        "u": "https://www.nts.live/api/v2/shows/trinh/episodes/trinh-6th-june-2025",
+        "t": "restream"
       },
       {
         "n": "INSOLAR w/ CAMI LAYÉ OKÚN (R)",
@@ -451,23 +452,26 @@
         "e": "2025-12-10T08:00:00Z",
         "d": "Cuban record collector, ethnomusicologist researcher, picks up a hour of global vinyl via Havana every months.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/cami-laye-okun/episodes/cami-laye-okun-20th-may-2025"
+        "u": "https://www.nts.live/api/v2/shows/cami-laye-okun/episodes/cami-laye-okun-20th-may-2025",
+        "t": "restream"
       },
       {
         "n": "Forager Records (R)",
         "s": "2025-12-10T08:00:00Z",
         "e": "2025-12-10T09:00:00Z",
-        "d": null,
+        "d": "Forager Records is a Los Angeles based record label, committed to unearthing and breathing new life into rare and under appreciated sounds from the past. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/forager-records/episodes/forager-records-25th-april-2024",
+        "t": "restream"
       },
       {
         "n": "A Colourful Storm (R)",
         "s": "2025-12-10T09:00:00Z",
         "e": "2025-12-10T10:00:00Z",
-        "d": null,
+        "d": "A Colourful Storm from label head Moopie, featuring contemplative ambience, folksong and indie-pop melancholia, contemporary electronics and beyond.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/a-colourful-storm/episodes/a-colourful-storm-21st-april-2025",
+        "t": "restream"
       },
       {
         "n": "JIM O'ROURKE (R)",
@@ -475,7 +479,8 @@
         "e": "2025-12-10T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Olan Monk",
@@ -550,17 +555,18 @@
         "u": null
       },
       {
-        "n": "SOLID STATE SURVIVOR W/ SHAGS CHAMBERLAIN",
+        "n": "SOLID STATE SURVIVOR W/ SHAGS CHAMBERLAIN (R)",
         "s": "2025-12-10T21:00:00Z",
         "e": "2025-12-10T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Idle Hands w/ ZANE LANDRETH",
         "s": "2025-12-10T22:00:00Z",
-        "e": "2025-12-10T23:00:00Z",
+        "e": "2025-12-11T00:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -574,6 +580,24 @@
         "u": null
       },
       {
+        "n": "Mishka (R)",
+        "s": "2025-12-11T01:00:00Z",
+        "e": "2025-12-11T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "In Focus: Algebra Suicide (R)",
+        "s": "2025-12-11T02:00:00Z",
+        "e": "2025-12-11T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "DISCOSTAN",
         "s": "2025-12-11T03:00:00Z",
         "e": "2025-12-11T04:00:00Z",
@@ -583,22 +607,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2025-12-09T06:00:00Z",
-        "e": "2025-12-09T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Sparring Sessions",
-        "s": "2025-12-09T07:00:00Z",
-        "e": "2025-12-09T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Breakfast Spoons w/ Boruch",
         "s": "2025-12-09T08:00:00Z",
@@ -621,7 +629,8 @@
         "e": "2025-12-09T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Lucidik ",
@@ -661,7 +670,8 @@
         "e": "2025-12-09T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Jimmy2Shoes",
@@ -773,7 +783,8 @@
         "e": "2025-12-10T09:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "AR1AH ",
@@ -1686,24 +1697,33 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Daniel T - Crosseyed and Painless",
-        "s": "2025-12-09T06:00:00Z",
-        "e": "2025-12-09T08:00:00Z",
+        "n": "SJH",
+        "s": "2025-12-17T07:00:00Z",
+        "e": "2025-12-17T08:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "BLACK SHEEP RADIO by LEFTY",
+        "s": "2025-12-17T08:00:00Z",
+        "e": "2025-12-17T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2025-12-09T08:00:00Z",
         "e": "2025-12-09T10:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -1711,7 +1731,8 @@
         "e": "2025-12-09T12:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -1719,7 +1740,8 @@
         "e": "2025-12-09T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -1727,7 +1749,8 @@
         "e": "2025-12-09T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Mike Harding and Bana Haffar - Long Wave",
@@ -1799,7 +1822,8 @@
         "e": "2025-12-10T10:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -1807,7 +1831,8 @@
         "e": "2025-12-10T12:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -1815,7 +1840,8 @@
         "e": "2025-12-10T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -1823,7 +1849,8 @@
         "e": "2025-12-10T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "The Urxed - Seeing It As You Really Are",
@@ -1879,7 +1906,8 @@
         "e": "2025-12-11T04:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Rusty Santos - Microworlds",
@@ -1911,7 +1939,8 @@
         "e": "2025-12-11T12:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -1919,7 +1948,8 @@
         "e": "2025-12-11T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -1927,7 +1957,8 @@
         "e": "2025-12-11T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -1935,7 +1966,8 @@
         "e": "2025-12-11T16:30:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -2071,7 +2103,8 @@
         "e": "2025-12-13T10:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -2079,7 +2112,8 @@
         "e": "2025-12-13T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "RERUN: Pinchy Don – In the Shade of the Palm",
@@ -2215,7 +2249,8 @@
         "e": "2025-12-15T08:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Andrew Goldberg - Rainy Day Fund",
@@ -2332,20 +2367,13 @@
     ],
     "rinse": [
       {
-        "n": "CoOp Presents",
-        "s": "2025-12-09T05:00:00Z",
-        "e": "2025-12-09T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Playlist",
         "s": "2025-12-09T07:00:00Z",
         "e": "2025-12-09T09:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Papaoul",
@@ -2489,7 +2517,8 @@
         "e": "2025-12-10T09:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Esk",
@@ -2641,7 +2670,8 @@
         "e": "2025-12-11T09:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Yazmin Lacey",
@@ -2735,19 +2765,12 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2025-12-08T23:00:00Z",
-        "e": "2025-12-09T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Playlist France",
         "s": "2025-12-09T08:00:00Z",
         "e": "2025-12-09T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
@@ -2811,7 +2834,8 @@
         "e": "2025-12-09T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Playlist France",
@@ -2819,7 +2843,8 @@
         "e": "2025-12-10T08:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Playlist France",
@@ -2827,10 +2852,11 @@
         "e": "2025-12-10T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
-        "n": "JP MANO",
+        "n": "Black Square Club",
         "s": "2025-12-10T13:00:00Z",
         "e": "2025-12-10T15:00:00Z",
         "d": null,
@@ -2838,15 +2864,15 @@
         "u": null
       },
       {
-        "n": "Tysha Cee",
+        "n": "ShayBySchai",
         "s": "2025-12-10T15:00:00Z",
         "e": "2025-12-10T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "LINLIN",
         "u": null
       },
       {
-        "n": "Maquis Sale",
+        "n": "Andy4000",
         "s": "2025-12-10T16:00:00Z",
         "e": "2025-12-10T17:00:00Z",
         "d": null,
@@ -2854,23 +2880,23 @@
         "u": null
       },
       {
-        "n": "Bad Tips",
+        "n": "Menace Progressive",
         "s": "2025-12-10T17:00:00Z",
         "e": "2025-12-10T18:00:00Z",
         "d": null,
-        "j": "anyoneID b2b gboi",
+        "j": null,
         "u": null
       },
       {
-        "n": "Vitaline",
+        "n": "RONI",
         "s": "2025-12-10T18:00:00Z",
         "e": "2025-12-10T19:00:00Z",
         "d": null,
-        "j": "Invité Dju:n",
+        "j": null,
         "u": null
       },
       {
-        "n": "XX LAB avec François X",
+        "n": "Élise Massoni",
         "s": "2025-12-10T19:00:00Z",
         "e": "2025-12-10T20:00:00Z",
         "d": null,
@@ -2880,10 +2906,86 @@
       {
         "n": "Playlist France",
         "s": "2025-12-10T20:00:00Z",
-        "e": "2025-12-10T21:00:00Z",
+        "e": "2025-12-10T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-10T23:00:00Z",
+        "e": "2025-12-11T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-11T08:00:00Z",
+        "e": "2025-12-11T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "JP MANO",
+        "s": "2025-12-11T13:00:00Z",
+        "e": "2025-12-11T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Tysha Cee",
+        "s": "2025-12-11T15:00:00Z",
+        "e": "2025-12-11T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Maquis Sale",
+        "s": "2025-12-11T16:00:00Z",
+        "e": "2025-12-11T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Bad Tips",
+        "s": "2025-12-11T17:00:00Z",
+        "e": "2025-12-11T18:00:00Z",
+        "d": null,
+        "j": "anyoneID b2b gboi",
+        "u": null
+      },
+      {
+        "n": "Vitaline",
+        "s": "2025-12-11T18:00:00Z",
+        "e": "2025-12-11T19:00:00Z",
+        "d": null,
+        "j": "Invité Dju:n",
+        "u": null
+      },
+      {
+        "n": "XX LAB avec François X",
+        "s": "2025-12-11T19:00:00Z",
+        "e": "2025-12-11T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-11T20:00:00Z",
+        "e": "2025-12-11T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ]
   }
