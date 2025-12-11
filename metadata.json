@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-11T20:39:48.637Z",
+  "updated": "2025-12-11T22:41:47.942Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GIULIA TESS",
-        "s": "2025-12-10T20:00:00Z",
-        "e": "2025-12-10T21:00:00Z",
-        "d": "NTS's own Giulia Tess pulls us leftfield once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/giulia-tess/episodes/giulia-tess-10th-december-2025",
-        "t": "monthly"
-      },
-      {
-        "n": "TS7",
-        "s": "2025-12-10T21:00:00Z",
-        "e": "2025-12-10T22:00:00Z",
-        "d": "Bassline, 4x4, speed garage, niche… Whatever you wanna call it, Bradford veteran TS7 is bringing the Northern dance sound to a whole new generation. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ts7-10th-december-2025"
-      },
       {
         "n": "THE TWINS",
         "s": "2025-12-10T22:00:00Z",
@@ -175,9 +158,9 @@
         "n": "DON'T TRIP W/ MARGARITA",
         "s": "2025-12-12T00:00:00Z",
         "e": "2025-12-12T02:00:00Z",
-        "d": null,
+        "d": "Somewhere between banging your head against a brick wall and holding your breath under water.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dont-trip/episodes/dont-trip-12th-december-2025"
       },
       {
         "n": "Lee Gamble (R)",
@@ -302,27 +285,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NOSEDRIP (R)",
+        "s": "2025-12-13T02:00:00Z",
+        "e": "2025-12-13T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
-        "s": "2025-12-10T20:00:00Z",
-        "e": "2025-12-10T21:00:00Z",
-        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures.\nFrom the host: \"Thanks for tuning in this year. Happy holidays ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-10th-december-2025",
-        "t": "monthly"
-      },
-      {
-        "n": "SOLID STATE SURVIVOR W/ SHAGS CHAMBERLAIN (R)",
-        "s": "2025-12-10T21:00:00Z",
-        "e": "2025-12-10T22:00:00Z",
-        "d": "Broadcasting from LA, Shags dives deep into his wild array of records, bringing a strong thematic focus each month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/solid-state-survivor/episodes/solid-state-survivor-28th-may-2025",
-        "t": "restream"
-      },
       {
         "n": "Idle Hands w/ ZANE LANDRETH",
         "s": "2025-12-10T22:00:00Z",
@@ -531,17 +505,19 @@
         "n": "Carlos René: Ofrenda",
         "s": "2025-12-11T22:00:00Z",
         "e": "2025-12-11T23:00:00Z",
-        "d": null,
+        "d": "Join us for monthly sessions with Carlos René, co-founder of Casa Calypso record shop in Mexico City. Carlos specializes in uncovering rare Latin American recordings and has a passion for a diverse range of genres, including cumbia, Latin funk, Mexican garage rock & psych, boogaloo, and other rare grooves. Let Carlos take you on a captivating musical journey through the vibrant sounds of Latin America that will keep you grooving any time of the day.\nFrom the host: \"Tracks with sweat, strangeness, and a little magic. You'll hear disco with a twist, funky tropical detours, oddball covers, drifting marimbas, wandering synth lines, and a few unexpected sounds from places that know how to move you, even when they're not built for the dancefloor. A small Ofrenda\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/carlos-rene/episodes/carlos-rene-11th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "Budgie - Panty Soakers 7 Premiere",
         "s": "2025-12-11T23:00:00Z",
         "e": "2025-12-12T00:00:00Z",
-        "d": null,
+        "d": "BUDGIE – serving up jazz, hip-hop, soul, beats & more from his sprawling record collection, once a month from our LA studio.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/budgie/episodes/budgie-11th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "CASUAL PLAY W/ INFINITE JESS",
@@ -660,17 +636,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Hazel",
-        "s": "2025-12-10T20:00:00Z",
-        "e": "2025-12-10T21:00:00Z",
+        "n": "SARA A",
+        "s": "2025-12-12T18:00:00Z",
+        "e": "2025-12-12T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "SHELLS",
+        "s": "2025-12-12T19:00:00Z",
+        "e": "2025-12-12T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Marauder & Meg",
         "s": "2025-12-10T21:00:00Z",
@@ -1770,17 +1754,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Jeff Weiss - POW Radio",
-        "s": "2025-12-10T20:00:00Z",
-        "e": "2025-12-10T22:00:00Z",
-        "d": null,
+        "n": "DJ Jedah ",
+        "s": "2025-12-18T21:00:00Z",
+        "e": "2025-12-18T22:00:00Z",
+        "d": "Jedah started DJ'ing at the tender age of 18 years of age specialising in UK Garage/Grime. \r\n\r\nJedah is currently the DJ for Grime Original Hollowman Jendor of the former Grime Collective Essentials/ OG's.",
         "j": null,
         "u": null
       },
+      {
+        "n": "The Mean Streets Show",
+        "s": "2025-12-18T22:00:00Z",
+        "e": "2025-12-19T00:00:00Z",
+        "d": "Responsible for “that massive grime tune with the Psycho strings”, UK producers/DJs Trends & Boylan are well versed in what the scene has to offer. They use this platform to showcase music from across the 140 spectrum from Grime to Dubstep. Anything goes!!",
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "Danny Holloway - Heads Up",
         "s": "2025-12-10T22:00:00Z",
@@ -2007,6 +1999,14 @@
         "u": null
       },
       {
+        "n": "Archi Deep – guest session",
+        "s": "2025-12-12T22:00:00Z",
+        "e": "2025-12-12T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "DJ The Witching Hours - Centrifugues",
         "s": "2025-12-12T23:00:00Z",
         "e": "2025-12-13T00:00:00Z",
@@ -2057,8 +2057,35 @@
       },
       {
         "n": "sounds of NOW",
+        "s": "2025-12-13T10:00:00Z",
+        "e": "2025-12-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
         "s": "2025-12-13T12:00:00Z",
         "e": "2025-12-13T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2025-12-13T14:00:00Z",
+        "e": "2025-12-13T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2025-12-13T16:00:00Z",
+        "e": "2025-12-13T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2081,7 +2108,7 @@
         "u": null
       },
       {
-        "n": "FTM: Hoseh",
+        "n": "FTV: Hoseh",
         "s": "2025-12-13T20:00:00Z",
         "e": "2025-12-13T20:40:00Z",
         "d": null,
@@ -2412,14 +2439,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Youngsta B2B J:Kenzo with SP:MC",
-        "s": "2025-12-10T20:00:00Z",
-        "e": "2025-12-10T22:00:00Z",
-        "d": null,
-        "j": "From The Vault (2016)",
-        "u": null
-      },
       {
         "n": "dBridge",
         "s": "2025-12-10T22:00:00Z",
