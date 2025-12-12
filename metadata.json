@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-12T14:37:57.406Z",
+  "updated": "2025-12-12T16:48:16.179Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Fauzia",
-        "s": "2025-12-11T14:00:00Z",
-        "e": "2025-12-11T15:00:00Z",
-        "d": "Longtime NTS resident, producer, vocalist and DJ Fauzia guides us through the multiplicity of her influences and tastes for an hour each month. Expect everything from frenetic club productions to classical composition, experimental electronics and beyond. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fauzia/episodes/fauzia-11th-december-2025"
-      },
       {
         "n": "SECRET SUNDAZE: 'Flashlight' / Blues Dance special w/ Ed Gillett & David Llewellyn",
         "s": "2025-12-11T15:00:00Z",
@@ -151,17 +143,19 @@
         "n": "SELASSIE TBC w/ BRICKNASTY",
         "s": "2025-12-12T16:00:00Z",
         "e": "2025-12-12T17:00:00Z",
-        "d": null,
+        "d": "Pattern Sounds co-founder Selassie TBC delivers an hour of straight jams every month. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/selassie-tbc/episodes/selassie-tbc-12th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "CHARISSE C",
         "s": "2025-12-12T17:00:00Z",
         "e": "2025-12-12T18:00:00Z",
-        "d": null,
+        "d": "Charisse C takes us on a monthly journey through an electronic soundscape birthed by the melting pot which raised her, anchored by South African giants Amapiano & Gqom, featuring soulful, bass-heavy & playful selections.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/charisse-c/episodes/charisse-c-12th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "RUF DUG - live from The Dub Techno Chess Club",
@@ -199,6 +193,15 @@
         "n": "Lukid (R)",
         "s": "2025-12-12T23:00:00Z",
         "e": "2025-12-13T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Low Company (R)",
+        "s": "2025-12-13T00:00:00Z",
+        "e": "2025-12-13T02:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -293,23 +296,6 @@
       }
     ],
     "nts2": [
-      {
-        "n": "Starmirror w/ Holly Herndon & Mat Dryhurst",
-        "s": "2025-12-11T14:00:00Z",
-        "e": "2025-12-11T15:00:00Z",
-        "d": "An in conversation with musicians, technologists, and longtime collaborators Holly Herndon & Mat Dryhurst, featuring AI choirs and soundscapes from their new exhibition at the KW Institute for Contemporary Art in Berlin, entitled \"Starmirror\", on view until 18.01.26. Together, they reflect on their shared practice across machine learning, AI, and their musical influences, and present selections from the installation.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/starmirror-holly-herndon-mat-dryhurst-11th-december-2025"
-      },
-      {
-        "n": "GEORGIA",
-        "s": "2025-12-11T15:00:00Z",
-        "e": "2025-12-11T16:00:00Z",
-        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-11th-december-2025",
-        "t": "monthly"
-      },
       {
         "n": "AUTOTUNE THE WORLD W/ CHRISTOPHER KIRKLEY",
         "s": "2025-12-11T16:00:00Z",
@@ -501,17 +487,18 @@
         "n": "DISCO PICKLES W/ DRY CLEANING",
         "s": "2025-12-12T16:00:00Z",
         "e": "2025-12-12T17:00:00Z",
-        "d": null,
+        "d": "The South London postpunk crew take control sharing an hour of selections every month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dry-cleaning/episodes/dry-cleaning-12th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "OLIVIA O. w/ Avsha",
         "s": "2025-12-12T17:00:00Z",
         "e": "2025-12-12T18:00:00Z",
-        "d": null,
+        "d": "Olivia O. — musician, multidisciplinary artist, performing under Lowertown, Olivia O., and child star — delivers a set blending cult discoveries, current obsessions, and deep cuts from her collaborators and the NYC underground.\nFrom the host: \"An eclectic mix of Holiday Cheer, Screamo,  Folk , Jazz & other good tracks guest starring Avsha (Olivia's best friend and fellow bandmate of Lowertown)\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/olivia-o/episodes/olivia-o-12th-december-2025"
       },
       {
         "n": "SARA A",
@@ -631,25 +618,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ABSOLUTE FICTION",
+        "s": "2025-12-13T12:00:00Z",
+        "e": "2025-12-13T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "CHARLIE SATSUMAS",
+        "s": "2025-12-13T13:00:00Z",
+        "e": "2025-12-13T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
       }
     ],
     "subtle": [
-      {
-        "n": "Marigold",
-        "s": "2025-12-11T14:00:00Z",
-        "e": "2025-12-11T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "JOBU & Anuku",
-        "s": "2025-12-11T15:00:00Z",
-        "e": "2025-12-11T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Subtle Selects",
         "s": "2025-12-11T16:00:00Z",
@@ -1728,27 +1717,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Delian Sound",
+        "s": "2025-12-19T15:00:00Z",
+        "e": "2025-12-19T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "The All Colours Show",
+        "s": "2025-12-19T16:00:00Z",
+        "e": "2025-12-19T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2025-12-11T14:00:00Z",
-        "e": "2025-12-11T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2025-12-11T16:00:00Z",
-        "e": "2025-12-11T16:30:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "LARAAJI and OUT THERE",
         "s": "2025-12-11T16:30:00Z",
@@ -2359,14 +2346,6 @@
     ],
     "rinse": [
       {
-        "n": "Omar+",
-        "s": "2025-12-11T14:00:00Z",
-        "e": "2025-12-11T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Tom Ravenscroft",
         "s": "2025-12-11T15:00:00Z",
         "e": "2025-12-11T17:00:00Z",
@@ -2514,7 +2493,7 @@
         "u": null
       },
       {
-        "n": "HERAS Records with Klose One & Jonny Banger",
+        "n": "Heras Records with Klose One & Jonny Banger",
         "s": "2025-12-12T18:00:00Z",
         "e": "2025-12-12T20:00:00Z",
         "d": null,
@@ -2609,7 +2588,7 @@
         "s": "2025-12-13T09:00:00Z",
         "e": "2025-12-13T11:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Om Being",
         "u": null,
         "t": "weekly"
       },
@@ -2618,7 +2597,7 @@
         "s": "2025-12-13T11:00:00Z",
         "e": "2025-12-13T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Behind This Wall",
         "u": null,
         "t": "weekly"
       },
@@ -2627,7 +2606,7 @@
         "s": "2025-12-13T13:00:00Z",
         "e": "2025-12-13T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Eastern Bloc Records with Kieran Jandu & Mikey D.O.N",
         "u": null,
         "t": "weekly"
       },
@@ -2636,7 +2615,7 @@
         "s": "2025-12-13T15:00:00Z",
         "e": "2025-12-13T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Alan Fitzpatrick",
         "u": null
       },
       {
@@ -2653,7 +2632,7 @@
         "s": "2025-12-13T17:00:00Z",
         "e": "2025-12-13T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B Fíglio Böler",
         "u": null,
         "t": "biweekly"
       },
@@ -2662,7 +2641,7 @@
         "s": "2025-12-13T18:00:00Z",
         "e": "2025-12-13T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Mac Seldom",
         "u": null
       },
       {
@@ -2670,7 +2649,7 @@
         "s": "2025-12-13T20:00:00Z",
         "e": "2025-12-13T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "@ Sub Club",
         "u": null
       },
       {
@@ -2691,22 +2670,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Record Makers",
-        "s": "2025-12-11T14:00:00Z",
-        "e": "2025-12-11T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Dann SSV",
-        "s": "2025-12-11T15:00:00Z",
-        "e": "2025-12-11T16:00:00Z",
-        "d": null,
-        "j": "L’EXIL",
-        "u": null
-      },
       {
         "n": "Fervo Fluxo",
         "s": "2025-12-11T16:00:00Z",
@@ -2795,7 +2758,7 @@
         "s": "2025-12-12T16:00:00Z",
         "e": "2025-12-12T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ant Fervo",
         "u": null
       },
       {
