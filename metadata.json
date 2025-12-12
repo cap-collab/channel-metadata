@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-12T06:58:25.339Z",
+  "updated": "2025-12-12T08:56:52.715Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Benedek (R)",
-        "s": "2025-12-11T06:00:00Z",
-        "e": "2025-12-11T07:00:00Z",
-        "d": "Los Angeles native & synth pioneer Benedek blends ambient, boogie, funk & more, once a month from our LA studio. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/benedek/episodes/benedek-23th-august-2019",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ PAM",
         "s": "2025-12-11T07:00:00Z",
@@ -140,21 +131,20 @@
         "t": "restream"
       },
       {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & enya",
         "s": "2025-12-12T07:00:00Z",
         "e": "2025-12-12T09:00:00Z",
         "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-12th-december-2025",
-        "t": "weekly"
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-12th-december-2025"
       },
       {
         "n": "THE NTS BREAKFAST SHOW w/ FINN",
         "s": "2025-12-12T09:00:00Z",
         "e": "2025-12-12T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-finn-12th-december-2025"
       },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
@@ -282,27 +272,18 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "ROSS ALLEN",
+        "s": "2025-12-13T12:00:00Z",
+        "e": "2025-12-13T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "TUESDAY TRIPS (R)",
-        "s": "2025-12-11T06:00:00Z",
-        "e": "2025-12-11T07:00:00Z",
-        "d": "NahhG hosts Tuesday Trips, exploring the different sounds of underground beats and hip-hop alongside special guest mixes from current beatmakers and curators. - Live once a month",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tuesday-trips/episodes/tuesday-trips-22nd-april-2025",
-        "t": "restream"
-      },
-      {
-        "n": "NO ID RADIO W/ ANYSIA KYM (R)",
-        "s": "2025-12-11T07:00:00Z",
-        "e": "2025-12-11T08:00:00Z",
-        "d": "NYC-based producer, songwriter, and multi-instrumentalist Anysia Kym shares a monthly compilation of her favourite tracks, right now and of all time; she flips a song of her choice at the start of each hour-long episode.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/anysia-kym/episodes/anysia-kym-14th-february-2025",
-        "t": "restream"
-      },
       {
         "n": "HOMUNKULI W/ LENA WILLIKENS (R)",
         "s": "2025-12-11T08:00:00Z",
@@ -512,18 +493,18 @@
         "n": "Trapdoor w/ Neil Krug (R)",
         "s": "2025-12-12T08:00:00Z",
         "e": "2025-12-12T09:00:00Z",
-        "d": null,
+        "d": "To Sir, With Love: A sound collage to honor one of the greatest composers in history, Sir Paul McCartney, on his 83rd birthday.\nImage of Sir Paul McCartney by Richard Avedon. August 1967.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/neil-krug/episodes/neil-krug-18th-june-2025",
         "t": "restream"
       },
       {
         "n": "ICHIKO AOBA (R)",
         "s": "2025-12-12T09:00:00Z",
         "e": "2025-12-12T10:00:00Z",
-        "d": null,
+        "d": "Diving into the dreamscape of Japanese ambient folk phenomenon Ichiko Aoba. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ichiko-aoba/episodes/ichiko-aoba-21st-november-2023",
         "t": "restream"
       },
       {
@@ -641,18 +622,27 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2025-12-11T05:00:00Z",
-        "e": "2025-12-11T08:00:00Z",
+        "n": "Bad Vibes w/ Eyedress (R)",
+        "s": "2025-12-13T06:00:00Z",
+        "e": "2025-12-13T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream"
       },
+      {
+        "n": "Image Search (R)",
+        "s": "2025-12-13T07:00:00Z",
+        "e": "2025-12-13T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Making Hay w/natdav",
         "s": "2025-12-11T08:00:00Z",
@@ -1751,14 +1741,6 @@
     ],
     "dublab": [
       {
-        "n": "Laura Shumate - Indoor Cats",
-        "s": "2025-12-11T06:00:00Z",
-        "e": "2025-12-11T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
         "s": "2025-12-11T08:00:00Z",
         "e": "2025-12-11T10:00:00Z",
@@ -2412,14 +2394,6 @@
     ],
     "rinse": [
       {
-        "n": "Brighter Days Family",
-        "s": "2025-12-11T05:00:00Z",
-        "e": "2025-12-11T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Playlist",
         "s": "2025-12-11T07:00:00Z",
         "e": "2025-12-11T09:00:00Z",
@@ -2798,15 +2772,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2025-12-10T23:00:00Z",
-        "e": "2025-12-11T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2025-12-11T08:00:00Z",
         "e": "2025-12-11T13:00:00Z",
         "d": null,
@@ -2898,11 +2863,11 @@
         "t": "playlist"
       },
       {
-        "n": "Whitney Weiss",
+        "n": "Club Mycélium",
         "s": "2025-12-12T13:00:00Z",
-        "e": "2025-12-12T15:00:00Z",
+        "e": "2025-12-12T14:00:00Z",
         "d": null,
-        "j": "the It's Whitney, Bitch Year-End Special with Enzio Etchaberri and Mark Holcomb",
+        "j": "invite V.I.E. (DJ set)",
         "u": null
       },
       {
@@ -2914,41 +2879,49 @@
         "u": null
       },
       {
-        "n": "Moog Diez",
+        "n": "Dann SSV",
         "s": "2025-12-12T15:00:00Z",
         "e": "2025-12-12T16:00:00Z",
+        "d": null,
+        "j": "L’EXIL",
+        "u": null
+      },
+      {
+        "n": "Fervo Fluxo",
+        "s": "2025-12-12T16:00:00Z",
+        "e": "2025-12-12T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Otto Diva",
-        "s": "2025-12-12T16:00:00Z",
-        "e": "2025-12-12T17:00:00Z",
-        "d": null,
-        "j": "invite IXPE",
-        "u": null
-      },
-      {
-        "n": "Curses",
+        "n": "Mystique",
         "s": "2025-12-12T17:00:00Z",
         "e": "2025-12-12T18:00:00Z",
         "d": null,
-        "j": "Together Alone",
+        "j": null,
         "u": null
       },
       {
-        "n": "Public System Recordings",
+        "n": "Antilogic",
         "s": "2025-12-12T18:00:00Z",
         "e": "2025-12-12T19:00:00Z",
         "d": null,
-        "j": "MYN invite WHITE MATERIAL avec GALCHER LUSTWERK - YOUNG MALE & DJ RICHARD",
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Trois-Quarts Taxi System",
+        "s": "2025-12-12T19:00:00Z",
+        "e": "2025-12-12T20:00:00Z",
+        "d": null,
+        "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2025-12-12T19:00:00Z",
-        "e": "2025-12-12T20:00:00Z",
+        "s": "2025-12-12T20:00:00Z",
+        "e": "2025-12-12T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2956,8 +2929,66 @@
       },
       {
         "n": "Playlist France",
-        "s": "2025-12-12T20:00:00Z",
-        "e": "2025-12-12T21:00:00Z",
+        "s": "2025-12-12T23:00:00Z",
+        "e": "2025-12-13T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-13T08:00:00Z",
+        "e": "2025-12-13T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Whitney Weiss",
+        "s": "2025-12-13T13:00:00Z",
+        "e": "2025-12-13T15:00:00Z",
+        "d": null,
+        "j": "the It's Whitney, Bitch Year-End Special with Enzio Etchaberri and Mark Holcomb",
+        "u": null
+      },
+      {
+        "n": "Moog Diez",
+        "s": "2025-12-13T15:00:00Z",
+        "e": "2025-12-13T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Otto Diva",
+        "s": "2025-12-13T16:00:00Z",
+        "e": "2025-12-13T17:00:00Z",
+        "d": null,
+        "j": "invite IXPE",
+        "u": null
+      },
+      {
+        "n": "Curses",
+        "s": "2025-12-13T17:00:00Z",
+        "e": "2025-12-13T18:00:00Z",
+        "d": null,
+        "j": "Together Alone",
+        "u": null
+      },
+      {
+        "n": "Public System Recordings",
+        "s": "2025-12-13T18:00:00Z",
+        "e": "2025-12-13T19:00:00Z",
+        "d": null,
+        "j": "MYN invite WHITE MATERIAL avec GALCHER LUSTWERK - YOUNG MALE & DJ RICHARD",
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-13T19:00:00Z",
+        "e": "2025-12-13T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
