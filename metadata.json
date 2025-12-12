@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-12T08:56:52.715Z",
+  "updated": "2025-12-12T10:49:16.378Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2025-12-11T07:00:00Z",
-        "e": "2025-12-11T09:00:00Z",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-11th-december-2025",
-        "t": "weekly"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2025-12-11T09:00:00Z",
@@ -150,9 +141,9 @@
         "n": "SOUP TO NUTS W/ SCARY THINGS",
         "s": "2025-12-12T11:00:00Z",
         "e": "2025-12-12T13:00:00Z",
-        "d": null,
+        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-12th-december-2025",
         "t": "weekly"
       },
       {
@@ -164,7 +155,7 @@
         "u": null
       },
       {
-        "n": "FREEWATER w/ Wasé Taiwo + VNTAGEPARADISE",
+        "n": "FREEWATER w/ WEAREALLCHEMICALS",
         "s": "2025-12-12T14:00:00Z",
         "e": "2025-12-12T15:00:00Z",
         "d": null,
@@ -188,13 +179,12 @@
         "u": null
       },
       {
-        "n": "RUF DUG",
+        "n": "RUF DUG - live from The Dub Techno Chess Club",
         "s": "2025-12-12T18:00:00Z",
         "e": "2025-12-12T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
         "n": "OH OH W KO_OL & CO",
@@ -281,27 +271,17 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "TARZSA",
+        "s": "2025-12-13T14:00:00Z",
+        "e": "2025-12-13T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "HOMUNKULI W/ LENA WILLIKENS (R)",
-        "s": "2025-12-11T08:00:00Z",
-        "e": "2025-12-11T09:00:00Z",
-        "d": "New explorations in sounds from one of the most esteemed selectors in Europe, Lena Willikens.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/homunkuli/episodes/homunkuli-27th-march-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Gribs (R)",
-        "s": "2025-12-11T09:00:00Z",
-        "e": "2025-12-11T10:00:00Z",
-        "d": "Life on wide mode.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gribs/episodes/gribs-9th-january-2023",
-        "t": "restream"
-      },
       {
         "n": "Maiba Taya!: Vintage Filipino Songs and the Echoes of Folk Memory",
         "s": "2025-12-11T10:00:00Z",
@@ -520,17 +500,17 @@
         "n": "In Focus: Popol Vuh",
         "s": "2025-12-12T10:33:00Z",
         "e": "2025-12-12T13:00:00Z",
-        "d": null,
+        "d": "Popol Vuh – the musical collective founded by German keyboardist Florian Fricke – is inseperable from Fricke himself. The spiritual engine of the project, Fricke was a true citizen of the world, well travelled and resolutely open minded, absorbing new cultures, spiritualities, and most importantly music with studious interest. \nFricke accquired one of the first Moog II synthesisers in Europe in 1969, and thus Popol Vuh began as a pioneering electronic music act. Eventually Fricke and his collective abandoned electronic for expansive accoustic arrangements inspired by pre-Colombian American music, Tibetan music, African music and beyond, often working in tandem with another singular German auteur – filmmaker Werner Herzog. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-popol-vuh-12th-december-2025"
       },
       {
         "n": "CAROLINA SOUL: Psych Rarities",
         "s": "2025-12-12T13:00:00Z",
         "e": "2025-12-12T15:00:00Z",
-        "d": null,
+        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-12th-december-2025"
       },
       {
         "n": "DISCO PICKLES W/ DRY CLEANING",
@@ -640,25 +620,35 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
+        "s": "2025-12-13T08:00:00Z",
+        "e": "2025-12-13T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Kiss Cafe w/ Maraschino (R)",
+        "s": "2025-12-13T10:00:00Z",
+        "e": "2025-12-13T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ROUGH VERSION",
+        "s": "2025-12-13T11:00:00Z",
+        "e": "2025-12-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Making Hay w/natdav",
-        "s": "2025-12-11T08:00:00Z",
-        "e": "2025-12-11T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Deep Awake by Semaj",
-        "s": "2025-12-11T09:00:00Z",
-        "e": "2025-12-11T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Emanuel",
         "s": "2025-12-11T10:00:00Z",
@@ -1741,14 +1731,6 @@
     ],
     "dublab": [
       {
-        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
-        "s": "2025-12-11T08:00:00Z",
-        "e": "2025-12-11T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "sounds of NOW",
         "s": "2025-12-11T10:00:00Z",
         "e": "2025-12-11T12:00:00Z",
@@ -2393,15 +2375,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2025-12-11T07:00:00Z",
-        "e": "2025-12-11T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Yazmin Lacey",
         "s": "2025-12-11T09:00:00Z",
