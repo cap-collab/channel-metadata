@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-13T10:39:14.767Z",
+  "updated": "2025-12-13T13:18:36.891Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW w/ FINN",
-        "s": "2025-12-12T09:00:00Z",
-        "e": "2025-12-12T11:00:00Z",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-finn-12th-december-2025"
-      },
-      {
-        "n": "SOUP TO NUTS W/ SCARY THINGS",
-        "s": "2025-12-12T11:00:00Z",
-        "e": "2025-12-12T13:00:00Z",
-        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-12th-december-2025",
-        "t": "weekly"
-      },
       {
         "n": "PUM PUM POWER HOUR W/ Amazon",
         "s": "2025-12-12T13:00:00Z",
@@ -179,9 +162,10 @@
         "n": "TARZSA",
         "s": "2025-12-13T14:00:00Z",
         "e": "2025-12-13T15:00:00Z",
-        "d": null,
+        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-13th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
@@ -310,17 +294,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE SLIP",
+        "s": "2025-12-14T10:00:00Z",
+        "e": "2025-12-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "In Focus: Popol Vuh",
-        "s": "2025-12-12T10:33:00Z",
-        "e": "2025-12-12T13:00:00Z",
-        "d": "Popol Vuh – the musical collective founded by German keyboardist Florian Fricke – is inseperable from Fricke himself. The spiritual engine of the project, Fricke was a true citizen of the world, well travelled and resolutely open minded, absorbing new cultures, spiritualities, and most importantly music with studious interest. \nFricke accquired one of the first Moog II synthesisers in Europe in 1969, and thus Popol Vuh began as a pioneering electronic music act. Eventually Fricke and his collective abandoned electronic for expansive accoustic arrangements inspired by pre-Colombian American music, Tibetan music, African music and beyond, often working in tandem with another singular German auteur – filmmaker Werner Herzog. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-popol-vuh-12th-december-2025"
-      },
       {
         "n": "CAROLINA SOUL: Psych Rarities",
         "s": "2025-12-12T13:00:00Z",
@@ -486,21 +471,21 @@
         "t": "weekly"
       },
       {
-        "n": "CHARLIE SATSUMAS",
+        "n": "CHARLIE SATSUMAS (R)",
         "s": "2025-12-13T13:00:00Z",
         "e": "2025-12-13T14:00:00Z",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": null,
-        "u": null,
-        "t": "weekly"
+        "u": "https://www.nts.live/api/v2/shows/guests",
+        "t": "restream"
       },
       {
-        "n": "YOUTH",
+        "n": "YOUTH w/ LYSTER & EVEN TUELL",
         "s": "2025-12-13T14:00:00Z",
         "e": "2025-12-13T15:00:00Z",
-        "d": null,
+        "d": "YOUTH's Lyster & Berlin's Even Tuell take over the airways with a mix recorded at Berlin's Paloma, 21.11.25.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/youth/episodes/youth-13th-december-2025"
       },
       {
         "n": "Wave Form",
@@ -612,33 +597,36 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "80s Rampwalk (R)",
+        "s": "2025-12-14T08:00:00Z",
+        "e": "2025-12-14T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Smerz (R)",
+        "s": "2025-12-14T09:00:00Z",
+        "e": "2025-12-14T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "The Numero Group - Beyond, the Valley of the Sun (R)",
+        "s": "2025-12-14T10:00:00Z",
+        "e": "2025-12-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Holy Crow w/ Isis Moray",
-        "s": "2025-12-12T10:00:00Z",
-        "e": "2025-12-12T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Tom Ferrare",
-        "s": "2025-12-12T11:00:00Z",
-        "e": "2025-12-12T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Electrolytes with Joly",
-        "s": "2025-12-12T12:00:00Z",
-        "e": "2025-12-12T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Subtle Selects",
         "s": "2025-12-12T13:00:00Z",
@@ -1700,18 +1688,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Luc presents: Cable",
+        "s": "2025-12-20T11:00:00Z",
+        "e": "2025-12-20T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Dean Lyon",
+        "s": "2025-12-20T12:00:00Z",
+        "e": "2025-12-20T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Live & Direct w/ Hannah",
+        "s": "2025-12-20T13:00:00Z",
+        "e": "2025-12-20T14:00:00Z",
+        "d": "Live & Direct is the show that promises to make you dance and make you laugh, with your fave tunes that make you go 'Rahhh ain't hear this in time' and all the cheesy jokes from me, Hannah :) Lock in for the sickest guests and the most relatable stories about daily slips and hilarious situations I find myself in.",
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2025-12-12T10:00:00Z",
-        "e": "2025-12-12T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2025-12-12T12:00:00Z",
@@ -2292,17 +2296,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2025-12-20T12:00:00Z",
+        "e": "2025-12-20T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Breakfast with RIZ LA TEEF",
-        "s": "2025-12-12T09:00:00Z",
-        "e": "2025-12-12T11:00:00Z",
-        "d": null,
-        "j": "2-STEP SPECIAL",
-        "u": null
-      },
       {
         "n": "Uncle Dugs",
         "s": "2025-12-12T11:00:00Z",
@@ -2642,15 +2647,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2025-12-12T08:00:00Z",
-        "e": "2025-12-12T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Whitney Weiss",
         "s": "2025-12-12T13:00:00Z",
