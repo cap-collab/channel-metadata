@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-13T06:53:33.647Z",
+  "updated": "2025-12-13T08:45:31.146Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Recurring Dream (R)",
-        "s": "2025-12-12T06:00:00Z",
-        "e": "2025-12-12T07:00:00Z",
-        "d": "Every month, a Recurring Dream - from Sanpo Disco's Rowan Mason.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/recurring-dream/episodes/recurring-dream-1st-april-2020",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & enya",
         "s": "2025-12-12T07:00:00Z",
@@ -170,17 +161,17 @@
         "n": "YOUARELISTENING.TO",
         "s": "2025-12-13T08:00:00Z",
         "e": "2025-12-13T10:00:00Z",
-        "d": null,
+        "d": "Youarelistening.to mixes ambient music with police scanner radio, air-traffic control, numbers stations, spoken word & a bunch of other random things. Found footage, musique concrete, and the perfect ambience.\nFrom the host: \"Moving up the coast to Vancouver, BC. Listening in on the harbor marine radio, as a winter storm approaches.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/youarelisteningto/episodes/youarelisteningto-13th-december-2025"
       },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2025-12-13T10:00:00Z",
         "e": "2025-12-13T12:00:00Z",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-13th-december-2025",
         "t": "weekly"
       },
       {
@@ -302,27 +293,26 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "MARTIN NEWELL'S ODDCASTE",
+        "s": "2025-12-14T07:30:00Z",
+        "e": "2025-12-14T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "THEA HD",
+        "s": "2025-12-14T08:00:00Z",
+        "e": "2025-12-14T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "GEOLOGIST PRESENTS: THE O'BRIEN SYSTEM (R)",
-        "s": "2025-12-12T06:00:00Z",
-        "e": "2025-12-12T07:00:00Z",
-        "d": "Brian Weitz has been making music as Geologist with Animal Collective for going on two decades.  The egg first cracked in the mid 90's at Baltimore record fairs and long overnight radio shows in New York on WKCR.  Whether making sounds in the practice space or playing records, his bandmates call it the O'Brien System. One Tuesday each month you can go there with him on NTS 2.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/geologist/episodes/geologist-24th-april-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Aloha Got Soul (R)",
-        "s": "2025-12-12T07:00:00Z",
-        "e": "2025-12-12T08:00:00Z",
-        "d": "An exploration into obscure, underground, and lesser known music from Hawaii, bound not by genre or generation but by a connection to the islands. Hosted by Roger Bong of Aloha Got Soul, a record label and record store in Honolulu. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/aloha-got-soul/episodes/aloha-got-soul-4th-september-2024",
-        "t": "restream"
-      },
       {
         "n": "Trapdoor w/ Neil Krug (R)",
         "s": "2025-12-12T08:00:00Z",
@@ -473,7 +463,7 @@
         "n": "Bad Vibes w/ Eyedress (R)",
         "s": "2025-12-13T06:00:00Z",
         "e": "2025-12-13T07:00:00Z",
-        "d": "Idris Vicuña a.k.a Eyedress holds down a monthly hour on NTS' channel 2 bridging the gaps between lo-fi hip hop, garage pop, psychedelia and more…",
+        "d": "Idris Vicuña a.k.a Eyedress holds down a monthly hour on NTS' channel 2 bridging the gaps between lo-fi hip hop, garage pop, psychedelia and more���",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/eyedress/episodes/eyedress-15th-july-2019",
         "t": "restream"
@@ -491,18 +481,18 @@
         "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
         "s": "2025-12-13T08:00:00Z",
         "e": "2025-12-13T10:00:00Z",
-        "d": null,
+        "d": "Slayron of Peaking Lights heads up Rockers Delight, two hours of all things dub, reggae, and lovers rock once a month from the LA studio.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/peaking-lights/episodes/peaking-lights-3rd-january-2025",
         "t": "restream"
       },
       {
         "n": "Kiss Cafe w/ Maraschino (R)",
         "s": "2025-12-13T10:00:00Z",
         "e": "2025-12-13T11:00:00Z",
-        "d": null,
+        "d": "Kiss Cafe Birth of Venus edish. Sound waves for the Cancer Sun-Jupiter Conjunction. <3",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/piper-durabo/episodes/piper-durabo-17th-june-2025",
         "t": "restream"
       },
       {
@@ -618,6 +608,24 @@
         "n": "No Weapon Is Absolute (R)",
         "s": "2025-12-14T03:00:00Z",
         "e": "2025-12-14T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "SKYAPNEA (R)",
+        "s": "2025-12-14T04:00:00Z",
+        "e": "2025-12-14T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Post-Geography (R)",
+        "s": "2025-12-14T06:00:00Z",
+        "e": "2025-12-14T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1715,14 +1723,6 @@
     ],
     "dublab": [
       {
-        "n": "Alex Pelly - PELLYVISION",
-        "s": "2025-12-12T06:00:00Z",
-        "e": "2025-12-12T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "sounds of NOW",
         "s": "2025-12-12T08:00:00Z",
         "e": "2025-12-12T10:00:00Z",
@@ -2311,17 +2311,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2025-12-20T08:00:00Z",
+        "e": "2025-12-20T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Utopia Presents",
-        "s": "2025-12-12T05:00:00Z",
-        "e": "2025-12-12T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Playlist",
         "s": "2025-12-12T07:00:00Z",
@@ -2680,15 +2681,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2025-12-11T23:00:00Z",
-        "e": "2025-12-12T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2025-12-12T08:00:00Z",
         "e": "2025-12-12T13:00:00Z",
         "d": null,
@@ -2790,11 +2782,11 @@
         "t": "playlist"
       },
       {
-        "n": "La Sunday Abidjan",
+        "n": "Whitney Weiss",
         "s": "2025-12-13T13:00:00Z",
-        "e": "2025-12-13T14:00:00Z",
+        "e": "2025-12-13T15:00:00Z",
         "d": null,
-        "j": "invite DJAOULI ENT",
+        "j": "the It's Whitney, Bitch Year-End Special with Enzio Etchaberri and Mark Holcomb",
         "u": null
       },
       {
@@ -2806,7 +2798,7 @@
         "u": null
       },
       {
-        "n": "KŌMA",
+        "n": "Moog Diez",
         "s": "2025-12-13T15:00:00Z",
         "e": "2025-12-13T16:00:00Z",
         "d": null,
@@ -2814,41 +2806,125 @@
         "u": null
       },
       {
-        "n": "Paloma Colombe",
+        "n": "Otto Diva",
         "s": "2025-12-13T16:00:00Z",
         "e": "2025-12-13T17:00:00Z",
+        "d": null,
+        "j": "invite IXPE",
+        "u": null
+      },
+      {
+        "n": "Curses",
+        "s": "2025-12-13T17:00:00Z",
+        "e": "2025-12-13T18:00:00Z",
+        "d": null,
+        "j": "Together Alone",
+        "u": null
+      },
+      {
+        "n": "Public System Recordings",
+        "s": "2025-12-13T18:00:00Z",
+        "e": "2025-12-13T19:00:00Z",
+        "d": null,
+        "j": "MYN invite WHITE MATERIAL avec GALCHER LUSTWERK - YOUNG MALE & DJ RICHARD",
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-13T19:00:00Z",
+        "e": "2025-12-13T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-13T20:00:00Z",
+        "e": "2025-12-13T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-13T23:00:00Z",
+        "e": "2025-12-14T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-14T08:00:00Z",
+        "e": "2025-12-14T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "La Sunday Abidjan",
+        "s": "2025-12-14T13:00:00Z",
+        "e": "2025-12-14T14:00:00Z",
+        "d": null,
+        "j": "invite DJAOULI ENT",
+        "u": null
+      },
+      {
+        "n": "ElectrAfrique",
+        "s": "2025-12-14T14:00:00Z",
+        "e": "2025-12-14T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "KŌMA",
+        "s": "2025-12-14T15:00:00Z",
+        "e": "2025-12-14T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Paloma Colombe",
+        "s": "2025-12-14T16:00:00Z",
+        "e": "2025-12-14T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "[re]sources",
-        "s": "2025-12-13T17:00:00Z",
-        "e": "2025-12-13T18:00:00Z",
+        "s": "2025-12-14T17:00:00Z",
+        "e": "2025-12-14T18:00:00Z",
         "d": null,
         "j": "avec Tommy Kid (UK Funky special set)",
         "u": null
       },
       {
         "n": "LU2K",
-        "s": "2025-12-13T18:00:00Z",
-        "e": "2025-12-13T19:00:00Z",
+        "s": "2025-12-14T18:00:00Z",
+        "e": "2025-12-14T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "SOA420",
-        "s": "2025-12-13T19:00:00Z",
-        "e": "2025-12-13T20:00:00Z",
+        "s": "2025-12-14T19:00:00Z",
+        "e": "2025-12-14T20:00:00Z",
         "d": null,
         "j": "The Four Twenty Radio Show ♯1",
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2025-12-13T20:00:00Z",
-        "e": "2025-12-13T21:00:00Z",
+        "s": "2025-12-14T20:00:00Z",
+        "e": "2025-12-14T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
