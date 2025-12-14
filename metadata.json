@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-14T08:46:50.333Z",
+  "updated": "2025-12-14T10:40:21.641Z",
   "stations": {
     "nts1": [
-      {
-        "n": "YOUARELISTENING.TO",
-        "s": "2025-12-13T08:00:00Z",
-        "e": "2025-12-13T10:00:00Z",
-        "d": "Youarelistening.to mixes ambient music with police scanner radio, air-traffic control, numbers stations, spoken word & a bunch of other random things. Found footage, musique concrete, and the perfect ambience.\nFrom the host: \"Moving up the coast to Vancouver, BC. Listening in on the harbor marine radio, as a winter storm approaches.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/youarelisteningto/episodes/youarelisteningto-13th-december-2025"
-      },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2025-12-13T10:00:00Z",
@@ -170,18 +162,19 @@
         "n": "THE SLIP",
         "s": "2025-12-14T10:00:00Z",
         "e": "2025-12-14T12:00:00Z",
-        "d": null,
+        "d": "Rory Bowens heads The Slip on Sunday mornings every other week - squeezing an hour of hazy dub off-shoots, pupil-dilating shoegaze and uncanny dream music.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/theslip/episodes/theslip-14th-december-2025",
         "t": "biweekly"
       },
       {
         "n": "High Hopes w/ Judah",
         "s": "2025-12-14T12:00:00Z",
         "e": "2025-12-14T13:00:00Z",
-        "d": null,
+        "d": "Judah's High Hopes explains itself with the name. The blend of soul, experimental hip hop and a range of jazz is enough to bring optimism into any listener's day, and Judah's sonic selections act as a monthly ray of sunshine to brighten any listener's day. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/high-hopes-w-judah/episodes/high-hopes-w-judah-14th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "ASHER G'S CARIBBEAN MEMORIES (R)",
@@ -241,13 +234,12 @@
         "u": null
       },
       {
-        "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
+        "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO - CHATROOM CREW SPECIAL",
         "s": "2025-12-14T22:00:00Z",
         "e": "2025-12-15T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
         "n": "OTOLOGIC",
@@ -300,18 +292,26 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2025-12-15T09:00:00Z",
+        "e": "2025-12-15T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2025-12-15T11:00:00Z",
+        "e": "2025-12-15T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
-        "s": "2025-12-13T08:00:00Z",
-        "e": "2025-12-13T10:00:00Z",
-        "d": "Slayron of Peaking Lights heads up Rockers Delight, two hours of all things dub, reggae, and lovers rock once a month from the LA studio.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/peaking-lights/episodes/peaking-lights-3rd-january-2025",
-        "t": "restream"
-      },
       {
         "n": "Kiss Cafe w/ Maraschino (R)",
         "s": "2025-12-13T10:00:00Z",
@@ -488,18 +488,18 @@
         "n": "The Numero Group - Beyond, the Valley of the Sun (R)",
         "s": "2025-12-14T10:00:00Z",
         "e": "2025-12-14T12:00:00Z",
-        "d": null,
+        "d": "Curated by our colleagues over at Paradise Is A Frequency, this month's roundup introduces you to Numero's latest new age vault of sight and sound: Valley of the Sun. Dick Sutphen developed the Valley of the Sun label to produce at-home hypnosis programs. He directed the content of these recordings to refract New Age’s harmonious, mellow aesthetic and spirit of freedom. To carry out the job of expanding human consciousness for prospective and practicing new agers across the world, Sutphen recruited a crew of unlikely electronic journeymen brought together by cosmic energies and starcrossed circumstances. Like satellites pulled into orbit by the immense gravity of his psychic magnetism, core-producers David Naegele, David Storrs, Steven Cooper, and Robert Slap, would receive Sutphen’s message and mass communicate it back to Earth.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/radio-free-numero/episodes/numero-group-reach-4th-march-2021",
         "t": "restream"
       },
       {
         "n": "Radio Alhara",
         "s": "2025-12-14T12:00:00Z",
         "e": "2025-12-14T17:00:00Z",
-        "d": null,
+        "d": "Radio Alhara broadcasting live from Bethlehem featuring local hosts ABUL3EES BINKHALTI, RUUQ,  JULMUD, Dana Durr, Bareetlblad and special guest Alabaster DePlume. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/radio-alhara/episodes/radio-alhara-14th-december-2025"
       },
       {
         "n": "Post Punk Britain: Cymru (R)",
@@ -626,18 +626,26 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2025-12-13T04:00:00Z",
-        "e": "2025-12-13T10:00:00Z",
+        "n": "8ULENTINA (R)",
+        "s": "2025-12-15T10:00:00Z",
+        "e": "2025-12-15T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream"
       },
+      {
+        "n": "BLOODZ BOI",
+        "s": "2025-12-15T11:00:00Z",
+        "e": "2025-12-15T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": " SCOPE__EM",
         "s": "2025-12-13T10:00:00Z",
@@ -1698,18 +1706,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "The Watercourse Way",
+        "s": "2025-12-21T10:00:00Z",
+        "e": "2025-12-21T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2025-12-13T08:00:00Z",
-        "e": "2025-12-13T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2025-12-13T10:00:00Z",
@@ -2284,15 +2291,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2025-12-13T07:00:00Z",
-        "e": "2025-12-13T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Sound Sanctuary",
         "s": "2025-12-13T09:00:00Z",
