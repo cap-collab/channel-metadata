@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2025-12-15T17:00:47.383Z",
+  "updated": "2025-12-15T18:06:30.226Z",
   "stations": {
     "nts1": [
       {
@@ -85,8 +85,7 @@
         "e": "2025-12-15T09:00:00Z",
         "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-15th-december-2025",
-        "t": "regular"
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-15th-december-2025"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -103,7 +102,8 @@
         "e": "2025-12-15T13:00:00Z",
         "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-15th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-15th-december-2025",
+        "t": "weekly"
       },
       {
         "n": "David Wrench",
@@ -143,23 +143,26 @@
         "e": "2025-12-15T20:00:00Z",
         "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-15th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-15th-december-2025",
+        "t": "biweekly"
       },
       {
         "n": "SUNCUT",
         "s": "2025-12-15T20:00:00Z",
         "e": "2025-12-15T21:00:00Z",
-        "d": null,
+        "d": "Tune in to the sound of SUNCUT, boasting a heartfelt selection of some favourite 45’s through to classic bonafide soulful jams.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/sun-cut/episodes/sun-cut-15th-december-2025",
+        "t": "biweekly"
       },
       {
-        "n": "WOODGRAIN w/ DENNIS.EXP",
+        "n": "NTS GUIDE TO: BOLEROS (R)",
         "s": "2025-12-15T21:00:00Z",
         "e": "2025-12-15T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "ORGAN TAPES w/ Alex Compton & Iva Peralta",
@@ -226,8 +229,7 @@
         "e": "2025-12-16T09:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -244,7 +246,8 @@
         "e": "2025-12-16T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "CARLA DAL FORNO",
@@ -260,7 +263,8 @@
         "e": "2025-12-16T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "AWE W/ LAUREL HALO",
@@ -288,15 +292,6 @@
       }
     ],
     "nts2": [
-      {
-        "n": "Post Punk Britain: Cymru (R)",
-        "s": "2025-12-14T17:00:00Z",
-        "e": "2025-12-14T18:00:00Z",
-        "d": "Keen to establish their identity, separate from the trends of major English cities, Welsh bands in the post-punk era evolved a unique sound, fusing minimal synths and angular songwriting with distinctly Welsh vocals and themes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/post-punk-in-britain/episodes/post-punk-in-britain-8th-may-2023",
-        "t": "restream"
-      },
       {
         "n": "Post Punk Britain: Local Talent - Regional Comps & Split Singles 1979-88 (R)",
         "s": "2025-12-14T18:00:00Z",
@@ -486,9 +481,9 @@
         "n": "Lost in the Bitrate w/ Lena Raine",
         "s": "2025-12-15T19:00:00Z",
         "e": "2025-12-15T20:00:00Z",
-        "d": null,
+        "d": "Video game composer Lena Raine explores sounds of digital – playing digital fusion, electronica, and modern orchestral works that blend live and digital sounds.\nFrom the host: \"This month, Lost in the Bitrate highlights some of the most exciting music being release in independent video games from 2025. From smaller obscure titles, to high profile releases, these varied sounds frame a picture of games unafraid to embrace the range of fidelity available to them.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/lena-raine/episodes/lena-raine-15th-december-2025"
       },
       {
         "n": "LE JARDIN W/ SARAH DAVACHI",
@@ -616,18 +611,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "YOU'LL SOON KNOW W/ TIM PARKER",
+        "s": "2025-12-16T14:00:00Z",
+        "e": "2025-12-16T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2025-12-14T17:00:00Z",
-        "e": "2025-12-14T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Marchborn",
         "s": "2025-12-14T18:00:00Z",
@@ -1164,7 +1158,8 @@
         "e": "2025-12-18T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Exit Portal + J.Low",
@@ -1397,7 +1392,8 @@
         "e": "2025-12-20T14:00:00Z",
         "d": "Live & Direct is the show that promises to make you dance and make you laugh, with your fave tunes that make you go 'Rahhh ain't hear this in time' and all the cheesy jokes from me, Hannah :) Lock in for the sickest guests and the most relatable stories about daily slips and hilarious situations I find myself in.",
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "DaiSu",
@@ -1690,15 +1686,6 @@
       }
     ],
     "dublab": [
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2025-12-14T17:00:00Z",
-        "e": "2025-12-14T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Bob Baker Marionette Theater – Puppetphonic",
         "s": "2025-12-14T18:00:00Z",
@@ -2218,18 +2205,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Rene Contreras - Viva! Talks",
+        "s": "2025-12-22T18:00:00Z",
+        "e": "2025-12-22T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
       }
     ],
     "rinse": [
-      {
-        "n": "Jamo Beatz",
-        "s": "2025-12-14T17:00:00Z",
-        "e": "2025-12-14T18:00:00Z",
-        "d": null,
-        "j": "Jamo Beatz Show",
-        "u": null,
-        "t": "regular"
-      },
       {
         "n": "RIZ LA TEEF",
         "s": "2025-12-14T18:00:00Z",
@@ -2244,7 +2231,8 @@
         "e": "2025-12-14T21:00:00Z",
         "d": null,
         "j": "B2B Regal86",
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "The Grime Show with Sir Spyro & Novelist",
@@ -2284,7 +2272,8 @@
         "e": "2025-12-15T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Lamsi",
@@ -2292,7 +2281,8 @@
         "e": "2025-12-15T04:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Paradise",
@@ -2325,7 +2315,8 @@
         "e": "2025-12-15T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Donsurf",
@@ -2333,7 +2324,8 @@
         "e": "2025-12-15T12:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Niall Smith invites Ceebo",
@@ -2341,7 +2333,8 @@
         "e": "2025-12-15T13:00:00Z",
         "d": null,
         "j": "The Blair Babies Special",
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Nakeira",
@@ -2349,7 +2342,8 @@
         "e": "2025-12-15T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Tommy Gold",
@@ -2365,7 +2359,8 @@
         "e": "2025-12-15T17:00:00Z",
         "d": null,
         "j": "Sinjin Hawke",
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Talina",
@@ -2398,7 +2393,8 @@
         "e": "2025-12-15T22:00:00Z",
         "d": null,
         "j": "Pearson Sound",
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Tasha",
@@ -2406,7 +2402,8 @@
         "e": "2025-12-15T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Bluetoof",
@@ -2438,8 +2435,7 @@
         "e": "2025-12-16T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Shuffle 'n' Swing",
@@ -2448,7 +2444,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "regular"
+        "t": "biweekly"
       },
       {
         "n": "Wisdom Teeth",
@@ -2456,7 +2452,8 @@
         "e": "2025-12-16T07:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Playlist",
@@ -2473,7 +2470,8 @@
         "e": "2025-12-16T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Cara Crosby",
@@ -2546,7 +2544,8 @@
         "e": "2025-12-16T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Surusinghe",
@@ -2567,22 +2566,12 @@
     ],
     "rinsefr": [
       {
-        "n": "Poté",
-        "s": "2025-12-14T17:00:00Z",
-        "e": "2025-12-14T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "regular"
-      },
-      {
         "n": "Belaria",
         "s": "2025-12-14T18:00:00Z",
         "e": "2025-12-14T19:00:00Z",
         "d": null,
         "j": "Vel",
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Aurèle",
@@ -2590,8 +2579,7 @@
         "e": "2025-12-14T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Playlist France",
@@ -2626,8 +2614,7 @@
         "e": "2025-12-15T14:00:00Z",
         "d": null,
         "j": "présentent : Colombia Especial 2",
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Sébastien Forrester",
@@ -2635,8 +2622,7 @@
         "e": "2025-12-15T15:00:00Z",
         "d": null,
         "j": "Afraa avec Martin Brugger (Squama Recordings)",
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Young Pulse",
@@ -2644,8 +2630,7 @@
         "e": "2025-12-15T16:00:00Z",
         "d": null,
         "j": "Boogie 2 the Top",
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Didi Han",
@@ -2653,8 +2638,7 @@
         "e": "2025-12-15T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Poté",
@@ -2662,8 +2646,7 @@
         "e": "2025-12-15T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Belaria",
@@ -2671,8 +2654,7 @@
         "e": "2025-12-15T19:00:00Z",
         "d": null,
         "j": "Vel",
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Aurèle",
@@ -2680,8 +2662,7 @@
         "e": "2025-12-15T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Playlist France",
@@ -2724,7 +2705,8 @@
         "e": "2025-12-16T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Jeune à Jamais",
