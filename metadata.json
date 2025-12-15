@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-15T08:59:15.698Z",
+  "updated": "2025-12-15T10:54:09.740Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THEA HD",
-        "s": "2025-12-14T08:00:00Z",
-        "e": "2025-12-14T09:00:00Z",
-        "d": "Leaf Label A&R and Odda Recordings label owner Thea HD unearths the lesser known common sounds. from old soundtracks, library music to experimental electronic music…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/thea-hd/episodes/thea-hd-14th-december-2025"
-      },
-      {
-        "n": "Ondas w/ Dubby",
-        "s": "2025-12-14T09:00:00Z",
-        "e": "2025-12-14T10:00:00Z",
-        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-14th-december-2025"
-      },
       {
         "n": "THE SLIP",
         "s": "2025-12-14T10:00:00Z",
@@ -162,18 +146,19 @@
         "e": "2025-12-15T11:00:00Z",
         "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-15th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-15th-december-2025",
+        "t": "regular"
       },
       {
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2025-12-15T11:00:00Z",
         "e": "2025-12-15T13:00:00Z",
-        "d": null,
+        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-15th-december-2025"
       },
       {
-        "n": "Floating Points",
+        "n": "David Wrench",
         "s": "2025-12-15T13:00:00Z",
         "e": "2025-12-15T15:00:00Z",
         "d": null,
@@ -295,27 +280,18 @@
         "j": null,
         "u": null,
         "t": "regular"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2025-12-16T09:00:00Z",
+        "e": "2025-12-16T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
       }
     ],
     "nts2": [
-      {
-        "n": "80s Rampwalk (R)",
-        "s": "2025-12-14T08:00:00Z",
-        "e": "2025-12-14T09:00:00Z",
-        "d": "80's Rampwalk delivers an hour of cold wave, minimal synth, industrial, post-punk and music made in Berlin basements.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/80srampwalk/episodes/80srampwalk-20th-november-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Smerz (R)",
-        "s": "2025-12-14T09:00:00Z",
-        "e": "2025-12-14T10:00:00Z",
-        "d": "Henriette and Catharina of Smerz take over the NTS airwaves once a month with a selection of classical, folk, ambient, pop and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/smerz/episodes/smerz-14th-may-2020",
-        "t": "restream"
-      },
       {
         "n": "The Numero Group - Beyond, the Valley of the Sun (R)",
         "s": "2025-12-14T10:00:00Z",
@@ -463,18 +439,19 @@
         "n": "8ULENTINA (R)",
         "s": "2025-12-15T10:00:00Z",
         "e": "2025-12-15T11:00:00Z",
-        "d": null,
+        "d": "8ULENTINA is an interdisciplinary artist, music producer and DJ based in Brooklyn, New York. Known for his dynamic DJ sets and music composition synthesizing a range of genres, geographies and tempos. He co-founded CLUB CHAI (2016-2021), a record label and curatorial platform with Lara Sarkissian and currently runs a SILLAGE, a platform for contemporary sonic artifacts. His NTS show explores the sounds that inspire his production process, focusing on experimentation, percussive intensity, and non linear storytelling through sound.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/8ulentina/episodes/8ulentina-7th-june-2023",
         "t": "restream"
       },
       {
-        "n": "BLOODZ BOI",
+        "n": "NTS Guide to: Ambient Rap (R)",
         "s": "2025-12-15T11:00:00Z",
         "e": "2025-12-15T12:00:00Z",
-        "d": null,
+        "d": "Sounds from the new crop of producer-led music bringing the stillness of ambient and downtempo music to rap. \nImage: Shed Theory",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-ambient-rap-29th-september-2025",
+        "t": "restream"
       },
       {
         "n": "WHY BE",
@@ -591,26 +568,27 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2025-12-14T08:00:00Z",
-        "e": "2025-12-14T09:00:00Z",
+        "n": "SHAKSHOUKA W/ CHEB MIMO (R)",
+        "s": "2025-12-16T07:00:00Z",
+        "e": "2025-12-16T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream"
       },
       {
-        "n": "Kakuna",
-        "s": "2025-12-14T09:00:00Z",
-        "e": "2025-12-14T10:00:00Z",
+        "n": "NTS Guide To: DD Records (R)",
+        "s": "2025-12-16T08:00:00Z",
+        "e": "2025-12-16T09:00:00Z",
         "d": null,
         "j": null,
-        "u": null
-      },
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Agony Plants",
         "s": "2025-12-14T10:00:00Z",
@@ -1504,6 +1482,14 @@
         "u": null
       },
       {
+        "n": "Carla Martinez ",
+        "s": "2025-12-20T22:00:00Z",
+        "e": "2025-12-20T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "Deep Diving w/ DJ Nøthing",
         "s": "2025-12-20T23:00:00Z",
         "e": "2025-12-21T00:00:00Z",
@@ -1662,18 +1648,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Casual P",
+        "s": "2025-12-22T09:00:00Z",
+        "e": "2025-12-22T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Not a Baile Radio Show",
+        "s": "2025-12-22T10:00:00Z",
+        "e": "2025-12-22T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2025-12-14T08:00:00Z",
-        "e": "2025-12-14T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2025-12-14T10:00:00Z",
@@ -1788,6 +1781,15 @@
         "n": "sounds of NOW",
         "s": "2025-12-15T10:00:00Z",
         "e": "2025-12-15T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2025-12-15T12:00:00Z",
+        "e": "2025-12-15T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2215,15 +2217,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2025-12-14T07:00:00Z",
-        "e": "2025-12-14T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Wisdom Teeth with Facta & K-LONE",
         "s": "2025-12-14T09:00:00Z",
         "e": "2025-12-14T11:00:00Z",
@@ -2399,7 +2392,7 @@
         "s": "2025-12-15T15:00:00Z",
         "e": "2025-12-15T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Sinjin Hawke",
         "u": null
       },
       {
@@ -2407,7 +2400,7 @@
         "s": "2025-12-15T17:00:00Z",
         "e": "2025-12-15T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Jakkob",
         "u": null,
         "t": "regular"
       },
@@ -2432,7 +2425,7 @@
         "s": "2025-12-15T20:00:00Z",
         "e": "2025-12-15T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Pearson Sound",
         "u": null
       },
       {
@@ -2452,11 +2445,11 @@
         "u": null
       },
       {
-        "n": "Night Service",
+        "n": "Night Service with Frazi.er",
         "s": "2025-12-16T00:00:00Z",
         "e": "2025-12-16T01:00:00Z",
         "d": null,
-        "j": null,
+        "j": "100% Production Mix",
         "u": null
       },
       {
