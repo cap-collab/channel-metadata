@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-16T04:58:43.159Z",
+  "updated": "2025-12-16T06:59:22.111Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Music 4 Lovers w/ Jabu & Andy Payback (R)",
-        "s": "2025-12-15T04:00:00Z",
-        "e": "2025-12-15T05:00:00Z",
-        "d": "Jabu and Andy Payback bring us Music 4 Lovers once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/music-4-lovers/episodes/music-4-lovers-29th-march-2025",
-        "t": "restream"
-      },
       {
         "n": "In Focus: SND (R)",
         "s": "2025-12-15T05:00:00Z",
@@ -171,18 +162,18 @@
         "n": "The Head Zone w/ Ripley Johnson (R)",
         "s": "2025-12-16T06:00:00Z",
         "e": "2025-12-16T07:00:00Z",
-        "d": null,
+        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/the-head-zone-w-ripley-johnson-9th-may-2018",
         "t": "restream"
       },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2025-12-16T07:00:00Z",
         "e": "2025-12-16T09:00:00Z",
-        "d": null,
+        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-16th-december-2025"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -301,27 +292,27 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "ONDAS (R)",
+        "s": "2025-12-17T06:00:00Z",
+        "e": "2025-12-17T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2025-12-17T07:00:00Z",
+        "e": "2025-12-17T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "DJ NOBU (R)",
-        "s": "2025-12-15T04:00:00Z",
-        "e": "2025-12-15T05:00:00Z",
-        "d": "Take a trip through the deep musical world of Japan's DJ Nobu, one of the world's most in-demand underground selectors.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dj-nobu/episodes/dj-nobu-16th-april-2021",
-        "t": "restream"
-      },
-      {
-        "n": "Courtesy (Kulør) (R)",
-        "s": "2025-12-15T05:00:00Z",
-        "e": "2025-12-15T06:00:00Z",
-        "d": "Regular techno, electro, and house missives from the Against Interpretation labelhead and powerhouse-club selector Courtesy…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/courtesy/episodes/courtesy-1st-march-2024",
-        "t": "restream"
-      },
       {
         "n": "Light in the Attic (R)",
         "s": "2025-12-15T06:00:00Z",
@@ -507,9 +498,9 @@
         "n": "SHAKSHOUKA W/ CHEB MIMO (R)",
         "s": "2025-12-16T07:00:00Z",
         "e": "2025-12-16T08:00:00Z",
-        "d": null,
+        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-14th-may-2025",
         "t": "restream"
       },
       {
@@ -620,6 +611,15 @@
         "u": null
       },
       {
+        "n": "Auntie-ism w/ SHABAZZ (R)",
+        "s": "2025-12-17T00:00:00Z",
+        "e": "2025-12-17T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "btwn Earth+Sky: Lara Sarkissian",
         "s": "2025-12-17T01:00:00Z",
         "e": "2025-12-17T02:00:00Z",
@@ -628,7 +628,7 @@
         "u": null
       },
       {
-        "n": "NIGHT SHIFT W/ DIAMONDSTEIN",
+        "n": "Night Shift w/ Diamondstein & Wreckmeister Harmonies",
         "s": "2025-12-17T02:00:00Z",
         "e": "2025-12-17T04:00:00Z",
         "d": null,
@@ -637,15 +637,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2025-12-15T03:00:00Z",
-        "e": "2025-12-15T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Matthew Mas",
         "s": "2025-12-15T06:00:00Z",
@@ -1719,14 +1710,6 @@
     ],
     "dublab": [
       {
-        "n": "DMM - Loosely Attached",
-        "s": "2025-12-15T04:00:00Z",
-        "e": "2025-12-15T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "sounds of NOW",
         "s": "2025-12-15T06:00:00Z",
         "e": "2025-12-15T08:00:00Z",
@@ -2275,17 +2258,17 @@
         "j": null,
         "u": null,
         "t": "biweekly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Paradise",
-        "s": "2025-12-15T04:00:00Z",
-        "e": "2025-12-15T05:00:00Z",
+        "n": "Flight Club",
+        "s": "2025-12-23T06:00:00Z",
+        "e": "2025-12-23T08:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Counter Culture",
         "s": "2025-12-15T05:00:00Z",
