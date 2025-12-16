@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-16T16:58:53.882Z",
+  "updated": "2025-12-16T18:57:35.738Z",
   "stations": {
     "nts1": [
-      {
-        "n": "OHBLIV",
-        "s": "2025-12-15T16:00:00Z",
-        "e": "2025-12-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Tara Lily",
-        "s": "2025-12-15T17:00:00Z",
-        "e": "2025-12-15T18:00:00Z",
-        "d": "South London musician Tara Lily brings the sound of her new collaborative release with King Krule to the NTS airwaves, sharing inspirations and offcuts from the raw, jazz-inflected DIY pop of “Quiet Nights”. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/tara-lily-15th-december-2025"
-      },
       {
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2025-12-15T18:00:00Z",
@@ -189,17 +173,19 @@
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
         "s": "2025-12-16T18:00:00Z",
         "e": "2025-12-16T20:00:00Z",
-        "d": null,
+        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-16th-december-2025",
+        "t": "biweekly"
       },
       {
         "n": "Trevor Jackson",
         "s": "2025-12-16T20:00:00Z",
         "e": "2025-12-16T22:00:00Z",
-        "d": null,
+        "d": "Audio-visual adventurer Trevor Jackson presents a broad spectrum of brand new experimental music, along with ancient oddities of every perceivable genre. A fortnightly uncompromising journey into the unexpected.\nMusic for sick minds and warm hearts",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/trevorjackson/episodes/trevorjackson-16th-december-2025",
+        "t": "biweekly"
       },
       {
         "n": "Mechatok",
@@ -319,26 +305,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "TIM REAPER",
+        "s": "2025-12-17T19:00:00Z",
+        "e": "2025-12-17T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MARTELO",
+        "s": "2025-12-17T20:00:00Z",
+        "e": "2025-12-17T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "The Trilogy Tapes (R)",
-        "s": "2025-12-15T15:00:00Z",
-        "e": "2025-12-15T17:00:00Z",
-        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-28th-april-2025",
-        "t": "restream"
-      },
-      {
-        "n": "CLAIRE ROUSAY",
-        "s": "2025-12-15T17:00:00Z",
-        "e": "2025-12-15T18:00:00Z",
-        "d": "Los Angeles producer & sound artist claire rousay journeys through healing plaintive electronics, quotidian field recordings & minimalist compositions.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/claire-rousay/episodes/claire-rousay-15th-december-2025"
-      },
       {
         "n": "Under Sleepy Moon w/ Yawning Portal: Anywhere Mix",
         "s": "2025-12-15T18:00:00Z",
@@ -530,17 +516,18 @@
         "n": "DJ Catpowder",
         "s": "2025-12-16T18:00:00Z",
         "e": "2025-12-16T19:00:00Z",
-        "d": null,
+        "d": "London-based Japanese DJ runs through an hour of her trademark sounds – house, soul + beyond.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dj-catpowder-16th-december-2025"
       },
       {
-        "n": "MUSIC FOR A HEALING EARTH W/ THE COSMIC TONES RESEARCH TRIO",
+        "n": "Insolar w/ Cami Layé Okún (R)",
         "s": "2025-12-16T19:00:00Z",
         "e": "2025-12-16T20:00:00Z",
-        "d": null,
+        "d": "Cuban record collector, ethnomusicologist researcher, picks up a hour of global vinyl via Havana every months.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/cami-laye-okun/episodes/cami-laye-okun-16th-july-2024",
+        "t": "restream"
       },
       {
         "n": "Pina Dreams of Brazil w/ Rômulo Moraes",
@@ -667,25 +654,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FIFTH WORLD W/ IAN KIM JUDD",
+        "s": "2025-12-17T16:00:00Z",
+        "e": "2025-12-17T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Bidl",
-        "s": "2025-12-15T16:00:00Z",
-        "e": "2025-12-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Jaynie",
-        "s": "2025-12-15T17:00:00Z",
-        "e": "2025-12-15T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "H3L3NA",
         "s": "2025-12-15T18:00:00Z",
@@ -1748,17 +1727,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Andrew Goldberg - Rainy Day Fund",
-        "s": "2025-12-15T16:00:00Z",
-        "e": "2025-12-15T18:00:00Z",
+        "n": "Maliboo Selects",
+        "s": "2025-12-23T17:00:00Z",
+        "e": "2025-12-23T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "Rene Contreras - Viva! Talks",
         "s": "2025-12-15T18:00:00Z",
@@ -2279,27 +2258,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Discotchari - Silk Road Secret Agents",
+        "s": "2025-12-23T18:00:00Z",
+        "e": "2025-12-23T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Scratcha",
-        "s": "2025-12-15T15:00:00Z",
-        "e": "2025-12-15T17:00:00Z",
-        "d": null,
-        "j": "Sinjin Hawke",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Talina",
-        "s": "2025-12-15T17:00:00Z",
-        "e": "2025-12-15T18:00:00Z",
-        "d": null,
-        "j": "Jakkob",
-        "u": null,
-        "t": "regular"
-      },
       {
         "n": "Dyslecta",
         "s": "2025-12-15T18:00:00Z",
@@ -2653,22 +2622,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Jeune à Jamais",
-        "s": "2025-12-15T16:00:00Z",
-        "e": "2025-12-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Lola Ondikwa",
-        "s": "2025-12-15T17:00:00Z",
-        "e": "2025-12-15T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Nyege Nyege",
         "s": "2025-12-15T18:00:00Z",
         "e": "2025-12-15T19:00:00Z",
@@ -2808,7 +2761,7 @@
         "s": "2025-12-17T14:00:00Z",
         "e": "2025-12-17T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Shinobihana",
         "u": null
       },
       {
