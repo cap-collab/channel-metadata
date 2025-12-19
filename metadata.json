@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-19T06:56:50.122Z",
+  "updated": "2025-12-19T08:56:08.805Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Chicken Foot Soup w/ Goya Gumbani, Dom P & Morriarchi",
-        "s": "2025-12-18T17:00:00Z",
-        "e": "2025-12-18T19:00:00Z",
-        "d": "London-based jazz artist Goya Gumbani stops by to share heartfelt picks from his collection.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/goya-gumbani/episodes/goya-gumbani-18th-december-2025"
-      },
-      {
-        "n": "Nadeem Din-Gabisi - OFFSHORE",
-        "s": "2025-12-18T19:00:00Z",
-        "e": "2025-12-18T20:00:00Z",
-        "d": "London poet, artist and musician Nadeem Din-Gabisi traverses the themes and inspirations behind his debut album OFFSHORE, a project exploring his relationship to England, and his sense of belonging and identity. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nadeem-din-gabisi---offshore-18th-december-2025"
-      },
       {
         "n": "LORAINE JAMES - 30th Birthday Special",
         "s": "2025-12-18T20:00:00Z",
@@ -98,21 +82,20 @@
         "t": "restream"
       },
       {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & Elaine",
         "s": "2025-12-19T07:00:00Z",
         "e": "2025-12-19T09:00:00Z",
         "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-19th-december-2025",
-        "t": "biweekly"
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-19th-december-2025"
       },
       {
         "n": "The NTS Breakfast Show w/ Bradley Zero",
         "s": "2025-12-19T09:00:00Z",
         "e": "2025-12-19T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-bradley-zero-19th-december-2025"
       },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
@@ -241,25 +224,17 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "RAGA VIBRATIONS",
+        "s": "2025-12-20T08:00:00Z",
+        "e": "2025-12-20T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "HE4RTBROKEN W/ REDSTARSTILL",
-        "s": "2025-12-18T18:00:00Z",
-        "e": "2025-12-18T19:00:00Z",
-        "d": "Get in your feelings with Brussels party starters HE4RTBROKEN - the beloved Belgian collective that aren't scared of a few tears on the dance floor. Resident djs Liyo, Steff, Munix and ssaliva explore the full range of cathartic music listening together with some kindred-spirited emotive guests.\nFrom the host: \"Redstarstill  presents a nostalgic sound collage. Inspired by Since I Left You-era sampling logic, the set drifts between memory and mediation, where the real and the virtual blur into one continuous emotional space.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hea4rtbroken/episodes/hea4rtbroken-18th-december-2025"
-      },
-      {
-        "n": "UNITED IN FLAMES W/ ULTRA CARO & MALIBU",
-        "s": "2025-12-18T19:00:00Z",
-        "e": "2025-12-18T20:00:00Z",
-        "d": "Malibu is a French electronic musician whose work sails between ambient and ethereal music.\nForever inspired by soft reverbed vocals and melodious chord progressions, Malibu’s music is an immersive nostalgic journey in a sea of synthetic strings and choirs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/malibu/episodes/malibu-18th-december-2025"
-      },
       {
         "n": "Temporal Cove w/ LUCY (Cooper B. Handy)",
         "s": "2025-12-18T20:00:00Z",
@@ -357,18 +332,18 @@
         "n": "Under Sleepy Moon w/ Yawning Portal (R)",
         "s": "2025-12-19T08:00:00Z",
         "e": "2025-12-19T09:00:00Z",
-        "d": null,
+        "d": "Zzzzzzzzzzzz… Shhhh… There's a baby sleeping in the house!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/under-sleepy-moon/episodes/under-sleepy-moon-11th-august-2025",
         "t": "restream"
       },
       {
         "n": "VIBRATIONS FOR A BETTER WORLD W/ AOKI TAKAMASA (R)",
         "s": "2025-12-19T09:00:00Z",
         "e": "2025-12-19T11:00:00Z",
-        "d": null,
+        "d": "Sticky Groove for Every Direction.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/aoki-takamasa/episodes/aoki-takamasa-26th-march-2025",
         "t": "restream"
       },
       {
@@ -482,27 +457,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2025-12-18T18:00:00Z",
-        "e": "2025-12-18T19:00:00Z",
+        "n": "Boom Bip: Dave Ball Tribute (R)",
+        "s": "2025-12-20T03:00:00Z",
+        "e": "2025-12-20T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream"
       },
       {
-        "n": "Pull up w/ Niceup",
-        "s": "2025-12-18T19:00:00Z",
-        "e": "2025-12-18T20:00:00Z",
-        "d": "With a monthly show on Subtle, Niceup is a London based DJ with a unique style. Pushing UKG, Breakbeat, Bass, Electro and 140. Weaving through genres showcasing new releases and older cuts.\r\n",
+        "n": "DARK ENTRIES w/ Josh Cheon (R)",
+        "s": "2025-12-20T04:00:00Z",
+        "e": "2025-12-20T05:00:00Z",
+        "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "SCALADE",
         "s": "2025-12-18T20:00:00Z",
@@ -1210,17 +1185,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Annett Scheffel – The Year Was:",
-        "s": "2025-12-18T18:00:00Z",
-        "e": "2025-12-18T20:00:00Z",
+        "n": "Dip in w/Babaganoush",
+        "s": "2025-12-24T07:00:00Z",
+        "e": "2025-12-24T08:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "Melange w/ Weak Spell",
+        "s": "2025-12-24T08:00:00Z",
+        "e": "2025-12-24T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "Jimmy Tamborello - Dying Songs",
         "s": "2025-12-18T20:00:00Z",
@@ -1732,25 +1715,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "MERRY DUBMAS: Ashla & Qur'an Shaheed – Flight Club: Armenia (12.23.24)",
+        "s": "2025-12-24T08:00:00Z",
+        "e": "2025-12-24T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "DREA",
-        "s": "2025-12-18T18:00:00Z",
-        "e": "2025-12-18T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Katy B",
-        "s": "2025-12-18T19:00:00Z",
-        "e": "2025-12-18T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Hessle Audio feat. Call Super",
         "s": "2025-12-18T20:00:00Z",
@@ -2044,22 +2019,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Exa-Terra",
-        "s": "2025-12-18T18:00:00Z",
-        "e": "2025-12-18T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Useless Seconds",
-        "s": "2025-12-18T19:00:00Z",
-        "e": "2025-12-18T20:00:00Z",
-        "d": null,
-        "j": "invite marino2",
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2025-12-18T20:00:00Z",
         "e": "2025-12-18T23:00:00Z",
@@ -2087,40 +2046,40 @@
         "t": "playlist"
       },
       {
-        "n": "Ygal Ohayon",
+        "n": "MumBeats",
         "s": "2025-12-19T13:00:00Z",
         "e": "2025-12-19T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite Sharouh",
         "u": null
       },
       {
-        "n": "Playlist France",
+        "n": "Artem",
         "s": "2025-12-19T14:00:00Z",
         "e": "2025-12-19T15:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
+        "j": "CLUB ESSENTIALS",
+        "u": null
       },
       {
-        "n": "Bunkaball",
+        "n": "Queer Cult",
         "s": "2025-12-19T15:00:00Z",
         "e": "2025-12-19T16:00:00Z",
         "d": null,
-        "j": "invite Marvy",
-        "u": null
+        "j": "DJ Monique invite Tweeman",
+        "u": null,
+        "t": "weekly"
       },
       {
-        "n": "Shampain",
+        "n": "Misantropical",
         "s": "2025-12-19T16:00:00Z",
         "e": "2025-12-19T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite SIMONA & KMILA",
         "u": null
       },
       {
-        "n": "SYLVERE",
+        "n": "BAÏLE avec MAÏA",
         "s": "2025-12-19T17:00:00Z",
         "e": "2025-12-19T18:00:00Z",
         "d": null,
@@ -2128,25 +2087,109 @@
         "u": null
       },
       {
-        "n": "Tijolo Records",
+        "n": "Exa-Terra",
         "s": "2025-12-19T18:00:00Z",
         "e": "2025-12-19T19:00:00Z",
         "d": null,
-        "j": "LIQUID J",
+        "j": null,
         "u": null
       },
       {
-        "n": "Mensonges",
+        "n": "Useless Seconds",
         "s": "2025-12-19T19:00:00Z",
         "e": "2025-12-19T20:00:00Z",
+        "d": null,
+        "j": "invite marino2",
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-19T20:00:00Z",
+        "e": "2025-12-19T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-19T23:00:00Z",
+        "e": "2025-12-20T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-20T08:00:00Z",
+        "e": "2025-12-20T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Ygal Ohayon",
+        "s": "2025-12-20T13:00:00Z",
+        "e": "2025-12-20T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2025-12-19T20:00:00Z",
-        "e": "2025-12-19T21:00:00Z",
+        "s": "2025-12-20T14:00:00Z",
+        "e": "2025-12-20T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Bunkaball",
+        "s": "2025-12-20T15:00:00Z",
+        "e": "2025-12-20T16:00:00Z",
+        "d": null,
+        "j": "invite Marvy",
+        "u": null
+      },
+      {
+        "n": "Shampain",
+        "s": "2025-12-20T16:00:00Z",
+        "e": "2025-12-20T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SYLVERE",
+        "s": "2025-12-20T17:00:00Z",
+        "e": "2025-12-20T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Tijolo Records",
+        "s": "2025-12-20T18:00:00Z",
+        "e": "2025-12-20T19:00:00Z",
+        "d": null,
+        "j": "LIQUID J",
+        "u": null
+      },
+      {
+        "n": "Mensonges",
+        "s": "2025-12-20T19:00:00Z",
+        "e": "2025-12-20T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2025-12-20T20:00:00Z",
+        "e": "2025-12-20T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2203,6 +2246,15 @@
         "n": "Restream",
         "s": "2025-12-19T06:56:49.130Z",
         "e": "2025-12-19T08:56:49.130Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Restream",
+        "s": "2025-12-19T08:56:07.219Z",
+        "e": "2025-12-19T10:56:07.219Z",
         "d": null,
         "j": null,
         "u": null,
