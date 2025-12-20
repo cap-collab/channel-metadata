@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-20T16:43:17.417Z",
+  "updated": "2025-12-20T18:47:09.174Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Trilogy Tapes w/ Basic Rhythm (R)",
-        "s": "2025-12-20T03:00:00Z",
-        "e": "2025-12-20T05:00:00Z",
-        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
-        "j": "Basic Rhythm",
-        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-22nd-august-2022",
-        "t": "restream"
-      },
-      {
-        "n": "ONY w/ Tzekin & Andrew3M (R)",
-        "s": "2025-12-20T05:00:00Z",
-        "e": "2025-12-20T06:00:00Z",
-        "d": "Same shit, different month.",
-        "j": "Tzekin & Andrew3M",
-        "u": "https://www.nts.live/api/v2/shows/ony/episodes/ony-28th-october-2020",
-        "t": "restream"
-      },
       {
         "n": "Uncanny Valley w/ Joe Sweeney (R)",
         "s": "2025-12-20T06:00:00Z",
@@ -92,9 +74,9 @@
         "n": "AS I WAS MOVING AHEAD - In Contrary Motion",
         "s": "2025-12-20T19:00:00Z",
         "e": "2025-12-20T20:00:00Z",
-        "d": null,
+        "d": "Regional missives from filmmaker Tania Feghali, whose work focuses on music, the poetry of journeying and documentary.\nFrom the host: \"In Contrary Motion – mainly piano pieces, echoes, fragments and glimpses of music as a continuous movement. Featuring Jessica Williams, Mary Lou Williams, Tomita, Tsegué Maryam Gebrou, Toshiko Akiyoshi, Friedrich Gulda, Terry Riley, Natalie Beylis, Haruomi Hosono, Moondog, Precious Tucker & others.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/tania-feghali/episodes/tania-feghali-20th-december-2025"
       },
       {
         "n": "Cosmic Peekaboo  - Now Sound Of Christmas",
@@ -223,6 +205,14 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SUNDAY CLUB w/ FINN",
+        "s": "2025-12-21T15:00:00Z",
+        "e": "2025-12-21T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
@@ -233,15 +223,6 @@
         "d": "' In celebration of Warp's re-release of Artificial Intelligence - a mix of some of the stuff that was floating around us at the time ' - Autechre",
         "j": "1992 CONTEXTUAL MIX",
         "u": "https://www.nts.live/api/v2/shows/guests/episodes/autechre-5th-february-2023",
-        "t": "restream"
-      },
-      {
-        "n": "DARK ENTRIES w/ Josh Cheon (R)",
-        "s": "2025-12-20T04:00:00Z",
-        "e": "2025-12-20T05:00:00Z",
-        "d": null,
-        "j": "Josh Cheon",
-        "u": null,
         "t": "restream"
       },
       {
@@ -334,17 +315,18 @@
         "n": "RACHEL GRACE ALMEIDA: 2025 in Review",
         "s": "2025-12-20T18:00:00Z",
         "e": "2025-12-20T19:00:00Z",
-        "d": null,
+        "d": "Venezuelan writer Rachel Grace Almeida spends an hour dipping into the expansive universe of Latin music every month.\nFrom the host: \"2025, what a trip! Here's my annual musical digest of the year just gone ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/rachel-grace-almeida/episodes/rachel-grace-almeida-20th-december-2025",
+        "t": "monthly"
       },
       {
         "n": "LABOUR",
         "s": "2025-12-20T19:00:00Z",
         "e": "2025-12-20T20:00:00Z",
-        "d": null,
+        "d": "LABOUR is the duo of Colin Hacklander and Farahnaz Hatam. Tune in each month for their hour-long show featuring rotating guests and friends from Dakar, Senegal. Expect a mixture of progressive electronic music with heavy sabar drum music, classic & current Mbalax, and timeless Sufi praises.\nFrom the host: \"This show follows on up the last here from October 2025, and features the great Senegalese singer & bandleader, Ouzin Ndiaye, known for his work with Youssou Ndour who features on several tracks of this show, but as a backup vocalist!\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/labour/episodes/labour-20th-december-2025"
       },
       {
         "n": "THE BIG HAPPY SHOW (R)",
@@ -465,6 +447,23 @@
         "n": "CIMETIÈRES DE FRANCE W/ OLIVER FOSTER (R)",
         "s": "2025-12-21T14:00:00Z",
         "e": "2025-12-21T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "IN FOCUS: BLACK SABBATH",
+        "s": "2025-12-21T15:00:00Z",
+        "e": "2025-12-21T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Andras - Old Gold pt.5 (R)",
+        "s": "2025-12-21T17:00:00Z",
+        "e": "2025-12-21T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1250,17 +1249,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Greg Belson - 45 live",
-        "s": "2025-12-20T04:00:00Z",
-        "e": "2025-12-20T06:00:00Z",
+        "n": "Locked On Records",
+        "s": "2025-12-25T17:00:00Z",
+        "e": "2025-12-25T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "Kishan",
+        "s": "2025-12-25T18:00:00Z",
+        "e": "2025-12-25T19:00:00Z",
+        "d": "Kishan is a DJ and Producer currently based in London. Actively involved in the music scene already, he produces and mixes a wide range of genres including UK Garage, Drum & Bass, House, Disco and Afrobeat. ",
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
         "s": "2025-12-20T06:00:00Z",
@@ -1797,18 +1804,25 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Zim & a hatt – Santa vs Easterbunny",
+        "s": "2025-12-25T17:00:00Z",
+        "e": "2025-12-25T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Darone Sassounian - In Sequence",
+        "s": "2025-12-25T18:00:00Z",
+        "e": "2025-12-25T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Mr. Redley",
-        "s": "2025-12-20T04:00:00Z",
-        "e": "2025-12-20T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Tom Ravenscroft",
         "s": "2025-12-20T05:00:00Z",
@@ -2212,24 +2226,6 @@
     ],
     "newtown": [
       {
-        "n": "RADIO PARTY",
-        "s": "2025-12-20T02:00:00Z",
-        "e": "2025-12-20T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Restream",
-        "s": "2025-12-20T03:38:34.318Z",
-        "e": "2025-12-20T05:38:34.318Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "Restream",
         "s": "2025-12-20T04:47:25.539Z",
         "e": "2025-12-20T06:47:25.539Z",
@@ -2327,6 +2323,15 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Restream",
+        "s": "2025-12-20T18:47:07.146Z",
+        "e": "2025-12-20T20:47:07.146Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "BOSSASAURUS TIME",
