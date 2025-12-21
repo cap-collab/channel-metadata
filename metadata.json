@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-21T16:14:31.404Z",
+  "updated": "2025-12-21T18:18:14.035Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUNG DART (R)",
-        "s": "2025-12-21T04:00:00Z",
-        "e": "2025-12-21T05:00:00Z",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-7th-october-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Blooming In Filth w/ CRISIS ACTING (R)",
-        "s": "2025-12-21T05:00:00Z",
-        "e": "2025-12-21T06:00:00Z",
-        "d": "Monthly transmissions from the eclectic world of CRISIS ACTING.",
-        "j": "CRISIS ACTING",
-        "u": "https://www.nts.live/api/v2/shows/crisis-acting/episodes/crisis-acting-18th-september-2024",
-        "t": "restream"
-      },
       {
         "n": "YOSHIMIO (R)",
         "s": "2025-12-21T06:00:00Z",
@@ -93,17 +75,18 @@
         "n": "LUPINI",
         "s": "2025-12-21T18:00:00Z",
         "e": "2025-12-21T20:00:00Z",
-        "d": null,
+        "d": "A little bit sweet, a little bit sad, a little bit silly - Lupini keeps it (mainly) horizontal with a mix of dubwise sounds, psychedelic rock, synth-pop and new wave.\nFrom the host: \"happy solstice! in the longest night, lupini keeps it horizontal and in the winter interior with a selection of some of her most-played releases of 2025\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-21st-december-2025"
       },
       {
         "n": "AD 93 w/ enya and Daniel S. Evans",
         "s": "2025-12-21T20:00:00Z",
         "e": "2025-12-21T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests.\nOld 88 Transition shows available on the archive.",
+        "j": "enya and Daniel S. Evans",
+        "u": "https://www.nts.live/api/v2/shows/whities-w-tasker/episodes/whities-w-tasker-21st-december-2025",
+        "t": "monthly"
       },
       {
         "n": "DEATH IS NOT THE END - Christmas in Heaven: Seasonal Gospel & Blues",
@@ -224,27 +207,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NOSEDRIP",
+        "s": "2025-12-22T20:00:00Z",
+        "e": "2025-12-22T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LEE GAMBLE",
+        "s": "2025-12-22T22:00:00Z",
+        "e": "2025-12-22T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "AUNTIE-ISM W/ SHABAZZ (R)",
-        "s": "2025-12-21T04:00:00Z",
-        "e": "2025-12-21T05:00:00Z",
-        "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.",
-        "j": "SHABAZZ",
-        "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-17th-june-2025",
-        "t": "restream"
-      },
-      {
-        "n": "EDDIE FICTION (R)",
-        "s": "2025-12-21T05:00:00Z",
-        "e": "2025-12-21T06:00:00Z",
-        "d": "Musical peregrinations…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/its-nation-time/episodes/its-nation-time-7th-november-2022",
-        "t": "restream"
-      },
       {
         "n": "In Focus: Eric Dolphy (R)",
         "s": "2025-12-21T06:00:00Z",
@@ -330,18 +311,18 @@
         "n": "Rio Doce - A Luta Continua (R)",
         "s": "2025-12-21T18:00:00Z",
         "e": "2025-12-21T20:00:00Z",
-        "d": null,
+        "d": "This edition of Rio Doce focuses on songs from independence in Africa and the anti racist movement in Brazil from the last 60 years.",
         "j": "A Luta Continua",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-12th-october-2022",
         "t": "restream"
       },
       {
         "n": "DOING TIME - Bhangra Special w/ Munir & Fuji’s Bazaar (R)",
         "s": "2025-12-21T20:00:00Z",
         "e": "2025-12-21T22:00:00Z",
-        "d": null,
+        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
         "j": "Munir & Fuji’s Bazaar",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-23rd-august-2020",
         "t": "restream"
       },
       {
@@ -460,6 +441,22 @@
         "n": "NATIVE SOUNDSYSTEM W/ SHOLZ",
         "s": "2025-12-22T18:00:00Z",
         "e": "2025-12-22T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "GET GRIMY W/ ZERNELL",
+        "s": "2025-12-22T20:00:00Z",
+        "e": "2025-12-22T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE",
+        "s": "2025-12-22T22:00:00Z",
+        "e": "2025-12-22T23:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1244,17 +1241,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "MILLETT",
+        "s": "2025-12-26T17:00:00Z",
+        "e": "2025-12-26T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Sessions w/ Amy B",
+        "s": "2025-12-26T18:00:00Z",
+        "e": "2025-12-26T19:00:00Z",
+        "d": "Sessions w/ Amy B is an underground multi-genre music show, showcasing the most prolific guests from all corners of the music industry. ",
+        "j": "Amy B",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Discoteca 3ala Mars",
-        "s": "2025-12-21T04:00:00Z",
-        "e": "2025-12-21T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Mark Maxwell - Sankofa Sound System",
         "s": "2025-12-21T06:00:00Z",
@@ -1738,17 +1745,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Beatie Wolfe - Orange Juice for the Ears",
+        "s": "2025-12-26T16:30:00Z",
+        "e": "2025-12-26T18:00:00Z",
+        "d": null,
+        "j": "Orange Juice for the Ears",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Daddy Differently and Dirty Dave - Things of Life",
+        "s": "2025-12-26T18:00:00Z",
+        "e": "2025-12-26T20:00:00Z",
+        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
+        "j": "Things of Life",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "rinse": [
-      {
-        "n": "Clementaum",
-        "s": "2025-12-21T04:00:00Z",
-        "e": "2025-12-21T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Ella Knight",
         "s": "2025-12-21T05:00:00Z",
@@ -2168,15 +2185,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "STRANGE BREW RADIO",
-        "s": "2025-12-21T04:00:00Z",
-        "e": "2025-12-21T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Restream",
         "s": "2025-12-21T06:00:00Z",
