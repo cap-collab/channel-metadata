@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-21T18:18:14.035Z",
+  "updated": "2025-12-21T20:13:40.643Z",
   "stations": {
     "nts1": [
-      {
-        "n": "YOSHIMIO (R)",
-        "s": "2025-12-21T06:00:00Z",
-        "e": "2025-12-21T07:00:00Z",
-        "d": "YoshimiO, the Japanese multi-instrumentalist and member of Boredoms, OOIOO, and Free Kitten takes over the NTS signal in a monthly residency, sharing sounds from her record collection.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yoshimio/episodes/yoshimio-8th-february-2024",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: INDIAN CLASSICAL INFLUENCE ON JAZZ (R)",
         "s": "2025-12-21T07:00:00Z",
@@ -92,9 +83,9 @@
         "n": "DEATH IS NOT THE END - Christmas in Heaven: Seasonal Gospel & Blues",
         "s": "2025-12-21T22:00:00Z",
         "e": "2025-12-22T00:00:00Z",
-        "d": null,
+        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.\nFrom the host: \"2hrs of festive gospel and blues records from the 1920s through to the early 1970s\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-21st-december-2025"
       },
       {
         "n": "INFINITE BODY (R)",
@@ -223,18 +214,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "object blue",
+        "s": "2025-12-22T23:00:00Z",
+        "e": "2025-12-23T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "In Focus: Eric Dolphy (R)",
-        "s": "2025-12-21T06:00:00Z",
-        "e": "2025-12-21T08:00:00Z",
-        "d": "Jazz multi-instrumentalist Eric Dolphy was a key figure in jazz's leap into the avant-garde in the early 1960s alongside Ornette Coleman, and was an experimental influence on John Coltrane as member of his touring band. \nHis nascent \"free jazz\" style featured ecstatic, lengthy improvisations that defied musical logic, non-musical speech-like sound. He also pioneered bass clarinet as a solo jazz instrument. ",
-        "j": "Eric Dolphy",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-eric-dolphy-4th-april-2025",
-        "t": "restream"
-      },
       {
         "n": "CS + KREME (R)",
         "s": "2025-12-21T08:00:00Z",
@@ -329,9 +319,9 @@
         "n": "Beautiful Swimmers (R)",
         "s": "2025-12-21T22:00:00Z",
         "e": "2025-12-22T00:00:00Z",
-        "d": null,
+        "d": "Eazy-breezy dancefloor eclecticism from the DC wonder duo…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/beautiful-swimmers/episodes/beautiful-swimmers-27th-july-2022",
         "t": "restream"
       },
       {
@@ -457,6 +447,14 @@
         "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE",
         "s": "2025-12-22T22:00:00Z",
         "e": "2025-12-22T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "WEEKEND READ w/ JONAH RABB",
+        "s": "2025-12-22T23:00:00Z",
+        "e": "2025-12-23T00:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1170,7 +1168,7 @@
         "u": null
       },
       {
-        "n": " CHUFFED w/ David Lunch",
+        "n": "Swing Thing w/ Oka",
         "s": "2025-12-26T02:00:00Z",
         "e": "2025-12-26T03:00:00Z",
         "d": null,
@@ -1259,17 +1257,17 @@
         "j": "Amy B",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Mark Maxwell - Sankofa Sound System",
-        "s": "2025-12-21T06:00:00Z",
-        "e": "2025-12-21T08:00:00Z",
+        "n": "Swampman w/ Zar, GAIA, Sydney Bryce & Renelle 893",
+        "s": "2025-12-26T19:00:00Z",
+        "e": "2025-12-26T21:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "Ale Cohen - Elevation Through Sound",
         "s": "2025-12-21T08:00:00Z",
@@ -1763,18 +1761,18 @@
         "j": "Things of Life",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Callie Ryan - Cuts 01",
+        "s": "2025-12-26T20:00:00Z",
+        "e": "2025-12-26T22:00:00Z",
+        "d": null,
+        "j": "Cuts 01",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "rinse": [
-      {
-        "n": "Ella Knight",
-        "s": "2025-12-21T05:00:00Z",
-        "e": "2025-12-21T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Playlist",
         "s": "2025-12-21T07:00:00Z",
@@ -1841,13 +1839,12 @@
         "u": null
       },
       {
-        "n": "Oblig",
+        "n": "Obligated Records presents",
         "s": "2025-12-21T20:00:00Z",
         "e": "2025-12-21T21:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
+        "j": "Oblig with Roll Deep",
+        "u": null
       },
       {
         "n": "The Grime Show with P Money & OGz",
@@ -1862,7 +1859,7 @@
         "s": "2025-12-21T23:00:00Z",
         "e": "2025-12-22T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Interval - Glamorama, Melbourne",
         "u": null
       },
       {
@@ -2024,15 +2021,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2025-12-20T23:00:00Z",
-        "e": "2025-12-21T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2025-12-21T08:00:00Z",
