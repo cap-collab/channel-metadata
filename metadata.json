@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-22T08:20:28.474Z",
+  "updated": "2025-12-22T10:14:55.885Z",
   "stations": {
     "nts1": [
-      {
-        "n": "AD 93 w/ enya and Daniel S. Evans",
-        "s": "2025-12-21T20:00:00Z",
-        "e": "2025-12-21T22:00:00Z",
-        "d": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests.\nOld 88 Transition shows available on the archive.",
-        "j": "enya and Daniel S. Evans",
-        "u": "https://www.nts.live/api/v2/shows/whities-w-tasker/episodes/whities-w-tasker-21st-december-2025",
-        "t": "monthly"
-      },
       {
         "n": "DEATH IS NOT THE END - Christmas in Heaven: Seasonal Gospel & Blues",
         "s": "2025-12-21T22:00:00Z",
@@ -94,9 +85,9 @@
         "n": "Soup To Nuts w/ PAM",
         "s": "2025-12-22T11:00:00Z",
         "e": "2025-12-22T13:00:00Z",
-        "d": null,
+        "d": "Let NTS brighten up your lunchtime hours.",
         "j": "PAM",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-pam-22nd-december-2025",
         "t": "biweekly"
       },
       {
@@ -225,18 +216,18 @@
         "j": "WINDY & CARL",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "MIL TOWNLEY (R)",
+        "s": "2025-12-23T10:00:00Z",
+        "e": "2025-12-23T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "DOING TIME - Bhangra Special w/ Munir & Fuji’s Bazaar (R)",
-        "s": "2025-12-21T20:00:00Z",
-        "e": "2025-12-21T22:00:00Z",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": "Munir & Fuji’s Bazaar",
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-23rd-august-2020",
-        "t": "restream"
-      },
       {
         "n": "Beautiful Swimmers (R)",
         "s": "2025-12-21T22:00:00Z",
@@ -310,12 +301,12 @@
         "t": "restream"
       },
       {
-        "n": "THE WONDER CABINET",
+        "n": "THE WONDER CABINET w/ Ramsy Kattan, Joseph Schiano Di Lombo, Alabaster DePlume and Jude",
         "s": "2025-12-22T11:00:00Z",
         "e": "2025-12-22T12:00:00Z",
-        "d": null,
+        "d": "Sounds and recordings from resident artists at the Wonder Cabinet space in Cremisan Valley, Bethlehem.\nFrom the host: \"Live recordings from Wonder Cabinet's concerts and open sessions in December 2025. in Bethlehem, Palestine.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-wonder-cabinet/episodes/the-wonder-cabinet-22nd-december-2025"
       },
       {
         "n": "SKYAPNEA w/ Plants Heal",
@@ -443,25 +434,18 @@
         "j": "SARAH DAVACHI",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "BASKET OF LIGHT W/ LIANA FLORES (R)",
+        "s": "2025-12-23T09:00:00Z",
+        "e": "2025-12-23T10:00:00Z",
+        "d": null,
+        "j": "LIANA FLORES",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Bass Cuts w/ Lotus Phaze",
-        "s": "2025-12-21T20:00:00Z",
-        "e": "2025-12-21T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Off-Switch Audio",
-        "s": "2025-12-21T21:00:00Z",
-        "e": "2025-12-21T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "SPOTLIGHT EVENTS ",
         "s": "2025-12-21T22:00:00Z",
@@ -551,6 +535,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2025-12-22T11:00:00Z",
+        "e": "2025-12-22T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "ODJO",
@@ -1253,17 +1246,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Barbarelle - Atlas",
-        "s": "2025-12-21T20:00:00Z",
-        "e": "2025-12-21T22:00:00Z",
+        "n": "Hypercell Records w/ Bokonon",
+        "s": "2025-12-27T09:00:00Z",
+        "e": "2025-12-27T10:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "Dun Roamin w/ Tomi From Brockley",
+        "s": "2025-12-27T10:00:00Z",
+        "e": "2025-12-27T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "body / negative - cloud music",
         "s": "2025-12-21T22:00:00Z",
@@ -1318,6 +1319,15 @@
         "n": "sounds of NOW",
         "s": "2025-12-22T10:00:00Z",
         "e": "2025-12-22T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2025-12-22T12:00:00Z",
+        "e": "2025-12-22T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1772,14 +1782,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Obligated Records presents",
-        "s": "2025-12-21T20:00:00Z",
-        "e": "2025-12-21T21:00:00Z",
-        "d": null,
-        "j": "Oblig with Roll Deep",
-        "u": null
-      },
       {
         "n": "The Grime Show with P Money & OGz",
         "s": "2025-12-21T21:00:00Z",
@@ -2302,15 +2304,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "MILLENNIUM STONE CIRCLE",
-        "s": "2025-12-21T19:00:00Z",
-        "e": "2025-12-21T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "GIMME TINNITUS RADIO TIME",
         "s": "2025-12-21T21:00:00Z",
