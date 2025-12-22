@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-22T04:33:23.892Z",
+  "updated": "2025-12-22T06:22:48.425Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SUNDAY CLUB w/ FINN",
-        "s": "2025-12-21T15:00:00Z",
-        "e": "2025-12-21T17:00:00Z",
-        "d": "Dance music with festive feeling; a seasonal Sunday with Finn.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sunday-club/episodes/sunday-club-21st-december-2025"
-      },
-      {
-        "n": "A Month of Sundays w/ Bill Spencer - Dutch Rap Special",
-        "s": "2025-12-21T17:00:00Z",
-        "e": "2025-12-21T18:00:00Z",
-        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.\nFrom the host: \"Dutch soundcloud rap from 2017-2022\"",
-        "j": "Bill Spencer",
-        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-21st-december-2025",
-        "t": "biweekly"
-      },
       {
         "n": "LUPINI",
         "s": "2025-12-21T18:00:00Z",
@@ -103,9 +86,9 @@
         "n": "THE EARLY BIRD SHOW W/ EDDIE FICTION",
         "s": "2025-12-22T07:00:00Z",
         "e": "2025-12-22T09:00:00Z",
-        "d": null,
+        "d": "Introducing The Early Bird Show - our radio offering for morning people, hosted by Maria Somerville (Mondays and Tuesdays), Spirit Blue (Wednesdays and Thursdays) and Jack Rollo (Fridays). Weekday mornings, 7-9am.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-eddie-fiction-22nd-december-2025"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ SMERZ",
@@ -232,27 +215,18 @@
         "j": "GANAVYA",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "HOMESHAKE (R)",
+        "s": "2025-12-23T07:00:00Z",
+        "e": "2025-12-23T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "IN FOCUS: BLACK SABBATH",
-        "s": "2025-12-21T15:00:00Z",
-        "e": "2025-12-21T17:00:00Z",
-        "d": "The true progenitors of the darkest art: heavy metal. Birthed in the industrial fug of 1960s Birmingham, Black Sabbath set themselves apart from other rock bands of the era, espousing occult themes in their lyrics, and playing their guitars at a menacing downtune.",
-        "j": "BLACK SABBATH",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-black-sabbath-9th-december-2022",
-        "t": "weekly"
-      },
-      {
-        "n": "Andras - Old Gold pt.5 (R)",
-        "s": "2025-12-21T17:00:00Z",
-        "e": "2025-12-21T18:00:00Z",
-        "d": "All flavours of acoustic & historical nuggets from Andras - Melbourne production wiz, composer & sleuth of musical ephemera…",
-        "j": "Old Gold pt.5",
-        "u": "https://www.nts.live/api/v2/shows/andras/episodes/andras-4th-january-2022",
-        "t": "restream"
-      },
       {
         "n": "Rio Doce - A Luta Continua (R)",
         "s": "2025-12-21T18:00:00Z",
@@ -320,18 +294,18 @@
         "n": "NTS GUIDE TO: JAZZ IN MURAKAMI NOVELS (R)",
         "s": "2025-12-22T06:00:00Z",
         "e": "2025-12-22T08:00:00Z",
-        "d": null,
+        "d": "'Somewhere along the line Coltrane’s soprano sax runs out of steam. Now it’s McCoy Tyner’s piano solo I hear, the left hand carving out a repetitious rhythm and the right layering on thick, forbidding chords. Like some mythic scene, the music portrays somebody’s - a nameless, faceless somebody’s - dim past, all the details laid out as clearly as entrails being dragged out of the darkness. Or at least that’s how it sounds to me. The patient, repeating music ever so slowly breaks apart the real, rearranging the pieces. It has a hypnotic, menacing smell, just like the forest' - Kafka On The Shore\nMusic, and specifically jazz, has always featured heavily in the literary imagination of Haruki Murakami. In this radio special, NTS lays down two hours of jazz records as featured throughout Murakami's corpus. ",
         "j": "JAZZ IN MURAKAMI NOVELS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-jazz-in-murakami-novels-21st-november-2024",
         "t": "restream"
       },
       {
         "n": "HIGH JAZZ* w/ ill Dubio (R)",
         "s": "2025-12-22T08:00:00Z",
         "e": "2025-12-22T09:00:00Z",
-        "d": null,
+        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
         "j": "ill Dubio",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-14th-august-2024",
         "t": "restream"
       },
       {
@@ -450,17 +424,27 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "SOUNDS OF THE DAWN - CONSTANCE DEMBY SPECIAL (R)",
+        "s": "2025-12-23T05:00:00Z",
+        "e": "2025-12-23T07:00:00Z",
+        "d": null,
+        "j": "CONSTANCE DEMBY SPECIAL",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "CULTIVATION OF MIND W/ BAMBOY - SANT VANI SPECIAL (R)",
+        "s": "2025-12-23T07:00:00Z",
+        "e": "2025-12-23T08:00:00Z",
+        "d": null,
+        "j": "BAMBOY",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Dorian Day",
-        "s": "2025-12-21T16:00:00Z",
-        "e": "2025-12-21T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "SETTINGS",
         "s": "2025-12-21T17:00:00Z",
@@ -1280,24 +1264,6 @@
     ],
     "dublab": [
       {
-        "n": "djjs 2",
-        "s": "2025-12-21T15:00:00Z",
-        "e": "2025-12-21T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2025-12-21T17:00:00Z",
-        "e": "2025-12-21T18:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "KMRU presents: Joseph Kamaru's Kenya Classics – guest session",
         "s": "2025-12-21T18:00:00Z",
         "e": "2025-12-21T20:00:00Z",
@@ -1353,6 +1319,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2025-12-22T08:00:00Z",
+        "e": "2025-12-22T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "christeeeene - cherry custard",
@@ -1782,25 +1757,18 @@
         "j": "The Honey Pot",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DJ Kerry - The Basement",
+        "s": "2025-12-27T06:00:00Z",
+        "e": "2025-12-27T08:00:00Z",
+        "d": null,
+        "j": "The Basement",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Supa D feat. Anthony Ranz",
-        "s": "2025-12-21T15:00:00Z",
-        "e": "2025-12-21T17:00:00Z",
-        "d": null,
-        "j": "The Hotsupa show",
-        "u": null
-      },
-      {
-        "n": "El Londo with Ashbeck, Capo Lee, Crafty 893 & Ramonie",
-        "s": "2025-12-21T17:00:00Z",
-        "e": "2025-12-21T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Bok Bok",
         "s": "2025-12-21T18:00:00Z",
@@ -2169,22 +2137,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Connect'HER",
-        "s": "2025-12-21T16:00:00Z",
-        "e": "2025-12-21T17:00:00Z",
-        "d": null,
-        "j": "invite Albane from earth",
-        "u": null
-      },
-      {
-        "n": "HORS-SOL",
-        "s": "2025-12-21T17:00:00Z",
-        "e": "2025-12-21T18:00:00Z",
-        "d": null,
-        "j": "Lastvuska",
-        "u": null
-      },
-      {
         "n": "Neida",
         "s": "2025-12-21T18:00:00Z",
         "e": "2025-12-21T19:00:00Z",
@@ -2296,15 +2248,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "HACKNEY UPON CALUMET",
-        "s": "2025-12-21T16:00:00Z",
-        "e": "2025-12-21T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "MXD SGNLS",
         "s": "2025-12-21T17:00:00Z",
