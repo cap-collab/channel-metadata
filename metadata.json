@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2025-12-24T12:26:38.195Z",
+  "updated": "2025-12-24T14:13:02.204Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ALTAR ♱ ELECTRONICA W/ YEULE (R)",
-        "s": "2025-12-24T00:00:00Z",
-        "e": "2025-12-24T01:00:00Z",
-        "d": null,
-        "j": "YEULE",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "OTAKU: GHOST IN THE SHELL (R)",
         "s": "2025-12-24T01:00:00Z",
@@ -115,9 +106,9 @@
         "n": "NTS Guide to: Off Kilter Christmas (R)",
         "s": "2025-12-24T15:00:00Z",
         "e": "2025-12-24T16:00:00Z",
-        "d": null,
+        "d": "Seasonal oddities from the fringe of xmas music; featuring lo-fi, outsiders and more, from oddballs like Chris Wind, Daniel Johnston, and Dennis Driscoll.",
         "j": "Off Kilter Christmas",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-off-kilter-christmas-25th-december-2023",
         "t": "restream"
       },
       {
@@ -254,18 +245,18 @@
         "j": "Francesco Fusaro",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Tommasi - Christmas Special (R)",
+        "s": "2025-12-25T08:00:00Z",
+        "e": "2025-12-25T10:00:00Z",
+        "d": null,
+        "j": "Christmas Special",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "CONFUSING MIX W/ JOSH DA COSTA (R)",
-        "s": "2025-12-24T00:00:00Z",
-        "e": "2025-12-24T01:00:00Z",
-        "d": null,
-        "j": "JOSH DA COSTA",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "MINIMAL WAVE W/ VERONICA VASICKA (R)",
         "s": "2025-12-24T01:00:00Z",
@@ -378,18 +369,18 @@
         "n": "YASMINE HAMDAN (R)",
         "s": "2025-12-24T14:00:00Z",
         "e": "2025-12-24T15:00:00Z",
-        "d": null,
+        "d": "Beirut-born, Paris-based producer and songwriter Yasmine Hamdan plays an hour of selections, following the release of “Hon” a new single written with Palestinian poet Anas Alaili. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/yasmine-hamdan-28th-may-2025",
         "t": "restream"
       },
       {
         "n": "DESIRE PATHS W/ LAURA GROVES (R)",
         "s": "2025-12-24T15:00:00Z",
         "e": "2025-12-24T16:00:00Z",
-        "d": null,
+        "d": "Desire paths are formed by repeated deviation from official routes. Artist/producer Laura Groves explores private roads and dreamscapes with a series of mixtapes featuring demos, synth sketches, collaborations, pop classics, field recordings and soundtracks.\nFrom the host: \"An hour-long freeform piece. Home-recorded in one take, this piece builds on an earlier Desire Paths show which was itself fully improvised. I experiment with synthesiser and vocal layers; part of an ongoing sonic project exploring reclamation of memory and my upbringing in Bradford.\"",
         "j": "LAURA GROVES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/desire-paths/episodes/desire-paths-4th-december-2025",
         "t": "restream"
       },
       {
@@ -517,25 +508,27 @@
         "j": "RUBY KHAIRA",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "ORGANIC MUSIC TOKYO W/ CHEE SHIMIZU (R)",
+        "s": "2025-12-25T07:00:00Z",
+        "e": "2025-12-25T08:00:00Z",
+        "d": null,
+        "j": "CHEE SHIMIZU",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ALICE COLTRANE SPECIAL: TRANSCENDING THROUGH MUSIC (R)",
+        "s": "2025-12-25T08:00:00Z",
+        "e": "2025-12-25T09:40:00Z",
+        "d": null,
+        "j": "TRANSCENDING THROUGH MUSIC",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "GFTV w/ Neon Beats",
-        "s": "2025-12-24T00:00:00Z",
-        "e": "2025-12-24T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Zutai",
-        "s": "2025-12-24T01:00:00Z",
-        "e": "2025-12-24T02:00:00Z",
-        "d": "Japanese DJ from Tokyo, currently living in London.  Based on UK club music, but straddles other genres such as dancehall, reggaeton, gqom and amapiano. ",
-        "j": null,
-        "u": null
-      },
       {
         "n": "Trans Caribe Express w/ moreit",
         "s": "2025-12-24T02:00:00Z",
@@ -824,7 +817,8 @@
         "e": "2025-12-25T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "SI*BL",
@@ -930,7 +924,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Sessions w/ Amy B",
@@ -1228,15 +1222,6 @@
       }
     ],
     "dublab": [
-      {
-        "n": "Hoseh - Version Sounds",
-        "s": "2025-12-24T00:00:00Z",
-        "e": "2025-12-24T02:00:00Z",
-        "d": null,
-        "j": "Version Sounds",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Maddy Maia - Future Frequencies",
         "s": "2025-12-24T02:00:00Z",
@@ -1714,23 +1699,6 @@
     ],
     "rinse": [
       {
-        "n": "Swimful",
-        "s": "2025-12-24T00:00:00Z",
-        "e": "2025-12-24T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Diffrent",
-        "s": "2025-12-24T01:00:00Z",
-        "e": "2025-12-24T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "COIDO",
         "s": "2025-12-24T02:00:00Z",
         "e": "2025-12-24T03:00:00Z",
@@ -2170,15 +2138,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "YOUR FAVORITE DJ'S FAVORITE DJ",
-        "s": "2025-12-23T23:00:00Z",
-        "e": "2025-12-24T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "THRESHOLD_",
         "s": "2025-12-24T01:00:00Z",
