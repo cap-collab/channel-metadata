@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-04T12:24:47.407Z",
+  "updated": "2026-01-04T14:11:49.460Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SEMATARY (R)",
-        "s": "2026-01-04T00:00:00Z",
-        "e": "2026-01-04T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "WORLDPEACE DMT - EAST ROAD (R)",
-        "s": "2026-01-04T01:00:00Z",
-        "e": "2026-01-04T02:00:00Z",
-        "d": "London-based multifaceted musician Leo Fincham, recording under the moniker of Worldpeace DMT, takes over the NTS airwaves.",
-        "j": "EAST ROAD",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/worldpeace-dmt-12th-november-2025",
-        "t": "restream"
-      },
       {
         "n": "HAYLEY WILLIAMS & DANIEL JAMES (R)",
         "s": "2026-01-04T02:00:00Z",
@@ -104,9 +86,9 @@
         "n": "MAÏ-LINH (R)",
         "s": "2026-01-04T16:00:00Z",
         "e": "2026-01-04T17:00:00Z",
-        "d": null,
+        "d": "With an ear for the timeless and the undiscovered, Maï-Linh—head of CTW Podcasts—brings a rich selection blending rare finds, overlooked classics, and tracks that span decades. Tune in for a blend of deep cuts and fresh gems that bridge the familiar and the forgotten.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mai-linh/episodes/mai-linh-25th-march-2025",
         "t": "restream"
       },
       {
@@ -243,25 +225,18 @@
         "j": "FLO",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-01-05T11:00:00Z",
+        "e": "2026-01-05T13:00:00Z",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "Explosive Flesh w/ DJ Obsessive Fantasy",
-        "s": "2026-01-04T00:00:00Z",
-        "e": "2026-01-04T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "WRETCHED OF THE EARTH W/ ECHODRIS",
-        "s": "2026-01-04T01:00:00Z",
-        "e": "2026-01-04T02:00:00Z",
-        "d": "Ain't no peace till there's peace in Gaza. A dark night of the soul through loss in a time of crisis and reckoning. Mix title borrowed from the book \"Wretched of the Earth\" by Frantz Fanon.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/peace-2025/episodes/peace-2025-wretched-of-the-earth-w-echodris-4th-january-2026"
-      },
       {
         "n": "Void Anomalies w/ Harsh Noise Boyfriend",
         "s": "2026-01-04T02:00:00Z",
@@ -362,17 +337,17 @@
         "n": "Twilight w/ Sip",
         "s": "2026-01-04T14:00:00Z",
         "e": "2026-01-04T15:00:00Z",
-        "d": null,
+        "d": "Hi everyone, I think it’s very hard not to get distracted with everything demanding our attention. Now more than ever, we’ve got to take back our time and attention to focus on what’s important. I’ve started collecting songs that bring me peace in troubled times. May it help you too <3",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/peace-2025/episodes/peace-2025-twilight-w-sip-4th-january-2026"
       },
       {
         "n": "touch grass (lina12345)",
         "s": "2026-01-04T15:00:00Z",
         "e": "2026-01-04T16:00:00Z",
-        "d": null,
+        "d": "This set is inspired by 90s liquid jungle. I find this music one very effective way to calm my mind in times where war, warcrimes, cruelty, injustice and fear are on display. \nI hope this mix has the same effect for the listeners. even though it may seem hard, and in this injustice, for some it is impossible because they struggle to survive, I still think its important to remember that we are capable of making and enjoying beautiful and meaningful art. and that it can make us come together.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/peace-2025/episodes/peace-2025-touch-grass-lina12345-4th-january-2026"
       },
       {
         "n": "AGE OF CONCORD AND REPOSE W/ ALONSO FLORES",
@@ -490,26 +465,27 @@
         "j": "DUBBY",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Dread or Dead Records",
-        "s": "2026-01-04T00:00:00Z",
-        "e": "2026-01-04T01:00:00Z",
+        "n": "SHELLS (R)",
+        "s": "2026-01-05T08:00:00Z",
+        "e": "2026-01-05T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
       {
-        "n": "CHUFFED 010 w/ David Lunch b2b EMMALINE",
-        "s": "2026-01-04T01:00:00Z",
-        "e": "2026-01-04T02:00:00Z",
+        "n": "TRAPDOOR W/ NEIL KRUG (R)",
+        "s": "2026-01-05T09:00:00Z",
+        "e": "2026-01-05T10:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
-      },
+        "j": "NEIL KRUG",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Polar Dance w/Winter Games",
         "s": "2026-01-04T02:00:00Z",
@@ -1367,18 +1343,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Collectors' Cuts w/ Antek feat. Ben Boe",
+        "s": "2026-01-09T13:00:00Z",
+        "e": "2026-01-09T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Sauce Collective ",
+        "s": "2026-01-09T14:00:00Z",
+        "e": "2026-01-09T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Callie Ryan - Storage Container",
-        "s": "2026-01-04T00:00:00Z",
-        "e": "2026-01-04T02:00:00Z",
-        "d": null,
-        "j": "Storage Container",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Andy Oro and Akumen - Made to Move",
         "s": "2026-01-04T02:00:00Z",
@@ -1838,23 +1822,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Zenker Brothers",
-        "s": "2026-01-03T23:00:00Z",
-        "e": "2026-01-04T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Ehua",
-        "s": "2026-01-04T00:00:00Z",
-        "e": "2026-01-04T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "ryota",
         "s": "2026-01-04T01:00:00Z",
