@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-04T14:11:49.460Z",
+  "updated": "2026-01-04T16:14:52.712Z",
   "stations": {
     "nts1": [
-      {
-        "n": "HAYLEY WILLIAMS & DANIEL JAMES (R)",
-        "s": "2026-01-04T02:00:00Z",
-        "e": "2026-01-04T03:00:00Z",
-        "d": "Paramore's Hayley Williams stops by the studio alongside producer and collaborator Daniel James – playing tracks by Double Virgo, Gilla Band, Joanne Robertson, and more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/hayley-williams-daniel-james-7th-october-2025",
-        "t": "restream"
-      },
       {
         "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE (R)",
         "s": "2026-01-04T03:00:00Z",
@@ -95,9 +86,9 @@
         "n": "NATALIA PANZER - COVER SONGS (R)",
         "s": "2026-01-04T17:00:00Z",
         "e": "2026-01-04T18:00:00Z",
-        "d": null,
+        "d": "Curio earworms and other obsessions from Krakow's Natalia Panzer.",
         "j": "COVER SONGS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-8th-november-2025",
         "t": "restream"
       },
       {
@@ -234,25 +225,17 @@
         "j": "John Gómez",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Raisa K",
+        "s": "2026-01-05T13:00:00Z",
+        "e": "2026-01-05T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Void Anomalies w/ Harsh Noise Boyfriend",
-        "s": "2026-01-04T02:00:00Z",
-        "e": "2026-01-04T03:00:00Z",
-        "d": "[dis]comfort in empty corners. \ntracing creases of an uneasy peace.\nsmells like cemetery,\nlate autumn.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/peace-2025/episodes/peace-2025-void-anomalies-w-harsh-noise-boyfriend-4th-january-2026"
-      },
-      {
-        "n": "sensitiv w/ DJ Cambumbo",
-        "s": "2026-01-04T03:00:00Z",
-        "e": "2026-01-04T04:00:00Z",
-        "d": "You are lying on a soft pink cloud while the sun pokes from behind the earth beneath. There is no wind and no sound. The sky and everything around you slowly changes colors until the sun has finally risen.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/peace-2025/episodes/peace-2025-sensitiv-w-dj-cambumbo-4th-january-2026"
-      },
       {
         "n": "EVERYDAY A FEELING W/ SPELLS FOR NATURE",
         "s": "2026-01-04T04:00:00Z",
@@ -353,17 +336,17 @@
         "n": "AGE OF CONCORD AND REPOSE W/ ALONSO FLORES",
         "s": "2026-01-04T16:00:00Z",
         "e": "2026-01-04T17:00:00Z",
-        "d": null,
+        "d": "Stillness drifts as tenderness echoes and aches; songs for quiet reflection and unanchored listening, live from Copenhagen.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/peace-2025/episodes/peace-2025-age-of-repose-concord-w-alonso-flores-4th-january-2026"
       },
       {
         "n": "Imagine Peace w/ MJI",
         "s": "2026-01-04T17:00:00Z",
         "e": "2026-01-04T18:00:00Z",
-        "d": null,
+        "d": "Home is peace — an ambient journey through migration, memory, and return. A sound collection of shared memories and distant places, like an albatross crossing the sea, finding calm in echoes of home",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/peace-2025/episodes/peace-2025-imagine-peace-w-mji-4th-january-2026"
       },
       {
         "n": "perpetual whispers w/ nonsenz",
@@ -483,18 +466,26 @@
         "j": "NEIL KRUG",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Polar Dance w/Winter Games",
-        "s": "2026-01-04T02:00:00Z",
-        "e": "2026-01-04T03:00:00Z",
+        "n": "TOTAL STASIS (R)",
+        "s": "2026-01-05T10:00:00Z",
+        "e": "2026-01-05T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
+      {
+        "n": "3XL",
+        "s": "2026-01-05T11:00:00Z",
+        "e": "2026-01-05T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-01-04T03:00:00Z",
@@ -593,6 +584,15 @@
         "j": "eatmybeat",
         "u": "https://www.subtleradio.com/artists/extrasaus-w-eatmybeat/",
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-04T17:00:00Z",
+        "e": "2026-01-04T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Kitschko",
@@ -1360,18 +1360,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Andy Oro and Akumen - Made to Move",
-        "s": "2026-01-04T02:00:00Z",
-        "e": "2026-01-04T04:00:00Z",
+        "n": "Kamzuqi",
+        "s": "2026-01-09T15:00:00Z",
+        "e": "2026-01-09T16:00:00Z",
         "d": null,
-        "j": "Made to Move",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "The Free Range Sounds Show",
+        "s": "2026-01-09T16:00:00Z",
+        "e": "2026-01-09T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Chico Sonido Mixxx Show",
         "s": "2026-01-04T04:00:00Z",
@@ -1817,6 +1826,15 @@
         "e": "2026-01-09T08:00:00Z",
         "d": null,
         "j": "PELLYVISION",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "EddyMac - Something Going On",
+        "s": "2026-01-09T16:00:00Z",
+        "e": "2026-01-09T18:00:00Z",
+        "d": null,
+        "j": "Something Going On",
         "u": null,
         "t": "monthly"
       }
