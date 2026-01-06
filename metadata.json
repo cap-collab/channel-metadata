@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-06T14:15:32.433Z",
+  "updated": "2026-01-06T16:18:22.551Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SNZ (R)",
-        "s": "2026-01-06T02:00:00Z",
-        "e": "2026-01-06T03:00:00Z",
-        "d": "Plug in and zone out. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/snz/episodes/snz-27th-september-2022",
-        "t": "restream"
-      },
       {
         "n": "5 GATE TEMPLE W/ GODPARENT (R)",
         "s": "2026-01-06T03:00:00Z",
@@ -84,12 +75,21 @@
         "t": "biweekly"
       },
       {
+        "n": "TRINH (R)",
+        "s": "2026-01-06T16:00:00Z",
+        "e": "2026-01-06T17:00:00Z",
+        "d": "TRiNH - an hour of covers and nostalgic feels, playing a wide range of genres with a focus on L-O-V-E.\nImage by Mary Scanlon IG",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/trinh/episodes/trinh-9th-may-2025",
+        "t": "restream"
+      },
+      {
         "n": "QUEST NO MORE W/ ELHEIST & MTMBO",
         "s": "2026-01-06T17:00:00Z",
         "e": "2026-01-06T18:00:00Z",
-        "d": null,
+        "d": "Elheist steers deep‑cuts, left‑field electronica, obscure grooves and sounds from the fam into the fold, where worlds collide, textures shift and surprises hit. check your quest, leave the rest.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/quest-no-more/episodes/quest-no-more-6th-january-2026"
       },
       {
         "n": "Cõvco: SURRENDER",
@@ -220,26 +220,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TASH LC",
+        "s": "2026-01-07T17:00:00Z",
+        "e": "2026-01-07T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "ENERGY RESERVE SYSTEMS w/ KITTY CA$H (R)",
-        "s": "2026-01-06T02:00:00Z",
-        "e": "2026-01-06T03:00:00Z",
-        "d": "Energy Reserve Systems is a sonic exploration of rhythm, energy, and emotion—blending deep house, hard-hitting club edits, soulful grooves, and genre-bending sounds. Each mix is a journey through movement and mood, designed to recharge the spirit, ignite the dancefloor, and push the boundaries of sound.",
-        "j": "KITTY CA$H",
-        "u": "https://www.nts.live/api/v2/shows/kitty-cash/episodes/kitty-cash-8th-july-2020",
-        "t": "restream"
-      },
-      {
-        "n": "DOOM IS NO EXCUSE: HYBRID SET @ NOWADAYS NONSTOP",
-        "s": "2026-01-06T03:00:00Z",
-        "e": "2026-01-06T04:00:00Z",
-        "d": "\"SPIRITUAL\" \nMHYSA + chuki\nShow title credit: Hannah Black",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/scraaatch/episodes/scraaatch-6th-january-2026"
-      },
       {
         "n": "In Focus: Banyen Rakkaen (R)",
         "s": "2026-01-06T04:00:00Z",
@@ -341,9 +333,9 @@
         "n": "YU SU",
         "s": "2026-01-06T17:00:00Z",
         "e": "2026-01-06T18:00:00Z",
-        "d": null,
+        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-6th-january-2026",
         "t": "monthly"
       },
       {
@@ -476,18 +468,17 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Phambinho w/ k_anti",
+        "s": "2026-01-07T11:00:00Z",
+        "e": "2026-01-07T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Underscore_",
-        "s": "2026-01-06T02:00:00Z",
-        "e": "2026-01-06T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-01-06T03:00:00Z",
@@ -603,6 +594,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-06T17:00:00Z",
+        "e": "2026-01-06T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": " Karishma",
@@ -1326,36 +1326,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": " Alien Izz",
+        "s": "2026-01-11T15:00:00Z",
+        "e": "2026-01-11T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "The Garage Garden",
+        "s": "2026-01-11T16:00:00Z",
+        "e": "2026-01-11T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Ella Warren - Lucky Lefty",
-        "s": "2026-01-06T01:55:00Z",
-        "e": "2026-01-06T03:00:00Z",
-        "d": null,
-        "j": "Lucky Lefty",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Ella Warren - Lucky Lefty",
-        "s": "2026-01-06T02:00:00Z",
-        "e": "2026-01-06T03:00:00Z",
-        "d": null,
-        "j": "Lucky Lefty",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Trovarsi - Signal",
-        "s": "2026-01-06T03:00:00Z",
-        "e": "2026-01-06T04:00:00Z",
-        "d": null,
-        "j": "Signal",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Monalisa Murray - Paths of Rhythm",
         "s": "2026-01-06T04:00:00Z",
@@ -1824,18 +1813,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "djjs 2",
+        "s": "2026-01-11T15:00:00Z",
+        "e": "2026-01-11T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Left, Right & Centre",
-        "s": "2026-01-06T02:00:00Z",
-        "e": "2026-01-06T03:00:00Z",
-        "d": null,
-        "j": "Nestor",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-01-06T03:00:00Z",
