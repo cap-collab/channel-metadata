@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-07T06:21:58.612Z",
+  "updated": "2026-01-07T08:19:46.510Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Cõvco: SURRENDER",
-        "s": "2026-01-06T18:00:00Z",
-        "e": "2026-01-06T19:00:00Z",
-        "d": "ARTIST, DJ Cõvco sonically birthing a utopian place of chaku chaku. With her bi-monthly invitation, she explores her limitless approach to mixing, a soundclash of experimental/warped club beats mixed with her live melodic/chants acapella edits - her signature dancefloor experience.",
-        "j": "SURRENDER",
-        "u": "https://www.nts.live/api/v2/shows/covco/episodes/covco-6th-january-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "SURF GANG RADIO W/ SAMBA JEAN-BAPTISTE",
-        "s": "2026-01-06T19:00:00Z",
-        "e": "2026-01-06T20:00:00Z",
-        "d": "A radio show curated by Surf Gang Records. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-6th-january-2026"
-      },
       {
         "n": "RUPTURE W/ MANTRA & DOUBLE O",
         "s": "2026-01-06T20:00:00Z",
@@ -103,9 +86,9 @@
         "n": "The NTS Breakfast Show w/ Ruby Savage",
         "s": "2026-01-07T09:00:00Z",
         "e": "2026-01-07T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-ruby-savage-7th-january-2026"
       },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
@@ -238,17 +221,18 @@
         "j": "PAM",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-01-08T11:00:00Z",
+        "e": "2026-01-08T13:00:00Z",
+        "d": null,
+        "j": "BABYSCHÖN",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "PENDER STREET STEPPERS",
-        "s": "2026-01-06T18:00:00Z",
-        "e": "2026-01-06T20:00:00Z",
-        "d": "The breezy sound of the Canadian Riviera, from Mood Hut's Pender Street Steppers. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/pender-street-steppers/episodes/pender-street-steppers-6th-january-2026"
-      },
       {
         "n": "Nick Hakim",
         "s": "2026-01-06T20:00:00Z",
@@ -352,18 +336,18 @@
         "n": "Forager Records (R)",
         "s": "2026-01-07T08:00:00Z",
         "e": "2026-01-07T09:00:00Z",
-        "d": null,
+        "d": "Forager Records is a Los Angeles based record label, committed to unearthing and breathing new life into rare and under appreciated sounds from the past. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/forager-records/episodes/forager-records-27th-february-2025",
         "t": "restream"
       },
       {
         "n": "A Colourful Storm (R)",
         "s": "2026-01-07T09:00:00Z",
         "e": "2026-01-07T10:00:00Z",
-        "d": null,
+        "d": "A Colourful Storm from label head Moopie, featuring contemplative ambience, folksong and indie-pop melancholia, contemporary electronics and beyond.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/a-colourful-storm/episodes/a-colourful-storm-4th-november-2024",
         "t": "restream"
       },
       {
@@ -486,27 +470,27 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
-      {
-        "n": " Karishma",
-        "s": "2026-01-06T18:00:00Z",
-        "e": "2026-01-06T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
       },
       {
-        "n": "Ro-Motion",
-        "s": "2026-01-06T19:00:00Z",
-        "e": "2026-01-06T20:00:00Z",
+        "n": "DISCOSTAN",
+        "s": "2026-01-08T03:00:00Z",
+        "e": "2026-01-08T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "ABIU",
+        "s": "2026-01-08T04:00:00Z",
+        "e": "2026-01-08T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": "Jake Plisken",
         "s": "2026-01-06T20:00:00Z",
@@ -595,6 +579,15 @@
         "j": "Paul Hertmann",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-07T09:00:00Z",
+        "e": "2026-01-07T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Music that Moves",
@@ -1337,15 +1330,6 @@
     ],
     "dublab": [
       {
-        "n": "Jonathan Kornman - Discoteca Imaginaria",
-        "s": "2026-01-06T18:00:00Z",
-        "e": "2026-01-06T20:00:00Z",
-        "d": null,
-        "j": "Discoteca Imaginaria",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "gtalks",
         "s": "2026-01-06T20:00:00Z",
         "e": "2026-01-06T21:00:00Z",
@@ -1848,24 +1832,6 @@
     ],
     "rinse": [
       {
-        "n": "Prozak",
-        "s": "2026-01-06T18:00:00Z",
-        "e": "2026-01-06T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Ploy",
-        "s": "2026-01-06T19:00:00Z",
-        "e": "2026-01-06T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "DJ Lag",
         "s": "2026-01-06T20:00:00Z",
         "e": "2026-01-06T22:00:00Z",
@@ -2209,23 +2175,6 @@
     ],
     "rinsefr": [
       {
-        "n": "La Connect’ avec Le Kaiju",
-        "s": "2026-01-06T18:00:00Z",
-        "e": "2026-01-06T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Lisa More",
-        "s": "2026-01-06T19:00:00Z",
-        "e": "2026-01-06T20:00:00Z",
-        "d": null,
-        "j": "invite Callie Reiff",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-01-06T20:00:00Z",
         "e": "2026-01-06T23:00:00Z",
@@ -2253,9 +2202,9 @@
         "t": "playlist"
       },
       {
-        "n": "JP MANO",
+        "n": "Chloé Sarraméa",
         "s": "2026-01-07T13:00:00Z",
-        "e": "2026-01-07T15:00:00Z",
+        "e": "2026-01-07T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2270,52 +2219,51 @@
         "u": null
       },
       {
-        "n": "Tysha Cee",
+        "n": "LeZduA",
         "s": "2026-01-07T15:00:00Z",
         "e": "2026-01-07T16:00:00Z",
         "d": null,
-        "j": "WAH GWAAN TYSHA CEE INVITE TATAFIO",
-        "u": null,
-        "t": "biweekly"
+        "j": null,
+        "u": null
       },
       {
-        "n": "Twerkistan",
+        "n": "Amapiano France",
         "s": "2026-01-07T16:00:00Z",
         "e": "2026-01-07T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
-        "n": "Bad Tips",
+        "n": "Receba Showcase",
         "s": "2026-01-07T17:00:00Z",
         "e": "2026-01-07T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
-        "n": "Vitaline",
+        "n": "La Connect’ avec Le Kaiju",
         "s": "2026-01-07T18:00:00Z",
         "e": "2026-01-07T19:00:00Z",
-        "d": null,
-        "j": "Phasmid - 100% productions mix",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Élise Massoni",
-        "s": "2026-01-07T19:00:00Z",
-        "e": "2026-01-07T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
+        "n": "Lisa More",
+        "s": "2026-01-07T19:00:00Z",
+        "e": "2026-01-07T20:00:00Z",
+        "d": null,
+        "j": "invite Callie Reiff",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
         "n": "Playlist France",
         "s": "2026-01-07T20:00:00Z",
-        "e": "2026-01-07T21:00:00Z",
+        "e": "2026-01-07T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2346,7 +2294,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Tysha Cee",
@@ -2355,7 +2303,7 @@
         "d": null,
         "j": "WAH GWAAN TYSHA CEE INVITE TATAFIO",
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Twerkistan",
@@ -2372,7 +2320,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Vitaline",
@@ -2381,7 +2329,7 @@
         "d": null,
         "j": "Phasmid - 100% productions mix",
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Élise Massoni",
@@ -2402,15 +2350,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "CHUNKS",
-        "s": "2026-01-06T17:00:00Z",
-        "e": "2026-01-06T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "OPEN",
         "s": "2026-01-06T19:00:00Z",
