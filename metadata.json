@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-06T22:13:40.701Z",
+  "updated": "2026-01-07T00:48:10.534Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ Flo",
-        "s": "2026-01-06T09:00:00Z",
-        "e": "2026-01-06T11:00:00Z",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "Flo",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-6th-january-2026",
-        "t": "weekly"
-      },
       {
         "n": "Soup To Nuts w/ Anu",
         "s": "2026-01-06T11:00:00Z",
@@ -110,18 +101,18 @@
         "n": "THE KRONICLES W/ DJ AMIR",
         "s": "2026-01-07T00:00:00Z",
         "e": "2026-01-07T01:00:00Z",
-        "d": null,
+        "d": "Sample excavator, music historian, and compilation curator DJ Amir selects a few influences each month - from house to disco, hip-hop to jazz.\nFrom the host: \"This show is dedicated to my first music love, jazz. Specifically, jazz dance.\"",
         "j": "DJ AMIR",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-kronicles-featuring-dj-amir/episodes/the-kronicles-featuring-dj-amir-7th-january-2026",
         "t": "monthly"
       },
       {
         "n": "Minimal Effort (R)",
         "s": "2026-01-07T01:00:00Z",
         "e": "2026-01-07T03:00:00Z",
-        "d": null,
+        "d": "Ira demonstrates how to do extra soulful with a masterclass in vibes. It's easy when you know how.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/minimal-effort/episodes/minimal-effort-17th-march-2023",
         "t": "restream"
       },
       {
@@ -245,27 +236,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Rắn Cạp Đuôi",
+        "s": "2026-01-08T03:00:00Z",
+        "e": "2026-01-08T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Women of Video Game Music: Yuka Kitamura (R)",
+        "s": "2026-01-08T04:00:00Z",
+        "e": "2026-01-08T05:00:00Z",
+        "d": null,
+        "j": "Yuka Kitamura",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "AN1MA (R)",
-        "s": "2026-01-06T10:00:00Z",
-        "e": "2026-01-06T11:00:00Z",
-        "d": "integration sounds from the source; an invitation into the shadow.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-14th-july-2025",
-        "t": "restream"
-      },
-      {
-        "n": "TRUE AS FEW W/ MARK - Yoshihisa Taïra Focus",
-        "s": "2026-01-06T11:00:00Z",
-        "e": "2026-01-06T12:00:00Z",
-        "d": "Diving into classical composition with Mark aka Klon Dump…",
-        "j": "MARK",
-        "u": "https://www.nts.live/api/v2/shows/true-as-few/episodes/true-as-few-6th-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "GREAT SOUTHERN LANDS W/ JAMES W",
         "s": "2026-01-06T12:00:00Z",
@@ -354,12 +345,13 @@
         "t": "monthly"
       },
       {
-        "n": "RVNG INTL. PRESENTS FRIENDS & FIENDS",
+        "n": "Friends & Fiends: RVNG x FT$ 2026 Forecast",
         "s": "2026-01-07T01:00:00Z",
         "e": "2026-01-07T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "RVNG Intl. presents Friends & Fiends, a monthly guest hosted show spotlighting resident artists and heads orbiting the label’s universe of forward-reaching, free, and (generally) fried music.\nFrom the host: _\"A review, and preview, of what we’re cooking up here at RVNG Intl. & Freedom To Spend for 2026.\" _",
+        "j": "RVNG x FT$ 2026 Forecast",
+        "u": "https://www.nts.live/api/v2/shows/rvngintl/episodes/rvngintl-7th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "BLOOMING IN FILTH W/ USER2222",
@@ -489,27 +481,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS Guide to: Trip Hop Revival",
+        "s": "2026-01-07T18:00:00Z",
+        "e": "2026-01-07T19:00:00Z",
+        "d": null,
+        "j": "Trip Hop Revival",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "subtle": [
-      {
-        "n": "Leiiila",
-        "s": "2026-01-06T10:00:00Z",
-        "e": "2026-01-06T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Octoroots",
-        "s": "2026-01-06T11:00:00Z",
-        "e": "2026-01-06T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Jakesy",
         "s": "2026-01-06T12:00:00Z",
@@ -1346,18 +1329,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-06T10:00:00Z",
-        "e": "2026-01-06T12:00:00Z",
+        "n": "casual_observer",
+        "s": "2026-01-11T23:00:00Z",
+        "e": "2026-01-12T00:00:00Z",
+        "d": "casual_observer is a DJ and producer originally hailing from Amsterdam, where he co-organises the \"moving closer\" event series with friend and collaborator Bcl-2. He currently resides in Berlin. Starting his musical journey as a drummer, his music retains a heavy focus on groove, rhythm and experimentation.  Sets played by casual_observer are diverse and surprising, moving effortlessly between jungle, breaks, bass, footwork, and more. No matter the genre, his selection is sure to keep you on your toes!",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Moonpie",
+        "s": "2026-01-12T00:00:00Z",
+        "e": "2026-01-12T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-06T12:00:00Z",
@@ -1569,7 +1561,7 @@
         "d": null,
         "j": "The Sweeter the Juice",
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -1734,6 +1726,15 @@
         "t": "playlist"
       },
       {
+        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
+        "s": "2026-01-10T16:00:00Z",
+        "e": "2026-01-10T18:00:00Z",
+        "d": null,
+        "j": "The Sweeter the Juice",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
         "n": "Ryan Lee Moore – Holy Ghost Honky Tonk",
         "s": "2026-01-10T18:00:00Z",
         "e": "2026-01-10T20:00:00Z",
@@ -1842,27 +1843,18 @@
         "j": "Escuchar al Istmo",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DJ Lady C - Rare Air",
+        "s": "2026-01-12T00:00:00Z",
+        "e": "2026-01-12T02:00:00Z",
+        "d": null,
+        "j": "Rare Air",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Papaoul",
-        "s": "2026-01-06T09:00:00Z",
-        "e": "2026-01-06T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Bel Cobain",
-        "s": "2026-01-06T11:00:00Z",
-        "e": "2026-01-06T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Gemma Ross",
         "s": "2026-01-06T12:00:00Z",
@@ -1870,7 +1862,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Suzie Bakos",
@@ -1950,7 +1942,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Hold A Corner Records",
@@ -2099,6 +2091,168 @@
         "n": "Breaka",
         "s": "2026-01-07T23:00:00Z",
         "e": "2026-01-08T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Allecto",
+        "s": "2026-01-08T00:00:00Z",
+        "e": "2026-01-08T01:00:00Z",
+        "d": null,
+        "j": "Live from Ormside",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Doctor Jeep",
+        "s": "2026-01-08T01:00:00Z",
+        "e": "2026-01-08T02:00:00Z",
+        "d": null,
+        "j": "Chill-out Special",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Kassian",
+        "s": "2026-01-08T02:00:00Z",
+        "e": "2026-01-08T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-01-08T03:00:00Z",
+        "e": "2026-01-08T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
+      },
+      {
+        "n": "Gemma Ross",
+        "s": "2026-01-08T06:00:00Z",
+        "e": "2026-01-08T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-01-08T07:00:00Z",
+        "e": "2026-01-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Yazmin Lacey",
+        "s": "2026-01-08T09:00:00Z",
+        "e": "2026-01-08T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Quantic",
+        "s": "2026-01-08T11:00:00Z",
+        "e": "2026-01-08T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Elle Clark",
+        "s": "2026-01-08T12:00:00Z",
+        "e": "2026-01-08T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "SK Vibemaker",
+        "s": "2026-01-08T13:00:00Z",
+        "e": "2026-01-08T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Omar+",
+        "s": "2026-01-08T14:00:00Z",
+        "e": "2026-01-08T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Tom Ravenscroft",
+        "s": "2026-01-08T15:00:00Z",
+        "e": "2026-01-08T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Talina",
+        "s": "2026-01-08T17:00:00Z",
+        "e": "2026-01-08T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
+      },
+      {
+        "n": "Maey",
+        "s": "2026-01-08T18:00:00Z",
+        "e": "2026-01-08T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "RUTHLSS",
+        "s": "2026-01-08T19:00:00Z",
+        "e": "2026-01-08T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "KILIMANJARO",
+        "s": "2026-01-08T20:00:00Z",
+        "e": "2026-01-08T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Jacques Greene",
+        "s": "2026-01-08T22:00:00Z",
+        "e": "2026-01-08T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "YETI OUT",
+        "s": "2026-01-08T23:00:00Z",
+        "e": "2026-01-09T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2265,13 +2419,597 @@
       {
         "n": "Playlist France",
         "s": "2026-01-07T20:00:00Z",
-        "e": "2026-01-07T21:00:00Z",
+        "e": "2026-01-07T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-07T23:00:00Z",
+        "e": "2026-01-08T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-08T08:00:00Z",
+        "e": "2026-01-08T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "JP MANO",
+        "s": "2026-01-08T13:00:00Z",
+        "e": "2026-01-08T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Tysha Cee",
+        "s": "2026-01-08T15:00:00Z",
+        "e": "2026-01-08T16:00:00Z",
+        "d": null,
+        "j": "WAH GWAAN TYSHA CEE INVITE TATAFIO",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Twerkistan",
+        "s": "2026-01-08T16:00:00Z",
+        "e": "2026-01-08T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Bad Tips",
+        "s": "2026-01-08T17:00:00Z",
+        "e": "2026-01-08T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Vitaline",
+        "s": "2026-01-08T18:00:00Z",
+        "e": "2026-01-08T19:00:00Z",
+        "d": null,
+        "j": "Phasmid - 100% productions mix",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Élise Massoni",
+        "s": "2026-01-08T19:00:00Z",
+        "e": "2026-01-08T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-08T20:00:00Z",
+        "e": "2026-01-08T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       }
     ],
-    "newtown": []
+    "newtown": [
+      {
+        "n": "Restream",
+        "s": "2026-01-06T06:00:00Z",
+        "e": "2026-01-06T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "BUSS UP SHUT",
+        "s": "2026-01-06T13:00:00Z",
+        "e": "2026-01-06T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "STIMULANT TUESDAYS",
+        "s": "2026-01-06T15:00:00Z",
+        "e": "2026-01-06T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "CHUNKS",
+        "s": "2026-01-06T17:00:00Z",
+        "e": "2026-01-06T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "OPEN",
+        "s": "2026-01-06T19:00:00Z",
+        "e": "2026-01-06T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "OPEN",
+        "s": "2026-01-06T21:00:00Z",
+        "e": "2026-01-06T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "YOUR FAVORITE DJ'S FAVORITE DJ",
+        "s": "2026-01-06T23:00:00Z",
+        "e": "2026-01-07T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "THRESHOLD_",
+        "s": "2026-01-07T01:00:00Z",
+        "e": "2026-01-07T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "DOSVU",
+        "s": "2026-01-07T03:00:00Z",
+        "e": "2026-01-07T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "LIBERTINE LULLABIES",
+        "s": "2026-01-07T05:00:00Z",
+        "e": "2026-01-07T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Restream",
+        "s": "2026-01-07T07:00:00Z",
+        "e": "2026-01-07T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ZERO CHILL",
+        "s": "2026-01-07T13:00:00Z",
+        "e": "2026-01-07T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "BIG CITY LIFE",
+        "s": "2026-01-07T15:00:00Z",
+        "e": "2026-01-07T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "ANTHROAPOLOGY",
+        "s": "2026-01-07T17:00:00Z",
+        "e": "2026-01-07T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "VOLATILE STATES",
+        "s": "2026-01-07T19:00:00Z",
+        "e": "2026-01-07T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "120 RIOT WRRRLD W/ DJ WETBANGZ",
+        "s": "2026-01-07T21:00:00Z",
+        "e": "2026-01-07T23:00:00Z",
+        "d": null,
+        "j": "DJ WETBANGZ",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "BUTTERED TAPES",
+        "s": "2026-01-07T23:00:00Z",
+        "e": "2026-01-08T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "TONIGHT WORLDWIDE",
+        "s": "2026-01-08T01:00:00Z",
+        "e": "2026-01-08T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "LET'S GO SWIMMING",
+        "s": "2026-01-08T03:00:00Z",
+        "e": "2026-01-08T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "TIMMY LOVED JUDAS PRIEST",
+        "s": "2026-01-08T05:00:00Z",
+        "e": "2026-01-08T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Restream",
+        "s": "2026-01-08T07:00:00Z",
+        "e": "2026-01-08T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "OPEN",
+        "s": "2026-01-08T13:00:00Z",
+        "e": "2026-01-08T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "TELEMETRY",
+        "s": "2026-01-08T14:00:00Z",
+        "e": "2026-01-08T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "OPEN",
+        "s": "2026-01-08T16:00:00Z",
+        "e": "2026-01-08T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "LET'S TALK HIP HOP W/ JOHNNY FASTLANE",
+        "s": "2026-01-08T18:00:00Z",
+        "e": "2026-01-08T20:00:00Z",
+        "d": null,
+        "j": "JOHNNY FASTLANE",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "ESTAR RADIO",
+        "s": "2026-01-08T20:00:00Z",
+        "e": "2026-01-08T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "CENTURY EGG RADIO",
+        "s": "2026-01-08T22:00:00Z",
+        "e": "2026-01-09T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "SCAM LIKELY",
+        "s": "2026-01-09T00:00:00Z",
+        "e": "2026-01-09T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "20SIDED RADIO",
+        "s": "2026-01-09T02:00:00Z",
+        "e": "2026-01-09T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "BROOKLYN SWAY",
+        "s": "2026-01-09T04:00:00Z",
+        "e": "2026-01-09T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Restream",
+        "s": "2026-01-09T06:00:00Z",
+        "e": "2026-01-09T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "MILES PER HOUR",
+        "s": "2026-01-09T11:00:00Z",
+        "e": "2026-01-09T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "GRAVITATION",
+        "s": "2026-01-09T13:00:00Z",
+        "e": "2026-01-09T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "HANGTIME RADIO",
+        "s": "2026-01-09T14:00:00Z",
+        "e": "2026-01-09T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "FREAKY FRIDAY W/ DJ Ū",
+        "s": "2026-01-09T16:00:00Z",
+        "e": "2026-01-09T18:00:00Z",
+        "d": null,
+        "j": "DJ Ū",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "EXHALE RADIO",
+        "s": "2026-01-09T18:00:00Z",
+        "e": "2026-01-09T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "THE HIGHER FIDELITY",
+        "s": "2026-01-09T20:00:00Z",
+        "e": "2026-01-09T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "THE DJ KENNY B EXPERIENCE",
+        "s": "2026-01-09T22:00:00Z",
+        "e": "2026-01-10T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "DONKLESS",
+        "s": "2026-01-10T00:00:00Z",
+        "e": "2026-01-10T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "RADIO PARTY",
+        "s": "2026-01-10T02:00:00Z",
+        "e": "2026-01-10T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Restream",
+        "s": "2026-01-10T05:00:00Z",
+        "e": "2026-01-10T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "DON BOY SPORTS RADIO",
+        "s": "2026-01-10T13:00:00Z",
+        "e": "2026-01-10T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "SATURDAYS WITH MR. L",
+        "s": "2026-01-10T15:00:00Z",
+        "e": "2026-01-10T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "OPEN",
+        "s": "2026-01-10T17:00:00Z",
+        "e": "2026-01-10T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "BOSSASAURUS TIME",
+        "s": "2026-01-10T19:00:00Z",
+        "e": "2026-01-10T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "SQUINTZ & RACOONS MORNING ZOO IN THE AFTERNOON",
+        "s": "2026-01-10T21:00:00Z",
+        "e": "2026-01-10T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "DISCO JUICE",
+        "s": "2026-01-10T23:00:00Z",
+        "e": "2026-01-11T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "WHATEVER RADIO",
+        "s": "2026-01-11T02:00:00Z",
+        "e": "2026-01-11T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "STRANGE BREW RADIO",
+        "s": "2026-01-11T04:00:00Z",
+        "e": "2026-01-11T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Restream",
+        "s": "2026-01-11T06:00:00Z",
+        "e": "2026-01-11T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "FROM THE HEART OF A POET MORNING SHOW",
+        "s": "2026-01-11T13:00:00Z",
+        "e": "2026-01-11T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "NUMBERS STATION",
+        "s": "2026-01-11T15:00:00Z",
+        "e": "2026-01-11T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "CLUB DUB",
+        "s": "2026-01-11T17:00:00Z",
+        "e": "2026-01-11T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "SUNDAY COMING DOWN",
+        "s": "2026-01-11T19:00:00Z",
+        "e": "2026-01-11T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "RADIO CLASH",
+        "s": "2026-01-11T21:00:00Z",
+        "e": "2026-01-11T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "PEI DAY",
+        "s": "2026-01-11T23:00:00Z",
+        "e": "2026-01-12T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      }
+    ]
   }
 }
