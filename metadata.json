@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-08T12:31:02.708Z",
+  "updated": "2026-01-08T14:18:17.770Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NTS GUIDE TO: DIGICORE (R)",
-        "s": "2026-01-08T00:00:00Z",
-        "e": "2026-01-08T01:00:00Z",
-        "d": null,
-        "j": "DIGICORE",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "MOESHA 13 (R)",
-        "s": "2026-01-08T01:00:00Z",
-        "e": "2026-01-08T02:00:00Z",
-        "d": "Don't print.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moesha13/episodes/moesha13-20th-november-2025",
-        "t": "restream"
-      },
       {
         "n": "EDITS W/ Pete X Utility",
         "s": "2026-01-08T02:00:00Z",
@@ -105,26 +87,35 @@
         "n": "Fauzia - Love Letter to Somalia II",
         "s": "2026-01-08T14:00:00Z",
         "e": "2026-01-08T15:00:00Z",
-        "d": null,
+        "d": "Longtime NTS resident, producer, vocalist and DJ Fauzia guides us through the multiplicity of her influences and tastes for an hour each month. Expect everything from frenetic club productions to classical composition, experimental electronics and beyond. ",
         "j": "Love Letter to Somalia II",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/fauzia/episodes/fauzia-8th-january-2026",
         "t": "monthly"
       },
       {
         "n": "Floating Points - Opening Set @ Sunflower Sound System, Glastonbury 2025",
         "s": "2026-01-08T15:00:00Z",
         "e": "2026-01-08T17:00:00Z",
+        "d": "Sam Shepherd a.k.a Floating Points barely needs introduction. Cataloguing depths uncharted to expose some of the best jazz, soul, rare groove and disco around. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/floating-points/episodes/floating-points-28th-july-2025"
+      },
+      {
+        "n": "Floating Points - Closing Set @ Sunflower Sound System, part 2 Glastonbury 2025",
+        "s": "2026-01-08T17:00:00Z",
+        "e": "2026-01-08T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "ANZ",
-        "s": "2026-01-08T17:00:00Z",
-        "e": "2026-01-08T18:00:00Z",
+        "n": "NTS GUIDE TO: GHERKIN RECORDS (R)",
+        "s": "2026-01-08T19:00:00Z",
+        "e": "2026-01-08T20:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "GHERKIN RECORDS",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "GHOST NOTES WORLDWIDE",
@@ -247,23 +238,6 @@
     ],
     "nts2": [
       {
-        "n": "KRANKY",
-        "s": "2026-01-08T00:00:00Z",
-        "e": "2026-01-08T01:00:00Z",
-        "d": "The inimitable Kranky Ltd, live from LA once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kranky/episodes/kranky-8th-january-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Hand To Earth",
-        "s": "2026-01-08T01:00:00Z",
-        "e": "2026-01-08T02:00:00Z",
-        "d": "Hand to Earth developed during an Australia Art Orchestra residency in the remote highlands of Tasmania. Yolŋu songman, Daniel Yipininy Wilfred, and Korean vocalist, Sunny Kim, formed an effortless rapport that spans continents and cultures.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/hand-to-earth-8th-january-2026"
-      },
-      {
         "n": "Palestinian Sound Archive (R)",
         "s": "2026-01-08T02:00:00Z",
         "e": "2026-01-08T03:00:00Z",
@@ -374,17 +348,17 @@
         "n": "Smut Press w/ Sam Hutchinson",
         "s": "2026-01-08T14:00:00Z",
         "e": "2026-01-08T15:00:00Z",
-        "d": null,
+        "d": "SMUT Press is a print-publishing project founded by Jordan Hearns & Jack Scollard in 2022, based between Dublin and London. For NTS, SMUT Press will explore the relationships between nightlife, independent publishing and artistic communities through a variety of guests, discussions and musical dissections.\nFrom the host: \"Leeds based artist Sam Hutchinson joins us to trace his musical history. We discuss his origins in Sunderland’s punk/skate scenes, his time at Leeds Uni & School of the Damned, as well as his publishing work with Village Books and his own imprint BOOT.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/smut-press/episodes/smut-press-sam-hutchinson-8th-january-2026"
       },
       {
         "n": "GEORGIA",
         "s": "2026-01-08T15:00:00Z",
         "e": "2026-01-08T16:00:00Z",
-        "d": null,
+        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-8th-january-2026",
         "t": "monthly"
       },
       {
@@ -506,18 +480,27 @@
         "j": "THE O'BRIEN SYSTEM",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Aloha Got Soul (R)",
+        "s": "2026-01-09T07:00:00Z",
+        "e": "2026-01-09T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Trapdoor w/ Neil Krug (R)",
+        "s": "2026-01-09T08:00:00Z",
+        "e": "2026-01-09T09:00:00Z",
+        "d": null,
+        "j": "Neil Krug",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Odds and Ends w/ Moon J",
-        "s": "2026-01-08T00:00:00Z",
-        "e": "2026-01-08T01:00:00Z",
-        "d": null,
-        "j": "Moon J",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "The Dubversified Show",
         "s": "2026-01-08T01:00:00Z",
@@ -629,6 +612,14 @@
         "n": "Hostile Architecture w/ ODW",
         "s": "2026-01-08T16:00:00Z",
         "e": "2026-01-08T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Capo Lee",
+        "s": "2026-01-08T17:00:00Z",
+        "e": "2026-01-08T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1344,18 +1335,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "In Sheep's Clothing – World of Sound",
-        "s": "2026-01-08T00:00:00Z",
-        "e": "2026-01-08T02:00:00Z",
+        "n": "CONE",
+        "s": "2026-01-13T13:00:00Z",
+        "e": "2026-01-13T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Hyrah ",
+        "s": "2026-01-13T14:00:00Z",
+        "e": "2026-01-13T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Kins – Footnotes",
         "s": "2026-01-08T02:00:00Z",
@@ -1412,6 +1412,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-08T14:00:00Z",
         "e": "2026-01-08T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-08T16:00:00Z",
+        "e": "2026-01-08T16:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1799,24 +1808,6 @@
     ],
     "rinse": [
       {
-        "n": "Allecto",
-        "s": "2026-01-08T00:00:00Z",
-        "e": "2026-01-08T01:00:00Z",
-        "d": null,
-        "j": "Live from Ormside",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Doctor Jeep",
-        "s": "2026-01-08T01:00:00Z",
-        "e": "2026-01-08T02:00:00Z",
-        "d": null,
-        "j": "Chill-out Special",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Kassian",
         "s": "2026-01-08T02:00:00Z",
         "e": "2026-01-08T03:00:00Z",
@@ -2108,7 +2099,7 @@
         "s": "2026-01-08T13:00:00Z",
         "e": "2026-01-08T15:00:00Z",
         "d": null,
-        "j": "Talk musical avec Bruno Edjenguélé",
+        "j": "My Best Tracks",
         "u": null,
         "t": "biweekly"
       },
@@ -2134,7 +2125,7 @@
         "s": "2026-01-08T16:00:00Z",
         "e": "2026-01-08T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Throw-Backstage",
         "u": null
       },
       {
@@ -2271,15 +2262,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "BUTTERED TAPES",
-        "s": "2026-01-07T23:00:00Z",
-        "e": "2026-01-08T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "TONIGHT WORLDWIDE",
         "s": "2026-01-08T01:00:00Z",
