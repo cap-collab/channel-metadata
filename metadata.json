@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-09T20:15:32.150Z",
+  "updated": "2026-01-09T22:13:37.004Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & Eliana Glass",
-        "s": "2026-01-09T07:00:00Z",
-        "e": "2026-01-09T09:00:00Z",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-9th-january-2026"
-      },
       {
         "n": "The NTS Breakfast Show w/ SOFIE K & NADIA KSAIBA",
         "s": "2026-01-09T09:00:00Z",
@@ -117,17 +109,17 @@
         "n": "Energy Reserve Systems w/ Kitty Ca$h",
         "s": "2026-01-09T22:00:00Z",
         "e": "2026-01-09T23:00:00Z",
-        "d": null,
+        "d": "Kitty Ca$h presents Energy Reserve Systems – regular high voltage journeys through deep house, club edits, and experimental textures to reclabirate your spirit.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/kitty-cash/episodes/kitty-cash-9th-january-2026"
       },
       {
         "n": "LATE NIGHT BILLIARDS",
         "s": "2026-01-09T23:00:00Z",
         "e": "2026-01-10T00:00:00Z",
-        "d": null,
+        "d": "Nocturnal moods from the haze of the billiards hall with Diogo & friends…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/late-night-billiards/episodes/late-night-billiards-9th-january-2026"
       },
       {
         "n": "SOUNDS ON SCREEN: DAVID CRONENBERG (R)",
@@ -249,18 +241,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "DIDDY WAH",
+        "s": "2026-01-11T00:00:00Z",
+        "e": "2026-01-11T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Panorama Yerevan (R)",
+        "s": "2026-01-11T01:00:00Z",
+        "e": "2026-01-11T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "Trapdoor w/ Neil Krug (R)",
-        "s": "2026-01-09T08:00:00Z",
-        "e": "2026-01-09T09:00:00Z",
-        "d": "Neil Krug is an American visual artist, director, and photographer based in Los Angeles. Tune in for a sonic lysergic tale of love, heartbreak, and redemption.",
-        "j": "Neil Krug",
-        "u": "https://www.nts.live/api/v2/shows/neil-krug/episodes/neil-krug-19th-december-2024",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: DARLA RECORDS - BLISS OUT SPECIAL (R)",
         "s": "2026-01-09T09:00:00Z",
@@ -350,9 +350,9 @@
         "n": "In Focus: Dillinja (R)",
         "s": "2026-01-09T23:00:00Z",
         "e": "2026-01-10T00:00:00Z",
-        "d": null,
+        "d": "A prolific & singular figure in jungle & drum and bass, Dillinja produced a body of work in the 1990s and 2000s that set a high water mark for club production finesse. Even now, most top producers in the genre are sure to have some secret weapon samples titled \"Dillinja bass\". \nDJ Persuasion and Dev/Null pull together two hours of his finest tracks, including anthems, rarities, well worn favourites and unreleased dubs on this In Focus.",
         "j": "Dillinja",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/dillinja-23rd-september-2021",
         "t": "restream"
       },
       {
@@ -483,18 +483,17 @@
         "j": "BOSSMAN WINES",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "CONOR THOMAS",
+        "s": "2026-01-10T19:00:00Z",
+        "e": "2026-01-10T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-01-09T05:00:00Z",
-        "e": "2026-01-09T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Holy Crow w/ Isis Moray",
         "s": "2026-01-09T10:00:00Z",
@@ -1375,18 +1374,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-09T08:00:00Z",
-        "e": "2026-01-09T10:00:00Z",
+        "n": "Marauder & Meg",
+        "s": "2026-01-14T21:00:00Z",
+        "e": "2026-01-14T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-09T10:00:00Z",
@@ -1810,18 +1809,18 @@
         "j": "POW Radio",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Danny Holloway - Heads Up",
+        "s": "2026-01-14T22:00:00Z",
+        "e": "2026-01-15T00:00:00Z",
+        "d": null,
+        "j": "Heads Up",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-01-09T07:00:00Z",
-        "e": "2026-01-09T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Breakfast with Mr. Redley",
         "s": "2026-01-09T09:00:00Z",
