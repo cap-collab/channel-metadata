@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-01-09T03:24:06.819Z",
+  "updated": "2026-01-09T04:33:19.247Z",
   "stations": {
     "nts1": [
       {
@@ -92,9 +92,9 @@
         "n": "Recurring Dream (R)",
         "s": "2026-01-09T06:00:00Z",
         "e": "2026-01-09T07:00:00Z",
-        "d": null,
+        "d": "Every month, a Recurring Dream - from Sanpo Disco's Rowan Mason.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/recurring-dream/episodes/recurring-dream-3rd-february-2021",
         "t": "restream"
       },
       {
@@ -223,18 +223,18 @@
         "j": "DAVID CRONENBERG",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Nosedrip (R)",
+        "s": "2026-01-10T02:00:00Z",
+        "e": "2026-01-10T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "GEORGIA",
-        "s": "2026-01-08T15:00:00Z",
-        "e": "2026-01-08T16:00:00Z",
-        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-8th-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "AUTOTUNE THE WORLD W/ CHRISTOPHER KIRKLEY",
         "s": "2026-01-08T16:00:00Z",
@@ -343,9 +343,9 @@
         "n": "LIV.E (R)",
         "s": "2026-01-09T05:00:00Z",
         "e": "2026-01-09T06:00:00Z",
-        "d": null,
+        "d": "Liv.e live from the LA studio, celebrating the release of new LP \"Girl In The Half Pearl\".",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/liv-e/episodes/liv-e-live-15th-february-2023",
         "t": "restream"
       },
       {
@@ -444,7 +444,7 @@
         "u": null
       },
       {
-        "n": "HIGH NOON W/ DINA J",
+        "n": "HIGH NOON \" THE YEAR WON\"",
         "s": "2026-01-09T20:00:00Z",
         "e": "2026-01-09T22:00:00Z",
         "d": null,
@@ -476,18 +476,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "JOBU & Anuku",
-        "s": "2026-01-08T15:00:00Z",
-        "e": "2026-01-08T16:00:00Z",
+        "n": "Stephane (R)",
+        "s": "2026-01-10T05:00:00Z",
+        "e": "2026-01-10T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Hostile Architecture w/ ODW",
         "s": "2026-01-08T16:00:00Z",
@@ -593,6 +593,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-09T05:00:00Z",
+        "e": "2026-01-09T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Holy Crow w/ Isis Moray",
@@ -1353,24 +1362,6 @@
     ],
     "dublab": [
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-08T14:00:00Z",
-        "e": "2026-01-08T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-01-08T16:00:00Z",
-        "e": "2026-01-08T16:30:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "LARAAJI and OUT THERE",
         "s": "2026-01-08T16:30:00Z",
         "e": "2026-01-08T17:00:00Z",
@@ -1793,6 +1784,15 @@
         "j": "Dream Fantasy Nightmare",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Echo Park Film Center - Optical Track",
+        "s": "2026-01-14T04:00:00Z",
+        "e": "2026-01-14T06:00:00Z",
+        "d": null,
+        "j": "Optical Track",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "rinse": [
@@ -2116,14 +2116,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Artem",
-        "s": "2026-01-08T15:00:00Z",
-        "e": "2026-01-08T16:00:00Z",
-        "d": null,
-        "j": "BALKAN CORE 2",
-        "u": null
-      },
-      {
         "n": "Fervo Fluxo",
         "s": "2026-01-08T16:00:00Z",
         "e": "2026-01-08T17:00:00Z",
@@ -2274,15 +2266,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "TELEMETRY",
-        "s": "2026-01-08T14:00:00Z",
-        "e": "2026-01-08T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "OPEN",
         "s": "2026-01-08T16:00:00Z",
