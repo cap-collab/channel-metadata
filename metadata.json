@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-10T14:12:30.221Z",
+  "updated": "2026-01-10T16:14:51.003Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Nosedrip (R)",
-        "s": "2026-01-10T02:00:00Z",
-        "e": "2026-01-10T04:00:00Z",
-        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-12th-may-2025",
-        "t": "restream"
-      },
       {
         "n": "Okonkole Y Trompa w/ PAM & CARLOS (R)",
         "s": "2026-01-10T04:00:00Z",
@@ -87,9 +78,9 @@
         "n": "Aqwea",
         "s": "2026-01-10T17:00:00Z",
         "e": "2026-01-10T18:00:00Z",
-        "d": null,
+        "d": "The London based producer and DJ takes on the NTS airwaves…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/aqwea/episodes/aqwea-10th-january-2026",
         "t": "monthly"
       },
       {
@@ -216,18 +207,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NOEL SPIVA",
+        "s": "2026-01-11T15:00:00Z",
+        "e": "2026-01-11T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "STRATA-EAST RECORDS SPECIAL (MIXED BY JEAN-CLAUDE) (R)",
-        "s": "2026-01-10T02:00:00Z",
-        "e": "2026-01-10T03:00:00Z",
-        "d": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ifmusic/episodes/ifmusic-nts-x-strata-east-records-spesh-mixed-by-jean-claude-26th-december-2024",
-        "t": "restream"
-      },
       {
         "n": "TOPIAS W/ GABRIEL MEIER",
         "s": "2026-01-10T03:00:00Z",
@@ -321,17 +311,18 @@
         "n": "Dubuntu - CheckMate w/ DJ Gardener & GNA",
         "s": "2026-01-10T16:00:00Z",
         "e": "2026-01-10T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "The Brothers Grimm of Manchester aka The Eskitürks, bring their far-reaching tastes to the NTS studio once a month with regular guests joining the journey.",
+        "j": "DJ Gardener & GNA",
+        "u": "https://www.nts.live/api/v2/shows/dubuntu/episodes/dubuntu-10th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "Ono - A Trip To Retrito Smarsas - Vilnius",
         "s": "2026-01-10T17:00:00Z",
         "e": "2026-01-10T18:00:00Z",
-        "d": null,
+        "d": "A weekend trip to the DIY venue Retrito Smarsas , featuring voices from some of the musicians i met there as well as many tracks from Matas Aerobica's label Bigbandalone.\nThis is the first show using the shortened name ONO (Formerly OnoTesla) and a new shortened format of 1 hour.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/onotesla/episodes/onotesla-10th-january-2026"
       },
       {
         "n": "BODY MOTION W/ BOSSMAN WINES (R)",
@@ -455,26 +446,25 @@
         "j": "LITANIES FOR SURVIVAL",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Signal Flow ",
-        "s": "2026-01-10T02:00:00Z",
-        "e": "2026-01-10T03:00:00Z",
+        "n": "Radio Alhara W/ Basel Naouri - 2021",
+        "s": "2026-01-11T12:00:00Z",
+        "e": "2026-01-11T12:57:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "TheComplexCurve",
-        "s": "2026-01-10T03:00:00Z",
-        "e": "2026-01-10T04:00:00Z",
+        "n": "Radio Alhara W/ Ali Hamdan - 2022",
+        "s": "2026-01-11T12:57:00Z",
+        "e": "2026-01-11T13:55:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
-      },
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-01-10T04:00:00Z",
@@ -1340,18 +1330,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Gum.mp3 - Black Audio Society",
-        "s": "2026-01-10T02:00:00Z",
-        "e": "2026-01-10T04:00:00Z",
+        "n": "Aaliana",
+        "s": "2026-01-15T15:00:00Z",
+        "e": "2026-01-15T16:00:00Z",
         "d": null,
-        "j": "Black Audio Society",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Herberta",
+        "s": "2026-01-15T16:00:00Z",
+        "e": "2026-01-15T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "RERUN: Gum.mp3 - Black Audio Society",
         "s": "2026-01-10T04:00:00Z",
@@ -1793,15 +1792,6 @@
     ],
     "rinse": [
       {
-        "n": "Jacques Greene",
-        "s": "2026-01-10T02:00:00Z",
-        "e": "2026-01-10T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Electronic Playlist",
         "s": "2026-01-10T03:00:00Z",
         "e": "2026-01-10T06:00:00Z",
@@ -1971,7 +1961,7 @@
         "s": "2026-01-11T09:00:00Z",
         "e": "2026-01-11T11:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Facta",
         "u": null,
         "t": "biweekly"
       },
