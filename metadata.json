@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-10T20:14:33.362Z",
+  "updated": "2026-01-10T22:12:56.250Z",
   "stations": {
     "nts1": [
-      {
-        "n": "YOUARELISTENING.TO",
-        "s": "2026-01-10T08:00:00Z",
-        "e": "2026-01-10T10:00:00Z",
-        "d": "Youarelistening.to mixes ambient music with police scanner radio, air-traffic control, numbers stations, spoken word & a bunch of other random things. Found footage, musique concrete, and the perfect ambience.\nFrom the host: \"Listening in to air-traffic control on the final approach to St. Louis International airport.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/youarelisteningto/episodes/youarelisteningto-10th-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-01-10T10:00:00Z",
@@ -84,9 +75,9 @@
         "n": "Diddy Wah w/ Blind Benny",
         "s": "2026-01-11T00:00:00Z",
         "e": "2026-01-11T01:00:00Z",
-        "d": null,
+        "d": "Adam digs deep into his box of 45s and pulls out a wild selection of 1950s and '60s blues, surf, rockabilly, R&B, gospel, garage, soul and rock'n'roll.\nFrom the host: \"Old mate Blind Benny joins me for a chat about his musical passions and DJ career.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/diddywah/episodes/diddywah-11th-january-2026"
       },
       {
         "n": "Panorama Yerevan (R)",
@@ -214,18 +205,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
+        "s": "2026-01-11T20:00:00Z",
+        "e": "2026-01-11T22:00:00Z",
+        "d": null,
+        "j": "ERNESTO CHAHOUD",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
-        "s": "2026-01-10T08:00:00Z",
-        "e": "2026-01-10T10:00:00Z",
-        "d": "Slayron of Peaking Lights heads up Rockers Delight, two hours of all things dub, reggae, and lovers rock once a month from the LA studio.",
-        "j": "EXOTIC GARDENS",
-        "u": "https://www.nts.live/api/v2/shows/peaking-lights/episodes/peaking-lights-18th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "PALESTINIAN SOUND ARCHIVE (R)",
         "s": "2026-01-10T10:00:00Z",
@@ -316,17 +307,18 @@
         "n": "BRAV",
         "s": "2026-01-10T22:00:00Z",
         "e": "2026-01-10T23:00:00Z",
-        "d": null,
+        "d": "Long time NTS collaborator and This City Plays producer, Brav brings a monthly showcase of ambient, techno and experimental cuts…\nFrom the host: \"classics and future classics\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/brav/episodes/brav-10th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "UNITED IN FLAMES W/ TORUS & MALIBU (R)",
         "s": "2026-01-10T23:00:00Z",
         "e": "2026-01-11T00:00:00Z",
-        "d": null,
+        "d": "Malibu is a French electronic musician whose work sails between ambient and ethereal music.\nForever inspired by soft reverbed vocals and melodious chord progressions, Malibu’s music is an immersive nostalgic journey in a sea of synthetic strings and choirs.",
         "j": "TORUS & MALIBU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/malibu/episodes/malibu-1st-november-2024",
         "t": "restream"
       },
       {
@@ -449,26 +441,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "REFERENCES...w/ KPB",
-        "s": "2026-01-10T08:00:00Z",
-        "e": "2026-01-10T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
-        "n": "Subtle Selects",
-        "s": "2026-01-10T09:00:00Z",
-        "e": "2026-01-10T10:00:00Z",
+        "n": "SOUNDS OF THE DAWN (R)",
+        "s": "2026-01-11T17:28:00Z",
+        "e": "2026-01-11T19:28:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream"
       },
+      {
+        "n": "NTS GUIDE TO: JAPANESE NEW AGE AND ENVIRONMENTAL MUSIC VOL II (R)",
+        "s": "2026-01-11T19:28:00Z",
+        "e": "2026-01-11T21:28:00Z",
+        "d": null,
+        "j": "JAPANESE NEW AGE AND ENVIRONMENTAL MUSIC VOL II",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": " SCOPE__EM",
         "s": "2026-01-10T10:00:00Z",
@@ -1353,18 +1346,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DJ Jedah ",
+        "s": "2026-01-15T21:00:00Z",
+        "e": "2026-01-15T22:00:00Z",
+        "d": "Jedah started DJ'ing at the tender age of 18 years of age specialising in UK Garage/Grime. \r\n\r\nJedah is currently the DJ for Grime Original Hollowman Jendor of the former Grime Collective Essentials/ OG's.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "The Mean Streets Show",
+        "s": "2026-01-15T22:00:00Z",
+        "e": "2026-01-16T00:00:00Z",
+        "d": "Responsible for “that massive grime tune with the Psycho strings”, UK producers/DJs Trends & Boylan are well versed in what the scene has to offer. They use this platform to showcase music from across the 140 spectrum from Grime to Dubstep. Anything goes!!",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-01-10T08:00:00Z",
-        "e": "2026-01-10T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-01-10T10:00:00Z",
@@ -1796,15 +1798,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-01-10T07:00:00Z",
-        "e": "2026-01-10T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Sound Sanctuary",
         "s": "2026-01-10T09:00:00Z",
