@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-11T08:17:11.093Z",
+  "updated": "2026-01-11T10:13:32.164Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LDLDN - Jazz & Jungle Special",
-        "s": "2026-01-10T20:00:00Z",
-        "e": "2026-01-10T22:00:00Z",
-        "d": "LD and guests deliver a slice of realness via jazz, fusion, deep soul, funk, warm techno and the rest. Expect music you can move to from the long-time DJ and producer.\nFrom the host: \"Wanted to start the year nice and fast, but also jazzy, and inspired by Tim Reaper's recent Rare Groove mix on NTS, I've done a mix of Jungle and drum and bass that's influenced by jazz. Mostly stuff from around the mid-90s. Some absolute beautiful rolling tracks in there.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/spacebass/episodes/spacebass-10th-january-2026"
-      },
       {
         "n": "BLACK IMPULSE",
         "s": "2026-01-10T22:00:00Z",
@@ -92,17 +84,19 @@
         "n": "THE SLIP",
         "s": "2026-01-11T10:00:00Z",
         "e": "2026-01-11T12:00:00Z",
-        "d": null,
+        "d": "Rory Bowens heads The Slip on Sunday mornings every other week - squeezing an hour of hazy dub off-shoots, pupil-dilating shoegaze and uncanny dream music.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/theslip/episodes/theslip-11th-january-2026",
+        "t": "biweekly"
       },
       {
         "n": "High Hopes w/ Judah",
         "s": "2026-01-11T12:00:00Z",
         "e": "2026-01-11T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Judah's High Hopes explains itself with the name. The blend of soul, experimental hip hop and a range of jazz is enough to bring optimism into any listener's day, and Judah's sonic selections act as a monthly ray of sunshine to brighten any listener's day. ",
+        "j": "Judah",
+        "u": "https://www.nts.live/api/v2/shows/high-hopes-w-judah/episodes/high-hopes-w-judah-11th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "ASHER G'S CARIBBEAN MEMORIES",
@@ -224,25 +218,26 @@
         "j": "MARIA SOMERVILLE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ CHARLIE SATSUMAS",
+        "s": "2026-01-12T09:00:00Z",
+        "e": "2026-01-12T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-01-12T11:00:00Z",
+        "e": "2026-01-12T13:00:00Z",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "CONOR THOMAS",
-        "s": "2026-01-10T19:00:00Z",
-        "e": "2026-01-10T21:00:00Z",
-        "d": "Irrevelent, asymmetric selections by Boomkat lifer, Conor Thomas; caretaker of The Death of Rave and R* T*** labels, and resident DJ of The White Hotel & Impiety Hour {AD England} in Manchester, drawing on decades of nocturbulous behaviour and a brend toward short-circuiting genres.\n\"bleep, bass, hardcore and jungle, dnb\" this month - lock in.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/conor-thomas/episodes/conor-thomas-10th-january-2026"
-      },
-      {
-        "n": "$HIT & $HINE",
-        "s": "2026-01-10T21:00:00Z",
-        "e": "2026-01-10T22:00:00Z",
-        "d": "Craig Clouse's genre-bending project Shit and Shine hijacks the NTS airwaves. Tune in on a Saturday for an hour of audio felonies spanning everything from post punk to dirty electro, techno or new wave. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/shit-and-shine/episodes/shit-and-shine-10th-january-2026"
-      },
       {
         "n": "BRAV",
         "s": "2026-01-10T22:00:00Z",
@@ -337,18 +332,19 @@
         "n": "AS I WAS MOVING AHEAD - LITANIES FOR SURVIVAL (R)",
         "s": "2026-01-11T10:00:00Z",
         "e": "2026-01-11T12:00:00Z",
-        "d": null,
+        "d": "\"Two hours of tuning on meditative litanies frequencies, sounds of dissent, shared mourning, and reflection on what we are witnessing in Palestine, at an impossible scale of destruction.\nWith Firas Shehadeh, Maya Al Khaldi, Dirar Khalash, Al Fajer, Al Bare'em, Phonodelica, George Kirmiz, Atef Swaitat, Jerusalem In My Heart, xlmxkhfi, and others. All revenues from this broadcast will be donated to Medical Aid for Palestinians (MAP), supporting urgent relief on the ground.\"",
         "j": "LITANIES FOR SURVIVAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tania-feghali/episodes/tania-feghali-litanies-for-survival-4th-september-2025",
         "t": "restream"
       },
       {
         "n": "Radio Alhara W/ Basel Naouri - 2021",
         "s": "2026-01-11T12:00:00Z",
         "e": "2026-01-11T12:57:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Palestinian station Radio alHara takes over NTS for a monthly residency, featuring highlights from their expansive 5-year archive as well as live broadcasts from their Bethlehem studio. One hour of original unreleased compositions made especially for recordat #0031 by Basel Naouri , aired first on May 15th, 2021 as part of the Sonic Liberation Front.",
+        "j": "Basel Naouri",
+        "u": "https://www.nts.live/api/v2/shows/radio-alhara/episodes/radio-alhara-basel-naouri-11th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "Radio Alhara W/ Ali Hamdan - 2022",
@@ -471,17 +467,27 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Light in the Attic (R)",
+        "s": "2026-01-12T06:00:00Z",
+        "e": "2026-01-12T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "m00dtapes (R)",
+        "s": "2026-01-12T08:00:00Z",
+        "e": "2026-01-12T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Kimber & Kid Kun",
-        "s": "2026-01-10T20:00:00Z",
-        "e": "2026-01-10T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "BRINK",
         "s": "2026-01-10T22:00:00Z",
@@ -1346,23 +1352,6 @@
     ],
     "dublab": [
       {
-        "n": " FROM THE VAULTS: Yoyo – sneaking into the studio (02.22.02)",
-        "s": "2026-01-10T20:00:00Z",
-        "e": "2026-01-10T21:00:00Z",
-        "d": null,
-        "j": "Yoyo – sneaking into the studio (02.22.02)",
-        "u": null,
-        "t": "regular"
-      },
-      {
-        "n": "Nia Michelle, Jordan Collins, Lewis Thompson – Channels",
-        "s": "2026-01-10T21:00:00Z",
-        "e": "2026-01-10T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "D Tiberio - Patterns of Lorena",
         "s": "2026-01-10T22:00:00Z",
         "e": "2026-01-11T00:00:00Z",
@@ -1427,6 +1416,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-11T12:00:00Z",
+        "e": "2026-01-11T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "djjs",
@@ -1777,14 +1775,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Prospa",
-        "s": "2026-01-10T20:00:00Z",
-        "e": "2026-01-10T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "CONDUCTA",
         "s": "2026-01-10T22:00:00Z",
@@ -2283,15 +2273,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "BOSSASAURUS TIME",
-        "s": "2026-01-10T19:00:00Z",
-        "e": "2026-01-10T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "SQUINTZ & RACOONS MORNING ZOO IN THE AFTERNOON",
         "s": "2026-01-10T21:00:00Z",
