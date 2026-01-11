@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-11T18:18:38.513Z",
+  "updated": "2026-01-11T20:14:33.724Z",
   "stations": {
     "nts1": [
-      {
-        "n": "M00DTAPES (R)",
-        "s": "2026-01-11T06:00:00Z",
-        "e": "2026-01-11T08:00:00Z",
-        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-27th-june-2021",
-        "t": "restream"
-      },
       {
         "n": "THEA HD",
         "s": "2026-01-11T08:00:00Z",
@@ -101,18 +92,18 @@
         "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
         "s": "2026-01-11T20:00:00Z",
         "e": "2026-01-11T22:00:00Z",
-        "d": null,
+        "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
         "j": "ERNESTO CHAHOUD",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ernesto-chahoud/episodes/ernesto-chahoud-11th-january-2026",
         "t": "monthly"
       },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
         "s": "2026-01-11T22:00:00Z",
         "e": "2026-01-12T00:00:00Z",
-        "d": null,
+        "d": "Marsha by name and mellow by nature, MarshmeLLo takes you on a musical journey of all her influences plus a little extra. The first show ever broadcast on the station, Marsha continues to find her groove…",
         "j": "MARSHMELLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/midnight-marauders/episodes/midnight-marauders-11th-january-2026",
         "t": "biweekly"
       },
       {
@@ -234,27 +225,25 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "WOODGRAIN w/ DENNIS.EXP",
+        "s": "2026-01-12T21:00:00Z",
+        "e": "2026-01-12T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ORGAN TAPES",
+        "s": "2026-01-12T22:00:00Z",
+        "e": "2026-01-12T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Post-Geography w/ Ike Zwanikken (R)",
-        "s": "2026-01-11T06:00:00Z",
-        "e": "2026-01-11T07:00:00Z",
-        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
-        "j": "Ike Zwanikken",
-        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-29th-november-2024",
-        "t": "restream"
-      },
-      {
-        "n": "THE WITCHING HOUR (R)",
-        "s": "2026-01-11T07:00:00Z",
-        "e": "2026-01-11T08:00:00Z",
-        "d": "Omar Hraib presents The Witching Hour; a passage through the realms of the slow, the heavy and the strange.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-witching-hour/episodes/the-witching-hour-10th-october-2019",
-        "t": "restream"
-      },
       {
         "n": "80s Rampwalk (R)",
         "s": "2026-01-11T08:00:00Z",
@@ -349,9 +338,9 @@
         "n": "DEATH IS NOT THE END: MUSIC FOR DREAMING: HAWAIIAN SLACK KEY & STEEL GUITAR FROM THE 1920S, 30S & EARLY 40S (R)",
         "s": "2026-01-11T21:28:00Z",
         "e": "2026-01-11T23:00:00Z",
-        "d": null,
+        "d": "This month's show is a 2hour selection of Hawaiian slack key & steel guitar records from the 1920s, 30s & early 40s.",
         "j": "MUSIC FOR DREAMING: HAWAIIAN SLACK KEY & STEEL GUITAR FROM THE 1920S, 30S & EARLY 40S",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-26th-november-2023",
         "t": "restream"
       },
       {
@@ -485,26 +474,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-01-11T06:00:00Z",
-        "e": "2026-01-11T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
       },
       {
-        "n": "Kiki B",
-        "s": "2026-01-11T07:00:00Z",
-        "e": "2026-01-11T08:00:00Z",
+        "n": "Lea Bertucci",
+        "s": "2026-01-12T15:00:00Z",
+        "e": "2026-01-12T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-01-11T08:00:00Z",
@@ -1345,17 +1325,27 @@
         "j": "XOSÉ",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sempra",
+        "s": "2026-01-16T19:00:00Z",
+        "e": "2026-01-16T20:00:00Z",
+        "d": "Sempra is a producer & DJ based in London, specialising in the fusion of UK Garage, Jungle and Breakbeat with dreamy vocal melodies and the beautiful instrumentation found in Soul and contemporary RnB. Sempra’s consistent output has been released by labels such as Future Classic and Headroom, gaining industry support from the likes of Nia Archives, Sherelle, Yung Singh and Dr Dubplate.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Machine Woman",
+        "s": "2026-01-16T20:00:00Z",
+        "e": "2026-01-16T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "dublab": [
-      {
-        "n": "Daedelus - Entropy Sessions",
-        "s": "2026-01-11T06:00:00Z",
-        "e": "2026-01-11T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-01-11T08:00:00Z",
@@ -1750,15 +1740,6 @@
     ],
     "rinse": [
       {
-        "n": "Elle Clark",
-        "s": "2026-01-11T06:00:00Z",
-        "e": "2026-01-11T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Playlist",
         "s": "2026-01-11T07:00:00Z",
         "e": "2026-01-11T09:00:00Z",
@@ -2009,15 +1990,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-01-10T23:00:00Z",
-        "e": "2026-01-11T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-01-11T08:00:00Z",
