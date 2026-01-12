@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-12T08:21:11.846Z",
+  "updated": "2026-01-12T10:17:52.779Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
-        "s": "2026-01-11T20:00:00Z",
-        "e": "2026-01-11T22:00:00Z",
-        "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
-        "j": "ERNESTO CHAHOUD",
-        "u": "https://www.nts.live/api/v2/shows/ernesto-chahoud/episodes/ernesto-chahoud-11th-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO, THEON CROSS, D'MONK & TWO THOU",
         "s": "2026-01-11T22:00:00Z",
@@ -85,9 +76,9 @@
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-01-12T11:00:00Z",
         "e": "2026-01-12T13:00:00Z",
-        "d": null,
+        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
         "j": "John Gómez",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-12th-january-2026",
         "t": "biweekly"
       },
       {
@@ -218,18 +209,17 @@
         "j": "MARIA SOMERVILLE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ LOOSE BONES",
+        "s": "2026-01-13T09:00:00Z",
+        "e": "2026-01-13T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NTS GUIDE TO: JAPANESE NEW AGE AND ENVIRONMENTAL MUSIC VOL II (R)",
-        "s": "2026-01-11T19:28:00Z",
-        "e": "2026-01-11T21:28:00Z",
-        "d": "Sounds of stillness and peace from the Japanese \"kankyō ongaku\" movement - environmental and ambient recordings, produced as a reaction to the growing hyper-commercialisation and urbanisation of 1980s Japan.",
-        "j": "JAPANESE NEW AGE AND ENVIRONMENTAL MUSIC VOL II",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-japanese-new-age-and-environmental-music-vol-ii-9th-april-2025",
-        "t": "restream"
-      },
       {
         "n": "DEATH IS NOT THE END: MUSIC FOR DREAMING: HAWAIIAN SLACK KEY & STEEL GUITAR FROM THE 1920S, 30S & EARLY 40S (R)",
         "s": "2026-01-11T21:28:00Z",
@@ -333,18 +323,19 @@
         "n": "RESISTANT HEART AND MINDS FROM BOLIVIA // 70S-80S HUAYÑOS AND KULLAGUADAS FROM COCHABAMBA SELECTED BY SONIDO MARTINES (R)",
         "s": "2026-01-12T10:00:00Z",
         "e": "2026-01-12T11:00:00Z",
-        "d": null,
+        "d": "An hour of traditional 1970s and '80s Huayños and Kullaguadas from Cochabamba, Bolivia.\nMixed by Sonido Martines.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/resistant-hearts-and-minds-bolivia-3rd-june-2020",
         "t": "restream"
       },
       {
         "n": "BLOODZ BOI",
         "s": "2026-01-12T11:00:00Z",
         "e": "2026-01-12T12:02:00Z",
-        "d": null,
+        "d": "Underground legend Bloodz Boi leaves untold emotions in sounds. Broadcast from Beijing on a Tuesday every month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/bloodz-boi/episodes/bloodz-boi-12th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "Corin",
@@ -353,6 +344,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "I WANT TO BE A WAVE W/ FELICE BAUER (R)",
+        "s": "2026-01-12T12:02:00Z",
+        "e": "2026-01-12T13:00:00Z",
+        "d": null,
+        "j": "FELICE BAUER",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "PAVEL MILYAKOV",
@@ -473,18 +473,18 @@
         "j": "ILL DUBIO",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "In Focus: Kishori Amonkar (R)",
+        "s": "2026-01-13T05:00:00Z",
+        "e": "2026-01-13T07:00:00Z",
+        "d": null,
+        "j": "Kishori Amonkar",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "FKOF",
-        "s": "2026-01-11T20:00:00Z",
-        "e": "2026-01-11T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Skye",
         "s": "2026-01-11T22:00:00Z",
@@ -1298,18 +1298,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Becky Ebenkamp – Bubblegum & Other Delights",
-        "s": "2026-01-11T20:00:00Z",
-        "e": "2026-01-11T22:00:00Z",
+        "n": "call curtis",
+        "s": "2026-01-17T10:00:00Z",
+        "e": "2026-01-17T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "gfunktrece - Escuchar al Istmo",
         "s": "2026-01-11T22:00:00Z",
@@ -1367,6 +1367,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-12T10:00:00Z",
         "e": "2026-01-12T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-12T12:00:00Z",
+        "e": "2026-01-12T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1695,15 +1704,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Oblig",
-        "s": "2026-01-11T20:00:00Z",
-        "e": "2026-01-11T21:00:00Z",
-        "d": null,
-        "j": "B2B Grandmixxer",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "The Grime Show with Sir Spyro & The Square",
         "s": "2026-01-11T21:00:00Z",
@@ -2229,15 +2229,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "SUNDAY COMING DOWN",
-        "s": "2026-01-11T19:00:00Z",
-        "e": "2026-01-11T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "RADIO CLASH",
         "s": "2026-01-11T21:00:00Z",
