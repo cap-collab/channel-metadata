@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-13T08:20:08.232Z",
+  "updated": "2026-01-13T10:15:42.920Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SUNCUT",
-        "s": "2026-01-12T20:00:00Z",
-        "e": "2026-01-12T21:00:00Z",
-        "d": "Tune in to the sound of SUNCUT, boasting a heartfelt selection of some favourite 45’s through to classic bonafide soulful jams.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sun-cut/episodes/sun-cut-12th-january-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "WOODGRAIN w/ DENNIS.EXP",
-        "s": "2026-01-12T21:00:00Z",
-        "e": "2026-01-12T22:00:00Z",
-        "d": "Dennis specialises in selections ranging from new wave electronics, lo-fi hip-hop, downtempo house and everything in-between. Also a member of the wider music and production group, Woodgrain Vicious. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/baadnews/episodes/baadnews-12th-january-2026"
-      },
       {
         "n": "ORGAN TAPES w/ Chickenmilk dot com x DJ Corpmane x Iced Lattina (Warsaw b3b)",
         "s": "2026-01-12T22:00:00Z",
@@ -110,9 +93,9 @@
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-01-13T11:00:00Z",
         "e": "2026-01-13T13:00:00Z",
-        "d": null,
+        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
         "j": "ANU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-13th-january-2026",
         "t": "weekly"
       },
       {
@@ -244,26 +227,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-01-14T11:00:00Z",
+        "e": "2026-01-14T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Le Jardin w/ Sarah Davachi",
-        "s": "2026-01-12T20:00:00Z",
-        "e": "2026-01-12T21:00:00Z",
-        "d": "Sarah Davachi serenades the LA airwaves once a month with Le Jardin - an amalgamation of progressive rock, acid folk, early music, experimental productions, & minimal sympathetic sounds.",
-        "j": "Sarah Davachi",
-        "u": "https://www.nts.live/api/v2/shows/sarah-davachi/episodes/sarah-davachi-12th-january-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Mississippi Records x American Museum of Paramusicology - Divine Rebels",
-        "s": "2026-01-12T21:00:00Z",
-        "e": "2026-01-12T22:00:00Z",
-        "d": "Mississippi Records - Excavating the future since 2005.\nFrom the host: \"John Cage, Sun Ra, and David Lynch are only some of the many artists who’ve found inspiration in the spiritual teachings of the Theosophical Society, founded in New York City in 1875. Via the American Museum of Paramusicology, this mix presents a special exploration of artists with ties to this influential metaphysical movement which anticipated the New Age to come.\"\n\nMatt Marble, Director, AMP\n",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mississippi-records/episodes/mississippi-records-5th-january-2026"
-      },
       {
         "n": "Day Care w/ DJ Randy Ellis & The Alaia of CQQL Records",
         "s": "2026-01-12T22:00:00Z",
@@ -355,12 +329,22 @@
         "t": "restream"
       },
       {
+        "n": "HEAVEN AND EARTH MAGIC W/ FORAGER RECORDS (R)",
+        "s": "2026-01-13T10:00:00Z",
+        "e": "2026-01-13T11:00:00Z",
+        "d": "Forager Records is a Los Angeles based record label, committed to unearthing and breathing new life into rare and under-appreciated sounds from the past. On this month's Heaven and Earth Magic, they bring an ethereal & moody blend of psychedelic folk & soul music ranging from the worldly to the cosmic.\nPhoto Credit: Nat Geo",
+        "j": "FORAGER RECORDS",
+        "u": "https://www.nts.live/api/v2/shows/jocelyn-romo/episodes/jocelyn-romo-19th-january-2022",
+        "t": "restream"
+      },
+      {
         "n": "Adults Play Radio w/ 1LDK",
         "s": "2026-01-13T11:00:00Z",
         "e": "2026-01-13T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Bi-monthly radio show by Tokyo-based DJ CENTERFOLD and sudden star. Since 2021, they have co-run the event series ether, which sprawls across the city’s landscape—blending electronic and live music, fashion, and art. Adults Play Radio is a sonic love letter to the people they’ve met and the places they find themselves in at each exact moment of delivery.",
+        "j": "1LDK",
+        "u": "https://www.nts.live/api/v2/shows/adults-play-radio/episodes/adults-play-radio-13th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "LUKID",
@@ -457,7 +441,7 @@
         "t": "monthly"
       },
       {
-        "n": "Parannoul",
+        "n": "Parannoul - Mountain Still Breathing",
         "s": "2026-01-14T00:00:00Z",
         "e": "2026-01-14T01:00:00Z",
         "d": null,
@@ -475,7 +459,7 @@
       {
         "n": "NTS Guide to: Japanese New Age and Environmental Music Vol II (R)",
         "s": "2026-01-14T02:00:00Z",
-        "e": "2026-01-14T03:00:00Z",
+        "e": "2026-01-14T04:00:00Z",
         "d": null,
         "j": "Japanese New Age and Environmental Music Vol II",
         "u": null,
@@ -489,27 +473,18 @@
         "j": "Bill Brewster",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Horsegirl Sounds Radio Hour (R)",
+        "s": "2026-01-14T06:00:00Z",
+        "e": "2026-01-14T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Elrobo's Selectas",
-        "s": "2026-01-12T20:00:00Z",
-        "e": "2026-01-12T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Zubz Dubz",
-        "s": "2026-01-12T21:00:00Z",
-        "e": "2026-01-12T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " Subtext w/ Preet",
         "s": "2026-01-12T22:00:00Z",
@@ -616,6 +591,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-13T10:00:00Z",
+        "e": "2026-01-13T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Lucidik ",
@@ -1315,18 +1299,17 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "ECHO CHAMBER",
+        "s": "2026-01-18T09:00:00Z",
+        "e": "2026-01-18T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Colloboh - Everything Inbetween",
-        "s": "2026-01-12T20:00:00Z",
-        "e": "2026-01-12T22:00:00Z",
-        "d": null,
-        "j": "Everything Inbetween",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "FROM THE VAULTS: CHAD \"YER LONESOME COWBOY\" BROWN — ROLLIN' ONWARD, SWEET HOME WAY (10.15.07)",
         "s": "2026-01-12T22:00:00Z",
@@ -1393,6 +1376,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-13T10:00:00Z",
         "e": "2026-01-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-13T12:00:00Z",
+        "e": "2026-01-13T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1723,15 +1715,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Main Phase",
-        "s": "2026-01-12T20:00:00Z",
-        "e": "2026-01-12T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Jossy Mitsu",
         "s": "2026-01-12T22:00:00Z",
