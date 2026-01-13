@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-13T20:15:52.938Z",
+  "updated": "2026-01-13T22:14:14.966Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-01-13T07:00:00Z",
-        "e": "2026-01-13T09:00:00Z",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. ",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-13th-january-2026",
-        "t": "weekly"
-      },
       {
         "n": "The NTS Breakfast Show w/ LOOSE BONES",
         "s": "2026-01-13T09:00:00Z",
@@ -102,17 +93,17 @@
         "n": "PERM POLITICS W/ CHANTAL",
         "s": "2026-01-13T22:00:00Z",
         "e": "2026-01-13T23:00:00Z",
-        "d": null,
+        "d": "Hosted by Chantal Adams, Perm Politics oscillates between noisier textures, smooth futuristic beats and a myriad of rap/hip-hop offshoots.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/chantal/episodes/chantal-13th-january-2026"
       },
       {
         "n": "NTS Guide to: Cloud Baile Funk",
         "s": "2026-01-13T23:00:00Z",
         "e": "2026-01-14T00:00:00Z",
-        "d": null,
+        "d": "A deep dive into scenes, record labels and genres from around the world.",
         "j": "Cloud Baile Funk",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-cloud-baile-funk-13th-january-2026",
         "t": "weekly"
       },
       {
@@ -236,27 +227,25 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "HOOVERSOUND w/ Devnull",
+        "s": "2026-01-14T21:00:00Z",
+        "e": "2026-01-14T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "NKISI",
+        "s": "2026-01-14T22:00:00Z",
+        "e": "2026-01-14T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NTS Guide to: Mafia & Fluxy Versions (R)",
-        "s": "2026-01-13T08:00:00Z",
-        "e": "2026-01-13T09:00:00Z",
-        "d": "Keeping things dubwise with an hour of versions from UK producers Mafia & Fluxy.",
-        "j": "Mafia & Fluxy Versions",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-mafia-fluxy-versions-11th-august-2023",
-        "t": "restream"
-      },
-      {
-        "n": "Dimension Door: Kelvin's Cairn (R)",
-        "s": "2026-01-13T09:00:00Z",
-        "e": "2026-01-13T10:00:00Z",
-        "d": "It, and the mountain on its northern border, were the only features in all of Icewind Dale with any mentionable quantities of rock, as if they had been misplaced by some god in the earliest days of creation.",
-        "j": "Kelvin's Cairn",
-        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-9th-october-2025",
-        "t": "restream"
-      },
       {
         "n": "HEAVEN AND EARTH MAGIC W/ FORAGER RECORDS (R)",
         "s": "2026-01-13T10:00:00Z",
@@ -365,9 +354,9 @@
         "n": "Abby Imperial: Gospel Rap Special",
         "s": "2026-01-13T23:00:00Z",
         "e": "2026-01-14T00:00:00Z",
-        "d": null,
+        "d": "The eclectic and diverse frequencies from a true East Bay Area native, Abby Imperial is ready to bring the soulful sounds of Rnb, g-funk, deep house, jungle & more.. ",
         "j": "Gospel Rap Special",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abby-imperial/episodes/abby-imperial-13th-january-2026",
         "t": "monthly"
       },
       {
@@ -500,27 +489,17 @@
         "j": "JEN MONROE",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SOPHIE THATCHER",
+        "s": "2026-01-14T18:00:00Z",
+        "e": "2026-01-14T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Breakfast Spoons w/ Boruch",
-        "s": "2026-01-13T08:00:00Z",
-        "e": "2026-01-13T09:00:00Z",
-        "d": null,
-        "j": "Boruch",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Gingerly",
-        "s": "2026-01-13T09:00:00Z",
-        "e": "2026-01-13T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-01-13T10:00:00Z",
@@ -1316,18 +1295,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-13T08:00:00Z",
-        "e": "2026-01-13T10:00:00Z",
+        "n": "Off-Switch Audio",
+        "s": "2026-01-18T21:00:00Z",
+        "e": "2026-01-18T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "SPOTLIGHT EVENTS ",
+        "s": "2026-01-18T22:00:00Z",
+        "e": "2026-01-18T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-13T10:00:00Z",
@@ -1722,18 +1710,18 @@
         "j": "Atlas",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "body / negative - cloud music",
+        "s": "2026-01-18T22:00:00Z",
+        "e": "2026-01-19T00:00:00Z",
+        "d": null,
+        "j": "cloud music",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-01-13T07:00:00Z",
-        "e": "2026-01-13T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Papaoul",
         "s": "2026-01-13T09:00:00Z",
