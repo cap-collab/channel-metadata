@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-13T03:21:56.849Z",
+  "updated": "2026-01-13T04:32:58.258Z",
   "stations": {
     "nts1": [
-      {
-        "n": "System Olympia: A fever dream in hyper color",
-        "s": "2026-01-12T15:00:00Z",
-        "e": "2026-01-12T16:00:00Z",
-        "d": "System Olympia joins us for an hour a month.\nFrom the host: \"Premiering my new single El Paso.\"",
-        "j": "A fever dream in hyper color",
-        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-12th-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "OHBLIV",
         "s": "2026-01-12T16:00:00Z",
@@ -110,9 +101,9 @@
         "n": "Perfect Lives w/ Bruno  & Daniel (R)",
         "s": "2026-01-13T05:00:00Z",
         "e": "2026-01-13T06:00:00Z",
-        "d": null,
+        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
         "j": "Bruno  & Daniel",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-18th-may-2025",
         "t": "restream"
       },
       {
@@ -244,17 +235,18 @@
         "j": "Instrumentals",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Carlos René: Women of Bolero in the '50s & '60s (R)",
+        "s": "2026-01-14T05:00:00Z",
+        "e": "2026-01-14T06:00:00Z",
+        "d": null,
+        "j": "Women of Bolero in the '50s & '60s",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "Lea Bertucci",
-        "s": "2026-01-12T15:00:00Z",
-        "e": "2026-01-12T16:00:00Z",
-        "d": "The NYC composer offers up an hour of inspirational touchpoints for her new solo record “The Oracle”, an adventurous vocal-focussed collection of songs. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/lea-bertucci-12th-january-2026"
-      },
       {
         "n": "SNZ",
         "s": "2026-01-12T16:00:00Z",
@@ -363,9 +355,9 @@
         "n": "In Focus: Kishori Amonkar (R)",
         "s": "2026-01-13T05:00:00Z",
         "e": "2026-01-13T07:00:00Z",
-        "d": null,
+        "d": "Two hours of entrancing vocal performances from legendary Hindustani classical vocalist Kishori Amonkar. Fiercely devoted to her craft as a \"dialogue with the divine,\" Amonkar was known to enter into trance during performances. Her complex use of microtones pushed the boundaries of rāga traditions and infused each composition with harrowing, sublime emotion.\nSelected and mixed by Symrin.",
         "j": "Kishori Amonkar",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-kishori-amonkar-13th-june-2025",
         "t": "restream"
       },
       {
@@ -489,25 +481,24 @@
         "u": null
       },
       {
-        "n": "ABBY IMPERIAL",
+        "n": "Abby Imperial: Gospel Rap Special",
         "s": "2026-01-13T23:00:00Z",
         "e": "2026-01-14T00:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Louis Selwyn",
-        "s": "2026-01-12T14:00:00Z",
-        "e": "2026-01-12T16:00:00Z",
-        "d": null,
-        "j": null,
+        "j": "Gospel Rap Special",
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Parannoul",
+        "s": "2026-01-14T00:00:00Z",
+        "e": "2026-01-14T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "UWOT",
         "s": "2026-01-12T16:00:00Z",
@@ -1353,15 +1344,6 @@
     ],
     "dublab": [
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-12T14:00:00Z",
-        "e": "2026-01-12T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Middle Pillar Sounds",
         "s": "2026-01-12T16:00:00Z",
         "e": "2026-01-12T18:00:00Z",
@@ -1731,6 +1713,15 @@
         "n": "2092 presents... Funk Radio",
         "s": "2026-01-18T02:00:00Z",
         "e": "2026-01-18T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Discoteca 3ala Mars",
+        "s": "2026-01-18T04:00:00Z",
+        "e": "2026-01-18T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2124,14 +2115,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "RONY B2B XO",
-        "s": "2026-01-12T15:00:00Z",
-        "e": "2026-01-12T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Hey Bony",
         "s": "2026-01-12T16:00:00Z",
