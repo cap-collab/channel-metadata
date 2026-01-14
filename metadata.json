@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-14T03:30:09.646Z",
+  "updated": "2026-01-14T04:40:29.595Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Self Soothe w/ Margeaux",
-        "s": "2026-01-13T15:00:00Z",
-        "e": "2026-01-13T16:00:00Z",
-        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
-        "j": "Margeaux",
-        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-13th-january-2026",
-        "t": "weekly"
-      },
       {
         "n": "AWE W/ LAUREL HALO",
         "s": "2026-01-13T16:00:00Z",
@@ -112,9 +103,9 @@
         "n": "Carlos René: Women of Bolero in the '50s & '60s (R)",
         "s": "2026-01-14T05:00:00Z",
         "e": "2026-01-14T06:00:00Z",
-        "d": null,
+        "d": "Join us for monthly sessions with Carlos René, co-founder of Casa Calypso record shop in Mexico City. Carlos specializes in uncovering rare Latin American recordings and has a passion for a diverse range of genres, including cumbia, Latin funk, Mexican garage rock & psych, boogaloo, and other rare grooves. Let Carlos take you on a captivating musical journey through the vibrant sounds of Latin America that will keep you grooving any time of the day.",
         "j": "Women of Bolero in the '50s & '60s",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/carlos-rene/episodes/carlos-rene-6th-march-2025",
         "t": "restream"
       },
       {
@@ -244,18 +235,18 @@
         "j": "MARGARITA",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "SARA A (R)",
+        "s": "2026-01-15T05:00:00Z",
+        "e": "2026-01-15T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "TONE",
-        "s": "2026-01-13T15:00:00Z",
-        "e": "2026-01-13T16:00:00Z",
-        "d": "A feel-good hour of deep grooves and soulful selections served up by Tone.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tone/episodes/tone-13th-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "UNITED IDENTITIES w/ CARISTA",
         "s": "2026-01-13T16:00:00Z",
@@ -353,9 +344,9 @@
         "n": "Horsegirl Sounds Radio Hour (R)",
         "s": "2026-01-14T06:00:00Z",
         "e": "2026-01-14T07:00:00Z",
-        "d": null,
+        "d": "Horsegirl Sounds Radio Hour is a long running playlist curated by Penelope, Gigi, and Nora. Now they bring their monthly selections to the NTS airwaves.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/horsegirl/episodes/horsegirl-5th-march-2025",
         "t": "restream"
       },
       {
@@ -472,13 +463,13 @@
         "t": "monthly"
       },
       {
-        "n": "HEAVEN AND EARTH MAGIC W/ JOCELYN ROMO",
+        "n": "HEAVEN AND EARTH MAGIC W/ JOCELYN ROMO (R)",
         "s": "2026-01-14T21:00:00Z",
         "e": "2026-01-14T22:00:00Z",
         "d": null,
         "j": "JOCELYN ROMO",
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
       {
         "n": "Luke Mele w/ grrrden",
@@ -487,18 +478,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-01-13T15:00:00Z",
-        "e": "2026-01-13T16:00:00Z",
+        "n": "The Outside Insight Hour (R)",
+        "s": "2026-01-14T23:00:00Z",
+        "e": "2026-01-15T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Jimmy2Shoes",
         "s": "2026-01-13T16:00:00Z",
@@ -1298,15 +1289,6 @@
     ],
     "dublab": [
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-13T14:00:00Z",
-        "e": "2026-01-13T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Mike Harding and Bana Haffar - Long Wave",
         "s": "2026-01-13T16:00:00Z",
         "e": "2026-01-13T18:00:00Z",
@@ -1691,6 +1673,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Jackie Stewart - Fantastica",
+        "s": "2026-01-19T04:00:00Z",
+        "e": "2026-01-19T06:00:00Z",
+        "d": null,
+        "j": "Fantastica",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
@@ -2069,14 +2060,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "ShayBySchai",
-        "s": "2026-01-13T15:00:00Z",
-        "e": "2026-01-13T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Andy4000",
         "s": "2026-01-13T16:00:00Z",
