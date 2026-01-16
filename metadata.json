@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-16T12:27:42.992Z",
+  "updated": "2026-01-16T14:16:36.422Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PULLING THREADS W/ MI-EL",
-        "s": "2026-01-16T00:00:00Z",
-        "e": "2026-01-16T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "DEBT & REFUGE",
-        "s": "2026-01-16T01:00:00Z",
-        "e": "2026-01-16T02:00:00Z",
-        "d": "‘When we refuse… we create dissonance and more importantly, we allow dissonance to continue.’ - from Jack Halberstam’s introduction to the Undercommons.\nDisruptive music for broken times curated by Nymity. Queering, Unlearning, Fragments and Imaginings.\nArtwork by Harry King",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/debt-refuge/episodes/debt-refuge-16th-january-2026"
-      },
       {
         "n": "CDMX Tapes (R)",
         "s": "2026-01-16T02:00:00Z",
@@ -84,9 +68,10 @@
         "n": "ADONIS w/ Amaliah",
         "s": "2026-01-16T15:00:00Z",
         "e": "2026-01-16T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Iconic queer party crew Adonis showcase their residents on a monthly rotation live from the London studio.",
+        "j": "Amaliah",
+        "u": "https://www.nts.live/api/v2/shows/adonis/episodes/adonis-16th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "Waya Fyam w/Prieste$$ TelzzzzZZ",
@@ -218,26 +203,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
+        "s": "2026-01-17T10:00:00Z",
+        "e": "2026-01-17T12:00:00Z",
+        "d": null,
+        "j": "MACCA",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "No Bells w/ Mano Sundaresan",
-        "s": "2026-01-16T00:00:00Z",
-        "e": "2026-01-16T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "TeamSESH w/ HNRK",
-        "s": "2026-01-16T01:00:00Z",
-        "e": "2026-01-16T02:00:00Z",
-        "d": "The Bones-led independent hip hop collective and label TeamSESH take the NTS airwaves for a monthly one hour transmission live from our LA studio.\nFrom the host: \"The first TeamSesh NTS Radio broadcast of 2026 is once more curated by hnrk: Featuring a blend of various styles and (sub-)genres, unreleased tunes, new musical discoveries and releases from TeamSesh members as well as peers and friends.\"",
-        "j": "HNRK",
-        "u": "https://www.nts.live/api/v2/shows/team-sesh/episodes/team-sesh-16th-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "Rap Vacation w/ JANET & ©JOYCE",
         "s": "2026-01-16T02:00:00Z",
@@ -329,17 +306,17 @@
         "n": "David Moore",
         "s": "2026-01-16T14:00:00Z",
         "e": "2026-01-16T15:00:00Z",
-        "d": null,
+        "d": "Luminary of contemporary minimalist composition and founder of Bing & Ruth David Moore picks out an hour of disparate sounds, united by “an undeniable spirit of humanity”. Moving through gospel, minimalism, Kansas folk and beyond.  ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/david-moore-16th-january-2026"
       },
       {
         "n": "THE ULINE CATALOG",
         "s": "2026-01-16T15:00:00Z",
         "e": "2026-01-16T16:00:00Z",
-        "d": null,
+        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-16th-january-2026",
         "t": "monthly"
       },
       {
@@ -461,26 +438,27 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " Akira Knightley",
-        "s": "2026-01-16T00:00:00Z",
-        "e": "2026-01-16T01:00:00Z",
+        "n": "LOST IN THE BITRATE W/ LENA RAINE (R)",
+        "s": "2026-01-17T06:00:00Z",
+        "e": "2026-01-17T07:00:00Z",
+        "d": null,
+        "j": "LENA RAINE",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Phambinho (R)",
+        "s": "2026-01-17T07:00:00Z",
+        "e": "2026-01-17T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DELLUSION",
-        "s": "2026-01-16T01:00:00Z",
-        "e": "2026-01-16T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "robbiethemook",
         "s": "2026-01-16T02:00:00Z",
@@ -587,6 +565,14 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TMANTUS",
+        "s": "2026-01-16T23:00:00Z",
+        "e": "2026-01-17T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Witch Trials presents Myryrs",
@@ -1240,27 +1226,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Pony Sweat Aural Aerobics",
-        "s": "2026-01-16T00:00:00Z",
-        "e": "2026-01-16T01:00:00Z",
+        "n": "0x54",
+        "s": "2026-01-21T13:00:00Z",
+        "e": "2026-01-21T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Nabes",
+        "s": "2026-01-21T14:00:00Z",
+        "e": "2026-01-21T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
-      {
-        "n": "RERUN: Jakoby — guest session (12.27.20)",
-        "s": "2026-01-16T01:00:00Z",
-        "e": "2026-01-16T02:00:00Z",
-        "d": null,
-        "j": "Jakoby — guest session (12.27.20)",
-        "u": null,
-        "t": "restream"
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-16T02:00:00Z",
@@ -1319,6 +1304,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-16T14:00:00Z",
         "e": "2026-01-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-16T16:00:00Z",
+        "e": "2026-01-16T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1695,24 +1689,6 @@
     ],
     "rinse": [
       {
-        "n": "Wes Baggaley",
-        "s": "2026-01-16T00:00:00Z",
-        "e": "2026-01-16T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Studio Barnhus",
-        "s": "2026-01-16T01:00:00Z",
-        "e": "2026-01-16T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Fracture",
         "s": "2026-01-16T02:00:00Z",
         "e": "2026-01-16T03:00:00Z",
@@ -1886,7 +1862,7 @@
         "s": "2026-01-17T11:00:00Z",
         "e": "2026-01-17T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Behind This Wall",
         "u": null,
         "t": "weekly"
       },
@@ -1895,7 +1871,7 @@
         "s": "2026-01-17T13:00:00Z",
         "e": "2026-01-17T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Eastern Bloc Records feat. Karl Roscoe & Rick Donohue",
         "u": null,
         "t": "weekly"
       },
