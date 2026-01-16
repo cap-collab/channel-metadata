@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-16T06:22:08.934Z",
+  "updated": "2026-01-16T08:19:27.725Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Chicken Foot Soup w/ Goya Gumbani and Dom P",
-        "s": "2026-01-15T17:00:00Z",
-        "e": "2026-01-15T19:00:00Z",
-        "d": "London-based jazz artist Goya Gumbani stops by to share heartfelt picks from his collection.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/goya-gumbani/episodes/goya-gumbani-15th-january-2026"
-      },
-      {
-        "n": "Arlo Parks",
-        "s": "2026-01-15T19:00:00Z",
-        "e": "2026-01-15T20:00:00Z",
-        "d": "West London songwriter and vocalist Arlo Parks comes through with an hour of music and stories – club music and current favourites. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/arlo-parks-15th-january-2026"
-      },
       {
         "n": "ABBY IMPERIAL (R)",
         "s": "2026-01-15T20:00:00Z",
@@ -98,21 +82,20 @@
         "t": "restream"
       },
       {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & Leyden Jars",
         "s": "2026-01-16T07:00:00Z",
         "e": "2026-01-16T09:00:00Z",
         "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": "JACK ROLLO",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-16th-january-2026",
-        "t": "biweekly"
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-16th-january-2026"
       },
       {
         "n": "THE NTS BREAKFAST SHOW",
         "s": "2026-01-16T09:00:00Z",
         "e": "2026-01-16T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/breakfast"
       },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
@@ -243,25 +226,18 @@
         "j": "Laura Groves",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "RAGA VIBRATIONS",
+        "s": "2026-01-17T08:00:00Z",
+        "e": "2026-01-17T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "COMO LA FLOR w/ Jazmin: FLOR DE JAMAICA",
-        "s": "2026-01-15T18:00:00Z",
-        "e": "2026-01-15T19:00:00Z",
-        "d": "Música sentimental for all the sad girls and sad boys.\nFrom the host: \"Buenos Dias. New Nuevo Como La Flor to honor my first photo book being published, FLOR DE JAMAICA; bridging my dream worlds/women/ and flowers with the perfect soundtrack.  \nWould u watch the movie to this soundscape?? \nComing soon to a cinema …… in my dreams and yours.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jazmin-garcia/episodes/jazmin-garcia-15th-january-2026"
-      },
-      {
-        "n": "Tragic Magic w/ Julianna Barwick and Mary Lattimore",
-        "s": "2026-01-15T19:00:00Z",
-        "e": "2026-01-15T20:00:00Z",
-        "d": "The celebrated composers Julianna Barwick & Mary Lattimore come together for Tragic Magic - their latest collaborative release. Heralded by three special guest radio shows recorded from our LA studio. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tragic-magic/episodes/tragic-magic-15th-january-2026"
-      },
       {
         "n": "Temporal Cove w/ Pavement",
         "s": "2026-01-15T20:00:00Z",
@@ -360,18 +336,18 @@
         "n": "Under Sleepy Moon w/ Yawning Portal (R)",
         "s": "2026-01-16T08:00:00Z",
         "e": "2026-01-16T09:00:00Z",
-        "d": null,
+        "d": "Zzzzzzzzzzzz… Shhhh… There's a baby sleeping in the house!",
         "j": "Yawning Portal",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/under-sleepy-moon/episodes/under-sleepy-moon-21st-october-2024",
         "t": "restream"
       },
       {
         "n": "LEMAIRE WUKANG – THREE STOREYS : Ground Floor by Christophe Lemaire",
         "s": "2026-01-16T09:00:00Z",
         "e": "2026-01-16T10:00:00Z",
-        "d": null,
+        "d": "Pianos echo throughout the common rooms.\n\nMelody, rhythm, silence, nature, and domesticity. \nMusic & Sound Supervision by Souleymane Said ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/lemaire-wukang-three-storeys/episodes/lemaire-wukang-three-storeys-ground-floor-by-christophe-lemaire-16th-january-2026"
       },
       {
         "n": "JACK & ELAINE: FOLK MIX (R)",
@@ -491,27 +467,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS Guide to: Anatolian Rock, Vol. 1 (R)",
+        "s": "2026-01-17T01:00:00Z",
+        "e": "2026-01-17T02:00:00Z",
+        "d": null,
+        "j": "Anatolian Rock, Vol. 1",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "BORN FOR BURNING W/ PAINKILLER KIM",
+        "s": "2026-01-17T02:00:00Z",
+        "e": "2026-01-17T03:00:00Z",
+        "d": null,
+        "j": "PAINKILLER KIM",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-01-15T18:00:00Z",
-        "e": "2026-01-15T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Pull up w/ Niceup",
-        "s": "2026-01-15T19:00:00Z",
-        "e": "2026-01-15T20:00:00Z",
-        "d": "With a monthly show on Subtle, Niceup is a London based DJ with a unique style. Pushing UKG, Breakbeat, Bass, Electro and 140. Weaving through genres showcasing new releases and older cuts.\r\n",
-        "j": "Niceup",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "SCALADE",
         "s": "2026-01-15T20:00:00Z",
@@ -1280,18 +1256,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SJH",
+        "s": "2026-01-21T07:00:00Z",
+        "e": "2026-01-21T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "BLACK SHEEP RADIO by LEFTY",
+        "s": "2026-01-21T08:00:00Z",
+        "e": "2026-01-21T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "FROM THE VAULTS: frosty, Ale, Jake Viator y Puro Instinct",
-        "s": "2026-01-15T18:00:00Z",
-        "e": "2026-01-15T20:00:00Z",
-        "d": null,
-        "j": "frosty, Ale, Jake Viator y Puro Instinct",
-        "u": null,
-        "t": "regular"
-      },
       {
         "n": "Jimmy Tamborello - Dying Songs",
         "s": "2026-01-15T20:00:00Z",
@@ -1359,6 +1344,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-16T08:00:00Z",
         "e": "2026-01-16T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-16T10:00:00Z",
+        "e": "2026-01-16T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1735,24 +1729,6 @@
     ],
     "rinse": [
       {
-        "n": "DREA",
-        "s": "2026-01-15T18:00:00Z",
-        "e": "2026-01-15T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Katy B",
-        "s": "2026-01-15T19:00:00Z",
-        "e": "2026-01-15T20:00:00Z",
-        "d": null,
-        "j": "B2B Wilfy D",
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Youngsta B2B J:Kenzo with SP:MC",
         "s": "2026-01-15T20:00:00Z",
         "e": "2026-01-15T22:00:00Z",
@@ -2050,23 +2026,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Exa-Terra",
-        "s": "2026-01-15T18:00:00Z",
-        "e": "2026-01-15T19:00:00Z",
-        "d": null,
-        "j": "Obso",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "EGNA",
-        "s": "2026-01-15T19:00:00Z",
-        "e": "2026-01-15T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2026-01-15T20:00:00Z",
         "e": "2026-01-15T23:00:00Z",
@@ -2081,7 +2040,8 @@
         "e": "2026-01-16T08:00:00Z",
         "d": null,
         "j": "Rinse Live From Fotografiska",
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Playlist France",
@@ -2093,7 +2053,7 @@
         "t": "playlist"
       },
       {
-        "n": "Ygal Ohayon",
+        "n": "MumBeats",
         "s": "2026-01-16T13:00:00Z",
         "e": "2026-01-16T14:00:00Z",
         "d": null,
@@ -2102,25 +2062,113 @@
         "t": "biweekly"
       },
       {
-        "n": "MAATEH CHINE",
+        "n": "De Vedelly",
         "s": "2026-01-16T14:00:00Z",
         "e": "2026-01-16T15:00:00Z",
+        "d": null,
+        "j": "Prévenir, soigner, créer face au VIH/sida",
+        "u": null
+      },
+      {
+        "n": "Queer Cult",
+        "s": "2026-01-16T15:00:00Z",
+        "e": "2026-01-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Misantropical",
+        "s": "2026-01-16T16:00:00Z",
+        "e": "2026-01-16T17:00:00Z",
+        "d": null,
+        "j": "invite Bonnyx Arkx",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "BAÏLE avec MAÏA",
+        "s": "2026-01-16T17:00:00Z",
+        "e": "2026-01-16T18:00:00Z",
+        "d": null,
+        "j": "invite Runnan",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Exa-Terra",
+        "s": "2026-01-16T18:00:00Z",
+        "e": "2026-01-16T19:00:00Z",
+        "d": null,
+        "j": "Obso",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "EGNA",
+        "s": "2026-01-16T19:00:00Z",
+        "e": "2026-01-16T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-16T20:00:00Z",
+        "e": "2026-01-16T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Vanyfox",
+        "s": "2026-01-16T23:00:00Z",
+        "e": "2026-01-17T08:00:00Z",
+        "d": null,
+        "j": "Rinse Live From Fotografiska",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-17T08:00:00Z",
+        "e": "2026-01-17T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Ygal Ohayon",
+        "s": "2026-01-17T13:00:00Z",
+        "e": "2026-01-17T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "MAATEH CHINE",
+        "s": "2026-01-17T14:00:00Z",
+        "e": "2026-01-17T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "2-Steppers",
-        "s": "2026-01-16T15:00:00Z",
-        "e": "2026-01-16T16:00:00Z",
+        "s": "2026-01-17T15:00:00Z",
+        "e": "2026-01-17T16:00:00Z",
         "d": null,
         "j": "invite Sasha Rome",
         "u": null
       },
       {
         "n": "Shampain",
-        "s": "2026-01-16T16:00:00Z",
-        "e": "2026-01-16T17:00:00Z",
+        "s": "2026-01-17T16:00:00Z",
+        "e": "2026-01-17T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2128,8 +2176,8 @@
       },
       {
         "n": "Mensonges",
-        "s": "2026-01-16T17:00:00Z",
-        "e": "2026-01-16T18:00:00Z",
+        "s": "2026-01-17T17:00:00Z",
+        "e": "2026-01-17T18:00:00Z",
         "d": null,
         "j": "invite Crachin",
         "u": null,
@@ -2137,8 +2185,8 @@
       },
       {
         "n": "Tijolo Records",
-        "s": "2026-01-16T18:00:00Z",
-        "e": "2026-01-16T19:00:00Z",
+        "s": "2026-01-17T18:00:00Z",
+        "e": "2026-01-17T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2146,17 +2194,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-01-16T19:00:00Z",
-        "e": "2026-01-16T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-01-16T20:00:00Z",
-        "e": "2026-01-16T21:00:00Z",
+        "s": "2026-01-17T19:00:00Z",
+        "e": "2026-01-17T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
