@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-17T16:14:02.998Z",
+  "updated": "2026-01-17T18:18:20.950Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Trilogy Tapes w/ Basic Rhythm (R)",
-        "s": "2026-01-17T03:00:00Z",
-        "e": "2026-01-17T05:00:00Z",
-        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
-        "j": "Basic Rhythm",
-        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-6th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "ONY w/ Tzekin & Andrew3M (R)",
-        "s": "2026-01-17T05:00:00Z",
-        "e": "2026-01-17T06:00:00Z",
-        "d": "Same shit, different month.",
-        "j": "Tzekin & Andrew3M",
-        "u": "https://www.nts.live/api/v2/shows/ony/episodes/ony-23rd-january-2024",
-        "t": "restream"
-      },
       {
         "n": "Uncanny Valley w/ Joe Sweeney (R)",
         "s": "2026-01-17T06:00:00Z",
@@ -103,17 +85,17 @@
         "n": "Shaolinwavy live from Jordan's House of Greatness",
         "s": "2026-01-17T18:00:00Z",
         "e": "2026-01-17T19:00:00Z",
-        "d": null,
+        "d": "Shaolinwavy passes through Jordan's House of Greatness, packing the usual disaporic dancefloor fillers. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/nts-x-footlocker-x-jordan/episodes/nts-x-footlocker-x-jordan-shaolinwavy-17th-january-2026"
       },
       {
         "n": "Shy One live from Jordan's House of Greatness",
         "s": "2026-01-17T19:00:00Z",
         "e": "2026-01-17T20:00:00Z",
-        "d": null,
+        "d": "NTS flagship resident Shy One rolls through Jordan's House of Greatness. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/nts-x-footlocker-x-jordan/episodes/nts-x-footlocker-x-jordan-shy-one-17th-january-2026"
       },
       {
         "n": "AS I WAS MOVING AHEAD - Unmastered Awakenings",
@@ -240,26 +222,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "HOUSE CALL",
+        "s": "2026-01-18T12:00:00Z",
+        "e": "2026-01-18T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
+        "s": "2026-01-18T13:00:00Z",
+        "e": "2026-01-18T15:00:00Z",
+        "d": null,
+        "j": "JEAN",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "BODYWORK W/ KAILI",
-        "s": "2026-01-17T04:00:00Z",
-        "e": "2026-01-17T05:00:00Z",
-        "d": "Kaili brings you the practice of Bodywork, an hour-long cleansing ritual of club music traversing time and locality, applying pressure where it's needed in order to release…\nFrom the host: \"an eclectic, moody, bass-driven mix inspired by new ambient and experimental pop/rap/drill + some dubstep influences. a wintry slow walk into a basement dancefloor.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kaili/episodes/kaili-17th-january-2026"
-      },
-      {
-        "n": "LECHUGA ZAFIRO (R)",
-        "s": "2026-01-17T05:00:00Z",
-        "e": "2026-01-17T06:00:00Z",
-        "d": "Uruguay DJ, producer and sound designer Lechuga Zafiro presents his radio show: CDJ explorations in South\nAmerican dance music, field recording related music and beyond. Played live.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lechuga-zafiro/episodes/lechuga-zafiro-9th-october-2025",
-        "t": "restream"
-      },
       {
         "n": "LOST IN THE BITRATE W/ LENA RAINE (R)",
         "s": "2026-01-17T06:00:00Z",
@@ -360,9 +343,9 @@
         "n": "LABOUR w/ Jimi Mbaye",
         "s": "2026-01-17T19:00:00Z",
         "e": "2026-01-17T20:00:00Z",
-        "d": null,
+        "d": "LABOUR is the duo of Colin Hacklander and Farahnaz Hatam.  Tune in each month for their hour-long show featuring rotating guests and friends from Dakar, Senegal. Expect a mixture of progressive electronic music with heavy sabar drum music, classic & current Mbalax, and timeless Sufi praises.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/labour/episodes/labour-17th-january-2026"
       },
       {
         "n": "PRÍNCIPE W/ NUNO BEATS (R)",
@@ -494,6 +477,15 @@
         "e": "2026-01-18T15:00:00Z",
         "d": null,
         "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "SPA-TIME W/ TIM HECKER (R)",
+        "s": "2026-01-18T15:00:00Z",
+        "e": "2026-01-18T16:00:00Z",
+        "d": null,
+        "j": "TIM HECKER",
         "u": null,
         "t": "restream"
       }
@@ -1293,18 +1285,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Locked On Records",
+        "s": "2026-01-22T17:00:00Z",
+        "e": "2026-01-22T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Kishan",
+        "s": "2026-01-22T18:00:00Z",
+        "e": "2026-01-22T19:00:00Z",
+        "d": "Kishan is a DJ and Producer currently based in London. Actively involved in the music scene already, he produces and mixes a wide range of genres including UK Garage, Drum & Bass, House, Disco and Afrobeat. ",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Greg Belson - 45 live",
-        "s": "2026-01-17T04:00:00Z",
-        "e": "2026-01-17T06:00:00Z",
-        "d": null,
-        "j": "45 live",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
         "s": "2026-01-17T06:00:00Z",
@@ -1708,18 +1709,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-01-17T03:00:00Z",
-        "e": "2026-01-17T06:00:00Z",
+        "n": "LARAAJI and OUT THERE",
+        "s": "2026-01-22T16:30:00Z",
+        "e": "2026-01-22T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "weekly"
       },
+      {
+        "n": "OPEN SLOT",
+        "s": "2026-01-22T18:00:00Z",
+        "e": "2026-01-22T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      }
+    ],
+    "rinse": [
       {
         "n": "Soul Mass Transit System",
         "s": "2026-01-17T06:00:00Z",
