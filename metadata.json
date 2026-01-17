@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-17T10:12:48.261Z",
+  "updated": "2026-01-17T12:24:05.074Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ROOMIES W/ MOBILEGIRL - MUSIC FOR THE KITCHEN (R)",
-        "s": "2026-01-16T22:00:00Z",
-        "e": "2026-01-16T23:00:00Z",
-        "d": "mobilegirl invites you into her home with soundtracks for various rooms.",
-        "j": "MOBILEGIRL",
-        "u": "https://www.nts.live/api/v2/shows/mobilegirl/episodes/mobilegirl-22nd-may-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Paris Aden - STILL BALLIN",
-        "s": "2026-01-16T23:00:00Z",
-        "e": "2026-01-17T00:00:00Z",
-        "d": "Some kid we just let play music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/paris-aden/episodes/paris-aden-16th-january-2026"
-      },
       {
         "n": "ATLANTA TRAP 2010-2015 (R)",
         "s": "2026-01-17T00:00:00Z",
@@ -104,9 +87,10 @@
         "n": "GILDED SOUND REFLECTION - OFF THE SHELF VOL. 18",
         "s": "2026-01-17T14:00:00Z",
         "e": "2026-01-17T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Gilded Sound Reflection is the musical collective of Tai Thittichai and David Lane. They magnify the bleed between genre lines, blurring the boundaries of krautrock, jazz, psych, soul, pop and more – a monthly show, settle in for a meandering couple hours early in the afternoon.\nFrom the host: \"GSR continues its mixed media journey with a second show to combine records and CD's found in the wild. A nostalgic throwback of music and stories for a Saturday afternoon.\"",
+        "j": "OFF THE SHELF VOL. 18",
+        "u": "https://www.nts.live/api/v2/shows/gsr/episodes/gsr-17th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "Kit Records",
@@ -238,26 +222,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "MARTIN NEWELL'S ODDCASTE",
+        "s": "2026-01-18T07:00:00Z",
+        "e": "2026-01-18T07:30:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "AXCESS AMNESIA W/ JENNY SAYAKA NONO",
-        "s": "2026-01-16T22:00:00Z",
-        "e": "2026-01-16T23:00:00Z",
-        "d": "Filmmaker Jenny Sayaka Nono brings her manic VHS hued style to the audio airwaves, with steely coldwave, industrial, synth pop & more. ",
-        "j": "JENNY SAYAKA NONO",
-        "u": "https://www.nts.live/api/v2/shows/axcess-amnesia/episodes/axcess-amnesia-16th-january-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "YESTERDAY'S NEWS",
-        "s": "2026-01-16T23:00:00Z",
-        "e": "2026-01-17T00:00:00Z",
-        "d": "Yesterday's News: a thorough re-cap of the finest in punk, noise, garage and other ratty guitar sounds from the past few decades. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yesterdays-news/episodes/yesterdays-news-16th-january-2026"
-      },
       {
         "n": "Trapdoor w/ Neil Krug - Daisy Marie Embry",
         "s": "2026-01-17T00:00:00Z",
@@ -366,18 +342,18 @@
         "n": "TAFELMUSIK W/ FRANCESCO FUSARO - Morton Feldman Anniversary",
         "s": "2026-01-17T12:00:00Z",
         "e": "2026-01-17T14:00:00Z",
-        "d": null,
+        "d": "Francesco Fusaro, the man behind MFZ Records and classical music recording series 19'40'', brings a considered and varied selection of baroque, classical and contemporary music for a full two hours each month.\nFrom the host: \"Tafelmusik marks Morton Feldman’s centenary: a giant of modern composition, close to the New York School and painters like Mark Rothko and Philip Guston.\"",
         "j": "FRANCESCO FUSARO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/francesco-fusaro/episodes/francesco-fusaro-17th-january-2026",
         "t": "monthly"
       },
       {
         "n": "THE OPERA SHOW",
         "s": "2026-01-17T14:00:00Z",
         "e": "2026-01-17T15:00:00Z",
-        "d": null,
+        "d": "Hannah Catherine Jones splits things open for the Opera Show: an exploration of the best in opera old and new, as well as an unearthing of the operatic in other records from soul, jazz or further afield.\nFrom the host: \"This episode marks 10 years of The Opera Show and is the first of an ongoing series celebrating the life of my dad - Roy Durban Jones - who taught me and many, many others so much about music, including opera, and who sadly passed away recently.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-opera-show/episodes/the-opera-show-17th-january-2026",
         "t": "monthly"
       },
       {
@@ -407,13 +383,12 @@
         "t": "monthly"
       },
       {
-        "n": "LABOUR",
+        "n": "LABOUR w/ Jimi Mbaye",
         "s": "2026-01-17T19:00:00Z",
         "e": "2026-01-17T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "PRÍNCIPE W/ NUNO BEATS (R)",
@@ -503,26 +478,26 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "CICELY",
-        "s": "2026-01-16T21:00:00Z",
-        "e": "2026-01-16T23:00:00Z",
-        "d": "Cicely is a northern raised London based music photographer and DJ. From learning to mix during lockdown, she has since played at clubs across the country in venues such as Fabric, Corsica and Fold.\r\n\r\nCicely runs a collective and events night under the name NRG CRU which focus heavily on the high energy rave sound. She is highly influenced by the northern sound she grew up with, and you can hear this within her sets. Expect heavy blends of techno and hardcore while she shines the light on her favourite northern artists.",
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "TMANTUS",
-        "s": "2026-01-16T23:00:00Z",
-        "e": "2026-01-17T00:00:00Z",
+        "n": "LEMAIRE WUKANG – THREE STOREYS : Second Floor by Huanlü",
+        "s": "2026-01-18T09:00:00Z",
+        "e": "2026-01-18T10:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "LYRA PRAMUK PRESENTS: POP.SOIL (R)",
+        "s": "2026-01-18T10:00:00Z",
+        "e": "2026-01-18T11:00:00Z",
+        "d": null,
+        "j": "POP.SOIL",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Witch Trials presents Myryrs",
         "s": "2026-01-17T00:00:00Z",
@@ -1308,18 +1283,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Zama Dube - The Witch's Flight",
-        "s": "2026-01-16T22:00:00Z",
-        "e": "2026-01-17T00:00:00Z",
+        "n": "Jordan Scudder",
+        "s": "2026-01-22T11:00:00Z",
+        "e": "2026-01-22T12:00:00Z",
         "d": null,
-        "j": "The Witch's Flight",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Lovelydaze",
+        "s": "2026-01-22T12:00:00Z",
+        "e": "2026-01-22T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Hymnal and Mixmaster Wolf - Psychedelic Stax",
         "s": "2026-01-17T00:00:00Z",
@@ -1378,6 +1362,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-17T12:00:00Z",
         "e": "2026-01-17T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-17T14:00:00Z",
+        "e": "2026-01-17T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1736,24 +1729,6 @@
     ],
     "rinse": [
       {
-        "n": "PXSSY PALACE",
-        "s": "2026-01-16T22:00:00Z",
-        "e": "2026-01-16T23:00:00Z",
-        "d": null,
-        "j": "Live from Jyoty's Palace",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Mason Collective",
-        "s": "2026-01-16T23:00:00Z",
-        "e": "2026-01-17T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Vanyfox",
         "s": "2026-01-17T00:00:00Z",
         "e": "2026-01-17T01:00:00Z",
@@ -2030,15 +2005,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-01-16T19:00:00Z",
-        "e": "2026-01-16T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-01-16T23:00:00Z",
