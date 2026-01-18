@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-18T10:13:56.033Z",
+  "updated": "2026-01-18T12:24:28.741Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NTS GUIDE TO: TOP DAWG ENTERTAINMENT (R)",
-        "s": "2026-01-17T22:00:00Z",
-        "e": "2026-01-17T23:00:00Z",
-        "d": "An hour of tracks from independent hip hop and r'n'b label home to Kendrick Lamar, ScHoolboy Q, SZA & more.",
-        "j": "TOP DAWG ENTERTAINMENT",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-top-dawg-entertainment-9th-december-2023",
-        "t": "restream"
-      },
-      {
-        "n": "Blank Forms",
-        "s": "2026-01-17T23:00:00Z",
-        "e": "2026-01-18T00:00:00Z",
-        "d": "Blank Forms Artistic Director Lawrence Kumpf compiles mixes pulled from the New York based non-profit’s forthcoming releases, back-catalog, and publications. These are interspersed with a selection of synergistic tracks and artists moving between references and affinities. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/blank-forms/episodes/blank-forms-17th-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "IN FOCUS: KASSIA (R)",
         "s": "2026-01-18T00:00:00Z",
@@ -124,9 +106,9 @@
         "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
         "s": "2026-01-18T13:00:00Z",
         "e": "2026-01-18T15:00:00Z",
-        "d": null,
+        "d": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.\nFrom the host: \"Our 1st show of 2026 - it's all about albums celebrating 50 years!\"",
         "j": "JEAN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ifmusic/episodes/ifmusic-18th-january-2026",
         "t": "monthly"
       },
       {
@@ -259,26 +241,18 @@
         "j": "DAVID HOLMES",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "DONNA LEAKE",
+        "s": "2026-01-19T15:00:00Z",
+        "e": "2026-01-19T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "SCRYING W/ KAVARI",
-        "s": "2026-01-17T22:00:00Z",
-        "e": "2026-01-17T23:00:00Z",
-        "d": "Scrying into the weird and wonderful, dark and twisted, and everything in between. Music to play into broken obsidian mirrors.\nFrom the host: _\"Scrying into the weird and wonderful, dark and twisted, and everything in between. Music to play into broken obsidian mirrors.\nPlague Music soon.\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kavari/episodes/kavari-17th-january-2026"
-      },
-      {
-        "n": "WORD OF COMMAND - LIVE FROM DRAMA RADIO BAR, CDMX (R)",
-        "s": "2026-01-17T23:00:00Z",
-        "e": "2026-01-18T00:00:00Z",
-        "d": "DJ, artist and techno impresario, Word of Command welds fevered collage and high-octane techno into a hallucinatory dreamscape. He is the founder of FIST (@funisstilltransgressive), a queer techno party that pays tribute to radical fun, while engaging the visibility of communities of otherness through techno in NYC.\nFrom the host: \"Word of Command live from Drama Radio Bar, CDMX at the Isabella Lovestory Afterparty alongside LSDXOXO, 1OO1O, and Niebla — 28 Nov 2025.\"",
-        "j": "LIVE FROM DRAMA RADIO BAR, CDMX",
-        "u": "https://www.nts.live/api/v2/shows/word-of-command/episodes/word-of-command-10th-december-2025",
-        "t": "restream"
-      },
       {
         "n": "PANDORA'S JUKEBOX (R)",
         "s": "2026-01-18T00:00:00Z",
@@ -363,9 +337,9 @@
         "n": "OURI (R)",
         "s": "2026-01-18T13:10:00Z",
         "e": "2026-01-18T14:10:00Z",
-        "d": null,
+        "d": "Contemporary pieces of obsession intertwined with glimpses of reality.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ouri/episodes/ouri-26th-june-2023",
         "t": "restream"
       },
       {
@@ -502,27 +476,17 @@
         "j": "2010S VAPORWAVE",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE WONDER CABINET",
+        "s": "2026-01-19T11:00:00Z",
+        "e": "2026-01-19T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Swing Thing w/ Oka",
-        "s": "2026-01-17T22:00:00Z",
-        "e": "2026-01-17T23:00:00Z",
-        "d": null,
-        "j": "Oka",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Deep Diving w/ DJ Nøthing",
-        "s": "2026-01-17T23:00:00Z",
-        "e": "2026-01-18T00:00:00Z",
-        "d": null,
-        "j": "DJ Nøthing",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Heard Mentality w/be.IN",
         "s": "2026-01-18T00:00:00Z",
@@ -1317,18 +1281,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Beats of All-Nations",
-        "s": "2026-01-17T22:00:00Z",
-        "e": "2026-01-18T00:00:00Z",
+        "n": " Household",
+        "s": "2026-01-23T11:00:00Z",
+        "e": "2026-01-23T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Lakey",
+        "s": "2026-01-23T12:00:00Z",
+        "e": "2026-01-23T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "ANTHNY GBRIEL – Con Amor",
         "s": "2026-01-18T00:00:00Z",
@@ -1737,24 +1709,6 @@
     ],
     "rinse": [
       {
-        "n": "Roman Flügel",
-        "s": "2026-01-17T22:00:00Z",
-        "e": "2026-01-17T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Boofy",
-        "s": "2026-01-17T23:00:00Z",
-        "e": "2026-01-18T00:00:00Z",
-        "d": null,
-        "j": "Rinse HQ135",
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Cormac",
         "s": "2026-01-18T00:00:00Z",
         "e": "2026-01-18T01:00:00Z",
@@ -2049,15 +2003,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-01-17T19:00:00Z",
-        "e": "2026-01-17T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-01-17T23:00:00Z",
