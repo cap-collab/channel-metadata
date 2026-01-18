@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-18T16:15:28.041Z",
+  "updated": "2026-01-18T18:17:50.141Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUNG DART (R)",
-        "s": "2026-01-18T04:00:00Z",
-        "e": "2026-01-18T05:00:00Z",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-19th-may-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Blooming In Filth w/ CRISIS ACTING (R)",
-        "s": "2026-01-18T05:00:00Z",
-        "e": "2026-01-18T06:00:00Z",
-        "d": "Monthly transmissions from the eclectic world of CRISIS ACTING.",
-        "j": "CRISIS ACTING",
-        "u": "https://www.nts.live/api/v2/shows/crisis-acting/episodes/crisis-acting-18th-september-2024",
-        "t": "restream"
-      },
       {
         "n": "YOSHIMIO (R)",
         "s": "2026-01-18T06:00:00Z",
@@ -106,18 +88,19 @@
         "n": "LUPINI",
         "s": "2026-01-18T18:00:00Z",
         "e": "2026-01-18T20:00:00Z",
-        "d": null,
+        "d": "A little bit sweet, a little bit sad, a little bit silly - Lupini keeps it (mainly) horizontal with a mix of dubwise sounds, psychedelic rock, synth-pop and new wave.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-18th-january-2026",
         "t": "monthly"
       },
       {
         "n": "AD93 w/ Damsel Elysium: Daēdah's Forecast",
         "s": "2026-01-18T20:00:00Z",
         "e": "2026-01-18T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests. Old 88 Transition shows available on the archive.\nFrom The Host: \"Storm Daēdah is brewing in Aquarius. Prophecy, ancestral song, phonetics, forecasts and extreme weather. A dive into Damsel's recent favourites as well as glimpses off of the upcoming secret mixtape 'The Maiden, The Architect & The Mediator'.\"",
+        "j": "Damsel Elysium",
+        "u": "https://www.nts.live/api/v2/shows/whities-w-tasker/episodes/whities-w-tasker-18th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "Death Is Not The End - Argentine Tangos & Milongas",
@@ -241,27 +224,25 @@
         "j": "COCO MARIA",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "TRIP LICK w/ JAMES K",
+        "s": "2026-01-19T21:00:00Z",
+        "e": "2026-01-19T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "BEACH NOIR W/ NICK LEÓN",
+        "s": "2026-01-19T22:00:00Z",
+        "e": "2026-01-19T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "AUNTIE-ISM W/ SHABAZZ (R)",
-        "s": "2026-01-18T04:00:00Z",
-        "e": "2026-01-18T05:00:00Z",
-        "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.\nFrom the host: \"Auntie-ism returns with a rhythm-soaked selection inspired by Dancehall Queen (1997) — a cult indie drama and a love letter to Kingston’s underground. This week (Oct 10) marks 28 years since the film’s release. This episode is a journey through the pulse of ’90s reggae and dancehall — roots, ragga, digital riddims, and bashment sway. Music for queens, hustlers, and late-night lovers in motion.\"",
-        "j": "SHABAZZ",
-        "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-7th-october-2025",
-        "t": "restream"
-      },
-      {
-        "n": "EDDIE FICTION (R)",
-        "s": "2026-01-18T05:00:00Z",
-        "e": "2026-01-18T06:00:00Z",
-        "d": "Musical peregrinations…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/its-nation-time/episodes/its-nation-time-7th-november-2022",
-        "t": "restream"
-      },
       {
         "n": "Post Punk Britain: In Focus - Martin Hannett (R)",
         "s": "2026-01-18T06:00:00Z",
@@ -1302,18 +1283,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Discoteca 3ala Mars",
-        "s": "2026-01-18T04:00:00Z",
-        "e": "2026-01-18T06:00:00Z",
+        "n": "MILLETT",
+        "s": "2026-01-23T17:00:00Z",
+        "e": "2026-01-23T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
+      {
+        "n": "Sessions w/ Amy B",
+        "s": "2026-01-23T18:00:00Z",
+        "e": "2026-01-23T19:00:00Z",
+        "d": "Sessions w/ Amy B is an underground multi-genre music show, showcasing the most prolific guests from all corners of the music industry. ",
+        "j": "Amy B",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Mark Maxwell - Sankofa Sound System",
         "s": "2026-01-18T06:00:00Z",
@@ -1691,18 +1681,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Beatie Wolfe - Orange Juice for the Ears",
+        "s": "2026-01-23T16:30:00Z",
+        "e": "2026-01-23T18:00:00Z",
+        "d": null,
+        "j": "Orange Juice for the Ears",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Daddy Differently and Dirty Dave - Things of Life",
+        "s": "2026-01-23T18:00:00Z",
+        "e": "2026-01-23T20:00:00Z",
+        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
+        "j": "Things of Life",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-01-18T03:00:00Z",
-        "e": "2026-01-18T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "regular"
-      },
       {
         "n": "Mason Collective",
         "s": "2026-01-18T06:00:00Z",
@@ -1872,13 +1871,13 @@
         "t": "weekly"
       },
       {
-        "n": "Niall Smith",
+        "n": "Niall Smith invites Ceebo",
         "s": "2026-01-19T12:00:00Z",
         "e": "2026-01-19T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "The Blair Babies Special",
         "u": null,
-        "t": "weekly"
+        "t": "monthly"
       },
       {
         "n": "Nakeira",
