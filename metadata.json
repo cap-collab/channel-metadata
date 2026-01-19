@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-19T18:20:41.120Z",
+  "updated": "2026-01-19T20:15:16.827Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FINE (R)",
-        "s": "2026-01-19T06:00:00Z",
-        "e": "2026-01-19T07:00:00Z",
-        "d": "Sonic diaries from Fine…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-18th-september-2025",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-01-19T07:00:00Z",
@@ -86,9 +77,9 @@
         "n": "TRIP LICK w/ JAMES K",
         "s": "2026-01-19T21:00:00Z",
         "e": "2026-01-19T22:00:00Z",
-        "d": null,
+        "d": "Enter the mythology of NYC artist James K - her sound, equally organic and electronic, is a combination of odd dreams, hybridizing enchanted samples, ripped, broken and morphed rhythms, and vocals, both incomprehensible and appealing.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/james-k/episodes/james-k-19th-january-2026"
       },
       {
         "n": "BEACH NOIR W/ NICK LEÓN",
@@ -218,27 +209,17 @@
         "j": "DIGITAL TRIP",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Truant",
+        "s": "2026-01-20T20:00:00Z",
+        "e": "2026-01-20T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "ROLAS W/ ABE PEDROZA: TRISTES Y ROMÁNTICAS (R)",
-        "s": "2026-01-19T06:00:00Z",
-        "e": "2026-01-19T07:00:00Z",
-        "d": "Abe Pedroza selects an hour of teark-jerking and romantic music from the Spanish speaking world – boleros, ballads, and moody instrumentals – “pairs well with a game of dominoes con los Tíos”.",
-        "j": "ABE PEDROZA",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/rolas-w-abe-pedroza-tristes-y-romanticas-2nd-march-2025",
-        "t": "restream"
-      },
-      {
-        "n": "NAOMI ASA (R)",
-        "s": "2026-01-19T07:00:00Z",
-        "e": "2026-01-19T08:00:00Z",
-        "d": "Naomi Asa on the NTS airwaves, delivering soothing soul and spiritual jazz. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/naomi-asaturyan/episodes/naomi-asaturyan-14th-april-2025",
-        "t": "restream"
-      },
       {
         "n": "HIGH JAZZ* w/ ill Dubio (R)",
         "s": "2026-01-19T08:00:00Z",
@@ -329,18 +310,19 @@
         "n": "Get Grimy w/ Jamie 3:26",
         "s": "2026-01-19T20:00:00Z",
         "e": "2026-01-19T22:00:00Z",
-        "d": null,
+        "d": "Head of Grimy Edits, Zernell Gillie's style can range from the heart of disco to the soul of Chicago house - he heads up a 2 hour slot once a month from our LA studio. ",
         "j": "Jamie 3",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zernell/episodes/zernell-19th-january-2026",
         "t": "monthly"
       },
       {
         "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE",
         "s": "2026-01-19T22:00:00Z",
         "e": "2026-01-19T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Former frontwoman of rock outfit Dum Dum Girls eschews the pseudonym with her new solo project, Kristin Kontrol. Newly relocated to LA, Kristin delivers a monthly mix of expansive and hypnotic sounds: one part Durutti Column to two parts Alice Coltrane.\nFrom the host: \"Exercise the Demons … dark moods + high BPM.\"",
+        "j": "OUT OF VOGUE",
+        "u": "https://www.nts.live/api/v2/shows/kristin-kontrol/episodes/kristin-kontrol-19th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "ASTRAL GARDEN W/ NAILAH HUNTER",
@@ -462,27 +444,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "LORAINE JAMES",
+        "s": "2026-01-20T14:00:00Z",
+        "e": "2026-01-20T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "THE SHADOW CHANNEL MONTAGE W/ SPELLCASTER",
+        "s": "2026-01-20T15:00:00Z",
+        "e": "2026-01-20T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Matthew Mas",
-        "s": "2026-01-19T06:00:00Z",
-        "e": "2026-01-19T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-01-19T07:00:00Z",
-        "e": "2026-01-19T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Liquid Daybreak",
         "s": "2026-01-19T08:00:00Z",
@@ -1329,18 +1309,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": " We Kill Culture",
+        "s": "2026-01-24T19:00:00Z",
+        "e": "2026-01-24T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Danny Scrilla",
+        "s": "2026-01-24T20:00:00Z",
+        "e": "2026-01-24T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Jess Fu - APEX",
-        "s": "2026-01-19T06:00:00Z",
-        "e": "2026-01-19T08:00:00Z",
-        "d": null,
-        "j": "APEX",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-01-19T08:00:00Z",
@@ -1745,18 +1733,18 @@
         "j": "Divine Chord Gospel Show",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Xandao - Sound Study",
+        "s": "2026-01-24T20:00:00Z",
+        "e": "2026-01-24T22:00:00Z",
+        "d": null,
+        "j": "Sound Study",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Serenda",
-        "s": "2026-01-19T06:00:00Z",
-        "e": "2026-01-19T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Playlist",
         "s": "2026-01-19T07:00:00Z",
@@ -2039,15 +2027,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-01-18T20:00:00Z",
-        "e": "2026-01-19T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-01-19T08:00:00Z",
         "e": "2026-01-19T13:00:00Z",
         "d": null,
@@ -2168,13 +2147,12 @@
         "t": "monthly"
       },
       {
-        "n": "Playlist France",
+        "n": "Kuuma",
         "s": "2026-01-20T17:00:00Z",
         "e": "2026-01-20T18:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
+        "j": "Never Expect Power Always",
+        "u": null
       },
       {
         "n": "Nyege Nyege",
