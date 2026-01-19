@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-19T10:20:09.772Z",
+  "updated": "2026-01-19T12:31:04.941Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Death Is Not The End - Argentine Tangos & Milongas",
-        "s": "2026-01-18T22:00:00Z",
-        "e": "2026-01-19T00:00:00Z",
-        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.\nFrom the host: \"A collection of Argentine tangos, milongas & waltzes from the early part of the 20th century into the 1950s.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-18th-january-2026"
-      },
       {
         "n": "ESTELLE BIRCH (R)",
         "s": "2026-01-19T00:00:00Z",
@@ -94,9 +86,9 @@
         "n": "GOD'S WAITING ROOM W/ DAVID HOLMES",
         "s": "2026-01-19T13:00:00Z",
         "e": "2026-01-19T15:00:00Z",
-        "d": null,
+        "d": "God's Waiting Room: a round-about selection of the cinematic, library music, rock 'n' roll, psych, experimental, unclassifiable and independent. From the mind of DJ, producer and creator of original soundtracks, David Holmes. ",
         "j": "DAVID HOLMES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/david-holmes/episodes/david-holmes-19th-january-2026",
         "t": "biweekly"
       },
       {
@@ -109,11 +101,11 @@
         "t": "monthly"
       },
       {
-        "n": "NAOMI ASA",
+        "n": "NAOMI ASA - Winter Special",
         "s": "2026-01-19T17:00:00Z",
         "e": "2026-01-19T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Winter Special",
         "u": null,
         "t": "biweekly"
       },
@@ -228,27 +220,17 @@
         "j": "ANU",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "PROSUMER",
+        "s": "2026-01-20T13:00:00Z",
+        "e": "2026-01-20T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "OKONKOLE Y TROMPA (R)",
-        "s": "2026-01-18T21:00:00Z",
-        "e": "2026-01-18T23:00:00Z",
-        "d": "PAM & Satoshi from the blog Okonkole Y Trompa select 2 hours of records from their collection for NTS.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/okonkole-y-trompa/episodes/okonkole-y-trompa-18th-july-2018",
-        "t": "restream"
-      },
-      {
-        "n": "LES DISQUES BONGO JOE (R)",
-        "s": "2026-01-18T23:00:00Z",
-        "e": "2026-01-19T00:00:00Z",
-        "d": "Swiss reissue experts Bongo Joe celebrate 10 years of releases with a special guest show. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/les-disques-bongo-joe-29th-october-2025",
-        "t": "restream"
-      },
       {
         "n": "BLUE TRIO RADIO W/ FULL BODY 2 (R)",
         "s": "2026-01-19T00:00:00Z",
@@ -342,17 +324,18 @@
         "n": "SKYAPNEA",
         "s": "2026-01-19T12:00:00Z",
         "e": "2026-01-19T14:00:00Z",
-        "d": null,
+        "d": "Broken club, dubbed out sounds, experimental electronics and atonal drifts: Gio’s monthly broadcasts are high contrast assemblages that move at a slow pace. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/skyapnea/episodes/skyapnea-19th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "DJ PK",
         "s": "2026-01-19T14:00:00Z",
         "e": "2026-01-19T15:00:00Z",
-        "d": null,
+        "d": "DJ PK, an alias of mysterious Leicester based producer brings his shadowy take on UK bass and experimental electronic music to the airwaves.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dj-pk-19th-january-2026"
       },
       {
         "n": "Mala Junta w/ LSDXOXO",
@@ -363,7 +346,16 @@
         "u": null
       },
       {
-        "n": "HIT A LICK RADIO",
+        "n": "SURF GANG RADIO W/ DIME (R)",
+        "s": "2026-01-19T16:00:00Z",
+        "e": "2026-01-19T17:00:00Z",
+        "d": null,
+        "j": "DIME",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "HIT A LICK RADIO W/ SLEEPWALKER ENTERTAINMENT",
         "s": "2026-01-19T17:00:00Z",
         "e": "2026-01-19T18:00:00Z",
         "d": null,
@@ -380,7 +372,7 @@
         "t": "monthly"
       },
       {
-        "n": "1080P w/ HD",
+        "n": "1080P w/ HD & SOFT THREAT",
         "s": "2026-01-19T19:00:00Z",
         "e": "2026-01-19T20:00:00Z",
         "d": null,
@@ -473,27 +465,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "BABYSCHÖN (R)",
+        "s": "2026-01-20T07:00:00Z",
+        "e": "2026-01-20T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "SPOTLIGHT EVENTS ",
-        "s": "2026-01-18T22:00:00Z",
-        "e": "2026-01-18T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-01-18T23:00:00Z",
-        "e": "2026-01-19T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "DIANA DZJAMALDAEVA",
         "s": "2026-01-19T00:00:00Z",
@@ -1324,18 +1307,18 @@
         "j": "Tomi From Brockley",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Solid Moves w/ Sophia & Ronaldo",
+        "s": "2026-01-24T12:00:00Z",
+        "e": "2026-01-24T13:00:00Z",
+        "d": null,
+        "j": "Sophia & Ronaldo",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "body / negative - cloud music",
-        "s": "2026-01-18T22:00:00Z",
-        "e": "2026-01-19T00:00:00Z",
-        "d": null,
-        "j": "cloud music",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Aquarium Drunkard",
         "s": "2026-01-19T00:00:00Z",
@@ -1394,6 +1377,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-19T12:00:00Z",
         "e": "2026-01-19T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-19T14:00:00Z",
+        "e": "2026-01-19T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1731,35 +1723,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Oblig",
-        "s": "2026-01-18T20:00:00Z",
-        "e": "2026-01-18T23:00:00Z",
-        "d": null,
-        "j": "Jaz Imsky",
-        "u": null,
-        "t": "weekly"
       },
       {
-        "n": "Slimzee with Riko Dan",
-        "s": "2026-01-18T21:00:00Z",
-        "e": "2026-01-18T23:00:00Z",
-        "d": null,
-        "j": "From The Vault (2016)",
-        "u": null
-      },
-      {
-        "n": "Lu.Re",
-        "s": "2026-01-18T23:00:00Z",
-        "e": "2026-01-19T00:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-01-24T12:00:00Z",
+        "e": "2026-01-24T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "Freshta",
         "s": "2026-01-19T00:00:00Z",
@@ -1887,13 +1862,13 @@
         "t": "monthly"
       },
       {
-        "n": "Amaliah",
+        "n": "Borne Fruits with Amaliah",
         "s": "2026-01-19T19:00:00Z",
         "e": "2026-01-19T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "weekly"
       },
       {
         "n": "Hessle Audio",
@@ -1905,12 +1880,13 @@
         "t": "weekly"
       },
       {
-        "n": "Drone",
+        "n": "Tasha & Ben Sims",
         "s": "2026-01-19T22:00:00Z",
         "e": "2026-01-19T23:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Dub Reggae Special (2026)",
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Bluetoof",
@@ -1922,13 +1898,12 @@
         "t": "monthly"
       },
       {
-        "n": "Night Service with Frazi.er",
+        "n": "Drone",
         "s": "2026-01-20T00:00:00Z",
         "e": "2026-01-20T01:00:00Z",
         "d": null,
-        "j": "100% Production Mix",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Loris",
@@ -2142,7 +2117,7 @@
         "s": "2026-01-19T17:00:00Z",
         "e": "2026-01-19T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "AT VENT TOKYO",
         "u": null
       },
       {
