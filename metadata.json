@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-19T12:31:04.941Z",
+  "updated": "2026-01-19T14:19:45.849Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ESTELLE BIRCH (R)",
-        "s": "2026-01-19T00:00:00Z",
-        "e": "2026-01-19T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/estelle-birch/episodes/estelle-birch-30th-july",
-        "t": "restream"
-      },
-      {
-        "n": "Batukizer - Brazilian Baile Funk Special (R)",
-        "s": "2026-01-19T01:00:00Z",
-        "e": "2026-01-19T02:00:00Z",
-        "d": "A hour of music in honor of the late, great Sergio Mendes (1941-2024).\nPianist, songwriter, producer, and responsible for delivering Brazilian music and good vibes to the world for decades.",
-        "j": "Brazilian Baile Funk Special",
-        "u": "https://www.nts.live/api/v2/shows/batukizer/episodes/batukizer-21st-september-2024",
-        "t": "restream"
-      },
       {
         "n": "System Olympia: Thrust (R)",
         "s": "2026-01-19T02:00:00Z",
@@ -95,9 +77,9 @@
         "n": "DONNA LEAKE",
         "s": "2026-01-19T15:00:00Z",
         "e": "2026-01-19T17:00:00Z",
-        "d": null,
+        "d": "Dive into Donna Leake's ever developing taste, drawing sounds from all over the globe and all over the clock including jazz, reggae and psych. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/donna-leake/episodes/donna-leake-19th-january-2026",
         "t": "monthly"
       },
       {
@@ -228,27 +210,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Self Soothe w/ Margeaux",
+        "s": "2026-01-20T15:00:00Z",
+        "e": "2026-01-20T16:00:00Z",
+        "d": null,
+        "j": "Margeaux",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "BLUE TRIO RADIO W/ FULL BODY 2 (R)",
-        "s": "2026-01-19T00:00:00Z",
-        "e": "2026-01-19T01:00:00Z",
-        "d": null,
-        "j": "FULL BODY 2",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "SOLAR DIN W/ LÝ TRANG (R)",
-        "s": "2026-01-19T01:00:00Z",
-        "e": "2026-01-19T02:00:00Z",
-        "d": "Hanoi producer Lý Trang presents an hour of vibrant noise.",
-        "j": "LÝ TRANG",
-        "u": "https://www.nts.live/api/v2/shows/ly-trang/episodes/ly-trang-27th-february-2024",
-        "t": "restream"
-      },
       {
         "n": "YL HOOI (R)",
         "s": "2026-01-19T02:00:00Z",
@@ -341,9 +314,10 @@
         "n": "Mala Junta w/ LSDXOXO",
         "s": "2026-01-19T15:00:00Z",
         "e": "2026-01-19T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Monthly mixes and \"Bad behaviour\" from the crew behind Berlin's acclaimed Mala Junta parties. Expect throwback trance, souped up '90s basslines and party music of a high tempo flavour.\nFrom the host: \"LSDXOXO, draws us into his singular universe for an irresistible ride, full of bold suprises, boundless beats and delicious brilliance!\"",
+        "j": "LSDXOXO",
+        "u": "https://www.nts.live/api/v2/shows/mala-junta/episodes/mala-junta-19th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "SURF GANG RADIO W/ DIME (R)",
@@ -474,27 +448,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "IMAGINE SOUNDTRACKS W/ REDKOFFEE: KAIBA (R)",
+        "s": "2026-01-20T10:00:00Z",
+        "e": "2026-01-20T11:00:00Z",
+        "d": null,
+        "j": "REDKOFFEE",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "DIANA DZJAMALDAEVA",
-        "s": "2026-01-19T00:00:00Z",
-        "e": "2026-01-19T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "SHADOW SESSIONS ",
-        "s": "2026-01-19T01:00:00Z",
-        "e": "2026-01-19T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Resonate",
         "s": "2026-01-19T02:00:00Z",
@@ -584,6 +549,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-19T15:00:00Z",
+        "e": "2026-01-19T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Bidl",
@@ -1316,18 +1290,27 @@
         "j": "Sophia & Ronaldo",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Aquarium Drunkard",
-        "s": "2026-01-19T00:00:00Z",
-        "e": "2026-01-19T02:00:00Z",
+        "n": "Rich Rose",
+        "s": "2026-01-24T13:00:00Z",
+        "e": "2026-01-24T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Collectors' Cuts",
+        "s": "2026-01-24T14:00:00Z",
+        "e": "2026-01-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "RERUN: Juliet Mendoza – That One Time",
         "s": "2026-01-19T02:00:00Z",
@@ -1735,24 +1718,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Freshta",
-        "s": "2026-01-19T00:00:00Z",
-        "e": "2026-01-19T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Kush Jones",
-        "s": "2026-01-19T01:00:00Z",
-        "e": "2026-01-19T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Roman Flügel",
         "s": "2026-01-19T02:00:00Z",
