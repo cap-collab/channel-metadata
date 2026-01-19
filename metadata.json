@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-19T14:19:45.849Z",
+  "updated": "2026-01-19T16:19:03.587Z",
   "stations": {
     "nts1": [
-      {
-        "n": "System Olympia: Thrust (R)",
-        "s": "2026-01-19T02:00:00Z",
-        "e": "2026-01-19T03:00:00Z",
-        "d": "System Olympia joins us for an hour a month.",
-        "j": "Thrust",
-        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-3rd-april-2023",
-        "t": "restream"
-      },
-      {
-        "n": "No Weapon is Absolute w/ Marius Georgescu (R)",
-        "s": "2026-01-19T03:00:00Z",
-        "e": "2026-01-19T04:00:00Z",
-        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
-        "j": "Marius Georgescu",
-        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-5th-may-2021",
-        "t": "restream"
-      },
       {
         "n": "TOMMASI (R)",
         "s": "2026-01-19T04:00:00Z",
@@ -86,9 +68,9 @@
         "n": "NAOMI ASA - Winter Special",
         "s": "2026-01-19T17:00:00Z",
         "e": "2026-01-19T18:00:00Z",
-        "d": null,
+        "d": "Naomi Asa on the NTS airwaves, delivering soothing soul and spiritual jazz. ",
         "j": "Winter Special",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/naomi-asaturyan/episodes/naomi-asaturyan-19th-january-2026",
         "t": "biweekly"
       },
       {
@@ -219,18 +201,17 @@
         "j": "Margeaux",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "WAVE FLOWER W/ YUKA MIZUHARA",
+        "s": "2026-01-20T16:00:00Z",
+        "e": "2026-01-20T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "YL HOOI (R)",
-        "s": "2026-01-19T02:00:00Z",
-        "e": "2026-01-19T03:00:00Z",
-        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-24th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "IN FOCUS: TIMBALAND (R)",
         "s": "2026-01-19T03:00:00Z",
@@ -323,18 +304,18 @@
         "n": "SURF GANG RADIO W/ DIME (R)",
         "s": "2026-01-19T16:00:00Z",
         "e": "2026-01-19T17:00:00Z",
-        "d": null,
+        "d": "A radio show curated by Surf Gang Records. ",
         "j": "DIME",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-29th-april-2025",
         "t": "restream"
       },
       {
         "n": "HIT A LICK RADIO W/ SLEEPWALKER ENTERTAINMENT",
         "s": "2026-01-19T17:00:00Z",
         "e": "2026-01-19T18:00:00Z",
-        "d": null,
+        "d": "Chester, PA’s DJ FINNAHITALICK (Blackwealth in the club) is a seasoned sound archivist of Underground Hip-hop. Starting Hit A Lick Radio in 2016, DJ FINNAHITALICK explores rap’s extensive subgenres and regional epicenters, ranging from DMV crank and Atlanta Plugg to Milwaukee low-end, Michigan punch-rap and beyond. His fast-paced mixes encapsulate Underground Hip-hop’s diverse landscape, and are not for the weak-hearted.\nFrom the host: \"A special 2015 archives set with Sleepwalker Entertainment out of Philadelphia, Pennsylvania\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/hit-a-lick/episodes/hit-a-lick-19th-january-2026"
       },
       {
         "n": "NATIVE SOUNDSYSTEM W/ SHOLZ",
@@ -457,18 +438,25 @@
         "j": "REDKOFFEE",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "AYUO: EURASIAN JOURNEY",
+        "s": "2026-01-20T11:00:00Z",
+        "e": "2026-01-20T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Phambinho",
+        "s": "2026-01-20T12:00:00Z",
+        "e": "2026-01-20T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Resonate",
-        "s": "2026-01-19T02:00:00Z",
-        "e": "2026-01-19T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-01-19T03:00:00Z",
@@ -1308,18 +1296,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SPD",
+        "s": "2026-01-24T15:00:00Z",
+        "e": "2026-01-24T16:00:00Z",
+        "d": "Midlands born, London based producer and DJ influenced by UK funky, broken techno, garage and early dubstep. \r\n\r\nHas released on Keysound recordings, RKS, eatmybeat, ec2a, Durkle Disco and Dimsum records",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Tyrant",
+        "s": "2026-01-24T16:00:00Z",
+        "e": "2026-01-24T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN: Juliet Mendoza – That One Time",
-        "s": "2026-01-19T02:00:00Z",
-        "e": "2026-01-19T04:00:00Z",
-        "d": null,
-        "j": "Juliet Mendoza – That One Time",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Jackie Stewart - Fantastica",
         "s": "2026-01-19T04:00:00Z",
@@ -1715,18 +1712,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
+        "s": "2026-01-24T16:00:00Z",
+        "e": "2026-01-24T18:00:00Z",
+        "d": null,
+        "j": "The Sweeter the Juice",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Roman Flügel",
-        "s": "2026-01-19T02:00:00Z",
-        "e": "2026-01-19T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-01-19T03:00:00Z",
@@ -1840,7 +1837,7 @@
         "s": "2026-01-19T20:00:00Z",
         "e": "2026-01-19T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Pearson Sound",
         "u": null,
         "t": "weekly"
       },
@@ -1938,7 +1935,7 @@
         "s": "2026-01-20T12:00:00Z",
         "e": "2026-01-20T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Club Soft",
         "u": null,
         "t": "monthly"
       },
@@ -2070,11 +2067,11 @@
         "u": null
       },
       {
-        "n": "Tatie Dee",
+        "n": "Music For Tourist",
         "s": "2026-01-19T16:00:00Z",
         "e": "2026-01-19T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Invite KERMiT D33",
         "u": null
       },
       {
