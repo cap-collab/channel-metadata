@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-20T01:03:45.626Z",
+  "updated": "2026-01-20T03:26:57.781Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GOD'S WAITING ROOM W/ DAVID HOLMES",
-        "s": "2026-01-19T13:00:00Z",
-        "e": "2026-01-19T15:00:00Z",
-        "d": "God's Waiting Room: a round-about selection of the cinematic, library music, rock 'n' roll, psych, experimental, unclassifiable and independent. From the mind of DJ, producer and creator of original soundtracks, David Holmes. ",
-        "j": "DAVID HOLMES",
-        "u": "https://www.nts.live/api/v2/shows/david-holmes/episodes/david-holmes-19th-january-2026",
-        "t": "biweekly"
-      },
       {
         "n": "DONNA LEAKE",
         "s": "2026-01-19T15:00:00Z",
@@ -102,9 +93,9 @@
         "n": "SKEE MASK PRESENTS: FEIERABEND (R)",
         "s": "2026-01-20T04:00:00Z",
         "e": "2026-01-20T05:00:00Z",
-        "d": null,
+        "d": "Skee's insight through his daily listening habits, from guilty pleasures to casual recommendations and in between…",
         "j": "FEIERABEND",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/skee-mask/episodes/skee-mask-22nd-february-2024",
         "t": "restream"
       },
       {
@@ -234,26 +225,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2026-01-21T07:00:00Z",
+        "e": "2026-01-21T09:00:00Z",
+        "d": null,
+        "j": "SPIRIT BLUE",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "SKYAPNEA",
-        "s": "2026-01-19T12:00:00Z",
-        "e": "2026-01-19T14:00:00Z",
-        "d": "Broken club, dubbed out sounds, experimental electronics and atonal drifts: Gio’s monthly broadcasts are high contrast assemblages that move at a slow pace. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/skyapnea/episodes/skyapnea-19th-january-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "DJ PK",
-        "s": "2026-01-19T14:00:00Z",
-        "e": "2026-01-19T15:00:00Z",
-        "d": "DJ PK, an alias of mysterious Leicester based producer brings his shadowy take on UK bass and experimental electronic music to the airwaves.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dj-pk-19th-january-2026"
-      },
       {
         "n": "Mala Junta w/ LSDXOXO",
         "s": "2026-01-19T15:00:00Z",
@@ -354,17 +337,17 @@
         "n": "DELIVERY PRESENTS: HAAN",
         "s": "2026-01-20T03:00:00Z",
         "e": "2026-01-20T04:00:00Z",
-        "d": null,
+        "d": "Delivery presents: 'HAAN', live for an hour a month, straight from our LA studio.\nFrom the host: \"A mix of Techno, Electro, House, Synth Dubs by Delivery\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/delivery/episodes/delivery-20th-january-2026"
       },
       {
         "n": "Akito w/ Forward Transition (R)",
         "s": "2026-01-20T04:00:00Z",
         "e": "2026-01-20T05:00:00Z",
-        "d": null,
+        "d": "Get to know Akito Hearnshaw - chief of the minimal club tracks. Tune in for his selections of burnt out, distorted, rhythmic movers. Bitcrushed, resonant snares clap and kicks punch…",
         "j": "Forward Transition",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/akito/episodes/akito-18th-july-2025",
         "t": "restream"
       },
       {
@@ -483,27 +466,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FUSION BATCHES W/ DJ MORSE CODE",
+        "s": "2026-01-20T23:00:00Z",
+        "e": "2026-01-21T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Programmin' w/ DJ Kita",
+        "s": "2026-01-21T00:00:00Z",
+        "e": "2026-01-21T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Meech",
-        "s": "2026-01-19T13:00:00Z",
-        "e": "2026-01-19T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "JO KIRA",
-        "s": "2026-01-19T14:00:00Z",
-        "e": "2026-01-19T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-01-19T15:00:00Z",
@@ -1358,18 +1339,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-19T12:00:00Z",
-        "e": "2026-01-19T14:00:00Z",
+        "n": "Bits Beats & Breaks w/ D.Mo",
+        "s": "2026-01-25T02:00:00Z",
+        "e": "2026-01-25T03:00:00Z",
+        "d": null,
+        "j": "D.Mo",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Evo",
+        "s": "2026-01-25T03:00:00Z",
+        "e": "2026-01-25T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-19T14:00:00Z",
@@ -1774,27 +1764,18 @@
         "j": "Thread the Needle",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Nakeira",
-        "s": "2026-01-19T13:00:00Z",
-        "e": "2026-01-19T14:00:00Z",
-        "d": null,
-        "j": "Adjani Salmon",
-        "u": null,
-        "t": "weekly"
       },
       {
-        "n": "Tommy Gold",
-        "s": "2026-01-19T14:00:00Z",
-        "e": "2026-01-19T15:00:00Z",
+        "n": "Motorist – Continuum",
+        "s": "2026-01-25T02:00:00Z",
+        "e": "2026-01-25T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Scratcha",
         "s": "2026-01-19T15:00:00Z",
@@ -2183,24 +2164,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Charlie 3000",
-        "s": "2026-01-19T13:00:00Z",
-        "e": "2026-01-19T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Sébastien Forrester",
-        "s": "2026-01-19T14:00:00Z",
-        "e": "2026-01-19T15:00:00Z",
-        "d": null,
-        "j": "Afraa avec Noémi Büchi",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "MALEFI",
         "s": "2026-01-19T15:00:00Z",
