@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-20T06:24:04.019Z",
+  "updated": "2026-01-20T08:21:12.286Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-01-19T18:00:00Z",
-        "e": "2026-01-19T20:00:00Z",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": "COCO MARIA",
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-19th-january-2026",
-        "t": "weekly"
-      },
       {
         "n": "AN1MA W/ MOLINARO (R)",
         "s": "2026-01-19T20:00:00Z",
@@ -111,9 +102,9 @@
         "n": "The NTS Breakfast Show w/ NIC TASKER",
         "s": "2026-01-20T09:00:00Z",
         "e": "2026-01-20T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-nic-tasker-20th-january-2026"
       },
       {
         "n": "SOUP TO NUTS W/ ANU",
@@ -241,26 +232,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "BRADLEY ZERO PRESENTS: RHYTHM SECTION",
+        "s": "2026-01-21T14:00:00Z",
+        "e": "2026-01-21T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NATIVE SOUNDSYSTEM W/ SHOLZ",
-        "s": "2026-01-19T18:00:00Z",
-        "e": "2026-01-19T19:00:00Z",
-        "d": "Native Sound System join us once a month, breaking the latest sounds from Lagos",
-        "j": "SHOLZ",
-        "u": "https://www.nts.live/api/v2/shows/native-soundsystem/episodes/native-soundsystem-19th-january-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "1080P w/ HD & SOFT THREAT",
-        "s": "2026-01-19T19:00:00Z",
-        "e": "2026-01-19T20:00:00Z",
-        "d": "HD features a vast variety of guests spanning across hip hop, RnB and electronic music to talk about music, culture and life aswell as share their favorite selections of any genre.\nFrom the host: \"For this edition of 1080P, HD is joined by New York City icon SOFT THREAT fka Joey Labeija. Listen through the SOFT THREAT and Joey LaBeija discography and hear the interview, including chat about his upcoming project FA990T, out this spring.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hd/episodes/hd-19th-january-2026"
-      },
       {
         "n": "Get Grimy w/ Jamie 3:26",
         "s": "2026-01-19T20:00:00Z",
@@ -362,18 +344,18 @@
         "n": "NO EARTH TONES W/ BEN BLOCK (R)",
         "s": "2026-01-20T08:00:00Z",
         "e": "2026-01-20T10:00:00Z",
-        "d": null,
+        "d": "Welcome to the Bennett Show - a monthly 2hr broadcast live from the LA studio.",
         "j": "BEN BLOCK",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-bennett-show/episodes/the-bennett-show-22nd-march-2024",
         "t": "restream"
       },
       {
         "n": "IMAGINE SOUNDTRACKS W/ REDKOFFEE: KAIBA (R)",
         "s": "2026-01-20T10:00:00Z",
         "e": "2026-01-20T11:00:00Z",
-        "d": null,
+        "d": "redkoffee aka Clarisse Prévost pays tribute to sci-fi love story Kaiba created by Masaki Yuasa in 2008. In this world, memories can be turned into data and stored. Even if the body dies, its memories live on, and can be transferred to another body. Bad memories can be erased, and good ones downloaded. However, this is something only the privileged can do. In a world like this, our protagonist, Kaiba, is traveling in another body with no memories of his own..",
         "j": "REDKOFFEE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/redkoffee/episodes/redkoffee-kaiba-3rd-april-2025",
         "t": "restream"
       },
       {
@@ -489,27 +471,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "The Last Playlist: Guide to: Melancholia",
+        "s": "2026-01-21T03:00:00Z",
+        "e": "2026-01-21T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CXEMA (R)",
+        "s": "2026-01-21T04:00:00Z",
+        "e": "2026-01-21T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "H3L3NA",
-        "s": "2026-01-19T18:00:00Z",
-        "e": "2026-01-19T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "LOOSE E",
-        "s": "2026-01-19T19:00:00Z",
-        "e": "2026-01-19T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Rainbow Conspiracy",
         "s": "2026-01-19T20:00:00Z",
@@ -608,6 +589,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-20T09:00:00Z",
+        "e": "2026-01-20T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Albert Moon",
@@ -1355,18 +1345,17 @@
         "j": "Search Urchin",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " All Fitz",
+        "s": "2026-01-25T08:00:00Z",
+        "e": "2026-01-25T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-01-19T18:00:00Z",
-        "e": "2026-01-19T20:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-01-19T20:00:00Z",
@@ -1425,6 +1414,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-20T08:00:00Z",
         "e": "2026-01-20T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-20T10:00:00Z",
+        "e": "2026-01-20T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1765,24 +1763,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Dyslecta",
-        "s": "2026-01-19T18:00:00Z",
-        "e": "2026-01-19T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Borne Fruits with Amaliah",
-        "s": "2026-01-19T19:00:00Z",
-        "e": "2026-01-19T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Hessle Audio",
         "s": "2026-01-19T20:00:00Z",
@@ -2136,24 +2116,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Nyege Nyege",
-        "s": "2026-01-19T18:00:00Z",
-        "e": "2026-01-19T19:00:00Z",
-        "d": null,
-        "j": "invite Binghi",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-01-19T19:00:00Z",
-        "e": "2026-01-19T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-01-19T20:00:00Z",
         "e": "2026-01-20T08:00:00Z",
@@ -2181,13 +2143,13 @@
         "t": "playlist"
       },
       {
-        "n": "Playlist France",
+        "n": "Charlie 3000",
         "s": "2026-01-20T13:00:00Z",
-        "e": "2026-01-20T14:00:00Z",
+        "e": "2026-01-20T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "weekly"
       },
       {
         "n": "Le Cercle",
@@ -2198,17 +2160,104 @@
         "u": null
       },
       {
-        "n": "La Passe D avec Armel Bizzman",
+        "n": "MALEFI",
         "s": "2026-01-20T15:00:00Z",
         "e": "2026-01-20T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Jeune à Jamais",
+        "s": "2026-01-20T16:00:00Z",
+        "e": "2026-01-20T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Kuuma",
+        "s": "2026-01-20T17:00:00Z",
+        "e": "2026-01-20T18:00:00Z",
+        "d": null,
+        "j": "Never Expect Power Always",
+        "u": null
+      },
+      {
+        "n": "Nyege Nyege",
+        "s": "2026-01-20T18:00:00Z",
+        "e": "2026-01-20T19:00:00Z",
+        "d": null,
+        "j": "invite Binghi",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-20T19:00:00Z",
+        "e": "2026-01-20T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-20T20:00:00Z",
+        "e": "2026-01-21T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-21T08:00:00Z",
+        "e": "2026-01-21T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-21T11:00:00Z",
+        "e": "2026-01-21T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-21T13:00:00Z",
+        "e": "2026-01-21T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Le Cercle",
+        "s": "2026-01-21T14:00:00Z",
+        "e": "2026-01-21T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "La Passe D avec Armel Bizzman",
+        "s": "2026-01-21T15:00:00Z",
+        "e": "2026-01-21T16:00:00Z",
         "d": null,
         "j": "LA PASSE D : Armelbizzman invite Evoox",
         "u": null
       },
       {
         "n": "CHÔ!",
-        "s": "2026-01-20T16:00:00Z",
-        "e": "2026-01-20T17:00:00Z",
+        "s": "2026-01-21T16:00:00Z",
+        "e": "2026-01-21T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2216,8 +2265,8 @@
       },
       {
         "n": "Not Sorry",
-        "s": "2026-01-20T17:00:00Z",
-        "e": "2026-01-20T18:00:00Z",
+        "s": "2026-01-21T17:00:00Z",
+        "e": "2026-01-21T18:00:00Z",
         "d": null,
         "j": "Avec Lizzie",
         "u": null,
@@ -2225,8 +2274,8 @@
       },
       {
         "n": "Hyas",
-        "s": "2026-01-20T18:00:00Z",
-        "e": "2026-01-20T19:00:00Z",
+        "s": "2026-01-21T18:00:00Z",
+        "e": "2026-01-21T19:00:00Z",
         "d": null,
         "j": "Paul Stephan, Kaba & Chris Sam",
         "u": null,
@@ -2234,16 +2283,16 @@
       },
       {
         "n": "Adam BFD",
-        "s": "2026-01-20T19:00:00Z",
-        "e": "2026-01-20T20:00:00Z",
+        "s": "2026-01-21T19:00:00Z",
+        "e": "2026-01-21T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-01-20T20:00:00Z",
-        "e": "2026-01-20T21:00:00Z",
+        "s": "2026-01-21T20:00:00Z",
+        "e": "2026-01-21T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
