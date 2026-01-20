@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-20T12:31:17.261Z",
+  "updated": "2026-01-20T14:23:00.801Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BODY MOTION w/ SEEP",
-        "s": "2026-01-20T00:00:00Z",
-        "e": "2026-01-20T01:00:00Z",
-        "d": null,
-        "j": "SEEP",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Fractal Meat On A Spony Bone",
         "s": "2026-01-20T01:00:00Z",
@@ -94,9 +85,9 @@
         "n": "Self Soothe w/ Margeaux - devotional special",
         "s": "2026-01-20T15:00:00Z",
         "e": "2026-01-20T16:00:00Z",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-20th-january-2026",
         "t": "weekly"
       },
       {
@@ -233,27 +224,17 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "MOTIVE",
+        "s": "2026-01-21T18:00:00Z",
+        "e": "2026-01-21T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Hit Factory w/ DJ Wawa",
-        "s": "2026-01-20T00:00:00Z",
-        "e": "2026-01-20T01:00:00Z",
-        "d": null,
-        "j": "DJ Wawa",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "THEE MARLOES (R)",
-        "s": "2026-01-20T01:00:00Z",
-        "e": "2026-01-20T02:00:00Z",
-        "d": "Global grooves of Persian, Turkish, and Middle Eastern funk, with a touch of African rhythm.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/thee-marloes/episodes/thee-marloes-25th-march-2025",
-        "t": "restream"
-      },
       {
         "n": "Total Stasis",
         "s": "2026-01-20T02:00:00Z",
@@ -354,17 +335,17 @@
         "n": "LORAINE JAMES",
         "s": "2026-01-20T14:00:00Z",
         "e": "2026-01-20T15:00:00Z",
-        "d": null,
+        "d": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/loraine-james/episodes/loraine-james-20th-january-2026"
       },
       {
         "n": "THE SHADOW CHANNEL MONTAGE W/ SPELLCASTER",
         "s": "2026-01-20T15:00:00Z",
         "e": "2026-01-20T16:00:00Z",
-        "d": null,
+        "d": "A mix montaging music from the third and final spellcaster album ‘the shadow channel’ and its expanded universe in excerpts from live recordings of the spellchestra from the recent year. ‘the shadow channel’ is the symbolic transition rite from spellcaster to spellchestra and the origin story of the operatic roleplaying ensemble. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/the-shadow-channel-w-spellcaster-20th-january-2026"
       },
       {
         "n": "LAMIN FOFANA (R)",
@@ -483,18 +464,27 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Dan Dara",
-        "s": "2026-01-20T00:00:00Z",
-        "e": "2026-01-20T02:00:00Z",
+        "n": "PHILIP FM (R)",
+        "s": "2026-01-21T07:00:00Z",
+        "e": "2026-01-21T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "restream"
       },
+      {
+        "n": "3XL (R)",
+        "s": "2026-01-21T10:00:00Z",
+        "e": "2026-01-21T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Refractions Radio",
         "s": "2026-01-20T02:00:00Z",
@@ -1329,18 +1319,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "WAX HEAVY w/ VIOLENTLYILL",
+        "s": "2026-01-25T13:00:00Z",
+        "e": "2026-01-25T14:00:00Z",
+        "d": null,
+        "j": "VIOLENTLYILL",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Sarah Jones",
+        "s": "2026-01-25T14:00:00Z",
+        "e": "2026-01-25T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN: Rani de Leon",
-        "s": "2026-01-20T00:00:00Z",
-        "e": "2026-01-20T02:00:00Z",
-        "d": null,
-        "j": "Rani de Leon",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Encarnación - Lucid Hour",
         "s": "2026-01-20T02:00:00Z",
@@ -1736,26 +1735,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "djjs",
+        "s": "2026-01-25T13:00:00Z",
+        "e": "2026-01-25T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Drone",
-        "s": "2026-01-20T00:00:00Z",
-        "e": "2026-01-20T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Loris",
-        "s": "2026-01-20T01:00:00Z",
-        "e": "2026-01-20T02:00:00Z",
-        "d": null,
-        "j": "Azemad",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Lu.Re",
         "s": "2026-01-20T02:00:00Z",
@@ -1919,13 +1910,12 @@
         "t": "monthly"
       },
       {
-        "n": "Tasha",
+        "n": "Drone",
         "s": "2026-01-21T02:00:00Z",
         "e": "2026-01-21T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Electronic Playlist",
