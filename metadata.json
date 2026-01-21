@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-21T08:21:20.736Z",
+  "updated": "2026-01-21T10:19:06.319Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Truant",
-        "s": "2026-01-20T20:00:00Z",
-        "e": "2026-01-20T21:00:00Z",
-        "d": "A fresh take on dubstep from London producer Truant.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/truant-20th-january-2026"
-      },
-      {
-        "n": "SPACES IN BETWEEN W/ INTROSPEKT (R)",
-        "s": "2026-01-20T21:00:00Z",
-        "e": "2026-01-20T22:00:00Z",
-        "d": "\"Having freshly touched down in Bristol for the day, Introspekt comes through with an all vinyl mix centered around 2nd wave Dubstep classics from the Bristol scene. Loads of heavy dubwise steppers inbound!\"",
-        "j": "INTROSPEKT",
-        "u": "https://www.nts.live/api/v2/shows/introspekt/episodes/introspekt-12th-september-2025",
-        "t": "restream"
-      },
       {
         "n": "5 GATE TEMPLE",
         "s": "2026-01-20T22:00:00Z",
@@ -102,9 +85,9 @@
         "n": "SOUP TO NUTS W/ SHY ONE & JILL SCOTT",
         "s": "2026-01-21T11:00:00Z",
         "e": "2026-01-21T13:00:00Z",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-21st-january-2026"
       },
       {
         "n": "DAPHNI",
@@ -231,26 +214,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-01-22T11:00:00Z",
+        "e": "2026-01-22T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Mint Field",
-        "s": "2026-01-20T20:00:00Z",
-        "e": "2026-01-20T21:00:00Z",
-        "d": "“Feelings of inhabiting a cloud” Mexico City-based duo select some newly treasured songs, including their latest single. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/mint-field-20th-january-2026"
-      },
-      {
-        "n": "Nick Hakim (R)",
-        "s": "2026-01-20T21:00:00Z",
-        "e": "2026-01-20T22:00:00Z",
-        "d": "Brooklyn musician Nick Hakim takes over the NTS airwaves.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nick-hakim/episodes/nick-hakim-22nd-july-2025",
-        "t": "restream"
-      },
       {
         "n": "LOS HITTERS",
         "s": "2026-01-20T22:00:00Z",
@@ -359,9 +333,9 @@
         "n": "DIGGING IN INDIA (Cover Version Special)",
         "s": "2026-01-21T11:00:00Z",
         "e": "2026-01-21T12:00:00Z",
-        "d": null,
+        "d": "Explorations” is an attempt to shed light on offbeat music from India and around the world. Digging In India aka Nishant Mittal is a music archivist, DJ and record store owner based in New Delhi.\nFrom the host \"Cover versions/remakes of songs by legendary artists such as Micael Jackson, Donna Summer, Bob Marley, Madonna & others in Hindi, Urdu, Arabic, Tamil & more!\" ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/digging-in-india/episodes/digging-in-india-21st-january-2026"
       },
       {
         "n": "Back to Mogadisco w/ Bananasoverdose",
@@ -486,27 +460,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "MUSIC 4 LOVERS W/ JABU & ANDY PAYBACK (R)",
+        "s": "2026-01-22T06:00:00Z",
+        "e": "2026-01-22T07:00:00Z",
+        "d": null,
+        "j": "JABU & ANDY PAYBACK",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Deeper DnB",
-        "s": "2026-01-20T20:00:00Z",
-        "e": "2026-01-20T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "ASH BASH - SHOWTIME",
-        "s": "2026-01-20T21:00:00Z",
-        "e": "2026-01-20T22:00:00Z",
-        "d": null,
-        "j": "SHOWTIME",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " Bassfreight Sound",
         "s": "2026-01-20T22:00:00Z",
@@ -596,6 +561,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-21T11:00:00Z",
+        "e": "2026-01-21T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Stroke of Sound by Tia",
@@ -1305,18 +1279,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Cafe's Internet Lounge",
-        "s": "2026-01-20T20:00:00Z",
-        "e": "2026-01-20T22:00:00Z",
+        "n": "Casual P",
+        "s": "2026-01-26T09:00:00Z",
+        "e": "2026-01-26T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Not a Baile Radio Show",
+        "s": "2026-01-26T10:00:00Z",
+        "e": "2026-01-26T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-20T22:00:00Z",
@@ -1375,6 +1358,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-21T10:00:00Z",
         "e": "2026-01-21T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-21T12:00:00Z",
+        "e": "2026-01-21T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1732,15 +1724,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "La La",
-        "s": "2026-01-20T20:00:00Z",
-        "e": "2026-01-20T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Surusinghe",
         "s": "2026-01-20T22:00:00Z",
@@ -2256,15 +2239,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "POST RADIO",
-        "s": "2026-01-20T19:00:00Z",
-        "e": "2026-01-20T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "FLOORPLAY",
         "s": "2026-01-20T21:00:00Z",
