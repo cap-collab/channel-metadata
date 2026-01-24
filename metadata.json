@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-23T22:11:46.418Z",
+  "updated": "2026-01-24T01:03:02.088Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ APIENTO",
-        "s": "2026-01-23T09:00:00Z",
-        "e": "2026-01-23T11:00:00Z",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-apiento-23rd-january-2026"
-      },
-      {
-        "n": "SOUP TO NUTS W/ SCARY THINGS",
-        "s": "2026-01-23T11:00:00Z",
-        "e": "2026-01-23T13:00:00Z",
-        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
-        "j": "SCARY THINGS",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-23rd-january-2026",
-        "t": "weekly"
-      },
       {
         "n": "PUM PUM POWER HOUR W/ LIL C",
         "s": "2026-01-23T13:00:00Z",
@@ -118,18 +101,18 @@
         "n": "MOBBS (R)",
         "s": "2026-01-24T01:00:00Z",
         "e": "2026-01-24T03:00:00Z",
-        "d": null,
+        "d": "MOBBS chopping up whatever he finds \nohm.mobbs@protonmail.com",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mobbs/episodes/mobbs-5th-january-2024",
         "t": "restream"
       },
       {
         "n": "KHARTOUM ARRIVALS W/ BASMA (R)",
         "s": "2026-01-24T03:00:00Z",
         "e": "2026-01-24T04:00:00Z",
-        "d": null,
+        "d": "Basma shares songs and stories from passings through Khartoum and beyond.",
         "j": "BASMA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-25th-may-2025",
         "t": "restream"
       },
       {
@@ -241,27 +224,36 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "nts2": [
+      },
       {
-        "n": "AARON ANGELL (R)",
-        "s": "2026-01-23T10:00:00Z",
-        "e": "2026-01-23T11:00:00Z",
-        "d": "Visual artist and ceramicist Aaron Angell plays a vinyl-only monthly selection of music from his collection - usually focussing on guitar soli, privately pressed UK folk, psychedelia, and the occult new age.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/aaron-angell/episodes/aaron-angell-1st-july-2024",
+        "n": "NTS GUIDE TO: DETROIT JAZZ (R)",
+        "s": "2026-01-25T00:00:00Z",
+        "e": "2026-01-25T02:00:00Z",
+        "d": null,
+        "j": "DETROIT JAZZ",
+        "u": null,
         "t": "restream"
       },
       {
-        "n": "In Focus: Takashi Yoshimatsu",
-        "s": "2026-01-23T11:00:00Z",
-        "e": "2026-01-23T13:00:00Z",
-        "d": "Takashi Yoshimatsu, born in Tokyo in 1953, is one of Japan's most renowned living classical composers. First gaining recognition in the early 1980s with atonal, serialist compositions like \"Threnody to Toki\" (1981). Yoshimatsu later became disillusioned with atonal music, opting to compose lush neo-romantic sounds taking influence from popular rock and jazz. Yoshimatsu also notably composed the soundtrack for the 2003 film adaption of Astro Boy.\nImage: Naoki Hashimoto",
-        "j": "Takashi Yoshimatsu",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-takashi-yoshimatsu-23rd-january-2026",
-        "t": "weekly"
+        "n": "Beyond The Clouds w/ Masha Mar (R)",
+        "s": "2026-01-25T02:00:00Z",
+        "e": "2026-01-25T03:00:00Z",
+        "d": null,
+        "j": "Masha Mar",
+        "u": null,
+        "t": "restream"
       },
+      {
+        "n": "Precious Metals w/ EndgamE (R)",
+        "s": "2026-01-25T03:00:00Z",
+        "e": "2026-01-25T04:00:00Z",
+        "d": null,
+        "j": "EndgamE",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "nts2": [
       {
         "n": "Orpheu The Wizard",
         "s": "2026-01-23T13:00:00Z",
@@ -351,17 +343,18 @@
         "n": "PUFFY W/ BAPARI",
         "s": "2026-01-24T01:00:00Z",
         "e": "2026-01-24T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Tune in to a monthly show where Bapari's goal is to put the spotlight on emerging\nunderground talent.",
+        "j": "BAPARI",
+        "u": "https://www.nts.live/api/v2/shows/puffy-w-bapari/episodes/puffy-w-bapari-24th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "ORIGINS W/ KEVIN SAUNDERSON (R)",
         "s": "2026-01-24T02:00:00Z",
         "e": "2026-01-24T03:00:00Z",
-        "d": null,
+        "d": "Journeys through the past, present, and future of dance culture with The co-founder of techno and elevator of house music, Kevin Saunderson. Expect deep blends of house, techno, electro, and disco alongside stories of the scenes and sounds that shaped them.",
         "j": "KEVIN SAUNDERSON",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kevin-saunderson/episodes/kevin-saunderson-26th-september-2025",
         "t": "restream"
       },
       {
@@ -476,35 +469,33 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "op99 / late dawn ",
-        "s": "2026-01-23T10:00:00Z",
-        "e": "2026-01-23T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": " Household",
-        "s": "2026-01-23T11:00:00Z",
-        "e": "2026-01-23T12:00:00Z",
+        "n": "KIM LANA",
+        "s": "2026-01-24T20:00:00Z",
+        "e": "2026-01-24T22:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Lakey",
-        "s": "2026-01-23T12:00:00Z",
-        "e": "2026-01-23T13:00:00Z",
+        "n": "BERGSONIST",
+        "s": "2026-01-24T22:00:00Z",
+        "e": "2026-01-24T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
+      {
+        "n": "FAK AGZA2 W/ POSTDRONE",
+        "s": "2026-01-24T23:00:00Z",
+        "e": "2026-01-25T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-01-23T13:00:00Z",
@@ -1369,18 +1360,18 @@
         "j": null,
         "u": null,
         "t": "biweekly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-23T10:00:00Z",
-        "e": "2026-01-23T12:00:00Z",
+        "n": "Riska",
+        "s": "2026-01-28T23:00:00Z",
+        "e": "2026-01-29T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "biweekly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-23T12:00:00Z",
@@ -1767,17 +1758,18 @@
         "j": "Hardcore Positive",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Tottie - Across the Pond",
+        "s": "2026-01-29T00:00:00Z",
+        "e": "2026-01-29T02:00:00Z",
+        "d": null,
+        "j": "Across the Pond",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Breakfast with Kojay",
-        "s": "2026-01-23T09:00:00Z",
-        "e": "2026-01-23T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Uncle Dugs",
         "s": "2026-01-23T11:00:00Z",
@@ -1829,7 +1821,8 @@
         "e": "2026-01-23T23:00:00Z",
         "d": null,
         "j": "B2B Samantha Togni",
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "YETI OUT",
@@ -1982,87 +1975,196 @@
         "j": "Rinse HQ126",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Cameo Blush",
+        "s": "2026-01-25T00:00:00Z",
+        "e": "2026-01-25T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "IsGwan",
+        "s": "2026-01-25T01:00:00Z",
+        "e": "2026-01-25T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "I. JORDAN",
+        "s": "2026-01-25T02:00:00Z",
+        "e": "2026-01-25T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-01-25T03:00:00Z",
+        "e": "2026-01-25T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
+      },
+      {
+        "n": "Keyrah",
+        "s": "2026-01-25T06:00:00Z",
+        "e": "2026-01-25T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-01-25T07:00:00Z",
+        "e": "2026-01-25T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "FYI Robyn",
+        "s": "2026-01-25T09:00:00Z",
+        "e": "2026-01-25T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Dean Bryce",
+        "s": "2026-01-25T11:00:00Z",
+        "e": "2026-01-25T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Dance Regular",
+        "s": "2026-01-25T13:00:00Z",
+        "e": "2026-01-25T15:00:00Z",
+        "d": null,
+        "j": "Matica & EVM128",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Roska",
+        "s": "2026-01-25T15:00:00Z",
+        "e": "2026-01-25T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Flyo",
+        "s": "2026-01-25T17:00:00Z",
+        "e": "2026-01-25T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Plastician",
+        "s": "2026-01-25T18:00:00Z",
+        "e": "2026-01-25T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Oblig",
+        "s": "2026-01-25T20:00:00Z",
+        "e": "2026-01-25T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Oneman B2B J-Cush with D Double E, Jammer & More",
+        "s": "2026-01-25T21:00:00Z",
+        "e": "2026-01-25T23:00:00Z",
+        "d": null,
+        "j": "From The Vault (2014)",
+        "u": null
+      },
+      {
+        "n": "Nala Brown",
+        "s": "2026-01-25T23:00:00Z",
+        "e": "2026-01-26T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-01-23T08:00:00Z",
-        "e": "2026-01-23T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-01-23T11:00:00Z",
-        "e": "2026-01-23T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
+        "n": "Chloé Sarraméa",
         "s": "2026-01-23T13:00:00Z",
         "e": "2026-01-23T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "biweekly"
       },
       {
-        "n": "Raja",
+        "n": "Sabor A Mi",
         "s": "2026-01-23T14:00:00Z",
         "e": "2026-01-23T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
-        "n": "Dann SSV",
+        "n": "Sevenbeatz",
         "s": "2026-01-23T15:00:00Z",
         "e": "2026-01-23T16:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "invite Mendilabaz avec Bino & Parias",
+        "u": null,
+        "t": "biweekly"
       },
       {
-        "n": "Boukan Records",
+        "n": "King Doudou",
         "s": "2026-01-23T16:00:00Z",
         "e": "2026-01-23T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "Ohjeelo",
+        "n": "Tomás Urquieta",
         "s": "2026-01-23T17:00:00Z",
         "e": "2026-01-23T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "rougail space program",
+        "n": "Coffintexts",
         "s": "2026-01-23T18:00:00Z",
         "e": "2026-01-23T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
-        "n": "Asian Core",
+        "n": "MarcelDune",
         "s": "2026-01-23T19:00:00Z",
         "e": "2026-01-23T20:00:00Z",
         "d": null,
-        "j": "With Sottheavy",
-        "u": null,
-        "t": "biweekly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Playlist France",
@@ -2092,13 +2194,13 @@
         "t": "playlist"
       },
       {
-        "n": "Chloé Sarraméa",
+        "n": "Tom Val",
         "s": "2026-01-24T13:00:00Z",
-        "e": "2026-01-24T14:00:00Z",
+        "e": "2026-01-24T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Sabor A Mi",
@@ -2107,27 +2209,28 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
-        "n": "Sevenbeatz",
+        "n": "Dubquake Records",
         "s": "2026-01-24T15:00:00Z",
         "e": "2026-01-24T16:00:00Z",
         "d": null,
-        "j": "invite Mendilabaz avec Bino & Parias",
-        "u": null
-      },
-      {
-        "n": "King Doudou",
-        "s": "2026-01-24T16:00:00Z",
-        "e": "2026-01-24T17:00:00Z",
-        "d": null,
-        "j": null,
+        "j": "Rico O.B.F in India",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Tomás Urquieta",
+        "n": "POLAAR",
+        "s": "2026-01-24T16:00:00Z",
+        "e": "2026-01-24T17:00:00Z",
+        "d": null,
+        "j": "TIM KARBON",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Leese",
         "s": "2026-01-24T17:00:00Z",
         "e": "2026-01-24T18:00:00Z",
         "d": null,
@@ -2136,20 +2239,21 @@
         "t": "monthly"
       },
       {
-        "n": "Coffintexts",
+        "n": "Ifeoluwa",
         "s": "2026-01-24T18:00:00Z",
         "e": "2026-01-24T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Tears In The Club w/ Quiet Husband",
         "u": null
       },
       {
-        "n": "MarcelDune",
+        "n": "Playlist France",
         "s": "2026-01-24T19:00:00Z",
         "e": "2026-01-24T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Playlist France",
@@ -2162,24 +2266,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-01-23T06:00:00Z",
-        "e": "2026-01-23T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "MILES PER HOUR",
-        "s": "2026-01-23T11:00:00Z",
-        "e": "2026-01-23T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "GRAVITATION",
         "s": "2026-01-23T13:00:00Z",
