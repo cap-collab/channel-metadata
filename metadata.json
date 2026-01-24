@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-24T20:13:53.800Z",
+  "updated": "2026-01-24T22:12:43.617Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUNDS OF THE DAWN",
-        "s": "2026-01-24T08:00:00Z",
-        "e": "2026-01-24T10:00:00Z",
-        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-24th-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-01-24T10:00:00Z",
@@ -93,9 +84,9 @@
         "n": "NTS GUIDE TO: DETROIT JAZZ (R)",
         "s": "2026-01-25T00:00:00Z",
         "e": "2026-01-25T02:00:00Z",
-        "d": null,
+        "d": "A two hours overview of Detroit jazz labels and artists, featuring music from Ade Olatunji, Ursula Walker, Wendell Harrison and others.",
         "j": "DETROIT JAZZ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/detroit-jazz-special-16th-april-2022",
         "t": "restream"
       },
       {
@@ -226,18 +217,18 @@
         "j": "New York Soul",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
+        "s": "2026-01-25T22:00:00Z",
+        "e": "2026-01-26T00:00:00Z",
+        "d": null,
+        "j": "MARSHMELLO",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "SOPHIE THATCHER (R)",
-        "s": "2026-01-24T08:00:00Z",
-        "e": "2026-01-24T09:00:00Z",
-        "d": "Chime into a world of noise and melancholia. \nRanging from ambient to 70s Italian film scores. \nPerfect time for a long long walk. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-9th-april-2025",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: CANADIAN POST PUNK, SYNTH & OTHER ODDITIES 1979-89 (R)",
         "s": "2026-01-24T09:00:00Z",
@@ -329,9 +320,9 @@
         "n": "FAK AGZA2 W/ POSTDRONE",
         "s": "2026-01-24T23:00:00Z",
         "e": "2026-01-25T00:00:00Z",
-        "d": null,
+        "d": "Fak Agza2 (disassembled parts)\nDissecting various corners of Cairo’s underground, that make up the sound of the city. Presented by Cairo-based music producer/DJ. Postdrone",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/postdrone/episodes/postdrone-24th-january-2026"
       },
       {
         "n": "Ben Sims Presents: Run It Red",
@@ -461,27 +452,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Afroasis",
-        "s": "2026-01-24T08:00:00Z",
-        "e": "2026-01-24T09:00:00Z",
+        "n": "NYA (R)",
+        "s": "2026-01-25T19:00:00Z",
+        "e": "2026-01-25T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Hypercell Records w/ Bokonon",
-        "s": "2026-01-24T09:00:00Z",
-        "e": "2026-01-24T10:00:00Z",
-        "d": null,
-        "j": "Bokonon",
-        "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Dun Roamin w/ Tomi From Brockley",
         "s": "2026-01-24T10:00:00Z",
@@ -1231,15 +1213,6 @@
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-01-24T08:00:00Z",
-        "e": "2026-01-24T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-01-24T10:00:00Z",
