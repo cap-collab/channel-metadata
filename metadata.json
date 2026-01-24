@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-24T03:20:32.503Z",
+  "updated": "2026-01-24T04:29:16.678Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW",
-        "s": "2026-01-23T15:00:00Z",
-        "e": "2026-01-23T16:00:00Z",
-        "d": "Artist and selector Fatima drops by NTS London studio once a month to play her favourite tunes. A laid back waffle infused show draped in the finest of audible garments, presenting some the worlds hardest ear candy.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fatima/episodes/fatima-23rd-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "STEPHANE",
         "s": "2026-01-23T16:00:00Z",
@@ -111,9 +102,9 @@
         "n": "Japan Blues (R)",
         "s": "2026-01-24T05:00:00Z",
         "e": "2026-01-24T07:00:00Z",
-        "d": null,
+        "d": "The finest London selection of Japanese grooves, from the 30s to 80s, and more. Anything from folk, jazz, psychedelia, new wave, soul, disco and electronic, all Made In Japan. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/japanblues/episodes/japanblues-13th-april-2024",
         "t": "restream"
       },
       {
@@ -241,6 +232,15 @@
         "e": "2026-01-25T06:00:00Z",
         "d": null,
         "j": "Sketchbook Radio",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "CAROLINA SOUL: PSYCH RARITIES (R)",
+        "s": "2026-01-25T06:00:00Z",
+        "e": "2026-01-25T07:30:00Z",
+        "d": null,
+        "j": "PSYCH RARITIES",
         "u": null,
         "t": "restream"
       }
@@ -488,15 +488,6 @@
     ],
     "subtle": [
       {
-        "n": "Loker",
-        "s": "2026-01-23T15:00:00Z",
-        "e": "2026-01-23T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Subtle Selects",
         "s": "2026-01-23T16:00:00Z",
         "e": "2026-01-23T17:00:00Z",
@@ -602,6 +593,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-24T05:00:00Z",
+        "e": "2026-01-24T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Afroasis",
@@ -1347,15 +1347,6 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-01-23T14:00:00Z",
-        "e": "2026-01-23T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
         "s": "2026-01-23T16:00:00Z",
         "e": "2026-01-23T18:00:00Z",
         "d": null,
@@ -1740,18 +1731,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Father/Daughter Funk Hour",
+        "s": "2026-01-29T04:00:00Z",
+        "e": "2026-01-29T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "The MoodSwing Show",
-        "s": "2026-01-23T14:00:00Z",
-        "e": "2026-01-23T16:00:00Z",
-        "d": null,
-        "j": "DJ Perception",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Shuffle 'n' Swing",
         "s": "2026-01-23T16:00:00Z",
@@ -2070,15 +2061,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Sevenbeatz",
-        "s": "2026-01-23T15:00:00Z",
-        "e": "2026-01-23T16:00:00Z",
-        "d": null,
-        "j": "invite Mendilabaz avec Bino & Parias",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "King Doudou",
         "s": "2026-01-23T16:00:00Z",
         "e": "2026-01-23T17:00:00Z",
@@ -2212,15 +2194,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "HANGTIME RADIO",
-        "s": "2026-01-23T14:00:00Z",
-        "e": "2026-01-23T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "FREAKY FRIDAY W/ DJ Ū",
         "s": "2026-01-23T16:00:00Z",
