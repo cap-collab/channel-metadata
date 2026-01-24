@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-24T16:15:19.316Z",
+  "updated": "2026-01-24T18:19:04.841Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GiGi FM (R)",
-        "s": "2026-01-24T04:00:00Z",
-        "e": "2026-01-24T05:00:00Z",
-        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-13th-september-2023",
-        "t": "restream"
-      },
       {
         "n": "Japan Blues (R)",
         "s": "2026-01-24T05:00:00Z",
@@ -86,17 +77,18 @@
         "n": "SWEET TOOTH W/ ALFIE WHITEMAN",
         "s": "2026-01-24T18:00:00Z",
         "e": "2026-01-24T19:00:00Z",
-        "d": null,
+        "d": "Sweet selections from director and photographer Alfie Whiteman.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/alfie-whiteman/episodes/alfie-whiteman-24th-january-2026"
       },
       {
         "n": "HOT MESS",
         "s": "2026-01-24T19:00:00Z",
         "e": "2026-01-24T20:00:00Z",
-        "d": null,
+        "d": "Babak Ganjei's monthly grunge and garage hangover rolls through with classics old and new, from Memphis to London, interspersed, of course, with totally irrelevant jokes and chat.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/hotmess/episodes/hotmess-24th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "CHERRIE FLAVA",
@@ -218,27 +210,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ALL TRADES W/ CHUGGY",
+        "s": "2026-01-25T17:00:00Z",
+        "e": "2026-01-25T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "JANIE JONES",
+        "s": "2026-01-25T19:00:00Z",
+        "e": "2026-01-25T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "FLOATING POINTS (R)",
-        "s": "2026-01-24T03:00:00Z",
-        "e": "2026-01-24T05:00:00Z",
-        "d": "Sam Shepherd a.k.a Floating Points barely needs introduction. Cataloguing depths uncharted to expose some of the best jazz, soul, rare groove and disco around. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/floating-points/episodes/floating-points-3rd-june-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Popstar Benny (R)",
-        "s": "2026-01-24T05:00:00Z",
-        "e": "2026-01-24T06:00:00Z",
-        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-22nd-april-2025",
-        "t": "restream"
-      },
       {
         "n": "DJ Harrison (R)",
         "s": "2026-01-24T06:00:00Z",
@@ -329,12 +319,12 @@
         "t": "monthly"
       },
       {
-        "n": "MUTUALISM",
+        "n": "Mutualism w/ Kore S",
         "s": "2026-01-24T19:00:00Z",
         "e": "2026-01-24T20:00:00Z",
-        "d": null,
+        "d": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/mutualism/episodes/mutualism-24th-january-2026"
       },
       {
         "n": "KIM LANA",
@@ -463,18 +453,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Abena",
+        "s": "2026-01-25T15:00:00Z",
+        "e": "2026-01-25T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "drewdrew",
-        "s": "2026-01-24T04:00:00Z",
-        "e": "2026-01-24T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-01-24T05:00:00Z",
@@ -1252,15 +1241,6 @@
     ],
     "dublab": [
       {
-        "n": "Mamabear - The Honey Pot",
-        "s": "2026-01-24T04:00:00Z",
-        "e": "2026-01-24T06:00:00Z",
-        "d": null,
-        "j": "The Honey Pot",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "DJ Kerry - The Basement",
         "s": "2026-01-24T06:00:00Z",
         "e": "2026-01-24T08:00:00Z",
@@ -1610,18 +1590,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-01-24T03:00:00Z",
-        "e": "2026-01-24T06:00:00Z",
+        "n": "LARAAJI and OUT THERE",
+        "s": "2026-01-29T16:30:00Z",
+        "e": "2026-01-29T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "weekly"
+      }
+    ],
+    "rinse": [
       {
         "n": "Chunky",
         "s": "2026-01-24T06:00:00Z",
@@ -2021,15 +2001,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "RADIO PARTY",
-        "s": "2026-01-24T02:00:00Z",
-        "e": "2026-01-24T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Restream",
         "s": "2026-01-24T05:00:00Z",
