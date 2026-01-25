@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-25T04:45:21.473Z",
+  "updated": "2026-01-25T06:20:57.019Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
-        "s": "2026-01-24T15:00:00Z",
-        "e": "2026-01-24T17:00:00Z",
-        "d": "Long time record collector and purveyor of fine musical flavours Mr. Pedro cooks up a banquet of aural delights every other week: afrobeat to disco and more, time to liven up. ",
-        "j": "MR PEDRO",
-        "u": "https://www.nts.live/api/v2/shows/the-extended-play-sessions/episodes/the-extended-play-sessions-24th-january-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "LAST RESORT",
-        "s": "2026-01-24T17:00:00Z",
-        "e": "2026-01-24T18:00:00Z",
-        "d": "A swift hour long excursion into the unknown. Expect the unexpected from host Tom Cathcart as almost anything goes: techno, post-punk, minimal synth, dub and new wave. Don’t be a prude.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/last-resort/episodes/last-resort-24th-january-2026"
-      },
       {
         "n": "SWEET TOOTH W/ ALFIE WHITEMAN",
         "s": "2026-01-24T18:00:00Z",
@@ -103,9 +86,9 @@
         "n": "MARTIN NEWELL'S ODDCASTE",
         "s": "2026-01-25T07:30:00Z",
         "e": "2026-01-25T08:00:00Z",
-        "d": null,
+        "d": "The Cleaners From Venus frontman presents an eclectic mix of pop music, comedy, and more.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/martin-newells-oddcaste/episodes/martin-newells-oddcaste-25th-january-2026",
         "t": "biweekly"
       },
       {
@@ -236,18 +219,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "OKOKON (R)",
+        "s": "2026-01-26T06:00:00Z",
+        "e": "2026-01-26T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "GREAT SOUTHERN LANDS W/ JAMES W (R)",
-        "s": "2026-01-24T16:00:00Z",
-        "e": "2026-01-24T17:00:00Z",
-        "d": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
-        "j": "JAMES W",
-        "u": "https://www.nts.live/api/v2/shows/great-southern-lands/episodes/great-southern-lands-12th-november-2024",
-        "t": "restream"
-      },
       {
         "n": "ANNABEL FRASER",
         "s": "2026-01-24T17:00:00Z",
@@ -329,9 +312,9 @@
         "n": "NTS GUIDE TO: BOLEROS (R)",
         "s": "2026-01-25T07:00:00Z",
         "e": "2026-01-25T08:00:00Z",
-        "d": null,
+        "d": "Bolero was once termed the 'quintessential Latin American romantic song of the twentieth century', a Cuban genre originating in the late 19th century out of the trova tradition, pioneered by troubadour Pepe Sánchez. Boleros are defined by their love-themed lyrics, but musically can take a variety of forms; as such it has such been fused with a variety of other genres over time such as rumba, mambo, and chachachá - giving the genre such an enduring and timeless quality.\nThe boleros were originally sung by single trovadores playing guitar, but it soon became popular for trovadores to play in groups as dúos, tríos, cuartetos. After gaining global popularity, boleros paved the way for the filin movement in Havana - a word derived from feeling, describing a style of post-microphone jazz-influenced romantic song.\nThis Guide To covers the most romantic exitos of the genres bolero and filin, crooners for the month of love.",
         "j": "BOLEROS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-bolero-13th-february-2024",
         "t": "restream"
       },
       {
@@ -462,26 +445,18 @@
         "j": "Onra",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Tyrant",
-        "s": "2026-01-24T16:00:00Z",
-        "e": "2026-01-24T17:00:00Z",
+        "n": "Benedek (R)",
+        "s": "2026-01-26T01:00:00Z",
+        "e": "2026-01-26T02:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Dub Mantra",
-        "s": "2026-01-24T17:00:00Z",
-        "e": "2026-01-24T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "DJ SK",
         "s": "2026-01-24T18:00:00Z",
@@ -1178,15 +1153,6 @@
     ],
     "dublab": [
       {
-        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
-        "s": "2026-01-24T16:00:00Z",
-        "e": "2026-01-24T18:00:00Z",
-        "d": null,
-        "j": "The Sweeter the Juice",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Greg Belson - Divine Chord Gospel Show",
         "s": "2026-01-24T18:00:00Z",
         "e": "2026-01-24T20:00:00Z",
@@ -1244,6 +1210,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-25T06:00:00Z",
         "e": "2026-01-25T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-25T08:00:00Z",
+        "e": "2026-01-25T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1521,23 +1496,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "FIFI",
-        "s": "2026-01-24T16:00:00Z",
-        "e": "2026-01-24T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Douvelle19",
-        "s": "2026-01-24T17:00:00Z",
-        "e": "2026-01-24T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Cinthie",
         "s": "2026-01-24T18:00:00Z",
@@ -1868,24 +1826,6 @@
     ],
     "rinsefr": [
       {
-        "n": "POLAAR",
-        "s": "2026-01-24T16:00:00Z",
-        "e": "2026-01-24T17:00:00Z",
-        "d": null,
-        "j": "TIM KARBON",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Leese",
-        "s": "2026-01-24T17:00:00Z",
-        "e": "2026-01-24T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Ifeoluwa",
         "s": "2026-01-24T18:00:00Z",
         "e": "2026-01-24T19:00:00Z",
@@ -1982,15 +1922,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "SATURDAYS WITH MR. L",
-        "s": "2026-01-24T15:00:00Z",
-        "e": "2026-01-24T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "OPEN",
         "s": "2026-01-24T17:00:00Z",
