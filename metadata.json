@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-25T12:26:11.090Z",
+  "updated": "2026-01-25T14:12:31.385Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NTS GUIDE TO: DETROIT JAZZ (R)",
-        "s": "2026-01-25T00:00:00Z",
-        "e": "2026-01-25T02:00:00Z",
-        "d": "A two hours overview of Detroit jazz labels and artists, featuring music from Ade Olatunji, Ursula Walker, Wendell Harrison and others.",
-        "j": "DETROIT JAZZ",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/detroit-jazz-special-16th-april-2022",
-        "t": "restream"
-      },
       {
         "n": "Beyond The Clouds w/ Masha Mar (R)",
         "s": "2026-01-25T02:00:00Z",
@@ -105,9 +96,10 @@
         "n": "KIT GRILL",
         "s": "2026-01-25T16:00:00Z",
         "e": "2026-01-25T17:00:00Z",
-        "d": null,
+        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/kit-grill/episodes/kit-grill-25th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "ALL TRADES W/ CHUGGY",
@@ -237,17 +229,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FROM THE DEPTHS: Oneohtrix Point Forever",
+        "s": "2026-01-26T16:00:00Z",
+        "e": "2026-01-26T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Ben Sims Presents: Run It Red",
-        "s": "2026-01-25T00:00:00Z",
-        "e": "2026-01-25T02:00:00Z",
-        "d": "‘Run it Red’ sees bona fide techno legend Ben Sims showcases 2 hrs of the finest new house and techno he can lay his hands on.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ben-sims/episodes/ben-sims-25th-january-2026"
-      },
       {
         "n": "BFDM ZAHEF SHOW (R)",
         "s": "2026-01-25T02:00:00Z",
@@ -341,17 +333,19 @@
         "n": "CHILDREN OF ZEUS",
         "s": "2026-01-25T14:00:00Z",
         "e": "2026-01-25T15:00:00Z",
-        "d": null,
+        "d": "Children of Zeus's Konny Kon takes over our Manchester studio once a month to play upfront Soul, Classic Hip Hop & New RnB.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/children-of-zeus/episodes/children-of-zeus-25th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "Abena",
         "s": "2026-01-25T15:00:00Z",
         "e": "2026-01-25T16:00:00Z",
-        "d": null,
+        "d": "All Hands On Deck co-founder Abena jumps on once a month - music to help loosen your joints, live from the Manchester studio. Expect dub, techno & a bit of ambient.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/abena/episodes/abena-25th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "IN FOCUS: SND (R)",
@@ -476,27 +470,26 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Sunday Bass Service w/ Raggo",
-        "s": "2026-01-25T00:00:00Z",
-        "e": "2026-01-25T01:00:00Z",
-        "d": null,
-        "j": "Raggo",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Breeze",
-        "s": "2026-01-25T01:00:00Z",
-        "e": "2026-01-25T02:00:00Z",
+        "n": "Kiefer (R)",
+        "s": "2026-01-26T10:00:00Z",
+        "e": "2026-01-26T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
+      {
+        "n": "AN1MA W/ MOLINARO",
+        "s": "2026-01-26T11:00:00Z",
+        "e": "2026-01-26T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Bits Beats & Breaks w/ D.Mo",
         "s": "2026-01-25T02:00:00Z",
@@ -1132,15 +1125,6 @@
     ],
     "dublab": [
       {
-        "n": "Jenn Zelmer - Thread the Needle",
-        "s": "2026-01-25T00:00:00Z",
-        "e": "2026-01-25T02:00:00Z",
-        "d": null,
-        "j": "Thread the Needle",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Motorist – Continuum",
         "s": "2026-01-25T02:00:00Z",
         "e": "2026-01-25T04:00:00Z",
@@ -1467,22 +1451,6 @@
     ],
     "rinse": [
       {
-        "n": "Cameo Blush",
-        "s": "2026-01-25T00:00:00Z",
-        "e": "2026-01-25T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "IsGwan",
-        "s": "2026-01-25T01:00:00Z",
-        "e": "2026-01-25T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "I. JORDAN",
         "s": "2026-01-25T02:00:00Z",
         "e": "2026-01-25T03:00:00Z",
@@ -1590,7 +1558,7 @@
         "s": "2026-01-25T23:00:00Z",
         "e": "2026-01-26T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Cheyanne Hudson",
         "u": null
       },
       {
@@ -1610,12 +1578,13 @@
         "u": null
       },
       {
-        "n": "Lupe Fuentes",
+        "n": "Douvelle19",
         "s": "2026-01-26T02:00:00Z",
         "e": "2026-01-26T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Electronic Playlist",
@@ -1922,15 +1891,6 @@
     ],
     "newtown": [
       {
-        "n": "DISCO JUICE",
-        "s": "2026-01-24T23:00:00Z",
-        "e": "2026-01-25T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "WHATEVER RADIO",
         "s": "2026-01-25T02:00:00Z",
         "e": "2026-01-25T04:00:00Z",
@@ -1983,6 +1943,402 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SUNDAY COMING DOWN",
+        "s": "2026-01-25T19:00:00Z",
+        "e": "2026-01-25T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "RADIO CLASH",
+        "s": "2026-01-25T21:00:00Z",
+        "e": "2026-01-25T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "PEI DAY",
+        "s": "2026-01-25T23:00:00Z",
+        "e": "2026-01-26T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "DEAR JENNY PERTH",
+        "s": "2026-01-26T01:00:00Z",
+        "e": "2026-01-26T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "CHUNKS",
+        "s": "2026-01-26T03:00:00Z",
+        "e": "2026-01-26T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Restream",
+        "s": "2026-01-26T05:00:00Z",
+        "e": "2026-01-26T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "OPEN",
+        "s": "2026-01-26T14:00:00Z",
+        "e": "2026-01-26T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "SOB RADIO",
+        "s": "2026-01-26T16:00:00Z",
+        "e": "2026-01-26T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "OPEN",
+        "s": "2026-01-26T18:00:00Z",
+        "e": "2026-01-26T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "SCRATCH ACADEMY",
+        "s": "2026-01-26T20:00:00Z",
+        "e": "2026-01-26T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "DJing WITH DJ ing",
+        "s": "2026-01-26T22:00:00Z",
+        "e": "2026-01-27T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TABLE FOR TWO",
+        "s": "2026-01-27T00:00:00Z",
+        "e": "2026-01-27T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "DON'T DATE A DJ",
+        "s": "2026-01-27T02:00:00Z",
+        "e": "2026-01-27T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "HOUSE OF US",
+        "s": "2026-01-27T04:00:00Z",
+        "e": "2026-01-27T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Restream",
+        "s": "2026-01-27T06:00:00Z",
+        "e": "2026-01-27T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "BUSS UP SHUT",
+        "s": "2026-01-27T13:00:00Z",
+        "e": "2026-01-27T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "OPEN",
+        "s": "2026-01-27T15:00:00Z",
+        "e": "2026-01-27T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "QUAZAR RADIO",
+        "s": "2026-01-27T17:00:00Z",
+        "e": "2026-01-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "LET'S PRETEND",
+        "s": "2026-01-27T19:00:00Z",
+        "e": "2026-01-27T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "THE SELECTION COMMITTEE",
+        "s": "2026-01-27T21:00:00Z",
+        "e": "2026-01-27T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "BOGADH",
+        "s": "2026-01-27T23:00:00Z",
+        "e": "2026-01-28T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "CLAIRAUDIENCE",
+        "s": "2026-01-28T01:00:00Z",
+        "e": "2026-01-28T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "GLOSSY LOGIC",
+        "s": "2026-01-28T03:00:00Z",
+        "e": "2026-01-28T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "CAMP SESSIONS LIVE",
+        "s": "2026-01-28T05:00:00Z",
+        "e": "2026-01-28T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Restream",
+        "s": "2026-01-28T07:00:00Z",
+        "e": "2026-01-28T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "TELEMETRY",
+        "s": "2026-01-28T13:00:00Z",
+        "e": "2026-01-28T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "TO:NY",
+        "s": "2026-01-28T15:00:00Z",
+        "e": "2026-01-28T17:00:00Z",
+        "d": null,
+        "j": "NY",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "OPEN",
+        "s": "2026-01-28T17:00:00Z",
+        "e": "2026-01-28T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "STFU RADIO",
+        "s": "2026-01-28T19:00:00Z",
+        "e": "2026-01-28T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "EXTRA SPICY PLEASE",
+        "s": "2026-01-28T21:00:00Z",
+        "e": "2026-01-28T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "KNOWLEDGE WITH Young link",
+        "s": "2026-01-28T23:00:00Z",
+        "e": "2026-01-29T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "MADE IN THE CLUB (M.I.T.C.)",
+        "s": "2026-01-29T01:00:00Z",
+        "e": "2026-01-29T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "ORGANIZED DISORDER",
+        "s": "2026-01-29T03:00:00Z",
+        "e": "2026-01-29T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Restream",
+        "s": "2026-01-29T05:00:00Z",
+        "e": "2026-01-29T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "1000 LTR SHOW",
+        "s": "2026-01-29T16:00:00Z",
+        "e": "2026-01-29T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "LET'S TALK HIP HOP W/ JOHNNY FASTLANE",
+        "s": "2026-01-29T18:00:00Z",
+        "e": "2026-01-29T20:00:00Z",
+        "d": null,
+        "j": "JOHNNY FASTLANE",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "HONEY CAFE",
+        "s": "2026-01-29T20:00:00Z",
+        "e": "2026-01-29T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "NICE PULP RADIO",
+        "s": "2026-01-29T22:00:00Z",
+        "e": "2026-01-30T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "SPECTACLE RADIO",
+        "s": "2026-01-30T00:00:00Z",
+        "e": "2026-01-30T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "2012 AFTERLIFE",
+        "s": "2026-01-30T02:00:00Z",
+        "e": "2026-01-30T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "HEADCRACK",
+        "s": "2026-01-30T04:00:00Z",
+        "e": "2026-01-30T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Restream",
+        "s": "2026-01-30T06:00:00Z",
+        "e": "2026-01-30T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "GRAVITATION",
+        "s": "2026-01-30T13:00:00Z",
+        "e": "2026-01-30T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "HANGTIME RADIO",
+        "s": "2026-01-30T14:00:00Z",
+        "e": "2026-01-30T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
       }
     ]
   }
