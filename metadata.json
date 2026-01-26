@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-26T18:23:43.157Z",
+  "updated": "2026-01-26T20:17:16.315Z",
   "stations": {
     "nts1": [
-      {
-        "n": "OKOKON (R)",
-        "s": "2026-01-26T06:00:00Z",
-        "e": "2026-01-26T07:00:00Z",
-        "d": "New York visual artist and musician shares an eclectic medley of musical favourites and inspirations, ahead of the release of new record “Offering”, out on Other People. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/okokon-13th-november-2024",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-01-26T07:00:00Z",
@@ -83,9 +74,9 @@
         "n": "ALL FRUITS RIPE W/ JACK SAPSED",
         "s": "2026-01-26T21:00:00Z",
         "e": "2026-01-26T22:00:00Z",
-        "d": null,
+        "d": "Ease in to delectations from our host, Jack Sapsed. A sea of sideways sounds: ambient tranquility and psychedelic folk; experimental dub to techno… ALL FRUITS RIPE",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/all-fruits-ripe/episodes/all-fruits-ripe-26th-january-2026"
       },
       {
         "n": "LUNG DART",
@@ -215,18 +206,17 @@
         "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Minimal Wave w/ VERONICA VASICKA",
+        "s": "2026-01-27T20:00:00Z",
+        "e": "2026-01-27T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Tafelmusik w/ Francesco Fusaro (R)",
-        "s": "2026-01-26T05:00:00Z",
-        "e": "2026-01-26T07:00:00Z",
-        "d": "Francesco Fusaro, the man behind MFZ Records and classical music recording series 19'40'', brings a considered and varied selection of baroque, classical and contemporary music for a full two hours each month.",
-        "j": "Francesco Fusaro",
-        "u": "https://www.nts.live/api/v2/shows/francesco-fusaro/episodes/francesco-fusaro-5th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: WINTER CLASSICAL (R)",
         "s": "2026-01-26T07:00:00Z",
@@ -324,17 +314,18 @@
         "n": "BO NINGEN w/ Victor Herrero, Manami Kakudo & Grimm Grimm",
         "s": "2026-01-26T20:00:00Z",
         "e": "2026-01-26T21:00:00Z",
-        "d": null,
+        "d": "London's infamous psychedelic outfit Bo Ningen takes over the NTS airwaves. Expect anything from video game sounds to noise rock.\nFrom the host: \"In celebration of Victor Herrero's shows in Japan. \nSpecifically, on the 29th and 30th January, at an event I organised,\nKohhei and Monchan from Bo Ningen will perform alongside Victor also Manami Kakudo who played with Haruomi Hosono in London last year and our good friend Grimm Grimm.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/bo-ningen/episodes/bo-ningen-26th-january-2026"
       },
       {
         "n": "Funk Freaks Radio",
         "s": "2026-01-26T21:00:00Z",
         "e": "2026-01-26T22:00:00Z",
-        "d": null,
+        "d": "The notorious Orange County Funk Freaks crew take over the LA studio once a month with their signature brand of boogie, italo, and lowrider funk.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/funk-freaks/episodes/funk-freaks-26th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "Auntie-ism w/ SHABAZZ (R)",
@@ -453,6 +444,22 @@
         "n": "MOIN",
         "s": "2026-01-27T12:00:00Z",
         "e": "2026-01-27T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SOFAY AND RIBEKA",
+        "s": "2026-01-27T13:00:00Z",
+        "e": "2026-01-27T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Chasing echoes w/ TOHÉ COMMARET + ARIANE KIKS",
+        "s": "2026-01-27T14:00:00Z",
+        "e": "2026-01-27T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -965,18 +972,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-26T06:00:00Z",
-        "e": "2026-01-26T08:00:00Z",
+        "n": "Kid Contra",
+        "s": "2026-01-31T20:00:00Z",
+        "e": "2026-01-31T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "biweekly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-26T08:00:00Z",
@@ -1048,6 +1055,15 @@
         "j": "'66 Sunset Strip",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-26T22:00:00Z",
+        "e": "2026-01-27T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Aaron Paar - Stomping Grounds",
@@ -1248,24 +1264,15 @@
         "t": "playlist"
       },
       {
-        "n": "RERUN: JF Chen Radio ",
-        "s": "2026-01-31T17:00:00Z",
+        "n": "Voidwave",
+        "s": "2026-01-31T16:00:00Z",
         "e": "2026-01-31T18:00:00Z",
-        "d": null,
-        "j": "JF Chen Radio",
-        "u": null,
-        "t": "restream"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Angel D'lite",
-        "s": "2026-01-26T06:00:00Z",
-        "e": "2026-01-26T07:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-01-26T07:00:00Z",
@@ -1553,15 +1560,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-01-25T20:00:00Z",
-        "e": "2026-01-26T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-01-26T08:00:00Z",
