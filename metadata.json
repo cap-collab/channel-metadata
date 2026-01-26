@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-26T06:26:00.530Z",
+  "updated": "2026-01-26T08:21:27.115Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ALL TRADES W/ CHUGGY",
-        "s": "2026-01-25T17:00:00Z",
-        "e": "2026-01-25T19:00:00Z",
-        "d": "The man behind the various Emotional labels jumps in the NTS cockpit for a chance to show off his expansive taste. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/emotional/episodes/emotional-25th-january-2026"
-      },
-      {
-        "n": "JANIE JONES",
-        "s": "2026-01-25T19:00:00Z",
-        "e": "2026-01-25T20:00:00Z",
-        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-25th-january-2026"
-      },
       {
         "n": "Perfect Lives w/ Bruno & Daniel",
         "s": "2026-01-25T20:00:00Z",
@@ -102,9 +86,9 @@
         "n": "The NTS Breakfast Show w/ Lupini",
         "s": "2026-01-26T09:00:00Z",
         "e": "2026-01-26T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-lupini-26th-january-2026"
       },
       {
         "n": "Soup To Nuts w/ John Gómez",
@@ -233,26 +217,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
+        "s": "2026-01-27T07:00:00Z",
+        "e": "2026-01-27T09:00:00Z",
+        "d": null,
+        "j": "MARIA SOMERVILLE",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "RED LASER RECORDS w/ IL BOSCO",
-        "s": "2026-01-25T17:00:00Z",
-        "e": "2026-01-25T19:00:00Z",
-        "d": "Red Laser Records crew brings Manchester's own blend of Manctalo, Disco & Boogie. A high energy Sunday Buzz guaranteed.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-25th-january-2026"
-      },
-      {
-        "n": "NYA (R)",
-        "s": "2026-01-25T19:00:00Z",
-        "e": "2026-01-25T20:00:00Z",
-        "d": "Memphis selector and radio host Nya presents an hour of rare soul, boogie, gospel, and funk records once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nya/episodes/nya-7th-october-2025",
-        "t": "restream"
-      },
       {
         "n": "CLAIRE MILBRATH - A DEEP DIVE ON MICHEL PORTAL (R)",
         "s": "2026-01-25T20:00:00Z",
@@ -346,9 +322,9 @@
         "n": "Homeshake (R)",
         "s": "2026-01-26T09:00:00Z",
         "e": "2026-01-26T10:00:00Z",
-        "d": null,
+        "d": "Cheeky slacker selections from everyone's favourite - Homeshake. Kick back. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/homeshake/episodes/homeshake-12th-march-2025",
         "t": "restream"
       },
       {
@@ -425,20 +401,22 @@
         "u": null
       },
       {
-        "n": "FUNK FREAKS",
+        "n": "Funk Freaks Radio w/ DJ Zee (R)",
         "s": "2026-01-26T21:00:00Z",
         "e": "2026-01-26T22:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "DJ Zee",
+        "u": null,
+        "t": "restream"
       },
       {
-        "n": "Untitled Show",
+        "n": "Auntie-ism w/ SHABAZZ (R)",
         "s": "2026-01-26T22:00:00Z",
         "e": "2026-01-26T23:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "SHABAZZ",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "DEBBIESTHUGLIFE",
@@ -457,12 +435,13 @@
         "u": null
       },
       {
-        "n": "Untitled Show",
+        "n": "Abby Imperial: Gospel Rap Special (R)",
         "s": "2026-01-27T01:00:00Z",
         "e": "2026-01-27T02:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Gospel Rap Special",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "FINE-TUNE W/ JOHN TIANGCO",
@@ -471,6 +450,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "In Focus: The Burrell Brothers (R)",
+        "s": "2026-01-27T03:00:00Z",
+        "e": "2026-01-27T04:00:00Z",
+        "d": null,
+        "j": "The Burrell Brothers",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "LIVING GATLATO (R)",
@@ -483,15 +471,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "2Step Selects ",
-        "s": "2026-01-25T17:00:00Z",
-        "e": "2026-01-25T19:00:00Z",
-        "d": "2Step Selects is a monthly show hosted by the Choki Biki Records crew. Founded in Dublin, Ireland, CBR consists of DJ Sharpson, 2step.png, Frame Shift, and MICK. The show consists of an all round breaks, electro, ukg and jungle hour, followed by an Irish showcase, demonstrating all the best Ireland has to offer collective/party/Dj & Producer wise!",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "EBITDA",
         "s": "2026-01-25T19:00:00Z",
@@ -1021,15 +1000,6 @@
     ],
     "dublab": [
       {
-        "n": "Thomas Klepper - Library of Sounds",
-        "s": "2026-01-25T18:00:00Z",
-        "e": "2026-01-25T20:00:00Z",
-        "d": null,
-        "j": "Library of Sounds",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "RERUN: mira.avi",
         "s": "2026-01-25T20:00:00Z",
         "e": "2026-01-25T22:00:00Z",
@@ -1096,6 +1066,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-26T08:00:00Z",
         "e": "2026-01-26T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-26T10:00:00Z",
+        "e": "2026-01-26T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1307,17 +1286,18 @@
         "j": "Things of Life",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-31T08:00:00Z",
+        "e": "2026-01-31T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Plastician",
-        "s": "2026-01-25T18:00:00Z",
-        "e": "2026-01-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Oblig",
         "s": "2026-01-25T20:00:00Z",
@@ -1674,23 +1654,6 @@
     ],
     "rinsefr": [
       {
-        "n": "TEMƎT",
-        "s": "2026-01-25T18:00:00Z",
-        "e": "2026-01-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Miley Serious",
-        "s": "2026-01-25T19:00:00Z",
-        "e": "2026-01-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-01-25T20:00:00Z",
         "e": "2026-01-26T08:00:00Z",
@@ -1718,13 +1681,12 @@
         "t": "playlist"
       },
       {
-        "n": "Anna Majidson",
+        "n": "Zohar",
         "s": "2026-01-26T13:00:00Z",
-        "e": "2026-01-26T14:00:00Z",
+        "e": "2026-01-26T15:00:00Z",
         "d": null,
-        "j": "Behind the Curtain",
-        "u": null,
-        "t": "monthly"
+        "j": "Nothing Here Now w/ Deboleena, nessim & Zohar",
+        "u": null
       },
       {
         "n": "honeymel",
@@ -1733,12 +1695,100 @@
         "d": null,
         "j": "b3b Natania & Camille (A-One) : Sip into something soft",
         "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Sentaku",
+        "s": "2026-01-26T15:00:00Z",
+        "e": "2026-01-26T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Soyoon",
+        "s": "2026-01-26T16:00:00Z",
+        "e": "2026-01-26T17:00:00Z",
+        "d": null,
+        "j": "invite The Hacker",
+        "u": null
+      },
+      {
+        "n": "HORS-SOL",
+        "s": "2026-01-26T17:00:00Z",
+        "e": "2026-01-26T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "TEMƎT",
+        "s": "2026-01-26T18:00:00Z",
+        "e": "2026-01-26T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Miley Serious",
+        "s": "2026-01-26T19:00:00Z",
+        "e": "2026-01-26T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-26T20:00:00Z",
+        "e": "2026-01-27T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-27T08:00:00Z",
+        "e": "2026-01-27T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-27T11:00:00Z",
+        "e": "2026-01-27T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Anna Majidson",
+        "s": "2026-01-27T13:00:00Z",
+        "e": "2026-01-27T14:00:00Z",
+        "d": null,
+        "j": "Behind the Curtain",
+        "u": null,
         "t": "monthly"
       },
       {
+        "n": "honeymel",
+        "s": "2026-01-27T14:00:00Z",
+        "e": "2026-01-27T15:00:00Z",
+        "d": null,
+        "j": "b3b Natania & Camille (A-One) : Sip into something soft",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
         "n": "Louis Roméo",
-        "s": "2026-01-26T15:00:00Z",
-        "e": "2026-01-26T16:00:00Z",
+        "s": "2026-01-27T15:00:00Z",
+        "e": "2026-01-27T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1746,8 +1796,8 @@
       },
       {
         "n": "Lorkestra",
-        "s": "2026-01-26T16:00:00Z",
-        "e": "2026-01-26T17:00:00Z",
+        "s": "2026-01-27T16:00:00Z",
+        "e": "2026-01-27T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1755,16 +1805,16 @@
       },
       {
         "n": "Rebequita",
-        "s": "2026-01-26T17:00:00Z",
-        "e": "2026-01-26T18:00:00Z",
+        "s": "2026-01-27T17:00:00Z",
+        "e": "2026-01-27T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Kokoprisci",
-        "s": "2026-01-26T18:00:00Z",
-        "e": "2026-01-26T19:00:00Z",
+        "s": "2026-01-27T18:00:00Z",
+        "e": "2026-01-27T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1772,16 +1822,16 @@
       },
       {
         "n": "NVST",
-        "s": "2026-01-26T19:00:00Z",
-        "e": "2026-01-26T20:00:00Z",
+        "s": "2026-01-27T19:00:00Z",
+        "e": "2026-01-27T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-01-26T20:00:00Z",
-        "e": "2026-01-26T21:00:00Z",
+        "s": "2026-01-27T20:00:00Z",
+        "e": "2026-01-27T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1789,15 +1839,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "MIDNIGHT EXPRESS",
-        "s": "2026-01-25T17:00:00Z",
-        "e": "2026-01-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "SUNDAY COMING DOWN",
         "s": "2026-01-25T19:00:00Z",
