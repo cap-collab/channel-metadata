@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-27T08:22:03.306Z",
+  "updated": "2026-01-27T10:19:26.854Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SUNCUT",
-        "s": "2026-01-26T20:00:00Z",
-        "e": "2026-01-26T21:00:00Z",
-        "d": "Tune in to the sound of SUNCUT, boasting a heartfelt selection of some favourite 45’s through to classic bonafide soulful jams.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sun-cut/episodes/sun-cut-26th-january-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "ALL FRUITS RIPE W/ JACK SAPSED",
-        "s": "2026-01-26T21:00:00Z",
-        "e": "2026-01-26T22:00:00Z",
-        "d": "Ease in to delectations from our host, Jack Sapsed. A sea of sideways sounds: ambient tranquility and psychedelic folk; experimental dub to techno… ALL FRUITS RIPE",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/all-fruits-ripe/episodes/all-fruits-ripe-26th-january-2026"
-      },
       {
         "n": "LUNG DART",
         "s": "2026-01-26T22:00:00Z",
@@ -113,9 +96,9 @@
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-01-27T11:00:00Z",
         "e": "2026-01-27T13:00:00Z",
-        "d": null,
+        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
         "j": "ANU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-27th-january-2026",
         "t": "weekly",
         "p": "anu"
       },
@@ -250,26 +233,17 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "MINA",
+        "s": "2026-01-28T19:00:00Z",
+        "e": "2026-01-28T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "BO NINGEN w/ Victor Herrero, Manami Kakudo & Grimm Grimm",
-        "s": "2026-01-26T20:00:00Z",
-        "e": "2026-01-26T21:00:00Z",
-        "d": "London's infamous psychedelic outfit Bo Ningen takes over the NTS airwaves. Expect anything from video game sounds to noise rock.\nFrom the host: \"In celebration of Victor Herrero's shows in Japan. \nSpecifically, on the 29th and 30th January, at an event I organised,\nKohhei and Monchan from Bo Ningen will perform alongside Victor also Manami Kakudo who played with Haruomi Hosono in London last year and our good friend Grimm Grimm.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bo-ningen/episodes/bo-ningen-26th-january-2026"
-      },
-      {
-        "n": "Funk Freaks Radio",
-        "s": "2026-01-26T21:00:00Z",
-        "e": "2026-01-26T22:00:00Z",
-        "d": "The notorious Orange County Funk Freaks crew take over the LA studio once a month with their signature brand of boogie, italo, and lowrider funk.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/funk-freaks/episodes/funk-freaks-26th-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "Auntie-ism w/ SHABAZZ (R)",
         "s": "2026-01-26T22:00:00Z",
@@ -374,9 +348,9 @@
         "n": "PLAY IT AS IT LATHES W/ ZACH COWIE (R)",
         "s": "2026-01-27T10:00:00Z",
         "e": "2026-01-27T11:00:00Z",
-        "d": null,
+        "d": "Zach Cowie - former record label guy & DJ turned music supervisor. Every month Zach lays down a vinyl-only one hour mix of ambient, experimental, folk, psych and jazz records with Play It As It Lathes.",
         "j": "ZACH COWIE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zach-cowie/episodes/play-it-as-it-lathes-zach-cowie-23rd-march-2018",
         "t": "restream",
         "p": "zachcowie"
       },
@@ -384,9 +358,9 @@
         "n": "Nordic Archive w/ Sara Parkman & Mats Erlandsson",
         "s": "2026-01-27T11:00:00Z",
         "e": "2026-01-27T12:00:00Z",
-        "d": null,
+        "d": "Folk innovator Sara Parkman and drone composer and producer Mats Erlandsson share their mutual love of the Nordic folk music tradition with an hour of archival and contemporary recordings.\nTraversing Northern Europe via herding calls, modal hymns, solo fiddle, and electronics. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nordic-archive-w-sara-parkman-mats-erlandsson-27th-january-2026"
       },
       {
         "n": "MOIN",
@@ -503,29 +477,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "GONG SOUNDS W/ PRMTVO",
+        "s": "2026-01-28T03:00:00Z",
+        "e": "2026-01-28T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "UNDERGROUND & BLACK W/ ASH LAURYN (R)",
+        "s": "2026-01-28T04:00:00Z",
+        "e": "2026-01-28T05:00:00Z",
+        "d": null,
+        "j": "ASH LAURYN",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Scandal Sounds",
-        "s": "2026-01-26T20:00:00Z",
-        "e": "2026-01-26T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "scandalsounds"
-      },
-      {
-        "n": "Saraphim",
-        "s": "2026-01-26T21:00:00Z",
-        "e": "2026-01-26T22:00:00Z",
-        "d": "Saraphim (aka RNS & RDubz) are two Essex based Producer/DJ’s currently focused on Dubstep & the 140 spectrum, mixing ethnical and grime influences into their music. You can expect anything from deep and melodic meditative vibes to high energy driven music.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "saraphim"
-      },
       {
         "n": "Chaz",
         "s": "2026-01-26T22:00:00Z",
@@ -1034,19 +1005,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "First Press w/ Passo Passo",
+        "s": "2026-02-01T09:00:00Z",
+        "e": "2026-02-01T10:00:00Z",
+        "d": null,
+        "j": "Passo Passo",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Harbee",
+        "s": "2026-02-01T10:00:00Z",
+        "e": "2026-02-01T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Domenic Priore - '66 Sunset Strip",
-        "s": "2026-01-26T20:00:00Z",
-        "e": "2026-01-26T22:00:00Z",
-        "d": null,
-        "j": "'66 Sunset Strip",
-        "u": null,
-        "t": "monthly",
-        "p": "domenicpriore"
-      },
       {
         "n": "Xander – guest session",
         "s": "2026-01-26T22:00:00Z",
@@ -1105,6 +1084,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-27T10:00:00Z",
         "e": "2026-01-27T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-27T12:00:00Z",
+        "e": "2026-01-27T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1324,24 +1312,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Jossy Mitsu",
-        "s": "2026-01-26T20:00:00Z",
-        "e": "2026-01-26T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "DJ Stingray 313",
-        "s": "2026-01-26T21:00:00Z",
-        "e": "2026-01-26T22:00:00Z",
-        "d": null,
-        "j": "Galaxian",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Paranoid London",
         "s": "2026-01-26T22:00:00Z",
@@ -1864,15 +1834,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "SCRATCH ACADEMY",
-        "s": "2026-01-26T20:00:00Z",
-        "e": "2026-01-26T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "DJing WITH DJ ing",
         "s": "2026-01-26T22:00:00Z",
