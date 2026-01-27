@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-27T10:19:26.854Z",
+  "updated": "2026-01-27T12:30:43.818Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUNG DART",
-        "s": "2026-01-26T22:00:00Z",
-        "e": "2026-01-26T23:00:00Z",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-26th-january-2026",
-        "p": "lungdart"
-      },
-      {
-        "n": "TORN HAWK",
-        "s": "2026-01-26T23:00:00Z",
-        "e": "2026-01-27T00:00:00Z",
-        "d": "Torn Hawk, also known as Luke Wyatt, brings his comedy talk show to the NTS airwaves. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/torn-hawk/episodes/torn-hawk-26th-january-2026",
-        "p": "tornhawk"
-      },
       {
         "n": "DROWNED BY LOCALS: WUTHERING HEIGHTS W/ DIEGO V NAVARRO",
         "s": "2026-01-27T00:00:00Z",
@@ -103,12 +85,12 @@
         "p": "anu"
       },
       {
-        "n": "NABIHAH IQBAL",
+        "n": "NABIHAH IQBAL w/ Andris Balins",
         "s": "2026-01-27T13:00:00Z",
         "e": "2026-01-27T15:00:00Z",
-        "d": null,
+        "d": "London-based DJ and producer Nabihah Iqbal (formerly known as Throwing Shade) brings you an ethnomusicological perspective on weird and wonderful music from around the world. Expect regular themed special episode; a good dose of history, and above all, good music to broaden your horizons. Every other Tuesday, midday-1pm. You can listen back to previous Throwing Shade episodes here",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nabihah-iqbal/episodes/nabihah-iqbal-27th-january-2026",
         "p": "nabihahiqbal"
       },
       {
@@ -157,7 +139,7 @@
         "p": "circuits"
       },
       {
-        "n": "MIDNITE MADNESS",
+        "n": "MIDNITE MADNESS CCVIII—Religion is Metal",
         "s": "2026-01-28T00:00:00Z",
         "e": "2026-01-28T01:00:00Z",
         "d": null,
@@ -241,28 +223,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "MARTELO",
+        "s": "2026-01-28T20:00:00Z",
+        "e": "2026-01-28T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "Auntie-ism w/ SHABAZZ (R)",
-        "s": "2026-01-26T22:00:00Z",
-        "e": "2026-01-26T23:00:00Z",
-        "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.",
-        "j": "SHABAZZ",
-        "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-9th-september-2025",
-        "t": "restream",
-        "p": "shabazz"
-      },
-      {
-        "n": "DEBBIESTHUGLIFE",
-        "s": "2026-01-26T23:00:00Z",
-        "e": "2026-01-27T00:00:00Z",
-        "d": "London DJ and producer debbiesthuglife gets the crowd going with electronic, dance, rap and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/debbiesthuglife/episodes/debbiesthuglife-26th-january-2026",
-        "p": "debbiesthuglife"
-      },
       {
         "n": "POPSTAR BENNY",
         "s": "2026-01-27T00:00:00Z",
@@ -366,18 +338,18 @@
         "n": "MOIN",
         "s": "2026-01-27T12:00:00Z",
         "e": "2026-01-27T13:00:00Z",
-        "d": null,
+        "d": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moin/episodes/moin-27th-january-2026",
         "p": "moin"
       },
       {
         "n": "SOFAY AND RIBEKA",
         "s": "2026-01-27T13:00:00Z",
         "e": "2026-01-27T14:00:00Z",
-        "d": null,
+        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-27th-january-2026"
       },
       {
         "n": "Chasing echoes w/ TOHÉ COMMARET + ARIANE KIKS",
@@ -402,6 +374,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ABBY IMPERIAL (R)",
+        "s": "2026-01-27T17:00:00Z",
+        "e": "2026-01-27T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "INSOLAR w/ CAMI LAYÉ OKÚN",
@@ -494,29 +475,27 @@
         "j": "ASH LAURYN",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Chaz",
-        "s": "2026-01-26T22:00:00Z",
-        "e": "2026-01-26T23:00:00Z",
+        "n": "Ectotherm (R)",
+        "s": "2026-01-28T05:00:00Z",
+        "e": "2026-01-28T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "chaz"
+        "t": "restream"
       },
       {
-        "n": "Lumeni",
-        "s": "2026-01-26T23:00:00Z",
-        "e": "2026-01-27T00:00:00Z",
-        "d": "London based DJ who enjoys exploring the darker, bassier corners of Jungle, Breaks, Techno and Drum & Bass, especially when it is laced with a bit of acid.",
-        "j": null,
+        "n": "Pacing The Platform w/ upsammy (R)",
+        "s": "2026-01-28T07:00:00Z",
+        "e": "2026-01-28T08:00:00Z",
+        "d": null,
+        "j": "upsammy",
         "u": null,
-        "t": "biweekly",
-        "p": "lumeni"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-01-27T00:00:00Z",
@@ -611,6 +590,15 @@
         "u": null,
         "t": "monthly",
         "p": "localmovements"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-27T12:00:00Z",
+        "e": "2026-01-27T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Liquid Vault w/ Half-Life",
@@ -1023,17 +1011,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Mood Shift w/ ANIKA",
+        "s": "2026-02-01T11:00:00Z",
+        "e": "2026-02-01T12:00:00Z",
+        "d": null,
+        "j": "ANIKA",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TAMA",
+        "s": "2026-02-01T12:00:00Z",
+        "e": "2026-02-01T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Xander – guest session",
-        "s": "2026-01-26T22:00:00Z",
-        "e": "2026-01-27T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "El Blanco Nino, Millz & Marvelito – guest session",
         "s": "2026-01-27T00:00:00Z",
@@ -1093,6 +1091,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-27T12:00:00Z",
         "e": "2026-01-27T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-27T14:00:00Z",
+        "e": "2026-01-27T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1313,24 +1320,6 @@
     ],
     "rinse": [
       {
-        "n": "Paranoid London",
-        "s": "2026-01-26T22:00:00Z",
-        "e": "2026-01-26T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "HalfPint",
-        "s": "2026-01-26T23:00:00Z",
-        "e": "2026-01-27T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Left, Right & Centre",
         "s": "2026-01-27T00:00:00Z",
         "e": "2026-01-27T01:00:00Z",
@@ -1451,7 +1440,7 @@
         "s": "2026-01-27T18:00:00Z",
         "e": "2026-01-27T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Max RP & Darren Price",
         "u": null,
         "t": "biweekly"
       },
@@ -1469,7 +1458,7 @@
         "s": "2026-01-27T20:00:00Z",
         "e": "2026-01-27T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Shonky & Giammarco Orsini",
         "u": null,
         "t": "monthly"
       },
@@ -1478,7 +1467,7 @@
         "s": "2026-01-27T22:00:00Z",
         "e": "2026-01-27T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "PK",
         "u": null
       },
       {
@@ -1486,7 +1475,7 @@
         "s": "2026-01-27T23:00:00Z",
         "e": "2026-01-28T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Lockhart",
         "u": null,
         "t": "monthly"
       },
@@ -1495,7 +1484,7 @@
         "s": "2026-01-28T00:00:00Z",
         "e": "2026-01-28T01:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Sideproject",
         "u": null,
         "t": "monthly"
       },
@@ -1690,7 +1679,7 @@
         "s": "2026-01-27T14:00:00Z",
         "e": "2026-01-27T15:00:00Z",
         "d": null,
-        "j": "b3b Natania & Camille (A-One) : Sip into something soft",
+        "j": "Sip into something soft : b3b avec Natania & Camille (A-One)",
         "u": null,
         "t": "biweekly"
       },
@@ -1713,7 +1702,7 @@
         "t": "biweekly"
       },
       {
-        "n": "Rebequita",
+        "n": "Rebequita B2B GЯEG",
         "s": "2026-01-27T17:00:00Z",
         "e": "2026-01-27T18:00:00Z",
         "d": null,
@@ -1834,15 +1823,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "DJing WITH DJ ing",
-        "s": "2026-01-26T22:00:00Z",
-        "e": "2026-01-27T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "TABLE FOR TWO",
         "s": "2026-01-27T00:00:00Z",
