@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-27T20:15:33.008Z",
+  "updated": "2026-01-27T22:15:39.355Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-01-27T07:00:00Z",
-        "e": "2026-01-27T09:00:00Z",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. ",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-27th-january-2026",
-        "t": "weekly",
-        "p": "mariasomerville"
-      },
       {
         "n": "The NTS Breakfast Show w/ LAURA GROVES",
         "s": "2026-01-27T09:00:00Z",
@@ -90,9 +80,9 @@
         "n": "MIDNITE MADNESS CCVIII—Religion is Metal",
         "s": "2026-01-28T00:00:00Z",
         "e": "2026-01-28T01:00:00Z",
-        "d": null,
+        "d": "Midnite Madness endeavours to unearth the spirit of the ancient metal gods as well as the genre's new flesh, taking in most styles—heavy, thrash, black, speed, death, punk, doom, etc. There will be some exclusion: no nu-metal, no triggered drums, no posers and no requests. Only metal is real!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/midnite-madness/episodes/midnite-madness-28th-january-2026",
         "p": "midnitemadness"
       },
       {
@@ -223,27 +213,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "A LONG STRANGE DREAM W/ BATU",
+        "s": "2026-01-28T23:00:00Z",
+        "e": "2026-01-29T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Lamin Fofana (R)",
-        "s": "2026-01-27T08:00:00Z",
-        "e": "2026-01-27T09:00:00Z",
-        "d": "Lamin Fofana is an artist living in New York City.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lamin-fofana/episodes/lamin-fofana-9th-july-2025",
-        "t": "restream"
-      },
-      {
-        "n": "The Head Zone w/ Ripley Johnson (R)",
-        "s": "2026-01-27T09:00:00Z",
-        "e": "2026-01-27T10:00:00Z",
-        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
-        "j": "Ripley Johnson",
-        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/moon-duo-22nd-august-2024",
-        "t": "restream"
-      },
       {
         "n": "PLAY IT AS IT LATHES W/ ZACH COWIE (R)",
         "s": "2026-01-27T10:00:00Z",
@@ -352,17 +332,17 @@
         "n": "Sophia Stel",
         "s": "2026-01-27T22:00:00Z",
         "e": "2026-01-27T23:00:00Z",
-        "d": null,
+        "d": "Genre-blurring Vancouver-based songwriter and producer Sophia Stel performs some original tracks live in studio, as well as sharing a selection of her inspirations… ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sophia-stel-27th-january-2026"
       },
       {
         "n": "Ganga Blues w/ Symrin (R)",
         "s": "2026-01-27T23:00:00Z",
         "e": "2026-01-28T00:00:00Z",
-        "d": null,
+        "d": "Tuck some tuberose behind your ears and float down the Ganga river with Symrin Chawla. Music inspired by India and her neighbors. Drizzled with country, folk and fantasy.",
         "j": "Symrin",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ganga-blues/episodes/ganga-blues-10th-july-2025",
         "t": "restream"
       },
       {
@@ -484,28 +464,25 @@
         "j": "South And South East Asian Garage",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Zel Zele w/ Debora Ipekel & Ece Duzgit",
+        "s": "2026-01-28T16:00:00Z",
+        "e": "2026-01-28T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Rio Doce",
+        "s": "2026-01-28T17:00:00Z",
+        "e": "2026-01-28T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Azadi Sound",
-        "s": "2026-01-27T08:00:00Z",
-        "e": "2026-01-27T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "azadisound"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-01-27T09:00:00Z",
-        "e": "2026-01-27T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Posh Mornings",
         "s": "2026-01-27T10:00:00Z",
@@ -991,18 +968,27 @@
         "j": "eatmybeat",
         "u": "https://www.subtleradio.com/artists/extrasaus-w-eatmybeat/",
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-27T08:00:00Z",
-        "e": "2026-01-27T10:00:00Z",
+        "n": "Kitschko",
+        "s": "2026-02-01T21:00:00Z",
+        "e": "2026-02-01T22:00:00Z",
+        "d": "Born in Sunderland, based in London, Kitschko's productions and selections display a deep appreciation of UK club culture, and an affinity for late night, introspective sounds.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Envelop",
+        "s": "2026-02-01T22:00:00Z",
+        "e": "2026-02-01T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-27T10:00:00Z",
@@ -1288,18 +1274,29 @@
         "j": "Deep Routes",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-01-27T07:00:00Z",
-        "e": "2026-01-27T09:00:00Z",
+        "n": "Mary Nagakawa – Underscore",
+        "s": "2026-02-01T21:00:00Z",
+        "e": "2026-02-01T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "marynagakawa"
       },
+      {
+        "n": "Mas Exitos con Ganas",
+        "s": "2026-02-01T22:00:00Z",
+        "e": "2026-02-02T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ganas"
+      }
+    ],
+    "rinse": [
       {
         "n": "Papaoul",
         "s": "2026-01-27T09:00:00Z",
