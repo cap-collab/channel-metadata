@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-27T18:27:26.471Z",
+  "updated": "2026-01-27T20:15:33.008Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Acid Memories (R)",
-        "s": "2026-01-27T06:00:00Z",
-        "e": "2026-01-27T07:00:00Z",
-        "d": "Rose-tinted hallucinogenic sounds from Astral Vibes' Acid Memories. Illicit dealings in psychedelia of all persuasions. Sit back and enjoy…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/acid-memories/episodes/acid-memories-31st-august-2022",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-01-27T07:00:00Z",
@@ -90,9 +81,9 @@
         "n": "Circuits",
         "s": "2026-01-27T22:00:00Z",
         "e": "2026-01-28T00:00:00Z",
-        "d": null,
+        "d": "Connections in electronic music: the history of house and techno as presented to you by the wonderful Olly Chubb.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/circuits/episodes/circuits-27th-january-2026",
         "p": "circuits"
       },
       {
@@ -224,28 +215,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "GIGI FM PRESENTS F_LORAL",
+        "s": "2026-01-28T22:00:00Z",
+        "e": "2026-01-28T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Altered Soul Experiment w/ Amila (R)",
-        "s": "2026-01-27T05:00:00Z",
-        "e": "2026-01-27T07:00:00Z",
-        "d": "Amila, the founder of Altered Soul Experiment brings monthly transmissions of soul, boogie, disco and his Search For Peace series, covering soothing and cerebral ambient jazz and fourth world selections.",
-        "j": "Amila",
-        "u": "https://www.nts.live/api/v2/shows/amila/episodes/altered-soul-experiment-w-amila-and-kris-guilty-27th-july-2017",
-        "t": "restream",
-        "p": "amila"
-      },
-      {
-        "n": "Sounds on Screen: Coming of Age (R)",
-        "s": "2026-01-27T07:00:00Z",
-        "e": "2026-01-27T08:00:00Z",
-        "d": "Fall in love and find yourself with two hours of soundtrack cuts and excerpts from coming of age classics from the 1960s to the present, including The Breakfast Club, KIDS, 10 Things I Hate About You, Boyz N The Hood, The Warriors and many more. ",
-        "j": "Coming of Age",
-        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-coming-of-age-18th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "Lamin Fofana (R)",
         "s": "2026-01-27T08:00:00Z",
@@ -353,18 +333,19 @@
         "n": "NYA",
         "s": "2026-01-27T20:00:00Z",
         "e": "2026-01-27T21:00:00Z",
-        "d": null,
+        "d": "Memphis selector and radio host Nya presents an hour of rare soul, boogie, gospel, and funk records once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nya/episodes/nya-27th-january-2026",
+        "t": "monthly",
         "p": "nya"
       },
       {
         "n": "Weekend Read w/ Jonah Rabb (R)",
         "s": "2026-01-27T21:00:00Z",
         "e": "2026-01-27T22:00:00Z",
-        "d": null,
+        "d": "Every month Jonah Rabb brings you Weekend Read, an hour of funk, house, contemporary R&B, and more.",
         "j": "Jonah Rabb",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jonah/episodes/jonah-8th-july-2025",
         "t": "restream"
       },
       {
@@ -486,28 +467,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "HIGH JAZZ* W/ ILL DUBIO",
+        "s": "2026-01-28T14:00:00Z",
+        "e": "2026-01-28T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "NTS Guide to: South And South East Asian Garage",
+        "s": "2026-01-28T15:00:00Z",
+        "e": "2026-01-28T16:00:00Z",
+        "d": null,
+        "j": "South And South East Asian Garage",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-01-27T05:00:00Z",
-        "e": "2026-01-27T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Ms Chief",
-        "s": "2026-01-27T07:00:00Z",
-        "e": "2026-01-27T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "mschief"
-      },
       {
         "n": "Azadi Sound",
         "s": "2026-01-27T08:00:00Z",
@@ -1016,15 +995,6 @@
     ],
     "dublab": [
       {
-        "n": "Flight Club",
-        "s": "2026-01-27T06:00:00Z",
-        "e": "2026-01-27T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-01-27T08:00:00Z",
         "e": "2026-01-27T10:00:00Z",
@@ -1309,18 +1279,18 @@
         "u": null,
         "t": "monthly",
         "p": "chriskissel"
+      },
+      {
+        "n": "RERUN: Deep Routes",
+        "s": "2026-02-01T20:00:00Z",
+        "e": "2026-02-01T21:00:00Z",
+        "d": null,
+        "j": "Deep Routes",
+        "u": null,
+        "t": "restream"
       }
     ],
     "rinse": [
-      {
-        "n": "Flyo",
-        "s": "2026-01-27T06:00:00Z",
-        "e": "2026-01-27T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Playlist",
         "s": "2026-01-27T07:00:00Z",
@@ -1595,15 +1565,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-01-26T20:00:00Z",
-        "e": "2026-01-27T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-01-27T08:00:00Z",
