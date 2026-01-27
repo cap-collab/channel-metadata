@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-26T22:14:38.806Z",
+  "updated": "2026-01-27T01:02:57.219Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ Lupini",
-        "s": "2026-01-26T09:00:00Z",
-        "e": "2026-01-26T11:00:00Z",
-        "d": "Wake up with Lupini…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-lupini-26th-january-2026"
-      },
-      {
-        "n": "Soup To Nuts w/ John Gómez",
-        "s": "2026-01-26T11:00:00Z",
-        "e": "2026-01-26T13:00:00Z",
-        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
-        "j": "John Gómez",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-26th-january-2026",
-        "t": "weekly"
-      },
       {
         "n": "PATRICK FORGE",
         "s": "2026-01-26T13:00:00Z",
@@ -75,7 +58,8 @@
         "e": "2026-01-26T23:00:00Z",
         "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-26th-january-2026"
+        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-26th-january-2026",
+        "p": "LUNG DART"
       },
       {
         "n": "TORN HAWK",
@@ -83,7 +67,8 @@
         "e": "2026-01-27T00:00:00Z",
         "d": "Torn Hawk, also known as Luke Wyatt, brings his comedy talk show to the NTS airwaves. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/torn-hawk/episodes/torn-hawk-26th-january-2026"
+        "u": "https://www.nts.live/api/v2/shows/torn-hawk/episodes/torn-hawk-26th-january-2026",
+        "p": "TORN HAWK"
       },
       {
         "n": "DROWNED BY LOCALS: WUTHERING HEIGHTS W/ DIEGO V NAVARRO",
@@ -97,18 +82,18 @@
         "n": "HTRK (R)",
         "s": "2026-01-27T01:00:00Z",
         "e": "2026-01-27T02:00:00Z",
-        "d": null,
+        "d": "New releases and current inspirations from your hosts Jonnine Standish and Nigel Yang aka HTRK.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/htrk/episodes/htrk-26th-july-2023",
         "t": "restream"
       },
       {
         "n": "Blackest Ever Black (R)",
         "s": "2026-01-27T02:00:00Z",
         "e": "2026-01-27T04:00:00Z",
-        "d": null,
+        "d": "Blackest Ever Black doing what they do best – connecting the dots between early industrial, doom, drone and the contemporary dance scene, pounding out the dreary sound of 21st century malaise.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/blackest-ever-black/episodes/blackest-ever-black-23rd-may-2017",
         "t": "restream"
       },
       {
@@ -145,7 +130,8 @@
         "d": null,
         "j": "MARIA SOMERVILLE",
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "MARIA SOMERVILLE"
       },
       {
         "n": "The NTS Breakfast Show w/ LAURA GROVES",
@@ -162,7 +148,8 @@
         "d": null,
         "j": "ANU",
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "ANU"
       },
       {
         "n": "NABIHAH IQBAL",
@@ -170,7 +157,8 @@
         "e": "2026-01-27T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "NABIHAH IQBAL"
       },
       {
         "n": "Self Soothe w/ Margeaux",
@@ -179,7 +167,8 @@
         "d": null,
         "j": "Margeaux",
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "Margeaux"
       },
       {
         "n": "MILLIE MCKEE",
@@ -187,7 +176,8 @@
         "e": "2026-01-27T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "MILLIE MCKEE"
       },
       {
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
@@ -212,7 +202,8 @@
         "e": "2026-01-28T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "Circuits"
       },
       {
         "n": "MIDNITE MADNESS",
@@ -220,35 +211,35 @@
         "e": "2026-01-28T01:00:00Z",
         "d": null,
         "j": null,
+        "u": null,
+        "p": "MIDNITE MADNESS"
+      },
+      {
+        "n": "ALICIA MATTHEWS",
+        "s": "2026-01-28T01:00:00Z",
+        "e": "2026-01-28T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ANDRAS",
+        "s": "2026-01-28T02:00:00Z",
+        "e": "2026-01-28T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ORGANIC MUSIC TOKYO W/ CHEE SHIMIZU",
+        "s": "2026-01-28T06:00:00Z",
+        "e": "2026-01-28T07:00:00Z",
+        "d": null,
+        "j": null,
         "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Kiefer (R)",
-        "s": "2026-01-26T10:00:00Z",
-        "e": "2026-01-26T11:00:00Z",
-        "d": "LA pianist and beatmaker Kiefer shares his monthly selection of beats and jazz.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kiefer/episodes/kiefer-16th-august-2017",
-        "t": "restream"
-      },
-      {
-        "n": "AN1MA W/ MOLINARO",
-        "s": "2026-01-26T11:00:00Z",
-        "e": "2026-01-26T12:00:00Z",
-        "d": "integration sounds from the source; an invitation into the shadow.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-26th-january-2026"
-      },
-      {
-        "n": "Ange Halliwell Sound Library",
-        "s": "2026-01-26T12:00:00Z",
-        "e": "2026-01-26T13:00:00Z",
-        "d": "French harpist, composer and producer Ange Halliwell presents an audio collage of field recordings, classical music, soundtracks, leftfield pop music…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ange-halliwell-sound-library-26th-january-2026"
-      },
       {
         "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL",
         "s": "2026-01-26T13:00:00Z",
@@ -323,7 +314,8 @@
         "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.",
         "j": "SHABAZZ",
         "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-9th-september-2025",
-        "t": "restream"
+        "t": "restream",
+        "p": "SHABAZZ"
       },
       {
         "n": "DEBBIESTHUGLIFE",
@@ -331,7 +323,8 @@
         "e": "2026-01-27T00:00:00Z",
         "d": "London DJ and producer debbiesthuglife gets the crowd going with electronic, dance, rap and more.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/debbiesthuglife/episodes/debbiesthuglife-26th-january-2026"
+        "u": "https://www.nts.live/api/v2/shows/debbiesthuglife/episodes/debbiesthuglife-26th-january-2026",
+        "p": "DEBBIESTHUGLIFE"
       },
       {
         "n": "POPSTAR BENNY",
@@ -339,24 +332,25 @@
         "e": "2026-01-27T01:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "POPSTAR BENNY"
       },
       {
         "n": "Abby Imperial: Gospel Rap Special (R)",
         "s": "2026-01-27T01:00:00Z",
         "e": "2026-01-27T02:00:00Z",
-        "d": null,
+        "d": "The eclectic and diverse frequencies from a true East Bay Area native, Abby Imperial is ready to bring the soulful sounds of Rnb, g-funk, deep house, jungle & more.. ",
         "j": "Gospel Rap Special",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abby-imperial/episodes/abby-imperial-13th-january-2026",
         "t": "restream"
       },
       {
         "n": "FINE-TUNE W/ JOHN TIANGCO",
         "s": "2026-01-27T02:00:00Z",
         "e": "2026-01-27T03:00:00Z",
-        "d": null,
+        "d": "A student and admirer of all forms of music, LA-bred John Tiangco cites the sounds of various public local hip-hop radio as his formative influences. Join him one Monday a month on Rare Species - an hour of music bridging several genres from underground/ indie hip-hop, neo-soul/ RnB, jazz, electronic, rare grooves/samples and psych/alt rock--both old, new and everything in between.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/rare-species/episodes/rare-species-27th-january-2026"
       },
       {
         "n": "In Focus: The Burrell Brothers (R)",
@@ -383,7 +377,8 @@
         "d": null,
         "j": "Amila",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "Amila"
       },
       {
         "n": "Sounds on Screen: Coming of Age (R)",
@@ -419,7 +414,8 @@
         "d": null,
         "j": "ZACH COWIE",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "ZACH COWIE"
       },
       {
         "n": "Nordic Archive w/ Sara Parkman & Mats Erlandsson",
@@ -435,7 +431,8 @@
         "e": "2026-01-27T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "MOIN"
       },
       {
         "n": "SOFAY AND RIBEKA",
@@ -468,36 +465,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "INSOLAR w/ CAMI LAYÉ OKÚN",
+        "s": "2026-01-27T18:00:00Z",
+        "e": "2026-01-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "EDNA MARTINEZ - Dogar Disc Special",
+        "s": "2026-01-27T19:00:00Z",
+        "e": "2026-01-27T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "NYA",
+        "s": "2026-01-27T20:00:00Z",
+        "e": "2026-01-27T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Not a Baile Radio Show",
-        "s": "2026-01-26T10:00:00Z",
-        "e": "2026-01-26T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-01-26T11:00:00Z",
-        "e": "2026-01-26T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "ODJO",
-        "s": "2026-01-26T12:00:00Z",
-        "e": "2026-01-26T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Chaotic Goods ",
         "s": "2026-01-26T13:00:00Z",
@@ -532,7 +526,8 @@
         "d": null,
         "j": "Garth",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Garth"
       },
       {
         "n": "Dunman",
@@ -541,7 +536,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Dunman"
       },
       {
         "n": "Grigio",
@@ -550,7 +546,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Grigio"
       },
       {
         "n": "Deadly Unserious",
@@ -559,7 +556,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Deadly Unserious"
       },
       {
         "n": "Scandal Sounds",
@@ -568,7 +566,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Scandal Sounds"
       },
       {
         "n": "Saraphim",
@@ -577,7 +576,8 @@
         "d": "Saraphim (aka RNS & RDubz) are two Essex based Producer/DJ’s currently focused on Dubstep & the 140 spectrum, mixing ethnical and grime influences into their music. You can expect anything from deep and melodic meditative vibes to high energy driven music.",
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Saraphim"
       },
       {
         "n": "Chaz",
@@ -586,7 +586,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Chaz"
       },
       {
         "n": "Lumeni",
@@ -595,7 +596,18 @@
         "d": "London based DJ who enjoys exploring the darker, bassier corners of Jungle, Breaks, Techno and Drum & Bass, especially when it is laced with a bit of acid.",
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "Lumeni"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-27T00:00:00Z",
+        "e": "2026-01-27T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist",
+        "p": "Subtle Selects"
       },
       {
         "n": "The Ice Box Sessions with Frigid",
@@ -604,7 +616,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "The Ice Box Sessions with Frigid"
       },
       {
         "n": " Scangelous",
@@ -621,7 +634,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "ALBH"
       },
       {
         "n": "Ms Chief",
@@ -630,7 +644,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Ms Chief"
       },
       {
         "n": "Azadi Sound",
@@ -639,7 +654,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Azadi Sound"
       },
       {
         "n": "Posh Mornings",
@@ -648,7 +664,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Posh Mornings"
       },
       {
         "n": "Local Movements",
@@ -657,7 +674,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Local Movements"
       },
       {
         "n": "Liquid Vault w/ Half-Life",
@@ -666,7 +684,8 @@
         "d": null,
         "j": "Half",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Half"
       },
       {
         "n": "Silk Road Sessions w/ YVES",
@@ -675,7 +694,8 @@
         "d": null,
         "j": "YVES",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "YVES"
       },
       {
         "n": "sophie",
@@ -683,7 +703,8 @@
         "e": "2026-01-27T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "sophie"
       },
       {
         "n": "Noiseland Arcade",
@@ -692,7 +713,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Noiseland Arcade"
       },
       {
         "n": "Maliboo Selects",
@@ -701,7 +723,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Maliboo Selects"
       },
       {
         "n": "Sika",
@@ -710,7 +733,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Sika"
       },
       {
         "n": "es.kay & Megwan",
@@ -719,7 +743,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "es.kay & Megwan"
       },
       {
         "n": "stuckinwaveforms",
@@ -728,7 +753,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "stuckinwaveforms"
       },
       {
         "n": "OVN",
@@ -737,7 +763,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "OVN"
       },
       {
         "n": "ATKINS",
@@ -746,7 +773,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "ATKINS"
       },
       {
         "n": "GFTV w/ Neon Beats",
@@ -755,7 +783,8 @@
         "d": null,
         "j": "Neon Beats",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Neon Beats"
       },
       {
         "n": " Moontalk",
@@ -772,7 +801,8 @@
         "d": null,
         "j": "moreit",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "moreit"
       },
       {
         "n": "Dip in w/Babaganoush",
@@ -781,7 +811,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Dip in w/Babaganoush"
       },
       {
         "n": "Melange w/ Weak Spell",
@@ -790,7 +821,8 @@
         "d": null,
         "j": "Weak Spell",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Weak Spell"
       },
       {
         "n": "Sport Mode",
@@ -799,7 +831,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Sport Mode"
       },
       {
         "n": "Touching Bass w/ timfromsales",
@@ -808,7 +841,8 @@
         "d": null,
         "j": "timfromsales",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "timfromsales"
       },
       {
         "n": "Bouncing Betty Records ",
@@ -826,7 +860,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Kon Radd"
       },
       {
         "n": "bin",
@@ -835,7 +870,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "bin"
       },
       {
         "n": "Baked Biscuit",
@@ -844,7 +880,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Baked Biscuit"
       },
       {
         "n": "Rushmoor",
@@ -853,7 +890,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Rushmoor"
       },
       {
         "n": "baeker",
@@ -862,7 +900,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "baeker"
       },
       {
         "n": "PCKRNG & THT GRL",
@@ -871,7 +910,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "PCKRNG & THT GRL"
       },
       {
         "n": "Ezra",
@@ -880,7 +920,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Ezra"
       },
       {
         "n": "inner; Outer w/ c_h_l__o_e",
@@ -889,7 +930,8 @@
         "d": null,
         "j": "c_h_l__o_e",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "c_h_l__o_e"
       },
       {
         "n": "INIT6",
@@ -898,7 +940,8 @@
         "d": "Hailing from northern Italy, STANDARD is a collective of artists, DJs and producers that aims at the promotion of bass music: Garage, UK Funky, Breaks, Leftfield Bass, Leftfield Techno, Dubstep, everything in between and beyond. They focus on the Italian Bass scene, showcasing new up-and-coming artists as well as established talents from all over the peninsula.",
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "INIT6"
       },
       {
         "n": "Judder Show ",
@@ -916,7 +959,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "Riska"
       },
       {
         "n": "The Watercourse Way",
@@ -925,7 +969,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "The Watercourse Way"
       },
       {
         "n": "A Step Forward w/ Gregoire Yasmine",
@@ -933,7 +978,8 @@
         "e": "2026-01-29T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "A Step Forward w/ Gregoire Yasmine"
       },
       {
         "n": "Kostas",
@@ -941,7 +987,8 @@
         "e": "2026-01-30T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "Kostas"
       },
       {
         "n": "Sarah Jones",
@@ -950,7 +997,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "Sarah Jones"
       },
       {
         "n": " De'courcey",
@@ -967,7 +1015,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "Kid Contra"
       },
       {
         "n": "Lava Swirl",
@@ -975,19 +1024,28 @@
         "e": "2026-02-01T00:00:00Z",
         "d": null,
         "j": null,
+        "u": null,
+        "p": "Lava Swirl"
+      },
+      {
+        "n": "Dread or Dead Records",
+        "s": "2026-02-01T00:00:00Z",
+        "e": "2026-02-01T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Phoebe's Playlist",
+        "s": "2026-02-01T01:00:00Z",
+        "e": "2026-02-01T02:00:00Z",
+        "d": null,
+        "j": null,
         "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-01-26T10:00:00Z",
-        "e": "2026-01-26T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-01-26T12:00:00Z",
@@ -1022,7 +1080,8 @@
         "d": null,
         "j": "cherry custard",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "christeeeene"
       },
       {
         "n": "Rene Contreras - Viva! Talks",
@@ -1031,7 +1090,8 @@
         "d": null,
         "j": "Viva! Talks",
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "Rene Contreras"
       },
       {
         "n": "Domenic Priore - '66 Sunset Strip",
@@ -1040,7 +1100,8 @@
         "d": null,
         "j": "'66 Sunset Strip",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Domenic Priore"
       },
       {
         "n": "Xander – guest session",
@@ -1065,7 +1126,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "El Cocodrilo"
       },
       {
         "n": "Aaron Paar - Stomping Grounds",
@@ -1074,7 +1136,8 @@
         "d": null,
         "j": "Stomping Grounds",
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "Aaron Paar"
       },
       {
         "n": "Flight Club",
@@ -1092,7 +1155,8 @@
         "d": null,
         "j": "Indigenous Voice",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Davina Two Bears"
       },
       {
         "n": "Discotchari - Silk Road Secret Agents",
@@ -1101,7 +1165,8 @@
         "d": null,
         "j": "Silk Road Secret Agents",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Discotchari"
       },
       {
         "n": "Patrick Shiroishi - Tangled",
@@ -1110,7 +1175,8 @@
         "d": null,
         "j": "Tangled",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Patrick Shiroishi"
       },
       {
         "n": "Photay - Extravagant Frequencies",
@@ -1119,7 +1185,8 @@
         "d": null,
         "j": "Extravagant Frequencies",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Photay"
       },
       {
         "n": "Hoseh - Version Sounds",
@@ -1128,7 +1195,8 @@
         "d": null,
         "j": "Version Sounds",
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "Hoseh"
       },
       {
         "n": "Maddy Maia - Future Frequencies",
@@ -1137,7 +1205,8 @@
         "d": null,
         "j": "Future Frequencies",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Maddy Maia"
       },
       {
         "n": "Echo Park Film Center - Optical Track",
@@ -1146,7 +1215,8 @@
         "d": null,
         "j": "Optical Track",
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "Echo Park Film Center"
       },
       {
         "n": "Wyldeflower and PayRay - nueve",
@@ -1155,7 +1225,8 @@
         "d": null,
         "j": "nueve",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "PayRay"
       },
       {
         "n": "Seano - The Treehouse",
@@ -1164,7 +1235,8 @@
         "d": null,
         "j": "The Treehouse",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Seano"
       },
       {
         "n": "RERUN: DEEP ROUTES EP5+6",
@@ -1182,7 +1254,8 @@
         "d": null,
         "j": "The Banana Question",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Jennifer Herrema"
       },
       {
         "n": "Francis Inferno Orchestra - Hardcore Positive",
@@ -1191,7 +1264,8 @@
         "d": null,
         "j": "Hardcore Positive",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Francis Inferno Orchestra"
       },
       {
         "n": "Tottie - Across the Pond",
@@ -1200,7 +1274,8 @@
         "d": null,
         "j": "Across the Pond",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Tottie"
       },
       {
         "n": "Addae – Safe in Sound",
@@ -1209,7 +1284,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "Addae"
       },
       {
         "n": "Father/Daughter Funk Hour",
@@ -1245,7 +1321,8 @@
         "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
         "j": "Dying Songs",
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "Jimmy Tamborello"
       },
       {
         "n": "Daddy Differently and Dirty Dave - Things of Life",
@@ -1254,7 +1331,8 @@
         "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
         "j": "Things of Life",
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "Daddy Differently"
       },
       {
         "n": "sounds of NOW",
@@ -1284,33 +1362,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Tim Garcia",
-        "s": "2026-01-26T09:00:00Z",
-        "e": "2026-01-26T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Camille Munn",
-        "s": "2026-01-26T11:00:00Z",
-        "e": "2026-01-26T12:00:00Z",
-        "d": null,
-        "j": "Smash It & Pana",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Bruce Tantum",
-        "s": "2026-01-26T12:00:00Z",
-        "e": "2026-01-26T13:00:00Z",
-        "d": null,
-        "j": "Liquid Liquid's Sal Principato",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Nakeira",
         "s": "2026-01-26T13:00:00Z",
@@ -1398,7 +1449,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Left, Right & Centre",
@@ -1559,34 +1610,174 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Swimful",
+        "s": "2026-01-28T00:00:00Z",
+        "e": "2026-01-28T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Diffrent",
+        "s": "2026-01-28T01:00:00Z",
+        "e": "2026-01-28T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "HalfPint",
+        "s": "2026-01-28T02:00:00Z",
+        "e": "2026-01-28T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-01-28T03:00:00Z",
+        "e": "2026-01-28T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
+      },
+      {
+        "n": "Delilah",
+        "s": "2026-01-28T06:00:00Z",
+        "e": "2026-01-28T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-01-28T07:00:00Z",
+        "e": "2026-01-28T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Esk",
+        "s": "2026-01-28T09:00:00Z",
+        "e": "2026-01-28T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "DJ Gilla",
+        "s": "2026-01-28T11:00:00Z",
+        "e": "2026-01-28T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Eclecticist",
+        "s": "2026-01-28T12:00:00Z",
+        "e": "2026-01-28T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Neptizzle",
+        "s": "2026-01-28T13:00:00Z",
+        "e": "2026-01-28T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Jasper James",
+        "s": "2026-01-28T14:00:00Z",
+        "e": "2026-01-28T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Utopia Presents",
+        "s": "2026-01-28T15:00:00Z",
+        "e": "2026-01-28T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Talina",
+        "s": "2026-01-28T17:00:00Z",
+        "e": "2026-01-28T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
+      },
+      {
+        "n": "Buckley",
+        "s": "2026-01-28T18:00:00Z",
+        "e": "2026-01-28T19:00:00Z",
+        "d": null,
+        "j": "Threads Of Dubstep",
+        "u": null
+      },
+      {
+        "n": "Saint Ludo",
+        "s": "2026-01-28T19:00:00Z",
+        "e": "2026-01-28T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Taiki Nulight",
+        "s": "2026-01-28T20:00:00Z",
+        "e": "2026-01-28T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "1985 Music",
+        "s": "2026-01-28T22:00:00Z",
+        "e": "2026-01-28T23:00:00Z",
+        "d": null,
+        "j": "Molecular",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "The North Quarter",
+        "s": "2026-01-28T23:00:00Z",
+        "e": "2026-01-29T00:00:00Z",
+        "d": null,
+        "j": "Juga-Naut",
+        "u": null
       }
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-01-26T08:00:00Z",
-        "e": "2026-01-26T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-01-26T11:00:00Z",
-        "e": "2026-01-26T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Zohar",
+        "n": "Anna Majidson",
         "s": "2026-01-26T13:00:00Z",
-        "e": "2026-01-26T15:00:00Z",
+        "e": "2026-01-26T14:00:00Z",
         "d": null,
-        "j": "Nothing Here Now w/ Deboleena, nessim & Zohar",
-        "u": null
+        "j": "Behind the Curtain with Clement Caritg & Simon Lancelot",
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "honeymel",
@@ -1595,50 +1786,50 @@
         "d": null,
         "j": "b3b Natania & Camille (A-One) : Sip into something soft",
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "Sentaku",
+        "n": "Louis Roméo",
         "s": "2026-01-26T15:00:00Z",
         "e": "2026-01-26T16:00:00Z",
         "d": null,
-        "j": "Lamalice",
+        "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "Soyoon",
+        "n": "Lorkestra",
         "s": "2026-01-26T16:00:00Z",
         "e": "2026-01-26T17:00:00Z",
         "d": null,
-        "j": "invite The Hacker",
-        "u": null
+        "j": "présente Secret Gems Show avec KLAU",
+        "u": null,
+        "t": "monthly"
       },
       {
-        "n": "HORS-SOL",
+        "n": "Rebequita",
         "s": "2026-01-26T17:00:00Z",
         "e": "2026-01-26T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
-        "n": "TEMƎT",
+        "n": "Kokoprisci",
         "s": "2026-01-26T18:00:00Z",
         "e": "2026-01-26T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
-        "n": "Miley Serious",
+        "n": "NVST",
         "s": "2026-01-26T19:00:00Z",
         "e": "2026-01-26T20:00:00Z",
         "d": null,
-        "j": "invite BBY GOYARD \"TASTEMAKER HOUR MIX\"",
-        "u": null,
-        "t": "biweekly"
+        "j": "EASY LIVE",
+        "u": null
       },
       {
         "n": "Playlist France",
@@ -1668,64 +1859,62 @@
         "t": "playlist"
       },
       {
-        "n": "Anna Majidson",
+        "n": "MENTAL HEALTH RADIO par Stencia",
         "s": "2026-01-27T13:00:00Z",
         "e": "2026-01-27T14:00:00Z",
-        "d": null,
-        "j": "Behind the Curtain with Clement Caritg & Simon Lancelot",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "honeymel",
-        "s": "2026-01-27T14:00:00Z",
-        "e": "2026-01-27T15:00:00Z",
-        "d": null,
-        "j": "b3b Natania & Camille (A-One) : Sip into something soft",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Louis Roméo",
-        "s": "2026-01-27T15:00:00Z",
-        "e": "2026-01-27T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Lorkestra",
-        "s": "2026-01-27T16:00:00Z",
-        "e": "2026-01-27T17:00:00Z",
-        "d": null,
-        "j": "présente Secret Gems Show avec KLAU",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Rebequita",
-        "s": "2026-01-27T17:00:00Z",
-        "e": "2026-01-27T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Kokoprisci",
-        "s": "2026-01-27T18:00:00Z",
-        "e": "2026-01-27T19:00:00Z",
+        "n": "WEDOMiEL",
+        "s": "2026-01-27T14:00:00Z",
+        "e": "2026-01-27T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Vanyfox",
+        "s": "2026-01-27T15:00:00Z",
+        "e": "2026-01-27T16:00:00Z",
+        "d": null,
+        "j": "& NegoO",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Lola Ondikwa",
+        "s": "2026-01-27T16:00:00Z",
+        "e": "2026-01-27T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Feadz",
+        "s": "2026-01-27T17:00:00Z",
+        "e": "2026-01-27T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "NVST",
+        "n": "GЯEG",
+        "s": "2026-01-27T18:00:00Z",
+        "e": "2026-01-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "De Grandi",
         "s": "2026-01-27T19:00:00Z",
         "e": "2026-01-27T20:00:00Z",
         "d": null,
-        "j": "EASY LIVE",
+        "j": null,
         "u": null
       },
       {
