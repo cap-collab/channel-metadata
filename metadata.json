@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-27T16:20:38.361Z",
+  "updated": "2026-01-27T18:27:26.471Z",
   "stations": {
     "nts1": [
-      {
-        "n": "RVNG Intl. (R)",
-        "s": "2026-01-27T04:00:00Z",
-        "e": "2026-01-27T05:00:00Z",
-        "d": "RVNG Intl. presents Friends & Fiends, a monthly guest hosted show spotlighting resident artists and heads orbiting the label’s universe of forward-reaching, free, and (generally) fried music. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rvngintl/episodes/rvng-intl-presents-friends-fiends-24th-june-2021",
-        "t": "restream"
-      },
-      {
-        "n": "FINE (R)",
-        "s": "2026-01-27T05:00:00Z",
-        "e": "2026-01-27T06:00:00Z",
-        "d": "Sonic diaries from Fine…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-12th-december-2024",
-        "t": "restream"
-      },
       {
         "n": "Acid Memories (R)",
         "s": "2026-01-27T06:00:00Z",
@@ -99,9 +81,10 @@
         "n": "Minimal Wave w/ VERONICA VASICKA",
         "s": "2026-01-27T20:00:00Z",
         "e": "2026-01-27T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Veronica Vasicka presents a monthly 2-hour show featuring the lost synth-wave treasures she has archived from the late 70s and early 80s, along with other iconic underground electronic music drawn from over four decades. Expect to hear exclusive tracks from releases on her seminal Minimal Wave and Cititrax labels plus cassette-only and private press rarities.",
+        "j": "VERONICA VASICKA",
+        "u": "https://www.nts.live/api/v2/shows/veronica-vasicka/episodes/veronica-vasicka-27th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "Circuits",
@@ -209,6 +192,15 @@
         "t": "biweekly"
       },
       {
+        "n": "Bradley Zero Presents: Rhythm Section",
+        "s": "2026-01-28T17:00:00Z",
+        "e": "2026-01-28T19:00:00Z",
+        "d": null,
+        "j": "Rhythm Section",
+        "u": null,
+        "t": "monthly"
+      },
+      {
         "n": "MINA",
         "s": "2026-01-28T19:00:00Z",
         "e": "2026-01-28T20:00:00Z",
@@ -235,15 +227,6 @@
       }
     ],
     "nts2": [
-      {
-        "n": "LIVING GATLATO (R)",
-        "s": "2026-01-27T04:00:00Z",
-        "e": "2026-01-27T05:00:00Z",
-        "d": "FROM THE GREAT DIVIDE HE EMERGED.\nONE FOOT IN THE WRETCHED.\nTHE OTHER IN THE SUBLIME. \nFORWARD CLUB FOR A BACKWARD ERA. \nLIVING WILL KILL HIM. \nLIVING GATLATO.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/living-gatlato/episodes/living-gatlato-11th-january-2025",
-        "t": "restream"
-      },
       {
         "n": "Altered Soul Experiment w/ Amila (R)",
         "s": "2026-01-27T05:00:00Z",
@@ -354,17 +337,17 @@
         "n": "INSOLAR w/ CAMI LAYÉ OKÚN",
         "s": "2026-01-27T18:00:00Z",
         "e": "2026-01-27T19:00:00Z",
-        "d": null,
+        "d": "Cuban record collector, ethnomusicologist researcher, picks up a hour of global vinyl via Havana every months.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/cami-laye-okun/episodes/cami-laye-okun-27th-january-2026"
       },
       {
         "n": "EDNA MARTINEZ - Dogar Disc Special",
         "s": "2026-01-27T19:00:00Z",
         "e": "2026-01-27T20:00:00Z",
-        "d": null,
+        "d": "Curator and DJ Edna Martinez explores the champeta, an underground musical genre and dance that originated in the Caribbean coast of Colombia in the early 1980s. The rhythms and influences are said to have arrived with the sailors from West Africa in the 1960s and 70s. We will get to know in each episode its specificities and the relevance of this scene.\nFrom the host: \"This episode is dedicated to the memory of Dogar Disc (Ismael Simancas), one of the pioneering voices of champeta from Cartagena. With over three decades of work, his music helped shape sound of the city and the genre itself. This show is a small tribute to his legacy and history he leaves behind.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/edna-martinez/episodes/edna-martinez-27th-january-2026"
       },
       {
         "n": "NYA",
@@ -487,19 +470,25 @@
         "j": null,
         "u": null,
         "p": "natalia"
+      },
+      {
+        "n": "Tara Clerkin Trio",
+        "s": "2026-01-28T12:00:00Z",
+        "e": "2026-01-28T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Mil Townley w/ Gi Gi",
+        "s": "2026-01-28T13:00:00Z",
+        "e": "2026-01-28T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "ALBH",
-        "s": "2026-01-27T04:00:00Z",
-        "e": "2026-01-27T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "albh"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-01-27T05:00:00Z",
@@ -1027,16 +1016,6 @@
     ],
     "dublab": [
       {
-        "n": "Aaron Paar - Stomping Grounds",
-        "s": "2026-01-27T04:00:00Z",
-        "e": "2026-01-27T06:00:00Z",
-        "d": null,
-        "j": "Stomping Grounds",
-        "u": null,
-        "t": "biweekly",
-        "p": "aaronpaar"
-      },
-      {
         "n": "Flight Club",
         "s": "2026-01-27T06:00:00Z",
         "e": "2026-01-27T08:00:00Z",
@@ -1310,18 +1289,29 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-02-01T17:00:00Z",
+        "e": "2026-02-01T18:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
+      },
+      {
+        "n": "Chris Kissel and Chuck Soo-Hoo - Contact Wave",
+        "s": "2026-02-01T18:00:00Z",
+        "e": "2026-02-01T20:00:00Z",
+        "d": null,
+        "j": "Contact Wave",
+        "u": null,
+        "t": "monthly",
+        "p": "chriskissel"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-01-27T03:00:00Z",
-        "e": "2026-01-27T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "regular"
-      },
       {
         "n": "Flyo",
         "s": "2026-01-27T06:00:00Z",
@@ -1434,7 +1424,7 @@
         "s": "2026-01-27T22:00:00Z",
         "e": "2026-01-27T23:00:00Z",
         "d": null,
-        "j": "PK",
+        "j": null,
         "u": null
       },
       {
@@ -1751,7 +1741,7 @@
         "s": "2026-01-28T16:00:00Z",
         "e": "2026-01-28T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ondi Kwa Show par Lola Ondi Kwa invite : Bruni, Chloé Veynus et Mula",
         "u": null
       },
       {
@@ -1790,15 +1780,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "HOUSE OF US",
-        "s": "2026-01-27T04:00:00Z",
-        "e": "2026-01-27T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Restream",
         "s": "2026-01-27T06:00:00Z",
