@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-28T08:21:06.486Z",
+  "updated": "2026-01-28T10:20:41.544Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Minimal Wave w/ VERONICA VASICKA",
-        "s": "2026-01-27T20:00:00Z",
-        "e": "2026-01-27T22:00:00Z",
-        "d": "Veronica Vasicka presents a monthly 2-hour show featuring the lost synth-wave treasures she has archived from the late 70s and early 80s, along with other iconic underground electronic music drawn from over four decades. Expect to hear exclusive tracks from releases on her seminal Minimal Wave and Cititrax labels plus cassette-only and private press rarities.",
-        "j": "VERONICA VASICKA",
-        "u": "https://www.nts.live/api/v2/shows/veronica-vasicka/episodes/veronica-vasicka-27th-january-2026",
-        "t": "monthly",
-        "p": "veronicavasicka"
-      },
       {
         "n": "Circuits",
         "s": "2026-01-27T22:00:00Z",
@@ -97,9 +87,9 @@
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-01-28T11:00:00Z",
         "e": "2026-01-28T13:00:00Z",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-28th-january-2026",
         "t": "biweekly",
         "p": "shyone"
       },
@@ -236,28 +226,17 @@
         "j": "BABYSCHÖN",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "SHANTI CELESTE",
+        "s": "2026-01-29T13:00:00Z",
+        "e": "2026-01-29T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NYA",
-        "s": "2026-01-27T20:00:00Z",
-        "e": "2026-01-27T21:00:00Z",
-        "d": "Memphis selector and radio host Nya presents an hour of rare soul, boogie, gospel, and funk records once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nya/episodes/nya-27th-january-2026",
-        "t": "monthly",
-        "p": "nya"
-      },
-      {
-        "n": "Weekend Read w/ Jonah Rabb (R)",
-        "s": "2026-01-27T21:00:00Z",
-        "e": "2026-01-27T22:00:00Z",
-        "d": "Every month Jonah Rabb brings you Weekend Read, an hour of funk, house, contemporary R&B, and more.",
-        "j": "Jonah Rabb",
-        "u": "https://www.nts.live/api/v2/shows/jonah/episodes/jonah-8th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "Sophia Stel",
         "s": "2026-01-27T22:00:00Z",
@@ -359,9 +338,9 @@
         "n": "Natalia Panzer",
         "s": "2026-01-28T11:00:00Z",
         "e": "2026-01-28T12:00:00Z",
-        "d": null,
+        "d": "Curio earworms and other obsessions from Krakow's Natalia Panzer.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-28th-january-2026",
         "p": "natalia"
       },
       {
@@ -415,7 +394,7 @@
         "p": "riodoce"
       },
       {
-        "n": "Frontera Power Radio",
+        "n": "FRONTERA POWER RADIO w/ Rodriga Rockmore",
         "s": "2026-01-28T19:00:00Z",
         "e": "2026-01-28T20:00:00Z",
         "d": null,
@@ -487,29 +466,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Otaku: Ridge Racer (R)",
+        "s": "2026-01-29T05:00:00Z",
+        "e": "2026-01-29T06:00:00Z",
+        "d": null,
+        "j": "Ridge Racer",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "es.kay & Megwan",
-        "s": "2026-01-27T20:00:00Z",
-        "e": "2026-01-27T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "eskaymegwan"
-      },
-      {
-        "n": "stuckinwaveforms",
-        "s": "2026-01-27T21:00:00Z",
-        "e": "2026-01-27T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "stuckinwaveforms"
-      },
       {
         "n": "OVN",
         "s": "2026-01-27T22:00:00Z",
@@ -596,6 +564,15 @@
         "u": null,
         "t": "monthly",
         "p": "sportmode"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-28T10:00:00Z",
+        "e": "2026-01-28T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Touching Bass w/ timfromsales",
@@ -986,19 +963,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Lugovskiy",
+        "s": "2026-02-02T09:00:00Z",
+        "e": "2026-02-02T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Patrick Shiroishi - Tangled",
-        "s": "2026-01-27T20:00:00Z",
-        "e": "2026-01-27T22:00:00Z",
-        "d": null,
-        "j": "Tangled",
-        "u": null,
-        "t": "monthly",
-        "p": "patrickshiroishi"
-      },
       {
         "n": "Photay - Extravagant Frequencies",
         "s": "2026-01-27T22:00:00Z",
@@ -1062,6 +1038,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-28T10:00:00Z",
         "e": "2026-01-28T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-28T12:00:00Z",
+        "e": "2026-01-28T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1308,21 +1293,13 @@
     ],
     "rinse": [
       {
-        "n": "Taiki Nulight",
-        "s": "2026-01-27T20:00:00Z",
-        "e": "2026-01-27T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "1985 Music",
         "s": "2026-01-27T22:00:00Z",
         "e": "2026-01-27T23:00:00Z",
         "d": null,
         "j": "Molecular",
         "u": null,
-        "t": "biweekly"
+        "t": "weekly"
       },
       {
         "n": "The North Quarter",
@@ -1373,8 +1350,7 @@
         "e": "2026-01-28T07:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "weekly"
+        "u": null
       },
       {
         "n": "Playlist",
@@ -1386,7 +1362,7 @@
         "t": "playlist"
       },
       {
-        "n": "Yazmin Lacey",
+        "n": "Esk",
         "s": "2026-01-28T09:00:00Z",
         "e": "2026-01-28T11:00:00Z",
         "d": null,
@@ -1395,46 +1371,46 @@
         "t": "weekly"
       },
       {
-        "n": "Quantic",
+        "n": "DJ Gilla: Soul On 45",
         "s": "2026-01-28T11:00:00Z",
         "e": "2026-01-28T12:00:00Z",
         "d": null,
-        "j": "B+ & Frankie Francis",
+        "j": null,
         "u": null
       },
       {
-        "n": "Bruce Tantum",
+        "n": "Eclecticist",
         "s": "2026-01-28T12:00:00Z",
         "e": "2026-01-28T13:00:00Z",
-        "d": null,
-        "j": "Cesar Toribio",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-01-28T13:00:00Z",
-        "e": "2026-01-28T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly"
       },
       {
-        "n": "Manuel Darquart",
-        "s": "2026-01-28T14:00:00Z",
-        "e": "2026-01-28T15:00:00Z",
+        "n": "Neptizzle",
+        "s": "2026-01-28T13:00:00Z",
+        "e": "2026-01-28T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "Tom Ravenscroft",
+        "n": "Jasper James",
+        "s": "2026-01-28T14:00:00Z",
+        "e": "2026-01-28T15:00:00Z",
+        "d": null,
+        "j": "Live from Glamorama, Melbourne",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Utopia Presents",
         "s": "2026-01-28T15:00:00Z",
         "e": "2026-01-28T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Last Nubian",
         "u": null,
         "t": "weekly"
       },
@@ -1448,40 +1424,38 @@
         "t": "regular"
       },
       {
-        "n": "Maey",
+        "n": "Buckley",
         "s": "2026-01-28T18:00:00Z",
         "e": "2026-01-28T19:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
+        "j": "Threads Of Dubstep",
+        "u": null
       },
       {
-        "n": "Ploy",
+        "n": "Saint Ludo",
         "s": "2026-01-28T19:00:00Z",
         "e": "2026-01-28T20:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
+        "j": "Qnoe",
+        "u": null
       },
       {
-        "n": "JAEL",
+        "n": "Taiki Nulight",
         "s": "2026-01-28T20:00:00Z",
         "e": "2026-01-28T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "Pariah presents Voam",
+        "n": "1985 Music",
         "s": "2026-01-28T22:00:00Z",
         "e": "2026-01-28T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Molecular",
         "u": null,
-        "t": "biweekly"
+        "t": "weekly"
       },
       {
         "n": "The North Quarter",
@@ -1532,8 +1506,7 @@
         "e": "2026-01-29T07:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "weekly"
+        "u": null
       },
       {
         "n": "Playlist",
@@ -1559,7 +1532,8 @@
         "e": "2026-01-29T12:00:00Z",
         "d": null,
         "j": "B+ & Frankie Francis",
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Bruce Tantum",
@@ -1640,7 +1614,15 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
+      },
+      {
+        "n": "Will Hofbauer",
+        "s": "2026-01-29T23:00:00Z",
+        "e": "2026-01-30T00:00:00Z",
+        "d": null,
+        "j": "B2B Sangre Voss",
+        "u": null
       }
     ],
     "rinsefr": [
@@ -1826,15 +1808,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "LET'S PRETEND",
-        "s": "2026-01-27T19:00:00Z",
-        "e": "2026-01-27T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "THE SELECTION COMMITTEE",
         "s": "2026-01-27T21:00:00Z",
