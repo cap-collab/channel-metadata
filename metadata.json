@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-28T03:29:12.178Z",
+  "updated": "2026-01-28T04:37:58.031Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Self Soothe w/ Margeaux",
-        "s": "2026-01-27T15:00:00Z",
-        "e": "2026-01-27T16:00:00Z",
-        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
-        "j": "Margeaux",
-        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-27th-january-2026",
-        "t": "weekly",
-        "p": "margeaux"
-      },
       {
         "n": "MILLIE MCKEE",
         "s": "2026-01-27T16:00:00Z",
@@ -99,9 +89,10 @@
         "n": "ORGANIC MUSIC TOKYO W/ CHEE SHIMIZU",
         "s": "2026-01-28T06:00:00Z",
         "e": "2026-01-28T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "The man behind Tokyo's revered Organic Music record store takes to the airwaves for a monthly 60 minute journey through his extensive collection…",
+        "j": "CHEE SHIMIZU",
+        "u": "https://www.nts.live/api/v2/shows/organic-music/episodes/organic-music-28th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
@@ -237,17 +228,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "s": "2026-01-29T07:00:00Z",
+        "e": "2026-01-29T09:00:00Z",
+        "d": null,
+        "j": "PAM",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "SKINNY GIRL DIET",
-        "s": "2026-01-27T15:00:00Z",
-        "e": "2026-01-27T16:00:00Z",
-        "d": "Skinny Girl Diet are London's foremost riot grrrl duo. Delilah Holliday and Ursula Holliday. Post-punk, glam, garage and all things nice… or something like that.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/skinny-girl-diet/episodes/skinny-girl-diet-27th-january-2026"
-      },
       {
         "n": "TUESDAY TRIPS w/ DJ BLESSTHAGAWD",
         "s": "2026-01-27T16:00:00Z",
@@ -365,9 +357,9 @@
         "n": "Ectotherm (R)",
         "s": "2026-01-28T05:00:00Z",
         "e": "2026-01-28T07:00:00Z",
-        "d": null,
+        "d": "An ectotherm is an organism reliant on environmental sources of heat to regulate body temperature. Ectotherm is also a Copenhagen-based record label founded by Courtesy and Mama Snake, home to releases from Schacke, Rune Bagge and Ibon.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ectotherm/episodes/ectotherm-11th-april-2018",
         "t": "restream"
       },
       {
@@ -498,18 +490,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SIC Records w/ Glowing Void",
+        "s": "2026-01-29T01:00:00Z",
+        "e": "2026-01-29T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "sophie",
-        "s": "2026-01-27T15:00:00Z",
-        "e": "2026-01-27T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "sophie"
-      },
       {
         "n": "Noiseland Arcade",
         "s": "2026-01-27T16:00:00Z",
@@ -1004,15 +995,6 @@
     ],
     "dublab": [
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-27T14:00:00Z",
-        "e": "2026-01-27T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Davina Two Bears - Indigenous Voice",
         "s": "2026-01-27T16:00:00Z",
         "e": "2026-01-27T18:00:00Z",
@@ -1310,6 +1292,15 @@
         "u": null,
         "t": "monthly",
         "p": "djty"
+      },
+      {
+        "n": "Canary Sound Werk",
+        "s": "2026-02-02T04:00:00Z",
+        "e": "2026-02-02T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
@@ -1685,15 +1676,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Vanyfox",
-        "s": "2026-01-27T15:00:00Z",
-        "e": "2026-01-27T16:00:00Z",
-        "d": null,
-        "j": "& NegoO",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Lola Ondikwa",
         "s": "2026-01-27T16:00:00Z",
