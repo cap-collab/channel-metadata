@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-28T20:20:37.187Z",
+  "updated": "2026-01-28T22:19:01.935Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
-        "s": "2026-01-28T07:00:00Z",
-        "e": "2026-01-28T09:00:00Z",
-        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
-        "j": "SPIRIT BLUE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-28th-january-2026",
-        "t": "biweekly"
-      },
       {
         "n": "The NTS Breakfast Show w/ Gabi",
         "s": "2026-01-28T09:00:00Z",
@@ -99,17 +90,18 @@
         "n": "GIGI FM PRESENTS F_LORAL",
         "s": "2026-01-28T22:00:00Z",
         "e": "2026-01-28T23:00:00Z",
-        "d": null,
+        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM.\nFrom the host: \"On this month’s episode, GiGi FM welcomes Berlin-based Floral.\nAn emotion-forward mix exploring love and rupture, yearning, and light found in darkness ~ aligned with January’s Aquarian shift and the Leo Full Moon.\"_",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-28th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "A LONG STRANGE DREAM W/ BATU",
         "s": "2026-01-28T23:00:00Z",
         "e": "2026-01-29T00:00:00Z",
-        "d": null,
+        "d": "A Long Strange Dream is Batu's latest series which allows him to showcase a selection of music not limited to peak time dancefloors. Expect a deep dive into the crates for an eclectic mix of influences and oddities as you transcend into a collective long strange dream.\nFrom the host: \"Deep January listening inspired by David Toop's Ocean of Sound.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/a-long-strange-dream-w-batu/episodes/a-long-strange-dream-w-batu-28th-january-2026"
       },
       {
         "n": "MOTOR SYSTEM",
@@ -229,18 +221,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE TIM & BARRY SHOW",
+        "s": "2026-01-29T20:00:00Z",
+        "e": "2026-01-29T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "RADIO SUPER W/ ROSA PISTOLA - Bala VOL.I",
+        "s": "2026-01-29T22:00:00Z",
+        "e": "2026-01-29T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "True As Few w/ Mark (R)",
-        "s": "2026-01-28T08:00:00Z",
-        "e": "2026-01-28T09:00:00Z",
-        "d": "This month's show is dedicated entirely to Toru Takemitsu's soundtrack for Hiroshi Teshigahara's 1984 documentary about Antonio Gaudi, showing Takemitsu's orchestral, abstract and for-picture sensibilities working together to full effect.  ",
-        "j": "Mark",
-        "u": "https://www.nts.live/api/v2/shows/true-as-few/episodes/true-as-few-24th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "RAGA VIBRATIONS (R)",
         "s": "2026-01-28T09:00:00Z",
@@ -342,9 +341,9 @@
         "n": "Luis Alvarado: Peru Post Punk (1985–1991) (R)",
         "s": "2026-01-28T23:00:00Z",
         "e": "2026-01-29T00:00:00Z",
-        "d": null,
+        "d": "From the host: \"Post-punk in Peru emerged mainly within the framework of Rock Subterráneo, a movement that took shape in the mid-1980s on the margins of official circuits. Bands inspired by post-punk currents circulating globally forged, from their own social realities, a language that combined introspection, experimentation, and social critique. More than a mood, Peruvian post-punk expressed a collective sensibility shaped by the violence and precariousness that afflicted the country, turning that unrest into a form of creation and affirmation within the local underground.\"",
         "j": "Peru Post Punk (1985–1991)",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/luis-alvarado/episodes/luis-alvarado-25th-october-2025",
         "t": "restream"
       },
       {
@@ -471,29 +470,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "DESIRE PATHS W/ LAURA GROVES",
+        "s": "2026-01-29T16:00:00Z",
+        "e": "2026-01-29T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Melange w/ Weak Spell",
-        "s": "2026-01-28T08:00:00Z",
-        "e": "2026-01-28T09:00:00Z",
-        "d": null,
-        "j": "Weak Spell",
-        "u": null,
-        "t": "monthly",
-        "p": "weakspell"
-      },
-      {
-        "n": "Sport Mode",
-        "s": "2026-01-28T09:00:00Z",
-        "e": "2026-01-28T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sportmode"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-01-28T10:00:00Z",
@@ -990,18 +977,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-28T08:00:00Z",
-        "e": "2026-01-28T10:00:00Z",
+        "n": "Polo Jaffa",
+        "s": "2026-02-02T21:00:00Z",
+        "e": "2026-02-02T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "LATO",
+        "s": "2026-02-02T22:00:00Z",
+        "e": "2026-02-02T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-28T10:00:00Z",
@@ -1116,7 +1112,7 @@
         "t": "weekly"
       },
       {
-        "n": "Lapti – guest session",
+        "n": "Lapti – Gost Zvuk",
         "s": "2026-01-29T19:00:00Z",
         "e": "2026-01-29T20:00:00Z",
         "d": null,
@@ -1170,7 +1166,7 @@
         "u": null
       },
       {
-        "n": "Simulya kr – guest session",
+        "n": "Simulya kr – Gost Zvuk",
         "s": "2026-01-31T18:00:00Z",
         "e": "2026-01-31T19:00:00Z",
         "d": null,
@@ -1312,18 +1308,18 @@
         "u": null,
         "t": "monthly",
         "p": "lupe"
+      },
+      {
+        "n": "Beau Matthews - Urban Farmer Radio",
+        "s": "2026-02-02T22:00:00Z",
+        "e": "2026-02-03T00:00:00Z",
+        "d": null,
+        "j": "Urban Farmer Radio",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-01-28T07:00:00Z",
-        "e": "2026-01-28T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Esk",
         "s": "2026-01-28T09:00:00Z",
