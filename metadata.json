@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-28T10:20:41.544Z",
+  "updated": "2026-01-28T12:31:27.136Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Circuits",
-        "s": "2026-01-27T22:00:00Z",
-        "e": "2026-01-28T00:00:00Z",
-        "d": "Connections in electronic music: the history of house and techno as presented to you by the wonderful Olly Chubb.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/circuits/episodes/circuits-27th-january-2026",
-        "p": "circuits"
-      },
       {
         "n": "MIDNITE MADNESS CCVIII—Religion is Metal",
         "s": "2026-01-28T00:00:00Z",
@@ -97,11 +88,20 @@
         "n": "DAPHNI",
         "s": "2026-01-28T13:00:00Z",
         "e": "2026-01-28T14:00:00Z",
-        "d": null,
+        "d": "Daphni takes over NTS for a three-party residency, ahead of the release of his new LP, 'Butterfly'. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/daphni/episodes/daphni-28th-january-2026",
         "t": "weekly",
         "p": "daphni"
+      },
+      {
+        "n": "A KING TUBBY TRIBUTE: GUIDE TO FIREHOUSE (R)",
+        "s": "2026-01-28T14:00:00Z",
+        "e": "2026-01-28T15:00:00Z",
+        "d": null,
+        "j": "GUIDE TO FIREHOUSE",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "LOUISE CHEN",
@@ -238,23 +238,6 @@
     ],
     "nts2": [
       {
-        "n": "Sophia Stel",
-        "s": "2026-01-27T22:00:00Z",
-        "e": "2026-01-27T23:00:00Z",
-        "d": "Genre-blurring Vancouver-based songwriter and producer Sophia Stel performs some original tracks live in studio, as well as sharing a selection of her inspirations… ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sophia-stel-27th-january-2026"
-      },
-      {
-        "n": "Ganga Blues w/ Symrin (R)",
-        "s": "2026-01-27T23:00:00Z",
-        "e": "2026-01-28T00:00:00Z",
-        "d": "Tuck some tuberose behind your ears and float down the Ganga river with Symrin Chawla. Music inspired by India and her neighbors. Drizzled with country, folk and fantasy.",
-        "j": "Symrin",
-        "u": "https://www.nts.live/api/v2/shows/ganga-blues/episodes/ganga-blues-10th-july-2025",
-        "t": "restream"
-      },
-      {
         "n": "THE OUTSIDE INSIGHT HOUR",
         "s": "2026-01-28T00:00:00Z",
         "e": "2026-01-28T01:00:00Z",
@@ -347,17 +330,18 @@
         "n": "Tara Clerkin Trio",
         "s": "2026-01-28T12:00:00Z",
         "e": "2026-01-28T13:00:00Z",
-        "d": null,
+        "d": "Off-centre rhythms, muted electronics & slick modern compositions in a monthly missive from the Bristolian psych-rock jammers…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/tara-clerkin-trio/episodes/tara-clerkin-trio-28th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "Mil Townley w/ Gi Gi",
         "s": "2026-01-28T13:00:00Z",
         "e": "2026-01-28T14:00:00Z",
-        "d": null,
+        "d": "Bimonthly radio hour taking you down various musical rabbit holes. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/no-one-radio/episodes/no-one-radio-28th-january-2026"
       },
       {
         "n": "HIGH JAZZ* W/ ILL DUBIO",
@@ -377,7 +361,7 @@
         "t": "biweekly"
       },
       {
-        "n": "Zel Zele w/ Debora Ipekel & Ece Duzgit",
+        "n": "Zel Zele: Grup Ses, Çerikunda, No Frost - Turkish Diggin Report 2025",
         "s": "2026-01-28T16:00:00Z",
         "e": "2026-01-28T17:00:00Z",
         "d": null,
@@ -475,29 +459,27 @@
         "j": "Ridge Racer",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "King Britt Presents: Transmissions (R)",
+        "s": "2026-01-29T06:00:00Z",
+        "e": "2026-01-29T07:00:00Z",
+        "d": null,
+        "j": "Transmissions",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "NTS Guide to: Cool Jazz (R)",
+        "s": "2026-01-29T07:00:00Z",
+        "e": "2026-01-29T09:00:00Z",
+        "d": null,
+        "j": "Cool Jazz",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "OVN",
-        "s": "2026-01-27T22:00:00Z",
-        "e": "2026-01-27T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "ovn"
-      },
-      {
-        "n": "ATKINS",
-        "s": "2026-01-27T23:00:00Z",
-        "e": "2026-01-28T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "atkins"
-      },
       {
         "n": "GFTV w/ Neon Beats",
         "s": "2026-01-28T00:00:00Z",
@@ -749,6 +731,14 @@
         "u": null
       },
       {
+        "n": " Kütchi",
+        "s": "2026-01-31T19:00:00Z",
+        "e": "2026-01-31T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "Kid Contra",
         "s": "2026-01-31T20:00:00Z",
         "e": "2026-01-31T21:00:00Z",
@@ -972,19 +962,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Afro-Elected w/ IXYALA",
+        "s": "2026-02-02T12:00:00Z",
+        "e": "2026-02-02T13:00:00Z",
+        "d": null,
+        "j": "IXYALA",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Photay - Extravagant Frequencies",
-        "s": "2026-01-27T22:00:00Z",
-        "e": "2026-01-28T00:00:00Z",
-        "d": null,
-        "j": "Extravagant Frequencies",
-        "u": null,
-        "t": "monthly",
-        "p": "photay"
-      },
       {
         "n": "Hoseh - Version Sounds",
         "s": "2026-01-28T00:00:00Z",
@@ -1047,6 +1036,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-28T12:00:00Z",
         "e": "2026-01-28T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-28T14:00:00Z",
+        "e": "2026-01-28T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1292,23 +1290,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "1985 Music",
-        "s": "2026-01-27T22:00:00Z",
-        "e": "2026-01-27T23:00:00Z",
-        "d": null,
-        "j": "Molecular",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "The North Quarter",
-        "s": "2026-01-27T23:00:00Z",
-        "e": "2026-01-28T00:00:00Z",
-        "d": null,
-        "j": "Juga-Naut",
-        "u": null
-      },
       {
         "n": "unknown - untitled",
         "s": "2026-01-28T00:00:00Z",
@@ -1666,7 +1647,7 @@
         "s": "2026-01-28T14:00:00Z",
         "e": "2026-01-28T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "ÉTÉ AFRICAIN",
         "u": null,
         "t": "biweekly"
       },
@@ -1808,15 +1789,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "THE SELECTION COMMITTEE",
-        "s": "2026-01-27T21:00:00Z",
-        "e": "2026-01-27T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "BOGADH",
         "s": "2026-01-27T23:00:00Z",
