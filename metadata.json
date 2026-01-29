@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-29T16:33:22.849Z",
+  "updated": "2026-01-29T18:33:31.388Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Maria Somerville (R)",
-        "s": "2026-01-29T04:00:00Z",
-        "e": "2026-01-29T05:00:00Z",
-        "d": "Irish avant pop artist Maria Somerville traverses heady concepts through classic pop, ambient, experimental, spoken word, & field recordings - now hosted ever morning for the NTS Breakfast Show here.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/maria-somerville/episodes/maria-somerville-26th-august-2020",
-        "t": "restream",
-        "p": "mariasomerville"
-      },
       {
         "n": "Doing Time (R)",
         "s": "2026-01-29T05:00:00Z",
@@ -82,27 +72,29 @@
         "d": "Andalusian, Berlin-based producer and DJ Chico Blanco drops in monthly with a mix of his top picks — shades of house, underground Spanish pop, dreamy romantic melodies, plus guest spots from longtime friends sharing their favourites.",
         "j": "8kitoo",
         "u": "https://www.nts.live/api/v2/shows/chico-blanco/episodes/chico-blanco-29th-january-2026",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "chicoblanco"
       },
       {
         "n": "NTS GUIDE TO: MIAMI BASS (R)",
         "s": "2026-01-29T18:00:00Z",
         "e": "2026-01-29T19:00:00Z",
-        "d": null,
+        "d": "An hour of raucous booty bass from the 80s and 90s.",
         "j": "MIAMI BASS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-miami-bass-14th-june-2023",
         "t": "restream"
       },
       {
         "n": "TED DRAWS",
         "s": "2026-01-29T19:00:00Z",
         "e": "2026-01-29T20:00:00Z",
-        "d": null,
+        "d": "Hip-hop scholar, esteemed illustrator and all round head Ted Draws holds down a killer 2 hour monthly slot on Thursday afternoons.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/TED-DRAWS/episodes/ted-draws-29th-january-2026",
+        "t": "monthly"
       },
       {
-        "n": "THE TIM & BARRY SHOW",
+        "n": "THE TIM & BARRY SHOW w/ Ian Mcquaid & Tim",
         "s": "2026-01-29T20:00:00Z",
         "e": "2026-01-29T22:00:00Z",
         "d": null,
@@ -115,7 +107,8 @@
         "e": "2026-01-29T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "radiosuper"
       },
       {
         "n": "CLUB AEROBICS RADIO W/ BIANCA OBLIVION & KING DOUDOU (R)",
@@ -145,6 +138,15 @@
         "p": "kampire"
       },
       {
+        "n": "LABOUR W/ YOUSSOU NDOUR (R)",
+        "s": "2026-01-30T03:00:00Z",
+        "e": "2026-01-30T04:00:00Z",
+        "d": null,
+        "j": "YOUSSOU NDOUR",
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "ASHER G'S CARIBBEAN MEMORIES (R)",
         "s": "2026-01-30T04:00:00Z",
         "e": "2026-01-30T05:00:00Z",
@@ -160,7 +162,8 @@
         "d": null,
         "j": "DEBORA IPEKEL & ECE DUZGIT",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "zelzele"
       },
       {
         "n": "SOPHIA ZHURAVKOVA (R)",
@@ -195,7 +198,8 @@
         "d": null,
         "j": "SCARY THINGS",
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "scarythings"
       },
       {
         "n": "Josh Caffé",
@@ -211,7 +215,8 @@
         "e": "2026-01-30T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "cousins"
       },
       {
         "n": "COURTESY",
@@ -219,27 +224,19 @@
         "e": "2026-01-30T16:00:00Z",
         "d": null,
         "j": null,
+        "u": null,
+        "p": "courtesy"
+      },
+      {
+        "n": "Skee Mask",
+        "s": "2026-01-30T16:00:00Z",
+        "e": "2026-01-30T17:00:00Z",
+        "d": null,
+        "j": null,
         "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Rambo Radio w/ 12manrambo",
-        "s": "2026-01-29T04:00:00Z",
-        "e": "2026-01-29T05:00:00Z",
-        "d": "West Coast Rap tape, cd, and vinyl archives/mixes spanning the mid 80's to early 00's, from San Diego, L.A., Central Valley all the way up to the Bay Area, Sacramento, Northwest and Alaska! Artwork by: DJ TRIGG\nFrom the host: \"New mix of late-80's/early 90's Bay Area and L.A. rap tapes\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rambo-radio/episodes/rambo-radio-29th-january-2026"
-      },
-      {
-        "n": "Otaku: Ridge Racer (R)",
-        "s": "2026-01-29T05:00:00Z",
-        "e": "2026-01-29T06:00:00Z",
-        "d": "Colourful dance music from Namco's iconic racer series. ",
-        "j": "Ridge Racer",
-        "u": "https://www.nts.live/api/v2/shows/otaku/episodes/otaku-ridge-racer-24th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "King Britt Presents: Transmissions (R)",
         "s": "2026-01-29T06:00:00Z",
@@ -323,7 +320,8 @@
         "e": "2026-01-29T17:00:00Z",
         "d": "Desire paths are formed by repeated deviation from official routes. Artist/producer Laura Groves explores private roads and dreamscapes with a series of mixtapes featuring demos, synth sketches, collaborations, pop classics, field recordings and soundtracks.\nFrom the host: \"A Sly & Robbie special\"",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/desire-paths/episodes/desire-paths-29th-january-2026"
+        "u": "https://www.nts.live/api/v2/shows/desire-paths/episodes/desire-paths-29th-january-2026",
+        "p": "desirepaths"
       },
       {
         "n": "DIMENSION DOOR w/ 4TUNE",
@@ -331,23 +329,24 @@
         "e": "2026-01-29T18:00:00Z",
         "d": "Guest mix by Paris-based artist and DJ 4TUNE.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-29th-january-2026"
+        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-29th-january-2026",
+        "p": "dimensiondoor"
       },
       {
         "n": "Helen Island",
         "s": "2026-01-29T18:00:00Z",
         "e": "2026-01-29T19:00:00Z",
-        "d": null,
+        "d": "Prolific Paris-based experimental pop producer Helen Island drops a mix off – featuring tracks from Mechatok, Hysterical Love Project, Eterna and more. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/helen-island-29th-january-2026"
       },
       {
         "n": "RUBIE (R)",
         "s": "2026-01-29T19:00:00Z",
         "e": "2026-01-29T20:00:00Z",
-        "d": null,
+        "d": "Marseille producer and songwriter Rubie stops by for a guest hour.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/rubie-23rd-november-2020",
         "t": "restream"
       },
       {
@@ -373,7 +372,8 @@
         "e": "2026-01-29T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "foragerrecords"
       },
       {
         "n": "Brown Acid Trippin' w/ Lance Barresi & DJ Tara Dactyl",
@@ -389,7 +389,8 @@
         "e": "2026-01-30T01:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "mishka"
       },
       {
         "n": "omichive’s bookshelf",
@@ -405,7 +406,8 @@
         "e": "2026-01-30T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "deadairtransmissions"
       },
       {
         "n": "Foreign Hour — Foreigner Live in March 2016",
@@ -467,6 +469,22 @@
         "j": "Duster",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "FERVENT MOON",
+        "s": "2026-01-30T13:00:00Z",
+        "e": "2026-01-30T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Milkweed",
+        "s": "2026-01-30T15:00:00Z",
+        "e": "2026-01-30T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -1009,18 +1027,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Father/Daughter Funk Hour",
-        "s": "2026-01-29T04:00:00Z",
-        "e": "2026-01-29T06:00:00Z",
+        "n": "SECH",
+        "s": "2026-02-03T17:00:00Z",
+        "e": "2026-02-03T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": " Karishma",
+        "s": "2026-02-03T18:00:00Z",
+        "e": "2026-02-03T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "biweekly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Change of Heart",
         "s": "2026-01-29T06:00:00Z",
@@ -1083,6 +1109,15 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-29T17:00:00Z",
+        "e": "2026-01-29T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Rerun: Yuichi 1skr — Guest DJ Set (11.11.16)",
@@ -1498,18 +1533,29 @@
         "j": "gtalks! radio",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Chandler Poling - Studio Soundtracks",
+        "s": "2026-02-03T17:00:00Z",
+        "e": "2026-02-03T18:00:00Z",
+        "d": null,
+        "j": "Studio Soundtracks",
+        "u": null,
+        "t": "monthly",
+        "p": "chandlerpoling"
+      },
+      {
+        "n": "Jonathan Kornman - Discoteca Imaginaria",
+        "s": "2026-02-03T18:00:00Z",
+        "e": "2026-02-03T20:00:00Z",
+        "d": null,
+        "j": "Discoteca Imaginaria",
+        "u": null,
+        "t": "monthly",
+        "p": "jonathankornman"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-01-29T03:00:00Z",
-        "e": "2026-01-29T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "regular"
-      },
       {
         "n": "Savannah Blake",
         "s": "2026-01-29T06:00:00Z",
@@ -1812,15 +1858,6 @@
         "u": null
       },
       {
-        "n": "Playlist France",
-        "s": "2026-01-29T15:30:00Z",
-        "e": "2026-01-29T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "AMS",
         "s": "2026-01-29T16:00:00Z",
         "e": "2026-01-29T17:00:00Z",
@@ -1949,15 +1986,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "ORGANIZED DISORDER",
-        "s": "2026-01-29T03:00:00Z",
-        "e": "2026-01-29T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Restream",
         "s": "2026-01-29T05:00:00Z",
