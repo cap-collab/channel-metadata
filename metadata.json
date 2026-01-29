@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-29T12:36:56.462Z",
+  "updated": "2026-01-29T14:33:31.196Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOTOR SYSTEM",
-        "s": "2026-01-29T00:00:00Z",
-        "e": "2026-01-29T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "motorsystem"
-      },
-      {
-        "n": "La Mano w/ Lechuga Zafiro",
-        "s": "2026-01-29T01:00:00Z",
-        "e": "2026-01-29T02:00:00Z",
-        "d": "Uruguay DJ, producer and sound designer Lechuga Zafiro presents his radio show: CDJ explorations in South American dance music, field recording related music and beyond. Played live.\nFrom the host: \"recorded live at a show in Casa Montjuic, Barcelona Jan 10 with 4 cdjs and a djm 900.\na current expression of the confusing times we live in. bits from films, experimental music, a lot of silence, mexican metal, frenetic rhythms.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lechuga-zafiro/episodes/lechuga-zafiro-29th-january-2026"
-      },
       {
         "n": "IN FOCUS: RAMONA ANDRA LANGLEY / VEKTROID (R)",
         "s": "2026-01-29T02:00:00Z",
@@ -87,9 +70,9 @@
         "n": "SITUATIONSHIP W/ JENNY CARA",
         "s": "2026-01-29T15:00:00Z",
         "e": "2026-01-29T16:00:00Z",
-        "d": null,
+        "d": "Zurich-based Jenny Cara brings the heat with a blend of cheerful and hard-hitting house, creating a space that celebrates community, history, and pure energy.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/jenny-cara/episodes/jenny-cara-29th-january-2026"
       },
       {
         "n": "OK WILLIAMS",
@@ -220,26 +203,17 @@
         "j": "SCARY THINGS",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Josh Caffé",
+        "s": "2026-01-30T13:00:00Z",
+        "e": "2026-01-30T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Candy",
-        "s": "2026-01-29T00:00:00Z",
-        "e": "2026-01-29T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "candy"
-      },
-      {
-        "n": "SIC Records w/ Glowing Void",
-        "s": "2026-01-29T01:00:00Z",
-        "e": "2026-01-29T02:00:00Z",
-        "d": "Vaporwave meets hip hop for an hour a month. Enjoy The SIC Records experience today.\nFrom the host: \"Glowing Void steps into NTS Radio as a guest on SIC Records’ program, featuring selections from her newest album MUTATING, along with songs from her personal collection.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sic-records/episodes/sic-records-29th-january-2026"
-      },
       {
         "n": "La Cosecha Internacional W/ Principe Q",
         "s": "2026-01-29T02:00:00Z",
@@ -338,17 +312,17 @@
         "n": "RUM PUNCH W/ DANNY FITZGERALD",
         "s": "2026-01-29T14:00:00Z",
         "e": "2026-01-29T15:00:00Z",
-        "d": null,
+        "d": "Danny Fitzgerald joins us for an hour of tropical oldies from the Caribbean, Latin America, West Africa, and beyond.\nFrom the host: \"Trinidadian rapso and soca, Jamaican dancehall, and classic UK jungle from the 1980s and 1990s\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/rum-punch-w-danny-fitzgerald/episodes/rum-punch-w-danny-fitzgerald-29th-january-2026"
       },
       {
         "n": "TOM FURSE - Fallout Edition",
         "s": "2026-01-29T15:00:00Z",
         "e": "2026-01-29T16:00:00Z",
-        "d": null,
+        "d": "Tom Furse is a musician and compiler - searching out the spaces in between genres - tune in for all things wonky; an education in spacious sound and dusted soul.\nFrom the host: \"A selection of violent and apocalyptic Americana featured in the 'Fallout' series of role playing games.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/tom-furse/episodes/tom-furse-29th-january-2026"
       },
       {
         "n": "DESIRE PATHS W/ LAURA GROVES",
@@ -462,6 +436,24 @@
         "e": "2026-01-30T08:00:00Z",
         "d": null,
         "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "626 COMPANY RADIO (R)",
+        "s": "2026-01-30T08:00:00Z",
+        "e": "2026-01-30T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "LYRA PRAMUK PRESENTS: POP.SOIL (R)",
+        "s": "2026-01-30T09:00:00Z",
+        "e": "2026-01-30T10:00:00Z",
+        "d": null,
+        "j": "POP.SOIL",
         "u": null,
         "t": "restream"
       }
@@ -961,19 +953,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Bass Exchange",
+        "s": "2026-02-03T13:00:00Z",
+        "e": "2026-02-03T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Solly",
+        "s": "2026-02-03T14:00:00Z",
+        "e": "2026-02-03T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Tottie - Across the Pond",
-        "s": "2026-01-29T00:00:00Z",
-        "e": "2026-01-29T02:00:00Z",
-        "d": null,
-        "j": "Across the Pond",
-        "u": null,
-        "t": "monthly",
-        "p": "tottie"
-      },
       {
         "n": "Addae – Safe in Sound",
         "s": "2026-01-29T02:00:00Z",
@@ -1033,6 +1033,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-29T13:00:00Z",
         "e": "2026-01-29T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-29T15:00:00Z",
+        "e": "2026-01-29T16:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1456,23 +1465,6 @@
     ],
     "rinse": [
       {
-        "n": "unknown - untitled",
-        "s": "2026-01-29T00:00:00Z",
-        "e": "2026-01-29T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Doctor Jeep",
-        "s": "2026-01-29T01:00:00Z",
-        "e": "2026-01-29T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Swimful",
         "s": "2026-01-29T02:00:00Z",
         "e": "2026-01-29T03:00:00Z",
@@ -1786,10 +1778,19 @@
       {
         "n": "Matta Discos",
         "s": "2026-01-29T15:00:00Z",
-        "e": "2026-01-29T16:00:00Z",
+        "e": "2026-01-29T15:30:00Z",
+        "d": null,
+        "j": "Live",
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-29T15:30:00Z",
+        "e": "2026-01-29T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "AMS",
@@ -1920,15 +1921,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "KNOWLEDGE WITH Young link",
-        "s": "2026-01-28T23:00:00Z",
-        "e": "2026-01-29T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "MADE IN THE CLUB (M.I.T.C.)",
         "s": "2026-01-29T01:00:00Z",
