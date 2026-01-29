@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-29T20:20:51.403Z",
+  "updated": "2026-01-29T22:19:38.085Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-01-29T07:00:00Z",
-        "e": "2026-01-29T09:00:00Z",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": "PAM",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-29th-january-2026",
-        "t": "biweekly"
-      },
       {
         "n": "The NTS Breakfast Show w/ STEVEN JULIEN",
         "s": "2026-01-29T09:00:00Z",
@@ -106,9 +97,9 @@
         "n": "CLUB AEROBICS RADIO W/ BIANCA OBLIVION & KING DOUDOU (R)",
         "s": "2026-01-29T23:00:00Z",
         "e": "2026-01-30T00:00:00Z",
-        "d": null,
+        "d": "\"Special guest King Doudou blesses us with mix of all his own production--a signature blend of global club music including baile funk, reggaeton, bubbling + more. You'll also hear a preview of his collab with Bianca 'Teazerz,' coming out on LUCKYME 21st of Feb on her debut EP 'NET WORK'.\"",
         "j": "BIANCA OBLIVION & KING DOUDOU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/club-aerobics/episodes/club-aerobics-13th-february-2025",
         "t": "restream",
         "p": "kingdoudou"
       },
@@ -137,7 +128,8 @@
         "d": null,
         "j": "YOUSSOU NDOUR",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "labour"
       },
       {
         "n": "ASHER G'S CARIBBEAN MEMORIES (R)",
@@ -226,7 +218,8 @@
         "e": "2026-01-30T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "skeemask"
       },
       {
         "n": "UP YA ARCHIVES w/ Perez The Bully",
@@ -243,28 +236,19 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "martha"
+      },
+      {
+        "n": "PLATOS COMBINADOS: Funkhall Special w/ DJ Thiago Martins & Joe Cotch",
+        "s": "2026-01-30T19:00:00Z",
+        "e": "2026-01-30T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NTS Guide to: Cool Jazz (R)",
-        "s": "2026-01-29T07:00:00Z",
-        "e": "2026-01-29T09:00:00Z",
-        "d": "Considered a reaction to the more lively bebop styles of jazz, the postwar era saw a rise in subdued styles, often referencing classical music. NTS selects two hours of cool jazz from Miles Davis, Chet Baker and more.",
-        "j": "Cool Jazz",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-cool-jazz-9th-april-2023",
-        "t": "restream"
-      },
-      {
-        "n": "Shukai (R)",
-        "s": "2026-01-29T09:00:00Z",
-        "e": "2026-01-29T10:00:00Z",
-        "d": "A unique dip into the musical history of Ukraine with archival label Shukai, journeying back to the ‘90s, playing music from documentaries, sci-fi films, obscure cartoons and late-night music programming, curated by Dmytro Nikolaienko, Dmytro Prutkin and Alec Tsapenko.\nFrom the host: \"Step inside the sonic laboratory of Soviet Ukraine’s Kyivnaukfilm (Eng: Kyiv Science Film, active years 1941-1993) studio — a workshop where composers and sound designers crafted scores for documentary, science, education, and animation films. From eerie synth textures to inventive tape collages, these rare recordings (1967–1990) reveal a secret world of avant-garde music created under censorship yet brimming with experiments.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/shukai/episodes/shukai-24th-september-2025",
-        "t": "restream"
-      },
       {
         "n": "The Uline Catalog w/ Calvin LeCompte (R)",
         "s": "2026-01-29T10:00:00Z",
@@ -365,24 +349,25 @@
         "e": "2026-01-29T22:00:00Z",
         "d": "Brian Weitz has been making music as Geologist with Animal Collective for going on two decades. The egg first cracked in the mid 90's at Baltimore record fairs and long overnight radio shows in New York on WKCR. Whether making sounds in the practice space or playing records, his bandmates call it the O'Brien System. One Tuesday each month you can go there with him on NTS 2.\nFrom the host: \"Companion mix/fraction of influences for my solo LP \"Can I Get A Pack Of Camel Lights?\" I had originally set out to write droney hurdy gurdy set but was deep in the SST catalog while listening to the You Don't Know Mojack podcast so tried something different and it became the new album. \"",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/geologist/episodes/geologist-29th-january-2026"
+        "u": "https://www.nts.live/api/v2/shows/geologist/episodes/geologist-29th-january-2026",
+        "p": "geologist"
       },
       {
         "n": "Forager Records",
         "s": "2026-01-29T22:00:00Z",
         "e": "2026-01-29T23:00:00Z",
-        "d": null,
+        "d": "Forager Records is a Los Angeles based record label, committed to unearthing and breathing new life into rare and under appreciated sounds from the past. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/forager-records/episodes/forager-records-29th-january-2026",
         "p": "foragerrecords"
       },
       {
         "n": "Brown Acid Trippin' w/ Lance Barresi & DJ Tara Dactyl",
         "s": "2026-01-29T23:00:00Z",
         "e": "2026-01-30T00:00:00Z",
-        "d": null,
+        "d": "Life is short, have more fun. Lance Barresi of Permanent Records goes for all vinyl 45's, live and direct from the Los Angeles studio.\nFrom the host: \"An alphabetical journey through the Brown Acid Archives. All of these tracks come from real, vintage vinyl 45s from Hard Rock, Heavy Psych, and Proto-Metal artists beginning with the letter M!\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/brown-acid-journey/episodes/brown-acid-journey-29th-january-2026"
       },
       {
         "n": "Mishka w/ Fergus Jones",
@@ -450,7 +435,8 @@
         "d": null,
         "j": "POP.SOIL",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "lyrapramuk"
       },
       {
         "n": "Claire Rousay (R)",
@@ -476,7 +462,8 @@
         "e": "2026-01-30T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "ferventmoon"
       },
       {
         "n": "Milkweed",
@@ -500,19 +487,28 @@
         "e": "2026-01-30T18:00:00Z",
         "d": null,
         "j": null,
+        "u": null,
+        "p": "andybutler"
+      },
+      {
+        "n": "NTS Guide to: Bigshot Records",
+        "s": "2026-01-30T18:00:00Z",
+        "e": "2026-01-30T19:00:00Z",
+        "d": null,
+        "j": "Bigshot Records",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "CONFUSING MIX W/ JOSH DA COSTA",
+        "s": "2026-01-30T20:00:00Z",
+        "e": "2026-01-30T21:00:00Z",
+        "d": null,
+        "j": null,
         "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-01-29T00:00:00Z",
-        "e": "2026-01-29T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "The Watercourse Way",
         "s": "2026-01-29T10:00:00Z",
@@ -628,7 +624,8 @@
         "e": "2026-02-01T02:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Polar Dance w/Winter Games",
@@ -1078,18 +1075,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Slow Process w/ Ufaze",
+        "s": "2026-02-03T22:00:00Z",
+        "e": "2026-02-03T23:00:00Z",
+        "d": null,
+        "j": "Ufaze",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-01-29T07:00:00Z",
-        "e": "2026-01-29T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-01-29T09:00:00Z",
@@ -1502,7 +1499,7 @@
         "t": "monthly"
       },
       {
-        "n": "BAE BAE - MATRIARCHY",
+        "n": "BAE BAE - matriarchy",
         "s": "2026-02-03T00:00:00Z",
         "e": "2026-02-03T02:00:00Z",
         "d": null,
@@ -1587,18 +1584,19 @@
         "j": null,
         "u": null,
         "p": "teebs"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-01-29T07:00:00Z",
-        "e": "2026-01-29T09:00:00Z",
+        "n": "Protect Me – PROPRO’s HIP-HOP PUNK HOUSE",
+        "s": "2026-02-03T22:00:00Z",
+        "e": "2026-02-04T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "protectme"
+      }
+    ],
+    "rinse": [
       {
         "n": "Yazmin Lacey",
         "s": "2026-01-29T09:00:00Z",
@@ -1752,7 +1750,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "regular"
+        "t": "playlist"
       },
       {
         "n": "Eclecticist",
