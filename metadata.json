@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-29T18:33:31.388Z",
+  "updated": "2026-01-29T20:20:51.403Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Doing Time (R)",
-        "s": "2026-01-29T05:00:00Z",
-        "e": "2026-01-29T07:00:00Z",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-10th-december-2023",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ PAM",
         "s": "2026-01-29T07:00:00Z",
@@ -91,23 +82,24 @@
         "d": "Hip-hop scholar, esteemed illustrator and all round head Ted Draws holds down a killer 2 hour monthly slot on Thursday afternoons.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/TED-DRAWS/episodes/ted-draws-29th-january-2026",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "teddraws"
       },
       {
         "n": "THE TIM & BARRY SHOW w/ Ian Mcquaid & Tim",
         "s": "2026-01-29T20:00:00Z",
         "e": "2026-01-29T22:00:00Z",
-        "d": null,
+        "d": "Tim & Barry have been documenting underground music since 2000. Journey from the latest UK drill back in time to classic grime and garage, all the way to afrobeats, dancehall and RnB. Expect the unexpected.\nFrom the host: \"The first half of  the show sees Ian pay tribute to Sly Dunbar\" who passed on monday covering dub disco & dancehall from the legendary drummer. The second half of the show comes live from Tim's NYE 2025 set at Beneath the Baobab festival Kilifi Kenya ft Dennery, dancehall Abantone and more.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dont-watch-that/episodes/dont-watch-that-29th-january-2026"
       },
       {
         "n": "RADIO SUPER W/ ROSA PISTOLA - Bala VOL.I",
         "s": "2026-01-29T22:00:00Z",
         "e": "2026-01-29T23:00:00Z",
-        "d": null,
+        "d": "RADIO SUPER is Rosa Pistola’s show on NTS where she dives deep into the Latin American underground. Each episode zooms into different genres, scenes, and vibes, tracing their roots and evolution. It’s all about the sounds, the stories, and the pillars of the underground.\nFrom the host: \"La Bala is a subgenre of guaracha; it represents its dark, twisted side. This style was born in Colombia, in the coffee-growing region, in places like Cartago and Pereira. It is still a very new genre, and the producers shaping it are extremely young.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/radio-super/episodes/radio-super-4th-december-2025",
         "p": "radiosuper"
       },
       {
@@ -117,7 +109,8 @@
         "d": null,
         "j": "BIANCA OBLIVION & KING DOUDOU",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "kingdoudou"
       },
       {
         "n": "MOBBS",
@@ -234,18 +227,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "UP YA ARCHIVES w/ Perez The Bully",
+        "s": "2026-01-30T17:00:00Z",
+        "e": "2026-01-30T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MARTHA",
+        "s": "2026-01-30T18:00:00Z",
+        "e": "2026-01-30T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "King Britt Presents: Transmissions (R)",
-        "s": "2026-01-29T06:00:00Z",
-        "e": "2026-01-29T07:00:00Z",
-        "d": "This episode is influenced by King's trip to Hawaii. Field recordings and found sounds all from the island. All music composed and written exclusively by King Britt for Transmissions. Special Guest: Moksha Black on electronics",
-        "j": "Transmissions",
-        "u": "https://www.nts.live/api/v2/shows/king-britt-presents-transmissions/episodes/king-britt-presents-transmissions-tuesday-26th-february-2019",
-        "t": "restream"
-      },
       {
         "n": "NTS Guide to: Cool Jazz (R)",
         "s": "2026-01-29T07:00:00Z",
@@ -353,18 +354,18 @@
         "n": "TEMPORAL COVE W/ SMILEGOTH",
         "s": "2026-01-29T20:00:00Z",
         "e": "2026-01-29T21:00:00Z",
-        "d": null,
+        "d": "Where the wall meets the floor, Temporal Cove is a body of sound exploring the ethereal and ephemeral. Smilegoth dives into shoegaze, post-rock, house and more to articulate a flow of reverberations that can be felt on every surface. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/temporal-cove/episodes/temporal-cove-29th-january-2026",
         "p": "smilegoth"
       },
       {
         "n": "GEOLOGIST PRESENTS: THE O'BRIEN SYSTEM",
         "s": "2026-01-29T21:00:00Z",
         "e": "2026-01-29T22:00:00Z",
-        "d": null,
+        "d": "Brian Weitz has been making music as Geologist with Animal Collective for going on two decades. The egg first cracked in the mid 90's at Baltimore record fairs and long overnight radio shows in New York on WKCR. Whether making sounds in the practice space or playing records, his bandmates call it the O'Brien System. One Tuesday each month you can go there with him on NTS 2.\nFrom the host: \"Companion mix/fraction of influences for my solo LP \"Can I Get A Pack Of Camel Lights?\" I had originally set out to write droney hurdy gurdy set but was deep in the SST catalog while listening to the You Don't Know Mojack podcast so tried something different and it became the new album. \"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/geologist/episodes/geologist-29th-january-2026"
       },
       {
         "n": "Forager Records",
@@ -390,7 +391,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "mishka"
+        "p": "fergusjones"
       },
       {
         "n": "omichive’s bookshelf",
@@ -401,13 +402,12 @@
         "u": null
       },
       {
-        "n": "deadAir transmissions",
+        "n": "deadAir - Transmissions w/ Injury Reserve",
         "s": "2026-01-30T02:00:00Z",
         "e": "2026-01-30T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "deadairtransmissions"
+        "u": null
       },
       {
         "n": "Foreign Hour — Foreigner Live in March 2016",
@@ -482,6 +482,22 @@
         "n": "Milkweed",
         "s": "2026-01-30T15:00:00Z",
         "e": "2026-01-30T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Shalala Bababa: Fanzine Flexis",
+        "s": "2026-01-30T16:00:00Z",
+        "e": "2026-01-30T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ANDY BUTLER Presents VITIGRRL",
+        "s": "2026-01-30T17:00:00Z",
+        "e": "2026-01-30T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1044,18 +1060,27 @@
         "j": null,
         "u": null,
         "t": "biweekly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Change of Heart",
-        "s": "2026-01-29T06:00:00Z",
-        "e": "2026-01-29T07:00:00Z",
+        "n": "Ro-Motion",
+        "s": "2026-02-03T19:00:00Z",
+        "e": "2026-02-03T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Jake Plisken",
+        "s": "2026-02-03T20:00:00Z",
+        "e": "2026-02-03T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-29T07:00:00Z",
@@ -1553,17 +1578,18 @@
         "u": null,
         "t": "monthly",
         "p": "jonathankornman"
+      },
+      {
+        "n": "Teebs - Viewpoints",
+        "s": "2026-02-03T20:00:00Z",
+        "e": "2026-02-03T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "teebs"
       }
     ],
     "rinse": [
-      {
-        "n": "Savannah Blake",
-        "s": "2026-01-29T06:00:00Z",
-        "e": "2026-01-29T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Playlist",
         "s": "2026-01-29T07:00:00Z",
@@ -1580,7 +1606,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "yazminlacey"
       },
       {
         "n": "Quantic",
@@ -1607,7 +1634,8 @@
         "d": null,
         "j": "2016 Mix",
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "skvibemaker"
       },
       {
         "n": "Manuel Darquart",
@@ -1616,7 +1644,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "manueldarquart"
       },
       {
         "n": "Tom Ravenscroft",
@@ -1625,7 +1654,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "tomravenscroft"
       },
       {
         "n": "Talina",
@@ -1634,7 +1664,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "regular"
+        "t": "regular",
+        "p": "talina"
       },
       {
         "n": "Maey",
@@ -1643,7 +1674,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "maey"
       },
       {
         "n": "Ploy",
@@ -1652,7 +1684,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "ploy"
       },
       {
         "n": "JAEL",
@@ -1670,7 +1703,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "pariah"
       },
       {
         "n": "Will Hofbauer & Sangre Voss",
@@ -1678,7 +1712,8 @@
         "e": "2026-01-30T00:00:00Z",
         "d": null,
         "j": "100% whirms",
-        "u": null
+        "u": null,
+        "p": "willhofbauer"
       },
       {
         "n": "Ikke Sant with SUCHI",
@@ -1687,7 +1722,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "ikkesantwithsuchi"
       },
       {
         "n": "ryota",
@@ -1696,7 +1732,8 @@
         "d": null,
         "j": "NIKI",
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "ryota"
       },
       {
         "n": "1985 Music",
@@ -1705,7 +1742,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "1985music"
       },
       {
         "n": "Electronic Playlist",
@@ -1723,7 +1761,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "eclecticist"
       },
       {
         "n": "Playlist",
@@ -1740,7 +1779,8 @@
         "e": "2026-01-30T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "delilah"
       },
       {
         "n": "Uncle Dugs",
@@ -1749,7 +1789,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "uncledugs"
       },
       {
         "n": "The MoodSwing Show",
@@ -1758,7 +1799,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "themoodswingshow"
       },
       {
         "n": "Ella Knight",
@@ -1767,7 +1809,8 @@
         "d": null,
         "j": "Live from Pacha, Ibiza",
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "ellaknight"
       },
       {
         "n": "Heras Records with Klose One & Jonny Banger",
@@ -1776,7 +1819,8 @@
         "d": null,
         "j": "B2B Zed Bias",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "herasrecords"
       },
       {
         "n": "Mall Grab B2B DJ Gigola",
@@ -1784,7 +1828,8 @@
         "e": "2026-01-30T22:00:00Z",
         "d": null,
         "j": "(2020)",
-        "u": null
+        "u": null,
+        "p": "djgigola"
       },
       {
         "n": "Silva Bumpa",
@@ -1793,7 +1838,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "silvabumpa"
       },
       {
         "n": "Jossy Mitsu",
@@ -1802,19 +1848,11 @@
         "d": null,
         "j": "Garage Special (2023)",
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "jossymitsu"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-01-28T20:00:00Z",
-        "e": "2026-01-29T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-01-29T08:00:00Z",
@@ -1888,7 +1926,8 @@
         "d": null,
         "j": "invite ophélie",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "bambi"
       },
       {
         "n": "Playlist France",
@@ -1973,7 +2012,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "mensonges"
       },
       {
         "n": "Playlist France",
@@ -2020,7 +2060,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "honey"
       },
       {
         "n": "NICE PULP RADIO",
