@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-30T06:37:43.372Z",
+  "updated": "2026-01-30T08:28:29.484Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NTS GUIDE TO: MIAMI BASS (R)",
-        "s": "2026-01-29T18:00:00Z",
-        "e": "2026-01-29T19:00:00Z",
-        "d": "An hour of raucous booty bass from the 80s and 90s.",
-        "j": "MIAMI BASS",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-miami-bass-14th-june-2023",
-        "t": "restream"
-      },
-      {
-        "n": "TED DRAWS",
-        "s": "2026-01-29T19:00:00Z",
-        "e": "2026-01-29T20:00:00Z",
-        "d": "Hip-hop scholar, esteemed illustrator and all round head Ted Draws holds down a killer 2 hour monthly slot on Thursday afternoons.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/TED-DRAWS/episodes/ted-draws-29th-january-2026",
-        "t": "monthly",
-        "p": "teddraws"
-      },
       {
         "n": "THE TIM & BARRY SHOW w/ Ian Mcquaid & Tim",
         "s": "2026-01-29T20:00:00Z",
@@ -106,21 +87,20 @@
         "t": "restream"
       },
       {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & Nosedrip",
         "s": "2026-01-30T07:00:00Z",
         "e": "2026-01-30T09:00:00Z",
         "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": "JACK ROLLO",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-30th-january-2026",
-        "t": "biweekly"
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-30th-january-2026"
       },
       {
         "n": "The NTS Breakfast Show w/ AQWEA",
         "s": "2026-01-30T09:00:00Z",
         "e": "2026-01-30T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-aqwea-30th-january-2026"
       },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
@@ -253,26 +233,19 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "LUNG DART (R)",
+        "s": "2026-01-31T07:00:00Z",
+        "e": "2026-01-31T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "lungdart"
       }
     ],
     "nts2": [
-      {
-        "n": "Helen Island",
-        "s": "2026-01-29T18:00:00Z",
-        "e": "2026-01-29T19:00:00Z",
-        "d": "Prolific Paris-based experimental pop producer Helen Island drops a mix off – featuring tracks from Mechatok, Hysterical Love Project, Eterna and more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/helen-island-29th-january-2026"
-      },
-      {
-        "n": "RUBIE (R)",
-        "s": "2026-01-29T19:00:00Z",
-        "e": "2026-01-29T20:00:00Z",
-        "d": "Marseille producer and songwriter Rubie stops by for a guest hour.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/rubie-23rd-november-2020",
-        "t": "restream"
-      },
       {
         "n": "TEMPORAL COVE W/ SMILEGOTH",
         "s": "2026-01-29T20:00:00Z",
@@ -371,9 +344,9 @@
         "n": "LYRA PRAMUK PRESENTS: POP.SOIL (R)",
         "s": "2026-01-30T09:00:00Z",
         "e": "2026-01-30T10:00:00Z",
-        "d": null,
+        "d": "pop.soil is Lyra Pramuk’s bimonthly series exploring catharsis, transformation, and healing through sonic storytelling.\nFrom the host \"A one-hour mix of unreleased Lyra Pramuk material, these intimate sketches of devotional electronic vocals are rooted in techno, trance, dub, and gospel.\"",
         "j": "POP.SOIL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lyra-pramuk/episodes/lyra-pramuk-21st-october-2025",
         "t": "restream",
         "p": "lyrapramuk"
       },
@@ -506,6 +479,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS Guide to: LA Beat Scene (R)",
+        "s": "2026-01-31T05:00:00Z",
+        "e": "2026-01-31T06:00:00Z",
+        "d": null,
+        "j": "LA Beat Scene",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -1128,26 +1110,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sing/Say w/ Paul Hertmann",
+        "s": "2026-02-04T08:00:00Z",
+        "e": "2026-02-04T09:00:00Z",
+        "d": null,
+        "j": "Paul Hertmann",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Rerun: Yuichi 1skr — Guest DJ Set (11.11.16)",
-        "s": "2026-01-29T18:00:00Z",
-        "e": "2026-01-29T19:00:00Z",
-        "d": null,
-        "j": "Yuichi 1skr — Guest DJ Set (11.11.16)",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "Lapti – Gost Zvuk",
-        "s": "2026-01-29T19:00:00Z",
-        "e": "2026-01-29T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Loose Joints – guest session",
         "s": "2026-01-29T20:00:00Z",
@@ -1202,6 +1176,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-30T08:00:00Z",
         "e": "2026-01-30T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-30T10:00:00Z",
+        "e": "2026-01-30T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1637,26 +1620,6 @@
     ],
     "rinse": [
       {
-        "n": "Maey",
-        "s": "2026-01-29T18:00:00Z",
-        "e": "2026-01-29T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "maey"
-      },
-      {
-        "n": "Ploy",
-        "s": "2026-01-29T19:00:00Z",
-        "e": "2026-01-29T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "ploy"
-      },
-      {
         "n": "JAEL",
         "s": "2026-01-29T20:00:00Z",
         "e": "2026-01-29T22:00:00Z",
@@ -1948,24 +1911,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Mix Master Kutyma",
-        "s": "2026-01-29T18:00:00Z",
-        "e": "2026-01-29T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Mensonges",
-        "s": "2026-01-29T19:00:00Z",
-        "e": "2026-01-29T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "mensonges"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-01-29T20:00:00Z",
         "e": "2026-01-30T08:00:00Z",
@@ -1993,32 +1938,32 @@
         "t": "playlist"
       },
       {
-        "n": "Stephane invite Louis Culture",
+        "n": "Louis Roméo",
         "s": "2026-01-30T13:00:00Z",
         "e": "2026-01-30T14:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Romeoradio",
+        "u": null,
+        "t": "biweekly"
       },
       {
-        "n": "Grek",
+        "n": "Nico Adamako B2B MikeQ",
         "s": "2026-01-30T14:00:00Z",
         "e": "2026-01-30T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "10 YEARS EINHUNDERT",
         "u": null
       },
       {
-        "n": "Playlist France",
+        "n": "Zoë Mc Pherson",
         "s": "2026-01-30T15:00:00Z",
         "e": "2026-01-30T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "playlist"
+        "u": null
       },
       {
-        "n": "Trigger",
+        "n": "Ouanounou",
         "s": "2026-01-30T16:00:00Z",
         "e": "2026-01-30T17:00:00Z",
         "d": null,
@@ -2026,7 +1971,7 @@
         "u": null
       },
       {
-        "n": "LAZE B2B Zorza",
+        "n": "1-800-BOOTY",
         "s": "2026-01-30T17:00:00Z",
         "e": "2026-01-30T18:00:00Z",
         "d": null,
@@ -2034,9 +1979,95 @@
         "u": null
       },
       {
-        "n": "Playlist France",
+        "n": "Mix Master Kutyma",
         "s": "2026-01-30T18:00:00Z",
         "e": "2026-01-30T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Mensonges",
+        "s": "2026-01-30T19:00:00Z",
+        "e": "2026-01-30T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "mensonges"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-30T20:00:00Z",
+        "e": "2026-01-31T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-31T08:00:00Z",
+        "e": "2026-01-31T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-31T11:00:00Z",
+        "e": "2026-01-31T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Stephane invite Louis Culture",
+        "s": "2026-01-31T13:00:00Z",
+        "e": "2026-01-31T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Grek",
+        "s": "2026-01-31T14:00:00Z",
+        "e": "2026-01-31T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-31T15:00:00Z",
+        "e": "2026-01-31T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Trigger",
+        "s": "2026-01-31T16:00:00Z",
+        "e": "2026-01-31T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LAZE B2B Zorza",
+        "s": "2026-01-31T17:00:00Z",
+        "e": "2026-01-31T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-01-31T18:00:00Z",
+        "e": "2026-01-31T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2044,16 +2075,16 @@
       },
       {
         "n": "DJ Shahmaran",
-        "s": "2026-01-30T19:00:00Z",
-        "e": "2026-01-30T20:00:00Z",
+        "s": "2026-01-31T19:00:00Z",
+        "e": "2026-01-31T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-01-30T20:00:00Z",
-        "e": "2026-01-30T21:00:00Z",
+        "s": "2026-01-31T20:00:00Z",
+        "e": "2026-01-31T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2061,15 +2092,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "LET'S TALK HIP HOP W/ JOHNNY FASTLANE",
-        "s": "2026-01-29T18:00:00Z",
-        "e": "2026-01-29T20:00:00Z",
-        "d": null,
-        "j": "JOHNNY FASTLANE",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "HONEY CAFE",
         "s": "2026-01-29T20:00:00Z",
