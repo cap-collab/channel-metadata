@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-30T16:29:05.707Z",
+  "updated": "2026-01-30T18:30:29.215Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ASHER G'S CARIBBEAN MEMORIES (R)",
-        "s": "2026-01-30T04:00:00Z",
-        "e": "2026-01-30T05:00:00Z",
-        "d": "Classic Jamaican records from the \"Rocksteady Daddy\" Asher G.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/asher-g/episodes/asher-g-9th-march-2025",
-        "t": "restream"
-      },
-      {
-        "n": "ZEL ZELE W/ DEBORA IPEKEL & ECE DUZGIT (R)",
-        "s": "2026-01-30T05:00:00Z",
-        "e": "2026-01-30T06:00:00Z",
-        "d": "London & Istanbul based record label Zel Zele takes us on a monthly ride to earthly wonders and cosmic adventures. Bite the lip take the trip!",
-        "j": "DEBORA IPEKEL & ECE DUZGIT",
-        "u": "https://www.nts.live/api/v2/shows/zel-zele/episodes/zel-zele-13th-july-2021",
-        "t": "restream",
-        "p": "zelzele"
-      },
       {
         "n": "SOPHIA ZHURAVKOVA (R)",
         "s": "2026-01-30T06:00:00Z",
@@ -105,18 +86,19 @@
         "n": "ROOMIES w/ MOBILEGIRL - music for the kitchen (R)",
         "s": "2026-01-30T18:00:00Z",
         "e": "2026-01-30T19:00:00Z",
-        "d": null,
+        "d": "mobilegirl invites you into her home with soundtracks for various rooms.",
         "j": "MOBILEGIRL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mobilegirl/episodes/mobilegirl-22nd-may-2025",
         "t": "restream"
       },
       {
         "n": "PLATOS COMBINADOS: Funkhall Special w/ DJ Thiago Martins & Joe Cotch",
         "s": "2026-01-30T19:00:00Z",
         "e": "2026-01-30T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Serving up monthly discoveries in clubland and beyond.\nFrom the host: \"A deep dive into Brazil's burgeoning Funkhall scene - a fusion of baile funk production techniques and dancehall rhythmic structures - with a guest mix from one of the sounds true pioneers, Sao Paulo's DJ Thiago Martins.\"",
+        "j": "DJ Thiago Martins & Joe Cotch",
+        "u": "https://www.nts.live/api/v2/shows/platos-combinados-w-joe-cotch/episodes/platos-combinados-w-joe-cotch-30th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "EASTERN MARGINS",
@@ -240,17 +222,26 @@
         "j": "RUTH TAFÉBÉ",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Highlife & Sunshine Show w/ Tryb",
+        "s": "2026-01-31T15:00:00Z",
+        "e": "2026-01-31T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CHARLIE DARK",
+        "s": "2026-01-31T16:00:00Z",
+        "e": "2026-01-31T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "charliedark"
       }
     ],
     "nts2": [
-      {
-        "n": "CDMX Tapes w/  TUFI & Romy Mats",
-        "s": "2026-01-30T04:00:00Z",
-        "e": "2026-01-30T06:00:00Z",
-        "d": "Mexican record label, Naafi, settle in at NTS for a showcase of the weirdest experimentations in club culture that have bubbled to the surface of Soundcloud. Dazed rhythms converging into Jersey stutters, and tumblr-era trap for two straight hours on a Monday.\nFrom the host: _\"Dj Fucci invites Romy Mats from Japan and Tufi from Argentina\" _",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/naafi/episodes/naafi-30th-january-2026"
-      },
       {
         "n": "ZULI (R)",
         "s": "2026-01-30T06:00:00Z",
@@ -345,18 +336,18 @@
         "n": "NTS Guide to: Bigshot Records",
         "s": "2026-01-30T18:00:00Z",
         "e": "2026-01-30T19:00:00Z",
-        "d": null,
+        "d": "Founded in 1988 by Toronto producers Nick Fiorucci and Andrew Komis, Bigshot operated for just two years — but in that brief window released a run of records that would deeply shape the emerging sound of UK rave and permanently alter the trajectory of dance music.\nDark, moody, and ferociously funky, the Bigshot sound linked Toronto to the nascent scenes of Chicago, Detroit, New York, and the Midwest. Alongside Ron Allen and Len Grant, Fiorucci and Komis fused house, techno, electro, garage, and freestyle into a signature mix of snapping 808s, FM basslines, 303 pressure, dubwise mixing, and blistering vocals. This is the sound of Toronto house.\nWords and selections by Tony Price.",
         "j": "Bigshot Records",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-bigshot-records-30th-january-2026",
         "t": "weekly"
       },
       {
         "n": "SARA A (R)",
         "s": "2026-01-30T19:00:00Z",
         "e": "2026-01-30T20:00:00Z",
-        "d": null,
+        "d": "Lesser heard sounds with a focus on femmes in punk from artist and musician Sara A.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-7th-march-2025",
         "t": "restream"
       },
       {
@@ -480,6 +471,23 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FELISHA ledesma",
+        "s": "2026-01-31T12:00:00Z",
+        "e": "2026-01-31T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "OKKYUNG LEE (R)",
+        "s": "2026-01-31T13:00:00Z",
+        "e": "2026-01-31T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -1147,18 +1155,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Since 2016: Boss Harmony — Punky Reggae Party (08.24.16)",
-        "s": "2026-01-30T04:00:00Z",
-        "e": "2026-01-30T06:00:00Z",
+        "n": "Groundwrk w/ B4B",
+        "s": "2026-02-04T17:00:00Z",
+        "e": "2026-02-04T18:00:00Z",
+        "d": null,
+        "j": "B4B",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Ellen",
+        "s": "2026-02-04T18:00:00Z",
+        "e": "2026-02-04T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "bossharmony"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Since 2016: Callie — Cuts 01 (05.07.16)",
         "s": "2026-01-30T06:00:00Z",
@@ -1647,18 +1664,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Andres Renteria - Shining Spirit Sound",
+        "s": "2026-02-04T18:00:00Z",
+        "e": "2026-02-04T20:00:00Z",
+        "d": null,
+        "j": "Shining Spirit Sound",
+        "u": null,
+        "t": "monthly",
+        "p": "andresrenteria"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-01-30T03:00:00Z",
-        "e": "2026-01-30T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Eclecticist",
         "s": "2026-01-30T06:00:00Z",
@@ -2064,15 +2082,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "HEADCRACK",
-        "s": "2026-01-30T04:00:00Z",
-        "e": "2026-01-30T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Restream",
         "s": "2026-01-30T06:00:00Z",
