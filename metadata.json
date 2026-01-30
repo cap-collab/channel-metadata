@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-30T20:20:17.953Z",
+  "updated": "2026-01-30T22:16:10.975Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & Nosedrip",
-        "s": "2026-01-30T07:00:00Z",
-        "e": "2026-01-30T09:00:00Z",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-30th-january-2026"
-      },
       {
         "n": "The NTS Breakfast Show w/ AQWEA",
         "s": "2026-01-30T09:00:00Z",
@@ -113,9 +105,10 @@
         "n": "Spaces In Between w/ Introspekt",
         "s": "2026-01-30T23:00:00Z",
         "e": "2026-01-31T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "LA-based DJ and producer Introspekt delivers a monthly missive of UK garage, 2-step and more.",
+        "j": "Introspekt",
+        "u": "https://www.nts.live/api/v2/shows/introspekt/episodes/introspekt-30th-january-2026",
+        "t": "monthly"
       },
       {
         "n": "SPINEE",
@@ -246,28 +239,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "DAY DREAMERS ONLY W/ KIERA (R)",
+        "s": "2026-01-31T19:00:00Z",
+        "e": "2026-01-31T20:00:00Z",
+        "d": null,
+        "j": "KIERA",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "626 COMPANY RADIO (R)",
-        "s": "2026-01-30T08:00:00Z",
-        "e": "2026-01-30T09:00:00Z",
-        "d": "Shanghai, China collective 626 Company, headed up by Jackzebra deliver monthly broadcasts from the collective and their friends. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jackzebra/episodes/jackzebra-20th-october-2025",
-        "t": "restream"
-      },
-      {
-        "n": "LYRA PRAMUK PRESENTS: POP.SOIL (R)",
-        "s": "2026-01-30T09:00:00Z",
-        "e": "2026-01-30T10:00:00Z",
-        "d": "pop.soil is Lyra Pramuk’s bimonthly series exploring catharsis, transformation, and healing through sonic storytelling.\nFrom the host \"A one-hour mix of unreleased Lyra Pramuk material, these intimate sketches of devotional electronic vocals are rooted in techno, trance, dub, and gospel.\"",
-        "j": "POP.SOIL",
-        "u": "https://www.nts.live/api/v2/shows/lyra-pramuk/episodes/lyra-pramuk-21st-october-2025",
-        "t": "restream",
-        "p": "lyrapramuk"
-      },
       {
         "n": "Claire Rousay (R)",
         "s": "2026-01-30T10:00:00Z",
@@ -370,17 +353,17 @@
         "n": "Maxine Funke",
         "s": "2026-01-30T22:00:00Z",
         "e": "2026-01-30T23:00:00Z",
-        "d": null,
+        "d": "NZ avant-folk artist Maxine Funke returns to NTS, helping mark the release of her new record “Timeless Town”, playing a suite of meditative folk and original recordings. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/maxine-funke-30th-january-2026"
       },
       {
         "n": "Circle Packing w/ Occo (R)",
         "s": "2026-01-30T23:00:00Z",
         "e": "2026-01-31T00:00:00Z",
-        "d": null,
+        "d": "Explorations in everything from krautrock and dub to jungle and techno once a month. ",
         "j": "Occo",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/occo/episodes/occo-12th-august-2025",
         "t": "restream",
         "p": "circle"
       },
@@ -500,6 +483,22 @@
         "n": "SKATE MUZIK",
         "s": "2026-01-31T15:00:00Z",
         "e": "2026-01-31T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "REIMAGINING COUNTRY W/ sangoma!",
+        "s": "2026-01-31T17:00:00Z",
+        "e": "2026-01-31T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "BEAU BEAUMONT",
+        "s": "2026-01-31T18:00:00Z",
+        "e": "2026-01-31T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1206,18 +1205,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-01-30T08:00:00Z",
-        "e": "2026-01-30T10:00:00Z",
+        "n": "Seshington",
+        "s": "2026-02-04T21:00:00Z",
+        "e": "2026-02-04T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-01-30T10:00:00Z",
@@ -1699,18 +1698,29 @@
         "u": null,
         "t": "monthly",
         "p": "andresrenteria"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-01-30T07:00:00Z",
-        "e": "2026-01-30T09:00:00Z",
+        "n": "Lana Miller – Soft Focus",
+        "s": "2026-02-04T21:00:00Z",
+        "e": "2026-02-04T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "lanamiller"
       },
+      {
+        "n": "Colored Craig - Club Craig",
+        "s": "2026-02-04T22:00:00Z",
+        "e": "2026-02-05T00:00:00Z",
+        "d": null,
+        "j": "Club Craig",
+        "u": null,
+        "t": "monthly",
+        "p": "coloredcraig"
+      }
+    ],
+    "rinse": [
       {
         "n": "Breakfast with Donsurf",
         "s": "2026-01-30T09:00:00Z",
