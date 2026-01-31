@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-31T16:18:17.768Z",
+  "updated": "2026-01-31T18:20:47.653Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Lee Gamble (R)",
-        "s": "2026-01-31T04:00:00Z",
-        "e": "2026-01-31T05:00:00Z",
-        "d": "Artist, producer, label owner and DJ Lee Gamble bringing an oneiric bi-monthly show of current sound and music from his hallucinated musical continuum. Expect anything from Drill to Dream pop, Conceptual Sound and Jazz to bleached out rave memories.. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lee-gamble/episodes/lee-gamble-28th-october-2024",
-        "t": "restream"
-      },
-      {
-        "n": "POST-GEOGRAPHY (R)",
-        "s": "2026-01-31T05:00:00Z",
-        "e": "2026-01-31T06:00:00Z",
-        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-21st-march-2025",
-        "t": "restream"
-      },
       {
         "n": "LUCIFER OVER LA (R)",
         "s": "2026-01-31T06:00:00Z",
@@ -108,17 +90,18 @@
         "n": "MUSIC 4 LOVERS",
         "s": "2026-01-31T18:00:00Z",
         "e": "2026-01-31T19:00:00Z",
-        "d": null,
+        "d": "Jabu and Andy Payback bring us Music 4 Lovers once a month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/music-4-lovers/episodes/music-4-lovers-31st-january-2026",
+        "t": "monthly"
       },
       {
         "n": "DAY DREAMERS ONLY W/ KIERA (R)",
         "s": "2026-01-31T19:00:00Z",
         "e": "2026-01-31T20:00:00Z",
-        "d": null,
+        "d": "DJ Kiera coming through with dreamy, breezy mix of soft rock, folk, vintage pop, & other delights.",
         "j": "KIERA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/day-dreamers-only/episodes/day-dreamers-only-17th-february-2023",
         "t": "restream",
         "p": "kiera"
       },
@@ -241,27 +224,26 @@
         "j": null,
         "u": null,
         "p": "paradise"
+      },
+      {
+        "n": "Khartoum Arrivals w/ Basma",
+        "s": "2026-02-01T16:00:00Z",
+        "e": "2026-02-01T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "A Month of Sundays w/ Bill Spencer",
+        "s": "2026-02-01T17:00:00Z",
+        "e": "2026-02-01T18:00:00Z",
+        "d": null,
+        "j": "Bill Spencer",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "Dreamcastmoe w/ Valentina",
-        "s": "2026-01-31T04:00:00Z",
-        "e": "2026-01-31T05:00:00Z",
-        "d": "PPU signed vocalist & producer dreamcastmoe transmits a monthly program directly from LA via DC..\nFrom the host: \"This months Dreamcastmoe Show feat. Valentina - Valentina is a Chicanx community organizer and DJ for over 15 years currently residing in Baltimore. Digging in their favorite record stores they have curated an arsenal of the obscure, evocative, and important to serve dance floors with their all vinyl sets crafting their brujeria of sound, held heavily in their culture and being.\"",
-        "j": "Valentina",
-        "u": "https://www.nts.live/api/v2/shows/dreamcast/episodes/dreamcast-31st-january-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "NTS Guide to: LA Beat Scene (R)",
-        "s": "2026-01-31T05:00:00Z",
-        "e": "2026-01-31T06:00:00Z",
-        "d": "The LA Beat Scene emerged in the early 2000s as a loose community of producers pushing instrumental hip-hop into new territory. Built around live nights like Kutmah's Sketchbook, and later Low End Theory, it created space for new kinds of sampling, strange drum programming and a DIY approach to sharing music. This mix brings together artists central to the scene’s development - Flying Lotus, Ras G, Teebs, Samiyam, Knxwledge, and others who shaped its sound from bedrooms, basements and backrooms across LA.",
-        "j": "LA Beat Scene",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-la-beat-scene-13th-may-2025",
-        "t": "restream"
-      },
       {
         "n": "Moor Mother (R)",
         "s": "2026-01-31T06:00:00Z",
@@ -355,18 +337,18 @@
         "n": "BEAU BEAUMONT",
         "s": "2026-01-31T18:00:00Z",
         "e": "2026-01-31T19:00:00Z",
-        "d": null,
+        "d": "Era-spanning techno & experimental sonics from Beau Beaumont\nSound and archival print to accompany the mix.\n'Quiver' shot in Tokyo, Japan on 35mm film. Designed and colour graded by Beau Beaumont. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/beau-beaumont/episodes/beau-beaumont-31st-january-2026",
         "p": "beaubeaumont"
       },
       {
         "n": "WAVE FORM W/ AURÉLIEN ARBET & PIERRE ROUSSEAU (R)",
         "s": "2026-01-31T19:00:00Z",
         "e": "2026-01-31T20:00:00Z",
-        "d": null,
+        "d": "During 'Wave Form', Aurélien Arbet and Pierre Rousseau explore an interpolation of various recordings, often at the margins of traditional formats and conventional styles of music. During an hour, a long oscillation is formed out of a selection of interviews, spoken word, poetry, music for dance or art, marginal pop attempts and various field recordings.\nAurélien Arbet is an art director, co-founder of the clothing brand and publishing house Études. Pierre Rousseau is a composer, producer and sound designer, crafting sounds for records, films, and art projects.",
         "j": "AURÉLIEN ARBET & PIERRE ROUSSEAU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/wave-form/episodes/wave-form-13th-december-2025",
         "t": "restream",
         "p": "waveform"
       },
@@ -495,6 +477,24 @@
         "e": "2026-02-01T13:00:00Z",
         "d": null,
         "j": "TAYLOR ROWLEY",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "AN IBEX BAND SPECIAL: THE ROHA BAND YEARS (R)",
+        "s": "2026-02-01T13:00:00Z",
+        "e": "2026-02-01T15:00:00Z",
+        "d": null,
+        "j": "THE ROHA BAND YEARS",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "DAGMAR ZUNIGA (R)",
+        "s": "2026-02-01T15:00:00Z",
+        "e": "2026-02-01T16:02:00Z",
+        "d": null,
+        "j": null,
         "u": null,
         "t": "restream"
       }
@@ -1326,6 +1326,24 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Lily London",
+        "s": "2026-02-05T17:00:00Z",
+        "e": "2026-02-05T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": " Darz (Percy Digs)",
+        "s": "2026-02-05T18:00:00Z",
+        "e": "2026-02-05T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1811,18 +1829,28 @@
         "u": null,
         "t": "monthly",
         "p": "jamesaxon"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-01-31T02:00:00Z",
-        "e": "2026-01-31T06:00:00Z",
+        "n": "LARAAJI and OUT THERE",
+        "s": "2026-02-05T16:30:00Z",
+        "e": "2026-02-05T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "weekly"
       },
+      {
+        "n": "Dustin Wong – Why Did Why Did Why Did",
+        "s": "2026-02-05T18:00:00Z",
+        "e": "2026-02-05T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "dustinwong"
+      }
+    ],
+    "rinse": [
       {
         "n": "NIKS",
         "s": "2026-01-31T06:00:00Z",
