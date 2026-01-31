@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-31T18:20:47.653Z",
+  "updated": "2026-01-31T20:16:12.551Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUCIFER OVER LA (R)",
-        "s": "2026-01-31T06:00:00Z",
-        "e": "2026-01-31T07:00:00Z",
-        "d": "Your attentive participation, thru listening with your ears and your heart, will allow you to enjoy fully this exchange of ideas, to sense these various moods, and to reap the full therapeutic rewards that good music always brings to a tired, disturbed soul and all who dig the sounds. – Mary Lou Williams, 1964 ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lucifer-over-london/episodes/lucifer-over-london-24th-may-2022",
-        "t": "restream"
-      },
-      {
-        "n": "LUNG DART (R)",
-        "s": "2026-01-31T07:00:00Z",
-        "e": "2026-01-31T08:00:00Z",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-25th-march-2024",
-        "t": "restream",
-        "p": "lungdart"
-      },
       {
         "n": "Nāda Sonic w/ Sway Of The Verses",
         "s": "2026-01-31T08:00:00Z",
@@ -109,17 +90,18 @@
         "n": "FIELD WORK",
         "s": "2026-01-31T20:00:00Z",
         "e": "2026-01-31T22:00:00Z",
-        "d": null,
+        "d": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com.\nFrom the host: \"The first Field Work show of the 2026 is the second in a 'winter rest' series of programmes, drawing on experimental, drone and ambient.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/fieldwork/episodes/fieldwork-31st-january-2026",
+        "t": "monthly"
       },
       {
         "n": "MUSIC TO EASE YOUR DISEASE",
         "s": "2026-01-31T22:00:00Z",
         "e": "2026-02-01T00:00:00Z",
-        "d": null,
+        "d": "Music to dent the canister",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/musictoeaseyourdisease/episodes/musictoeaseyourdisease-31st-january-2026"
       },
       {
         "n": "NITETRAX",
@@ -241,27 +223,26 @@
         "j": "Bill Spencer",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "m00dtapes",
+        "s": "2026-02-01T18:00:00Z",
+        "e": "2026-02-01T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE - Soukouss",
+        "s": "2026-02-01T19:00:00Z",
+        "e": "2026-02-01T20:03:00Z",
+        "d": null,
+        "j": "TEMI KOGBE",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "Moor Mother (R)",
-        "s": "2026-01-31T06:00:00Z",
-        "e": "2026-01-31T07:00:00Z",
-        "d": "Philadelphia-based multidisciplinary performer + musician Moor Mother collides a cacophony of sounds every month, from free jazz to noise to punk + more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moor-mother/episodes/moor-mother-19th-april-2023",
-        "t": "restream"
-      },
-      {
-        "n": "Shells (R)",
-        "s": "2026-01-31T07:00:00Z",
-        "e": "2026-01-31T08:00:00Z",
-        "d": "Michigan selector Shells plays records and owns Ginkgo Records in Detroit. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ccc---shells/episodes/ccc---shells-27th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "Mint Condition (R)",
         "s": "2026-01-31T08:00:00Z",
@@ -356,9 +337,9 @@
         "n": "FUSION BATCHES W/ DJ MORSE CODE (R)",
         "s": "2026-01-31T20:00:00Z",
         "e": "2026-01-31T21:00:00Z",
-        "d": null,
+        "d": "consisting of all recent digs, summer 2025",
         "j": "DJ MORSE CODE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/fusion-batches/episodes/fusion-batches-5th-august-2025",
         "t": "restream",
         "p": "fusionbatches"
       },
@@ -366,9 +347,9 @@
         "n": "DANCE MUSIC SHOW W/ BELL TOWERS - ITALO DISCO SPECIAL (R)",
         "s": "2026-01-31T21:00:00Z",
         "e": "2026-01-31T22:00:00Z",
-        "d": null,
+        "d": "Prolific producer + DJ from Melbourne, Australia - Bell Towers presents his Dance Music Show.",
         "j": "BELL TOWERS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bell-towers/episodes/dance-music-show-14th-july-2020",
         "t": "restream",
         "p": "belltowers"
       },
@@ -497,6 +478,24 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "NTS GUIDE TO: WOMEN OF 60S & 70S FOLK (R)",
+        "s": "2026-02-01T16:02:00Z",
+        "e": "2026-02-01T17:02:00Z",
+        "d": null,
+        "j": "WOMEN OF 60S & 70S FOLK",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "LUIS ALVARADO: CHILE SINTÉTICA (1983-1993) (R)",
+        "s": "2026-02-01T17:02:00Z",
+        "e": "2026-02-01T18:00:00Z",
+        "d": null,
+        "j": "CHILE SINTÉTICA (1983-1993)",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -562,6 +561,15 @@
         "u": null,
         "t": "biweekly",
         "p": "kidcontra"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-01-31T21:00:00Z",
+        "e": "2026-01-31T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Lava Swirl",
@@ -1344,17 +1352,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "B-Say",
+        "s": "2026-02-05T19:00:00Z",
+        "e": "2026-02-05T20:00:00Z",
+        "d": "DJ & Producer, B-Say has been a Subtle resident DJ for over 3 years.\r\n\r\nHis radio shows tend to focus on the 140 bass music scene and aims to showcase unreleased/forthcoming music from upcoming artists, as well as premiering his own unreleased material. \r\n\r\nMore recently B-Say has ventured out from solely DJ'ing Dubstep, with his bi-monthly 'Dub & Steppers Show' which he uses to premier his own productions.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Slick",
+        "s": "2026-02-05T20:00:00Z",
+        "e": "2026-02-05T21:00:00Z",
+        "d": "Slick is a London-based Producer and DJ combining the sounds of Grime and Drill.\r\nExpect sets to span from sparse wave and weightless to classic NY and UK Drill, with everything in between",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "top tape",
-        "s": "2026-01-31T04:00:00Z",
-        "e": "2026-01-31T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-01-31T08:00:00Z",
@@ -1848,19 +1866,19 @@
         "u": null,
         "t": "monthly",
         "p": "dustinwong"
+      },
+      {
+        "n": "Jimmy Tamborello - Dying Songs",
+        "s": "2026-02-05T20:00:00Z",
+        "e": "2026-02-05T22:00:00Z",
+        "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
+        "j": "Dying Songs",
+        "u": null,
+        "t": "weekly",
+        "p": "jimmytamborello"
       }
     ],
     "rinse": [
-      {
-        "n": "NIKS",
-        "s": "2026-01-31T06:00:00Z",
-        "e": "2026-01-31T07:00:00Z",
-        "d": null,
-        "j": "Downtempo Special (Year 2)",
-        "u": null,
-        "t": "biweekly",
-        "p": "niks"
-      },
       {
         "n": "Playlist",
         "s": "2026-01-31T07:00:00Z",
@@ -2060,15 +2078,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-01-30T20:00:00Z",
-        "e": "2026-01-31T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-01-31T08:00:00Z",
