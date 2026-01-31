@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-31T10:16:08.001Z",
+  "updated": "2026-01-31T12:28:50.928Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BRBKO",
-        "s": "2026-01-30T21:00:00Z",
-        "e": "2026-01-30T23:00:00Z",
-        "d": "The enigmatic polymath, producer and MC brbko takes over the NTS airwaves each month. Brak don't crack. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/brbko/episodes/brbko-30th-january-2026",
-        "p": "brbko"
-      },
-      {
-        "n": "Spaces In Between w/ Introspekt",
-        "s": "2026-01-30T23:00:00Z",
-        "e": "2026-01-31T00:00:00Z",
-        "d": "LA-based DJ and producer Introspekt delivers a monthly missive of UK garage, 2-step and more.",
-        "j": "Introspekt",
-        "u": "https://www.nts.live/api/v2/shows/introspekt/episodes/introspekt-30th-january-2026",
-        "t": "monthly",
-        "p": "introspekt"
-      },
       {
         "n": "SPINEE",
         "s": "2026-01-31T00:00:00Z",
@@ -118,9 +99,9 @@
         "n": "MINAYO W/ RUTH TAFÉBÉ (R)",
         "s": "2026-01-31T14:00:00Z",
         "e": "2026-01-31T15:00:00Z",
-        "d": null,
+        "d": "Explorations in music from Ruth Tafébé a.k.a The Afrosoulmessenger.",
         "j": "RUTH TAFÉBÉ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ruth-tafebe/episodes/ruth-tafebe-10th-april-2025",
         "t": "restream"
       },
       {
@@ -252,27 +233,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Radiant Life w/ Ruby Savage",
+        "s": "2026-02-01T10:00:00Z",
+        "e": "2026-02-01T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Maxine Funke",
-        "s": "2026-01-30T22:00:00Z",
-        "e": "2026-01-30T23:00:00Z",
-        "d": "NZ avant-folk artist Maxine Funke returns to NTS, helping mark the release of her new record “Timeless Town”, playing a suite of meditative folk and original recordings. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/maxine-funke-30th-january-2026"
-      },
-      {
-        "n": "Circle Packing w/ Occo (R)",
-        "s": "2026-01-30T23:00:00Z",
-        "e": "2026-01-31T00:00:00Z",
-        "d": "Explorations in everything from krautrock and dub to jungle and techno once a month. ",
-        "j": "Occo",
-        "u": "https://www.nts.live/api/v2/shows/occo/episodes/occo-12th-august-2025",
-        "t": "restream",
-        "p": "circle"
-      },
       {
         "n": "SACRED SPACE W/ RADHA",
         "s": "2026-01-31T00:00:00Z",
@@ -366,28 +337,28 @@
         "n": "FELISHA ledesma",
         "s": "2026-01-31T12:00:00Z",
         "e": "2026-01-31T13:00:00Z",
-        "d": null,
+        "d": "A monthly collection of blurred collage, aural experiments, and tonal in-betweens with sound artist and musician Felisha Ledesma.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/felisha-ledesma/episodes/felisha-ledesma-31st-january-2026",
+        "t": "monthly",
         "p": "felishaledesma"
       },
       {
         "n": "OKKYUNG LEE (R)",
         "s": "2026-01-31T13:00:00Z",
         "e": "2026-01-31T14:00:00Z",
-        "d": null,
+        "d": "Cellist and adventurous noise maker Okkyung Lee takes over the airwaves in a guest transmission. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/okkyung-lee-12th-october-2020",
         "t": "restream"
       },
       {
-        "n": "CHARLIE SATSUMAS",
+        "n": "SATSUMAS w/ fanta shandy & Curly Waters",
         "s": "2026-01-31T14:00:00Z",
         "e": "2026-01-31T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "charliesatsumas"
+        "u": null
       },
       {
         "n": "DUST TO DUST - NTS GUIDE TO AMBIENT AMERICANA VOL. 2 (R)",
@@ -508,18 +479,27 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-01-30T00:00:00Z",
-        "e": "2026-01-31T00:00:00Z",
+        "n": "DOLLAR COUNTRY (R)",
+        "s": "2026-02-01T07:00:00Z",
+        "e": "2026-02-01T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream"
       },
+      {
+        "n": "TINNAI W/ GANAVYA (R)",
+        "s": "2026-02-01T08:00:00Z",
+        "e": "2026-02-01T09:00:00Z",
+        "d": null,
+        "j": "GANAVYA",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-01-31T00:00:00Z",
@@ -1292,17 +1272,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DIASPORA with Ben Fitzperc",
+        "s": "2026-02-05T11:00:00Z",
+        "e": "2026-02-05T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Arriba",
+        "s": "2026-02-05T12:00:00Z",
+        "e": "2026-02-05T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Max Koerner-Imas – guest session",
-        "s": "2026-01-30T22:00:00Z",
-        "e": "2026-01-31T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Lionmilk – lets go on a walk, you and me, to a tree",
         "s": "2026-01-31T00:00:00Z",
@@ -1350,6 +1340,15 @@
         "n": "sounds of NOW",
         "s": "2026-01-31T12:00:00Z",
         "e": "2026-01-31T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-01-31T14:00:00Z",
+        "e": "2026-01-31T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1796,26 +1795,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Silva Bumpa",
-        "s": "2026-01-30T22:00:00Z",
-        "e": "2026-01-30T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "silvabumpa"
-      },
-      {
-        "n": "Jossy Mitsu",
-        "s": "2026-01-30T23:00:00Z",
-        "e": "2026-01-31T00:00:00Z",
-        "d": null,
-        "j": "Garage Special (2023)",
-        "u": null,
-        "t": "biweekly",
-        "p": "jossymitsu"
-      },
       {
         "n": "Stones Taro",
         "s": "2026-01-31T00:00:00Z",
