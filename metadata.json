@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-01-31T20:16:12.551Z",
+  "updated": "2026-01-31T22:14:14.773Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Nāda Sonic w/ Sway Of The Verses",
-        "s": "2026-01-31T08:00:00Z",
-        "e": "2026-01-31T10:00:00Z",
-        "d": "Take a journey into Raga and Tala based music, and find out the intricacies of this ever evolving ancient musical tradition as we weave our way though musicians, instruments, ragas and time-cycles.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sway-of-the-verses/episodes/sway-of-the-verses-31st-january-2026"
-      },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-01-31T10:00:00Z",
@@ -107,9 +99,10 @@
         "n": "NITETRAX",
         "s": "2026-02-01T00:00:00Z",
         "e": "2026-02-01T01:00:00Z",
-        "d": null,
+        "d": "Nitetrax presents an exploratory range of club music every month, from classic and forgotten trax by the pioneers, to front line mutations by the innovators of today.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nitetrax/episodes/nitetrax-1st-february-2026",
+        "t": "monthly",
         "p": "nitetrax"
       },
       {
@@ -240,18 +233,19 @@
         "j": "TEMI KOGBE",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "ZEL ZELE W/ DEBORA IPEKEL & ECE DUZGIT (R)",
+        "s": "2026-02-01T20:03:00Z",
+        "e": "2026-02-01T21:00:00Z",
+        "d": null,
+        "j": "DEBORA IPEKEL & ECE DUZGIT",
+        "u": null,
+        "t": "restream",
+        "p": "zelzele"
       }
     ],
     "nts2": [
-      {
-        "n": "Mint Condition (R)",
-        "s": "2026-01-31T08:00:00Z",
-        "e": "2026-01-31T10:00:00Z",
-        "d": "A state of mind more than a grading scale, Mint Condition journeys deep into an abyss of new, classic, and obscure 12\" and 7\" records - with a focus toward high-end boogie, disco, two step, sweet soul, italo, house and modern funk.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mint-condition/episodes/mint-condition-2nd-august-2021",
-        "t": "restream"
-      },
       {
         "n": "Leila Samir (R)",
         "s": "2026-01-31T10:00:00Z",
@@ -357,18 +351,18 @@
         "n": "KIM LANA (R)",
         "s": "2026-01-31T22:00:00Z",
         "e": "2026-02-01T00:00:00Z",
-        "d": null,
+        "d": "Todmorden's finest, Kim Lana joins us in the Manchester studio once a month for 2 hours of bumping and pumping golden era house & techno.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kim-lana/episodes/kim-lana-6th-september-2025",
         "t": "restream"
       },
       {
         "n": "FRANCHISE RADIO (R)",
         "s": "2026-02-01T00:00:00Z",
         "e": "2026-02-01T01:00:00Z",
-        "d": null,
+        "d": "Los Angeles creative hub Franchise Magazine share what they've been listening to. Hip hop, psychedelic trap, deep house and footwork: LA culture through and through. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/franchise-radio/episodes/franchise-radio-15th-may-2020",
         "t": "restream"
       },
       {
@@ -494,6 +488,24 @@
         "e": "2026-02-01T18:00:00Z",
         "d": null,
         "j": "CHILE SINTÉTICA (1983-1993)",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "THE ULINE CATALOG W/ CALVIN LECOMPTE (R)",
+        "s": "2026-02-01T18:00:00Z",
+        "e": "2026-02-01T19:00:00Z",
+        "d": null,
+        "j": "CALVIN LECOMPTE",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "A CHARLES MINGUS SPECIAL: THE EARLY YEARS 1945 - 1962 (R)",
+        "s": "2026-02-01T19:00:00Z",
+        "e": "2026-02-01T21:00:00Z",
+        "d": null,
+        "j": "THE EARLY YEARS 1945 - 1962",
         "u": null,
         "t": "restream"
       }
@@ -1370,18 +1382,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "J:Kenzo ",
+        "s": "2026-02-05T21:00:00Z",
+        "e": "2026-02-05T23:00:00Z",
+        "d": "J:KENZO is a producer and record label owner (Artikal Music & Lion Charge) from the UK. Known for his minimalistic dark tribal sound in the both the dubstep and drum and bass scenes since 2006. ",
+        "j": "Kenzo",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-01-31T08:00:00Z",
-        "e": "2026-01-31T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-01-31T10:00:00Z",
@@ -1876,18 +1888,19 @@
         "u": null,
         "t": "weekly",
         "p": "jimmytamborello"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-01-31T07:00:00Z",
-        "e": "2026-01-31T09:00:00Z",
+        "n": "Deepbody – Digi Drift",
+        "s": "2026-02-05T22:00:00Z",
+        "e": "2026-02-06T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "deepbody"
+      }
+    ],
+    "rinse": [
       {
         "n": "The Rinse Breakfast Show",
         "s": "2026-01-31T09:00:00Z",
