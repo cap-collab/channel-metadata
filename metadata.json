@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-01T08:22:37.866Z",
+  "updated": "2026-02-01T10:17:12.323Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FIELD WORK",
-        "s": "2026-01-31T20:00:00Z",
-        "e": "2026-01-31T22:00:00Z",
-        "d": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com.\nFrom the host: \"The first Field Work show of the 2026 is the second in a 'winter rest' series of programmes, drawing on experimental, drone and ambient.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fieldwork/episodes/fieldwork-31st-january-2026",
-        "t": "monthly"
-      },
       {
         "n": "MUSIC TO EASE YOUR DISEASE",
         "s": "2026-01-31T22:00:00Z",
@@ -96,17 +87,17 @@
         "n": "Radiant Life w/ Ruby Savage",
         "s": "2026-02-01T10:00:00Z",
         "e": "2026-02-01T12:00:00Z",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests"
       },
       {
         "n": "HOUSE CALL",
         "s": "2026-02-01T12:00:00Z",
         "e": "2026-02-01T13:00:00Z",
-        "d": null,
+        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-1st-february-2026",
         "t": "biweekly"
       },
       {
@@ -226,29 +217,36 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Le Jardin w/ Sarah Davachi (R)",
+        "s": "2026-02-02T06:00:00Z",
+        "e": "2026-02-02T07:00:00Z",
+        "d": null,
+        "j": "Sarah Davachi",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
+        "s": "2026-02-02T07:00:00Z",
+        "e": "2026-02-02T09:00:00Z",
+        "d": null,
+        "j": "MARIA SOMERVILLE",
+        "u": null,
+        "t": "weekly",
+        "p": "mariasomerville"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ Pam",
+        "s": "2026-02-02T09:00:00Z",
+        "e": "2026-02-02T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "FUSION BATCHES W/ DJ MORSE CODE (R)",
-        "s": "2026-01-31T20:00:00Z",
-        "e": "2026-01-31T21:00:00Z",
-        "d": "consisting of all recent digs, summer 2025",
-        "j": "DJ MORSE CODE",
-        "u": "https://www.nts.live/api/v2/shows/fusion-batches/episodes/fusion-batches-5th-august-2025",
-        "t": "restream",
-        "p": "fusionbatches"
-      },
-      {
-        "n": "DANCE MUSIC SHOW W/ BELL TOWERS - ITALO DISCO SPECIAL (R)",
-        "s": "2026-01-31T21:00:00Z",
-        "e": "2026-01-31T22:00:00Z",
-        "d": "Prolific producer + DJ from Melbourne, Australia - Bell Towers presents his Dance Music Show.",
-        "j": "BELL TOWERS",
-        "u": "https://www.nts.live/api/v2/shows/bell-towers/episodes/dance-music-show-14th-july-2020",
-        "t": "restream",
-        "p": "belltowers"
-      },
       {
         "n": "KIM LANA (R)",
         "s": "2026-01-31T22:00:00Z",
@@ -346,18 +344,18 @@
         "n": "DEATH IS NOT THE END - CLASSICAL GUITAR SPECIAL (R)",
         "s": "2026-02-01T10:00:00Z",
         "e": "2026-02-01T12:00:00Z",
-        "d": null,
+        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.",
         "j": "CLASSICAL GUITAR SPECIAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-8th-june-2025",
         "t": "restream"
       },
       {
         "n": "THE WINDMILLS OF YOUR MIND W/ TAYLOR ROWLEY (R)",
         "s": "2026-02-01T12:00:00Z",
         "e": "2026-02-01T13:00:00Z",
-        "d": null,
+        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures. ",
         "j": "TAYLOR ROWLEY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-1st-october-2025",
         "t": "restream"
       },
       {
@@ -485,28 +483,27 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "YOSHIMIO (R)",
+        "s": "2026-02-02T06:00:00Z",
+        "e": "2026-02-02T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "SIGOURNEY (R)",
+        "s": "2026-02-02T07:00:00Z",
+        "e": "2026-02-02T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Kid Contra",
-        "s": "2026-01-31T20:00:00Z",
-        "e": "2026-01-31T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "kidcontra"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-01-31T21:00:00Z",
-        "e": "2026-01-31T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Lava Swirl",
         "s": "2026-01-31T22:00:00Z",
@@ -1377,18 +1374,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Since 2016: Jen Ferrer — Fish Whistle",
-        "s": "2026-01-31T20:00:00Z",
-        "e": "2026-01-31T22:00:00Z",
+        "n": "L.J. Violet",
+        "s": "2026-02-06T09:00:00Z",
+        "e": "2026-02-06T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "jenferrer"
+        "t": "monthly",
+        "p": "violet"
       },
+      {
+        "n": "Mid Morning Matters w/ Alfie Danger",
+        "s": "2026-02-06T10:00:00Z",
+        "e": "2026-02-06T11:00:00Z",
+        "d": null,
+        "j": "Alfie Danger",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "DJ Lady C — Rare Air",
         "s": "2026-01-31T22:00:00Z",
@@ -1437,6 +1444,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-01T09:45:00Z",
         "e": "2026-02-01T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-01T12:00:00Z",
+        "e": "2026-02-01T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1873,25 +1889,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "p-rallel",
-        "s": "2026-01-31T19:00:00Z",
-        "e": "2026-01-31T21:00:00Z",
-        "d": null,
-        "j": "ODF",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Oblig",
-        "s": "2026-01-31T20:00:00Z",
-        "e": "2026-01-31T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "oblig"
-      },
       {
         "n": "Logan Sama with Rude Kid and Teddy",
         "s": "2026-01-31T21:00:00Z",
