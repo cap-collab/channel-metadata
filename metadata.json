@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-01T12:30:19.108Z",
+  "updated": "2026-02-01T14:18:27.904Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NITETRAX",
-        "s": "2026-02-01T00:00:00Z",
-        "e": "2026-02-01T01:00:00Z",
-        "d": "Nitetrax presents an exploratory range of club music every month, from classic and forgotten trax by the pioneers, to front line mutations by the innovators of today.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nitetrax/episodes/nitetrax-1st-february-2026",
-        "t": "monthly",
-        "p": "nitetrax"
-      },
-      {
-        "n": "FOODMAN",
-        "s": "2026-02-01T01:00:00Z",
-        "e": "2026-02-01T02:00:00Z",
-        "d": "食品まつり a.k.a foodman a.k.a Takahide Higuchi is a footwork scholar of far-ranging and extensive tastes. Enter at your own peril. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/foodman/episodes/foodman-1st-january-2026",
-        "p": "foodman"
-      },
       {
         "n": "DONNA LEAKE (R)",
         "s": "2026-02-01T02:00:00Z",
@@ -106,9 +87,9 @@
         "n": "PARADISE BANGKOK",
         "s": "2026-02-01T15:00:00Z",
         "e": "2026-02-01T16:00:00Z",
-        "d": null,
+        "d": "Chris Menist’s Paradise Bangkok label hits the NTS airwaves for a rundown of the best folk music from Africa, Indonesia and more. Reggae and Jazz rub shoulders with Gamalan as Menist uncovers classics; folk music without borders.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/paradise-bangkok/episodes/paradise-bangkok-1st-february-2026",
         "p": "paradise"
       },
       {
@@ -246,28 +227,17 @@
         "j": "John Gómez",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Raisa K",
+        "s": "2026-02-02T13:00:00Z",
+        "e": "2026-02-02T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "FRANCHISE RADIO (R)",
-        "s": "2026-02-01T00:00:00Z",
-        "e": "2026-02-01T01:00:00Z",
-        "d": "Los Angeles creative hub Franchise Magazine share what they've been listening to. Hip hop, psychedelic trap, deep house and footwork: LA culture through and through. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/franchise-radio/episodes/franchise-radio-15th-may-2020",
-        "t": "restream"
-      },
-      {
-        "n": "PURE W/ GRAND VOYAGE (R)",
-        "s": "2026-02-01T01:00:00Z",
-        "e": "2026-02-01T02:00:00Z",
-        "d": "El sol desapareciendo en el horizonte.\nPURE at Café Del Mar, Ibiza. Music for sunsets, directed by Evian Christ and Slam Jam.",
-        "j": "GRAND VOYAGE",
-        "u": "https://www.nts.live/api/v2/shows/pure/episodes/pure-grand-voyage-12th-september-2025",
-        "t": "restream",
-        "p": "pure"
-      },
       {
         "n": "GABRIELLE KWARTENG (R)",
         "s": "2026-02-01T02:00:00Z",
@@ -364,9 +334,9 @@
         "n": "DAGMAR ZUNIGA (R)",
         "s": "2026-02-01T15:00:00Z",
         "e": "2026-02-01T16:02:00Z",
-        "d": null,
+        "d": "Texas-based lo-fi pop artist Dagmar Zuniga presents an hour of selections and inspirations on NTS, following the release of her sprawling, phantasmal longplayer ‘in filth your mystery is kingdom / far smile peasant in yellow music’.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dagmar-zuniga-13th-march-2025",
         "t": "restream"
       },
       {
@@ -503,27 +473,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "SOS Radio (R)",
+        "s": "2026-02-02T09:00:00Z",
+        "e": "2026-02-02T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Dread or Dead Records",
-        "s": "2026-02-01T00:00:00Z",
-        "e": "2026-02-01T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Phoebe's Playlist",
-        "s": "2026-02-01T01:00:00Z",
-        "e": "2026-02-01T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Polar Dance w/Winter Games",
         "s": "2026-02-01T02:00:00Z",
@@ -1404,18 +1365,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Since 2016: Zebulon FMR w/ guest Byron Westbrook — Radio Zebulon ",
-        "s": "2026-02-01T00:00:00Z",
-        "e": "2026-02-01T02:00:00Z",
+        "n": "The Hybrid House Show",
+        "s": "2026-02-06T13:00:00Z",
+        "e": "2026-02-06T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "byronwestbrook"
+        "t": "monthly"
       },
+      {
+        "n": "Taking the Peel w/ Badly Drawn Banana",
+        "s": "2026-02-06T14:00:00Z",
+        "e": "2026-02-06T15:00:00Z",
+        "d": null,
+        "j": "Badly Drawn Banana",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Since 2016: Jennifer Herrema — The Banana Question",
         "s": "2026-02-01T02:00:00Z",
@@ -1892,26 +1862,6 @@
     ],
     "rinse": [
       {
-        "n": "shekdash",
-        "s": "2026-02-01T00:00:00Z",
-        "e": "2026-02-01T01:00:00Z",
-        "d": null,
-        "j": "RHYTHM IS THE ANSWER",
-        "u": null,
-        "t": "monthly",
-        "p": "shekdash"
-      },
-      {
-        "n": "Pugilist",
-        "s": "2026-02-01T01:00:00Z",
-        "e": "2026-02-01T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "pugilist"
-      },
-      {
         "n": "Will Hofbauer & Sangre Voss",
         "s": "2026-02-01T02:00:00Z",
         "e": "2026-02-01T03:00:00Z",
@@ -2147,7 +2097,7 @@
         "s": "2026-02-02T12:00:00Z",
         "e": "2026-02-02T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Hits On the Horizon + Hidden Gems",
         "u": null,
         "t": "weekly",
         "p": "niallsmith"
@@ -2225,7 +2175,7 @@
         "s": "2026-02-02T23:00:00Z",
         "e": "2026-02-03T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "BLOQO",
         "u": null,
         "t": "biweekly",
         "p": "djpolo"
