@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-01T23:45:01.710Z",
+  "updated": "2026-02-02T01:19:09.719Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Radiant Life w/ Ruby Savage",
-        "s": "2026-02-01T10:00:00Z",
-        "e": "2026-02-01T12:00:00Z",
-        "d": "Special guest shows from around the world.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests"
-      },
-      {
-        "n": "HOUSE CALL",
-        "s": "2026-02-01T12:00:00Z",
-        "e": "2026-02-01T13:00:00Z",
-        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-1st-february-2026",
-        "t": "biweekly"
-      },
       {
         "n": "DOING TIME W/ NAHIDA",
         "s": "2026-02-01T13:00:00Z",
@@ -118,9 +101,9 @@
         "n": "150 Session (R)",
         "s": "2026-02-02T02:00:00Z",
         "e": "2026-02-02T03:00:00Z",
-        "d": null,
+        "d": "“I start associating your voice with ….”, for a while ML has been part of the NTS community, jingling around, airing his monthly 150 Session out of Berlin’s North, where all seasons give reasons. For clarification, creation, inspiration. One hour of poetic and musical explorations, questions, and curiosities. Circling around daring electronics, ethno-sonics, jazz-constructivism, minimalism, open structured digital dopamine, risky dub excitement and other sounds, that still need to be written. No country, no flag – outernational without a cause!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/150session/episodes/150session-6th-november-2023",
         "t": "restream"
       },
       {
@@ -255,27 +238,17 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SILICA GEL w/ Kim Geonjay",
+        "s": "2026-02-03T02:00:00Z",
+        "e": "2026-02-03T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "DEATH IS NOT THE END - CLASSICAL GUITAR SPECIAL (R)",
-        "s": "2026-02-01T10:00:00Z",
-        "e": "2026-02-01T12:00:00Z",
-        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.",
-        "j": "CLASSICAL GUITAR SPECIAL",
-        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-8th-june-2025",
-        "t": "restream"
-      },
-      {
-        "n": "THE WINDMILLS OF YOUR MIND W/ TAYLOR ROWLEY (R)",
-        "s": "2026-02-01T12:00:00Z",
-        "e": "2026-02-01T13:00:00Z",
-        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures. ",
-        "j": "TAYLOR ROWLEY",
-        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-1st-october-2025",
-        "t": "restream"
-      },
       {
         "n": "AN IBEX BAND SPECIAL: THE ROHA BAND YEARS (R)",
         "s": "2026-02-01T13:00:00Z",
@@ -361,18 +334,18 @@
         "n": "ABBY IMPERIAL (R)",
         "s": "2026-02-02T01:00:00Z",
         "e": "2026-02-02T02:00:00Z",
-        "d": null,
+        "d": "A Joyful Praise mix with 90s Gospel New Jack Swing, Rnb, & Hiphop.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abby-imperial/episodes/abby-imperial-29th-july-2025",
         "t": "restream"
       },
       {
         "n": "Sameed (R)",
         "s": "2026-02-02T02:00:00Z",
         "e": "2026-02-02T03:00:00Z",
-        "d": null,
+        "d": "Manchester DJ Sameed plays a selection of tracks sampled by various hip hop artists.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sameed/episodes/sameed-big-pun-samples-9th-october-2019",
         "t": "restream"
       },
       {
@@ -495,27 +468,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Mood Shift w/ ANIKA",
-        "s": "2026-02-01T11:00:00Z",
-        "e": "2026-02-01T12:00:00Z",
-        "d": null,
-        "j": "ANIKA",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "TAMA",
-        "s": "2026-02-01T12:00:00Z",
-        "e": "2026-02-01T13:00:00Z",
+        "n": "DRAWING DOORS w/ OURI",
+        "s": "2026-02-02T19:00:00Z",
+        "e": "2026-02-02T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "ouri"
       },
+      {
+        "n": "VALENCIA HOUSE W/ YEEK",
+        "s": "2026-02-02T20:00:00Z",
+        "e": "2026-02-02T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Aloona",
         "s": "2026-02-01T13:00:00Z",
@@ -1676,27 +1648,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Moonpie",
+        "s": "2026-02-09T00:00:00Z",
+        "e": "2026-02-09T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "CYBER1A",
+        "s": "2026-02-09T01:00:00Z",
+        "e": "2026-02-09T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-01T09:45:00Z",
-        "e": "2026-02-01T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-01T12:00:00Z",
-        "e": "2026-02-01T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "djjs",
         "s": "2026-02-01T13:00:00Z",
@@ -2350,29 +2322,19 @@
         "u": null,
         "t": "monthly",
         "p": "gfunktrece"
+      },
+      {
+        "n": "DJ Lady C - Rare Air",
+        "s": "2026-02-09T00:00:00Z",
+        "e": "2026-02-09T02:00:00Z",
+        "d": null,
+        "j": "Rare Air",
+        "u": null,
+        "t": "monthly",
+        "p": "djladyc"
       }
     ],
     "rinse": [
-      {
-        "n": "Russ Ryan",
-        "s": "2026-02-01T11:00:00Z",
-        "e": "2026-02-01T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "russryan"
-      },
-      {
-        "n": "Niall Smith",
-        "s": "2026-02-01T12:00:00Z",
-        "e": "2026-02-01T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "niallsmith"
-      },
       {
         "n": "CoOp Presents",
         "s": "2026-02-01T13:00:00Z",
@@ -2409,7 +2371,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Oneman",
@@ -2457,7 +2419,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "nancyjune"
       },
       {
@@ -2623,18 +2585,181 @@
         "u": null,
         "t": "biweekly",
         "p": "djpolo"
-      }
-    ],
-    "rinsefr": [
+      },
       {
-        "n": "Playlist France",
-        "s": "2026-02-01T11:00:00Z",
-        "e": "2026-02-01T13:00:00Z",
+        "n": "Well Street Records",
+        "s": "2026-02-03T00:00:00Z",
+        "e": "2026-02-03T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "OSSX",
+        "s": "2026-02-03T01:00:00Z",
+        "e": "2026-02-03T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "ossx"
+      },
+      {
+        "n": "Nancy June",
+        "s": "2026-02-03T02:00:00Z",
+        "e": "2026-02-03T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "nancyjune"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-02-03T03:00:00Z",
+        "e": "2026-02-03T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
+      {
+        "n": "Flashy Sillah",
+        "s": "2026-02-03T06:00:00Z",
+        "e": "2026-02-03T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-02-03T07:00:00Z",
+        "e": "2026-02-03T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Papaoul",
+        "s": "2026-02-03T09:00:00Z",
+        "e": "2026-02-03T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Bel Cobain",
+        "s": "2026-02-03T11:00:00Z",
+        "e": "2026-02-03T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Ed Gillett",
+        "s": "2026-02-03T12:00:00Z",
+        "e": "2026-02-03T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Suzie Bakos",
+        "s": "2026-02-03T13:00:00Z",
+        "e": "2026-02-03T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "LILA",
+        "s": "2026-02-03T14:00:00Z",
+        "e": "2026-02-03T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "lila"
+      },
+      {
+        "n": "Brighter Days Family",
+        "s": "2026-02-03T15:00:00Z",
+        "e": "2026-02-03T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "brighterdaysfamily"
+      },
+      {
+        "n": "Talina",
+        "s": "2026-02-03T17:00:00Z",
+        "e": "2026-02-03T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular",
+        "p": "talina"
+      },
+      {
+        "n": "Prozak",
+        "s": "2026-02-03T18:00:00Z",
+        "e": "2026-02-03T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "prozak"
+      },
+      {
+        "n": "Ploy",
+        "s": "2026-02-03T19:00:00Z",
+        "e": "2026-02-03T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "ploy"
+      },
+      {
+        "n": "DJ Lag",
+        "s": "2026-02-03T20:00:00Z",
+        "e": "2026-02-03T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "djlag"
+      },
+      {
+        "n": "Surusinghe",
+        "s": "2026-02-03T22:00:00Z",
+        "e": "2026-02-03T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "surusinghe"
+      },
+      {
+        "n": "Kassian",
+        "s": "2026-02-03T23:00:00Z",
+        "e": "2026-02-04T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "kassian"
+      }
+    ],
+    "rinsefr": [
       {
         "n": "Aho Ssan",
         "s": "2026-02-01T13:00:00Z",
@@ -2642,7 +2767,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Roman Delore",
@@ -2651,7 +2776,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "romandelore"
       },
       {
@@ -2661,7 +2785,7 @@
         "d": null,
         "j": "PRÉSENTE ATAY TIME AVEC HABIBITCH",
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Rythme Brisé",
@@ -2670,7 +2794,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Bambi",
@@ -2679,7 +2803,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "bambi"
       },
       {
@@ -2699,12 +2823,21 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Playlist France",
         "s": "2026-02-01T20:00:00Z",
-        "e": "2026-02-01T21:00:00Z",
+        "e": "2026-02-01T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-01T23:00:00Z",
+        "e": "2026-02-02T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2713,15 +2846,6 @@
       {
         "n": "Playlist France",
         "s": "2026-02-02T08:00:00Z",
-        "e": "2026-02-02T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-02-02T11:00:00Z",
         "e": "2026-02-02T13:00:00Z",
         "d": null,
         "j": null,
@@ -2729,70 +2853,68 @@
         "t": "playlist"
       },
       {
-        "n": "Aho Ssan",
+        "n": "Lysiane N.",
         "s": "2026-02-02T13:00:00Z",
         "e": "2026-02-02T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Roman Delore",
-        "s": "2026-02-02T14:00:00Z",
-        "e": "2026-02-02T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "romandelore",
         "t": "monthly"
       },
       {
-        "n": "Glitter55",
+        "n": "Izzy Lindqwister",
+        "s": "2026-02-02T14:00:00Z",
+        "e": "2026-02-02T15:00:00Z",
+        "d": null,
+        "j": "Licence To Weed",
+        "u": null,
+        "t": "monthly",
+        "p": "izzylindqwister"
+      },
+      {
+        "n": "Roi Luis",
         "s": "2026-02-02T15:00:00Z",
         "e": "2026-02-02T16:00:00Z",
         "d": null,
-        "j": "PRÉSENTE ATAY TIME AVEC HABIBITCH",
+        "j": null,
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "Rythme Brisé",
+        "n": "restonsflex",
         "s": "2026-02-02T16:00:00Z",
         "e": "2026-02-02T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite Mezzer",
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "Bambi",
+        "n": "renoiterrible",
         "s": "2026-02-02T17:00:00Z",
         "e": "2026-02-02T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "& Miss Sheitana",
         "u": null,
-        "t": "biweekly",
-        "p": "bambi"
+        "t": "monthly"
       },
       {
-        "n": "Hewan Aman",
+        "n": "Amor Satyr",
         "s": "2026-02-02T18:00:00Z",
         "e": "2026-02-02T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "hewanaman"
+        "p": "amorsatyr"
       },
       {
-        "n": "HALFPIPE RECORDS",
+        "n": "Playlist France",
         "s": "2026-02-02T19:00:00Z",
         "e": "2026-02-02T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "playlist"
       },
       {
         "n": "Playlist France",
