@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-02T01:19:09.719Z",
+  "updated": "2026-02-02T04:15:22.300Z",
   "stations": {
     "nts1": [
-      {
-        "n": "DOING TIME W/ NAHIDA",
-        "s": "2026-02-01T13:00:00Z",
-        "e": "2026-02-01T15:00:00Z",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": "NAHIDA",
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-1st-february-2026",
-        "t": "monthly",
-        "p": "doingtime"
-      },
-      {
-        "n": "PARADISE BANGKOK",
-        "s": "2026-02-01T15:00:00Z",
-        "e": "2026-02-01T16:00:00Z",
-        "d": "Chris Menist’s Paradise Bangkok label hits the NTS airwaves for a rundown of the best folk music from Africa, Indonesia and more. Reggae and Jazz rub shoulders with Gamalan as Menist uncovers classics; folk music without borders.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/paradise-bangkok/episodes/paradise-bangkok-1st-february-2026",
-        "p": "paradise"
-      },
       {
         "n": "Khartoum Arrivals w/ Basma",
         "s": "2026-02-01T16:00:00Z",
@@ -110,18 +91,18 @@
         "n": "Carolina Soul (R)",
         "s": "2026-02-02T03:00:00Z",
         "e": "2026-02-02T05:00:00Z",
-        "d": null,
+        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-4th-march-2022",
         "t": "restream"
       },
       {
         "n": "ADULTZ ONLY (R)",
         "s": "2026-02-02T05:00:00Z",
         "e": "2026-02-02T06:00:00Z",
-        "d": null,
+        "d": "A lovers selection strictly for the adultz, courtesy of Norman Francis - the man behind lovers rock archive The Revival Master.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/adultz-only/episodes/adultz-only-2nd-july-2024",
         "t": "restream"
       },
       {
@@ -131,7 +112,8 @@
         "d": null,
         "j": "Sarah Davachi",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "sarahdavachi"
       },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE (R)",
@@ -166,7 +148,8 @@
         "e": "2026-02-02T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "raisak"
       },
       {
         "n": "TILLY",
@@ -175,7 +158,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "tilly"
       },
       {
         "n": "WATHÉČA RADIO W/ JUSTIS BROKENROPE",
@@ -219,7 +203,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "desmond"
+        "p": "cherrystones"
       },
       {
         "n": "GRIBS",
@@ -228,7 +212,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "gribs"
       },
       {
         "n": "SHAMOS",
@@ -237,7 +222,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "shamos"
       },
       {
         "n": "SILICA GEL w/ Kim Geonjay",
@@ -245,28 +231,30 @@
         "e": "2026-02-03T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "silicagel"
+      },
+      {
+        "n": "5 GATE TEMPLE (R)",
+        "s": "2026-02-03T03:00:00Z",
+        "e": "2026-02-03T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "WAVE FORM W/ AURÉLIEN ARBET & PIERRE ROUSSEAU (R)",
+        "s": "2026-02-03T05:00:00Z",
+        "e": "2026-02-03T06:00:00Z",
+        "d": null,
+        "j": "AURÉLIEN ARBET & PIERRE ROUSSEAU",
+        "u": null,
+        "t": "restream",
+        "p": "waveform"
       }
     ],
     "nts2": [
-      {
-        "n": "AN IBEX BAND SPECIAL: THE ROHA BAND YEARS (R)",
-        "s": "2026-02-01T13:00:00Z",
-        "e": "2026-02-01T15:00:00Z",
-        "d": "The legendary Ibex Band - later known as the iconic Roha Band - played a key role in shaping Ethiopian music from the mid-1970s onward. Though hugely influential, their legacy remains underrecognised. In this special episode, NTS presents a two hour deep dive into their catalogue, tracing their evolution and showcasing rare, overlooked tracks from their archive. Join us as we celebrate the musicians behind the music and explore their lasting cultural impact. \nSpecial thanks to John Henriksson, Johan Egerbladh Eurenius, Muzikawi and Zuret Addis.\nImage courtesy of Selam Seyoum Woldemariam.",
-        "j": "THE ROHA BAND YEARS",
-        "u": "https://www.nts.live/api/v2/shows/an-ibex-band-special/episodes/an-ibex-band-special-the-roha-band-years-8th-august-2025",
-        "t": "restream"
-      },
-      {
-        "n": "DAGMAR ZUNIGA (R)",
-        "s": "2026-02-01T15:00:00Z",
-        "e": "2026-02-01T16:02:00Z",
-        "d": "Texas-based lo-fi pop artist Dagmar Zuniga presents an hour of selections and inspirations on NTS, following the release of her sprawling, phantasmal longplayer ‘in filth your mystery is kingdom / far smile peasant in yellow music’.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dagmar-zuniga-13th-march-2025",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: WOMEN OF 60S & 70S FOLK (R)",
         "s": "2026-02-01T16:02:00Z",
@@ -361,18 +349,18 @@
         "n": "SOLAR DIN w/ Lý Trang (R)",
         "s": "2026-02-02T04:00:00Z",
         "e": "2026-02-02T05:00:00Z",
-        "d": null,
+        "d": "Hanoi producer Lý Trang presents an hour of vibrant noise.",
         "j": "Lý Trang",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ly-trang/episodes/ly-trang-28th-may-2025",
         "t": "restream"
       },
       {
         "n": "Antinote (R)",
         "s": "2026-02-02T05:00:00Z",
         "e": "2026-02-02T06:00:00Z",
-        "d": null,
+        "d": "Monthly sessions from Zaltan, the mind behind Paris-based leftfield dance, electronic & downtempo imprint Antinote, with occasional appearances from friends and artists on the label. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zaltan/episodes/zaltan-18th-april-2024",
         "t": "restream"
       },
       {
@@ -417,7 +405,8 @@
         "e": "2026-02-02T12:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "3xl"
       },
       {
         "n": "C.A.R. : ON THE SLIP ROAD",
@@ -442,7 +431,8 @@
         "e": "2026-02-02T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "cobysey"
       },
       {
         "n": "Helen Sun",
@@ -485,27 +475,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ALBA RADIO",
+        "s": "2026-02-02T21:00:00Z",
+        "e": "2026-02-02T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LIQUID MIRROR W/ OLIVE KIMOTO",
+        "s": "2026-02-02T22:00:00Z",
+        "e": "2026-02-02T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Diiv",
+        "s": "2026-02-02T23:00:00Z",
+        "e": "2026-02-03T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Aloona",
-        "s": "2026-02-01T13:00:00Z",
-        "e": "2026-02-01T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Robeare",
-        "s": "2026-02-01T14:00:00Z",
-        "e": "2026-02-01T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "ExtraSauce w/ eatmybeat",
         "s": "2026-02-01T15:00:00Z",
@@ -577,6 +573,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-02T03:00:00Z",
+        "e": "2026-02-02T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Sacha Kassy",
@@ -1666,18 +1671,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs",
-        "s": "2026-02-01T13:00:00Z",
-        "e": "2026-02-01T15:00:00Z",
+        "n": "Hikayat Bassita",
+        "s": "2026-02-09T02:00:00Z",
+        "e": "2026-02-09T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Minimal Mondays with Izzla",
+        "s": "2026-02-09T03:00:00Z",
+        "e": "2026-02-09T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "djjs 2",
         "s": "2026-02-01T15:00:00Z",
@@ -2332,28 +2345,29 @@
         "u": null,
         "t": "monthly",
         "p": "djladyc"
+      },
+      {
+        "n": "McAllister and Kyle Art Threat - Please and Thank You",
+        "s": "2026-02-09T02:00:00Z",
+        "e": "2026-02-09T04:00:00Z",
+        "d": null,
+        "j": "Please and Thank You",
+        "u": null,
+        "t": "monthly",
+        "p": "mcallisterandkyleartthreat"
+      },
+      {
+        "n": "DMM - Loosely Attached",
+        "s": "2026-02-09T04:00:00Z",
+        "e": "2026-02-09T06:00:00Z",
+        "d": null,
+        "j": "Loosely Attached",
+        "u": null,
+        "t": "monthly",
+        "p": "dmm"
       }
     ],
     "rinse": [
-      {
-        "n": "CoOp Presents",
-        "s": "2026-02-01T13:00:00Z",
-        "e": "2026-02-01T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Charles Green",
-        "s": "2026-02-01T14:00:00Z",
-        "e": "2026-02-01T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "charlesgreen"
-      },
       {
         "n": "Tribal Brothers",
         "s": "2026-02-01T15:00:00Z",
@@ -2760,33 +2774,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Aho Ssan",
-        "s": "2026-02-01T13:00:00Z",
-        "e": "2026-02-01T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Roman Delore",
-        "s": "2026-02-01T14:00:00Z",
-        "e": "2026-02-01T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "romandelore"
-      },
-      {
-        "n": "Glitter55",
-        "s": "2026-02-01T15:00:00Z",
-        "e": "2026-02-01T16:00:00Z",
-        "d": null,
-        "j": "PRÉSENTE ATAY TIME AVEC HABIBITCH",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Rythme Brisé",
         "s": "2026-02-01T16:00:00Z",
