@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-02T10:36:12.512Z",
+  "updated": "2026-02-02T12:38:10.490Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NOSEDRIP",
-        "s": "2026-02-01T22:00:00Z",
-        "e": "2026-02-02T00:00:00Z",
-        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-1st-february-2026",
-        "t": "monthly",
-        "p": "nosedrip"
-      },
       {
         "n": "Otologic (R)",
         "s": "2026-02-02T00:00:00Z",
@@ -90,9 +80,9 @@
         "n": "Raisa K",
         "s": "2026-02-02T13:00:00Z",
         "e": "2026-02-02T14:00:00Z",
-        "d": null,
+        "d": "The London songwriter, producer and musician shares a selection of favourites, influences, newly discovered music, and some of her own tunes, joined occasionally by friends and guests.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/raisa-k/episodes/raisa-k-2nd-february-2026",
         "p": "raisak"
       },
       {
@@ -104,6 +94,15 @@
         "u": null,
         "t": "monthly",
         "p": "tilly"
+      },
+      {
+        "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE (R)",
+        "s": "2026-02-02T15:00:00Z",
+        "e": "2026-02-02T16:00:00Z",
+        "d": null,
+        "j": "OUT OF VOGUE",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "WATHÉČA RADIO W/ JUSTIS BROKENROPE",
@@ -238,15 +237,6 @@
     ],
     "nts2": [
       {
-        "n": "A CHARLES MINGUS SPECIAL: THE LATER YEARS 1963 - 1978 (R)",
-        "s": "2026-02-01T22:00:00Z",
-        "e": "2026-02-02T00:00:00Z",
-        "d": "Celebrating the life and music of Charles Mingus – the American jazz composer, bassist, and bandleader, whose spellbinding technical command and continuous reinvention both changed the face of jazz, and allowed him to transcend it. ",
-        "j": "THE LATER YEARS 1963 - 1978",
-        "u": "https://www.nts.live/api/v2/shows/charles-mingus/episodes/charles-mingus-later-years-23rd-april-2024",
-        "t": "restream"
-      },
-      {
         "n": "No White Tees (R)",
         "s": "2026-02-02T00:00:00Z",
         "e": "2026-02-02T01:00:00Z",
@@ -349,21 +339,21 @@
         "n": "C.A.R. : ON THE SLIP ROAD",
         "s": "2026-02-02T12:00:00Z",
         "e": "2026-02-02T13:00:00Z",
-        "d": null,
+        "d": "A monthly, eclectic road-trip exploring old landmarks and new terrain.",
         "j": "ON THE SLIP ROAD",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/c-a-r/episodes/c-a-r-2nd-february-2026",
         "t": "monthly"
       },
       {
         "n": "WEAPONISE YOUR SOUND W/ DIET CLINIC",
         "s": "2026-02-02T13:00:00Z",
         "e": "2026-02-02T14:00:00Z",
-        "d": null,
+        "d": "diet clinic presents weaponise your sound.\nan ever evolving entity.\nweaponise your sound is a label with a focus on elevating female djs/ artist and supporters of. \nit is a reflection of our environment, sexuality and psyche. \naudio timestamped memories. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/diet-clinic/episodes/diet-clinic-2nd-february-2026"
       },
       {
-        "n": "COBY SEY",
+        "n": "COBY SEY presents Raven Bush: M2C",
         "s": "2026-02-02T14:00:00Z",
         "e": "2026-02-02T15:00:00Z",
         "d": null,
@@ -489,27 +479,28 @@
         "j": "Jeune Pouce",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Envelop",
-        "s": "2026-02-01T22:00:00Z",
-        "e": "2026-02-01T23:00:00Z",
+        "n": "Mishka  (R)",
+        "s": "2026-02-03T06:00:00Z",
+        "e": "2026-02-03T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream",
+        "p": "mishka"
       },
       {
-        "n": "Chacho",
-        "s": "2026-02-01T23:00:00Z",
-        "e": "2026-02-02T00:00:00Z",
-        "d": "As a drummer since childhood, Chacho has always had an insatiable appetite for new and unique beats.\r\nCombining his love of global percussion, dark grooves and deeper low end frequencies, \r\nhis sets feature a blend of dubstep, grime, garage, breaks, hip hop and other flavours from around the world.",
+        "n": "KISS CAFE (R)",
+        "s": "2026-02-03T07:00:00Z",
+        "e": "2026-02-03T08:00:00Z",
+        "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Bassment Sessions W/ CORD",
         "s": "2026-02-02T00:00:00Z",
@@ -1686,19 +1677,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Mas Exitos con Ganas",
-        "s": "2026-02-01T22:00:00Z",
-        "e": "2026-02-02T00:00:00Z",
+        "n": "syncop8",
+        "s": "2026-02-09T11:00:00Z",
+        "e": "2026-02-09T12:00:00Z",
+        "d": "ixxi and Fei take you on a percussive journey with their show syncop8, moving from downtempo ambient to breaks, polyrhythms, and high energy beats, exploring every rhythmic and textural nuance in between.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "lot five two",
+        "s": "2026-02-09T12:00:00Z",
+        "e": "2026-02-09T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "ganas"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Noir and Jae Drago - Juke Bounce Werk Radio",
         "s": "2026-02-02T00:00:00Z",
@@ -1760,6 +1759,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-02T12:00:00Z",
         "e": "2026-02-02T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-02T14:00:00Z",
+        "e": "2026-02-02T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2355,35 +2363,6 @@
     ],
     "rinse": [
       {
-        "n": "Logan Sama with Rude Kid and Teddy",
-        "s": "2026-02-01T21:00:00Z",
-        "e": "2026-02-01T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "logansama"
-      },
-      {
-        "n": "Ehua",
-        "s": "2026-02-01T22:00:00Z",
-        "e": "2026-02-01T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "ehua"
-      },
-      {
-        "n": "Nancy June",
-        "s": "2026-02-01T23:00:00Z",
-        "e": "2026-02-02T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "nancyjune"
-      },
-      {
         "n": "shekdash",
         "s": "2026-02-02T00:00:00Z",
         "e": "2026-02-02T01:00:00Z",
@@ -2494,7 +2473,7 @@
         "s": "2026-02-02T15:00:00Z",
         "e": "2026-02-02T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Paris Cesvette",
         "u": null,
         "t": "weekly"
       },
@@ -2723,15 +2702,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-02-01T20:00:00Z",
-        "e": "2026-02-01T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-02-01T23:00:00Z",
         "e": "2026-02-02T08:00:00Z",
         "d": null,
@@ -2762,7 +2732,7 @@
         "s": "2026-02-02T13:00:00Z",
         "e": "2026-02-02T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "ICO",
         "u": null,
         "t": "biweekly"
       },
@@ -2809,7 +2779,7 @@
         "s": "2026-02-02T18:00:00Z",
         "e": "2026-02-02T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Dub delights XXII with tactual (inesse & LFL)",
         "u": null,
         "t": "biweekly",
         "p": "hewanaman"
