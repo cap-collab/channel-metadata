@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-03T06:39:45.428Z",
+  "updated": "2026-02-03T08:28:03.471Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-02-02T18:00:00Z",
-        "e": "2026-02-02T20:00:00Z",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-2nd-february-2026"
-      },
       {
         "n": "Neroli Presents: The Second Circle w/ Volcov",
         "s": "2026-02-02T20:00:00Z",
@@ -100,9 +92,9 @@
         "n": "The NTS Breakfast Show w/ OK WILLIAMS",
         "s": "2026-02-03T09:00:00Z",
         "e": "2026-02-03T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-ok-williams-3rd-february-2026",
         "p": "okwilliams"
       },
       {
@@ -242,27 +234,18 @@
         "j": "SPIRIT BLUE",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ DARE BALOGUN",
+        "s": "2026-02-04T09:00:00Z",
+        "e": "2026-02-04T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "darebalogun"
       }
     ],
     "nts2": [
-      {
-        "n": "THE TRILOGY TAPES",
-        "s": "2026-02-02T17:00:00Z",
-        "e": "2026-02-02T19:00:00Z",
-        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-2nd-february-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "CLAIRE MILBRATH (R)",
-        "s": "2026-02-02T19:00:00Z",
-        "e": "2026-02-02T20:00:00Z",
-        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-15th-september-2025",
-        "t": "restream"
-      },
       {
         "n": "VALENCIA HOUSE W/ YEEK",
         "s": "2026-02-02T20:00:00Z",
@@ -375,18 +358,18 @@
         "n": "TUFF SHED (R)",
         "s": "2026-02-03T08:00:00Z",
         "e": "2026-02-03T10:00:00Z",
-        "d": null,
+        "d": "Special guest reedbriefcase playing the first hour.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-29th-july-2025",
         "t": "restream"
       },
       {
         "n": "AN1MA (R)",
         "s": "2026-02-03T10:00:00Z",
         "e": "2026-02-03T11:00:00Z",
-        "d": null,
+        "d": "integration sounds from the source; an invitation into the shadow.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-14th-july-2025",
         "t": "restream"
       },
       {
@@ -523,27 +506,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TRiNH (R)",
+        "s": "2026-02-04T06:00:00Z",
+        "e": "2026-02-04T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Underground Credentials",
-        "s": "2026-02-02T18:00:00Z",
-        "e": "2026-02-02T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "glosssd",
-        "s": "2026-02-02T19:00:00Z",
-        "e": "2026-02-02T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "JDubz",
         "s": "2026-02-02T20:00:00Z",
@@ -642,6 +616,15 @@
         "j": "Indiescotheque",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-03T08:00:00Z",
+        "e": "2026-02-03T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "TorbM",
@@ -1720,19 +1703,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sparring Sessions",
+        "s": "2026-02-10T07:00:00Z",
+        "e": "2026-02-10T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Breakfast Spoons w/ Boruch",
+        "s": "2026-02-10T08:00:00Z",
+        "e": "2026-02-10T09:00:00Z",
+        "d": null,
+        "j": "Boruch",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-02-02T18:00:00Z",
-        "e": "2026-02-02T20:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
       {
         "n": "LUPE - RECENTS",
         "s": "2026-02-02T20:00:00Z",
@@ -1805,6 +1796,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-03T08:00:00Z",
         "e": "2026-02-03T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-03T10:00:00Z",
+        "e": "2026-02-03T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2381,16 +2381,6 @@
     ],
     "rinse": [
       {
-        "n": "re:lax",
-        "s": "2026-02-02T18:00:00Z",
-        "e": "2026-02-02T20:00:00Z",
-        "d": null,
-        "j": "lax",
-        "u": null,
-        "t": "biweekly",
-        "p": "relax"
-      },
-      {
         "n": "Hessle Audio",
         "s": "2026-02-02T20:00:00Z",
         "e": "2026-02-02T22:00:00Z",
@@ -2748,15 +2738,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Amor Satyr",
-        "s": "2026-02-02T18:00:00Z",
-        "e": "2026-02-02T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "amorsatyr"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-02-02T19:00:00Z",
         "e": "2026-02-02T23:00:00Z",
@@ -2784,7 +2765,7 @@
         "t": "playlist"
       },
       {
-        "n": "Chloé Sarraméa",
+        "n": "Lysiane N.",
         "s": "2026-02-03T13:00:00Z",
         "e": "2026-02-03T14:00:00Z",
         "d": null,
@@ -2793,9 +2774,92 @@
         "t": "biweekly"
       },
       {
-        "n": "R&B Renaissance",
+        "n": "Izzy Lindqwister",
         "s": "2026-02-03T14:00:00Z",
         "e": "2026-02-03T15:00:00Z",
+        "d": null,
+        "j": "Licence To Weed",
+        "u": null,
+        "t": "biweekly",
+        "p": "izzylindqwister"
+      },
+      {
+        "n": "Roi Luis",
+        "s": "2026-02-03T15:00:00Z",
+        "e": "2026-02-03T16:00:00Z",
+        "d": null,
+        "j": "Aujourd'hui : on va faire la fête",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "restonsflex",
+        "s": "2026-02-03T16:00:00Z",
+        "e": "2026-02-03T17:00:00Z",
+        "d": null,
+        "j": "The Dance Hall Radio Show presents : Mezzer",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "renoiterrible",
+        "s": "2026-02-03T17:00:00Z",
+        "e": "2026-02-03T18:00:00Z",
+        "d": null,
+        "j": "don't stress be blessed - renoiterrible & miss sheitana invitent djinn arezki",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Amor Satyr",
+        "s": "2026-02-03T18:00:00Z",
+        "e": "2026-02-03T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "amorsatyr"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-03T19:00:00Z",
+        "e": "2026-02-03T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-03T23:00:00Z",
+        "e": "2026-02-04T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-04T08:00:00Z",
+        "e": "2026-02-04T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Chloé Sarraméa",
+        "s": "2026-02-04T13:00:00Z",
+        "e": "2026-02-04T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "R&B Renaissance",
+        "s": "2026-02-04T14:00:00Z",
+        "e": "2026-02-04T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2803,8 +2867,8 @@
       },
       {
         "n": "LeZduA",
-        "s": "2026-02-03T15:00:00Z",
-        "e": "2026-02-03T16:00:00Z",
+        "s": "2026-02-04T15:00:00Z",
+        "e": "2026-02-04T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2812,8 +2876,8 @@
       },
       {
         "n": "Amapiano France",
-        "s": "2026-02-03T16:00:00Z",
-        "e": "2026-02-03T17:00:00Z",
+        "s": "2026-02-04T16:00:00Z",
+        "e": "2026-02-04T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2821,16 +2885,16 @@
       },
       {
         "n": "Lil Rosy",
-        "s": "2026-02-03T17:00:00Z",
-        "e": "2026-02-03T18:00:00Z",
+        "s": "2026-02-04T17:00:00Z",
+        "e": "2026-02-04T18:00:00Z",
         "d": null,
         "j": "& Zepequenaï",
         "u": null
       },
       {
         "n": "Triple G Records",
-        "s": "2026-02-03T18:00:00Z",
-        "e": "2026-02-03T19:00:00Z",
+        "s": "2026-02-04T18:00:00Z",
+        "e": "2026-02-04T19:00:00Z",
         "d": null,
         "j": "Papa Nugs",
         "u": null,
@@ -2838,8 +2902,8 @@
       },
       {
         "n": "Lisa More",
-        "s": "2026-02-03T19:00:00Z",
-        "e": "2026-02-03T20:00:00Z",
+        "s": "2026-02-04T19:00:00Z",
+        "e": "2026-02-04T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2848,8 +2912,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-03T20:00:00Z",
-        "e": "2026-02-03T21:00:00Z",
+        "s": "2026-02-04T20:00:00Z",
+        "e": "2026-02-04T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
