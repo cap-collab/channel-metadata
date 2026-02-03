@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-03T08:28:03.471Z",
+  "updated": "2026-02-03T10:31:27.834Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Neroli Presents: The Second Circle w/ Volcov",
-        "s": "2026-02-02T20:00:00Z",
-        "e": "2026-02-02T22:00:00Z",
-        "d": "Verona-based DJ and Neroli label head Volcov whisks us through the beatless melodies at the heart of dance music, presenting selections from the classic 2000 compilation “The First Circle”, and its newly released successor, “The Second Circle”. Featuring music from Claude Young, Joe Claussell, John Beltran and more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/neroli-presents-the-second-circle-w-volcov-2nd-february-2026",
-        "p": "circle"
-      },
       {
         "n": "CHERRYSTONES w/ Meghan Desmond",
         "s": "2026-02-02T22:00:00Z",
@@ -101,9 +92,9 @@
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-02-03T11:00:00Z",
         "e": "2026-02-03T13:00:00Z",
-        "d": null,
+        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
         "j": "ANU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-3rd-february-2026",
         "t": "weekly",
         "p": "anu"
       },
@@ -243,25 +234,18 @@
         "j": null,
         "u": null,
         "p": "darebalogun"
+      },
+      {
+        "n": "SOUP TO NUTS W/ George Riley",
+        "s": "2026-02-04T11:00:00Z",
+        "e": "2026-02-04T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "georgeriley"
       }
     ],
     "nts2": [
-      {
-        "n": "VALENCIA HOUSE W/ YEEK",
-        "s": "2026-02-02T20:00:00Z",
-        "e": "2026-02-02T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "ALBA Radio w/ Holiday Weekend",
-        "s": "2026-02-02T21:00:00Z",
-        "e": "2026-02-02T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Liquid Mirror: Falling in Love w/ Olive Kimoto",
         "s": "2026-02-02T22:00:00Z",
@@ -376,9 +360,9 @@
         "n": "TRUE AS FEW W/ MARK",
         "s": "2026-02-03T11:00:00Z",
         "e": "2026-02-03T12:00:00Z",
-        "d": null,
+        "d": "Diving into classical composition with Mark aka Klon Dump…\nFrom the host: \"Featuring compositions from Jacqueline Fontyn and Erika Fox.\"",
         "j": "MARK",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/true-as-few/episodes/true-as-few-3rd-february-2026",
         "t": "monthly"
       },
       {
@@ -515,27 +499,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "INSOLAR w/ CAMI LAYÉ OKÚN (R)",
+        "s": "2026-02-04T07:00:00Z",
+        "e": "2026-02-04T08:00:00Z",
+        "d": null,
+        "j": "CAMI LAYÉ OKÚN",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "JDubz",
-        "s": "2026-02-02T20:00:00Z",
-        "e": "2026-02-02T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Polo Jaffa",
-        "s": "2026-02-02T21:00:00Z",
-        "e": "2026-02-02T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "LATO",
         "s": "2026-02-02T22:00:00Z",
@@ -1721,19 +1696,18 @@
         "j": "Boruch",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Gingerly",
+        "s": "2026-02-10T09:00:00Z",
+        "e": "2026-02-10T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "LUPE - RECENTS",
-        "s": "2026-02-02T20:00:00Z",
-        "e": "2026-02-02T22:00:00Z",
-        "d": null,
-        "j": "RECENTS",
-        "u": null,
-        "t": "monthly",
-        "p": "lupe"
-      },
       {
         "n": "Beau Matthews - Urban Farmer Radio",
         "s": "2026-02-02T22:00:00Z",
@@ -1805,6 +1779,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-03T10:00:00Z",
         "e": "2026-02-03T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-03T12:00:00Z",
+        "e": "2026-02-03T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2380,15 +2363,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Hessle Audio",
-        "s": "2026-02-02T20:00:00Z",
-        "e": "2026-02-02T22:00:00Z",
-        "d": null,
-        "j": "Ben UFO & Dialog",
-        "u": null,
-        "p": "hessleaudio"
-      },
       {
         "n": "Ehua",
         "s": "2026-02-02T22:00:00Z",
