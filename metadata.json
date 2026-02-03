@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-03T10:31:27.834Z",
+  "updated": "2026-02-03T12:39:02.045Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CHERRYSTONES w/ Meghan Desmond",
-        "s": "2026-02-02T22:00:00Z",
-        "e": "2026-02-03T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "cherrystones"
-      },
       {
         "n": "GRIBS",
         "s": "2026-02-03T00:00:00Z",
@@ -102,9 +93,9 @@
         "n": "Low Life Loves You w/ Bill Brewster",
         "s": "2026-02-03T13:00:00Z",
         "e": "2026-02-03T15:00:00Z",
-        "d": null,
+        "d": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
         "j": "Bill Brewster",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bill-brewster/episodes/bill-brewster-3rd-february-2026",
         "t": "monthly",
         "p": "billbrewster"
       },
@@ -117,6 +108,14 @@
         "u": null,
         "t": "weekly",
         "p": "margeaux"
+      },
+      {
+        "n": "NTS Guide to: Scandinavian left-field pop",
+        "s": "2026-02-03T16:00:00Z",
+        "e": "2026-02-03T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "QUEST NO MORE W/ ELHEIST",
@@ -136,7 +135,7 @@
         "u": null
       },
       {
-        "n": "SURF GANG RADIO",
+        "n": "SURF GANG RADIO w/ NEGASHI ARMADA",
         "s": "2026-02-03T19:00:00Z",
         "e": "2026-02-03T20:00:00Z",
         "d": null,
@@ -247,23 +246,6 @@
     ],
     "nts2": [
       {
-        "n": "Liquid Mirror: Falling in Love w/ Olive Kimoto",
-        "s": "2026-02-02T22:00:00Z",
-        "e": "2026-02-02T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Diiv",
-        "s": "2026-02-02T23:00:00Z",
-        "e": "2026-02-03T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "diiv"
-      },
-      {
         "n": "DJ SPANISH FLY",
         "s": "2026-02-03T00:00:00Z",
         "e": "2026-02-03T01:00:00Z",
@@ -369,18 +351,18 @@
         "n": "GREAT SOUTHERN LANDS W/ JAMES W",
         "s": "2026-02-03T12:00:00Z",
         "e": "2026-02-03T13:00:00Z",
-        "d": null,
+        "d": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
         "j": "JAMES W",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/great-southern-lands/episodes/great-southern-lands-3rd-february-2026",
         "t": "monthly"
       },
       {
         "n": "Sugai Ken - Sometimes enthusiasm surpasses technique! 巧さよりバイヴス",
         "s": "2026-02-03T13:00:00Z",
         "e": "2026-02-03T14:00:00Z",
-        "d": null,
+        "d": "A beloved composer of unhurried, nature-inspired compositions since the mid-90s, Japan’s Sugai Ken takes over for a guest mix. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sugai-ken---sometimes-enthusiasm-surpasses-technique-qiao-sayorihaiusu-3rd-february-2026"
       },
       {
         "n": "ARRHYTHMIA",
@@ -391,6 +373,15 @@
         "u": null,
         "t": "monthly",
         "p": "arrhythmia"
+      },
+      {
+        "n": "PINA DREAMS OF BRAZIL W/ RÔMULO MORAES (R)",
+        "s": "2026-02-03T16:00:00Z",
+        "e": "2026-02-03T17:00:00Z",
+        "d": null,
+        "j": "RÔMULO MORAES",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "YU SU w/ xylon",
@@ -508,27 +499,19 @@
         "j": "CAMI LAYÉ OKÚN",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Forager Records (R)",
+        "s": "2026-02-04T08:00:00Z",
+        "e": "2026-02-04T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "foragerrecords"
       }
     ],
     "subtle": [
-      {
-        "n": "LATO",
-        "s": "2026-02-02T22:00:00Z",
-        "e": "2026-02-02T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Baxter",
-        "s": "2026-02-02T23:00:00Z",
-        "e": "2026-02-03T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Dr.Velodrome",
         "s": "2026-02-03T00:00:00Z",
@@ -1705,18 +1688,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Beau Matthews - Urban Farmer Radio",
-        "s": "2026-02-02T22:00:00Z",
-        "e": "2026-02-03T00:00:00Z",
+        "n": "Lucidik ",
+        "s": "2026-02-10T11:00:00Z",
+        "e": "2026-02-10T12:00:00Z",
         "d": null,
-        "j": "Urban Farmer Radio",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Radio Roshy",
+        "s": "2026-02-10T12:00:00Z",
+        "e": "2026-02-10T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "BAE BAE - matriarchy",
         "s": "2026-02-03T00:00:00Z",
@@ -1788,6 +1780,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-03T12:00:00Z",
         "e": "2026-02-03T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-03T14:00:00Z",
+        "e": "2026-02-03T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2364,26 +2365,6 @@
     ],
     "rinse": [
       {
-        "n": "Ehua",
-        "s": "2026-02-02T22:00:00Z",
-        "e": "2026-02-02T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "ehua"
-      },
-      {
-        "n": "DJ Polo",
-        "s": "2026-02-02T23:00:00Z",
-        "e": "2026-02-03T00:00:00Z",
-        "d": null,
-        "j": "BLOQO",
-        "u": null,
-        "t": "biweekly",
-        "p": "djpolo"
-      },
-      {
         "n": "Well Street Records",
         "s": "2026-02-03T00:00:00Z",
         "e": "2026-02-03T01:00:00Z",
@@ -2453,7 +2434,7 @@
         "s": "2026-02-03T11:00:00Z",
         "e": "2026-02-03T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Some tunes i been bumpingggg",
         "u": null,
         "t": "monthly"
       },
@@ -2490,7 +2471,7 @@
         "s": "2026-02-03T15:00:00Z",
         "e": "2026-02-03T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "IZCO Special",
         "u": null,
         "t": "weekly",
         "p": "brighterdaysfamily"
@@ -2711,15 +2692,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-02-02T19:00:00Z",
-        "e": "2026-02-02T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-02-02T23:00:00Z",
