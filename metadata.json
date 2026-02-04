@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-04T06:39:43.941Z",
+  "updated": "2026-02-04T08:30:25.713Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Joji",
-        "s": "2026-02-03T18:00:00Z",
-        "e": "2026-02-03T19:00:00Z",
-        "d": "Alt-pop star Joji takes over the NTS airwaves, selecting an hour of rap music from Skrilla, Mario Judah, ian and more… ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/joji-3rd-february-2026"
-      },
-      {
-        "n": "SURF GANG RADIO w/ NEGASHI ARMADA",
-        "s": "2026-02-03T19:00:00Z",
-        "e": "2026-02-03T20:00:00Z",
-        "d": "A radio show curated by Surf Gang Records. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-3rd-february-2026"
-      },
       {
         "n": "RUPTURE W/ MANTRA & DOUBLE O",
         "s": "2026-02-03T20:00:00Z",
@@ -115,9 +99,9 @@
         "n": "The NTS Breakfast Show w/ DARE BALOGUN",
         "s": "2026-02-04T09:00:00Z",
         "e": "2026-02-04T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-dare-balogun-4th-february-2026",
         "p": "darebalogun"
       },
       {
@@ -251,18 +235,18 @@
         "j": "Flo",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-02-05T11:00:00Z",
+        "e": "2026-02-05T13:00:00Z",
+        "d": null,
+        "j": "BABYSCHÖN",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "PENDER STREET STEPPERS",
-        "s": "2026-02-03T18:00:00Z",
-        "e": "2026-02-03T20:00:00Z",
-        "d": "The breezy sound of the Canadian Riviera, from Mood Hut's Pender Street Steppers. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/pender-street-steppers/episodes/pender-street-steppers-3rd-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "Nick Hakim",
         "s": "2026-02-03T20:00:00Z",
@@ -367,9 +351,9 @@
         "n": "Forager Records (R)",
         "s": "2026-02-04T08:00:00Z",
         "e": "2026-02-04T09:00:00Z",
-        "d": null,
+        "d": "Forager Records is a Los Angeles based record label, committed to unearthing and breathing new life into rare and under appreciated sounds from the past. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/forager-records/episodes/forager-records-19th-june-2025",
         "t": "restream",
         "p": "foragerrecords"
       },
@@ -377,9 +361,9 @@
         "n": "A Colourful Storm (R)",
         "s": "2026-02-04T09:00:00Z",
         "e": "2026-02-04T10:00:00Z",
-        "d": null,
+        "d": "A Colourful Storm from label head Moopie, featuring contemplative ambience, folksong and indie-pop melancholia, contemporary electronics and beyond.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/a-colourful-storm/episodes/a-colourful-storm-16th-june-2025",
         "t": "restream"
       },
       {
@@ -504,27 +488,27 @@
         "j": "Symrin",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
-      {
-        "n": " Karishma",
-        "s": "2026-02-03T18:00:00Z",
-        "e": "2026-02-03T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
       },
       {
-        "n": "Ro-Motion",
-        "s": "2026-02-03T19:00:00Z",
-        "e": "2026-02-03T20:00:00Z",
+        "n": "DISCOSTAN",
+        "s": "2026-02-05T03:00:00Z",
+        "e": "2026-02-05T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "ABIU",
+        "s": "2026-02-05T04:00:00Z",
+        "e": "2026-02-05T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": "Jake Plisken",
         "s": "2026-02-03T20:00:00Z",
@@ -614,6 +598,15 @@
         "j": "Paul Hertmann",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-04T09:00:00Z",
+        "e": "2026-02-04T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Music that Moves",
@@ -1679,16 +1672,6 @@
     ],
     "dublab": [
       {
-        "n": "Jonathan Kornman - Discoteca Imaginaria",
-        "s": "2026-02-03T18:00:00Z",
-        "e": "2026-02-03T20:00:00Z",
-        "d": null,
-        "j": "Discoteca Imaginaria",
-        "u": null,
-        "t": "monthly",
-        "p": "jonathankornman"
-      },
-      {
         "n": "OPEN SLOT",
         "s": "2026-02-03T20:00:00Z",
         "e": "2026-02-03T22:00:00Z",
@@ -1751,6 +1734,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-04T08:00:00Z",
         "e": "2026-02-04T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-04T10:00:00Z",
+        "e": "2026-02-04T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2334,25 +2326,6 @@
     ],
     "rinse": [
       {
-        "n": "Prozak",
-        "s": "2026-02-03T18:00:00Z",
-        "e": "2026-02-03T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "prozak"
-      },
-      {
-        "n": "Ploy",
-        "s": "2026-02-03T19:00:00Z",
-        "e": "2026-02-03T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "ploy"
-      },
-      {
         "n": "DJ Lag",
         "s": "2026-02-03T20:00:00Z",
         "e": "2026-02-03T22:00:00Z",
@@ -2721,25 +2694,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Triple G Records",
-        "s": "2026-02-03T18:00:00Z",
-        "e": "2026-02-03T19:00:00Z",
-        "d": null,
-        "j": "Papa Nugs",
-        "u": null,
-        "p": "papanugs"
-      },
-      {
-        "n": "Lisa More",
-        "s": "2026-02-03T19:00:00Z",
-        "e": "2026-02-03T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lisamore"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-02-03T20:00:00Z",
         "e": "2026-02-03T23:00:00Z",
@@ -2767,9 +2721,99 @@
         "t": "playlist"
       },
       {
-        "n": "Playlist France",
+        "n": "Chloé Sarraméa",
         "s": "2026-02-04T13:00:00Z",
         "e": "2026-02-04T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "R&B Renaissance",
+        "s": "2026-02-04T14:00:00Z",
+        "e": "2026-02-04T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "LeZduA",
+        "s": "2026-02-04T15:00:00Z",
+        "e": "2026-02-04T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Umoya",
+        "s": "2026-02-04T16:00:00Z",
+        "e": "2026-02-04T17:00:00Z",
+        "d": null,
+        "j": "Kristelle",
+        "u": null
+      },
+      {
+        "n": "Lil Rosy",
+        "s": "2026-02-04T17:00:00Z",
+        "e": "2026-02-04T18:00:00Z",
+        "d": null,
+        "j": "& Zepequenaï",
+        "u": null
+      },
+      {
+        "n": "Triple G Records",
+        "s": "2026-02-04T18:00:00Z",
+        "e": "2026-02-04T19:00:00Z",
+        "d": null,
+        "j": "Papa Nugs",
+        "u": null,
+        "t": "monthly",
+        "p": "papanugs"
+      },
+      {
+        "n": "Lisa More",
+        "s": "2026-02-04T19:00:00Z",
+        "e": "2026-02-04T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "lisamore"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-04T20:00:00Z",
+        "e": "2026-02-04T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-04T23:00:00Z",
+        "e": "2026-02-05T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-05T08:00:00Z",
+        "e": "2026-02-05T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-05T13:00:00Z",
+        "e": "2026-02-05T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2777,8 +2821,8 @@
       },
       {
         "n": "DOUBLE-O-THEATRE",
-        "s": "2026-02-04T14:00:00Z",
-        "e": "2026-02-04T15:00:00Z",
+        "s": "2026-02-05T14:00:00Z",
+        "e": "2026-02-05T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2786,8 +2830,8 @@
       },
       {
         "n": "Louise Pétrouchka",
-        "s": "2026-02-04T15:00:00Z",
-        "e": "2026-02-04T16:00:00Z",
+        "s": "2026-02-05T15:00:00Z",
+        "e": "2026-02-05T16:00:00Z",
         "d": null,
         "j": "Double Tap avec Kokoprisci",
         "u": null,
@@ -2796,8 +2840,8 @@
       },
       {
         "n": "Artem",
-        "s": "2026-02-04T16:00:00Z",
-        "e": "2026-02-04T17:00:00Z",
+        "s": "2026-02-05T16:00:00Z",
+        "e": "2026-02-05T17:00:00Z",
         "d": null,
         "j": "CHEYANNE HUDSON",
         "u": null,
@@ -2805,8 +2849,8 @@
       },
       {
         "n": "carin kelly",
-        "s": "2026-02-04T17:00:00Z",
-        "e": "2026-02-04T18:00:00Z",
+        "s": "2026-02-05T17:00:00Z",
+        "e": "2026-02-05T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2815,8 +2859,8 @@
       },
       {
         "n": "Anaco",
-        "s": "2026-02-04T18:00:00Z",
-        "e": "2026-02-04T19:00:00Z",
+        "s": "2026-02-05T18:00:00Z",
+        "e": "2026-02-05T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2825,8 +2869,8 @@
       },
       {
         "n": "2much",
-        "s": "2026-02-04T19:00:00Z",
-        "e": "2026-02-04T20:00:00Z",
+        "s": "2026-02-05T19:00:00Z",
+        "e": "2026-02-05T20:00:00Z",
         "d": null,
         "j": "invite Panteros666",
         "u": null,
@@ -2834,8 +2878,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-04T20:00:00Z",
-        "e": "2026-02-04T21:00:00Z",
+        "s": "2026-02-05T20:00:00Z",
+        "e": "2026-02-05T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
