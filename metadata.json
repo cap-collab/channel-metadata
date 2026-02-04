@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-04T14:37:01.813Z",
+  "updated": "2026-02-04T16:36:49.999Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SILICA GEL w/ Choi Woonghee",
-        "s": "2026-02-04T02:00:00Z",
-        "e": "2026-02-04T03:00:00Z",
-        "d": "Korean indie four-piece Silica Gel take over NTS for a special four-part residency. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/silica-gel/episodes/silica-gel-choi-woonghee-4th-february-2026",
-        "p": "silicagel"
-      },
       {
         "n": "We Are… w/ Paul Camo (R)",
         "s": "2026-02-04T03:00:00Z",
@@ -87,9 +78,9 @@
         "n": "TASH LC",
         "s": "2026-02-04T17:00:00Z",
         "e": "2026-02-04T18:00:00Z",
-        "d": null,
+        "d": "After work fun and global tunes with Tash LC and guests every other Wednesday ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tash-lc/episodes/tash-lc-4th-february-2026",
         "t": "biweekly",
         "p": "tashlc"
       },
@@ -126,6 +117,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "NTS GUIDE TO: 2010S VAPORWAVE (R)",
+        "s": "2026-02-05T00:00:00Z",
+        "e": "2026-02-05T02:00:00Z",
+        "d": null,
+        "j": "2010S VAPORWAVE",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "SILICA GEL w/ Kim Chunchu",
@@ -225,25 +225,6 @@
       }
     ],
     "nts2": [
-      {
-        "n": "Blooming In Filth w/ Maral",
-        "s": "2026-02-04T02:00:00Z",
-        "e": "2026-02-04T03:00:00Z",
-        "d": "Monthly transmissions from the eclectic world of CRISIS ACTING.\nFrom the host: _\"a mix by Maral dedicated to finding the hidden moments in tracks, transcending to new realms. Digging deeper into the glimmers of long loved tracks and listening closer. \nInspired by CRISIS ACTING's visual curation and the hidden moments they find in everyday life.\" _\nLos Angeles’s Maral has spent the past half-decade quietly honing an approach that meshes the latest in club music contortions, a range of pulverized dub effects, and samples from her library of Iranian folk, pop and classical musics",
-        "j": "Maral",
-        "u": "https://www.nts.live/api/v2/shows/crisis-acting/episodes/crisis-acting-4th-february-2026",
-        "t": "monthly",
-        "p": "maral"
-      },
-      {
-        "n": "DARK ENTRIES w/ Josh Cheon (R)",
-        "s": "2026-02-04T03:00:00Z",
-        "e": "2026-02-04T04:00:00Z",
-        "d": null,
-        "j": "Josh Cheon",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "DEMYSTIFICATION RADIO HOUR W/ CHRIS CORRY: UNHEARD NYHC SPECIAL",
         "s": "2026-02-04T04:00:00Z",
@@ -347,17 +328,17 @@
         "n": "KOKONUT TRIP w/ TIM KOH",
         "s": "2026-02-04T16:00:00Z",
         "e": "2026-02-04T17:00:00Z",
-        "d": null,
+        "d": "Take a Kokonut Trip with Tim Koh, playing vintage pop, kaleidoscopic rock & folk, and whatever else he feels.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/tim-koh/episodes/tim-koh-4th-february-2026"
       },
       {
         "n": "ASTRID SONNE",
         "s": "2026-02-04T17:00:00Z",
         "e": "2026-02-04T18:00:00Z",
-        "d": null,
+        "d": "1-hour monthly show with composer and musician Astrid Sonne. Sharing everything from rock to dub to classical to pop. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/astrid-sonne/episodes/astrid-sonne-4th-february-2026",
         "t": "monthly",
         "p": "astridsonne"
       },
@@ -484,27 +465,27 @@
         "j": "LENA WILLIKENS",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Gribs (R)",
+        "s": "2026-02-05T09:00:00Z",
+        "e": "2026-02-05T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "gribs"
+      },
+      {
+        "n": "NTS x DistroKid: City Signal w/ Kinari",
+        "s": "2026-02-05T10:00:00Z",
+        "e": "2026-02-05T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Shreztah Selects",
-        "s": "2026-02-04T02:00:00Z",
-        "e": "2026-02-04T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "NOS-talgia",
-        "s": "2026-02-04T03:00:00Z",
-        "e": "2026-02-04T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Step Inside w/ ZAAGO",
         "s": "2026-02-04T04:00:00Z",
@@ -1673,19 +1654,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Langosta y Miche – Sonámbula Radio",
-        "s": "2026-02-04T02:00:00Z",
-        "e": "2026-02-04T04:00:00Z",
+        "n": " Bleached Club",
+        "s": "2026-02-11T15:00:00Z",
+        "e": "2026-02-11T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "langosta"
+        "t": "monthly"
       },
+      {
+        "n": "Declan Discs",
+        "s": "2026-02-11T16:00:00Z",
+        "e": "2026-02-11T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Echo Park Film Center - Optical Track",
         "s": "2026-02-04T04:00:00Z",
@@ -2316,19 +2305,19 @@
         "j": "DWELL TIME",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "The Urxed - Seeing It As You Really Are",
+        "s": "2026-02-11T16:00:00Z",
+        "e": "2026-02-11T18:00:00Z",
+        "d": null,
+        "j": "Seeing It As You Really Are",
+        "u": null,
+        "t": "monthly",
+        "p": "theurxed"
       }
     ],
     "rinse": [
-      {
-        "n": "DJ Polo",
-        "s": "2026-02-04T02:00:00Z",
-        "e": "2026-02-04T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "djpolo"
-      },
       {
         "n": "Playlist",
         "s": "2026-02-04T03:00:00Z",
@@ -2556,7 +2545,7 @@
         "s": "2026-02-05T13:00:00Z",
         "e": "2026-02-05T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "J Dilla Mix",
         "u": null,
         "t": "weekly",
         "p": "skvibemaker"
@@ -2605,7 +2594,7 @@
         "s": "2026-02-05T19:00:00Z",
         "e": "2026-02-05T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Racing Nokia",
         "u": null,
         "t": "biweekly",
         "p": "arthi"
@@ -2633,7 +2622,7 @@
         "s": "2026-02-05T23:00:00Z",
         "e": "2026-02-06T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJ Boeing 747",
         "u": null,
         "p": "djplead"
       }
