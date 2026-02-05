@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-05T20:24:01.357Z",
+  "updated": "2026-02-05T22:18:45.894Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-02-05T07:00:00Z",
-        "e": "2026-02-05T09:00:00Z",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": "PAM",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-5th-february-2026",
-        "t": "biweekly"
-      },
       {
         "n": "The NTS Breakfast Show w/ Finn",
         "s": "2026-02-05T09:00:00Z",
@@ -96,9 +87,9 @@
         "n": "DON'T TRIP W/ MARGARITA",
         "s": "2026-02-06T00:00:00Z",
         "e": "2026-02-06T02:00:00Z",
-        "d": null,
+        "d": "Somewhere between banging your head against a brick wall and holding your breath under water.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dont-trip/episodes/dont-trip-6th-february-2026"
       },
       {
         "n": "SILICA GEL w/ Kim Hanjoo",
@@ -232,29 +223,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "10212&BOD[包家巷]",
+        "s": "2026-02-06T21:00:00Z",
+        "e": "2026-02-06T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "HOMUNKULI W/ LENA WILLIKENS (R)",
-        "s": "2026-02-05T08:00:00Z",
-        "e": "2026-02-05T09:00:00Z",
-        "d": "New explorations in sounds from one of the most esteemed selectors in Europe, Lena Willikens. ",
-        "j": "LENA WILLIKENS",
-        "u": "https://www.nts.live/api/v2/shows/homunkuli/episodes/homunkuli-17th-july-2025",
-        "t": "restream",
-        "p": "homunkuli"
-      },
-      {
-        "n": "Gribs (R)",
-        "s": "2026-02-05T09:00:00Z",
-        "e": "2026-02-05T10:00:00Z",
-        "d": "Life on wide mode.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gribs/episodes/gribs-1st-april-2025",
-        "t": "restream",
-        "p": "gribs"
-      },
       {
         "n": "NTS x DistroKid: City Signal w/ Kinari",
         "s": "2026-02-05T10:00:00Z",
@@ -366,17 +345,18 @@
         "n": "Carlos René w/ Rumba Hispano Belga",
         "s": "2026-02-05T22:00:00Z",
         "e": "2026-02-05T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Join us for monthly sessions with Carlos René, co-founder of Casa Calypso record shop in Mexico City. Carlos specializes in uncovering rare Latin American recordings and has a passion for a diverse range of genres, including cumbia, Latin funk, Mexican garage rock & psych, boogaloo, and other rare grooves. Let Carlos take you on a captivating musical journey through the vibrant sounds of Latin America that will keep you grooving any time of the day.\nFrom the host: \"Miguel Melendez from Rumba Hispano Belga takes over with a selection of tracks recorded and/or written by Spanish immigrants in Belgium. Rumba, flamenco, go-go, and soul! Everything recorded from 7.\"",
+        "j": "Rumba Hispano Belga",
+        "u": "https://www.nts.live/api/v2/shows/carlos-rene/episodes/carlos-rene-5th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "budgie - The Good Book III",
         "s": "2026-02-05T23:00:00Z",
         "e": "2026-02-06T00:00:00Z",
-        "d": null,
+        "d": "BUDGIE – serving up jazz, hip-hop, soul, beats & more from his sprawling record collection, once a month from our LA studio.\nFrom the host: \"Playing excerpts from The Good Book III as well as highlights from the past Good Book projects\"",
         "j": "The Good Book III",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/budgie/episodes/budgie-5th-february-2026",
         "t": "monthly"
       },
       {
@@ -504,28 +484,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-02-05T08:00:00Z",
-        "e": "2026-02-05T09:00:00Z",
+        "n": "OLIVIA O.",
+        "s": "2026-02-06T17:00:00Z",
+        "e": "2026-02-06T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
       {
-        "n": " In The Rotation w/ Su",
-        "s": "2026-02-05T09:00:00Z",
-        "e": "2026-02-05T10:00:00Z",
+        "n": "SARA A",
+        "s": "2026-02-06T18:00:00Z",
+        "e": "2026-02-06T19:00:00Z",
         "d": null,
-        "j": "Su",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "intherotationwsu"
-      },
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": "Adele Tondu",
         "s": "2026-02-05T10:00:00Z",
@@ -636,6 +615,15 @@
         "j": "Kenzo",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-05T23:00:00Z",
+        "e": "2026-02-06T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Crawl Space w/ Stork",
@@ -1744,18 +1732,29 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-05T08:00:00Z",
-        "e": "2026-02-05T10:00:00Z",
+        "n": "D-Code & Psylence",
+        "s": "2026-02-12T21:00:00Z",
+        "e": "2026-02-12T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "dcodepsylence"
       },
+      {
+        "n": "Benteki",
+        "s": "2026-02-12T22:00:00Z",
+        "e": "2026-02-12T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "benteki"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-02-05T10:00:00Z",
@@ -2395,18 +2394,19 @@
         "u": null,
         "t": "weekly",
         "p": "jimmytamborello"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-02-05T07:00:00Z",
-        "e": "2026-02-05T09:00:00Z",
+        "n": "Hannah Rubin and Noelle Armstrong – MELLOW DRAMA",
+        "s": "2026-02-12T22:00:00Z",
+        "e": "2026-02-13T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "hannah"
+      }
+    ],
+    "rinse": [
       {
         "n": "Yazmin Lacey",
         "s": "2026-02-05T09:00:00Z",
