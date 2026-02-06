@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-06T14:35:51.659Z",
+  "updated": "2026-02-06T16:34:27.285Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SILICA GEL w/ Kim Hanjoo",
-        "s": "2026-02-06T02:00:00Z",
-        "e": "2026-02-06T03:00:00Z",
-        "d": "Korean indie four-piece Silica Gel take over NTS for a special four-part residency. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/silica-gel/episodes/silica-gel-kim-hanjoo-6th-february-2026",
-        "p": "silicagel"
-      },
-      {
-        "n": "SE QUEMAN CDS W/ WEED420: FOTOS VARIAS (R)",
-        "s": "2026-02-06T03:00:00Z",
-        "e": "2026-02-06T04:00:00Z",
-        "d": null,
-        "j": "WEED420",
-        "u": null,
-        "t": "restream",
-        "p": "weed420"
-      },
       {
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS (R)",
         "s": "2026-02-06T04:00:00Z",
@@ -96,9 +77,9 @@
         "n": "DAPHNI",
         "s": "2026-02-06T16:00:00Z",
         "e": "2026-02-06T17:00:00Z",
-        "d": null,
+        "d": "Daphni takes over NTS for a three-party residency, ahead of the release of his new LP, 'Butterfly'. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/daphni/episodes/daphni-6th-february-2026",
         "t": "weekly",
         "p": "daphni"
       },
@@ -106,9 +87,10 @@
         "n": "CHARISSE C",
         "s": "2026-02-06T17:00:00Z",
         "e": "2026-02-06T18:00:00Z",
-        "d": null,
+        "d": "Charisse C takes us on a monthly journey through an electronic soundscape birthed by the melting pot which raised her, anchored by South African giants Amapiano & Gqom, featuring soulful, bass-heavy & playful selections.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/charisse-c/episodes/charisse-c-6th-february-2026",
+        "t": "monthly",
         "p": "charissec"
       },
       {
@@ -238,19 +220,26 @@
         "j": "MR PEDRO",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Aqwea",
+        "s": "2026-02-07T17:00:00Z",
+        "e": "2026-02-07T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TEST PRESSING",
+        "s": "2026-02-07T18:00:00Z",
+        "e": "2026-02-07T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Screwboss Radio w/ Marcy Mane",
-        "s": "2026-02-06T02:00:00Z",
-        "e": "2026-02-06T04:00:00Z",
-        "d": "Screwboss MFK Marcy Mane heads up a 2 hour round-up of the latest in underground hip hop, screwed down classics and cuts from his extensive catalog.\nFrom the host: _\"SHOW 092 STRAIGHT FROM THE ARCHIVE OF SCREWBOSS\" _",
-        "j": "Marcy Mane",
-        "u": "https://www.nts.live/api/v2/shows/screwboss-radio/episodes/screwboss-radio-6th-february-2026",
-        "t": "monthly",
-        "p": "marcy"
-      },
       {
         "n": "NTS Guide to: Chinese Underground Rap (R)",
         "s": "2026-02-06T04:00:00Z",
@@ -344,22 +333,23 @@
         "p": "fonts"
       },
       {
-        "n": "DRY CLEANING",
+        "n": "Disco Pickles w/ DRY CLEANING",
         "s": "2026-02-06T16:00:00Z",
         "e": "2026-02-06T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "The South London postpunk crew take control sharing an hour of selections every month.",
+        "j": "DRY CLEANING",
+        "u": "https://www.nts.live/api/v2/shows/dry-cleaning/episodes/dry-cleaning-7th-january-2026",
+        "t": "monthly",
         "p": "drycleaning"
       },
       {
-        "n": "OLIVIA O.",
+        "n": "HUNG, DRAWN & QUARTERED W/ PETER DOYLE (R)",
         "s": "2026-02-06T17:00:00Z",
         "e": "2026-02-06T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
+        "d": "They should return to the place from whence they came, from thence be drawn to the common place of execution upon hurdles, and there to be hanged by the necks, then cut down alive, their privy-Members cut off, and bowels taken out to be burned before their faces, their Heads to be severed from their bodies, and their bodies divided into four parts, to be disposed of as the King should think fit.",
+        "j": "PETER DOYLE",
+        "u": "https://www.nts.live/api/v2/shows/hung-drawn-quartered/episodes/hung-drawn-quartered-14th-january-2021",
+        "t": "restream"
       },
       {
         "n": "SARA A",
@@ -491,27 +481,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Madilickk",
-        "s": "2026-02-06T02:00:00Z",
-        "e": "2026-02-06T03:00:00Z",
+        "n": "ROUGH VERSION w/ Cooking Sections",
+        "s": "2026-02-07T12:00:00Z",
+        "e": "2026-02-07T13:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
-      {
-        "n": "Eclipse w D.N.S",
-        "s": "2026-02-06T03:00:00Z",
-        "e": "2026-02-06T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "eclipsewdns"
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Pattern Recognition w/ R A L L Y ",
         "s": "2026-02-06T04:00:00Z",
@@ -627,6 +607,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-06T17:00:00Z",
+        "e": "2026-02-06T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "TILDA",
@@ -1724,19 +1713,28 @@
         "u": null,
         "t": "monthly",
         "p": "collective"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "JELLY – Blended Beats",
-        "s": "2026-02-06T02:00:00Z",
-        "e": "2026-02-06T04:00:00Z",
+        "n": "Kamzuqi",
+        "s": "2026-02-13T15:00:00Z",
+        "e": "2026-02-13T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "jelly"
+        "p": "kamzuqi"
       },
+      {
+        "n": "The Free Range Sounds Show",
+        "s": "2026-02-13T16:00:00Z",
+        "e": "2026-02-13T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Moniquea - Jammin' Croquettes",
         "s": "2026-02-06T04:00:00Z",
@@ -2099,7 +2097,8 @@
         "e": "2026-02-10T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "miraavi"
       },
       {
         "n": "Terrell Brooke – TheyHouse",
@@ -2366,19 +2365,19 @@
         "u": null,
         "t": "monthly",
         "p": "alexpelly"
+      },
+      {
+        "n": "EddyMac - Something Going On",
+        "s": "2026-02-13T16:00:00Z",
+        "e": "2026-02-13T18:00:00Z",
+        "d": null,
+        "j": "Something Going On",
+        "u": null,
+        "t": "monthly",
+        "p": "eddymac"
       }
     ],
     "rinse": [
-      {
-        "n": "Breaka",
-        "s": "2026-02-06T02:00:00Z",
-        "e": "2026-02-06T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "breaka"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-02-06T03:00:00Z",
