@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-05T22:18:45.894Z",
+  "updated": "2026-02-06T01:15:10.898Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ Finn",
-        "s": "2026-02-05T09:00:00Z",
-        "e": "2026-02-05T11:00:00Z",
-        "d": "Wake up with NTS…",
-        "j": "Finn",
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-finn-5th-february-2026",
-        "t": "monthly",
-        "p": "finn"
-      },
-      {
-        "n": "SOUP TO NUTS W/ BABYSCHÖN",
-        "s": "2026-02-05T11:00:00Z",
-        "e": "2026-02-05T13:00:00Z",
-        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
-        "j": "BABYSCHÖN",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-5th-february-2026",
-        "t": "biweekly"
-      },
       {
         "n": "GABI",
         "s": "2026-02-05T13:00:00Z",
@@ -95,9 +76,9 @@
         "n": "SILICA GEL w/ Kim Hanjoo",
         "s": "2026-02-06T02:00:00Z",
         "e": "2026-02-06T03:00:00Z",
-        "d": null,
+        "d": "Korean indie four-piece Silica Gel take over NTS for a special four-part residency. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/silica-gel/episodes/silica-gel-kim-hanjoo-6th-february-2026",
         "p": "silicagel"
       },
       {
@@ -231,37 +212,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "TREVOR JACKSON - BRISTOL BASS, WAREHOUSE BEATS & SOUNDSYSTEM SOUL (R)",
+        "s": "2026-02-06T22:00:00Z",
+        "e": "2026-02-07T02:00:00Z",
+        "d": null,
+        "j": "BRISTOL BASS, WAREHOUSE BEATS & SOUNDSYSTEM SOUL",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "NTS x DistroKid: City Signal w/ Kinari",
-        "s": "2026-02-05T10:00:00Z",
-        "e": "2026-02-05T11:00:00Z",
-        "d": "Delhi-based rapper and producer Kinari showcases the burgeoning Indian rap and hip-hop scene.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nts-x-distrokid/episodes/nts-x-distrokid-kinari-5th-february-2026"
-      },
-      {
-        "n": "YL HOOI",
-        "s": "2026-02-05T11:00:00Z",
-        "e": "2026-02-05T12:00:00Z",
-        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-5th-february-2026",
-        "t": "monthly",
-        "p": "ylhooi"
-      },
-      {
-        "n": "Happy Death",
-        "s": "2026-02-05T12:00:00Z",
-        "e": "2026-02-05T13:00:00Z",
-        "d": "Ed Horrox, the creative director and A&R from 4AD joins NTS once a month for an hour of his personal favourites, which can be pretty much anything: hip-hop, house, found ‘classics’, esoteric century-old jazz recordings, and then occasionally some of those unreleased leftfield pop bangers that 4AD seem to be so good at finding. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/happy-death/episodes/happy-death-5th-february-2026",
-        "t": "monthly",
-        "p": "happydeath"
-      },
       {
         "n": "FRAGRANT SACRIFICE w/ NAIMA Nefertari",
         "s": "2026-02-05T13:00:00Z",
@@ -373,17 +335,17 @@
         "n": "THE LARGE",
         "s": "2026-02-06T01:00:00Z",
         "e": "2026-02-06T02:00:00Z",
-        "d": null,
+        "d": "Joyful global club sounds with NYC via London party starter The Large\nFrom the host: _\"new and heavy music from brazil, jamaica, france, portugal + more\" _",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-large/episodes/the-large-6th-february-2026"
       },
       {
         "n": "Screwboss Radio w/ Marcy Mane",
         "s": "2026-02-06T02:00:00Z",
         "e": "2026-02-06T04:00:00Z",
-        "d": null,
+        "d": "Screwboss MFK Marcy Mane heads up a 2 hour round-up of the latest in underground hip hop, screwed down classics and cuts from his extensive catalog.\nFrom the host: _\"SHOW 092 STRAIGHT FROM THE ARCHIVE OF SCREWBOSS\" _",
         "j": "Marcy Mane",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/screwboss-radio/episodes/screwboss-radio-6th-february-2026",
         "t": "monthly",
         "p": "marcy"
       },
@@ -502,36 +464,34 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "GINKGO RECORDS W/ NICOLE MISHA",
+        "s": "2026-02-06T19:00:00Z",
+        "e": "2026-02-06T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "HIGH NOON VD SPECIAL \"NOON-LUV\"",
+        "s": "2026-02-06T20:00:00Z",
+        "e": "2026-02-06T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MACHINES OF LOVING GRACE W/ MIDWIFE",
+        "s": "2026-02-06T22:00:00Z",
+        "e": "2026-02-06T23:00:00Z",
+        "d": null,
+        "j": "MIDWIFE",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Adele Tondu",
-        "s": "2026-02-05T10:00:00Z",
-        "e": "2026-02-05T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DIASPORA with Ben Fitzperc",
-        "s": "2026-02-05T11:00:00Z",
-        "e": "2026-02-05T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Arriba",
-        "s": "2026-02-05T12:00:00Z",
-        "e": "2026-02-05T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "QUIN-B",
         "s": "2026-02-05T13:00:00Z",
@@ -1752,18 +1712,37 @@
         "u": null,
         "t": "monthly",
         "p": "benteki"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-05T10:00:00Z",
-        "e": "2026-02-05T12:00:00Z",
+        "n": "Matt Frost w/ Kutmah",
+        "s": "2026-02-12T23:00:00Z",
+        "e": "2026-02-13T00:00:00Z",
+        "d": "Potent Funk records’ Matt Frost - Well known for his technical abilities and Sleazy bass music style, Frost covers all angles from UK alt Rap to the LA beat scene.",
+        "j": "Kutmah",
+        "u": null,
+        "t": "monthly",
+        "p": "mattfrost"
+      },
+      {
+        "n": " Dubstar Records Show w/ Dubfreq",
+        "s": "2026-02-13T00:00:00Z",
+        "e": "2026-02-13T01:00:00Z",
+        "d": null,
+        "j": "Dubfreq",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Insoundfromwayback",
+        "s": "2026-02-13T01:00:00Z",
+        "e": "2026-02-13T02:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-02-05T12:00:00Z",
@@ -2404,38 +2383,19 @@
         "u": null,
         "t": "monthly",
         "p": "hannah"
+      },
+      {
+        "n": "Frankie Jax No Mad - Not Evil Radio",
+        "s": "2026-02-13T00:00:00Z",
+        "e": "2026-02-13T02:00:00Z",
+        "d": null,
+        "j": "Not Evil Radio",
+        "u": null,
+        "t": "monthly",
+        "p": "frankiejaxnomad"
       }
     ],
     "rinse": [
-      {
-        "n": "Yazmin Lacey",
-        "s": "2026-02-05T09:00:00Z",
-        "e": "2026-02-05T11:00:00Z",
-        "d": null,
-        "j": "Tim Lyre",
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
-        "n": "Jordan Mae",
-        "s": "2026-02-05T11:00:00Z",
-        "e": "2026-02-05T12:00:00Z",
-        "d": null,
-        "j": "Soul Selections - Just You, Just me",
-        "u": null,
-        "t": "biweekly",
-        "p": "jordanmae"
-      },
-      {
-        "n": "Nathan Evans",
-        "s": "2026-02-05T12:00:00Z",
-        "e": "2026-02-05T13:00:00Z",
-        "d": null,
-        "j": "The AI Episode",
-        "u": null,
-        "p": "nathanevans"
-      },
       {
         "n": "SK Vibemaker",
         "s": "2026-02-05T13:00:00Z",
@@ -2520,7 +2480,8 @@
         "d": null,
         "j": "DJ Boeing 747",
         "u": null,
-        "p": "djplead"
+        "p": "djplead",
+        "t": "monthly"
       },
       {
         "n": "Alicia",
@@ -2653,83 +2614,233 @@
         "u": null,
         "t": "monthly",
         "p": "djfuckoff"
-      }
-    ],
-    "rinsefr": [
+      },
       {
-        "n": "Playlist France",
-        "s": "2026-02-05T08:00:00Z",
-        "e": "2026-02-05T13:00:00Z",
+        "n": "ESC",
+        "s": "2026-02-07T00:00:00Z",
+        "e": "2026-02-07T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "esc"
+      },
+      {
+        "n": "Huey Mnemonic",
+        "s": "2026-02-07T01:00:00Z",
+        "e": "2026-02-07T02:00:00Z",
+        "d": null,
+        "j": "B2B Shawescape",
+        "u": null,
+        "t": "monthly",
+        "p": "hueymnemonic"
+      },
+      {
+        "n": "DJ Plead",
+        "s": "2026-02-07T02:00:00Z",
+        "e": "2026-02-07T03:00:00Z",
+        "d": null,
+        "j": "DJ Boeing 747",
+        "u": null,
+        "t": "monthly",
+        "p": "djplead"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-02-07T03:00:00Z",
+        "e": "2026-02-07T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "Playlist France",
-        "s": "2026-02-05T13:00:00Z",
-        "e": "2026-02-05T14:00:00Z",
+        "n": "Jordan Mae",
+        "s": "2026-02-07T06:00:00Z",
+        "e": "2026-02-07T07:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "DOUBLE-O-THEATRE",
-        "s": "2026-02-05T14:00:00Z",
-        "e": "2026-02-05T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Louise Pétrouchka",
-        "s": "2026-02-05T15:00:00Z",
-        "e": "2026-02-05T16:00:00Z",
-        "d": null,
-        "j": "Double Tap avec Kokoprisci",
+        "j": "Soul Selections - Just You, Just me",
         "u": null,
         "t": "biweekly",
-        "p": "kokoprisci"
+        "p": "jordanmae"
       },
       {
-        "n": "Artem",
-        "s": "2026-02-05T16:00:00Z",
-        "e": "2026-02-05T17:00:00Z",
+        "n": "Playlist",
+        "s": "2026-02-07T07:00:00Z",
+        "e": "2026-02-07T09:00:00Z",
         "d": null,
-        "j": "CHEYANNE HUDSON",
+        "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "playlist"
       },
       {
-        "n": "carin kelly",
-        "s": "2026-02-05T17:00:00Z",
-        "e": "2026-02-05T18:00:00Z",
+        "n": "Breakfast with RIZ LA TEEF",
+        "s": "2026-02-07T09:00:00Z",
+        "e": "2026-02-07T11:00:00Z",
+        "d": null,
+        "j": "2-STEP SPECIAL",
+        "u": null,
+        "t": "biweekly",
+        "p": "rizlateef"
+      },
+      {
+        "n": "Hi-Fidelity",
+        "s": "2026-02-07T11:00:00Z",
+        "e": "2026-02-07T13:00:00Z",
+        "d": null,
+        "j": "All My Friends",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Counter Culture",
+        "s": "2026-02-07T13:00:00Z",
+        "e": "2026-02-07T15:00:00Z",
+        "d": null,
+        "j": "Next Door Records",
+        "u": null,
+        "t": "weekly",
+        "p": "counterculture"
+      },
+      {
+        "n": "Interstellar Funk",
+        "s": "2026-02-07T15:00:00Z",
+        "e": "2026-02-07T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Danny Rankin",
+        "s": "2026-02-07T16:00:00Z",
+        "e": "2026-02-07T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "dannyrankin"
+      },
+      {
+        "n": "Lili Chan",
+        "s": "2026-02-07T17:00:00Z",
+        "e": "2026-02-07T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "carinkelly"
+        "p": "lilichan"
       },
       {
-        "n": "Anaco",
-        "s": "2026-02-05T18:00:00Z",
-        "e": "2026-02-05T19:00:00Z",
+        "n": "George FitzGerald",
+        "s": "2026-02-07T18:00:00Z",
+        "e": "2026-02-07T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "anaco"
+        "t": "monthly",
+        "p": "georgefitzgerald"
       },
       {
-        "n": "2much",
+        "n": "CASE",
+        "s": "2026-02-07T19:00:00Z",
+        "e": "2026-02-07T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "case"
+      },
+      {
+        "n": "Jackmaster B2B Seth Troxler",
+        "s": "2026-02-07T20:00:00Z",
+        "e": "2026-02-07T22:00:00Z",
+        "d": null,
+        "j": "From The Vault (2018)",
+        "u": null
+      },
+      {
+        "n": "AMMARA",
+        "s": "2026-02-07T22:00:00Z",
+        "e": "2026-02-07T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ammara"
+      },
+      {
+        "n": "Riordan",
+        "s": "2026-02-07T23:00:00Z",
+        "e": "2026-02-08T00:00:00Z",
+        "d": null,
+        "j": "Rinse HQ124",
+        "u": null,
+        "t": "biweekly",
+        "p": "riordan"
+      }
+    ],
+    "rinsefr": [
+      {
+        "n": "Technopol",
+        "s": "2026-02-05T13:00:00Z",
+        "e": "2026-02-05T14:00:00Z",
+        "d": null,
+        "j": "Technopol #51 Historique de la mise au patrimoine des musiques électroniques, en quoi est ce important?  avec Dominique Muller, Elsa Freyheit, Antoine Baduel, Tommy Vaudecrane. Modéré par Chloé Gatignol et Thomas Boyer",
+        "u": null,
+        "t": "monthly",
+        "p": "technopol"
+      },
+      {
+        "n": "Jim Irie",
+        "s": "2026-02-05T14:00:00Z",
+        "e": "2026-02-05T15:00:00Z",
+        "d": null,
+        "j": "présente one love",
+        "u": null,
+        "p": "jimirie"
+      },
+      {
+        "n": "Queer Cult",
+        "s": "2026-02-05T15:00:00Z",
+        "e": "2026-02-05T16:00:00Z",
+        "d": null,
+        "j": "DJ Monique invite Tzena Urena",
+        "u": null,
+        "t": "biweekly",
+        "p": "queercult"
+      },
+      {
+        "n": "LA CREOLE",
+        "s": "2026-02-05T16:00:00Z",
+        "e": "2026-02-05T17:00:00Z",
+        "d": null,
+        "j": "invite 0NOEMA B2B GREG",
+        "u": null,
+        "t": "biweekly",
+        "p": "lacreole"
+      },
+      {
+        "n": "Carlos do Complexo",
+        "s": "2026-02-05T17:00:00Z",
+        "e": "2026-02-05T18:00:00Z",
+        "d": null,
+        "j": "COMPLEXCITY",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Mariad",
+        "s": "2026-02-05T18:00:00Z",
+        "e": "2026-02-05T19:00:00Z",
+        "d": null,
+        "j": "DORMIR DEBOUT INVITE TOUCHING ICE",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "SOA420",
         "s": "2026-02-05T19:00:00Z",
         "e": "2026-02-05T20:00:00Z",
         "d": null,
-        "j": "invite Panteros666",
-        "u": null,
-        "t": "biweekly"
+        "j": "Reggae & Dub Cover Songs",
+        "u": null
       },
       {
         "n": "Playlist France",
@@ -2759,68 +2870,65 @@
         "t": "playlist"
       },
       {
-        "n": "Technopol",
+        "n": "Meel B & Deela",
         "s": "2026-02-06T13:00:00Z",
         "e": "2026-02-06T14:00:00Z",
         "d": null,
-        "j": "Technopol #51 Historique de la mise au patrimoine des musiques électroniques, en quoi est ce important?  avec Dominique Muller, Elsa Freyheit, Antoine Baduel, Tommy Vaudecrane. Modéré par Chloé Gatignol et Thomas Boyer",
-        "u": null,
-        "t": "monthly",
-        "p": "technopol"
+        "j": null,
+        "u": null
       },
       {
-        "n": "Jim Irie",
+        "n": "guerre maladie famine",
         "s": "2026-02-06T14:00:00Z",
         "e": "2026-02-06T15:00:00Z",
         "d": null,
-        "j": "présente one love",
-        "u": null,
-        "p": "jimirie"
+        "j": null,
+        "u": null
       },
       {
-        "n": "Queer Cult",
+        "n": "Griffes d'Anges",
         "s": "2026-02-06T15:00:00Z",
         "e": "2026-02-06T16:00:00Z",
         "d": null,
-        "j": "DJ Monique invite Tzena Urena",
+        "j": "présente KIMMEA",
         "u": null,
-        "t": "biweekly",
-        "p": "queercult"
+        "t": "biweekly"
       },
       {
-        "n": "LA CREOLE",
+        "n": "Rama",
         "s": "2026-02-06T16:00:00Z",
         "e": "2026-02-06T17:00:00Z",
         "d": null,
-        "j": "invite 0NOEMA B2B GREG",
+        "j": "Takeover by MVCOKO",
         "u": null,
-        "t": "biweekly",
-        "p": "lacreole"
+        "t": "monthly"
       },
       {
-        "n": "Carlos do Complexo",
+        "n": "RAAR",
         "s": "2026-02-06T17:00:00Z",
         "e": "2026-02-06T18:00:00Z",
         "d": null,
-        "j": "COMPLEXCITY",
+        "j": "SIAK PHD",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "raar"
       },
       {
-        "n": "Mariad",
+        "n": "Vanille",
         "s": "2026-02-06T18:00:00Z",
         "e": "2026-02-06T19:00:00Z",
         "d": null,
-        "j": "DORMIR DEBOUT INVITE TOUCHING ICE",
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "vanille"
       },
       {
-        "n": "SOA420",
+        "n": "Basses Fréquences",
         "s": "2026-02-06T19:00:00Z",
         "e": "2026-02-06T20:00:00Z",
         "d": null,
-        "j": "Reggae & Dub Cover Songs",
+        "j": "Keuj B2B RAVL",
         "u": null
       },
       {
