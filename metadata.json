@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-06T08:31:54.134Z",
+  "updated": "2026-02-06T10:31:30.891Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Ghost Notes Worldwide W/ Nicky Soft Touch & Jojo Soltani",
-        "s": "2026-02-05T20:00:00Z",
-        "e": "2026-02-05T22:00:00Z",
-        "d": "Tune into Ghost Notes Worldwide for that post-twilight sound. Night time music of all strains, with blunted R&B and hip hop instrumentals, neo-downtempo productions, slow jams, and hazy dancefloor sounds.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/impey/episodes/impey-5th-february-2026"
-      },
       {
         "n": "drizle.FM w/ PLO MAN & Kaito",
         "s": "2026-02-05T22:00:00Z",
@@ -77,19 +69,17 @@
         "n": "The NTS Breakfast Show w/ SELASSIE TBC",
         "s": "2026-02-06T09:00:00Z",
         "e": "2026-02-06T11:00:00Z",
-        "d": "Special guest shows from around the world.",
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests"
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-selassie-6th-february-2026"
       },
       {
-        "n": "SOUP TO NUTS W/ SCARY THINGS",
+        "n": "Soup To Nuts w/ GOYA GUMBANI AND DOM P",
         "s": "2026-02-06T11:00:00Z",
         "e": "2026-02-06T13:00:00Z",
-        "d": null,
-        "j": "SCARY THINGS",
-        "u": null,
-        "t": "weekly",
-        "p": "scarythings"
+        "d": "Let NTS brighten up your lunchtime hours.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-goya-gumbani-and-dom-p-6th-february-2026"
       },
       {
         "n": "PUM PUM POWER HOUR W/ LIL C",
@@ -227,26 +217,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
+        "s": "2026-02-07T10:00:00Z",
+        "e": "2026-02-07T12:00:00Z",
+        "d": null,
+        "j": "MACCA",
+        "u": null,
+        "t": "weekly",
+        "p": "macca"
       }
     ],
     "nts2": [
-      {
-        "n": "DARK ENTRIES RECORDS",
-        "s": "2026-02-05T20:00:00Z",
-        "e": "2026-02-05T21:00:00Z",
-        "d": "Dark Entries reissues archival and contemporary gems that prove to be crucial to our modern idea of bodily music that exists out of time. Electro, italo, cold wave, new beat, house, techno from a one-of-a-kind digger who visits dusty basements to rescue lost tapes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dark-entries-record/episodes/dark-entries-record-5th-february-2026"
-      },
-      {
-        "n": "KISS CAFE W/ Maraschino",
-        "s": "2026-02-05T21:00:00Z",
-        "e": "2026-02-05T22:00:00Z",
-        "d": "Piper Durabo AKA Maraschino serves up an assortment of hyperdelic jams from her NYC HQ\nFrom the host: \"soundtrack for the Saturn-Neptune conjunction '26\"",
-        "j": "Maraschino",
-        "u": "https://www.nts.live/api/v2/shows/piper-durabo/episodes/piper-durabo-5th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "Carlos René w/ Rumba Hispano Belga",
         "s": "2026-02-05T22:00:00Z",
@@ -354,18 +337,18 @@
         "n": "NTS GUIDE TO: ANTIPODEAN PUNK, POST PUNK, SYNTH & OTHER ODDITIES (R)",
         "s": "2026-02-06T10:00:00Z",
         "e": "2026-02-06T12:00:00Z",
-        "d": null,
+        "d": "Heading down under for two hours of sounds from the Australian & NZ punk counterculture, selected by NTS. \nImage: Steven Holland",
         "j": "ANTIPODEAN PUNK, POST PUNK, SYNTH & OTHER ODDITIES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-15th-march-2022",
         "t": "restream"
       },
       {
         "n": "In Focus: Nahid Akhtar",
         "s": "2026-02-06T12:00:00Z",
         "e": "2026-02-06T13:00:00Z",
-        "d": null,
+        "d": "A deeper look into the back catalogs of various artists.",
         "j": "Nahid Akhtar",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-nahid-akhtar-6th-february-2026",
         "t": "weekly"
       },
       {
@@ -491,19 +474,27 @@
         "j": "Eyedress",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Image Search (R)",
+        "s": "2026-02-07T07:00:00Z",
+        "e": "2026-02-07T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
+        "s": "2026-02-07T08:00:00Z",
+        "e": "2026-02-07T10:00:00Z",
+        "d": null,
+        "j": "EXOTIC GARDENS",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Slick",
-        "s": "2026-02-05T20:00:00Z",
-        "e": "2026-02-05T21:00:00Z",
-        "d": "Slick is a London-based Producer and DJ combining the sounds of Grime and Drill.\r\nExpect sets to span from sparse wave and weightless to classic NY and UK Drill, with everything in between",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "slick"
-      },
       {
         "n": "J:Kenzo ",
         "s": "2026-02-05T21:00:00Z",
@@ -1723,19 +1714,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Holy Crow w/ Isis Moray",
+        "s": "2026-02-13T10:00:00Z",
+        "e": "2026-02-13T11:00:00Z",
+        "d": null,
+        "j": "Isis Moray",
+        "u": null,
+        "t": "monthly",
+        "p": "holycrowwisismoray"
       }
     ],
     "dublab": [
-      {
-        "n": "Jimmy Tamborello - Dying Songs",
-        "s": "2026-02-05T20:00:00Z",
-        "e": "2026-02-05T22:00:00Z",
-        "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
-        "j": "Dying Songs",
-        "u": null,
-        "t": "weekly",
-        "p": "jimmytamborello"
-      },
       {
         "n": "Deepbody – Digi Drift",
         "s": "2026-02-05T22:00:00Z",
@@ -1797,6 +1788,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-06T10:00:00Z",
         "e": "2026-02-06T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-06T12:00:00Z",
+        "e": "2026-02-06T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2371,14 +2371,6 @@
     ],
     "rinse": [
       {
-        "n": "Djrum",
-        "s": "2026-02-05T20:00:00Z",
-        "e": "2026-02-05T22:00:00Z",
-        "d": null,
-        "j": "From The Vault (2015)",
-        "u": null
-      },
-      {
         "n": "Pariah presents Voam",
         "s": "2026-02-05T22:00:00Z",
         "e": "2026-02-05T23:00:00Z",
@@ -2812,11 +2804,11 @@
         "t": "playlist"
       },
       {
-        "n": "Meel B & Deela",
+        "n": "Meel B",
         "s": "2026-02-07T13:00:00Z",
         "e": "2026-02-07T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite Deela & Teyma",
         "u": null
       },
       {
