@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-06T01:15:10.898Z",
+  "updated": "2026-02-06T04:07:11.855Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GABI",
-        "s": "2026-02-05T13:00:00Z",
-        "e": "2026-02-05T14:00:00Z",
-        "d": "Musical peregrinations from Gabi, guiding listeners through new wave, post punk and synth. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gabi/episodes/gabi-5th-february-2026",
-        "p": "gabi"
-      },
-      {
-        "n": "Fauzia",
-        "s": "2026-02-05T14:00:00Z",
-        "e": "2026-02-05T15:00:00Z",
-        "d": "Longtime NTS resident, producer, vocalist and DJ Fauzia guides us through the multiplicity of her influences and tastes for an hour each month. Expect everything from frenetic club productions to classical composition, experimental electronics and beyond. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fauzia/episodes/fauzia-5th-february-2026",
-        "t": "monthly",
-        "p": "fauzia"
-      },
       {
         "n": "SECRETSUNDAZE",
         "s": "2026-02-05T15:00:00Z",
@@ -95,18 +76,19 @@
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS (R)",
         "s": "2026-02-06T04:00:00Z",
         "e": "2026-02-06T06:00:00Z",
-        "d": null,
+        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
         "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "u": null,
-        "t": "restream"
+        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-7th-october-2025",
+        "t": "restream",
+        "p": "channeling"
       },
       {
         "n": "Recurring Dream (R)",
         "s": "2026-02-06T06:00:00Z",
         "e": "2026-02-06T07:00:00Z",
-        "d": null,
+        "d": "Every month, a Recurring Dream - from Sanpo Disco's Rowan Mason.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/recurring-dream/episodes/recurring-dream-wednesday-27th-may",
         "t": "restream"
       },
       {
@@ -143,7 +125,8 @@
         "d": null,
         "j": "LIL C",
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "lilc"
       },
       {
         "n": "FREEWATER w/ SNAKE OF FREEDOM",
@@ -151,7 +134,8 @@
         "e": "2026-02-06T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "freewater"
       },
       {
         "n": "SLAP CITY W/ ARCHITECT",
@@ -177,7 +161,8 @@
         "e": "2026-02-06T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "charissec"
       },
       {
         "n": "RUF DUG",
@@ -186,7 +171,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "rufdug"
       },
       {
         "n": "OH OH W KO_OL & CO",
@@ -221,35 +207,37 @@
         "j": "BRISTOL BASS, WAREHOUSE BEATS & SOUNDSYSTEM SOUL",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Nosedrip (R)",
+        "s": "2026-02-07T02:00:00Z",
+        "e": "2026-02-07T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "nosedrip"
+      },
+      {
+        "n": "Okonkole (R)",
+        "s": "2026-02-07T04:00:00Z",
+        "e": "2026-02-07T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "NTS Guide to: International Dream Pop, Space Rock & Shoegaze 1990-2001 (R)",
+        "s": "2026-02-07T06:00:00Z",
+        "e": "2026-02-07T07:00:00Z",
+        "d": null,
+        "j": "International Dream Pop, Space Rock & Shoegaze 1990-2001",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "FRAGRANT SACRIFICE w/ NAIMA Nefertari",
-        "s": "2026-02-05T13:00:00Z",
-        "e": "2026-02-05T14:00:00Z",
-        "d": "Artist & composer Naima Karlsson explores esoteric themes through the mediums of spiritual & free jazz, idiosyncratic folk music, spoken word, improvisation and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/naima/episodes/naima-5th-february-2026"
-      },
-      {
-        "n": "Susannah Stark",
-        "s": "2026-02-05T14:00:00Z",
-        "e": "2026-02-05T15:00:00Z",
-        "d": "Delving into history and mythology in an hour long mix from multi-lingual Scottish songwriter Susannah Stark, playing Irish and Scottish folk, solo organ compositions, spoken word and more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/susannah-stark-5th-february-2026"
-      },
-      {
-        "n": "GEORGIA",
-        "s": "2026-02-05T15:00:00Z",
-        "e": "2026-02-05T16:00:00Z",
-        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-5th-february-2026",
-        "t": "monthly",
-        "p": "georgia"
-      },
       {
         "n": "AUTOTUNE THE WORLD W/ CHRISTOPHER KIRKLEY",
         "s": "2026-02-05T16:00:00Z",
@@ -284,7 +272,8 @@
         "d": "Sacred Pools is a monthly show, rotating between DJ October, Faso and Toshiki Ohta. All three hosts showcase a varied and intriguing combination of music on the Sacred Pools show - from harshly metallic noise rock, unhinged post-punk, chillingly minimal synth, breakbeat rave and pervy wedding disco.\nFrom the host: \"A long overdue new-beat special playing tracks between the years of 1986 to 1992\"",
         "j": "October",
         "u": "https://www.nts.live/api/v2/shows/sacred-pools/episodes/sacred-pools-5th-february-2026",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "sacredpools"
       },
       {
         "n": "DARK ENTRIES RECORDS",
@@ -337,7 +326,8 @@
         "e": "2026-02-06T02:00:00Z",
         "d": "Joyful global club sounds with NYC via London party starter The Large\nFrom the host: _\"new and heavy music from brazil, jamaica, france, portugal + more\" _",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-large/episodes/the-large-6th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/the-large/episodes/the-large-6th-february-2026",
+        "p": "thelarge"
       },
       {
         "n": "Screwboss Radio w/ Marcy Mane",
@@ -353,18 +343,18 @@
         "n": "NTS Guide to: Chinese Underground Rap (R)",
         "s": "2026-02-06T04:00:00Z",
         "e": "2026-02-06T05:00:00Z",
-        "d": null,
+        "d": "Taking a generous definition of 'rap' in this snapshot hour of China's flourishing new music scenes reacting to the new waves of underground rap offshoots taking off in the US and UK.",
         "j": "Chinese Underground Rap",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-24th-november-2025",
         "t": "restream"
       },
       {
         "n": "LIV.E (R)",
         "s": "2026-02-06T05:00:00Z",
         "e": "2026-02-06T06:00:00Z",
-        "d": null,
+        "d": "Rose tinted selections in a one-off guest session from alt-R'n'B singer and songwriter, Liv.e.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/liv-e/episodes/liv-e-live-30th-october-2020",
         "t": "restream"
       },
       {
@@ -393,7 +383,8 @@
         "d": null,
         "j": "Neil Krug",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "neilkrug"
       },
       {
         "n": "ICHIKO AOBA (R)",
@@ -437,7 +428,8 @@
         "e": "2026-02-06T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "fonts"
       },
       {
         "n": "DRY CLEANING",
@@ -445,7 +437,8 @@
         "e": "2026-02-06T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "drycleaning"
       },
       {
         "n": "OLIVIA O.",
@@ -463,7 +456,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "saraa"
       },
       {
         "n": "GINKGO RECORDS W/ NICOLE MISHA",
@@ -488,39 +482,27 @@
         "d": null,
         "j": "MIDWIFE",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "midwife"
+      },
+      {
+        "n": "CRY LATER W/ TROPIC OF CANCER",
+        "s": "2026-02-06T23:00:00Z",
+        "e": "2026-02-07T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Bump City",
+        "s": "2026-02-07T00:00:00Z",
+        "e": "2026-02-07T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "QUIN-B",
-        "s": "2026-02-05T13:00:00Z",
-        "e": "2026-02-05T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "quinb"
-      },
-      {
-        "n": " Start Dancing Now",
-        "s": "2026-02-05T14:00:00Z",
-        "e": "2026-02-05T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "startdancingnow"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-02-05T15:00:00Z",
-        "e": "2026-02-05T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "World Clique ",
         "s": "2026-02-05T16:00:00Z",
@@ -622,6 +604,15 @@
         "u": null,
         "t": "monthly",
         "p": "patternrecognitionwrally"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-06T05:00:00Z",
+        "e": "2026-02-06T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Decay ",
@@ -1740,27 +1731,37 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Pete Shredz",
+        "s": "2026-02-13T02:00:00Z",
+        "e": "2026-02-13T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "peteshredz"
+      },
+      {
+        "n": "Macks",
+        "s": "2026-02-13T03:00:00Z",
+        "e": "2026-02-13T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Lava Recordings with 99 ranch",
+        "s": "2026-02-13T04:00:00Z",
+        "e": "2026-02-13T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-05T12:00:00Z",
-        "e": "2026-02-05T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-05T14:00:00Z",
-        "e": "2026-02-05T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-02-05T16:00:00Z",
@@ -2393,29 +2394,28 @@
         "u": null,
         "t": "monthly",
         "p": "frankiejaxnomad"
+      },
+      {
+        "n": "Frosty - Celsius Drop",
+        "s": "2026-02-13T02:00:00Z",
+        "e": "2026-02-13T04:00:00Z",
+        "d": null,
+        "j": "Celsius Drop",
+        "u": null,
+        "t": "monthly",
+        "p": "frosty"
+      },
+      {
+        "n": "Pacific Beach Playback",
+        "s": "2026-02-13T04:00:00Z",
+        "e": "2026-02-13T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-02-05T13:00:00Z",
-        "e": "2026-02-05T14:00:00Z",
-        "d": null,
-        "j": "J Dilla Mix",
-        "u": null,
-        "t": "weekly",
-        "p": "skvibemaker"
-      },
-      {
-        "n": "Mr. Redley",
-        "s": "2026-02-05T14:00:00Z",
-        "e": "2026-02-05T15:00:00Z",
-        "d": null,
-        "j": "The Black Wine Club Show",
-        "u": null,
-        "t": "biweekly",
-        "p": "mrredley"
-      },
       {
         "n": "Tom Ravenscroft",
         "s": "2026-02-05T15:00:00Z",
@@ -2777,35 +2777,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Technopol",
-        "s": "2026-02-05T13:00:00Z",
-        "e": "2026-02-05T14:00:00Z",
-        "d": null,
-        "j": "Technopol #51 Historique de la mise au patrimoine des musiques électroniques, en quoi est ce important?  avec Dominique Muller, Elsa Freyheit, Antoine Baduel, Tommy Vaudecrane. Modéré par Chloé Gatignol et Thomas Boyer",
-        "u": null,
-        "t": "monthly",
-        "p": "technopol"
-      },
-      {
-        "n": "Jim Irie",
-        "s": "2026-02-05T14:00:00Z",
-        "e": "2026-02-05T15:00:00Z",
-        "d": null,
-        "j": "présente one love",
-        "u": null,
-        "p": "jimirie"
-      },
-      {
-        "n": "Queer Cult",
-        "s": "2026-02-05T15:00:00Z",
-        "e": "2026-02-05T16:00:00Z",
-        "d": null,
-        "j": "DJ Monique invite Tzena Urena",
-        "u": null,
-        "t": "biweekly",
-        "p": "queercult"
-      },
       {
         "n": "LA CREOLE",
         "s": "2026-02-05T16:00:00Z",
