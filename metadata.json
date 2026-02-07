@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-02-07T10:17:13.092Z",
+  "updated": "2026-02-07T12:29:11.995Z",
   "stations": {
     "nts1": [
       {
@@ -83,9 +83,10 @@
         "n": "Sophie Mccalister",
         "s": "2026-02-07T14:00:00Z",
         "e": "2026-02-07T15:00:00Z",
-        "d": null,
+        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-7th-february-2026",
+        "t": "monthly",
         "p": "sophie"
       },
       {
@@ -222,29 +223,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE SLIP",
+        "s": "2026-02-08T10:00:00Z",
+        "e": "2026-02-08T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "MACHINES OF LOVING GRACE W/ MIDWIFE",
-        "s": "2026-02-06T22:00:00Z",
-        "e": "2026-02-06T23:00:00Z",
-        "d": "Midwife’s multi-instrumentalist and recording engineer Madeline Johnston presents “Machines of Loving Grace,” a monthly transmission featuring her new finds and old favorites with a focus on the golden age of DIY community, cosmic sentimentalism, world music, and experimental pop. “Machines of Loving Grace” is a gateway into Johnston’s process and personal soundtrack.\nInspired by the Richard Brautigan poem, Midwife’s curated playlists explore the idea of “a cybernetic ecology;” acoustic and electronic sources reflect on our humanity as well as our animalistic nature in the context of a digital landscape. ",
-        "j": "MIDWIFE",
-        "u": "https://www.nts.live/api/v2/shows/midwife/episodes/midwife-6th-february-2026",
-        "t": "monthly",
-        "p": "midwife"
-      },
-      {
-        "n": "CRY LATER W/ TROPIC OF CANCER",
-        "s": "2026-02-06T23:00:00Z",
-        "e": "2026-02-07T00:00:00Z",
-        "d": "Camella Lobo, aka Tropic of Cancer, takes to the air once a month for Cry Later. Tune in for a dedication hour of songs selected by listeners in honor of their lovers and loved ones. Send a personal message and song selection to cryinglater@gmail.com\nFrom the host: \"Classic indie and old timey love songs most likely found on an early 2000s iPod Valentine mix. Happy Valentine's day to all who celebrate love.\"",
-        "j": "TROPIC OF CANCER",
-        "u": "https://www.nts.live/api/v2/shows/tropic-of-cancer/episodes/tropic-of-cancer-6th-february-2026",
-        "t": "monthly",
-        "p": "tropicofcancer"
-      },
       {
         "n": "Bump City w/ Billy Goods & Yamagucci",
         "s": "2026-02-07T00:00:00Z",
@@ -337,18 +327,18 @@
         "n": "ROUGH VERSION w/ Cooking Sections",
         "s": "2026-02-07T12:00:00Z",
         "e": "2026-02-07T13:00:00Z",
-        "d": null,
+        "d": "Francesca Gavin talks to contemporary artists about their work, music, and the relationships between. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rough-version/episodes/rough-version-7th-february-2026",
         "p": "roughversion"
       },
       {
-        "n": "Xiu Xiu",
+        "n": "Music Mania w/ Xiu Xiu",
         "s": "2026-02-07T13:00:00Z",
         "e": "2026-02-07T14:00:00Z",
-        "d": null,
+        "d": "Jamie and Angela of US experimental rock outsiders Xiu Xiu stop by the London studio.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/xiu-xiu-6th-february-2026"
       },
       {
         "n": "YOUTH",
@@ -468,18 +458,36 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " Fuuki Fam",
-        "s": "2026-02-06T22:00:00Z",
-        "e": "2026-02-07T00:00:00Z",
+        "n": "Post-Geography (R)",
+        "s": "2026-02-08T06:00:00Z",
+        "e": "2026-02-08T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
+      {
+        "n": "THE WITCHING HOUR (R)",
+        "s": "2026-02-08T07:00:00Z",
+        "e": "2026-02-08T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "80s Rampwalk (R)",
+        "s": "2026-02-08T08:00:00Z",
+        "e": "2026-02-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Programm Ldn",
         "s": "2026-02-07T00:00:00Z",
@@ -555,6 +563,15 @@
         "u": null,
         "t": "monthly",
         "p": "mattybantonrootsdubs"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-07T12:00:00Z",
+        "e": "2026-02-07T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Live & Direct w/ Hannah",
@@ -1657,19 +1674,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Poolside Convo w/ Gabe",
+        "s": "2026-02-14T11:00:00Z",
+        "e": "2026-02-14T12:00:00Z",
+        "d": null,
+        "j": "Gabe",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Cam Christie",
+        "s": "2026-02-14T12:00:00Z",
+        "e": "2026-02-14T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "camchristie"
       }
     ],
     "dublab": [
-      {
-        "n": "Secret Circuit - Cosmic Neighborhood",
-        "s": "2026-02-06T22:00:00Z",
-        "e": "2026-02-07T00:00:00Z",
-        "d": null,
-        "j": "Cosmic Neighborhood",
-        "u": null,
-        "t": "monthly",
-        "p": "secretcircuit"
-      },
       {
         "n": "Dor Wand – Open Heart Social Club",
         "s": "2026-02-07T00:00:00Z",
@@ -1732,6 +1758,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-07T12:00:00Z",
         "e": "2026-02-07T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-07T16:00:00Z",
+        "e": "2026-02-07T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2317,29 +2352,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-14T12:00:00Z",
+        "e": "2026-02-14T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Anna Lunoe",
-        "s": "2026-02-06T22:00:00Z",
-        "e": "2026-02-06T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "annalunoe",
-        "t": "monthly"
-      },
-      {
-        "n": "DJ Fuckoff",
-        "s": "2026-02-06T23:00:00Z",
-        "e": "2026-02-07T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "djfuckoff"
-      },
       {
         "n": "ESC",
         "s": "2026-02-07T00:00:00Z",
@@ -2635,15 +2659,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-02-06T20:00:00Z",
-        "e": "2026-02-06T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-02-06T23:00:00Z",
