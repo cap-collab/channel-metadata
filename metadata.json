@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-07T06:32:06.285Z",
+  "updated": "2026-02-07T08:21:25.421Z",
   "stations": {
     "nts1": [
-      {
-        "n": "RUF DUG",
-        "s": "2026-02-06T18:00:00Z",
-        "e": "2026-02-06T19:00:00Z",
-        "d": "Ruf Dug brings the leftfield: old video game soundtracks, dusty analogue dreamers and poolside Balearic sounds. No nonsense from the original tropical cyberpunk.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ruf-dug/episodes/ruf-dug-6th-february-2026",
-        "t": "biweekly",
-        "p": "rufdug"
-      },
-      {
-        "n": "OH OH W KO_OL & CO",
-        "s": "2026-02-06T19:00:00Z",
-        "e": "2026-02-06T20:00:00Z",
-        "d": "Rfc M___m? Agnfcp gq y qmlga rpcyrgqc ml ksqgayj ylb asjrspyj qrceylmepynfw, bgqesgqcb yq y pybgm qfmu.\nHint :\nNOT - R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Right, Up\ninfo@ko-ol.co.uk\nFor archive Sweet Boy Shows:Click Here",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/O___o/episodes/o___o-6th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "THE EXHIBITION HOUR W/ DAZEGXD",
         "s": "2026-02-06T20:00:00Z",
@@ -89,18 +70,18 @@
         "n": "YOUARELISTENING.TO",
         "s": "2026-02-07T08:00:00Z",
         "e": "2026-02-07T10:00:00Z",
-        "d": null,
+        "d": "Youarelistening.to mixes ambient music with police scanner radio, air-traffic control, numbers stations, spoken word & a bunch of other random things. Found footage, musique concrete, and the perfect ambience.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/youarelisteningto/episodes/youarelisteningto-7th-february-2026",
         "t": "monthly"
       },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-02-07T10:00:00Z",
         "e": "2026-02-07T12:00:00Z",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": "MACCA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-7th-february-2026",
         "t": "weekly",
         "p": "macca"
       },
@@ -231,27 +212,27 @@
         "u": null,
         "t": "restream",
         "p": "naomi"
+      },
+      {
+        "n": "MARTIN NEWELL'S ODDCASTE",
+        "s": "2026-02-08T07:30:00Z",
+        "e": "2026-02-08T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "THEA HD",
+        "s": "2026-02-08T08:00:00Z",
+        "e": "2026-02-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "SARA A",
-        "s": "2026-02-06T18:00:00Z",
-        "e": "2026-02-06T19:00:00Z",
-        "d": "Lesser heard sounds with a focus on femmes in punk from artist and musician Sara A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-6th-february-2026",
-        "t": "monthly",
-        "p": "saraa"
-      },
-      {
-        "n": "GINKGO RECORDS W/ NICOLE MISHA",
-        "s": "2026-02-06T19:00:00Z",
-        "e": "2026-02-06T20:00:00Z",
-        "d": "From the host: \"BIG AQUARIUS MIX by nicole misha. \nplaying records in planetmy_room.\ndance / feel / express / glow\nall records are from 1980 to 1992.\" _",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ccc---shells/episodes/ccc---shells-6th-february-2026"
-      },
       {
         "n": "HIGH NOON VD SPECIAL \"NOON-LUV\"",
         "s": "2026-02-06T20:00:00Z",
@@ -338,18 +319,18 @@
         "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
         "s": "2026-02-07T08:00:00Z",
         "e": "2026-02-07T10:00:00Z",
-        "d": null,
+        "d": "Slayron of Peaking Lights heads up Rockers Delight, two hours of all things dub, reggae, and lovers rock once a month from the LA studio.",
         "j": "EXOTIC GARDENS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/peaking-lights/episodes/peaking-lights-15th-august-2025",
         "t": "restream"
       },
       {
         "n": "ROOMER (R)",
         "s": "2026-02-07T10:00:00Z",
         "e": "2026-02-07T11:00:00Z",
-        "d": null,
+        "d": "Berlin based dream pop trio Roomer hop on NTS ahead of their show tomorrow at The ICA with Courtesy and Lolina. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/roomer-5th-december-2025",
         "t": "restream"
       },
       {
@@ -476,29 +457,27 @@
         "j": "PLO MAN",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "TILDA",
-        "s": "2026-02-06T18:00:00Z",
-        "e": "2026-02-06T19:00:00Z",
-        "d": "DJ and radio producer TILDA will be live from the studio to kick off your weekend. She’ll cover all corners of electronic music as well as showcasing unmissable new tracks & chatting about motives for the weekend. \r\n\r\nEach month TILDA will be closing the show with a signature mix.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "tilda"
       },
       {
-        "n": "DJ Squarewave",
-        "s": "2026-02-06T19:00:00Z",
-        "e": "2026-02-06T20:00:00Z",
+        "n": "Séance Centre (R)",
+        "s": "2026-02-08T02:00:00Z",
+        "e": "2026-02-08T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "djsquarewave"
+        "t": "restream"
       },
+      {
+        "n": "No Weapon Is Absolute (R)",
+        "s": "2026-02-08T03:00:00Z",
+        "e": "2026-02-08T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "ON ROAD",
         "s": "2026-02-06T20:00:00Z",
@@ -1677,19 +1656,18 @@
         "u": null,
         "t": "monthly",
         "p": "thecomplexcurve"
+      },
+      {
+        "n": "REFERENCES...w/ KPB",
+        "s": "2026-02-14T08:00:00Z",
+        "e": "2026-02-14T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Daddy Differently and Dirty Dave - Things of Life",
-        "s": "2026-02-06T18:00:00Z",
-        "e": "2026-02-06T20:00:00Z",
-        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
-        "j": "Things of Life",
-        "u": null,
-        "t": "weekly",
-        "p": "daddydifferently"
-      },
       {
         "n": "Masha Mar – Analogue Players Club",
         "s": "2026-02-06T20:00:00Z",
@@ -1763,6 +1741,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-07T08:00:00Z",
         "e": "2026-02-07T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-07T10:00:00Z",
+        "e": "2026-02-07T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2348,19 +2335,18 @@
         "u": null,
         "t": "monthly",
         "p": "paradise"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-14T08:00:00Z",
+        "e": "2026-02-14T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Ella Knight",
-        "s": "2026-02-06T18:00:00Z",
-        "e": "2026-02-06T20:00:00Z",
-        "d": null,
-        "j": "Simon Dunmore",
-        "u": null,
-        "t": "biweekly",
-        "p": "ellaknight"
-      },
       {
         "n": "Stay On Sight with Skin On Skin",
         "s": "2026-02-06T20:00:00Z",
@@ -2686,24 +2672,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Vanille",
-        "s": "2026-02-06T18:00:00Z",
-        "e": "2026-02-06T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "vanille"
-      },
-      {
-        "n": "Basses Fréquences",
-        "s": "2026-02-06T19:00:00Z",
-        "e": "2026-02-06T20:00:00Z",
-        "d": null,
-        "j": "Keuj B2B RAVL",
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2026-02-06T20:00:00Z",
         "e": "2026-02-06T23:00:00Z",
@@ -2731,9 +2699,97 @@
         "t": "playlist"
       },
       {
-        "n": "La Sunday Abidjan",
+        "n": "Meel B",
         "s": "2026-02-07T13:00:00Z",
         "e": "2026-02-07T14:00:00Z",
+        "d": null,
+        "j": "invite Deela et Teyma",
+        "u": null
+      },
+      {
+        "n": "guerre maladie famine",
+        "s": "2026-02-07T14:00:00Z",
+        "e": "2026-02-07T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Griffes d'Anges",
+        "s": "2026-02-07T15:00:00Z",
+        "e": "2026-02-07T16:00:00Z",
+        "d": null,
+        "j": "présente KIMMEA",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Rama",
+        "s": "2026-02-07T16:00:00Z",
+        "e": "2026-02-07T17:00:00Z",
+        "d": null,
+        "j": "Takeover by MVCOKO",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "RAAR",
+        "s": "2026-02-07T17:00:00Z",
+        "e": "2026-02-07T18:00:00Z",
+        "d": null,
+        "j": "SIAK PHD",
+        "u": null,
+        "t": "biweekly",
+        "p": "raar"
+      },
+      {
+        "n": "Vanille",
+        "s": "2026-02-07T18:00:00Z",
+        "e": "2026-02-07T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "vanille"
+      },
+      {
+        "n": "Basses Fréquences",
+        "s": "2026-02-07T19:00:00Z",
+        "e": "2026-02-07T20:00:00Z",
+        "d": null,
+        "j": "Keuj B2B RAVL",
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-07T20:00:00Z",
+        "e": "2026-02-07T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-07T23:00:00Z",
+        "e": "2026-02-08T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-08T08:00:00Z",
+        "e": "2026-02-08T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "La Sunday Abidjan",
+        "s": "2026-02-08T13:00:00Z",
+        "e": "2026-02-08T14:00:00Z",
         "d": null,
         "j": "Jeune Lio - Spécial Saint Valentin",
         "u": null,
@@ -2742,8 +2798,8 @@
       },
       {
         "n": "ElectrAfrique",
-        "s": "2026-02-07T14:00:00Z",
-        "e": "2026-02-07T15:00:00Z",
+        "s": "2026-02-08T14:00:00Z",
+        "e": "2026-02-08T15:00:00Z",
         "d": null,
         "j": "invite BOSSIIE",
         "u": null,
@@ -2752,16 +2808,16 @@
       },
       {
         "n": "Vvpete & Utility",
-        "s": "2026-02-07T15:00:00Z",
-        "e": "2026-02-07T16:00:00Z",
+        "s": "2026-02-08T15:00:00Z",
+        "e": "2026-02-08T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Paloma Colombe",
-        "s": "2026-02-07T16:00:00Z",
-        "e": "2026-02-07T17:00:00Z",
+        "s": "2026-02-08T16:00:00Z",
+        "e": "2026-02-08T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2770,8 +2826,8 @@
       },
       {
         "n": "[re]sources",
-        "s": "2026-02-07T17:00:00Z",
-        "e": "2026-02-07T18:00:00Z",
+        "s": "2026-02-08T17:00:00Z",
+        "e": "2026-02-08T18:00:00Z",
         "d": null,
         "j": "avec Tommy Kid (Early Dubstep Tribute)",
         "u": null,
@@ -2779,8 +2835,8 @@
       },
       {
         "n": "LU2K",
-        "s": "2026-02-07T18:00:00Z",
-        "e": "2026-02-07T19:00:00Z",
+        "s": "2026-02-08T18:00:00Z",
+        "e": "2026-02-08T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2789,8 +2845,8 @@
       },
       {
         "n": "Eclipse Tribez",
-        "s": "2026-02-07T19:00:00Z",
-        "e": "2026-02-07T20:00:00Z",
+        "s": "2026-02-08T19:00:00Z",
+        "e": "2026-02-08T20:00:00Z",
         "d": null,
         "j": "invite Skimir (100% Productions Mix)",
         "u": null,
@@ -2798,8 +2854,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-07T20:00:00Z",
-        "e": "2026-02-07T21:00:00Z",
+        "s": "2026-02-08T20:00:00Z",
+        "e": "2026-02-08T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
