@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-06T22:15:11.040Z",
+  "updated": "2026-02-07T01:13:57.832Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ SELASSIE TBC",
-        "s": "2026-02-06T09:00:00Z",
-        "e": "2026-02-06T11:00:00Z",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-selassie-6th-february-2026"
-      },
-      {
-        "n": "Soup To Nuts w/ GOYA GUMBANI AND DOM P",
-        "s": "2026-02-06T11:00:00Z",
-        "e": "2026-02-06T13:00:00Z",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-goya-gumbani-and-dom-p-6th-february-2026"
-      },
       {
         "n": "PUM PUM POWER HOUR W/ LIL C",
         "s": "2026-02-06T13:00:00Z",
@@ -266,24 +250,6 @@
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: ANTIPODEAN PUNK, POST PUNK, SYNTH & OTHER ODDITIES (R)",
-        "s": "2026-02-06T10:00:00Z",
-        "e": "2026-02-06T12:00:00Z",
-        "d": "Heading down under for two hours of sounds from the Australian & NZ punk counterculture, selected by NTS. \nImage: Steven Holland",
-        "j": "ANTIPODEAN PUNK, POST PUNK, SYNTH & OTHER ODDITIES",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-15th-march-2022",
-        "t": "restream"
-      },
-      {
-        "n": "In Focus: Nahid Akhtar",
-        "s": "2026-02-06T12:00:00Z",
-        "e": "2026-02-06T13:00:00Z",
-        "d": "60 minutes of music from Pakistani singer Nahid Akhtar, dubbed the \"Nightingale of Pakistan\". Akhtar is most famous for her work as a Lollywood \"playback singer\", performing vocals that would be dubbed into Pakistani musicals. ",
-        "j": "Nahid Akhtar",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-nahid-akhtar-6th-february-2026",
-        "t": "weekly"
-      },
-      {
         "n": "CAROLINA SOUL: Soul, Disco & Islands",
         "s": "2026-02-06T13:00:00Z",
         "e": "2026-02-06T15:00:00Z",
@@ -369,17 +335,17 @@
         "n": "Bump City w/ Billy Goods & Yamagucci",
         "s": "2026-02-07T00:00:00Z",
         "e": "2026-02-07T02:00:00Z",
-        "d": null,
+        "d": "Funkmosphere resident Billy Goods heads up a 2 hour slot with James Yamagucci - all vinyl, all live and direct from our LA studio.\nFrom the host: \"BUMP CITY 061 Mix features 2 hours of sophisticated soul, signature sounds and L.A. vibez w/ residents Yamagucci & Billy Goods.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/billy-goods/episodes/billy-goods-6th-february-2026"
       },
       {
         "n": "Underground & Black w/ k.tea (R)",
         "s": "2026-02-07T02:00:00Z",
         "e": "2026-02-07T03:00:00Z",
-        "d": null,
+        "d": "Self proclaimed “Underground and Black”, Detroit native Ash Lauryn leads her musical charge with a candid love for the historical roots of dance music, and the power of reclamation in modern day America.\nFrom the host: \"This month's show features a guest mix from NYC soulful selector, k.tea! Enjoy the ride.\"",
         "j": "k.tea",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ash-lauryn/episodes/ash-lauryn-30th-october-2025",
         "t": "restream"
       },
       {
@@ -501,39 +467,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "KEEL HER (R)",
+        "s": "2026-02-07T18:00:00Z",
+        "e": "2026-02-07T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ACID MEMORIES W/ ASTRAL VIBES (R)",
+        "s": "2026-02-07T19:00:00Z",
+        "e": "2026-02-07T20:00:00Z",
+        "d": null,
+        "j": "ASTRAL VIBES",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Mid Morning Matters w/ Alfie Danger",
-        "s": "2026-02-06T10:00:00Z",
-        "e": "2026-02-06T11:00:00Z",
-        "d": null,
-        "j": "Alfie Danger",
-        "u": null,
-        "t": "monthly",
-        "p": "midmorningmatterswalfiedanger"
-      },
-      {
-        "n": " Reggie Crookes",
-        "s": "2026-02-06T11:00:00Z",
-        "e": "2026-02-06T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "reggiecrookes"
-      },
-      {
-        "n": "Lemtom",
-        "s": "2026-02-06T12:00:00Z",
-        "e": "2026-02-06T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lemtom"
-      },
       {
         "n": "The Hybrid House Show",
         "s": "2026-02-06T13:00:00Z",
@@ -1724,18 +1678,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-06T10:00:00Z",
-        "e": "2026-02-06T12:00:00Z",
+        "n": "Spaghetti Junction w/ Sartana",
+        "s": "2026-02-14T00:00:00Z",
+        "e": "2026-02-14T01:00:00Z",
+        "d": null,
+        "j": "Sartana",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "MANNRS",
+        "s": "2026-02-14T01:00:00Z",
+        "e": "2026-02-14T02:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "mannrs"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-02-06T12:00:00Z",
@@ -2114,14 +2078,20 @@
         "p": "banahaffar"
       },
       {
-        "n": "Jeremiah Chiu – Some All None",
+        "n": "El Conchitas – guest session",
         "s": "2026-02-10T18:00:00Z",
+        "e": "2026-02-10T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MAXIM ESL – guest session",
+        "s": "2026-02-10T19:00:00Z",
         "e": "2026-02-10T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "jeremiahchiu"
+        "u": null
       },
       {
         "n": "Sonrisita – Butterfly Beat",
@@ -2132,6 +2102,23 @@
         "u": null,
         "t": "monthly",
         "p": "sonrisita"
+      },
+      {
+        "n": "nad1a – guest session",
+        "s": "2026-02-10T22:00:00Z",
+        "e": "2026-02-10T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "rerun: Harry the Nightgown – guest session",
+        "s": "2026-02-10T23:00:00Z",
+        "e": "2026-02-11T00:00:00Z",
+        "d": null,
+        "j": "Harry the Nightgown – guest session",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Hoseh - Version Sounds",
@@ -2368,18 +2355,29 @@
         "u": null,
         "t": "monthly",
         "p": "xicasoul"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Breakfast with Buckley",
-        "s": "2026-02-06T09:00:00Z",
-        "e": "2026-02-06T11:00:00Z",
+        "n": "DJ The Witching Hours - Centrifugues",
+        "s": "2026-02-13T23:00:00Z",
+        "e": "2026-02-14T00:00:00Z",
+        "d": null,
+        "j": "Centrifugues",
+        "u": null,
+        "t": "monthly",
+        "p": "djthewitchinghours"
+      },
+      {
+        "n": "Matt McDermott – En Plein Air",
+        "s": "2026-02-14T00:00:00Z",
+        "e": "2026-02-14T02:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "buckley"
-      },
+        "t": "monthly",
+        "p": "mattmcdermott"
+      }
+    ],
+    "rinse": [
       {
         "n": "Uncle Dugs",
         "s": "2026-02-06T11:00:00Z",
@@ -2436,7 +2434,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "annalunoe"
+        "p": "annalunoe",
+        "t": "monthly"
       },
       {
         "n": "DJ Fuckoff",
@@ -2455,7 +2454,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "esc"
+        "p": "esc",
+        "t": "monthly"
       },
       {
         "n": "Huey Mnemonic",
@@ -2601,87 +2601,207 @@
       {
         "n": "Riordan",
         "s": "2026-02-07T23:00:00Z",
-        "e": "2026-02-08T00:00:00Z",
+        "e": "2026-02-08T01:00:00Z",
         "d": null,
         "j": "Rinse HQ124",
         "u": null,
         "t": "biweekly",
         "p": "riordan"
-      }
-    ],
-    "rinsefr": [
+      },
       {
-        "n": "Playlist France",
-        "s": "2026-02-06T08:00:00Z",
-        "e": "2026-02-06T13:00:00Z",
+        "n": "Amadeezy & Bae Blade",
+        "s": "2026-02-08T01:00:00Z",
+        "e": "2026-02-08T02:00:00Z",
+        "d": null,
+        "j": "The Last Dance",
+        "u": null
+      },
+      {
+        "n": "Anna Lunoe",
+        "s": "2026-02-08T02:00:00Z",
+        "e": "2026-02-08T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "annalunoe"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-02-08T03:00:00Z",
+        "e": "2026-02-08T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "Technopol",
+        "n": "ESC",
+        "s": "2026-02-08T06:00:00Z",
+        "e": "2026-02-08T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "esc"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-02-08T07:00:00Z",
+        "e": "2026-02-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Wisdom Teeth",
+        "s": "2026-02-08T09:00:00Z",
+        "e": "2026-02-08T11:00:00Z",
+        "d": null,
+        "j": "The Sound of Nagoya (Mixed by Abentis)",
+        "u": null,
+        "t": "biweekly",
+        "p": "wisdomteeth"
+      },
+      {
+        "n": "Dean Bryce",
+        "s": "2026-02-08T11:00:00Z",
+        "e": "2026-02-08T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Shuffle 'n' Swing",
+        "s": "2026-02-08T13:00:00Z",
+        "e": "2026-02-08T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Kitty Amor",
+        "s": "2026-02-08T15:00:00Z",
+        "e": "2026-02-08T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kittyamor"
+      },
+      {
+        "n": "Jamo Beatz",
+        "s": "2026-02-08T17:00:00Z",
+        "e": "2026-02-08T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "jamobeatz"
+      },
+      {
+        "n": "RIZ LA TEEF",
+        "s": "2026-02-08T18:00:00Z",
+        "e": "2026-02-08T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "rizlateef"
+      },
+      {
+        "n": "Oblig",
+        "s": "2026-02-08T20:00:00Z",
+        "e": "2026-02-08T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "oblig"
+      },
+      {
+        "n": "The Grime Show with Sir Spyro",
+        "s": "2026-02-08T21:00:00Z",
+        "e": "2026-02-08T23:00:00Z",
+        "d": null,
+        "j": "From The Vault (2017)",
+        "u": null,
+        "p": "sirspyro"
+      },
+      {
+        "n": "Nio-B",
+        "s": "2026-02-08T23:00:00Z",
+        "e": "2026-02-09T00:00:00Z",
+        "d": null,
+        "j": "Old Skl Spesh",
+        "u": null,
+        "t": "biweekly"
+      }
+    ],
+    "rinsefr": [
+      {
+        "n": "Meel B",
         "s": "2026-02-06T13:00:00Z",
         "e": "2026-02-06T14:00:00Z",
         "d": null,
-        "j": "Technopol #51 Historique de la mise au patrimoine des musiques électroniques, en quoi est ce important?  avec Dominique Muller, Elsa Freyheit, Antoine Baduel, Tommy Vaudecrane. Modéré par Chloé Gatignol et Thomas Boyer",
-        "u": null,
-        "t": "biweekly",
-        "p": "technopol"
+        "j": "invite Deela et Teyma",
+        "u": null
       },
       {
-        "n": "Jim Irie",
+        "n": "guerre maladie famine",
         "s": "2026-02-06T14:00:00Z",
         "e": "2026-02-06T15:00:00Z",
         "d": null,
-        "j": "présente one love",
-        "u": null,
-        "p": "jimirie"
+        "j": null,
+        "u": null
       },
       {
-        "n": "Queer Cult",
+        "n": "Griffes d'Anges",
         "s": "2026-02-06T15:00:00Z",
         "e": "2026-02-06T16:00:00Z",
         "d": null,
-        "j": "DJ Monique invite Tzena Urena",
+        "j": "présente KIMMEA",
         "u": null,
-        "t": "biweekly",
-        "p": "queercult"
+        "t": "biweekly"
       },
       {
-        "n": "LA CREOLE",
+        "n": "Rama",
         "s": "2026-02-06T16:00:00Z",
         "e": "2026-02-06T17:00:00Z",
         "d": null,
-        "j": "invite 0NOEMA B2B GREG",
+        "j": "Takeover by MVCOKO",
         "u": null,
-        "t": "biweekly",
-        "p": "lacreole"
+        "t": "monthly"
       },
       {
-        "n": "Carlos do Complexo",
+        "n": "RAAR",
         "s": "2026-02-06T17:00:00Z",
         "e": "2026-02-06T18:00:00Z",
         "d": null,
-        "j": "COMPLEXCITY",
+        "j": "SIAK PHD",
         "u": null,
-        "t": "biweekly"
+        "t": "monthly",
+        "p": "raar"
       },
       {
-        "n": "Mariad",
+        "n": "Vanille",
         "s": "2026-02-06T18:00:00Z",
         "e": "2026-02-06T19:00:00Z",
         "d": null,
-        "j": "DORMIR DEBOUT INVITE TOUCHING ICE",
+        "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly",
+        "p": "vanille"
       },
       {
-        "n": "SOA420",
+        "n": "Basses Fréquences",
         "s": "2026-02-06T19:00:00Z",
         "e": "2026-02-06T20:00:00Z",
         "d": null,
-        "j": "Reggae & Dub Cover Songs",
+        "j": "Keuj B2B RAVL",
         "u": null
       },
       {
@@ -2712,66 +2832,70 @@
         "t": "playlist"
       },
       {
-        "n": "Meel B",
+        "n": "La Sunday Abidjan",
         "s": "2026-02-07T13:00:00Z",
         "e": "2026-02-07T14:00:00Z",
         "d": null,
-        "j": "invite Deela et Teyma",
-        "u": null
+        "j": "Jeune Lio - Spécial Saint Valentin",
+        "u": null,
+        "t": "monthly",
+        "p": "lasundayabidjan"
       },
       {
-        "n": "guerre maladie famine",
+        "n": "ElectrAfrique",
         "s": "2026-02-07T14:00:00Z",
         "e": "2026-02-07T15:00:00Z",
+        "d": null,
+        "j": "invite BOSSIIE",
+        "u": null,
+        "t": "biweekly",
+        "p": "electrafrique"
+      },
+      {
+        "n": "Vvpete & Utility",
+        "s": "2026-02-07T15:00:00Z",
+        "e": "2026-02-07T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Griffes d'Anges",
-        "s": "2026-02-07T15:00:00Z",
-        "e": "2026-02-07T16:00:00Z",
-        "d": null,
-        "j": "présente KIMMEA",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Rama",
+        "n": "Paloma Colombe",
         "s": "2026-02-07T16:00:00Z",
         "e": "2026-02-07T17:00:00Z",
         "d": null,
-        "j": "Takeover by MVCOKO",
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "palomacolombe"
+      },
+      {
+        "n": "[re]sources",
+        "s": "2026-02-07T17:00:00Z",
+        "e": "2026-02-07T18:00:00Z",
+        "d": null,
+        "j": "avec Tommy Kid (Early Dubstep Tribute)",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "RAAR",
-        "s": "2026-02-07T17:00:00Z",
-        "e": "2026-02-07T18:00:00Z",
-        "d": null,
-        "j": "SIAK PHD",
-        "u": null,
-        "t": "monthly",
-        "p": "raar"
-      },
-      {
-        "n": "Vanille",
+        "n": "LU2K",
         "s": "2026-02-07T18:00:00Z",
         "e": "2026-02-07T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "vanille"
+        "p": "lu2k"
       },
       {
-        "n": "Basses Fréquences",
+        "n": "Eclipse Tribez",
         "s": "2026-02-07T19:00:00Z",
         "e": "2026-02-07T20:00:00Z",
         "d": null,
-        "j": "Keuj B2B RAVL",
-        "u": null
+        "j": "invite Skimir (100% Productions Mix)",
+        "u": null,
+        "p": "eclipsetribez"
       },
       {
         "n": "Playlist France",
