@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-08T01:51:15.895Z",
+  "updated": "2026-02-08T04:27:28.693Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ROSS ALLEN",
-        "s": "2026-02-07T12:00:00Z",
-        "e": "2026-02-07T14:00:00Z",
-        "d": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ross-allen/episodes/ross-allen-7th-february-2026",
-        "t": "biweekly",
-        "p": "rossallen"
-      },
-      {
-        "n": "Sophie Mccalister",
-        "s": "2026-02-07T14:00:00Z",
-        "e": "2026-02-07T15:00:00Z",
-        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-7th-february-2026",
-        "t": "monthly",
-        "p": "sophie"
-      },
       {
         "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
         "s": "2026-02-07T15:00:00Z",
@@ -108,18 +88,18 @@
         "n": "AN1MA (R)",
         "s": "2026-02-08T04:00:00Z",
         "e": "2026-02-08T05:00:00Z",
-        "d": null,
+        "d": "integration sounds from the source; an invitation into the shadow.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-8th-september-2022",
         "t": "restream"
       },
       {
         "n": "LIVE AT THE CLINIC (R)",
         "s": "2026-02-08T05:00:00Z",
         "e": "2026-02-08T06:00:00Z",
-        "d": null,
+        "d": "Psychedelic Ensemble invites Mary Sue and the Clementi Sound Appreciation Club for a guest mix live at THE CLINIC.\nA signal from somewhere in-between, through cracked cassette hiss and the hum of distant flutes. These are the fragments that shaped \"Porcelain Shield, Paper Sword\" — a mix of echoes, distant memories, and borrowed roots pieced together. Featuring unreleased tracks from the album due for release on June 13th 2025.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/psychedelic-ensemble/episodes/psychedelic-ensemble-19th-may-2025",
         "t": "restream"
       },
       {
@@ -148,7 +128,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "theahd"
       },
       {
         "n": "Ondas w/ Dubby",
@@ -174,7 +155,8 @@
         "d": null,
         "j": "Judah",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "judah"
       },
       {
         "n": "ASHER G'S CARIBBEAN MEMORIES",
@@ -200,7 +182,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "noelspiva"
       },
       {
         "n": "LEILA SAMIR",
@@ -209,7 +192,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "leilasamir"
       },
       {
         "n": "LATE NIGHT BILLIARDS W/ CYNTHIA IGBOKWE (R)",
@@ -236,36 +220,34 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
+        "s": "2026-02-08T20:00:00Z",
+        "e": "2026-02-08T22:00:00Z",
+        "d": null,
+        "j": "ERNESTO CHAHOUD",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Midnight Marauders w/ Marshmello & Cosmic Bob",
+        "s": "2026-02-08T22:00:00Z",
+        "e": "2026-02-09T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "OTOLOGIC",
+        "s": "2026-02-09T00:00:00Z",
+        "e": "2026-02-09T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Music Mania w/ Xiu Xiu",
-        "s": "2026-02-07T13:00:00Z",
-        "e": "2026-02-07T14:00:00Z",
-        "d": "Jamie and Angela of US experimental rock outsiders Xiu Xiu stop by the London studio.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/xiu-xiu-6th-february-2026"
-      },
-      {
-        "n": "YOUTH",
-        "s": "2026-02-07T14:00:00Z",
-        "e": "2026-02-07T15:00:00Z",
-        "d": "Andrew Lyster's YOUTH takes over the NTS airwaves live from MO6B in Stockport once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/youth/episodes/youth-7th-february-2026",
-        "t": "monthly",
-        "p": "youth"
-      },
-      {
-        "n": "Wave Form",
-        "s": "2026-02-07T15:00:00Z",
-        "e": "2026-02-07T16:00:00Z",
-        "d": "During 'Wave Form', Aurélien Arbet and Pierre Rousseau explore an interpolation of various recordings, often at the margins of traditional formats and conventional styles of music. During an hour, a long oscillation is formed out of a selection of interviews, spoken word, poetry, music for dance or art, marginal pop attempts and various field recordings.\nAurélien Arbet is an art director, co-founder of the clothing brand and publishing house Études. Pierre Rousseau is a composer, producer and sound designer, crafting sounds for records, films, and art projects.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/wave-form/episodes/wave-form-7th-february-2026",
-        "p": "waveform"
-      },
       {
         "n": "BUNNY HOOVA w/ Lauren & David (Burn Into Sleep / Nightingale Floor)",
         "s": "2026-02-07T16:00:00Z",
@@ -361,18 +343,18 @@
         "n": "SKYAPNEA (R)",
         "s": "2026-02-08T04:00:00Z",
         "e": "2026-02-08T06:00:00Z",
-        "d": null,
+        "d": "Broken club, dubbed out sounds, experimental electronics and atonal drifts: Gio’s monthly broadcasts are high contrast assemblages that move at a slow pace. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/skyapnea/episodes/skyapnea-7th-july-2025",
         "t": "restream"
       },
       {
         "n": "Post-Geography (R)",
         "s": "2026-02-08T06:00:00Z",
         "e": "2026-02-08T07:00:00Z",
-        "d": null,
+        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-9th-august-2024",
         "t": "restream"
       },
       {
@@ -426,7 +408,8 @@
         "e": "2026-02-08T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "radioalhara"
       },
       {
         "n": "Radio Alhara w/ Pierre Pepe",
@@ -434,7 +417,8 @@
         "e": "2026-02-08T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "radioalhara"
       },
       {
         "n": "Radio Alhara w/ RUUQ",
@@ -442,7 +426,8 @@
         "e": "2026-02-08T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "radioalhara"
       },
       {
         "n": "Radio Alhara: Extended sessions - live from the Wonder Cabinet",
@@ -450,7 +435,8 @@
         "e": "2026-02-08T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "radioalhara"
       },
       {
         "n": "TRIP LICK W/ MOOPIE (R)",
@@ -487,29 +473,38 @@
         "d": null,
         "j": "CLARISSA CONNELLY",
         "u": null,
+        "t": "restream",
+        "p": "clarissaconnelly"
+      },
+      {
+        "n": "Keel Her (R)",
+        "s": "2026-02-09T01:00:00Z",
+        "e": "2026-02-09T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Milk Radio w/ Keiyaa (R)",
+        "s": "2026-02-09T02:00:00Z",
+        "e": "2026-02-09T03:00:00Z",
+        "d": null,
+        "j": "Keiyaa",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Hollow Points Radio (R)",
+        "s": "2026-02-09T03:00:00Z",
+        "e": "2026-02-09T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
         "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Live & Direct w/ Hannah",
-        "s": "2026-02-07T13:00:00Z",
-        "e": "2026-02-07T14:00:00Z",
-        "d": "Live & Direct is the show that promises to make you dance and make you laugh, with your fave tunes that make you go 'Rahhh ain't hear this in time' and all the cheesy jokes from me, Hannah :) Lock in for the sickest guests and the most relatable stories about daily slips and hilarious situations I find myself in.",
-        "j": "Hannah",
-        "u": "https://www.subtleradio.com/artists/live-direct-w-hannah/",
-        "t": "biweekly",
-        "p": "hannah"
-      },
-      {
-        "n": "soltura",
-        "s": "2026-02-07T14:00:00Z",
-        "e": "2026-02-07T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Big Kani presents Large Language",
         "s": "2026-02-07T16:00:00Z",
@@ -613,6 +608,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-08T06:00:00Z",
+        "e": "2026-02-08T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Kiki B",
@@ -1714,18 +1718,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-07T12:00:00Z",
-        "e": "2026-02-07T16:00:00Z",
+        "n": "2guys1club",
+        "s": "2026-02-15T02:00:00Z",
+        "e": "2026-02-15T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-02-07T16:00:00Z",
@@ -2373,28 +2377,19 @@
         "u": null,
         "t": "monthly",
         "p": "ravedad"
+      },
+      {
+        "n": "sodapop - sodapop sounds",
+        "s": "2026-02-15T02:00:00Z",
+        "e": "2026-02-15T04:00:00Z",
+        "d": null,
+        "j": "sodapop sounds",
+        "u": null,
+        "t": "monthly",
+        "p": "sodapop"
       }
     ],
     "rinse": [
-      {
-        "n": "Counter Culture",
-        "s": "2026-02-07T13:00:00Z",
-        "e": "2026-02-07T15:00:00Z",
-        "d": null,
-        "j": "Next Door Records feat. Louis Ray & James Allison",
-        "u": null,
-        "t": "weekly",
-        "p": "counterculture"
-      },
-      {
-        "n": "Interstellar Funk",
-        "s": "2026-02-07T15:00:00Z",
-        "e": "2026-02-07T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Danny Rankin",
         "s": "2026-02-07T16:00:00Z",
@@ -2766,34 +2761,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "La Sunday Abidjan",
-        "s": "2026-02-07T13:00:00Z",
-        "e": "2026-02-07T14:00:00Z",
-        "d": null,
-        "j": "Jeune Lio - Spécial Saint Valentin",
-        "u": null,
-        "t": "monthly",
-        "p": "lasundayabidjan"
-      },
-      {
-        "n": "ElectrAfrique",
-        "s": "2026-02-07T14:00:00Z",
-        "e": "2026-02-07T15:00:00Z",
-        "d": null,
-        "j": "invite BOSSIIE",
-        "u": null,
-        "t": "biweekly",
-        "p": "electrafrique"
-      },
-      {
-        "n": "Vvpete & Utility",
-        "s": "2026-02-07T15:00:00Z",
-        "e": "2026-02-07T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Paloma Colombe",
         "s": "2026-02-07T16:00:00Z",
