@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-08T20:17:08.179Z",
+  "updated": "2026-02-08T22:18:32.060Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THEA HD",
-        "s": "2026-02-08T08:00:00Z",
-        "e": "2026-02-08T09:00:00Z",
-        "d": "Leaf Label A&R and Odda Recordings label owner Thea HD unearths the lesser known common sounds. from old soundtracks, library music to experimental electronic music…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/thea-hd/episodes/thea-hd-8th-february-2026",
-        "t": "biweekly",
-        "p": "theahd"
-      },
-      {
-        "n": "Ondas w/ Dubby",
-        "s": "2026-02-08T09:00:00Z",
-        "e": "2026-02-08T10:00:00Z",
-        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-8th-february-2026"
-      },
       {
         "n": "THE SLIP",
         "s": "2026-02-08T10:00:00Z",
@@ -124,9 +106,9 @@
         "n": "OTOLOGIC",
         "s": "2026-02-09T00:00:00Z",
         "e": "2026-02-09T02:00:00Z",
-        "d": null,
+        "d": "Australian duo Otologic traverse wave, post punk, outsider club & dubwise meanderings in constant delay.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/otologic/episodes/otologic-9th-february-2026"
       },
       {
         "n": "IN FOCUS: WILLIAM ORBIT (R)",
@@ -260,27 +242,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ALL STYLES ALL SMILES",
+        "s": "2026-02-10T00:00:00Z",
+        "e": "2026-02-10T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "80s Rampwalk (R)",
-        "s": "2026-02-08T08:00:00Z",
-        "e": "2026-02-08T09:00:00Z",
-        "d": "80's Rampwalk delivers an hour of cold wave, minimal synth, industrial, post-punk and music made in Berlin basements.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/80srampwalk/episodes/80srampwalk-18th-december-2024",
-        "t": "restream"
-      },
-      {
-        "n": "FINE (R)",
-        "s": "2026-02-08T09:00:00Z",
-        "e": "2026-02-08T10:00:00Z",
-        "d": "Sonic diaries from Fine…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-11th-november-2025",
-        "t": "restream"
-      },
       {
         "n": "CLAIRE MILBRATH (R)",
         "s": "2026-02-08T10:00:00Z",
@@ -521,25 +493,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-02-08T08:00:00Z",
-        "e": "2026-02-08T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Kakuna",
-        "s": "2026-02-08T09:00:00Z",
-        "e": "2026-02-08T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "kakuna"
-      },
       {
         "n": "Agony Plants",
         "s": "2026-02-08T10:00:00Z",
@@ -1716,18 +1669,29 @@
         "u": null,
         "t": "monthly",
         "p": "sofarsogood"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-08T08:00:00Z",
-        "e": "2026-02-08T10:00:00Z",
+        "n": "Off-Switch Audio",
+        "s": "2026-02-15T21:00:00Z",
+        "e": "2026-02-15T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "offswitchaudio"
       },
+      {
+        "n": "SPOTLIGHT EVENTS ",
+        "s": "2026-02-15T22:00:00Z",
+        "e": "2026-02-15T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "spotlight"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-02-08T10:00:00Z",
@@ -2372,18 +2336,19 @@
         "u": null,
         "t": "monthly",
         "p": "barbarelle"
+      },
+      {
+        "n": "body / negative - cloud music",
+        "s": "2026-02-15T22:00:00Z",
+        "e": "2026-02-16T00:00:00Z",
+        "d": null,
+        "j": "cloud music",
+        "u": null,
+        "t": "monthly",
+        "p": "bodynegative"
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-02-08T07:00:00Z",
-        "e": "2026-02-08T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Wisdom Teeth",
         "s": "2026-02-08T09:00:00Z",
