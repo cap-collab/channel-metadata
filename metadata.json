@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-09T12:47:16.130Z",
+  "updated": "2026-02-09T14:45:43.520Z",
   "stations": {
     "nts1": [
-      {
-        "n": "OTOLOGIC",
-        "s": "2026-02-09T00:00:00Z",
-        "e": "2026-02-09T02:00:00Z",
-        "d": "Australian duo Otologic traverse wave, post punk, outsider club & dubwise meanderings in constant delay.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/otologic/episodes/otologic-9th-february-2026",
-        "p": "otologic"
-      },
       {
         "n": "IN FOCUS: WILLIAM ORBIT (R)",
         "s": "2026-02-09T02:00:00Z",
@@ -81,9 +72,9 @@
         "n": "System Olympia: Nautilus",
         "s": "2026-02-09T15:00:00Z",
         "e": "2026-02-09T16:00:00Z",
-        "d": null,
+        "d": "System Olympia joins us for an hour a month.",
         "j": "Nautilus",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-9th-february-2026",
         "t": "monthly"
       },
       {
@@ -230,28 +221,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "CARLA DAL FORNO",
+        "s": "2026-02-10T14:00:00Z",
+        "e": "2026-02-10T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "ADVENTURES W/ CLARISSA CONNELLY (R)",
-        "s": "2026-02-09T00:00:00Z",
-        "e": "2026-02-09T01:00:00Z",
-        "d": "Musical adventures.",
-        "j": "CLARISSA CONNELLY",
-        "u": "https://www.nts.live/api/v2/shows/clarissa-connelly/episodes/clarissa-connelly-27th-january-2025",
-        "t": "restream",
-        "p": "clarissaconnelly"
-      },
-      {
-        "n": "Keel Her (R)",
-        "s": "2026-02-09T01:00:00Z",
-        "e": "2026-02-09T02:00:00Z",
-        "d": "Prolific London based DIY & lo-fi pop producer Keel Her heads to the studio for a show once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/keel-her/episodes/keel-her-30th-october-2024",
-        "t": "restream"
-      },
       {
         "n": "Milk Radio w/ Keiyaa (R)",
         "s": "2026-02-09T02:00:00Z",
@@ -361,17 +342,17 @@
         "n": "Otaku: Berserk",
         "s": "2026-02-09T14:00:00Z",
         "e": "2026-02-09T15:00:00Z",
-        "d": null,
+        "d": "Soundtrack selections from the cult anime series Berserk, featuring compositions from Susumu Hirasawa and Shiro Sagisu. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/otaku/episodes/otaku-berserk-9th-february-2026"
       },
       {
         "n": "GUSH",
         "s": "2026-02-09T15:00:00Z",
         "e": "2026-02-09T16:00:00Z",
-        "d": null,
+        "d": "New collaborative avant pop project GUSH, aka Steven Warwick (Heatsick) and drummer Ivan Brito, bring sonic inspirations to the studio ahead of their Cafe Oto performance. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/gush-9th-february-2026"
       },
       {
         "n": "SMERZ",
@@ -496,27 +477,28 @@
         "j": "CHEB MIMO",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "NTS Guide to: Chillwave (R)",
+        "s": "2026-02-10T08:00:00Z",
+        "e": "2026-02-10T09:00:00Z",
+        "d": null,
+        "j": "Chillwave",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Dimension Door (R)",
+        "s": "2026-02-10T09:00:00Z",
+        "e": "2026-02-10T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "dimensiondoor"
       }
     ],
     "subtle": [
-      {
-        "n": "Moonpie",
-        "s": "2026-02-09T00:00:00Z",
-        "e": "2026-02-09T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "CYBER1A",
-        "s": "2026-02-09T01:00:00Z",
-        "e": "2026-02-09T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Hikayat Bassita",
         "s": "2026-02-09T02:00:00Z",
@@ -1682,19 +1664,28 @@
         "u": null,
         "t": "monthly",
         "p": "ladyjules"
+      },
+      {
+        "n": "Meech",
+        "s": "2026-02-16T13:00:00Z",
+        "e": "2026-02-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "JO KIRA",
+        "s": "2026-02-16T14:00:00Z",
+        "e": "2026-02-16T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jokira"
       }
     ],
     "dublab": [
-      {
-        "n": "DJ Lady C - Rare Air",
-        "s": "2026-02-09T00:00:00Z",
-        "e": "2026-02-09T02:00:00Z",
-        "d": null,
-        "j": "Rare Air",
-        "u": null,
-        "t": "monthly",
-        "p": "djladyc"
-      },
       {
         "n": "McAllister and Kyle Art Threat - Please and Thank You",
         "s": "2026-02-09T02:00:00Z",
@@ -2343,26 +2334,6 @@
     ],
     "rinse": [
       {
-        "n": "Manami",
-        "s": "2026-02-09T00:00:00Z",
-        "e": "2026-02-09T01:00:00Z",
-        "d": null,
-        "j": "Sosi and Dogma",
-        "u": null,
-        "t": "monthly",
-        "p": "manami"
-      },
-      {
-        "n": "Baalti",
-        "s": "2026-02-09T01:00:00Z",
-        "e": "2026-02-09T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "baalti"
-      },
-      {
         "n": "CASE",
         "s": "2026-02-09T02:00:00Z",
         "e": "2026-02-09T03:00:00Z",
@@ -2750,7 +2721,7 @@
         "s": "2026-02-09T18:00:00Z",
         "e": "2026-02-09T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ælthoran Architects with Lilli Zylka",
         "u": null,
         "t": "biweekly"
       },
@@ -2805,7 +2776,7 @@
         "s": "2026-02-10T14:00:00Z",
         "e": "2026-02-10T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Maiden Voyage avec Kiala Ogawa",
         "u": null,
         "t": "biweekly",
         "p": "kialaogawa"
