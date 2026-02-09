@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-09T20:31:44.534Z",
+  "updated": "2026-02-09T22:27:36.320Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-02-09T07:00:00Z",
-        "e": "2026-02-09T09:00:00Z",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-9th-february-2026",
-        "t": "weekly",
-        "p": "mariasomerville"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-02-09T09:00:00Z",
@@ -99,18 +89,19 @@
         "n": "ORGAN TAPES w/ Beloved Trinket",
         "s": "2026-02-09T22:00:00Z",
         "e": "2026-02-09T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Organ Tapes and friends play disparate music plied and wrenched together with religious fervour. Sound of E5 上海 monthly on a Monday.",
+        "j": "Beloved Trinket",
+        "u": "https://www.nts.live/api/v2/shows/organ-tapes/episodes/organ-tapes-9th-february-2026",
+        "t": "monthly",
         "p": "organtapes"
       },
       {
         "n": "BRADEN WELLS (R)",
         "s": "2026-02-09T23:00:00Z",
         "e": "2026-02-10T00:00:00Z",
-        "d": null,
+        "d": "Braden Wells brings a monthly selection of tunes ranging between new wave, minimal synth, industrial, electro and more from the ice-cold 80s and beyond.\nImage Credit: the kiss, kimberly norcott x panos tsagaris, 2008",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/braden-wells/episodes/braden-wells-25th-november-2020",
         "t": "restream"
       },
       {
@@ -241,29 +232,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "s": "2026-02-10T18:00:00Z",
+        "e": "2026-02-10T20:00:00Z",
+        "d": null,
+        "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "u": null,
+        "t": "biweekly",
+        "p": "channeling"
+      },
+      {
+        "n": "Trevor Jackson",
+        "s": "2026-02-10T20:00:00Z",
+        "e": "2026-02-10T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "m00dtapes (R)",
-        "s": "2026-02-09T08:00:00Z",
-        "e": "2026-02-09T09:00:00Z",
-        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-4th-february-2024",
-        "t": "restream",
-        "p": "m00dtapes"
-      },
-      {
-        "n": "Austral w/ AYLU (R)",
-        "s": "2026-02-09T09:00:00Z",
-        "e": "2026-02-09T10:00:00Z",
-        "d": "'\"las palomitas del campo nacieron para volar; mi corazón nació libre y alegre para volar\"\nIn Argentina, and around the world, we are being threatened by the intention to change what people understand freedom is: naming freedom as something only some can enjoy by themselves is a dangerous act. This episode is a reminder that freedom means diversity, and is always shared, so that it can’t be cropped to the convenience of those in power, those who have so little inner wealth that need to cut our wings to live and breath.'",
-        "j": "AYLU",
-        "u": "https://www.nts.live/api/v2/shows/aylu/episodes/aylu-3rd-february-2025",
-        "t": "restream",
-        "p": "aylu"
-      },
       {
         "n": "OH OH W KO_OL & CO (R)",
         "s": "2026-02-09T10:00:00Z",
@@ -375,18 +364,18 @@
         "n": "Day Care w/ DJ Randy Ellis & The Alaia of CQQL records",
         "s": "2026-02-09T22:00:00Z",
         "e": "2026-02-10T00:00:00Z",
-        "d": null,
+        "d": "CQQL Records founders DJ Randy Ellis and The Alaia bring you Day Care, a 2-hour monthly afternoon curriculum of Boogie Funk, Disco, R&B, G-Funk, House, Modern Soul wax, and way way more. Expect to be powdered and pampered by these audio obsessives.\nFrom the host: \"early valentine's day special from us to you ",
         "j": "DJ Randy Ellis & The Alaia of CQQL records",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/day-care/episodes/day-care-9th-february-2026",
         "t": "monthly"
       },
       {
         "n": "Boom Bip (R)",
         "s": "2026-02-10T00:00:00Z",
         "e": "2026-02-10T01:00:00Z",
-        "d": null,
+        "d": "Lex Records artist Boom Bip scrapes beneath the surface of the status quo by loosely basing his mixes on electronics and the new waves they produce.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/boom-bip/episodes/boom-bip-3rd-september-2025",
         "t": "restream"
       },
       {
@@ -515,27 +504,25 @@
         "j": "CARISTA",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "The Big Happy Show",
+        "s": "2026-02-10T17:00:00Z",
+        "e": "2026-02-10T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Sounds of Barranquilla Carnival w/ Calamidades Lola",
+        "s": "2026-02-10T18:00:00Z",
+        "e": "2026-02-10T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-02-09T06:00:00Z",
-        "e": "2026-02-09T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": " Tribalismo",
-        "s": "2026-02-09T09:00:00Z",
-        "e": "2026-02-09T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "tribalismo"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-02-09T10:00:00Z",
@@ -1709,18 +1696,27 @@
         "u": null,
         "t": "monthly",
         "p": "rainbowconspiracy"
+      },
+      {
+        "n": "In:flux Audio",
+        "s": "2026-02-16T21:00:00Z",
+        "e": "2026-02-16T22:00:00Z",
+        "d": "In:flux Audio are a record label based in Leeds, UK founded by production duo Tik&Borrow. Since the label's inception in October 2013, they have dabbled in multiple dance music styles with the emphasis always being on the tracks being unique, and packed full of bass. Today the primary output for the label is from their Dubstep roster and this is focus of their show on Subtle - giving the artists and remixers chance to showcase their sounds with an hour guest mix, all hosted by label bossman Tik.",
+        "j": "flux Audio",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "tighe",
+        "s": "2026-02-16T22:00:00Z",
+        "e": "2026-02-16T23:00:00Z",
+        "d": "I’m a 19 year old DJ and producer from Newcastle upon Tyne, mainly playing and producing music around the 140bpm mark. I started out playing old 2-step and jungle records, before moving my focus to mainly dubstep and grime. Along with my friends Pirata and White Label, I run Newcastle’s only current 140 night, Well Irie. ",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-09T08:00:00Z",
-        "e": "2026-02-09T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-02-09T10:00:00Z",
@@ -1784,6 +1780,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-10T00:00:00Z",
+        "e": "2026-02-10T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Terrell Brooke – TheyHouse",
@@ -2352,18 +2357,19 @@
         "j": null,
         "u": null,
         "p": "bobbyy"
+      },
+      {
+        "n": "Rani de Leon - Tizita Radio",
+        "s": "2026-02-16T22:00:00Z",
+        "e": "2026-02-17T00:00:00Z",
+        "d": null,
+        "j": "Tizita Radio",
+        "u": null,
+        "t": "monthly",
+        "p": "ranideleon"
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-02-09T07:00:00Z",
-        "e": "2026-02-09T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Tim Garcia",
         "s": "2026-02-09T09:00:00Z",
