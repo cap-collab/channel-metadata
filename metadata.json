@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-09T10:49:41.245Z",
+  "updated": "2026-02-09T12:47:16.130Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Midnight Marauders w/ Marshmello & Cosmic Bob",
-        "s": "2026-02-08T22:00:00Z",
-        "e": "2026-02-09T00:00:00Z",
-        "d": "Marsha by name and mellow by nature, MarshmeLLo takes you on a musical journey of all her influences plus a little extra. The first show ever broadcast on the station, Marsha continues to find her groove…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/midnight-marauders/episodes/midnight-marauders-8th-february-2026",
-        "p": "midnightmarauders"
-      },
       {
         "n": "OTOLOGIC",
         "s": "2026-02-09T00:00:00Z",
@@ -81,9 +72,9 @@
         "n": "Melodies International",
         "s": "2026-02-09T13:00:00Z",
         "e": "2026-02-09T15:00:00Z",
-        "d": null,
+        "d": "From dusty crates and dingy basements to the NTS airwaves - reissue label Melodies International bring special, undiscovered, and beautiful records from across the world their show, every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/melodies-international/episodes/melodies-international-9th-february-2026",
         "t": "monthly"
       },
       {
@@ -141,7 +132,7 @@
         "t": "monthly"
       },
       {
-        "n": "ORGAN TAPES",
+        "n": "ORGAN TAPES w/ Beloved Trinket",
         "s": "2026-02-09T22:00:00Z",
         "e": "2026-02-09T23:00:00Z",
         "d": null,
@@ -221,18 +212,27 @@
         "u": null,
         "t": "weekly",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ ANU",
+        "s": "2026-02-10T11:00:00Z",
+        "e": "2026-02-10T13:00:00Z",
+        "d": null,
+        "j": "ANU",
+        "u": null,
+        "t": "weekly",
+        "p": "anu"
+      },
+      {
+        "n": "Roadkill Ikebana",
+        "s": "2026-02-10T13:00:00Z",
+        "e": "2026-02-10T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "AUTECHRE: 1992 CONTEXTUAL MIX (R)",
-        "s": "2026-02-08T18:30:00Z",
-        "e": "2026-02-09T00:00:00Z",
-        "d": "' In celebration of Warp's re-release of Artificial Intelligence - a mix of some of the stuff that was floating around us at the time ' - Autechre",
-        "j": "1992 CONTEXTUAL MIX",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/autechre-5th-february-2023",
-        "t": "restream"
-      },
       {
         "n": "ADVENTURES W/ CLARISSA CONNELLY (R)",
         "s": "2026-02-09T00:00:00Z",
@@ -342,28 +342,28 @@
         "n": "WHY BE",
         "s": "2026-02-09T12:00:00Z",
         "e": "2026-02-09T13:00:00Z",
-        "d": null,
+        "d": "Bi-monthly random fandom.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/why-be/episodes/why-be-9th-february-2026",
+        "t": "monthly",
         "p": "whybe"
       },
       {
         "n": "PAVEL MILYAKOV",
         "s": "2026-02-09T13:00:00Z",
         "e": "2026-02-09T14:00:00Z",
-        "d": null,
+        "d": "Berlin-based artist Pavel Milyakov aka Buttechno joins us for an hour a month.\nfrom the host:\"a mix for the deep winter mood with sounds of ambient / dub / singer-songwriter\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/buttechno/episodes/buttechno-9th-february-2026",
         "t": "monthly"
       },
       {
-        "n": "PALESTINIAN SOUND ARCHIVE",
+        "n": "Otaku: Berserk",
         "s": "2026-02-09T14:00:00Z",
         "e": "2026-02-09T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "GUSH",
@@ -487,27 +487,18 @@
         "j": "Ariel Kalma",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "SHAKSHOUKA W/ CHEB MIMO (R)",
+        "s": "2026-02-10T07:00:00Z",
+        "e": "2026-02-10T08:00:00Z",
+        "d": null,
+        "j": "CHEB MIMO",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Skye",
-        "s": "2026-02-08T22:00:00Z",
-        "e": "2026-02-08T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "casual_observer",
-        "s": "2026-02-08T23:00:00Z",
-        "e": "2026-02-09T00:00:00Z",
-        "d": "casual_observer is a DJ and producer originally hailing from Amsterdam, where he co-organises the \"moving closer\" event series with friend and collaborator Bcl-2. He currently resides in Berlin. Starting his musical journey as a drummer, his music retains a heavy focus on groove, rhythm and experimentation.  Sets played by casual_observer are diverse and surprising, moving effortlessly between jungle, breaks, bass, footwork, and more. No matter the genre, his selection is sure to keep you on your toes!",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Moonpie",
         "s": "2026-02-09T00:00:00Z",
@@ -1671,19 +1662,29 @@
         "j": "Komanche",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sweet Things w/ PXLTERGEIST",
+        "s": "2026-02-16T11:00:00Z",
+        "e": "2026-02-16T12:00:00Z",
+        "d": null,
+        "j": "PXLTERGEIST",
+        "u": null,
+        "t": "monthly",
+        "p": "sweetthings"
+      },
+      {
+        "n": "Lady Jules",
+        "s": "2026-02-16T12:00:00Z",
+        "e": "2026-02-16T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ladyjules"
       }
     ],
     "dublab": [
-      {
-        "n": "gfunktrece - Escuchar al Istmo",
-        "s": "2026-02-08T22:00:00Z",
-        "e": "2026-02-09T00:00:00Z",
-        "d": null,
-        "j": "Escuchar al Istmo",
-        "u": null,
-        "t": "monthly",
-        "p": "gfunktrece"
-      },
       {
         "n": "DJ Lady C - Rare Air",
         "s": "2026-02-09T00:00:00Z",
@@ -1745,6 +1746,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-09T12:00:00Z",
         "e": "2026-02-09T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-09T14:00:00Z",
+        "e": "2026-02-09T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2332,24 +2342,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "The Grime Show with Sir Spyro",
-        "s": "2026-02-08T21:00:00Z",
-        "e": "2026-02-08T23:00:00Z",
-        "d": null,
-        "j": "From The Vault (2017)",
-        "u": null,
-        "p": "sirspyro"
-      },
-      {
-        "n": "Nio-B",
-        "s": "2026-02-08T23:00:00Z",
-        "e": "2026-02-09T00:00:00Z",
-        "d": null,
-        "j": "Old Skl Spesh",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Manami",
         "s": "2026-02-09T00:00:00Z",
