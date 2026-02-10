@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-10T04:25:53.290Z",
+  "updated": "2026-02-10T06:55:39.905Z",
   "stations": {
     "nts1": [
-      {
-        "n": "OHBLIV",
-        "s": "2026-02-09T16:00:00Z",
-        "e": "2026-02-09T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "ohbliv"
-      },
-      {
-        "n": "ATHENS OF THE NORTH",
-        "s": "2026-02-09T17:00:00Z",
-        "e": "2026-02-09T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "CLUB COCO w/ Kay Suzuki",
         "s": "2026-02-09T18:00:00Z",
@@ -118,18 +99,18 @@
         "n": "The Head Zone w/ Ripley Johnson (R)",
         "s": "2026-02-10T06:00:00Z",
         "e": "2026-02-10T07:00:00Z",
-        "d": null,
+        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
         "j": "Ripley Johnson",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/the-head-zone-w-ripley-johnson-9th-may-2018",
         "t": "restream"
       },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-02-10T07:00:00Z",
         "e": "2026-02-10T09:00:00Z",
-        "d": null,
+        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
         "j": "MARIA SOMERVILLE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-10th-february-2026",
         "t": "weekly",
         "p": "mariasomerville"
       },
@@ -262,27 +243,28 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Carlos René (R)",
+        "s": "2026-02-11T05:00:00Z",
+        "e": "2026-02-11T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "carlos"
+      },
+      {
+        "n": "ONDAS (R)",
+        "s": "2026-02-11T06:00:00Z",
+        "e": "2026-02-11T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "SMERZ",
-        "s": "2026-02-09T16:00:00Z",
-        "e": "2026-02-09T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "smerz"
-      },
-      {
-        "n": "CLAIRE ROUSAY",
-        "s": "2026-02-09T17:00:00Z",
-        "e": "2026-02-09T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "clairerousay"
-      },
       {
         "n": "AMBIENT ABRACADABRA W/ SOFIE BIRCH",
         "s": "2026-02-09T18:00:00Z",
@@ -387,9 +369,9 @@
         "n": "SHAKSHOUKA W/ CHEB MIMO (R)",
         "s": "2026-02-10T07:00:00Z",
         "e": "2026-02-10T08:00:00Z",
-        "d": null,
+        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.",
         "j": "CHEB MIMO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-3rd-september-2025",
         "t": "restream",
         "p": "chebmimo"
       },
@@ -530,19 +512,18 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "UWOT",
-        "s": "2026-02-09T16:00:00Z",
-        "e": "2026-02-09T17:00:00Z",
+        "n": "btwn Earth+Sky: Lara Sarkissian",
+        "s": "2026-02-11T01:00:00Z",
+        "e": "2026-02-11T02:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "uwot"
-      },
+        "p": "larasarkissian"
+      }
+    ],
+    "subtle": [
       {
         "n": "PADWICK",
         "s": "2026-02-09T17:00:00Z",
@@ -656,6 +637,15 @@
         "u": null,
         "t": "monthly",
         "p": "djmoement"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-10T06:00:00Z",
+        "e": "2026-02-10T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Sparring Sessions",
@@ -1737,15 +1727,6 @@
     ],
     "dublab": [
       {
-        "n": "Middle Pillar Sounds",
-        "s": "2026-02-09T16:00:00Z",
-        "e": "2026-02-09T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Rene Contreras - Viva! Talks",
         "s": "2026-02-09T18:00:00Z",
         "e": "2026-02-09T20:00:00Z",
@@ -1811,6 +1792,15 @@
         "u": null,
         "t": "monthly",
         "p": "danielt"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-10T08:00:00Z",
+        "e": "2026-02-10T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Mike Harding and Bana Haffar - Long Wave",
@@ -2386,28 +2376,19 @@
         "u": null,
         "t": "monthly",
         "p": "jenferrer"
+      },
+      {
+        "n": "Brennan - Unresolved Dependencies",
+        "s": "2026-02-17T06:00:00Z",
+        "e": "2026-02-17T08:00:00Z",
+        "d": null,
+        "j": "Unresolved Dependencies",
+        "u": null,
+        "t": "monthly",
+        "p": "brennan"
       }
     ],
     "rinse": [
-      {
-        "n": "Capo Lee",
-        "s": "2026-02-09T15:00:00Z",
-        "e": "2026-02-09T17:00:00Z",
-        "d": null,
-        "j": "PK",
-        "u": null,
-        "p": "capolee"
-      },
-      {
-        "n": "Talina",
-        "s": "2026-02-09T17:00:00Z",
-        "e": "2026-02-09T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "regular",
-        "p": "talina"
-      },
       {
         "n": "Sharnie",
         "s": "2026-02-09T18:00:00Z",
@@ -2806,25 +2787,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Hey Bony",
-        "s": "2026-02-09T16:00:00Z",
-        "e": "2026-02-09T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "heybony"
-      },
-      {
-        "n": "Missy Da Kunt",
-        "s": "2026-02-09T17:00:00Z",
-        "e": "2026-02-09T18:00:00Z",
-        "d": null,
-        "j": "The Only Way",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Broodoo Ramses",
         "s": "2026-02-09T18:00:00Z",
