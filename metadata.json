@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-10T06:55:39.905Z",
+  "updated": "2026-02-10T08:40:55.439Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ Kay Suzuki",
-        "s": "2026-02-09T18:00:00Z",
-        "e": "2026-02-09T20:00:00Z",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-9th-february-2026"
-      },
       {
         "n": "SUNCUT",
         "s": "2026-02-09T20:00:00Z",
@@ -118,9 +110,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-02-10T09:00:00Z",
         "e": "2026-02-10T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-10th-february-2026",
         "t": "weekly",
         "p": "flo"
       },
@@ -262,27 +254,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2026-02-11T07:00:00Z",
+        "e": "2026-02-11T09:00:00Z",
+        "d": null,
+        "j": "SPIRIT BLUE",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "AMBIENT ABRACADABRA W/ SOFIE BIRCH",
-        "s": "2026-02-09T18:00:00Z",
-        "e": "2026-02-09T19:00:00Z",
-        "d": "Relaxing & spiritual sounds with Copenhagen-based composer & producer Sofie Birch.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofie-birch/episodes/sofie-birch-9th-february-2026"
-      },
-      {
-        "n": "LOST IN THE BITRATE W/ LENA RAINE (R)",
-        "s": "2026-02-09T19:00:00Z",
-        "e": "2026-02-09T20:00:00Z",
-        "d": "Vancouver-based video game composer and Radical Dreamland founder selects an hour of her favourite musical inspirations. ",
-        "j": "LENA RAINE",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/lost-in-the-bitrate-w-lena-raine-26th-june-2025",
-        "t": "restream",
-        "p": "lenaraine"
-      },
       {
         "n": "LE JARDIN W/ SARAH DAVACHI",
         "s": "2026-02-09T20:00:00Z",
@@ -379,20 +362,30 @@
         "n": "NTS Guide to: Chillwave (R)",
         "s": "2026-02-10T08:00:00Z",
         "e": "2026-02-10T09:00:00Z",
-        "d": null,
+        "d": "Tumblrs at the ready for an hour of hazy, nostalgia-filled pop and electronic sounds from the late 2000s / early 2010s flourishing of \"chillwave\". ",
         "j": "Chillwave",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-chillwave-15th-august-2023",
         "t": "restream"
       },
       {
         "n": "Dimension Door (R)",
         "s": "2026-02-10T09:00:00Z",
         "e": "2026-02-10T10:00:00Z",
+        "d": "Occult tapes plundered by two low level scavengers: the finest dungeon synth, medieval dark ambient & black metal.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-24th-april-2025",
+        "t": "restream",
+        "p": "dimensiondoor"
+      },
+      {
+        "n": "FELISHA LEDESMA (R)",
+        "s": "2026-02-10T10:00:00Z",
+        "e": "2026-02-10T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "restream",
-        "p": "dimensiondoor"
+        "p": "felishaledesma"
       },
       {
         "n": "Lyra Pramuk presents: pop.soil",
@@ -521,27 +514,17 @@
         "j": null,
         "u": null,
         "p": "larasarkissian"
+      },
+      {
+        "n": "Night Shift w/ Diamondstein & Isamaya Ffrench",
+        "s": "2026-02-11T02:00:00Z",
+        "e": "2026-02-11T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "PADWICK",
-        "s": "2026-02-09T17:00:00Z",
-        "e": "2026-02-09T19:00:00Z",
-        "d": "Representing UK Bass Music Culture across a range of styles, sounds and tempos.",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "C Frame",
-        "s": "2026-02-09T19:00:00Z",
-        "e": "2026-02-09T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Elrobo's Selectas",
         "s": "2026-02-09T20:00:00Z",
@@ -1723,19 +1706,27 @@
         "u": null,
         "t": "monthly",
         "p": "fullfrontal"
+      },
+      {
+        "n": "THE CULTURE HEAD w. SAINT VOX",
+        "s": "2026-02-17T07:00:00Z",
+        "e": "2026-02-17T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Ardishko",
+        "s": "2026-02-17T08:00:00Z",
+        "e": "2026-02-17T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-02-09T18:00:00Z",
-        "e": "2026-02-09T20:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
       {
         "n": "Colloboh - Everything Inbetween",
         "s": "2026-02-09T20:00:00Z",
@@ -1797,6 +1788,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-10T08:00:00Z",
         "e": "2026-02-10T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-10T10:00:00Z",
+        "e": "2026-02-10T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2390,26 +2390,6 @@
     ],
     "rinse": [
       {
-        "n": "Sharnie",
-        "s": "2026-02-09T18:00:00Z",
-        "e": "2026-02-09T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sharnie"
-      },
-      {
-        "n": "COIDO",
-        "s": "2026-02-09T19:00:00Z",
-        "e": "2026-02-09T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "coido"
-      },
-      {
         "n": "Main Phase",
         "s": "2026-02-09T20:00:00Z",
         "e": "2026-02-09T22:00:00Z",
@@ -2788,25 +2768,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Broodoo Ramses",
-        "s": "2026-02-09T18:00:00Z",
-        "e": "2026-02-09T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "broodooramses"
-      },
-      {
-        "n": "Teki Latex",
-        "s": "2026-02-09T19:00:00Z",
-        "e": "2026-02-09T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "tekilatex"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-02-09T20:00:00Z",
         "e": "2026-02-10T08:00:00Z",
@@ -2834,9 +2795,102 @@
         "t": "playlist"
       },
       {
-        "n": "Black Square Club",
+        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
         "s": "2026-02-10T13:00:00Z",
+        "e": "2026-02-10T14:00:00Z",
+        "d": null,
+        "j": "LE PODCAST",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Kiala Ogawa",
+        "s": "2026-02-10T14:00:00Z",
         "e": "2026-02-10T15:00:00Z",
+        "d": null,
+        "j": "Maiden Voyage avec Kiala Ogawa",
+        "u": null,
+        "t": "biweekly",
+        "p": "kialaogawa"
+      },
+      {
+        "n": "RONY",
+        "s": "2026-02-10T15:00:00Z",
+        "e": "2026-02-10T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Hey Bony",
+        "s": "2026-02-10T16:00:00Z",
+        "e": "2026-02-10T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "heybony"
+      },
+      {
+        "n": "Missy Da Kunt",
+        "s": "2026-02-10T17:00:00Z",
+        "e": "2026-02-10T18:00:00Z",
+        "d": null,
+        "j": "The Only Way",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Broodoo Ramses",
+        "s": "2026-02-10T18:00:00Z",
+        "e": "2026-02-10T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "broodooramses"
+      },
+      {
+        "n": "Teki Latex",
+        "s": "2026-02-10T19:00:00Z",
+        "e": "2026-02-10T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "tekilatex"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-10T20:00:00Z",
+        "e": "2026-02-11T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-11T08:00:00Z",
+        "e": "2026-02-11T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-11T11:00:00Z",
+        "e": "2026-02-11T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Black Square Club",
+        "s": "2026-02-11T13:00:00Z",
+        "e": "2026-02-11T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2844,8 +2898,8 @@
       },
       {
         "n": "ShayBySchai",
-        "s": "2026-02-10T15:00:00Z",
-        "e": "2026-02-10T16:00:00Z",
+        "s": "2026-02-11T15:00:00Z",
+        "e": "2026-02-11T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2854,8 +2908,8 @@
       },
       {
         "n": "Andy4000",
-        "s": "2026-02-10T16:00:00Z",
-        "e": "2026-02-10T17:00:00Z",
+        "s": "2026-02-11T16:00:00Z",
+        "e": "2026-02-11T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2863,8 +2917,8 @@
       },
       {
         "n": "Menace Progressive",
-        "s": "2026-02-10T17:00:00Z",
-        "e": "2026-02-10T18:00:00Z",
+        "s": "2026-02-11T17:00:00Z",
+        "e": "2026-02-11T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2873,8 +2927,8 @@
       },
       {
         "n": "Maoupa Mazzocchetti",
-        "s": "2026-02-10T18:00:00Z",
-        "e": "2026-02-10T19:00:00Z",
+        "s": "2026-02-11T18:00:00Z",
+        "e": "2026-02-11T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2882,8 +2936,8 @@
       },
       {
         "n": "RONI",
-        "s": "2026-02-10T19:00:00Z",
-        "e": "2026-02-10T20:00:00Z",
+        "s": "2026-02-11T19:00:00Z",
+        "e": "2026-02-11T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2892,8 +2946,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-10T20:00:00Z",
-        "e": "2026-02-10T21:00:00Z",
+        "s": "2026-02-11T20:00:00Z",
+        "e": "2026-02-11T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
