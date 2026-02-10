@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-10T20:36:46.758Z",
+  "updated": "2026-02-10T22:31:37.202Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-02-10T07:00:00Z",
-        "e": "2026-02-10T09:00:00Z",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-10th-february-2026",
-        "t": "weekly",
-        "p": "mariasomerville"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-02-10T09:00:00Z",
@@ -116,7 +106,7 @@
         "e": "2026-02-11T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/paride-maria-calvia-vanillajellaba/episodes/paride-maria-calvia-vanillajellaba-10th-february-2026"
       },
       {
         "n": "After dark w/ HELM",
@@ -254,28 +244,17 @@
         "u": null,
         "t": "biweekly",
         "p": "martelo"
+      },
+      {
+        "n": "HOOVERSOUND W/ NAINA",
+        "s": "2026-02-11T21:00:00Z",
+        "e": "2026-02-11T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NTS Guide to: Chillwave (R)",
-        "s": "2026-02-10T08:00:00Z",
-        "e": "2026-02-10T09:00:00Z",
-        "d": "Tumblrs at the ready for an hour of hazy, nostalgia-filled pop and electronic sounds from the late 2000s / early 2010s flourishing of \"chillwave\". ",
-        "j": "Chillwave",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-chillwave-15th-august-2023",
-        "t": "restream"
-      },
-      {
-        "n": "Dimension Door (R)",
-        "s": "2026-02-10T09:00:00Z",
-        "e": "2026-02-10T10:00:00Z",
-        "d": "Occult tapes plundered by two low level scavengers: the finest dungeon synth, medieval dark ambient & black metal.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-24th-april-2025",
-        "t": "restream",
-        "p": "dimensiondoor"
-      },
       {
         "n": "FELISHA LEDESMA (R)",
         "s": "2026-02-10T10:00:00Z",
@@ -391,9 +370,9 @@
         "n": "ABBY IMPERIAL",
         "s": "2026-02-10T23:00:00Z",
         "e": "2026-02-11T00:00:00Z",
-        "d": null,
+        "d": "The eclectic and diverse frequencies from a true East Bay Area native, Abby Imperial is ready to bring the soulful sounds of Rnb, g-funk, deep house, jungle & more..\nFrom the host: \"All Glory be to God!!!!\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abby-imperial/episodes/abby-imperial-10th-february-2026",
         "t": "monthly"
       },
       {
@@ -528,27 +507,17 @@
         "j": "JEN MONROE",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THROUGH LOVERS w/ Operelly and Zachshots",
+        "s": "2026-02-11T18:00:00Z",
+        "e": "2026-02-11T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Breakfast Spoons w/ Boruch",
-        "s": "2026-02-10T08:00:00Z",
-        "e": "2026-02-10T09:00:00Z",
-        "d": null,
-        "j": "Boruch",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Gingerly",
-        "s": "2026-02-10T09:00:00Z",
-        "e": "2026-02-10T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-02-10T10:00:00Z",
@@ -1730,18 +1699,28 @@
         "u": null,
         "t": "monthly",
         "p": "deeperdnb"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-10T08:00:00Z",
-        "e": "2026-02-10T10:00:00Z",
+        "n": "ASH BASH - SHOWTIME",
+        "s": "2026-02-17T21:00:00Z",
+        "e": "2026-02-17T22:00:00Z",
+        "d": null,
+        "j": "SHOWTIME",
+        "u": null,
+        "t": "monthly",
+        "p": "ash"
+      },
+      {
+        "n": " Bassfreight Sound",
+        "s": "2026-02-17T22:00:00Z",
+        "e": "2026-02-17T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-02-10T10:00:00Z",
@@ -2385,15 +2364,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-02-10T07:00:00Z",
-        "e": "2026-02-10T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Papaoul",
         "s": "2026-02-10T09:00:00Z",
