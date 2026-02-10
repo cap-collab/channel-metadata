@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-10T01:30:01.174Z",
+  "updated": "2026-02-10T04:25:53.290Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Melodies International",
-        "s": "2026-02-09T13:00:00Z",
-        "e": "2026-02-09T15:00:00Z",
-        "d": "From dusty crates and dingy basements to the NTS airwaves - reissue label Melodies International bring special, undiscovered, and beautiful records from across the world their show, every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/melodies-international/episodes/melodies-international-9th-february-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "System Olympia: Nautilus",
-        "s": "2026-02-09T15:00:00Z",
-        "e": "2026-02-09T16:00:00Z",
-        "d": "System Olympia joins us for an hour a month.",
-        "j": "Nautilus",
-        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-9th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "OHBLIV",
         "s": "2026-02-09T16:00:00Z",
@@ -116,19 +98,21 @@
         "n": "Music For Days Like These w/ John Talabot (R)",
         "s": "2026-02-10T04:00:00Z",
         "e": "2026-02-10T05:00:00Z",
-        "d": null,
+        "d": "Barcelona based producer, DJ and founder of Hivern Discs John Talabot takes over for his monthly show.",
         "j": "John Talabot",
-        "u": null,
-        "t": "restream"
+        "u": "https://www.nts.live/api/v2/shows/john-talabot/episodes/music-for-days-like-these-w-john-talabot-8th-june-2018",
+        "t": "restream",
+        "p": "johntalabot"
       },
       {
         "n": "Perfect Lives w/ Bruno  & Daniel (R)",
         "s": "2026-02-10T05:00:00Z",
         "e": "2026-02-10T06:00:00Z",
-        "d": null,
+        "d": "Bruno selects an hour of little known punk and post punk. ",
         "j": "Bruno  & Daniel",
-        "u": null,
-        "t": "restream"
+        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-w-bruno-4-october-2020",
+        "t": "restream",
+        "p": "perfectlives"
       },
       {
         "n": "The Head Zone w/ Ripley Johnson (R)",
@@ -175,7 +159,8 @@
         "e": "2026-02-10T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "roadkillikebana"
       },
       {
         "n": "CARLA DAL FORNO",
@@ -203,7 +188,8 @@
         "d": null,
         "j": "LAUREL HALO",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "laurelhalo"
       },
       {
         "n": "FERGUS CLARK",
@@ -212,7 +198,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "fergusclark"
       },
       {
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
@@ -238,7 +225,8 @@
         "e": "2026-02-10T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "crystallmess"
       },
       {
         "n": "PARIDE MARIA CALVIA - VANILLAJELLABA",
@@ -247,34 +235,36 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "nts2": [
+      },
       {
-        "n": "PAVEL MILYAKOV",
-        "s": "2026-02-09T13:00:00Z",
-        "e": "2026-02-09T14:00:00Z",
-        "d": "Berlin-based artist Pavel Milyakov aka Buttechno joins us for an hour a month.\nfrom the host:\"a mix for the deep winter mood with sounds of ambient / dub / singer-songwriter\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/buttechno/episodes/buttechno-9th-february-2026",
+        "n": "After dark w/ HELM",
+        "s": "2026-02-11T00:00:00Z",
+        "e": "2026-02-11T02:00:00Z",
+        "d": null,
+        "j": "HELM",
+        "u": null,
         "t": "monthly"
       },
       {
-        "n": "Otaku: Berserk",
-        "s": "2026-02-09T14:00:00Z",
-        "e": "2026-02-09T15:00:00Z",
-        "d": "Soundtrack selections from the cult anime series Berserk, featuring compositions from Susumu Hirasawa and Shiro Sagisu. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/otaku/episodes/otaku-berserk-9th-february-2026"
+        "n": "OPEN HAND REAL FLAMES - new music for gamelan",
+        "s": "2026-02-11T02:00:00Z",
+        "e": "2026-02-11T03:00:00Z",
+        "d": null,
+        "j": "new music for gamelan",
+        "u": null,
+        "t": "monthly"
       },
       {
-        "n": "GUSH",
-        "s": "2026-02-09T15:00:00Z",
-        "e": "2026-02-09T16:00:00Z",
-        "d": "New collaborative avant pop project GUSH, aka Steven Warwick (Heatsick) and drummer Ivan Brito, bring sonic inspirations to the studio ahead of their Cafe Oto performance. ",
+        "n": "Studio One (R)",
+        "s": "2026-02-11T04:00:00Z",
+        "e": "2026-02-11T05:00:00Z",
+        "d": null,
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/gush-9th-february-2026"
-      },
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "nts2": [
       {
         "n": "SMERZ",
         "s": "2026-02-09T16:00:00Z",
@@ -308,7 +298,8 @@
         "d": "Vancouver-based video game composer and Radical Dreamland founder selects an hour of her favourite musical inspirations. ",
         "j": "LENA RAINE",
         "u": "https://www.nts.live/api/v2/shows/guests/episodes/lost-in-the-bitrate-w-lena-raine-26th-june-2025",
-        "t": "restream"
+        "t": "restream",
+        "p": "lenaraine"
       },
       {
         "n": "LE JARDIN W/ SARAH DAVACHI",
@@ -335,7 +326,8 @@
         "d": "CQQL Records founders DJ Randy Ellis and The Alaia bring you Day Care, a 2-hour monthly afternoon curriculum of Boogie Funk, Disco, R&B, G-Funk, House, Modern Soul wax, and way way more. Expect to be powdered and pampered by these audio obsessives.\nFrom the host: \"early valentine's day special from us to you ",
         "j": "DJ Randy Ellis & The Alaia of CQQL records",
         "u": "https://www.nts.live/api/v2/shows/day-care/episodes/day-care-9th-february-2026",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "daycare"
       },
       {
         "n": "Boom Bip (R)",
@@ -377,18 +369,18 @@
         "n": "HIGH JAZZ* W/ ILL DUBIO (R)",
         "s": "2026-02-10T04:00:00Z",
         "e": "2026-02-10T05:00:00Z",
-        "d": null,
+        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
         "j": "ILL DUBIO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-16th-july-2025",
         "t": "restream"
       },
       {
         "n": "In Focus: Ariel Kalma (R)",
         "s": "2026-02-10T05:00:00Z",
         "e": "2026-02-10T07:00:00Z",
-        "d": null,
+        "d": "Two hours' insight into prolific new age composer and multi-instrumentalist Ariel Kalma's psychedelic excursions in sound, including experiments in reel-to-reel tape electronics, minimal drone, and free-jazz.",
         "j": "Ariel Kalma",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-23rd-february-2023",
         "t": "restream"
       },
       {
@@ -398,7 +390,8 @@
         "d": null,
         "j": "CHEB MIMO",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "chebmimo"
       },
       {
         "n": "NTS Guide to: Chillwave (R)",
@@ -435,7 +428,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "lukid"
       },
       {
         "n": "Adultz Only",
@@ -444,7 +438,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "adultzonly"
       },
       {
         "n": "YOU'LL SOON KNOW W/ TIM PARKER",
@@ -462,7 +457,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "tone"
       },
       {
         "n": "UNITED IDENTITIES w/ CARISTA",
@@ -471,7 +467,8 @@
         "d": null,
         "j": "CARISTA",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "carista"
       },
       {
         "n": "The Big Happy Show",
@@ -496,7 +493,8 @@
         "d": null,
         "j": "THE COSMIC TONES RESEARCH TRIO",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "thecosmictonesresearchtrio"
       },
       {
         "n": "AUNTIE-ISM W/ SHABAZZ",
@@ -506,28 +504,35 @@
         "j": null,
         "u": null,
         "p": "shabazz"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Bittersweet Sounds w/ Mass Hysteria",
-        "s": "2026-02-09T13:00:00Z",
-        "e": "2026-02-09T14:00:00Z",
+        "n": "Tuff Shed w/ Zillas on Acid",
+        "s": "2026-02-10T21:00:00Z",
+        "e": "2026-02-10T23:00:00Z",
         "d": null,
-        "j": "Mass Hysteria",
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ABBY IMPERIAL",
+        "s": "2026-02-10T23:00:00Z",
+        "e": "2026-02-11T00:00:00Z",
+        "d": null,
+        "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Louis Selwyn",
-        "s": "2026-02-09T14:00:00Z",
-        "e": "2026-02-09T16:00:00Z",
+        "n": "8ULENTINA (R)",
+        "s": "2026-02-11T00:00:00Z",
+        "e": "2026-02-11T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "louisselwyn"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "UWOT",
         "s": "2026-02-09T16:00:00Z",
@@ -632,6 +637,15 @@
         "u": null,
         "t": "monthly",
         "p": "djoj"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-10T04:00:00Z",
+        "e": "2026-02-10T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "DJ Moement",
@@ -1690,27 +1704,38 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Refractions Radio",
+        "s": "2026-02-17T02:00:00Z",
+        "e": "2026-02-17T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "refractionsradio"
+      },
+      {
+        "n": "6JJACOB",
+        "s": "2026-02-17T03:00:00Z",
+        "e": "2026-02-17T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Full Frontal",
+        "s": "2026-02-17T04:00:00Z",
+        "e": "2026-02-17T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "fullfrontal"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-09T12:00:00Z",
-        "e": "2026-02-09T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-09T14:00:00Z",
-        "e": "2026-02-09T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Middle Pillar Sounds",
         "s": "2026-02-09T16:00:00Z",
@@ -2342,29 +2367,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Encarnación - Lucid Hour",
+        "s": "2026-02-17T02:00:00Z",
+        "e": "2026-02-17T04:00:00Z",
+        "d": null,
+        "j": "Lucid Hour",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Jen Ferrer - Fish Whistle",
+        "s": "2026-02-17T04:00:00Z",
+        "e": "2026-02-17T06:00:00Z",
+        "d": null,
+        "j": "Fish Whistle",
+        "u": null,
+        "t": "monthly",
+        "p": "jenferrer"
       }
     ],
     "rinse": [
-      {
-        "n": "Nakeira",
-        "s": "2026-02-09T13:00:00Z",
-        "e": "2026-02-09T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "nakeira"
-      },
-      {
-        "n": "Braga Circuit",
-        "s": "2026-02-09T14:00:00Z",
-        "e": "2026-02-09T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "bragacircuit"
-      },
       {
         "n": "Capo Lee",
         "s": "2026-02-09T15:00:00Z",
@@ -2782,33 +2806,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
-        "s": "2026-02-09T13:00:00Z",
-        "e": "2026-02-09T14:00:00Z",
-        "d": null,
-        "j": "LE PODCAST",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Kiala Ogawa",
-        "s": "2026-02-09T14:00:00Z",
-        "e": "2026-02-09T15:00:00Z",
-        "d": null,
-        "j": "Maiden Voyage avec Kiala Ogawa",
-        "u": null,
-        "t": "biweekly",
-        "p": "kialaogawa"
-      },
-      {
-        "n": "RONY",
-        "s": "2026-02-09T15:00:00Z",
-        "e": "2026-02-09T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Hey Bony",
         "s": "2026-02-09T16:00:00Z",
