@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-11T18:52:07.143Z",
+  "updated": "2026-02-11T20:30:39.770Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ONDAS (R)",
-        "s": "2026-02-11T06:00:00Z",
-        "e": "2026-02-11T07:00:00Z",
-        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-29th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "The Early Bird Show w/ spirit blue & Theo (Scenic Route)",
         "s": "2026-02-11T07:00:00Z",
@@ -88,9 +79,9 @@
         "n": "MARTELO",
         "s": "2026-02-11T20:00:00Z",
         "e": "2026-02-11T21:00:00Z",
-        "d": null,
+        "d": "Record maker, player and mixer Martelo - not Martello - joins the musical dots with sonic heat from across the globe. Taking us to hip-hop, RnB, electronica and elsewhere, Martelo keeps it tight and keeps the heat: non-stop classics. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/martelo/episodes/martelo-11th-february-2026",
         "t": "biweekly",
         "p": "martelo"
       },
@@ -98,9 +89,10 @@
         "n": "HOOVERSOUND W/ NAINA",
         "s": "2026-02-11T21:00:00Z",
         "e": "2026-02-11T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound.",
+        "j": "NAINA",
+        "u": "https://www.nts.live/api/v2/shows/hooversound/episodes/hooversound-11th-february-2026",
+        "t": "monthly",
         "p": "hooversound"
       },
       {
@@ -228,27 +220,26 @@
         "j": "SOFIE K",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Chicken Foot Soup w/ Goya Gumbani and Dom P",
+        "s": "2026-02-12T17:00:00Z",
+        "e": "2026-02-12T19:00:00Z",
+        "d": null,
+        "j": "Goya Gumbani and Dom P",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "dropbydrop: Drop 3",
+        "s": "2026-02-12T19:00:00Z",
+        "e": "2026-02-12T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Horsegirl Sounds Radio Hour (R)",
-        "s": "2026-02-11T06:00:00Z",
-        "e": "2026-02-11T07:00:00Z",
-        "d": "Horsegirl Sounds Radio Hour is a long running playlist curated by Penelope, Gigi, and Nora. Now they bring their monthly selections to the NTS airwaves.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/horsegirl/episodes/horsegirl-5th-february-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Séance Centre (R)",
-        "s": "2026-02-11T07:00:00Z",
-        "e": "2026-02-11T08:00:00Z",
-        "d": "Canadian record label, publisher, and distributors Séance Centre conjure timeless music from the past, present, and future. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/seance-centre/episodes/seance-centre-18th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "Death Is Not The End (R)",
         "s": "2026-02-11T08:00:00Z",
@@ -353,18 +344,20 @@
         "n": "Panorama Heaven with Bianca Lexis: Covers Special",
         "s": "2026-02-11T20:00:00Z",
         "e": "2026-02-11T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "LA native Bianca Lexis showcases a monthly, genre-blending hour, exploring the different facets of pop, rock, synth and house music. all in panoramic view, for you.",
+        "j": "Covers Special",
+        "u": "https://www.nts.live/api/v2/shows/panorama-heaven/episodes/panorama-heaven-11th-february-2026",
+        "t": "monthly",
         "p": "biancalexis"
       },
       {
         "n": "HEAVEN AND EARTH MAGIC W/ JOCELYN ROMO",
         "s": "2026-02-11T21:00:00Z",
         "e": "2026-02-11T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Exploring inner and outer worlds, cosmic and pastoral sounds, and the intersection between reality and dreams once a month with Jocelyn Romo's mix of international and private press folk, instrumental guitar, dream country, ambient, new age, kosmiche, psych and beyond\nFrom the host: \"a valentine’s day special of 80s dream pop, soft rock, and dreamy new wave by women, for all lovers of falling in love.\"",
+        "j": "JOCELYN ROMO",
+        "u": "https://www.nts.live/api/v2/shows/jocelyn-romo/episodes/jocelyn-romo-11th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "LUKE MELE",
@@ -485,6 +478,24 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "DesiVinyl w/ Ruby Khaira",
+        "s": "2026-02-12T15:00:00Z",
+        "e": "2026-02-12T16:00:00Z",
+        "d": null,
+        "j": "Ruby Khaira",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "NOT WAVING",
+        "s": "2026-02-12T16:00:00Z",
+        "e": "2026-02-12T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
@@ -1659,17 +1670,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sumgii",
+        "s": "2026-02-18T20:00:00Z",
+        "e": "2026-02-18T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "J.TRIPP - DWELL TIME",
-        "s": "2026-02-11T06:00:00Z",
-        "e": "2026-02-11T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-02-11T08:00:00Z",
@@ -2321,19 +2333,18 @@
         "j": null,
         "u": null,
         "p": "juanizguerra"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "DJ Love B2B La La",
-        "s": "2026-02-11T06:00:00Z",
-        "e": "2026-02-11T07:00:00Z",
+        "n": "Heidi Lawden – Magic Roundabout",
+        "s": "2026-02-18T20:00:00Z",
+        "e": "2026-02-18T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "djlove"
-      },
+        "p": "heidilawden"
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-02-11T07:00:00Z",
@@ -2640,15 +2651,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-02-10T20:00:00Z",
-        "e": "2026-02-11T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-02-11T08:00:00Z",
