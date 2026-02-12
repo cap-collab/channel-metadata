@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-12T01:20:51.829Z",
+  "updated": "2026-02-12T04:16:20.093Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Tropic of Love w/ Mafalda",
-        "s": "2026-02-11T13:00:00Z",
-        "e": "2026-02-11T15:00:00Z",
-        "d": "Vibrant eclecticism from Portuguese selector Mafalda, for two hours every month. ",
-        "j": "Mafalda",
-        "u": "https://www.nts.live/api/v2/shows/mafalda/episodes/mafalda-11th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "Louise Chen",
         "s": "2026-02-11T15:00:00Z",
@@ -29,7 +20,7 @@
         "d": "Winding back to the early 2010s, delving into the explosion of new \"underground\" rap artists, taking the genre into interesting new aesthetics, including acts like Lofty305, Chris Travis, Lil B, and others, including acts that are now mainstream stars, such as A$AP Rocky and Denzel Curry. If you remember this the first time round you are now eligible for unc status. We don't make the rules. ",
         "j": "Uncderground Rap",
         "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-uncderground-rap-11th-february-2026",
-        "t": "weekly"
+        "t": "biweekly"
       },
       {
         "n": "2d0gs",
@@ -54,7 +45,7 @@
         "d": "Record maker, player and mixer Martelo - not Martello - joins the musical dots with sonic heat from across the globe. Taking us to hip-hop, RnB, electronica and elsewhere, Martelo keeps it tight and keeps the heat: non-stop classics. ",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/martelo/episodes/martelo-11th-february-2026",
-        "t": "biweekly",
+        "t": "monthly",
         "p": "martelo"
       },
       {
@@ -92,7 +83,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "grrl"
       },
       {
         "n": "Can You Feel The Sun w/ Call Super",
@@ -115,18 +106,18 @@
         "n": "DON'T TRIP W/ MARGARITA (R)",
         "s": "2026-02-12T03:00:00Z",
         "e": "2026-02-12T05:00:00Z",
-        "d": null,
+        "d": "Somewhere between banging your head against a brick wall and holding your breath under water.",
         "j": "MARGARITA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dont-trip/episodes/dont-trip-7th-february-2025",
         "t": "restream"
       },
       {
         "n": "SARA A (R)",
         "s": "2026-02-12T05:00:00Z",
         "e": "2026-02-12T06:00:00Z",
-        "d": null,
+        "d": "Lesser heard sounds with a focus on femmes in punk from artist and musician Sara A.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-13th-december-2024",
         "t": "restream",
         "p": "saraa"
       },
@@ -147,7 +138,7 @@
         "d": null,
         "j": "PAM",
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -164,17 +155,17 @@
         "s": "2026-02-12T11:00:00Z",
         "e": "2026-02-12T13:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "BABYSCHÖN",
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "DANCE MUSIC SHOW W/ BELL TOWERS",
         "s": "2026-02-12T13:00:00Z",
         "e": "2026-02-12T14:00:00Z",
         "d": null,
-        "j": "BELL TOWERS",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "belltowers"
       },
       {
@@ -190,18 +181,17 @@
         "s": "2026-02-12T16:00:00Z",
         "e": "2026-02-12T17:00:00Z",
         "d": null,
-        "j": "SOFIE K",
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "sofiek"
       },
       {
         "n": "Chicken Foot Soup w/ Goya Gumbani and Dom P",
         "s": "2026-02-12T17:00:00Z",
         "e": "2026-02-12T19:00:00Z",
         "d": null,
-        "j": "Goya Gumbani and Dom P",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "dropbydrop: Drop 3",
@@ -234,7 +224,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "grandmixxer"
       },
       {
@@ -243,8 +232,7 @@
         "e": "2026-02-13T02:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Home-listening Plaza",
@@ -253,36 +241,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Alicia Matthews (R)",
+        "s": "2026-02-13T04:00:00Z",
+        "e": "2026-02-13T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "alicia"
+      },
+      {
+        "n": "Crossed Wires w/ Amanda Siegel (R)",
+        "s": "2026-02-13T05:00:00Z",
+        "e": "2026-02-13T07:00:00Z",
+        "d": null,
+        "j": "Amanda Siegel",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "SHUKAI",
-        "s": "2026-02-11T13:00:00Z",
-        "e": "2026-02-11T14:00:00Z",
-        "d": "A unique dip into the musical history of Ukraine with archival label Shukai, journeying back to the ‘90s, playing music from documentaries, sci-fi films, obscure cartoons and late-night music programming, curated by Dmytro Nikolaienko, Dmytro Prutkin and Alec Tsapenko.\nFrom the host: \"A journey into late-1980s and mid-1990s Ukrainian pop music: tracing a path from private tape archives to era’s largest music television platform ’Territory A‘.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/shukai/episodes/shukai-11th-february-2026",
-        "t": "monthly",
-        "p": "shukai"
-      },
-      {
-        "n": "80's RAMPWALK",
-        "s": "2026-02-11T14:00:00Z",
-        "e": "2026-02-11T15:00:00Z",
-        "d": "80's Rampwalk delivers an hour of cold wave, minimal synth, industrial, post-punk and music made in Berlin basements.\nFrom the host: \"Présence, a Belgian label run by members of Isolation Ward, released some 16 or 17 cassettes during its 3 year run most of which are ifficult to hear. This month's show is a Présence primer, a tribute to a wonderful and strange label which has somehow mostly escaped the reissue-industrial complex.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/80srampwalk/episodes/80srampwalk-11th-february-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "IKR. IMPRINT w/ Adum Brate: The Terminal",
-        "s": "2026-02-11T15:00:00Z",
-        "e": "2026-02-11T16:00:00Z",
-        "d": "universal collage",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ikura-imprint/episodes/ikura-imprint-11th-february-2026"
-      },
       {
         "n": "FIFTH WORLD W/ Khotin",
         "s": "2026-02-11T16:00:00Z",
@@ -299,7 +279,6 @@
         "d": "Jen Monroe writes the album download blog Listen To This!, which focuses on Japanese and new age records: Listen to This\nFrom the host: \"Drippy, yearny, violin-heavy romantic classical for Valentine's Day. Lay it on thick!\"",
         "j": "JEN MONROE",
         "u": "https://www.nts.live/api/v2/shows/jen-monroe/episodes/jen-monroe-11th-february-2026",
-        "t": "monthly",
         "p": "jenmonroe"
       },
       {
@@ -337,7 +316,8 @@
         "d": "Exploring inner and outer worlds, cosmic and pastoral sounds, and the intersection between reality and dreams once a month with Jocelyn Romo's mix of international and private press folk, instrumental guitar, dream country, ambient, new age, kosmiche, psych and beyond\nFrom the host: \"a valentine’s day special of 80s dream pop, soft rock, and dreamy new wave by women, for all lovers of falling in love.\"",
         "j": "JOCELYN ROMO",
         "u": "https://www.nts.live/api/v2/shows/jocelyn-romo/episodes/jocelyn-romo-11th-february-2026",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "jocelynromo"
       },
       {
         "n": "LUKE MELE",
@@ -372,7 +352,8 @@
         "e": "2026-02-12T03:00:00Z",
         "d": "for you and me\nFrom the host: \"be a living angel on earth\"",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/cold-pizza/episodes/cold-pizza-12th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/cold-pizza/episodes/cold-pizza-12th-february-2026",
+        "p": "coldpizza"
       },
       {
         "n": "Club Aerobics w/ Bianca Oblivion & Jerrau",
@@ -380,23 +361,24 @@
         "e": "2026-02-12T04:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "clubaerobics"
       },
       {
         "n": "Ozzy’s Vision",
         "s": "2026-02-12T04:00:00Z",
         "e": "2026-02-12T05:00:00Z",
-        "d": null,
+        "d": "Tokyo club empressario Ozzy’s Vision returns to NTS with another hour of rough, leftfield sounds. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ozzy-s-vision-12th-february-2026"
       },
       {
         "n": "In Focus: Kassia (R)",
         "s": "2026-02-12T05:00:00Z",
         "e": "2026-02-12T06:00:00Z",
-        "d": null,
+        "d": "Composer, poet, and pioneer of the Byzantine era, Kassia stands as the earliest known female composer in history. Born in 9th-century Constantinople, Kassia broke new ground with her liturgical hymns, many of which are still performed today. A woman of profound intellect and spirituality, she not only composed over fifty hymns but also engaged in the theological and philosophical discourses of her time. Her legacy, long overshadowed by the centuries, is now being rediscovered, revealing her as a significant figure in the development of early sacred music.\nFor one hour, NTS delves into the enduring impact of her work on the musical canon.",
         "j": "Kassia",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-kassia-30th-august-2024",
         "t": "restream"
       },
       {
@@ -442,7 +424,8 @@
         "e": "2026-02-12T12:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "imagesearch"
       },
       {
         "n": "The World of Black Film w/ Ashley Clark",
@@ -465,9 +448,9 @@
         "s": "2026-02-12T15:00:00Z",
         "e": "2026-02-12T16:00:00Z",
         "d": null,
-        "j": "Ruby Khaira",
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "rubykhaira"
       },
       {
         "n": "NOT WAVING",
@@ -476,7 +459,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "notwaving"
       },
       {
         "n": "POSH ISOLATION'S COPENHAGEN REPORT w/ Mads Axelsen",
@@ -492,7 +475,8 @@
         "e": "2026-02-12T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "he4rtbroken"
       },
       {
         "n": "UNITED IN FLAMES W/ MALIBU",
@@ -507,42 +491,36 @@
         "s": "2026-02-12T20:00:00Z",
         "e": "2026-02-12T21:00:00Z",
         "d": null,
-        "j": "SMILEGOTH",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "smilegoth"
+      },
+      {
+        "n": "SEMATARY",
+        "s": "2026-02-12T21:00:00Z",
+        "e": "2026-02-12T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MOONY HABITS W/ ALEX HO",
+        "s": "2026-02-12T22:00:00Z",
+        "e": "2026-02-12T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "No Bells w/ Mano Sundaresan",
+        "s": "2026-02-13T00:00:00Z",
+        "e": "2026-02-13T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Niamh",
-        "s": "2026-02-11T13:00:00Z",
-        "e": "2026-02-11T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "niamh"
-      },
-      {
-        "n": "Endri",
-        "s": "2026-02-11T14:00:00Z",
-        "e": "2026-02-11T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Bleached Club",
-        "s": "2026-02-11T15:00:00Z",
-        "e": "2026-02-11T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "bleachedclub"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-02-11T16:00:00Z",
@@ -557,18 +535,16 @@
         "s": "2026-02-11T17:00:00Z",
         "e": "2026-02-11T18:00:00Z",
         "d": null,
-        "j": "AIREDARCHIVE",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "SQUARED: STARKEYE",
         "s": "2026-02-11T18:00:00Z",
         "e": "2026-02-11T19:00:00Z",
         "d": null,
-        "j": "STARKEYE",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "squared"
       },
       {
@@ -578,7 +554,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "wekillculture"
       },
       {
@@ -588,7 +563,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "hazel"
       },
       {
@@ -597,8 +571,7 @@
         "e": "2026-02-11T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Psyked ",
@@ -607,7 +580,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "psyked"
       },
       {
@@ -624,8 +596,7 @@
         "e": "2026-02-12T03:00:00Z",
         "d": "Dubversified showcases Canadian West Coast DJ talent specializing in Bass Music. Hosted by Mirage, founder of Dubversified Culture, a community-led organization focusing on music, art, and events. Mirage, originally from Québec, blends house and hip-hop since 2010, now exploring 140bpm and Deep D&B.",
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "rowthedecks",
@@ -634,7 +605,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "rowthedecks"
       },
       {
@@ -643,17 +613,24 @@
         "e": "2026-02-12T05:00:00Z",
         "d": null,
         "j": null,
+        "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-12T05:00:00Z",
+        "e": "2026-02-12T08:00:00Z",
+        "d": null,
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "Making Hay w/ natdav",
         "s": "2026-02-12T08:00:00Z",
         "e": "2026-02-12T09:00:00Z",
         "d": null,
-        "j": "natdav",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Deep Awake by Semaj",
@@ -662,7 +639,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "deepawakebysemaj"
       },
       {
@@ -671,8 +647,7 @@
         "e": "2026-02-12T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Con Artist",
@@ -680,17 +655,15 @@
         "e": "2026-02-12T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Into The Lion's Den w/ Restrikt",
         "s": "2026-02-12T13:00:00Z",
         "e": "2026-02-12T14:00:00Z",
         "d": null,
-        "j": "Restrikt",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Marigold",
@@ -698,17 +671,15 @@
         "e": "2026-02-12T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Hostile Architecture w/ ODW",
         "s": "2026-02-12T16:00:00Z",
         "e": "2026-02-12T17:00:00Z",
         "d": null,
-        "j": "ODW",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Say Less",
@@ -716,8 +687,7 @@
         "e": "2026-02-12T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "D-Code & Psylence",
@@ -725,8 +695,7 @@
         "e": "2026-02-12T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Benteki",
@@ -735,7 +704,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "benteki"
       },
       {
@@ -743,9 +711,8 @@
         "s": "2026-02-12T23:00:00Z",
         "e": "2026-02-13T00:00:00Z",
         "d": "Potent Funk records’ Matt Frost - Well known for his technical abilities and Sleazy bass music style, Frost covers all angles from UK alt Rap to the LA beat scene.",
-        "j": "Kutmah",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "mattfrost"
       },
       {
@@ -753,9 +720,8 @@
         "s": "2026-02-13T00:00:00Z",
         "e": "2026-02-13T01:00:00Z",
         "d": null,
-        "j": "Dubfreq",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Insoundfromwayback",
@@ -763,8 +729,7 @@
         "e": "2026-02-13T02:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Pete Shredz",
@@ -773,7 +738,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "peteshredz"
       },
       {
@@ -791,17 +755,15 @@
         "e": "2026-02-13T05:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Holy Crow w/ Isis Moray",
         "s": "2026-02-13T10:00:00Z",
         "e": "2026-02-13T11:00:00Z",
         "d": null,
-        "j": "Isis Moray",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Tom Ferrare",
@@ -809,8 +771,7 @@
         "e": "2026-02-13T12:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Electrolytes with Joly",
@@ -819,7 +780,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "electrolyteswithjoly"
       },
       {
@@ -829,7 +789,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "collective"
       },
       {
@@ -839,7 +798,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "kamzuqi"
       },
       {
@@ -848,8 +806,7 @@
         "e": "2026-02-13T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
         "n": "SYNES",
@@ -858,7 +815,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "synes"
       },
       {
@@ -867,8 +823,7 @@
         "e": "2026-02-13T21:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": " Minus - Flow State",
@@ -885,17 +840,15 @@
         "e": "2026-02-14T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Spaghetti Junction w/ Sartana",
         "s": "2026-02-14T00:00:00Z",
         "e": "2026-02-14T01:00:00Z",
         "d": null,
-        "j": "Sartana",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "MANNRS",
@@ -904,7 +857,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "mannrs"
       },
       {
@@ -913,8 +865,7 @@
         "e": "2026-02-14T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "TheComplexCurve",
@@ -923,7 +874,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "thecomplexcurve"
       },
       {
@@ -932,8 +882,7 @@
         "e": "2026-02-14T09:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": " SCOPE__EM",
@@ -941,17 +890,15 @@
         "e": "2026-02-14T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Poolside Convo w/ Gabe",
         "s": "2026-02-14T11:00:00Z",
         "e": "2026-02-14T12:00:00Z",
         "d": null,
-        "j": "Gabe",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Cam Christie",
@@ -960,7 +907,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "camchristie"
       },
       {
@@ -969,8 +915,7 @@
         "e": "2026-02-14T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Charlie Kelly ",
@@ -978,8 +923,7 @@
         "e": "2026-02-14T16:00:00Z",
         "d": "Get ready to embark on a captivating sonic journey of underground music with Charlie Kelly. Including new and timeless sounds from the depths of rap, drill, grime, and experimental genres from the vibrant streets of the UK and beyond. Charlie unearths the very best in music that pushes boundaries. Off the mic, Charlie is a Radio Producer and Social Media Executive with an eclectic music taste spanning across many different cultures, decades, and styles. Hailing from North London with a love for audio and pop culture, you can expect to hear tune after tune when you’re locked into Charlie Kelly on Subtle.",
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Niamh",
@@ -988,7 +932,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "niamh"
       },
       {
@@ -997,8 +941,7 @@
         "e": "2026-02-14T18:00:00Z",
         "d": "BirdE brings an hour of the freshest Drum and Bass covering everything from liquid to techy steppers - the deeper the better.",
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Counter Culture",
@@ -1007,7 +950,6 @@
         "d": "Originally from Cambridge, Counter Culture's selection deftly navigates across a myriad of influences and exclusives from himself & friends.\r\nExpect some of the freshest rolling soul straight to your headspace.",
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "counterculture"
       },
       {
@@ -1015,9 +957,8 @@
         "s": "2026-02-14T19:00:00Z",
         "e": "2026-02-14T20:00:00Z",
         "d": null,
-        "j": "Qua Rush & Flipz MC",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Kimber & Kid Kun",
@@ -1025,8 +966,7 @@
         "e": "2026-02-14T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "BRINK",
@@ -1034,8 +974,7 @@
         "e": "2026-02-14T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Katarina",
@@ -1044,7 +983,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "katarina"
       },
       {
@@ -1053,8 +991,7 @@
         "e": "2026-02-15T01:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "2guys1club",
@@ -1062,8 +999,7 @@
         "e": "2026-02-15T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "ECHO CHAMBER",
@@ -1071,8 +1007,7 @@
         "e": "2026-02-15T10:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "tabs",
@@ -1081,7 +1016,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "tabs"
       },
       {
@@ -1090,8 +1024,7 @@
         "e": "2026-02-15T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "ItsJermayne",
@@ -1100,7 +1033,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "itsjermayne"
       },
       {
@@ -1108,9 +1040,8 @@
         "s": "2026-02-15T14:00:00Z",
         "e": "2026-02-15T15:00:00Z",
         "d": null,
-        "j": "Megan Wroe",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Chaitu",
@@ -1119,7 +1050,6 @@
         "d": "Hailing from Mumbai, now living in London, Chaitu is energised by the UK sound and scene.\r\n\r\nWith a love of all things weird, weighty and groovy; his mixes and productions bridge electro, techno, breaks, UKG and Jungle, with sprinklings of everything in between.\r\n\r\nChaitu champions provocative beats that break down the barriers of style, genre and expectation, all while keeping you moving.",
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "chaitu"
       },
       {
@@ -1128,8 +1058,7 @@
         "e": "2026-02-15T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
         "n": "SETTINGS",
@@ -1138,7 +1067,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "settings"
       },
       {
@@ -1148,7 +1076,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "sofarsogood"
       },
       {
@@ -1157,8 +1084,7 @@
         "e": "2026-02-15T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "SPOTLIGHT EVENTS ",
@@ -1167,7 +1093,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "spotlight"
       },
       {
@@ -1177,7 +1102,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "dianadzjamaldaeva"
       },
       {
@@ -1187,7 +1111,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "shadowsessions"
       },
       {
@@ -1197,7 +1120,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "resonate"
       },
       {
@@ -1214,8 +1136,7 @@
         "e": "2026-02-16T07:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Liquid Daybreak",
@@ -1223,26 +1144,23 @@
         "e": "2026-02-16T10:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "The PICKNMIX Show w/ Komanche",
         "s": "2026-02-16T10:00:00Z",
         "e": "2026-02-16T11:00:00Z",
         "d": null,
-        "j": "Komanche",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Sweet Things w/ PXLTERGEIST",
         "s": "2026-02-16T11:00:00Z",
         "e": "2026-02-16T12:00:00Z",
         "d": null,
-        "j": "PXLTERGEIST",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "sweetthings"
       },
       {
@@ -1252,7 +1170,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "ladyjules"
       },
       {
@@ -1261,8 +1178,7 @@
         "e": "2026-02-16T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "JO KIRA",
@@ -1271,7 +1187,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "jokira"
       },
       {
@@ -1280,8 +1195,7 @@
         "e": "2026-02-16T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Skari",
@@ -1290,7 +1204,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "skari"
       },
       {
@@ -1300,7 +1213,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "h3l3na"
       },
       {
@@ -1309,8 +1221,7 @@
         "e": "2026-02-16T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Rainbow Conspiracy",
@@ -1319,7 +1230,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "rainbowconspiracy"
       },
       {
@@ -1327,9 +1237,8 @@
         "s": "2026-02-16T21:00:00Z",
         "e": "2026-02-16T22:00:00Z",
         "d": "In:flux Audio are a record label based in Leeds, UK founded by production duo Tik&Borrow. Since the label's inception in October 2013, they have dabbled in multiple dance music styles with the emphasis always being on the tracks being unique, and packed full of bass. Today the primary output for the label is from their Dubstep roster and this is focus of their show on Subtle - giving the artists and remixers chance to showcase their sounds with an hour guest mix, all hosted by label bossman Tik.",
-        "j": "flux Audio",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "tighe",
@@ -1337,8 +1246,7 @@
         "e": "2026-02-16T23:00:00Z",
         "d": "I’m a 19 year old DJ and producer from Newcastle upon Tyne, mainly playing and producing music around the 140bpm mark. I started out playing old 2-step and jungle records, before moving my focus to mainly dubstep and grime. Along with my friends Pirata and White Label, I run Newcastle’s only current 140 night, Well Irie. ",
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Marcus Phillippe",
@@ -1346,8 +1254,7 @@
         "e": "2026-02-17T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Dan Dara",
@@ -1356,7 +1263,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Refractions Radio",
@@ -1365,7 +1272,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "refractionsradio"
       },
       {
@@ -1374,8 +1280,7 @@
         "e": "2026-02-17T04:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Full Frontal",
@@ -1384,7 +1289,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "fullfrontal"
       },
       {
@@ -1393,8 +1297,7 @@
         "e": "2026-02-17T08:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Ardishko",
@@ -1402,8 +1305,7 @@
         "e": "2026-02-17T09:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Albert Moon",
@@ -1412,7 +1314,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "albertmoon"
       },
       {
@@ -1422,7 +1323,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "ovrtic"
       },
       {
@@ -1432,7 +1332,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "drisk"
       },
       {
@@ -1442,7 +1342,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "launcher"
       },
       {
@@ -1451,8 +1350,7 @@
         "e": "2026-02-17T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Atiké",
@@ -1461,7 +1359,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "atik"
       },
       {
@@ -1470,17 +1367,15 @@
         "e": "2026-02-17T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Super Best w/ Mood Change",
         "s": "2026-02-17T18:00:00Z",
         "e": "2026-02-17T19:00:00Z",
         "d": null,
-        "j": "Mood Change",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Deeper DnB",
@@ -1489,7 +1384,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "deeperdnb"
       },
       {
@@ -1497,9 +1391,8 @@
         "s": "2026-02-17T21:00:00Z",
         "e": "2026-02-17T22:00:00Z",
         "d": null,
-        "j": "SHOWTIME",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "ash"
       },
       {
@@ -1508,8 +1401,7 @@
         "e": "2026-02-17T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "The R.I.P Show",
@@ -1517,8 +1409,7 @@
         "e": "2026-02-18T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Deens",
@@ -1533,9 +1424,8 @@
         "s": "2026-02-18T01:00:00Z",
         "e": "2026-02-18T02:00:00Z",
         "d": null,
-        "j": "Black Fish",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Sub Archives",
@@ -1544,7 +1434,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "subarchives"
       },
       {
@@ -1553,8 +1442,7 @@
         "e": "2026-02-18T04:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "SJH",
@@ -1563,7 +1451,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "sjh"
       },
       {
@@ -1572,8 +1459,7 @@
         "e": "2026-02-18T09:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "TSZ INVITES FITS ME FUNNY",
@@ -1581,8 +1467,7 @@
         "e": "2026-02-18T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Stroke of Sound by Tia",
@@ -1591,7 +1476,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "tia"
       },
       {
@@ -1601,7 +1485,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "0x54"
       },
       {
@@ -1611,7 +1494,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "nabes"
       },
       {
@@ -1620,8 +1502,7 @@
         "e": "2026-02-18T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": " Gilbo",
@@ -1638,8 +1519,7 @@
         "e": "2026-02-18T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Sumgii",
@@ -1647,8 +1527,7 @@
         "e": "2026-02-18T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Mr Beatnick",
@@ -1657,7 +1536,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "mrbeatnick"
       },
       {
@@ -1666,8 +1544,7 @@
         "e": "2026-02-19T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "MRTN",
@@ -1676,7 +1553,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "mrtn"
       },
       {
@@ -1684,38 +1560,35 @@
         "s": "2026-02-19T01:00:00Z",
         "e": "2026-02-19T03:00:00Z",
         "d": null,
-        "j": "JV & Rula Bula",
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Synthesis by Synestesia",
+        "s": "2026-02-19T03:00:00Z",
+        "e": "2026-02-19T04:00:00Z",
+        "d": null,
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "synestesia"
+      },
+      {
+        "n": "Sasha Rome Presents Eclipse",
+        "s": "2026-02-19T04:00:00Z",
+        "e": "2026-02-19T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-11T12:00:00Z",
-        "e": "2026-02-11T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-11T14:00:00Z",
-        "e": "2026-02-11T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "The Urxed - Seeing It As You Really Are",
         "s": "2026-02-11T16:00:00Z",
         "e": "2026-02-11T18:00:00Z",
         "d": null,
-        "j": "Seeing It As You Really Are",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "theurxed"
       },
       {
@@ -1725,7 +1598,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "larryg"
       },
       {
@@ -1733,9 +1605,8 @@
         "s": "2026-02-11T20:00:00Z",
         "e": "2026-02-11T22:00:00Z",
         "d": null,
-        "j": "POW Radio",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "jeffweiss"
       },
       {
@@ -1743,9 +1614,8 @@
         "s": "2026-02-11T22:00:00Z",
         "e": "2026-02-12T00:00:00Z",
         "d": null,
-        "j": "Heads Up",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "dannyholloway"
       },
       {
@@ -1753,9 +1623,8 @@
         "s": "2026-02-12T00:00:00Z",
         "e": "2026-02-12T02:00:00Z",
         "d": null,
-        "j": "Chromatic Fields",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "byronwestbrook"
       },
       {
@@ -1764,17 +1633,15 @@
         "e": "2026-02-12T04:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Rusty Santos - Microworlds",
         "s": "2026-02-12T04:00:00Z",
         "e": "2026-02-12T06:00:00Z",
         "d": null,
-        "j": "Microworlds",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "rustysantos"
       },
       {
@@ -1782,9 +1649,8 @@
         "s": "2026-02-12T06:00:00Z",
         "e": "2026-02-12T08:00:00Z",
         "d": null,
-        "j": "Indoor Cats",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "laurashumate"
       },
       {
@@ -1794,7 +1660,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "biweekly"
       },
       {
         "n": "Heavy Trip – Inner Ear",
@@ -1803,7 +1669,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "heavytrip"
       },
       {
@@ -1811,9 +1676,8 @@
         "s": "2026-02-12T18:00:00Z",
         "e": "2026-02-12T20:00:00Z",
         "d": null,
-        "j": "Dub & Effection",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "edica"
       },
       {
@@ -1823,7 +1687,7 @@
         "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
         "j": "Dying Songs",
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "jimmytamborello"
       },
       {
@@ -1833,7 +1697,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "hannah"
       },
       {
@@ -1841,9 +1704,8 @@
         "s": "2026-02-13T00:00:00Z",
         "e": "2026-02-13T02:00:00Z",
         "d": null,
-        "j": "Not Evil Radio",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "frankiejaxnomad"
       },
       {
@@ -1851,9 +1713,8 @@
         "s": "2026-02-13T02:00:00Z",
         "e": "2026-02-13T04:00:00Z",
         "d": null,
-        "j": "Celsius Drop",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "frosty"
       },
       {
@@ -1862,17 +1723,15 @@
         "e": "2026-02-13T06:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Alex Pelly - PELLYVISION",
         "s": "2026-02-13T06:00:00Z",
         "e": "2026-02-13T08:00:00Z",
         "d": null,
-        "j": "PELLYVISION",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "alexpelly"
       },
       {
@@ -1897,9 +1756,8 @@
         "s": "2026-02-13T16:00:00Z",
         "e": "2026-02-13T18:00:00Z",
         "d": null,
-        "j": "Something Going On",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "eddymac"
       },
       {
@@ -1909,7 +1767,7 @@
         "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
         "j": "Things of Life",
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "daddy"
       },
       {
@@ -1917,9 +1775,8 @@
         "s": "2026-02-13T20:00:00Z",
         "e": "2026-02-13T22:00:00Z",
         "d": null,
-        "j": "SoundProof",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "xicasoul"
       },
       {
@@ -1927,9 +1784,8 @@
         "s": "2026-02-13T23:00:00Z",
         "e": "2026-02-14T00:00:00Z",
         "d": null,
-        "j": "Centrifugues",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "djthewitchinghours"
       },
       {
@@ -1939,7 +1795,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "mattmcdermott"
       },
       {
@@ -1947,9 +1802,8 @@
         "s": "2026-02-14T02:00:00Z",
         "e": "2026-02-14T04:00:00Z",
         "d": null,
-        "j": "Black Audio Society",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "BLACK LOVE: Jelly",
@@ -1965,9 +1819,8 @@
         "s": "2026-02-14T06:00:00Z",
         "e": "2026-02-14T08:00:00Z",
         "d": null,
-        "j": "Club Paradise",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "88"
       },
       {
@@ -1987,13 +1840,30 @@
         "u": null
       },
       {
-        "n": "sounds of NOW",
+        "n": "BLACK LOVE: EDICA+",
+        "s": "2026-02-14T10:00:00Z",
+        "e": "2026-02-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "edica"
+      },
+      {
+        "n": "BLACK LOVE: Insecure Mixtape",
         "s": "2026-02-14T12:00:00Z",
+        "e": "2026-02-14T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "BLACK LOVE: GOGO",
+        "s": "2026-02-14T14:00:00Z",
         "e": "2026-02-14T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "p": "gogo"
       },
       {
         "n": "RERUN: JF Chen",
@@ -2011,7 +1881,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "ryanleemoore"
       },
       {
@@ -2021,7 +1890,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "jordancollins"
       },
       {
@@ -2029,9 +1897,8 @@
         "s": "2026-02-14T22:00:00Z",
         "e": "2026-02-15T00:00:00Z",
         "d": null,
-        "j": "Patterns of Lorena",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "dtiberio"
       },
       {
@@ -2039,9 +1906,8 @@
         "s": "2026-02-15T00:00:00Z",
         "e": "2026-02-15T02:00:00Z",
         "d": null,
-        "j": "Serenity Rave",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "ravedad"
       },
       {
@@ -2049,9 +1915,8 @@
         "s": "2026-02-15T02:00:00Z",
         "e": "2026-02-15T04:00:00Z",
         "d": null,
-        "j": "sodapop sounds",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "sodapop"
       },
       {
@@ -2067,9 +1932,8 @@
         "s": "2026-02-15T06:00:00Z",
         "e": "2026-02-15T08:00:00Z",
         "d": null,
-        "j": "Entropy Sessions",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "daedelus"
       },
       {
@@ -2077,9 +1941,8 @@
         "s": "2026-02-15T08:00:00Z",
         "e": "2026-02-15T10:00:00Z",
         "d": null,
-        "j": "Elevation Through Sound",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "djjs",
@@ -2106,7 +1969,7 @@
         "d": null,
         "j": "Music for Dreams",
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "kennethbager"
       },
       {
@@ -2114,9 +1977,8 @@
         "s": "2026-02-15T20:00:00Z",
         "e": "2026-02-15T22:00:00Z",
         "d": null,
-        "j": "Atlas",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "barbarelle"
       },
       {
@@ -2124,9 +1986,8 @@
         "s": "2026-02-15T22:00:00Z",
         "e": "2026-02-16T00:00:00Z",
         "d": null,
-        "j": "cloud music",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Aquarium Drunkard",
@@ -2134,8 +1995,7 @@
         "e": "2026-02-16T02:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "RERUN: Juliet Mendoza – That One Time",
@@ -2152,9 +2012,8 @@
         "s": "2026-02-16T04:00:00Z",
         "e": "2026-02-16T06:00:00Z",
         "d": null,
-        "j": "Fantastica",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "jackiestewart"
       },
       {
@@ -2162,9 +2021,8 @@
         "s": "2026-02-16T06:00:00Z",
         "e": "2026-02-16T08:00:00Z",
         "d": null,
-        "j": "APEX",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "jessfu"
       },
       {
@@ -2172,9 +2030,8 @@
         "s": "2026-02-16T16:00:00Z",
         "e": "2026-02-16T18:00:00Z",
         "d": null,
-        "j": "Rainy Day Fund",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "andrewgoldberg"
       },
       {
@@ -2184,7 +2041,7 @@
         "d": null,
         "j": "Viva! Talks",
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "renecontreras"
       },
       {
@@ -2201,9 +2058,8 @@
         "s": "2026-02-16T22:00:00Z",
         "e": "2026-02-17T00:00:00Z",
         "d": null,
-        "j": "Tizita Radio",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "ranideleon"
       },
       {
@@ -2219,18 +2075,16 @@
         "s": "2026-02-17T02:00:00Z",
         "e": "2026-02-17T04:00:00Z",
         "d": null,
-        "j": "Lucid Hour",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Jen Ferrer - Fish Whistle",
         "s": "2026-02-17T04:00:00Z",
         "e": "2026-02-17T06:00:00Z",
         "d": null,
-        "j": "Fish Whistle",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "jenferrer"
       },
       {
@@ -2238,9 +2092,8 @@
         "s": "2026-02-17T06:00:00Z",
         "e": "2026-02-17T08:00:00Z",
         "d": null,
-        "j": "Unresolved Dependencies",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "brennan"
       },
       {
@@ -2248,9 +2101,8 @@
         "s": "2026-02-17T16:00:00Z",
         "e": "2026-02-17T18:00:00Z",
         "d": null,
-        "j": "TUSCAN JUNK FOOD",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "bensontaylor"
       },
       {
@@ -2258,9 +2110,8 @@
         "s": "2026-02-17T18:00:00Z",
         "e": "2026-02-17T20:00:00Z",
         "d": null,
-        "j": "People's Portal",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "kohinoorgasm"
       },
       {
@@ -2269,8 +2120,7 @@
         "e": "2026-02-17T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Hoseh - Version Sounds",
@@ -2279,7 +2129,7 @@
         "d": null,
         "j": "Version Sounds",
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "hoseh"
       },
       {
@@ -2287,9 +2137,8 @@
         "s": "2026-02-18T02:00:00Z",
         "e": "2026-02-18T04:00:00Z",
         "d": null,
-        "j": "Check In",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "tylerbell"
       },
       {
@@ -2299,7 +2148,7 @@
         "d": null,
         "j": "Optical Track",
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "echoparkfilmcenter"
       },
       {
@@ -2307,9 +2156,8 @@
         "s": "2026-02-18T06:00:00Z",
         "e": "2026-02-18T08:00:00Z",
         "d": null,
-        "j": "One Reporter's Opinion",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "chrisziegler"
       },
       {
@@ -2317,9 +2165,8 @@
         "s": "2026-02-18T16:00:00Z",
         "e": "2026-02-18T18:00:00Z",
         "d": null,
-        "j": "Easy Listening",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "teendaze"
       },
       {
@@ -2353,31 +2200,29 @@
         "s": "2026-02-19T00:00:00Z",
         "e": "2026-02-19T02:00:00Z",
         "d": null,
-        "j": "New Environments",
-        "u": null,
-        "t": "monthly"
-      }
-    ],
-    "rinse": [
+        "j": null,
+        "u": null
+      },
       {
-        "n": "Neptizzle",
-        "s": "2026-02-11T13:00:00Z",
-        "e": "2026-02-11T14:00:00Z",
+        "n": "Gay Felony - Connector",
+        "s": "2026-02-19T02:00:00Z",
+        "e": "2026-02-19T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "neptizzle"
+        "p": "gayfelony"
       },
       {
-        "n": "Jasper James",
-        "s": "2026-02-11T14:00:00Z",
-        "e": "2026-02-11T15:00:00Z",
+        "n": "Ghorba Radio",
+        "s": "2026-02-19T04:00:00Z",
+        "e": "2026-02-19T06:00:00Z",
         "d": null,
-        "j": "Live from Glamorama, Melbourne",
+        "j": null,
         "u": null,
-        "p": "jasperjames"
-      },
+        "p": "ghorba"
+      }
+    ],
+    "rinse": [
       {
         "n": "Utopia Presents",
         "s": "2026-02-11T15:00:00Z",
@@ -2395,7 +2240,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "regular",
+        "t": "weekly",
         "p": "talina"
       },
       {
@@ -2415,7 +2260,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "mjk"
       },
       {
@@ -2435,7 +2280,7 @@
         "d": null,
         "j": "Molecular",
         "u": null,
-        "t": "weekly",
+        "t": "monthly",
         "p": "1985music"
       },
       {
@@ -2445,7 +2290,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "fracture"
       },
       {
@@ -2455,7 +2299,6 @@
         "d": null,
         "j": "R.E.D",
         "u": null,
-        "t": "monthly",
         "p": "ema"
       },
       {
@@ -2465,7 +2308,6 @@
         "d": null,
         "j": "'009",
         "u": null,
-        "t": "biweekly",
         "p": "momaready"
       },
       {
@@ -2475,7 +2317,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "jaycarder"
       },
       {
@@ -2512,7 +2354,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "yazminlacey"
       },
       {
@@ -2522,7 +2364,6 @@
         "d": null,
         "j": "Szare",
         "u": null,
-        "t": "biweekly",
         "p": "chunky"
       },
       {
@@ -2532,7 +2373,7 @@
         "d": null,
         "j": "The Quiet Storm: Melvin Lindsey, Cathy Hughes & Radio Legacy of 1976",
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "elleclark"
       },
       {
@@ -2542,7 +2383,7 @@
         "d": null,
         "j": "Lovers & Friends Valentines mix",
         "u": null,
-        "t": "weekly",
+        "t": "monthly",
         "p": "skvibemaker"
       },
       {
@@ -2552,7 +2393,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "omar"
       },
       {
@@ -2562,7 +2402,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
         "p": "tomravenscroft"
       },
       {
@@ -2572,7 +2411,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "regular",
+        "t": "weekly",
         "p": "talina"
       },
       {
@@ -2582,7 +2421,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "maey"
       },
       {
@@ -2592,7 +2431,6 @@
         "d": null,
         "j": "Tom Place",
         "u": null,
-        "t": "monthly",
         "p": "ruthlss"
       },
       {
@@ -2602,7 +2440,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "kilimanjaro"
       },
       {
@@ -2612,7 +2449,6 @@
         "d": null,
         "j": "100% unreleased JG",
         "u": null,
-        "t": "biweekly",
         "p": "jacquesgreene"
       },
       {
@@ -2621,8 +2457,7 @@
         "e": "2026-02-13T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
         "n": "Ikke Sant with SUCHI",
@@ -2631,7 +2466,6 @@
         "d": null,
         "j": "DJ Sprinter",
         "u": null,
-        "t": "biweekly",
         "p": "ikkesantwithsuchi"
       },
       {
@@ -2651,7 +2485,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "fracture"
       },
       {
@@ -2670,7 +2503,7 @@
         "d": null,
         "j": "Terror Danjah Tribute",
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "eclecticist"
       },
       {
@@ -2698,7 +2531,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "uncledugs"
       },
       {
@@ -2708,7 +2541,7 @@
         "d": null,
         "j": "Lady Passion",
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "ladypassion"
       },
       {
@@ -2718,7 +2551,6 @@
         "d": null,
         "j": "Valentines Garage Mix Vol. 9",
         "u": null,
-        "t": "biweekly",
         "p": "jossymitsu"
       },
       {
@@ -2728,7 +2560,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "herasrecords"
       },
       {
@@ -2737,8 +2568,7 @@
         "e": "2026-02-13T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
         "n": "I. JORDAN",
@@ -2746,8 +2576,7 @@
         "e": "2026-02-13T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "UNFOLD",
@@ -2756,30 +2585,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "unfold"
       }
     ],
     "rinsefr": [
-      {
-        "n": "JP MANO",
-        "s": "2026-02-11T13:00:00Z",
-        "e": "2026-02-11T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Tysha Cee",
-        "s": "2026-02-11T15:00:00Z",
-        "e": "2026-02-11T16:00:00Z",
-        "d": null,
-        "j": "INVITE TONY S.KAY",
-        "u": null,
-        "t": "monthly",
-        "p": "tyshacee"
-      },
       {
         "n": "Maquis Sale",
         "s": "2026-02-11T16:00:00Z",
@@ -2794,8 +2603,7 @@
         "e": "2026-02-11T18:00:00Z",
         "d": null,
         "j": "MAKA b2b GBOI",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Vitaline",
@@ -2803,8 +2611,7 @@
         "e": "2026-02-11T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "XX LAB avec François X",
@@ -2847,8 +2654,7 @@
         "e": "2026-02-12T14:00:00Z",
         "d": null,
         "j": "invite Pimambré B2B Aures",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Record Makers",
@@ -2874,8 +2680,7 @@
         "e": "2026-02-12T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Mystique",
@@ -2884,7 +2689,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "mystique"
       },
       {
@@ -2903,8 +2707,7 @@
         "e": "2026-02-12T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Playlist France",
