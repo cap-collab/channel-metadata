@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-12T12:43:27.388Z",
+  "updated": "2026-02-12T14:42:31.975Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GRRL",
-        "s": "2026-02-12T00:00:00Z",
-        "e": "2026-02-12T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "grrl"
-      },
-      {
-        "n": "Can You Feel The Sun w/ Call Super",
-        "s": "2026-02-12T01:00:00Z",
-        "e": "2026-02-12T02:00:00Z",
-        "d": "\"A kind of music\" - the duo behind the new label come together for a regular hour long session, weaving through unexpected dancefloor sounds… ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-12th-february-2026"
-      },
       {
         "n": "The Lunacy of Flowers w/ Dave ID (R)",
         "s": "2026-02-12T02:00:00Z",
@@ -98,17 +81,19 @@
         "n": "RHYTHM CONNECTION",
         "s": "2026-02-12T14:00:00Z",
         "e": "2026-02-12T16:00:00Z",
-        "d": null,
+        "d": "A monthly journey into H.O.U.S.E. hosted by Dan Beaumont & Nadia Ksaiba featuring interviews & mixes from super special guests. Expect two hours of old bangers and upfront pumpers.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/rhythmconnection/episodes/rhythmconnection-12th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "WORK OUT W/ SOFIE K",
         "s": "2026-02-12T16:00:00Z",
         "e": "2026-02-12T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Tune in, turn on, clock out. Sofie K brings sleazy synthpop, pumping proto-house and campy club cuts to the NTS studio once a month. ",
+        "j": "SOFIE K",
+        "u": "https://www.nts.live/api/v2/shows/sofie-k/episodes/sofie-k-12th-february-2026",
+        "t": "monthly",
         "p": "sofiek"
       },
       {
@@ -240,18 +225,18 @@
         "u": null,
         "t": "monthly",
         "p": "scarythings"
+      },
+      {
+        "n": "RAJI RAGS b2b Peach - R’n’B Valentines Special",
+        "s": "2026-02-13T13:00:00Z",
+        "e": "2026-02-13T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "peach"
       }
     ],
     "nts2": [
-      {
-        "n": "THE ATHENIAN MARKETPLACE",
-        "s": "2026-02-12T00:00:00Z",
-        "e": "2026-02-12T02:00:00Z",
-        "d": "Athenian Marketplace takes the reigns of a 2 hour monthly slot from our LA studio. \nSoundcloud\nYoutube",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yayayi/episodes/yayayi-12th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "COLD PIZZA W/ STUD1NT",
         "s": "2026-02-12T02:00:00Z",
@@ -354,9 +339,9 @@
         "n": "DesiVinyl w/ Ruby Khaira",
         "s": "2026-02-12T15:00:00Z",
         "e": "2026-02-12T16:00:00Z",
-        "d": null,
+        "d": "Selections from Ruby Khaira, long time record collector with a love of all things Punjabi music. Digging deep into the record crates as a celebration of Punjab's rich musical heritage and worldwide impact. From dance floor Bhangra bangers to desi folk anthems — if it was pressed onto vinyl, it might just get played.\nFrom the host: \"Devoted to the sounds of Punjab, Ruby Khaira serves up UK Bhangra, Desi Beats, Funky Folk and everything in between. If it made it onto vinyl - it might just get played. ..\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ruby-khaira/episodes/ruby-khaira-12th-february-2026",
         "p": "rubykhaira"
       },
       {
@@ -487,17 +472,18 @@
         "u": null,
         "t": "restream",
         "p": "whybe"
+      },
+      {
+        "n": "Under Sleepy Moon w/ Yawning Portal (R)",
+        "s": "2026-02-13T08:00:00Z",
+        "e": "2026-02-13T09:00:00Z",
+        "d": null,
+        "j": "Yawning Portal",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "WOODWORK ",
-        "s": "2026-02-12T00:00:00Z",
-        "e": "2026-02-12T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "The Dubversified Show",
         "s": "2026-02-12T01:00:00Z",
@@ -589,6 +575,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-12T15:00:00Z",
+        "e": "2026-02-12T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Hostile Architecture w/ ODW",
@@ -1540,18 +1535,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Terminal",
+        "s": "2026-02-19T13:00:00Z",
+        "e": "2026-02-19T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Jenn Gunn",
+        "s": "2026-02-19T14:00:00Z",
+        "e": "2026-02-19T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Byron Westbrook - Chromatic Fields",
-        "s": "2026-02-12T00:00:00Z",
-        "e": "2026-02-12T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "byronwestbrook"
-      },
       {
         "n": "ESP Institute",
         "s": "2026-02-12T02:00:00Z",
@@ -1609,6 +1611,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-12T14:00:00Z",
         "e": "2026-02-12T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-12T16:00:00Z",
+        "e": "2026-02-12T16:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2193,24 +2204,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Woozy with EMA",
-        "s": "2026-02-12T00:00:00Z",
-        "e": "2026-02-12T01:00:00Z",
-        "d": null,
-        "j": "R.E.D",
-        "u": null,
-        "p": "ema"
-      },
-      {
-        "n": "MoMA Ready",
-        "s": "2026-02-12T01:00:00Z",
-        "e": "2026-02-12T02:00:00Z",
-        "d": null,
-        "j": "'009",
-        "u": null,
-        "p": "momaready"
-      },
       {
         "n": "Jay Carder",
         "s": "2026-02-12T02:00:00Z",
