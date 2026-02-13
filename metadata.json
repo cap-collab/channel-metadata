@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-13T12:38:06.780Z",
+  "updated": "2026-02-13T14:36:28.813Z",
   "stations": {
     "nts1": [
-      {
-        "n": "(38.4150553, -85.8925382) (R)",
-        "s": "2026-02-13T00:00:00Z",
-        "e": "2026-02-13T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "DEBT & REFUGE",
-        "s": "2026-02-13T01:00:00Z",
-        "e": "2026-02-13T02:00:00Z",
-        "d": "‘When we refuse… we create dissonance and more importantly, we allow dissonance to continue.’ - from Jack Halberstam’s introduction to the Undercommons.\nDisruptive music for broken times curated by Nymity. Queering, Unlearning, Fragments and Imaginings.\nArtwork by Harry King",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/debt-refuge/episodes/debt-refuge-13th-february-2026"
-      },
       {
         "n": "Home-listening Plaza",
         "s": "2026-02-13T02:00:00Z",
@@ -85,22 +68,22 @@
         "p": "scarythings"
       },
       {
-        "n": "RAJI RAGS b2b Peach - R’n’B Valentines Special",
+        "n": "RAJI RAGS - J Dilla Special",
         "s": "2026-02-13T13:00:00Z",
         "e": "2026-02-13T15:00:00Z",
         "d": "Raj Chaudhuri - aka Raji Rags. NTS since day one. Always eclectic, never boring. Raj rustles up a seamless monthly mix that journeys through the BPMs.",
-        "j": "R’n’B Valentines Special",
+        "j": "J Dilla Special",
         "u": "https://www.nts.live/api/v2/shows/raji-rags/episodes/raji-rags-peach-13th-february-2026",
-        "t": "monthly",
-        "p": "peach"
+        "t": "monthly"
       },
       {
         "n": "ADONIS w/ Grace Sands",
         "s": "2026-02-13T15:00:00Z",
         "e": "2026-02-13T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Iconic queer party crew Adonis showcase their residents on a monthly rotation live from the London studio.",
+        "j": "Grace Sands",
+        "u": "https://www.nts.live/api/v2/shows/adonis/episodes/adonis-13th-february-2026",
+        "t": "monthly",
         "p": "adonis"
       },
       {
@@ -235,26 +218,17 @@
         "u": null,
         "t": "restream",
         "p": "desirepaths"
+      },
+      {
+        "n": "RAGA VIBRATIONS",
+        "s": "2026-02-14T08:00:00Z",
+        "e": "2026-02-14T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NO BELLS: FINALS B2B MANO (R)",
-        "s": "2026-02-13T00:00:00Z",
-        "e": "2026-02-13T01:00:00Z",
-        "d": null,
-        "j": "FINALS B2B MANO",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "TeamSESH w/ HNRK",
-        "s": "2026-02-13T01:00:00Z",
-        "e": "2026-02-13T02:00:00Z",
-        "d": "The second TeamSesh NTS Radio broadcast of 2026 is once again curated by hnrk: Featuring a blend of a variety of musical styles and (sub-)genres, unreleased tunes from TeamSesh members, as well as recent releases from peers and friends.\"\nFrom the host: \"The second TeamSesh NTS Radio broadcast of 2026 is once again curated by hnrk: Featuring a blend of a variety of musical styles and (sub-)genres, unreleased tunes from TeamSesh members, as well as recent releases from peers and friends.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/team-sesh/episodes/team-sesh-13th-february-2026"
-      },
       {
         "n": "Rap Vacation w/ Spoonerism",
         "s": "2026-02-13T02:00:00Z",
@@ -334,7 +308,7 @@
         "n": "Yoko Kanno",
         "s": "2026-02-13T13:00:00Z",
         "e": "2026-02-13T15:00:00Z",
-        "d": "Beloved Japanese soundtrack composer Yoko Kanno, famed for her jazz scores on series like Cowboy Bebop and Wolf’s Rain selects an hour of music for NTS, from French classical to R&B, soul and beyond. \n_Yoko Kanno is bringing two extraordinary shows to New York’s Town Hall: on April 11, the vibrant and explosive “Bebop Live,” and on April 12, her immersive artistic piano performance “Piano Me.” Two unique nights, one remarkable weekend. Experience Yoko Kanno live in New York.\nTickets and full details are available at https://www.yokokanno.nyc/",
+        "d": "Beloved Japanese soundtrack composer Yoko Kanno, famed for her jazz scores on series like Cowboy Bebop and Wolf’s Rain selects an hour of music for NTS, from French classical to R&B, soul and beyond. \nYoko Kanno is bringing two shows to New York on April 11 and April 12. Tickets and full details are available at https://www.yokokanno.nyc/",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/guests/episodes/yoko-kanno-13th-february-2026"
       },
@@ -342,9 +316,10 @@
         "n": "THE ULINE CATALOG",
         "s": "2026-02-13T15:00:00Z",
         "e": "2026-02-13T16:00:00Z",
-        "d": null,
+        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-13th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "CREEP ZONE W/ JAMES PANTS & MARC SCHALLER",
@@ -471,25 +446,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Merzbow (R)",
+        "s": "2026-02-14T08:00:00Z",
+        "e": "2026-02-14T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": " Dubstar Records Show w/ Dubfreq",
-        "s": "2026-02-13T00:00:00Z",
-        "e": "2026-02-13T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Insoundfromwayback",
-        "s": "2026-02-13T01:00:00Z",
-        "e": "2026-02-13T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Pete Shredz",
         "s": "2026-02-13T02:00:00Z",
@@ -1522,18 +1490,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Frankie Jax No Mad - Not Evil Radio",
-        "s": "2026-02-13T00:00:00Z",
-        "e": "2026-02-13T02:00:00Z",
+        "n": "Rebello",
+        "s": "2026-02-20T14:00:00Z",
+        "e": "2026-02-20T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "frankiejaxnomad"
-      },
+        "p": "rebello"
+      }
+    ],
+    "dublab": [
       {
         "n": "Frosty - Celsius Drop",
         "s": "2026-02-13T02:00:00Z",
@@ -2112,25 +2080,6 @@
     ],
     "rinse": [
       {
-        "n": "Ikke Sant with SUCHI",
-        "s": "2026-02-13T00:00:00Z",
-        "e": "2026-02-13T01:00:00Z",
-        "d": null,
-        "j": "DJ Sprinter",
-        "u": null,
-        "p": "ikkesantwithsuchi"
-      },
-      {
-        "n": "ryota",
-        "s": "2026-02-13T01:00:00Z",
-        "e": "2026-02-13T02:00:00Z",
-        "d": null,
-        "j": "Liquid DNB & Jazz Step Mix",
-        "u": null,
-        "t": "biweekly",
-        "p": "ryota"
-      },
-      {
         "n": "Fracture",
         "s": "2026-02-13T02:00:00Z",
         "e": "2026-02-13T03:00:00Z",
@@ -2453,7 +2402,7 @@
         "s": "2026-02-13T16:00:00Z",
         "e": "2026-02-13T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJ Bia Marques",
         "u": null,
         "t": "monthly"
       },
