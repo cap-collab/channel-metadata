@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-13T04:12:47.755Z",
+  "updated": "2026-02-13T06:50:00.061Z",
   "stations": {
     "nts1": [
-      {
-        "n": "WORK OUT W/ SOFIE K",
-        "s": "2026-02-12T16:00:00Z",
-        "e": "2026-02-12T17:00:00Z",
-        "d": "Tune in, turn on, clock out. Sofie K brings sleazy synthpop, pumping proto-house and campy club cuts to the NTS studio once a month. ",
-        "j": "SOFIE K",
-        "u": "https://www.nts.live/api/v2/shows/sofie-k/episodes/sofie-k-12th-february-2026",
-        "t": "monthly",
-        "p": "sofiek"
-      },
       {
         "n": "Chicken Foot Soup w/ Goya Gumbani and Dom P",
         "s": "2026-02-12T17:00:00Z",
@@ -123,9 +113,9 @@
         "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
         "s": "2026-02-13T07:00:00Z",
         "e": "2026-02-13T09:00:00Z",
-        "d": null,
+        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
         "j": "JACK ROLLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-13th-february-2026",
         "t": "monthly"
       },
       {
@@ -259,27 +249,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "ONY (R)",
+        "s": "2026-02-14T05:00:00Z",
+        "e": "2026-02-14T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "NOT WAVING",
-        "s": "2026-02-12T16:00:00Z",
-        "e": "2026-02-12T17:00:00Z",
-        "d": "Alessio Natalizia is Not Waving. Take the plunge with his monthly hour of fucked-up left techno, leftfield electronics, brain-twisting oddball pop and post-punk, dub offshoots and other diversions. \necstaticrecordings.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/not-waving/episodes/not-waving-12th-february-2026",
-        "t": "monthly",
-        "p": "notwaving"
-      },
-      {
-        "n": "POSH ISOLATION'S COPENHAGEN REPORT w/ Mads Axelsen",
-        "s": "2026-02-12T17:00:00Z",
-        "e": "2026-02-12T18:00:00Z",
-        "d": "Danish label Posh Isolation join us for an hour a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/posh-isolation/episodes/posh-isolation-12th-february-2026"
-      },
       {
         "n": "HE4RTBROKEN W/ SSALIVA & LIYO",
         "s": "2026-02-12T18:00:00Z",
@@ -380,9 +361,9 @@
         "n": "LXXXVIII W/ ACTRESS (R)",
         "s": "2026-02-13T06:00:00Z",
         "e": "2026-02-13T07:00:00Z",
-        "d": null,
+        "d": "Welcome to LXXXVIII – the ninth Actress album to be created by Darren Cunningham and the very first presentation of Actress’ voyage into luxury sonics.\nA lifetime in the making, LXXXVIII is the culmination of 25 years’ honing mind-shorting, soul-igniting audio\ninfusions for dance floors, rave dens, festivals, and concert hall, and the inaugural vessel for Actress’ cruise into novel strata of artistic influence: the executive suites, yacht decks and private jets of our planet’s ultimate power players.",
         "j": "ACTRESS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/actress/episodes/actress-13th-october-2023",
         "t": "restream",
         "p": "actress"
       },
@@ -390,9 +371,9 @@
         "n": "WHY BE (R)",
         "s": "2026-02-13T07:00:00Z",
         "e": "2026-02-13T08:00:00Z",
-        "d": null,
+        "d": "Bi-monthly random fandom.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/why-be/episodes/why-be-30th-june-2025",
         "t": "restream",
         "p": "whybe"
       },
@@ -482,12 +463,13 @@
         "u": null
       },
       {
-        "n": "Mild Animals",
+        "n": "Mild Animals (R)",
         "s": "2026-02-13T21:00:00Z",
         "e": "2026-02-13T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "AXCESS AMNESIA W/ JENNY SAYAKA NONO",
@@ -512,26 +494,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Hostile Architecture w/ ODW",
-        "s": "2026-02-12T16:00:00Z",
-        "e": "2026-02-12T17:00:00Z",
+        "n": "Luis Alvarado: Lima Indie (1994-2005)",
+        "s": "2026-02-14T01:00:00Z",
+        "e": "2026-02-14T02:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Subtle Selects",
-        "s": "2026-02-12T17:00:00Z",
-        "e": "2026-02-12T18:00:00Z",
+        "n": "BORN FOR BURNING W/ PAINKILLER KIM",
+        "s": "2026-02-14T02:00:00Z",
+        "e": "2026-02-14T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "playlist"
-      },
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Say Less",
         "s": "2026-02-12T18:00:00Z",
@@ -1602,33 +1583,6 @@
     ],
     "dublab": [
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-12T16:00:00Z",
-        "e": "2026-02-12T16:30:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "LARAAJI and OUT THERE",
-        "s": "2026-02-12T16:30:00Z",
-        "e": "2026-02-12T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Heavy Trip – Inner Ear",
-        "s": "2026-02-12T17:00:00Z",
-        "e": "2026-02-12T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "heavytrip"
-      },
-      {
         "n": "EDICA+ - Dub & Effection",
         "s": "2026-02-12T18:00:00Z",
         "e": "2026-02-12T20:00:00Z",
@@ -2230,28 +2184,18 @@
         "j": null,
         "u": null,
         "p": "stareyes"
+      },
+      {
+        "n": "Spaceship Earth - Space Master",
+        "s": "2026-02-20T06:00:00Z",
+        "e": "2026-02-20T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "spacemaster"
       }
     ],
     "rinse": [
-      {
-        "n": "Tom Ravenscroft",
-        "s": "2026-02-12T15:00:00Z",
-        "e": "2026-02-12T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "tomravenscroft"
-      },
-      {
-        "n": "Talina",
-        "s": "2026-02-12T17:00:00Z",
-        "e": "2026-02-12T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "talina"
-      },
       {
         "n": "Maey",
         "s": "2026-02-12T18:00:00Z",
@@ -2562,22 +2506,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Fervo Fluxo",
-        "s": "2026-02-12T16:00:00Z",
-        "e": "2026-02-12T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "De Vedelly",
-        "s": "2026-02-12T17:00:00Z",
-        "e": "2026-02-12T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Olympe4000",
         "s": "2026-02-12T18:00:00Z",
