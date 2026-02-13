@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-13T16:35:05.520Z",
+  "updated": "2026-02-13T18:35:23.625Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Alicia Matthews (R)",
-        "s": "2026-02-13T04:00:00Z",
-        "e": "2026-02-13T05:00:00Z",
-        "d": "Artist and audio maker, Alicia Matthews, takes over the NTS airwaves once a month for a rhythm ’n’ gloom showdown.\nPast projects include SUE ZUKI (Domestic Exile/ NTS), LAPS (MIC Records/ DFA Records) and Organs of  Love (Optimo Music).",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sue-zuki/episodes/sue-zuki-17th-july-2024",
-        "t": "restream",
-        "p": "alicia"
-      },
       {
         "n": "Crossed Wires w/ Amanda Siegel (R)",
         "s": "2026-02-13T05:00:00Z",
@@ -70,15 +60,6 @@
         "p": "adonis"
       },
       {
-        "n": "NTS GUIDE TO: DANCE MANIA (R)",
-        "s": "2026-02-13T16:00:00Z",
-        "e": "2026-02-13T18:00:00Z",
-        "d": "Two hours of selections from one of dance music's most beloved record labels. Much has been written about the X-rated ghetto house records that Dance Mania is famous for – the label is often referred to as \"ghetto house's Motown\" – but the bigger picture of the label is that of the evolution of Chicago house music in a microcosm. From label founder Jesse Saunders' early house and freestyle-tinged productions in the mid-1980s, to smoky deep house in the early 90s, and into the ghetto house that would lay the foundations for juke and footwork moving into the 2000s. \nSelected and mixed by LDLDN. ",
-        "j": "DANCE MANIA",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-dance-mania-5th-december-2025",
-        "t": "restream"
-      },
-      {
         "n": "Bashment Sound w/ Silent Addy & Disco Neil",
         "s": "2026-02-13T17:00:00Z",
         "e": "2026-02-13T18:00:00Z",
@@ -101,9 +82,9 @@
         "n": "Nene H",
         "s": "2026-02-13T19:00:00Z",
         "e": "2026-02-13T20:00:00Z",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nene-h-13th-february-2026"
       },
       {
         "n": "HOPPER1000 RADIO w/ Demifiend",
@@ -237,27 +218,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Lloyd 'Musclehead' Saxon",
+        "s": "2026-02-14T15:00:00Z",
+        "e": "2026-02-14T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "FIXED ABODE (R)",
-        "s": "2026-02-13T04:00:00Z",
-        "e": "2026-02-13T05:00:00Z",
-        "d": "Prestonian singer songwriter Rainy Miller presents the progress check, a bi-monthly show playing an hour of archived experiments and influences.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rainy-miller/episodes/rainy-miller-7th-september-2025",
-        "t": "restream"
-      },
-      {
-        "n": "THEY ARE GUTTING A BODY OF WATER (R)",
-        "s": "2026-02-13T05:00:00Z",
-        "e": "2026-02-13T06:00:00Z",
-        "d": "Philadelphia cult property and experimental shoegazers They Are Gutting A Body Of Water bring their hazy sound to NTS once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/they-are-gutting-a-body-of-water/episodes/they-are-gutting-a-body-of-water-12th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "LXXXVIII W/ ACTRESS (R)",
         "s": "2026-02-13T06:00:00Z",
@@ -344,17 +315,17 @@
         "n": "world of pain w/ dagmar zuniga",
         "s": "2026-02-13T18:00:00Z",
         "e": "2026-02-13T19:00:00Z",
-        "d": null,
+        "d": "the meek shall inherit the girth",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dagmar-zuniga/episodes/dagmar-zuniga-13th-february-2026"
       },
       {
         "n": "James Mcnew (YO LA TENGO)",
         "s": "2026-02-13T19:00:00Z",
         "e": "2026-02-13T20:00:00Z",
-        "d": null,
+        "d": "James McNew of Hoboken indie rock royalty Yo La Tengo shares an hour of picks from his collection each month..",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/yo-la-tengo/episodes/yo-la-tengo-13th-february-2026"
       },
       {
         "n": "Trinh - Lovelife",
@@ -365,13 +336,12 @@
         "u": null
       },
       {
-        "n": "Mild Animals (R)",
+        "n": "Mild Animals - FTR dinner at Barbosa",
         "s": "2026-02-13T21:00:00Z",
         "e": "2026-02-13T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "restream"
+        "u": null
       },
       {
         "n": "AXCESS AMNESIA W/ JENNY SAYAKA NONO",
@@ -474,17 +444,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Lava Recordings with 99 ranch",
-        "s": "2026-02-13T04:00:00Z",
-        "e": "2026-02-13T05:00:00Z",
+        "n": "Recorded Live at Bourse de Commerce w/ Megabasse",
+        "s": "2026-02-14T11:00:00Z",
+        "e": "2026-02-14T11:31:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "AMERICANA RAGA (R)",
+        "s": "2026-02-14T11:31:00Z",
+        "e": "2026-02-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-02-13T05:00:00Z",
@@ -1525,17 +1504,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Forward Pressure w/ XOSÉ",
+        "s": "2026-02-20T18:00:00Z",
+        "e": "2026-02-20T19:00:00Z",
+        "d": "XOSÉ is a DJ and aspiring producer mixing and making mostly UK Garage, Grime and UK Funky. FORWARD PRESSURE largely focuses on the aforementioned UK born genres, though you can expect a variety of UK influenced sounds.",
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Pacific Beach Playback",
-        "s": "2026-02-13T04:00:00Z",
-        "e": "2026-02-13T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Alex Pelly - PELLYVISION",
         "s": "2026-02-13T06:00:00Z",
@@ -2093,18 +2072,19 @@
         "j": null,
         "u": null,
         "p": "spacemaster"
+      },
+      {
+        "n": "Daddy Differently and Dirty Dave - Things of Life",
+        "s": "2026-02-20T18:00:00Z",
+        "e": "2026-02-20T20:00:00Z",
+        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
+        "j": "Things of Life",
+        "u": null,
+        "t": "biweekly",
+        "p": "daddy"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-02-13T03:00:00Z",
-        "e": "2026-02-13T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Eclecticist",
         "s": "2026-02-13T06:00:00Z",
@@ -2202,9 +2182,9 @@
         "s": "2026-02-13T23:00:00Z",
         "e": "2026-02-14T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Daniel Avery",
         "u": null,
-        "p": "unfold"
+        "p": "danielavery"
       },
       {
         "n": "George FitzGerald B2B Fold:",
@@ -2320,7 +2300,7 @@
         "s": "2026-02-14T18:00:00Z",
         "e": "2026-02-14T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Death In Vegas",
         "u": null,
         "p": "manpower"
       },
