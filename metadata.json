@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-13T10:31:57.940Z",
+  "updated": "2026-02-13T12:38:06.780Z",
   "stations": {
     "nts1": [
-      {
-        "n": "AQUECIMENTO W/ DJ Tonias",
-        "s": "2026-02-12T22:00:00Z",
-        "e": "2026-02-12T23:00:00Z",
-        "d": "“Aquecimento\" dives into Brazil’s widely eclectic and regional Electronic / Baile Funk music scene with Producer/DJ VHOOR. The show connects the past and present while providing hints to the future, highlighting the bubbling underground community, and providing a platform for a more diverse array of artists to be exposed to a worldwide audience.\nFrom the host: \"Very special Guest Mix from my good friend and inspiration DJ/Producer, Maffalda aka DJ Tonias.  I also debut my latest single \"Bang Bang!\" from my upcoming album dropping in April.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/vhoor/episodes/vhoor-12th-february-2026"
-      },
-      {
-        "n": "GRANDMIXXER (R)",
-        "s": "2026-02-12T23:00:00Z",
-        "e": "2026-02-13T00:00:00Z",
-        "d": "Certified veteran grime DJ Grandmixxer raises hell on Thursday nights, either rolling solo or with guest MCs in the hot-seat. Tune in once a month for the latest…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/grandmixxer/episodes/grandmixxer-23rd-october-2025",
-        "t": "restream",
-        "p": "grandmixxer"
-      },
       {
         "n": "(38.4150553, -85.8925382) (R)",
         "s": "2026-02-13T00:00:00Z",
@@ -106,9 +88,10 @@
         "n": "RAJI RAGS b2b Peach - R’n’B Valentines Special",
         "s": "2026-02-13T13:00:00Z",
         "e": "2026-02-13T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Raj Chaudhuri - aka Raji Rags. NTS since day one. Always eclectic, never boring. Raj rustles up a seamless monthly mix that journeys through the BPMs.",
+        "j": "R’n’B Valentines Special",
+        "u": "https://www.nts.live/api/v2/shows/raji-rags/episodes/raji-rags-peach-13th-february-2026",
+        "t": "monthly",
         "p": "peach"
       },
       {
@@ -242,26 +225,19 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Desire Paths w/ Laura Groves (R)",
+        "s": "2026-02-14T07:00:00Z",
+        "e": "2026-02-14T08:00:00Z",
+        "d": null,
+        "j": "Laura Groves",
+        "u": null,
+        "t": "restream",
+        "p": "desirepaths"
       }
     ],
     "nts2": [
-      {
-        "n": "Alex Ho w/ Total Stasis",
-        "s": "2026-02-12T22:00:00Z",
-        "e": "2026-02-12T23:00:00Z",
-        "d": "LA event series, Moony Habits, Alex Ho takes over - live from our Los Angeles studio.\nFrom the host: \"This week's guest Total Stasis runs one of the best labels around… 1 hour of Dubby Drama, Freaked Wavyness and a Little Fluffy EDM for your listening pleasure.. Recorded in Pasadena, CA. \"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moony-habits/episodes/moony-habits-12th-february-2026"
-      },
-      {
-        "n": "NTS GUIDE TO: INTRIGUE RECORDS (R)",
-        "s": "2026-02-12T23:00:00Z",
-        "e": "2026-02-13T00:00:00Z",
-        "d": "60 minutes of soul-flavoured house and late era boogie from the UK based Intrigue Records, selected by NTS. ",
-        "j": "INTRIGUE RECORDS",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/intrigue-records-14th-december-2022",
-        "t": "restream"
-      },
       {
         "n": "NO BELLS: FINALS B2B MANO (R)",
         "s": "2026-02-13T00:00:00Z",
@@ -349,7 +325,7 @@
         "n": "In Focus: Blonde Redhead",
         "s": "2026-02-13T11:00:00Z",
         "e": "2026-02-13T13:00:00Z",
-        "d": "A deeper look into the back catalogs of various artists.",
+        "d": "Formed in the febrile community of NYC's 90s underground scene, Blonde Redhead – comprised of Kazu Makino and twin brothers Amedeo & Simone Pace – are the masters of indie rock atmospherics. From their early noise rock and no wave inspired sounds, they progressed into cinematic and lushly orchestrated leftfield pop, with Makino's ethereal vocals as the one constant. Compiled and mixed by Sophie Nicole Ellison.",
         "j": "Blonde Redhead",
         "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-blonde-redhead-13th-february-2026",
         "t": "biweekly"
@@ -358,9 +334,9 @@
         "n": "Yoko Kanno",
         "s": "2026-02-13T13:00:00Z",
         "e": "2026-02-13T15:00:00Z",
-        "d": null,
+        "d": "Beloved Japanese soundtrack composer Yoko Kanno, famed for her jazz scores on series like Cowboy Bebop and Wolf’s Rain selects an hour of music for NTS, from French classical to R&B, soul and beyond. \n_Yoko Kanno is bringing two extraordinary shows to New York’s Town Hall: on April 11, the vibrant and explosive “Bebop Live,” and on April 12, her immersive artistic piano performance “Piano Me.” Two unique nights, one remarkable weekend. Experience Yoko Kanno live in New York.\nTickets and full details are available at https://www.yokokanno.nyc/",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/yoko-kanno-13th-february-2026"
       },
       {
         "n": "THE ULINE CATALOG",
@@ -486,27 +462,18 @@
         "j": "THE NTS GUIDE TO '90S STONER & DOOM METAL",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Benteki",
-        "s": "2026-02-12T22:00:00Z",
-        "e": "2026-02-12T23:00:00Z",
+        "n": "Phambinho (R)",
+        "s": "2026-02-14T07:00:00Z",
+        "e": "2026-02-14T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "benteki"
-      },
-      {
-        "n": "Matt Frost ",
-        "s": "2026-02-12T23:00:00Z",
-        "e": "2026-02-13T00:00:00Z",
-        "d": "Potent Funk records’ Matt Frost - Well known for his technical abilities and Sleazy bass music style, Frost covers all angles from UK alt Rap to the LA beat scene.",
-        "j": null,
-        "u": null,
-        "p": "mattfrost"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": " Dubstar Records Show w/ Dubfreq",
         "s": "2026-02-13T00:00:00Z",
@@ -582,6 +549,15 @@
         "j": null,
         "u": null,
         "p": "electrolyteswithjoly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-13T13:00:00Z",
+        "e": "2026-02-13T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Sauce Collective ",
@@ -1530,18 +1506,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Systema Naturae by lucii.",
+        "s": "2026-02-20T11:00:00Z",
+        "e": "2026-02-20T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Gwero b2b Nightshade",
+        "s": "2026-02-20T12:00:00Z",
+        "e": "2026-02-20T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Hannah Rubin and Noelle Armstrong – MELLOW DRAMA",
-        "s": "2026-02-12T22:00:00Z",
-        "e": "2026-02-13T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "hannah"
-      },
       {
         "n": "Frankie Jax No Mad - Not Evil Radio",
         "s": "2026-02-13T00:00:00Z",
@@ -2129,23 +2112,6 @@
     ],
     "rinse": [
       {
-        "n": "Jacques Greene",
-        "s": "2026-02-12T22:00:00Z",
-        "e": "2026-02-12T23:00:00Z",
-        "d": null,
-        "j": "100% unreleased JG",
-        "u": null,
-        "p": "jacquesgreene"
-      },
-      {
-        "n": "YETI OUT with ARTHUR YETI",
-        "s": "2026-02-12T23:00:00Z",
-        "e": "2026-02-13T00:00:00Z",
-        "d": null,
-        "j": "Chinese New Year Special",
-        "u": null
-      },
-      {
         "n": "Ikke Sant with SUCHI",
         "s": "2026-02-13T00:00:00Z",
         "e": "2026-02-13T01:00:00Z",
@@ -2223,12 +2189,22 @@
       {
         "n": "The MoodSwing Show",
         "s": "2026-02-13T14:00:00Z",
-        "e": "2026-02-13T17:00:00Z",
+        "e": "2026-02-13T16:00:00Z",
         "d": null,
         "j": "Lady Passion",
         "u": null,
         "t": "biweekly",
         "p": "ladypassion"
+      },
+      {
+        "n": "Earful of Wax",
+        "s": "2026-02-13T16:00:00Z",
+        "e": "2026-02-13T17:00:00Z",
+        "d": null,
+        "j": "Valentines Slow Jamz Special",
+        "u": null,
+        "t": "monthly",
+        "p": "earfulofwax"
       },
       {
         "n": "Jossy Mitsu",
@@ -2244,7 +2220,7 @@
         "s": "2026-02-13T18:00:00Z",
         "e": "2026-02-13T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Klose One",
         "u": null,
         "p": "herasrecords"
       },
@@ -2303,11 +2279,21 @@
       {
         "n": "Electronic Playlist",
         "s": "2026-02-14T03:00:00Z",
-        "e": "2026-02-14T07:00:00Z",
+        "e": "2026-02-14T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Jacques Greene",
+        "s": "2026-02-14T06:00:00Z",
+        "e": "2026-02-14T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jacquesgreene"
       },
       {
         "n": "Playlist",
@@ -2327,22 +2313,20 @@
         "u": null
       },
       {
-        "n": "Hi-Fidelity",
+        "n": "Hi-Fidelity with Mad Cats",
         "s": "2026-02-14T11:00:00Z",
         "e": "2026-02-14T13:00:00Z",
         "d": null,
-        "j": "Mad Cats",
-        "u": null,
-        "t": "biweekly"
+        "j": "Ed Khoury & Sean Innit",
+        "u": null
       },
       {
-        "n": "Counter Culture",
+        "n": "Counter Culture with BBE Records",
         "s": "2026-02-14T13:00:00Z",
         "e": "2026-02-14T15:00:00Z",
         "d": null,
-        "j": "BBE Records",
+        "j": "Jeff Higgins",
         "u": null,
-        "t": "biweekly",
         "p": "counterculture"
       },
       {
@@ -2350,7 +2334,7 @@
         "s": "2026-02-14T15:00:00Z",
         "e": "2026-02-14T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Joëlla Jackson",
         "u": null,
         "t": "monthly",
         "p": "paradise"
@@ -2405,7 +2389,7 @@
         "s": "2026-02-14T23:00:00Z",
         "e": "2026-02-15T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Rinse HQ129",
         "u": null,
         "p": "blumitsu"
       }
@@ -2461,7 +2445,7 @@
         "s": "2026-02-13T15:00:00Z",
         "e": "2026-02-13T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "modular live set",
         "u": null
       },
       {
