@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-13T14:36:28.813Z",
+  "updated": "2026-02-13T16:35:05.520Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Home-listening Plaza",
-        "s": "2026-02-13T02:00:00Z",
-        "e": "2026-02-13T03:00:00Z",
-        "d": "Selections from the artists featured in “Home-listening Plaza”, the dream pop and indie rock compilation from Medan, Indonesia label Persona Experience.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/home-listening-plaza-13th-february-2026"
-      },
-      {
-        "n": "OMICHIVE’S BOOKSHELF (R)",
-        "s": "2026-02-13T03:00:00Z",
-        "e": "2026-02-13T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Alicia Matthews (R)",
         "s": "2026-02-13T04:00:00Z",
@@ -87,12 +70,13 @@
         "p": "adonis"
       },
       {
-        "n": "Waya Fyam w/Prieste$$ TelzzzzZZ",
+        "n": "NTS GUIDE TO: DANCE MANIA (R)",
         "s": "2026-02-13T16:00:00Z",
-        "e": "2026-02-13T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "e": "2026-02-13T18:00:00Z",
+        "d": "Two hours of selections from one of dance music's most beloved record labels. Much has been written about the X-rated ghetto house records that Dance Mania is famous for – the label is often referred to as \"ghetto house's Motown\" – but the bigger picture of the label is that of the evolution of Chicago house music in a microcosm. From label founder Jesse Saunders' early house and freestyle-tinged productions in the mid-1980s, to smoky deep house in the early 90s, and into the ghetto house that would lay the foundations for juke and footwork moving into the 2000s. \nSelected and mixed by LDLDN. ",
+        "j": "DANCE MANIA",
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-dance-mania-5th-december-2025",
+        "t": "restream"
       },
       {
         "n": "Bashment Sound w/ Silent Addy & Disco Neil",
@@ -107,9 +91,9 @@
         "n": "MARTHA",
         "s": "2026-02-13T18:00:00Z",
         "e": "2026-02-13T19:00:00Z",
-        "d": null,
+        "d": "Martha is a DJ and broadcaster from South London with roots in community radio and documentary making. Each of Martha’s thoughtfully curated radio shows navigate the fringes of electronic music, with a clear narrative that is grounded in community and storytelling. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/martha/episodes/martha-13th-february-2026",
         "t": "monthly",
         "p": "martha"
       },
@@ -226,18 +210,36 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
+        "s": "2026-02-14T10:00:00Z",
+        "e": "2026-02-14T12:00:00Z",
+        "d": null,
+        "j": "MACCA",
+        "u": null,
+        "t": "biweekly",
+        "p": "macca"
+      },
+      {
+        "n": "Alexander Nut b2b Mr Scruff",
+        "s": "2026-02-14T12:00:00Z",
+        "e": "2026-02-14T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "alexandernut"
+      },
+      {
+        "n": "Machi",
+        "s": "2026-02-14T14:00:00Z",
+        "e": "2026-02-14T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Rap Vacation w/ Spoonerism",
-        "s": "2026-02-13T02:00:00Z",
-        "e": "2026-02-13T04:00:00Z",
-        "d": "Label head Michael Lundy explores Rap Vacation’s experimental influences, with guests and exclusive cuts from the thriving LA beat scene.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rap-vacation/episodes/rap-vacation-13th-february-2026",
-        "p": "rapvacation"
-      },
       {
         "n": "FIXED ABODE (R)",
         "s": "2026-02-13T04:00:00Z",
@@ -325,17 +327,17 @@
         "n": "CREEP ZONE W/ JAMES PANTS & MARC SCHALLER",
         "s": "2026-02-13T16:00:00Z",
         "e": "2026-02-13T17:00:00Z",
-        "d": null,
+        "d": "Stones Throw's James Pants joins forces with Marc Schaller for an hour-long dive into dreamy electronics, wired sounds and experimentation.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/creepzone/episodes/creepzone-13th-february-2026"
       },
       {
         "n": "NTS Guide to: Love Songs from Naples",
         "s": "2026-02-13T17:00:00Z",
         "e": "2026-02-13T18:00:00Z",
-        "d": null,
+        "d": "'Nun me sceta' (Don't wake me) is a plea not to be woken - to stay forever in the dream of love lived, and of love lost.\nSung in Neapolitan dialect, these songs are a vesuvian tribute to love in all its forms.",
         "j": "Love Songs from Naples",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-love-songs-from-naples-13th-february-2026",
         "t": "biweekly"
       },
       {
@@ -455,27 +457,26 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Enter The Portal (R)",
+        "s": "2026-02-14T09:00:00Z",
+        "e": "2026-02-14T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Efficient Space w/ MIKEY YOUNG",
+        "s": "2026-02-14T10:00:00Z",
+        "e": "2026-02-14T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Pete Shredz",
-        "s": "2026-02-13T02:00:00Z",
-        "e": "2026-02-13T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "peteshredz"
-      },
-      {
-        "n": "Macks",
-        "s": "2026-02-13T03:00:00Z",
-        "e": "2026-02-13T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Lava Recordings with 99 ranch",
         "s": "2026-02-13T04:00:00Z",
@@ -552,6 +553,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-13T18:00:00Z",
+        "e": "2026-02-13T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "SYNES",
@@ -1499,18 +1509,25 @@
         "j": null,
         "u": null,
         "p": "rebello"
+      },
+      {
+        "n": "Emma & Embla",
+        "s": "2026-02-20T15:00:00Z",
+        "e": "2026-02-20T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "The All Colours Show",
+        "s": "2026-02-20T16:00:00Z",
+        "e": "2026-02-20T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Frosty - Celsius Drop",
-        "s": "2026-02-13T02:00:00Z",
-        "e": "2026-02-13T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "frosty"
-      },
       {
         "n": "Pacific Beach Playback",
         "s": "2026-02-13T04:00:00Z",
@@ -2080,15 +2097,6 @@
     ],
     "rinse": [
       {
-        "n": "Fracture",
-        "s": "2026-02-13T02:00:00Z",
-        "e": "2026-02-13T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "fracture"
-      },
-      {
         "n": "Electronic Playlist",
         "s": "2026-02-13T03:00:00Z",
         "e": "2026-02-13T06:00:00Z",
@@ -2317,13 +2325,13 @@
         "p": "manpower"
       },
       {
-        "n": "DESIREE",
+        "n": "KETTAMA with X. CLUB",
         "s": "2026-02-14T20:00:00Z",
         "e": "2026-02-14T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "From The Vault (2020)",
         "u": null,
-        "p": "desiree"
+        "p": "kettama"
       },
       {
         "n": "CONDUCTA",
@@ -2474,7 +2482,7 @@
         "s": "2026-02-14T15:00:00Z",
         "e": "2026-02-14T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "CHOUFOU L'AMOUR MADAR FIYA: ♡ RITA L'OUJDIA & MYSTIQUE ♡",
         "u": null,
         "p": "mystique"
       },
