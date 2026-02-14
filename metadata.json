@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-14T16:19:36.408Z",
+  "updated": "2026-02-14T18:22:29.503Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Trilogy Tapes (R)",
-        "s": "2026-02-14T03:00:00Z",
-        "e": "2026-02-14T05:00:00Z",
-        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-6th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "ONY (R)",
-        "s": "2026-02-14T05:00:00Z",
-        "e": "2026-02-14T06:00:00Z",
-        "d": "Same shit, different month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ony/episodes/ony-4th-august-2021",
-        "t": "restream"
-      },
       {
         "n": "Uncanny Valley (R)",
         "s": "2026-02-14T06:00:00Z",
@@ -105,9 +87,9 @@
         "n": "Sade Dubs w/ Nick Bam",
         "s": "2026-02-14T19:00:00Z",
         "e": "2026-02-14T20:00:00Z",
-        "d": null,
+        "d": "London DJ Nick Bam pulls out a power hour of Sade remixes, edits, and versions. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sade-dubs-w-nick-bam-14th-february-2026"
       },
       {
         "n": "Proc Fiskal: UK ORK",
@@ -240,18 +222,17 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
+        "s": "2026-02-15T13:00:00Z",
+        "e": "2026-02-15T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "LA VIDA ES UN MUS (R)",
-        "s": "2026-02-14T04:00:00Z",
-        "e": "2026-02-14T05:00:00Z",
-        "d": "Primative World Musik.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/la-vida-es-un-mus/episodes/la-vida-es-un-mus-17th-april-2025",
-        "t": "restream"
-      },
       {
         "n": "KISS THE SKY: THE NTS GUIDE TO '90S STONER & DOOM METAL (R)",
         "s": "2026-02-14T05:00:00Z",
@@ -361,17 +342,18 @@
         "n": "RACHEL GRACE ALMEIDA",
         "s": "2026-02-14T18:00:00Z",
         "e": "2026-02-14T19:00:00Z",
-        "d": null,
+        "d": "Venezuelan writer Rachel Grace Almeida spends an hour dipping into the expansive universe of Latin music every month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/rachel-grace-almeida/episodes/rachel-grace-almeida-14th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "LABOUR",
         "s": "2026-02-14T19:00:00Z",
         "e": "2026-02-14T20:00:00Z",
-        "d": null,
+        "d": "LABOUR is the duo of Colin Hacklander and Farahnaz Hatam. Tune in each month for their hour-long show featuring rotating guests and friends from Dakar, Senegal. Expect a mixture of progressive electronic music with heavy sabar drum music, classic & current Mbalax, and timeless Sufi praises.\nFrom the host: _\"This week’s show features the great Senegalese singer, bandleader and manager, Mame Goor (aka Maam Goor, Mame Ndoup) focusing on two albums: Niax Reroul Borom from 2006 and Diazaaka from 2002, including much Baye Fall praise with the xiin drum. \nBefore launching his own current musical career, Mame Goor managed such artists — and previous guests of this show — as Soda Mama Fall. Listen for the track called, Ndongo Lo, homage to the late great senegalese singer from Pikine in Dakar, whose music can be found on NTS’s IN FOCUS in 2020 by LABOUR.\"_",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/labour/episodes/labour-14th-february-2026",
         "p": "labour"
       },
       {
@@ -503,6 +485,26 @@
         "j": "INTERNATIONAL DREAM POP, SPACE ROCK & SHOEGAZE 1990-2001",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "CROSSED WIRES W/ AMANDA SIEGEL (R)",
+        "s": "2026-02-15T16:00:00Z",
+        "e": "2026-02-15T17:00:00Z",
+        "d": null,
+        "j": "AMANDA SIEGEL",
+        "u": null,
+        "t": "restream",
+        "p": "amandasiegel"
+      },
+      {
+        "n": "BAYU & MOOPIE: I WON'T HAVE TO THINK ABOUT YOU (R)",
+        "s": "2026-02-15T17:00:00Z",
+        "e": "2026-02-15T18:00:00Z",
+        "d": null,
+        "j": "I WON'T HAVE TO THINK ABOUT YOU",
+        "u": null,
+        "t": "restream",
+        "p": "moopie"
       }
     ],
     "subtle": [
@@ -1559,18 +1561,26 @@
         "d": "DJ & Producer hailing from Watford influenced by Hip-Hop, Dubstep, Grime with releases on NSX records & Ghost Phone, spinning electronic genres from R&B edits, Drum and Bass and everything in between.",
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "BLACK LOVE: Jelly",
-        "s": "2026-02-14T04:00:00Z",
-        "e": "2026-02-14T06:00:00Z",
+        "n": "Hurst",
+        "s": "2026-02-21T17:00:00Z",
+        "e": "2026-02-21T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "jelly"
+        "p": "hurst"
       },
+      {
+        "n": "Highlander",
+        "s": "2026-02-21T18:00:00Z",
+        "e": "2026-02-21T20:00:00Z",
+        "d": "Highlander brings you 2 hours of the freshest Jungle, Hardcore, Dubstep and Breaks. 3rd Saturday 7-9pm lock in!",
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "88 - Club Paradise",
         "s": "2026-02-14T06:00:00Z",
@@ -1639,6 +1649,15 @@
         "j": null,
         "u": null,
         "p": "ryanleemoore"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-14T20:00:00Z",
+        "e": "2026-02-14T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Nia Michelle, Jordan Collins, Lewis Thompson – Channels",
@@ -2125,15 +2144,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-02-14T03:00:00Z",
-        "e": "2026-02-14T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Jacques Greene",
         "s": "2026-02-14T06:00:00Z",
