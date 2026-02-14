@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-14T20:16:55.675Z",
+  "updated": "2026-02-14T22:14:45.586Z",
   "stations": {
     "nts1": [
-      {
-        "n": "RAGA VIBRATIONS",
-        "s": "2026-02-14T08:00:00Z",
-        "e": "2026-02-14T10:00:00Z",
-        "d": "\"Raga Vibrations\" is a monthly selection of Indian music curated by Greg Davis.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/raga-vibrations/episodes/raga-vibrations-14th-february-2026",
-        "t": "monthly",
-        "p": "ragavibrations"
-      },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-02-14T10:00:00Z",
@@ -93,17 +83,18 @@
         "n": "ANGEL BAT DAWID",
         "s": "2026-02-14T22:00:00Z",
         "e": "2026-02-14T23:00:00Z",
-        "d": null,
+        "d": "Monthly vibrance & light from the Chicago based composer, pianist, clarinetist & jazz oracle.\nFrom the host: \"Join composer Angel Bat Dawid for a radio sermon tuned to the ancient spiritual frequency of Mount Sinai. This episode features a rare, profound message from the late Neely Fuller Jr., exposing how systemic white supremacy fixates on both creation and destruction.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/angel-bat-dawid/episodes/angel-bat-dawid-14th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "Blank Forms: Jazz Corner with Lawrence Kumpf",
         "s": "2026-02-14T23:00:00Z",
         "e": "2026-02-15T00:00:00Z",
-        "d": null,
+        "d": "Blank Forms Artistic Director Lawrence Kumpf compiles mixes pulled from the New York based non-profit’s forthcoming releases, back-catalog, and publications. These are interspersed with a selection of synergistic tracks and artists moving between references and affinities. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/blank-forms/episodes/blank-forms-14th-february-2026"
       },
       {
         "n": "Pierna Talu",
@@ -228,27 +219,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "LUPINI",
+        "s": "2026-02-15T18:00:00Z",
+        "e": "2026-02-15T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "AD 93 w/ TASKER",
+        "s": "2026-02-15T20:00:00Z",
+        "e": "2026-02-15T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Merzbow (R)",
-        "s": "2026-02-14T08:00:00Z",
-        "e": "2026-02-14T09:00:00Z",
-        "d": "The revered Japanese noise artist stops by for a regular NTS slot, playing some surprising selections from his diverse & deep record collection.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/merzbow/episodes/merzbow-20th-november-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Enter The Portal (R)",
-        "s": "2026-02-14T09:00:00Z",
-        "e": "2026-02-14T10:00:00Z",
-        "d": "We have a very special guest mix by the one and only Keanu Nelson. For those not familiar with Keanu’s work, he's an artist based in Papanya, Northern Territory, Australia. His debut album was produced and recorded by Yuta Matsumura, who is behind such groups as The Lewers, Low Life & Orion. Keanu’s warm and very heart yearning lyrics are sung in both his native language and english, this paired with Yuta’s analogue-esqe beats and keys is a real angelic treat. I hope you enjoy some of Keanu’s favourite tracks that inspire him daily and a few of his gems from the debut album.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/enter-the-portal/episodes/enter-the-portal-12th-february-2025",
-        "t": "restream"
-      },
       {
         "n": "Efficient Space w/ MIKEY YOUNG",
         "s": "2026-02-14T10:00:00Z",
@@ -358,9 +347,9 @@
         "n": "IN FOCUS: SOURCE DIRECT (R)",
         "s": "2026-02-14T22:00:00Z",
         "e": "2026-02-15T00:00:00Z",
-        "d": null,
+        "d": "Atmospheric, complex, and influential drum and bass productions from Source Direct, the former duo that distinguished themselves as luminaries in breakbeat science in the mid-1990s. \nSelected and mixed by Tim Reaper. ",
         "j": "SOURCE DIRECT",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-source-direct-10th-october-2025",
         "t": "restream",
         "p": "source"
       },
@@ -368,9 +357,9 @@
         "n": "PANDORA'S JUKEBOX (R)",
         "s": "2026-02-15T00:00:00Z",
         "e": "2026-02-15T02:00:00Z",
-        "d": null,
+        "d": "Renegade Soundwaves by Pandora's Jukebox: sonic assemblages with hypnotic noir-dreamscapes and a multi-textured take on electronic music.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/pandoras-jukebox/episodes/pandoras-jukebox-15th-january-2019",
         "t": "restream"
       },
       {
@@ -503,26 +492,28 @@
         "j": "MUSIC FOR YOUNG LOVERS",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "VENTANA W/ FÉLICITÉ VENTILATEUR (R)",
+        "s": "2026-02-15T22:00:00Z",
+        "e": "2026-02-15T23:00:00Z",
+        "d": null,
+        "j": "FÉLICITÉ VENTILATEUR",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "BAHAMIAN MOOR W/ SCOINSY (R)",
+        "s": "2026-02-15T23:00:00Z",
+        "e": "2026-02-16T00:00:00Z",
+        "d": null,
+        "j": "SCOINSY",
+        "u": null,
+        "t": "restream",
+        "p": "bahamianmoor"
       }
     ],
     "subtle": [
-      {
-        "n": "REFERENCES...w/ KPB",
-        "s": "2026-02-14T08:00:00Z",
-        "e": "2026-02-14T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-02-14T09:00:00Z",
-        "e": "2026-02-14T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": " SCOPE__EM",
         "s": "2026-02-14T10:00:00Z",
@@ -1583,25 +1574,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Eklekt1k",
+        "s": "2026-02-21T21:00:00Z",
+        "e": "2026-02-21T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "eklekt1k"
       }
     ],
     "dublab": [
-      {
-        "n": "BLACK LOVE: pastelShade",
-        "s": "2026-02-14T08:00:00Z",
-        "e": "2026-02-14T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "BLACK LOVE: Lucky Lefty",
-        "s": "2026-02-14T09:00:00Z",
-        "e": "2026-02-14T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "BLACK LOVE: EDICA+",
         "s": "2026-02-14T10:00:00Z",
@@ -2146,18 +2130,17 @@
         "j": null,
         "u": null,
         "p": "elynkazarian"
+      },
+      {
+        "n": "Beats of All-Nations",
+        "s": "2026-02-21T22:00:00Z",
+        "e": "2026-02-22T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-02-14T07:00:00Z",
-        "e": "2026-02-14T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Breakfast with Mr. Redley",
         "s": "2026-02-14T09:00:00Z",
@@ -2368,7 +2351,7 @@
         "s": "2026-02-15T20:00:00Z",
         "e": "2026-02-15T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Gheordu",
         "u": null,
         "t": "biweekly",
         "p": "oblig"
