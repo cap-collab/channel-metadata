@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-02-14T01:16:19.639Z",
+  "updated": "2026-02-14T04:02:47.105Z",
   "stations": {
     "nts1": [
       {
@@ -250,7 +250,8 @@
         "e": "2025-11-30T07:30:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "ragavibrations"
       },
       {
         "n": "MARTIN NEWELL'S ODDCASTE",
@@ -1590,7 +1591,8 @@
         "e": "2025-12-09T17:00:00Z",
         "d": "Transmitted from under the perpetually grey skies of West Yorkshire, fill your ears with a selection of sounds from hardcore/punk to metal, folk and more, curated by musician and Turnstile guitarist Meg Mills.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/meg-mills/episodes/meg-mills-9th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/meg-mills/episodes/meg-mills-9th-december-2025",
+        "p": "megmills"
       },
       {
         "n": "QUEST NO MORE W/ ELHEIST",
@@ -3006,7 +3008,8 @@
         "e": "2025-12-19T23:00:00Z",
         "d": "Bass weight and sound system musik from DEEP MEDi - sharing styles from the label's new crop of producers, and picking out gems from their 150+ releases back catalogue. KEEP YOUR MEDi DEEP\nFrom the host: 'Thanks to everyone that's tuned in across 2025! We round the year off with a classic show from a classic Loefah!We'll be back on air 13th February 2026!\nPeace & One Love \nMala & Steph ✨'",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/deep-medi/episodes/deep-medi-19th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/deep-medi/episodes/deep-medi-19th-december-2025",
+        "p": "deepmedi"
       },
       {
         "n": "Bloodz Boi",
@@ -3090,7 +3093,8 @@
         "d": "\"Raga Vibrations\" is a monthly selection of Indian music curated by Greg Davis.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/raga-vibrations/episodes/raga-vibrations-20th-december-2025",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "ragavibrations"
       },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA: The Sopranos Special Part 3",
@@ -6408,6 +6412,25 @@
         "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-13th-february-2026",
         "t": "monthly",
         "p": "scarythings"
+      },
+      {
+        "n": "RAJI RAGS - J Dilla Special",
+        "s": "2026-02-13T13:00:00Z",
+        "e": "2026-02-13T15:00:00Z",
+        "d": "Raj Chaudhuri - aka Raji Rags. NTS since day one. Always eclectic, never boring. Raj rustles up a seamless monthly mix that journeys through the BPMs.",
+        "j": "J Dilla Special",
+        "u": "https://www.nts.live/api/v2/shows/raji-rags/episodes/raji-rags-peach-13th-february-2026",
+        "t": "monthly"
+      },
+      {
+        "n": "ADONIS w/ Grace Sands",
+        "s": "2026-02-13T15:00:00Z",
+        "e": "2026-02-13T16:00:00Z",
+        "d": "Iconic queer party crew Adonis showcase their residents on a monthly rotation live from the London studio.",
+        "j": "Grace Sands",
+        "u": "https://www.nts.live/api/v2/shows/adonis/episodes/adonis-13th-february-2026",
+        "t": "monthly",
+        "p": "adonis"
       }
     ],
     "nts2": [
@@ -7208,7 +7231,8 @@
         "e": "2025-12-03T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "ragavibrations"
       },
       {
         "n": "Sigourney: FINAL CINEMATIC REMIX - CHANGES",
@@ -7380,7 +7404,8 @@
         "e": "2025-12-04T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "efficientspace"
       },
       {
         "n": "THE NUMERO GROUP - Staff Picks 2025",
@@ -10052,7 +10077,8 @@
         "e": "2025-12-19T23:00:00Z",
         "d": "Filmmaker Jenny Sayaka Nono brings her manic VHS hued style to the audio airwaves, with steely coldwave, industrial, synth pop & more. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/axcess-amnesia/episodes/axcess-amnesia-19th-december-2025"
+        "u": "https://www.nts.live/api/v2/shows/axcess-amnesia/episodes/axcess-amnesia-19th-december-2025",
+        "p": "axcessamnesia"
       },
       {
         "n": "Yesterday's News w/ AFI",
@@ -10111,7 +10137,8 @@
         "d": "Irregular extra special shows from the world of Melbourne reissue label Efficient Space. ",
         "j": "Th Blisks",
         "u": "https://www.nts.live/api/v2/shows/efficient-space/episodes/efficient-space-th-blisks-25th-june-2024",
-        "t": "restream"
+        "t": "restream",
+        "p": "efficientspace"
       },
       {
         "n": "WAVE FORM W/ AURÉLIEN ARBET & PIERRE ROUSSEAU (R)",
@@ -11013,7 +11040,7 @@
         "n": "NTS GUIDE TO: INDIETRONICA & FOLKTRONICA (R)",
         "s": "2025-12-25T12:00:00Z",
         "e": "2025-12-25T14:00:00Z",
-        "d": "A two hour overview of the artists connected by the \"indietronica\" or \"folktronica\" descriptors – these terms rose to prominence in the mid-1990s as electronic artists began exploring acoustic arrangements and organic leaning sounds and samples, and traditional guitar-based bands experimented with sampling technology and electronic sounds. ",
+        "d": "A two hour overview of the artists connected by the \"indietronica\" or \"folktronica\" descriptors �� these terms rose to prominence in the mid-1990s as electronic artists began exploring acoustic arrangements and organic leaning sounds and samples, and traditional guitar-based bands experimented with sampling technology and electronic sounds. ",
         "j": "INDIETRONICA & FOLKTRONICA",
         "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-indietronica-18th-july-2025",
         "t": "restream"
@@ -13704,6 +13731,23 @@
         "j": "Blonde Redhead",
         "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-blonde-redhead-13th-february-2026",
         "t": "biweekly"
+      },
+      {
+        "n": "Yoko Kanno",
+        "s": "2026-02-13T13:00:00Z",
+        "e": "2026-02-13T15:00:00Z",
+        "d": "Beloved Japanese soundtrack composer Yoko Kanno, famed for her jazz scores on series like Cowboy Bebop and Wolf’s Rain selects an hour of music for NTS, from French classical to R&B, soul and beyond. \nYoko Kanno is bringing two shows to New York on April 11 and April 12. Tickets and full details are available at https://www.yokokanno.nyc/",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/yoko-kanno-13th-february-2026"
+      },
+      {
+        "n": "THE ULINE CATALOG",
+        "s": "2026-02-13T15:00:00Z",
+        "e": "2026-02-13T16:00:00Z",
+        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-13th-february-2026",
+        "t": "monthly"
       }
     ],
     "subtle": [
@@ -20363,6 +20407,33 @@
         "j": null,
         "u": null,
         "p": "electrolyteswithjoly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-13T13:00:00Z",
+        "e": "2026-02-13T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Sauce Collective ",
+        "s": "2026-02-13T14:00:00Z",
+        "e": "2026-02-13T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "collective"
+      },
+      {
+        "n": "Kamzuqi",
+        "s": "2026-02-13T15:00:00Z",
+        "e": "2026-02-13T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "kamzuqi"
       }
     ],
     "dublab": [
@@ -25141,6 +25212,23 @@
         "j": null,
         "u": null,
         "p": "alexpelly"
+      },
+      {
+        "n": "BLACK LOVE: The Cricket",
+        "s": "2026-02-13T08:00:00Z",
+        "e": "2026-02-13T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "BLACK LOVE: SHABAZZ",
+        "s": "2026-02-13T15:00:00Z",
+        "e": "2026-02-13T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "shabazz"
       }
     ],
     "rinse": [
@@ -31354,6 +31442,26 @@
         "j": null,
         "u": null,
         "p": "stormmollison"
+      },
+      {
+        "n": "Uncle Dugs",
+        "s": "2026-02-13T11:00:00Z",
+        "e": "2026-02-13T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "uncledugs"
+      },
+      {
+        "n": "The MoodSwing Show",
+        "s": "2026-02-13T14:00:00Z",
+        "e": "2026-02-13T16:00:00Z",
+        "d": null,
+        "j": "Lady Passion",
+        "u": null,
+        "t": "biweekly",
+        "p": "ladypassion"
       }
     ],
     "rinsefr": [
@@ -34841,6 +34949,24 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Whitney Weiss",
+        "s": "2026-02-13T13:00:00Z",
+        "e": "2026-02-13T15:00:00Z",
+        "d": null,
+        "j": "It's Whitney, Bitch with Dirty Daddy Don",
+        "u": null,
+        "p": "daddy"
+      },
+      {
+        "n": "Mystique",
+        "s": "2026-02-13T15:00:00Z",
+        "e": "2026-02-13T16:00:00Z",
+        "d": null,
+        "j": "CHOUFOU L'AMOUR MADAR FIYA: ♡ RITA L'OUJDIA & MYSTIQUE ♡",
+        "u": null,
+        "p": "mystique"
       }
     ],
     "newtown": [

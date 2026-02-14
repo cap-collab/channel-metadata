@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-14T01:16:11.550Z",
+  "updated": "2026-02-14T04:02:39.037Z",
   "stations": {
     "nts1": [
-      {
-        "n": "RAJI RAGS - J Dilla Special",
-        "s": "2026-02-13T13:00:00Z",
-        "e": "2026-02-13T15:00:00Z",
-        "d": "Raj Chaudhuri - aka Raji Rags. NTS since day one. Always eclectic, never boring. Raj rustles up a seamless monthly mix that journeys through the BPMs.",
-        "j": "J Dilla Special",
-        "u": "https://www.nts.live/api/v2/shows/raji-rags/episodes/raji-rags-peach-13th-february-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ADONIS w/ Grace Sands",
-        "s": "2026-02-13T15:00:00Z",
-        "e": "2026-02-13T16:00:00Z",
-        "d": "Iconic queer party crew Adonis showcase their residents on a monthly rotation live from the London studio.",
-        "j": "Grace Sands",
-        "u": "https://www.nts.live/api/v2/shows/adonis/episodes/adonis-13th-february-2026",
-        "t": "monthly",
-        "p": "adonis"
-      },
       {
         "n": "Bashment Sound w/ Silent Addy & Disco Neil",
         "s": "2026-02-13T17:00:00Z",
@@ -71,7 +52,8 @@
         "e": "2026-02-13T23:00:00Z",
         "d": "Bass weight and sound system musik from DEEP MEDi - sharing styles from the label's new crop of producers, and picking out gems from their 150+ releases back catalogue.\nKEEP YOUR MEDi DEEP ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/deep-medi/episodes/deep-medi-13th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/deep-medi/episodes/deep-medi-13th-february-2026",
+        "p": "deepmedi"
       },
       {
         "n": "EL SABOR DE LA CIUDAD W/ REGAL86",
@@ -114,18 +96,18 @@
         "n": "The Trilogy Tapes (R)",
         "s": "2026-02-14T03:00:00Z",
         "e": "2026-02-14T05:00:00Z",
-        "d": null,
+        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-6th-january-2025",
         "t": "restream"
       },
       {
         "n": "ONY (R)",
         "s": "2026-02-14T05:00:00Z",
         "e": "2026-02-14T06:00:00Z",
-        "d": null,
+        "d": "Same shit, different month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ony/episodes/ony-4th-august-2021",
         "t": "restream"
       },
       {
@@ -153,7 +135,8 @@
         "e": "2026-02-14T10:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "ragavibrations"
       },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
@@ -246,26 +229,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Pierna Talu",
+        "s": "2026-02-15T00:00:00Z",
+        "e": "2026-02-15T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Awe w/ Laurel Halo (R)",
+        "s": "2026-02-15T01:00:00Z",
+        "e": "2026-02-15T02:00:00Z",
+        "d": null,
+        "j": "Laurel Halo",
+        "u": null,
+        "t": "restream",
+        "p": "laurelhalo"
       }
     ],
     "nts2": [
-      {
-        "n": "Yoko Kanno",
-        "s": "2026-02-13T13:00:00Z",
-        "e": "2026-02-13T15:00:00Z",
-        "d": "Beloved Japanese soundtrack composer Yoko Kanno, famed for her jazz scores on series like Cowboy Bebop and Wolf’s Rain selects an hour of music for NTS, from French classical to R&B, soul and beyond. \nYoko Kanno is bringing two shows to New York on April 11 and April 12. Tickets and full details are available at https://www.yokokanno.nyc/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/yoko-kanno-13th-february-2026"
-      },
-      {
-        "n": "THE ULINE CATALOG",
-        "s": "2026-02-13T15:00:00Z",
-        "e": "2026-02-13T16:00:00Z",
-        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-13th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "CREEP ZONE W/ JAMES PANTS & MARC SCHALLER",
         "s": "2026-02-13T16:00:00Z",
@@ -321,7 +305,8 @@
         "e": "2026-02-13T23:00:00Z",
         "d": "Filmmaker Jenny Sayaka Nono brings her manic VHS hued style to the audio airwaves, with steely coldwave, industrial, synth pop & more. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/axcess-amnesia/episodes/axcess-amnesia-13th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/axcess-amnesia/episodes/axcess-amnesia-13th-february-2026",
+        "p": "axcessamnesia"
       },
       {
         "n": "YESTERDAY'S NEWS",
@@ -363,24 +348,25 @@
         "d": null,
         "j": "MEG MILLS",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "megmills"
       },
       {
         "n": "LA VIDA ES UN MUS (R)",
         "s": "2026-02-14T04:00:00Z",
         "e": "2026-02-14T05:00:00Z",
-        "d": null,
+        "d": "Primative World Musik.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/la-vida-es-un-mus/episodes/la-vida-es-un-mus-17th-april-2025",
         "t": "restream"
       },
       {
         "n": "KISS THE SKY: THE NTS GUIDE TO '90S STONER & DOOM METAL (R)",
         "s": "2026-02-14T05:00:00Z",
         "e": "2026-02-14T07:00:00Z",
-        "d": null,
+        "d": "Into a haze with sludgy riffs, freeform jams and trance inducing chord progressions from the stoned metal offshoots.",
         "j": "THE NTS GUIDE TO '90S STONER & DOOM METAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/kiss-the-sky-nts-guide-to-90-s-stoner-doom-metal-8th-february-2023",
         "t": "restream"
       },
       {
@@ -416,7 +402,8 @@
         "e": "2026-02-14T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "efficientspace"
       },
       {
         "n": "Recorded Live at Bourse de Commerce w/ Megabasse",
@@ -493,36 +480,37 @@
         "j": null,
         "u": null,
         "p": "labour"
+      },
+      {
+        "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE (R)",
+        "s": "2026-02-14T20:00:00Z",
+        "e": "2026-02-14T21:00:00Z",
+        "d": null,
+        "j": "TEMI KOGBE",
+        "u": null,
+        "t": "restream",
+        "p": "temikogbe"
+      },
+      {
+        "n": "JANA RUSH",
+        "s": "2026-02-14T21:00:00Z",
+        "e": "2026-02-14T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "IN FOCUS: SOURCE DIRECT (R)",
+        "s": "2026-02-14T22:00:00Z",
+        "e": "2026-02-15T00:00:00Z",
+        "d": null,
+        "j": "SOURCE DIRECT",
+        "u": null,
+        "t": "restream",
+        "p": "source"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-02-13T13:00:00Z",
-        "e": "2026-02-13T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Sauce Collective ",
-        "s": "2026-02-13T14:00:00Z",
-        "e": "2026-02-13T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "collective"
-      },
-      {
-        "n": "Kamzuqi",
-        "s": "2026-02-13T15:00:00Z",
-        "e": "2026-02-13T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "kamzuqi"
-      },
       {
         "n": "The Free Range Sounds Show",
         "s": "2026-02-13T16:00:00Z",
@@ -607,6 +595,15 @@
         "j": null,
         "u": null,
         "p": "thecomplexcurve"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-14T04:00:00Z",
+        "e": "2026-02-14T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "REFERENCES...w/ KPB",
@@ -1563,26 +1560,27 @@
         "j": null,
         "u": null,
         "p": "meltingpoint"
-      }
-    ],
-    "dublab": [
-      {
-        "n": "BLACK LOVE: The Cricket",
-        "s": "2026-02-13T08:00:00Z",
-        "e": "2026-02-13T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
-        "n": "BLACK LOVE: SHABAZZ",
-        "s": "2026-02-13T15:00:00Z",
-        "e": "2026-02-13T16:00:00Z",
+        "n": "Negative Pace",
+        "s": "2026-02-21T02:00:00Z",
+        "e": "2026-02-21T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "shabazz"
+        "p": "negativepace"
       },
+      {
+        "n": "CARLOS!",
+        "s": "2026-02-21T03:00:00Z",
+        "e": "2026-02-21T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "carlos"
+      }
+    ],
+    "dublab": [
       {
         "n": "EddyMac - Something Going On",
         "s": "2026-02-13T16:00:00Z",
@@ -2151,29 +2149,28 @@
         "j": null,
         "u": null,
         "p": "hymnal"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Uncle Dugs",
-        "s": "2026-02-13T11:00:00Z",
-        "e": "2026-02-13T14:00:00Z",
+        "n": "Desmond - Cool Spot Selections",
+        "s": "2026-02-21T02:00:00Z",
+        "e": "2026-02-21T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "uncledugs"
+        "p": "desmond"
       },
       {
-        "n": "The MoodSwing Show",
-        "s": "2026-02-13T14:00:00Z",
-        "e": "2026-02-13T16:00:00Z",
+        "n": "Greg Belson - 45 live",
+        "s": "2026-02-21T04:00:00Z",
+        "e": "2026-02-21T06:00:00Z",
         "d": null,
-        "j": "Lady Passion",
+        "j": "45 live",
         "u": null,
-        "t": "biweekly",
-        "p": "ladypassion"
-      },
+        "t": "monthly",
+        "p": "45live"
+      }
+    ],
+    "rinse": [
       {
         "n": "Earful of Wax",
         "s": "2026-02-13T16:00:00Z",
@@ -2517,24 +2514,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Whitney Weiss",
-        "s": "2026-02-13T13:00:00Z",
-        "e": "2026-02-13T15:00:00Z",
-        "d": null,
-        "j": "It's Whitney, Bitch with Dirty Daddy Don",
-        "u": null,
-        "p": "daddy"
-      },
-      {
-        "n": "Mystique",
-        "s": "2026-02-13T15:00:00Z",
-        "e": "2026-02-13T16:00:00Z",
-        "d": null,
-        "j": "CHOUFOU L'AMOUR MADAR FIYA: ♡ RITA L'OUJDIA & MYSTIQUE ♡",
-        "u": null,
-        "p": "mystique"
-      },
       {
         "n": "Otto Diva",
         "s": "2026-02-13T16:00:00Z",
