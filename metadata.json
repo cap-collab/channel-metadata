@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-14T12:29:09.378Z",
+  "updated": "2026-02-14T14:19:02.100Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PHYSICAL THERAPY - LIVE FROM MISCELLANIA (R)",
-        "s": "2026-02-14T00:00:00Z",
-        "e": "2026-02-14T01:00:00Z",
-        "d": null,
-        "j": "LIVE FROM MISCELLANIA",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "OHBLIV (R)",
-        "s": "2026-02-14T01:00:00Z",
-        "e": "2026-02-14T02:00:00Z",
-        "d": "Hip-hop and soul-inflected sounds from Richmond's Ohbliv.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ohbliv/episodes/ohbliv-18th-november-2024",
-        "t": "restream",
-        "p": "ohbliv"
-      },
       {
         "n": "FINESSE THE PLUG RADIO (R)",
         "s": "2026-02-14T02:00:00Z",
@@ -109,9 +90,9 @@
         "n": "Lloyd 'Musclehead' Saxon",
         "s": "2026-02-14T15:00:00Z",
         "e": "2026-02-14T16:00:00Z",
-        "d": null,
+        "d": "The co-founder of the legendary Saxon Sound System, Lloyd 'Musclehead' Saxon steps up for a regular session, playing ska, reggae, rocksteady and beyond. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/lloyd-musclehead-saxon/episodes/lloyd-musclehead-saxon-14th-february-2026"
       },
       {
         "n": "WE ARE... W/ PAUL CAMO",
@@ -243,26 +224,17 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "nts2": [
+      },
       {
-        "n": "Dollar Country - Valentines Special",
-        "s": "2026-02-14T00:00:00Z",
-        "e": "2026-02-14T01:00:00Z",
+        "n": "Sonosfera w/ QOA",
+        "s": "2026-02-15T09:00:00Z",
+        "e": "2026-02-15T10:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
-      {
-        "n": "Luis Alvarado: Lima Indie (1994-2005)",
-        "s": "2026-02-14T01:00:00Z",
-        "e": "2026-02-14T02:00:00Z",
-        "d": "Luis Alvarado is a record producer, curator, and independent researcher based in Lima, focused on art and sound, and experimental music. He is the director of the record label Buh Records, distinguished for its work in the historical archiving of avant-garde and experimental music from Peru and Latin America. Tune into his monthly residency here.\nFrom the host: \"More than a genre, indie was an ethic: recording with whatever was available, releasing independently, and operating outside established circuits. Between 1994 and 2005 in Lima, that mindset reshaped local rock, opening space for noise rock, indie pop, shoegaze, and a garage impulse.\"",
-        "j": "Lima Indie (1994-2005)",
-        "u": "https://www.nts.live/api/v2/shows/luis-alvarado/episodes/luis-alvarado-14th-february-2026",
-        "t": "monthly"
-      },
+      }
+    ],
+    "nts2": [
       {
         "n": "BORN FOR BURNING W/ PAINKILLER KIM",
         "s": "2026-02-14T02:00:00Z",
@@ -372,9 +344,10 @@
         "n": "150 session w/ Grace & Raffaella",
         "s": "2026-02-14T15:00:00Z",
         "e": "2026-02-14T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "“I start associating your voice with ….”, for a while ML has been part of the NTS community, jingling around, airing his monthly 150 Session out of Berlin’s North, where all seasons give reasons. For clarification, creation, inspiration. One hour of poetic and musical explorations, questions, and curiosities. Circling around daring electronics, ethno-sonics, jazz-constructivism, minimalism, open structured digital dopamine, risky dub excitement and other sounds, that still need to be written. No country, no flag – outernational without a cause!",
+        "j": "Grace & Raffaella",
+        "u": "https://www.nts.live/api/v2/shows/150session/episodes/150session-14th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "Panorama Yerevan - Armenian Love Songs",
@@ -513,26 +486,18 @@
         "u": null,
         "t": "restream",
         "p": "he4rtbroken"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Spaghetti Junction w/ Sartana",
-        "s": "2026-02-14T00:00:00Z",
-        "e": "2026-02-14T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
-        "n": "MANNRS",
-        "s": "2026-02-14T01:00:00Z",
-        "e": "2026-02-14T02:00:00Z",
+        "n": "KALI MALONE & DREW MCDOWALL (R)",
+        "s": "2026-02-15T11:00:00Z",
+        "e": "2026-02-15T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "mannrs"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Signal Flow ",
         "s": "2026-02-14T02:00:00Z",
@@ -1566,18 +1531,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Live & Direct w/ Hannah",
+        "s": "2026-02-21T13:00:00Z",
+        "e": "2026-02-21T14:00:00Z",
+        "d": "Live & Direct is the show that promises to make you dance and make you laugh, with your fave tunes that make you go 'Rahhh ain't hear this in time' and all the cheesy jokes from me, Hannah :) Lock in for the sickest guests and the most relatable stories about daily slips and hilarious situations I find myself in.",
+        "j": "Hannah",
+        "u": null,
+        "t": "monthly",
+        "p": "hannah"
+      },
+      {
+        "n": "DaiSu",
+        "s": "2026-02-21T14:00:00Z",
+        "e": "2026-02-21T15:00:00Z",
+        "d": "Bristol-born and London-based, Not Bad For A Girl resident DaiSu has been involved in the music scene since 2018 and has featured on stations such as Radio 1 Dance, BBC 6 Music and Melodic Distraction, as well as playing on line ups for Keep Hush, Skiddle and Red Bull. Her penchant for bass, breaks and 2-step has landed her gigs supporting acts such as Interplanetary Criminal, Main Phase, Craigie Knowes and Big Ang. In September 2022, her debut EP ‘Lightwork’ was released with Gather Records and was featured in DJ Mag's staff picks that same month. ",
+        "j": null,
+        "u": null,
+        "p": "daisu"
       }
     ],
     "dublab": [
-      {
-        "n": "Matt McDermott – En Plein Air",
-        "s": "2026-02-14T00:00:00Z",
-        "e": "2026-02-14T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "mattmcdermott"
-      },
       {
         "n": "Gum.mp3 - Black Audio Society",
         "s": "2026-02-14T02:00:00Z",
@@ -2140,24 +2115,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "George FitzGerald B2B Fold:",
-        "s": "2026-02-14T00:00:00Z",
-        "e": "2026-02-14T01:00:00Z",
-        "d": null,
-        "j": "Live From Rinse Summer Terrace Party (2025)",
-        "u": null,
-        "p": "fold"
-      },
-      {
-        "n": "ELOQ presents DJ SNEAKEE",
-        "s": "2026-02-14T01:00:00Z",
-        "e": "2026-02-14T02:00:00Z",
-        "d": null,
-        "j": "DEEP AND SNEAKEE",
-        "u": null,
-        "p": "eloq"
-      },
       {
         "n": "Maey",
         "s": "2026-02-14T02:00:00Z",
