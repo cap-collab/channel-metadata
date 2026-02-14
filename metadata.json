@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-14T06:34:22.852Z",
+  "updated": "2026-02-14T08:21:42.197Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MARTHA",
-        "s": "2026-02-13T18:00:00Z",
-        "e": "2026-02-13T19:00:00Z",
-        "d": "Martha is a DJ and broadcaster from South London with roots in community radio and documentary making. Each of Martha’s thoughtfully curated radio shows navigate the fringes of electronic music, with a clear narrative that is grounded in community and storytelling. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martha/episodes/martha-13th-february-2026",
-        "t": "monthly",
-        "p": "martha"
-      },
-      {
-        "n": "Nene H",
-        "s": "2026-02-13T19:00:00Z",
-        "e": "2026-02-13T20:00:00Z",
-        "d": "Special guest shows from around the world.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nene-h-13th-february-2026"
-      },
       {
         "n": "HOPPER1000 RADIO w/ Demifiend",
         "s": "2026-02-13T20:00:00Z",
@@ -124,18 +106,19 @@
         "n": "RAGA VIBRATIONS",
         "s": "2026-02-14T08:00:00Z",
         "e": "2026-02-14T10:00:00Z",
-        "d": null,
+        "d": "\"Raga Vibrations\" is a monthly selection of Indian music curated by Greg Davis.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/raga-vibrations/episodes/raga-vibrations-14th-february-2026",
+        "t": "monthly",
         "p": "ragavibrations"
       },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-02-14T10:00:00Z",
         "e": "2026-02-14T12:00:00Z",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": "MACCA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-14th-february-2026",
         "t": "biweekly",
         "p": "macca"
       },
@@ -258,25 +241,27 @@
         "u": null,
         "t": "restream",
         "p": "lungdart"
+      },
+      {
+        "n": "Blooming In Filth w/ CRISIS ACTING (R)",
+        "s": "2026-02-15T05:00:00Z",
+        "e": "2026-02-15T06:00:00Z",
+        "d": null,
+        "j": "CRISIS ACTING",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "YOSHIMIO (R)",
+        "s": "2026-02-15T06:00:00Z",
+        "e": "2026-02-15T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "world of pain w/ dagmar zuniga",
-        "s": "2026-02-13T18:00:00Z",
-        "e": "2026-02-13T19:00:00Z",
-        "d": "the meek shall inherit the girth",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dagmar-zuniga/episodes/dagmar-zuniga-13th-february-2026"
-      },
-      {
-        "n": "James Mcnew (YO LA TENGO)",
-        "s": "2026-02-13T19:00:00Z",
-        "e": "2026-02-13T20:00:00Z",
-        "d": "James McNew of Hoboken indie rock royalty Yo La Tengo shares an hour of picks from his collection each month..",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yo-la-tengo/episodes/yo-la-tengo-13th-february-2026"
-      },
       {
         "n": "Trinh - Lovelife",
         "s": "2026-02-13T20:00:00Z",
@@ -376,18 +361,18 @@
         "n": "Merzbow (R)",
         "s": "2026-02-14T08:00:00Z",
         "e": "2026-02-14T09:00:00Z",
-        "d": null,
+        "d": "The revered Japanese noise artist stops by for a regular NTS slot, playing some surprising selections from his diverse & deep record collection.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/merzbow/episodes/merzbow-20th-november-2024",
         "t": "restream"
       },
       {
         "n": "Enter The Portal (R)",
         "s": "2026-02-14T09:00:00Z",
         "e": "2026-02-14T10:00:00Z",
-        "d": null,
+        "d": "We have a very special guest mix by the one and only Keanu Nelson. For those not familiar with Keanu’s work, he's an artist based in Papanya, Northern Territory, Australia. His debut album was produced and recorded by Yuta Matsumura, who is behind such groups as The Lewers, Low Life & Orion. Keanu’s warm and very heart yearning lyrics are sung in both his native language and english, this paired with Yuta’s analogue-esqe beats and keys is a real angelic treat. I hope you enjoy some of Keanu’s favourite tracks that inspire him daily and a few of his gems from the debut album.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/enter-the-portal/episodes/enter-the-portal-12th-february-2025",
         "t": "restream"
       },
       {
@@ -511,27 +496,28 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "KIM LANA (R)",
+        "s": "2026-02-15T02:00:00Z",
+        "e": "2026-02-15T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "AUNTIE-ISM W/ SHABAZZ (R)",
+        "s": "2026-02-15T04:00:00Z",
+        "e": "2026-02-15T05:00:00Z",
+        "d": null,
+        "j": "SHABAZZ",
+        "u": null,
+        "t": "restream",
+        "p": "shabazz"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-02-13T18:00:00Z",
-        "e": "2026-02-13T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "SYNES",
-        "s": "2026-02-13T19:00:00Z",
-        "e": "2026-02-13T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "synes"
-      },
       {
         "n": "Pent.1",
         "s": "2026-02-13T20:00:00Z",
@@ -607,6 +593,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-14T09:00:00Z",
+        "e": "2026-02-14T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": " SCOPE__EM",
@@ -1577,16 +1572,6 @@
     ],
     "dublab": [
       {
-        "n": "Daddy Differently and Dirty Dave - Things of Life",
-        "s": "2026-02-13T18:00:00Z",
-        "e": "2026-02-13T20:00:00Z",
-        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
-        "j": "Things of Life",
-        "u": null,
-        "t": "biweekly",
-        "p": "daddy"
-      },
-      {
         "n": "Xica Soul - SoundProof",
         "s": "2026-02-13T20:00:00Z",
         "e": "2026-02-13T22:00:00Z",
@@ -2163,18 +2148,18 @@
         "j": null,
         "u": null,
         "p": "chrisbowen"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-21T08:00:00Z",
+        "e": "2026-02-21T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Heras Records",
-        "s": "2026-02-13T18:00:00Z",
-        "e": "2026-02-13T20:00:00Z",
-        "d": null,
-        "j": "Klose One",
-        "u": null,
-        "p": "herasrecords"
-      },
       {
         "n": "p-rallel with Cottam",
         "s": "2026-02-13T20:00:00Z",
@@ -2491,23 +2476,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Public System Recordings",
-        "s": "2026-02-13T18:00:00Z",
-        "e": "2026-02-13T19:00:00Z",
-        "d": null,
-        "j": "MYN invite MARKUS B2B MICHAEL MAGNAN",
-        "u": null,
-        "p": "publicsystemrecordings"
-      },
-      {
-        "n": "imo",
-        "s": "2026-02-13T19:00:00Z",
-        "e": "2026-02-13T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2026-02-13T20:00:00Z",
         "e": "2026-02-14T08:00:00Z",
@@ -2519,6 +2487,15 @@
       {
         "n": "Playlist France",
         "s": "2026-02-14T08:00:00Z",
+        "e": "2026-02-14T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-14T11:00:00Z",
         "e": "2026-02-14T13:00:00Z",
         "d": null,
         "j": null,
@@ -2526,17 +2503,92 @@
         "t": "playlist"
       },
       {
-        "n": "Wes Lee",
+        "n": "Whitney Weiss",
         "s": "2026-02-14T13:00:00Z",
-        "e": "2026-02-14T14:00:00Z",
+        "e": "2026-02-14T15:00:00Z",
+        "d": null,
+        "j": "It's Whitney, Bitch with Dirty Daddy Don",
+        "u": null,
+        "t": "monthly",
+        "p": "daddy"
+      },
+      {
+        "n": "Mystique",
+        "s": "2026-02-14T15:00:00Z",
+        "e": "2026-02-14T16:00:00Z",
+        "d": null,
+        "j": "CHOUFOU L'AMOUR MADAR FIYA: ♡ RITA L'OUJDIA & MYSTIQUE ♡",
+        "u": null,
+        "t": "monthly",
+        "p": "mystique"
+      },
+      {
+        "n": "Otto Diva",
+        "s": "2026-02-14T16:00:00Z",
+        "e": "2026-02-14T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "diva"
+      },
+      {
+        "n": "Curses",
+        "s": "2026-02-14T17:00:00Z",
+        "e": "2026-02-14T18:00:00Z",
+        "d": null,
+        "j": "TOGETHER ALONE avec Yas Reven",
+        "u": null,
+        "p": "curses"
+      },
+      {
+        "n": "Public System Recordings",
+        "s": "2026-02-14T18:00:00Z",
+        "e": "2026-02-14T19:00:00Z",
+        "d": null,
+        "j": "MYN invite MARKUS B2B MICHAEL MAGNAN",
+        "u": null,
+        "t": "monthly",
+        "p": "publicsystemrecordings"
+      },
+      {
+        "n": "imo",
+        "s": "2026-02-14T19:00:00Z",
+        "e": "2026-02-14T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-14T20:00:00Z",
+        "e": "2026-02-15T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-15T08:00:00Z",
+        "e": "2026-02-15T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Wes Lee",
+        "s": "2026-02-15T13:00:00Z",
+        "e": "2026-02-15T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Blokys",
-        "s": "2026-02-14T14:00:00Z",
-        "e": "2026-02-14T15:00:00Z",
+        "s": "2026-02-15T14:00:00Z",
+        "e": "2026-02-15T15:00:00Z",
         "d": null,
         "j": "invite U SEE THE STEAM",
         "u": null,
@@ -2545,8 +2597,8 @@
       },
       {
         "n": "Promesses",
-        "s": "2026-02-14T15:00:00Z",
-        "e": "2026-02-14T17:00:00Z",
+        "s": "2026-02-15T15:00:00Z",
+        "e": "2026-02-15T17:00:00Z",
         "d": null,
         "j": "invite encore une autre",
         "u": null,
@@ -2554,8 +2606,8 @@
       },
       {
         "n": "Jokkoo Collective",
-        "s": "2026-02-14T17:00:00Z",
-        "e": "2026-02-14T18:00:00Z",
+        "s": "2026-02-15T17:00:00Z",
+        "e": "2026-02-15T18:00:00Z",
         "d": null,
         "j": "guest mix fks",
         "u": null,
@@ -2563,8 +2615,8 @@
       },
       {
         "n": "MUTEK",
-        "s": "2026-02-14T18:00:00Z",
-        "e": "2026-02-14T19:00:00Z",
+        "s": "2026-02-15T18:00:00Z",
+        "e": "2026-02-15T19:00:00Z",
         "d": null,
         "j": "invite TUSH",
         "u": null,
@@ -2572,17 +2624,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-14T19:00:00Z",
-        "e": "2026-02-14T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-02-14T20:00:00Z",
-        "e": "2026-02-14T21:00:00Z",
+        "s": "2026-02-15T19:00:00Z",
+        "e": "2026-02-15T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
