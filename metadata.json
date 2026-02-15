@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-15T08:23:06.638Z",
+  "updated": "2026-02-15T10:17:53.492Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Proc Fiskal: UK ORK",
-        "s": "2026-02-14T20:00:00Z",
-        "e": "2026-02-14T21:00:00Z",
-        "d": "Ahead of the release of new EP, boundary pushing Hyperdub-signed producer Proc Fiskal shares an hour of inspirations behind the new music. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/proc-fiskal-uk-ork-14th-february-2026"
-      },
-      {
-        "n": "LIVE FROM THE 108 W/ ONRA (R)",
-        "s": "2026-02-14T21:00:00Z",
-        "e": "2026-02-14T22:00:00Z",
-        "d": "Eclectic record selections and guest chats with Parisian crate digger, producer, & DJ Onra. ",
-        "j": "ONRA",
-        "u": "https://www.nts.live/api/v2/shows/live-from-the-108-w-onra/episodes/live-from-the-108-w-onra-11th-march-2024",
-        "t": "restream"
-      },
       {
         "n": "ANGEL BAT DAWID",
         "s": "2026-02-14T22:00:00Z",
@@ -124,17 +107,17 @@
         "n": "LAUNETTE'S HOUR",
         "s": "2026-02-15T10:00:00Z",
         "e": "2026-02-15T12:00:00Z",
-        "d": null,
+        "d": "Up with the Lark! Launette takes time out from her day job as a chocolatier to play from her treasured vinyl collection. She will also be joined from time to time by carefully chosen guests. Happy Sunday.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/launette/episodes/launette-15th-february-2026"
       },
       {
         "n": "HOUSE CALL",
         "s": "2026-02-15T12:00:00Z",
         "e": "2026-02-15T13:00:00Z",
-        "d": null,
+        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-15th-february-2026",
         "t": "monthly"
       },
       {
@@ -180,7 +163,7 @@
         "u": null
       },
       {
-        "n": "DEATH IS NOT THE END",
+        "n": "Death Is Not The End - World Tango",
         "s": "2026-02-15T22:00:00Z",
         "e": "2026-02-16T00:00:00Z",
         "d": null,
@@ -249,28 +232,37 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-02-16T09:00:00Z",
+        "e": "2026-02-16T11:00:00Z",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "weekly",
+        "p": "flo"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-02-16T11:00:00Z",
+        "e": "2026-02-16T13:00:00Z",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "GOD'S WAITING ROOM W/ DAVID HOLMES",
+        "s": "2026-02-16T13:00:00Z",
+        "e": "2026-02-16T15:00:00Z",
+        "d": null,
+        "j": "DAVID HOLMES",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE (R)",
-        "s": "2026-02-14T20:00:00Z",
-        "e": "2026-02-14T21:00:00Z",
-        "d": "Lagos based collector and DJ Temi Kogbe traces connections in African popular culture through vinyl. ",
-        "j": "TEMI KOGBE",
-        "u": "https://www.nts.live/api/v2/shows/temi-kogbe/episodes/temi-kogbe-15th-september-2024",
-        "t": "restream",
-        "p": "temikogbe"
-      },
-      {
-        "n": "JANA RUSH",
-        "s": "2026-02-14T21:00:00Z",
-        "e": "2026-02-14T22:00:00Z",
-        "d": "High speed electronics and dance soundtracks from the Chicago footwork auteur.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jana-rush/episodes/jana-rush-14th-february-2026",
-        "p": "janarush"
-      },
       {
         "n": "IN FOCUS: SOURCE DIRECT (R)",
         "s": "2026-02-14T22:00:00Z",
@@ -350,9 +342,9 @@
         "n": "HE4RTBROKEN - CLASSICAL MUSIC SPECIAL (R)",
         "s": "2026-02-15T10:00:00Z",
         "e": "2026-02-15T11:00:00Z",
-        "d": null,
+        "d": "Get in your feelings with Brussels party starters HE4RTBROKEN - the beloved Belgian collective that aren't scared of a few tears on the dance floor. Resident djs Liyo, Steff, Munix and ssaliva explore the full range of cathartic music listening together with some kindred-spirited emotive guests.",
         "j": "CLASSICAL MUSIC SPECIAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hea4rtbroken/episodes/hea4rtbroken-14th-march-2024",
         "t": "restream",
         "p": "he4rtbroken"
       },
@@ -360,9 +352,9 @@
         "n": "KALI MALONE & DREW MCDOWALL (R)",
         "s": "2026-02-15T11:00:00Z",
         "e": "2026-02-15T13:00:00Z",
-        "d": null,
+        "d": "Kali Malone & Drew McDowall share a two-hour mix for NTS in celebration of their new album Magnetism, out November 7 on Ideologic Organ. The selection drifts through drone, minimalism, ambient, electroacoustic, folk, and sacred music, featuring many friends and collaborators whose work continues to shape and inspire them. The first half features Kali’s selections, with Drew taking over in the second.\nPicture: Manon Clavelier",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kali-malone/episodes/kali-malone-kali-malone-drew-mcdowall-3rd-november-2025",
         "t": "restream"
       },
       {
@@ -496,17 +488,27 @@
         "j": "INDIAN CLASSICAL INFLUENCE ON JAZZ",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "SOUNDS ON SCREEN: G. ARAVINDAN (R)",
+        "s": "2026-02-16T08:05:00Z",
+        "e": "2026-02-16T09:00:00Z",
+        "d": null,
+        "j": "G. ARAVINDAN",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "RŌNIN SHUTSUGEN W/ SLOWERPACE 音楽 (R)",
+        "s": "2026-02-16T09:00:00Z",
+        "e": "2026-02-16T10:00:00Z",
+        "d": null,
+        "j": "SLOWERPACE 音楽",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Kimber & Kid Kun",
-        "s": "2026-02-14T20:00:00Z",
-        "e": "2026-02-14T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "BRINK",
         "s": "2026-02-14T22:00:00Z",
@@ -565,6 +567,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-15T10:00:00Z",
+        "e": "2026-02-15T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "tabs",
@@ -1567,27 +1578,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Housewife (UK)",
+        "s": "2026-02-22T10:00:00Z",
+        "e": "2026-02-22T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-14T20:00:00Z",
-        "e": "2026-02-14T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Nia Michelle, Jordan Collins, Lewis Thompson – Channels",
-        "s": "2026-02-14T21:00:00Z",
-        "e": "2026-02-14T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "jordancollins"
-      },
       {
         "n": "D Tiberio - Patterns of Lorena",
         "s": "2026-02-14T22:00:00Z",
@@ -1644,6 +1645,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-15T10:00:00Z",
         "e": "2026-02-15T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-15T12:00:00Z",
+        "e": "2026-02-15T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2124,15 +2134,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "KETTAMA with X. CLUB",
-        "s": "2026-02-14T20:00:00Z",
-        "e": "2026-02-14T22:00:00Z",
-        "d": null,
-        "j": "From The Vault (2020)",
-        "u": null,
-        "p": "kettama"
-      },
       {
         "n": "CONDUCTA",
         "s": "2026-02-14T22:00:00Z",
