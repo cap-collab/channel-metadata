@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-15T16:19:02.275Z",
+  "updated": "2026-02-15T18:23:37.069Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUNG DART (R)",
-        "s": "2026-02-15T04:00:00Z",
-        "e": "2026-02-15T05:00:00Z",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-1st-january-2024",
-        "t": "restream",
-        "p": "lungdart"
-      },
-      {
-        "n": "Blooming In Filth w/ CRISIS ACTING (R)",
-        "s": "2026-02-15T05:00:00Z",
-        "e": "2026-02-15T06:00:00Z",
-        "d": "Monthly transmissions from the eclectic world of CRISIS ACTING.",
-        "j": "CRISIS ACTING",
-        "u": "https://www.nts.live/api/v2/shows/crisis-acting/episodes/crisis-acting-26th-june-2024",
-        "t": "restream",
-        "p": "crisisacting"
-      },
       {
         "n": "YOSHIMIO (R)",
         "s": "2026-02-15T06:00:00Z",
@@ -104,18 +84,19 @@
         "n": "LUPINI W/ CHRISSY CONNOR",
         "s": "2026-02-15T18:00:00Z",
         "e": "2026-02-15T20:00:00Z",
-        "d": null,
+        "d": "A little bit sweet, a little bit sad, a little bit silly - Chrissy Connor covers Lupini this month, keeping things horizontal as usual.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-15th-february-2026",
         "p": "chrissy"
       },
       {
         "n": "AD 93 w/ Ben Vince",
         "s": "2026-02-15T20:00:00Z",
         "e": "2026-02-15T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests.\nOld 88 Transition shows available on the archive.",
+        "j": "Ben Vince",
+        "u": "https://www.nts.live/api/v2/shows/whities-w-tasker/episodes/whities-w-tasker-15th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "Death Is Not The End - World Tango",
@@ -241,28 +222,25 @@
         "j": "COCO MARIA",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "CALM ROOTS W/ ALEX RITA",
+        "s": "2026-02-16T20:00:00Z",
+        "e": "2026-02-16T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LEE GAMBLE",
+        "s": "2026-02-16T22:00:00Z",
+        "e": "2026-02-16T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "AUNTIE-ISM W/ SHABAZZ (R)",
-        "s": "2026-02-15T04:00:00Z",
-        "e": "2026-02-15T05:00:00Z",
-        "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.",
-        "j": "SHABAZZ",
-        "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-26th-march-2025",
-        "t": "restream",
-        "p": "shabazz"
-      },
-      {
-        "n": "EDDIE FICTION (R)",
-        "s": "2026-02-15T05:00:00Z",
-        "e": "2026-02-15T06:00:00Z",
-        "d": "Musical peregrinations…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/its-nation-time/episodes/its-nation-time-7th-november-2022",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: AMERICANS IN EUROPE - JAZZ LIVE PERFORMANCES IN EUROPE (R)",
         "s": "2026-02-15T06:00:00Z",
@@ -352,18 +330,18 @@
         "n": "IN FOCUS: QUINCY JONES (R)",
         "s": "2026-02-15T18:00:00Z",
         "e": "2026-02-15T20:00:00Z",
-        "d": null,
+        "d": "Music wouldn't sound the same today without Quincy Jones. \nRising up from poverty, Jones spent his early musical career playing trumpet with big band swing legend Count Basie, and worked as a young arranger for jazz greats like Duke Ellington and Dizzy Gillespie. He went on to learn classical composition in Paris under Nadia Boulanger, whilst living across the street from Picasso.\nJones became one of the first ever Black music executives signed to a US record label, and over the course of his career, his vision for transmuting musical talent into enormous pop successes earned him a staggering 28 Grammys, with collaborations spanning icons like Ray Charles, Frank Sinatra, and Aretha Franklin, shaping the sounds of jazz, pop, soul, and film.\nTune in for two hours paying tribute to his recent passing, compiled by Jean-Claude Thompson (IF Music).",
         "j": "QUINCY JONES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-quincy-jones-15th-november-2024",
         "t": "restream"
       },
       {
         "n": "CLAIRE MILBRATH - COUNTRY SPECIAL (R)",
         "s": "2026-02-15T20:00:00Z",
         "e": "2026-02-15T21:00:00Z",
-        "d": null,
+        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
         "j": "COUNTRY SPECIAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-8th-february-2024",
         "t": "restream"
       },
       {
@@ -490,6 +468,22 @@
         "n": "SKPNTS188 - SKYAPNEA w/ Mika Oki",
         "s": "2026-02-16T12:00:00Z",
         "e": "2026-02-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Mala Junta w/ DHC",
+        "s": "2026-02-16T15:00:00Z",
+        "e": "2026-02-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Asep Nayak",
+        "s": "2026-02-16T16:00:00Z",
+        "e": "2026-02-16T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1564,17 +1558,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "2Step Selects ",
+        "s": "2026-02-22T17:00:00Z",
+        "e": "2026-02-22T19:00:00Z",
+        "d": "2Step Selects is a monthly show hosted by the Choki Biki Records crew. Founded in Dublin, Ireland, CBR consists of DJ Sharpson, 2step.png, Frame Shift, and MICK. The show consists of an all round breaks, electro, ukg and jungle hour, followed by an Irish showcase, demonstrating all the best Ireland has to offer collective/party/Dj & Producer wise!",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "BLACK LOVE: Mona Lisa",
-        "s": "2026-02-15T04:00:00Z",
-        "e": "2026-02-15T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Daedelus - Entropy Sessions",
         "s": "2026-02-15T06:00:00Z",
@@ -1637,6 +1632,15 @@
         "u": null,
         "t": "biweekly",
         "p": "kennethbager"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-15T18:00:00Z",
+        "e": "2026-02-15T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Barbarelle - Atlas",
@@ -2100,18 +2104,28 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Electronic Playlist",
-        "s": "2026-02-15T03:00:00Z",
-        "e": "2026-02-15T06:00:00Z",
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-02-22T17:00:00Z",
+        "e": "2026-02-22T18:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "biweekly",
+        "p": "kennethbager"
+      },
+      {
+        "n": "Thomas Klepper - Library of Sounds",
+        "s": "2026-02-22T18:00:00Z",
+        "e": "2026-02-22T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "thomasklepper"
+      }
+    ],
+    "rinse": [
       {
         "n": "UNFOLD",
         "s": "2026-02-15T06:00:00Z",
@@ -2296,12 +2310,22 @@
       {
         "n": "Niall Smith",
         "s": "2026-02-16T12:00:00Z",
-        "e": "2026-02-16T14:00:00Z",
+        "e": "2026-02-16T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
         "p": "niallsmith"
+      },
+      {
+        "n": "Nakeira",
+        "s": "2026-02-16T13:00:00Z",
+        "e": "2026-02-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "nakeira"
       },
       {
         "n": "Tommy Gold",
