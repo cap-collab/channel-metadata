@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-16T18:32:01.826Z",
+  "updated": "2026-02-16T20:20:42.104Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FINE (R)",
-        "s": "2026-02-16T06:00:00Z",
-        "e": "2026-02-16T07:00:00Z",
-        "d": "Sonic diaries from Fine…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-18th-september-2025",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ BRADEN WELLS",
         "s": "2026-02-16T07:00:00Z",
@@ -27,7 +18,6 @@
         "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
         "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-16th-february-2026",
-        "t": "weekly",
         "p": "flo"
       },
       {
@@ -36,8 +26,7 @@
         "e": "2026-02-16T13:00:00Z",
         "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
         "j": "John Gómez",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-16th-february-2026",
-        "t": "monthly"
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-16th-february-2026"
       },
       {
         "n": "GOD'S WAITING ROOM W/ DAVID HOLMES",
@@ -46,7 +35,6 @@
         "d": "God's Waiting Room: a round-about selection of the cinematic, library music, rock 'n' roll, psych, experimental, unclassifiable and independent. From the mind of DJ, producer and creator of original soundtracks, David Holmes. ",
         "j": "DAVID HOLMES",
         "u": "https://www.nts.live/api/v2/shows/david-holmes/episodes/david-holmes-16th-february-2026",
-        "t": "monthly",
         "p": "davidholmes"
       },
       {
@@ -74,7 +62,6 @@
         "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
         "j": "COCO MARIA",
         "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-16th-february-2026",
-        "t": "biweekly",
         "p": "cocomaria"
       },
       {
@@ -90,9 +77,10 @@
         "n": "LEE GAMBLE",
         "s": "2026-02-16T22:00:00Z",
         "e": "2026-02-16T23:00:00Z",
-        "d": null,
+        "d": "Artist, producer, label owner and DJ Lee Gamble bringing an oneiric bi-monthly show of current sound and music from his hallucinated musical continuum. Expect anything from Drill to Dream pop, Conceptual Sound and Jazz to bleached out rave memories.. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lee-gamble/episodes/lee-gamble-16th-february-2026",
+        "t": "monthly",
         "p": "leegamble"
       },
       {
@@ -172,9 +160,8 @@
         "s": "2026-02-17T09:00:00Z",
         "e": "2026-02-17T11:00:00Z",
         "d": null,
-        "j": "FLO",
+        "j": null,
         "u": null,
-        "t": "weekly",
         "p": "flo"
       },
       {
@@ -199,9 +186,8 @@
         "s": "2026-02-17T15:00:00Z",
         "e": "2026-02-17T16:00:00Z",
         "d": null,
-        "j": "Margeaux",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "margeaux"
       },
       {
@@ -227,18 +213,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Pochola",
+        "s": "2026-02-17T21:00:00Z",
+        "e": "2026-02-17T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NTS GUIDE TO: INDIAN CLASSICAL INFLUENCE ON JAZZ (R)",
-        "s": "2026-02-16T06:00:00Z",
-        "e": "2026-02-16T08:05:00Z",
-        "d": "In the mid-1950s musicians such as Yusuf Lateef and John Coltrane started to use instruments, structure and patterns based on traditional Indian music.  Artists sought to expand the boundaries of jazz by incorporating the modal structures, improvisational depth, and spiritual ethos of Indian music. Listen to two hours of Jazz inspired by Indian Classical.",
-        "j": "INDIAN CLASSICAL INFLUENCE ON JAZZ",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-indian-classical-influence-on-jazz-26th-may-2025",
-        "t": "restream"
-      },
       {
         "n": "SOUNDS ON SCREEN: G. ARAVINDAN (R)",
         "s": "2026-02-16T08:05:00Z",
@@ -341,17 +326,19 @@
         "n": "Get Grimy w/ Jamie 3:26",
         "s": "2026-02-16T20:00:00Z",
         "e": "2026-02-16T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Head of Grimy Edits, Zernell Gillie's style can range from the heart of disco to the soul of Chicago house - he heads up a 2 hour slot once a month from our LA studio. ",
+        "j": "Jamie 3",
+        "u": "https://www.nts.live/api/v2/shows/zernell/episodes/zernell-16th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE",
         "s": "2026-02-16T22:00:00Z",
         "e": "2026-02-16T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Former frontwoman of rock outfit Dum Dum Girls eschews the pseudonym with her new solo project, Kristin Kontrol. Newly relocated to LA, Kristin delivers a monthly mix of expansive and hypnotic sounds: one part Durutti Column to two parts Alice Coltrane.\nFrom the host: \"gentle luvin\"",
+        "j": "OUT OF VOGUE",
+        "u": "https://www.nts.live/api/v2/shows/kristin-kontrol/episodes/kristin-kontrol-16th-february-2026",
+        "t": "monthly",
         "p": "kristinkontrol"
       },
       {
@@ -377,8 +364,7 @@
         "e": "2026-02-17T02:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "honey"
+        "u": null
       },
       {
         "n": "Total Stasis w/ Alex Ho",
@@ -475,26 +461,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Matthew Mas",
-        "s": "2026-02-16T06:00:00Z",
-        "e": "2026-02-16T07:00:00Z",
+        "n": "Pasta Kebab",
+        "s": "2026-02-17T13:00:00Z",
+        "e": "2026-02-17T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Subtle Selects",
-        "s": "2026-02-16T07:00:00Z",
-        "e": "2026-02-16T08:00:00Z",
+        "n": "LORAINE JAMES",
+        "s": "2026-02-17T14:00:00Z",
+        "e": "2026-02-17T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "playlist"
-      },
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Liquid Daybreak",
         "s": "2026-02-16T08:00:00Z",
@@ -628,8 +613,7 @@
         "e": "2026-02-17T02:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Refractions Radio",
@@ -698,7 +682,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "drisk"
       },
       {
@@ -977,9 +960,8 @@
         "s": "2026-02-19T10:00:00Z",
         "e": "2026-02-19T11:00:00Z",
         "d": null,
-        "j": "Su",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Housekeeping",
@@ -1169,7 +1151,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "machinewoman"
       },
       {
@@ -1254,9 +1235,8 @@
         "s": "2026-02-21T13:00:00Z",
         "e": "2026-02-21T14:00:00Z",
         "d": "Live & Direct is the show that promises to make you dance and make you laugh, with your fave tunes that make you go 'Rahhh ain't hear this in time' and all the cheesy jokes from me, Hannah :) Lock in for the sickest guests and the most relatable stories about daily slips and hilarious situations I find myself in.",
-        "j": "Hannah",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "hannah"
       },
       {
@@ -1275,7 +1255,6 @@
         "d": "Vinyl DJ from Leigh-on-Sea. Loves collecting records with a wide array of taste ranging from House and Techno to Grime, Dubstep and Jungle. Garage holds a special place in his heart and makes up the largest part of my collection and DJ sets. ",
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "admund"
       },
       {
@@ -1527,8 +1506,7 @@
         "e": "2026-02-23T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Familiar Scenes w/ Garth",
@@ -1556,18 +1534,27 @@
         "j": null,
         "u": null,
         "p": "grigio"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Jess Fu - APEX",
-        "s": "2026-02-16T06:00:00Z",
-        "e": "2026-02-16T08:00:00Z",
+        "n": "Deadly Unserious",
+        "s": "2026-02-23T19:00:00Z",
+        "e": "2026-02-23T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "jessfu"
+        "p": "deadlyunserious"
       },
+      {
+        "n": "Scandal Sounds",
+        "s": "2026-02-23T20:00:00Z",
+        "e": "2026-02-23T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "scandalsounds"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-02-16T08:00:00Z",
@@ -1620,7 +1607,7 @@
         "d": null,
         "j": "Viva! Talks",
         "u": null,
-        "t": "biweekly",
+        "t": "weekly",
         "p": "renecontreras"
       },
       {
@@ -1708,7 +1695,7 @@
         "d": null,
         "j": "Version Sounds",
         "u": null,
-        "t": "biweekly",
+        "t": "weekly",
         "p": "hoseh"
       },
       {
@@ -1727,17 +1714,17 @@
         "d": null,
         "j": "Optical Track",
         "u": null,
-        "t": "biweekly",
+        "t": "weekly",
         "p": "echoparkfilmcenter"
       },
       {
-        "n": "Chris Ziegler - One Reporter's Opinion",
+        "n": "BHM: Addae",
         "s": "2026-02-18T06:00:00Z",
         "e": "2026-02-18T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "chrisziegler"
+        "p": "addae"
       },
       {
         "n": "Teen Daze - Easy Listening",
@@ -1816,7 +1803,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "weekly"
       },
       {
         "n": "Jimmy Tamborello - Dying Songs",
@@ -1825,7 +1812,7 @@
         "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
         "j": "Dying Songs",
         "u": null,
-        "t": "biweekly",
+        "t": "weekly",
         "p": "jimmytamborello"
       },
       {
@@ -1869,7 +1856,7 @@
         "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
         "j": "Things of Life",
         "u": null,
-        "t": "biweekly",
+        "t": "weekly",
         "p": "daddy"
       },
       {
@@ -1906,7 +1893,7 @@
         "d": null,
         "j": "45 live",
         "u": null,
-        "t": "monthly",
+        "t": "weekly",
         "p": "45live"
       },
       {
@@ -2021,7 +2008,7 @@
         "d": null,
         "j": "Music for Dreams",
         "u": null,
-        "t": "biweekly",
+        "t": "weekly",
         "p": "kennethbager"
       },
       {
@@ -2075,21 +2062,20 @@
         "d": null,
         "j": "Viva! Talks",
         "u": null,
-        "t": "biweekly",
+        "t": "weekly",
         "p": "renecontreras"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Paradise",
-        "s": "2026-02-16T06:00:00Z",
-        "e": "2026-02-16T07:00:00Z",
+        "n": "Domenic Priore - '66 Sunset Strip",
+        "s": "2026-02-23T20:00:00Z",
+        "e": "2026-02-23T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "paradise"
-      },
+        "p": "domenicpriore"
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-02-16T07:00:00Z",
@@ -2105,8 +2091,7 @@
         "e": "2026-02-16T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "weekly"
+        "u": null
       },
       {
         "n": "Donsurf",
@@ -2115,7 +2100,6 @@
         "d": null,
         "j": "& Jimmy Smith",
         "u": null,
-        "t": "biweekly",
         "p": "donsurf"
       },
       {
@@ -2134,7 +2118,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "nakeira"
       },
       {
@@ -2144,7 +2127,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "tommygold"
       },
       {
@@ -2153,8 +2135,7 @@
         "e": "2026-02-16T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "weekly"
+        "u": null
       },
       {
         "n": "Talina",
@@ -2163,7 +2144,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
         "p": "talina"
       },
       {
@@ -2173,7 +2153,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "dyslecta"
       },
       {
@@ -2183,7 +2162,6 @@
         "d": null,
         "j": "100% Production Mix",
         "u": null,
-        "t": "biweekly",
         "p": "amaliah"
       },
       {
@@ -2193,7 +2171,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "hessleaudio"
       },
       {
@@ -2203,7 +2180,6 @@
         "d": null,
         "j": "Live from Open Ground",
         "u": null,
-        "t": "monthly",
         "p": "tasha"
       },
       {
@@ -2213,7 +2189,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "bluetoof"
       },
       {
@@ -2232,7 +2207,6 @@
         "d": null,
         "j": "Trailcam",
         "u": null,
-        "t": "monthly",
         "p": "loris"
       },
       {
@@ -2241,8 +2215,7 @@
         "e": "2026-02-17T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
         "n": "Electronic Playlist",
@@ -2260,7 +2233,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "freshta"
       },
       {
@@ -2278,8 +2250,7 @@
         "e": "2026-02-17T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
         "n": "Cara Crosby",
@@ -2287,8 +2258,7 @@
         "e": "2026-02-17T12:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Ed Gillett",
@@ -2313,7 +2283,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "manueldarquart"
       },
       {
@@ -2323,7 +2292,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
         "p": "brighterdaysfamily"
       },
       {
@@ -2333,7 +2301,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
         "p": "talina"
       },
       {
@@ -2343,7 +2310,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "papanugs"
       },
       {
@@ -2362,7 +2328,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "lala"
       },
       {
@@ -2372,7 +2337,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "surusinghe"
       },
       {
@@ -2385,15 +2349,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-02-15T23:00:00Z",
-        "e": "2026-02-16T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-02-16T08:00:00Z",
@@ -2427,7 +2382,6 @@
         "d": null,
         "j": "Afraa : Japanese Ambient Special avec Kiala Ogawa",
         "u": null,
-        "t": "monthly",
         "p": "kialaogawa"
       },
       {
@@ -2455,7 +2409,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "pot"
       },
       {
@@ -2465,7 +2418,6 @@
         "d": null,
         "j": "invite Kendal",
         "u": null,
-        "t": "monthly",
         "p": "belaria"
       },
       {
@@ -2474,8 +2426,7 @@
         "e": "2026-02-16T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Playlist France",
