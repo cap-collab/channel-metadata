@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-16T04:15:30.531Z",
+  "updated": "2026-02-16T06:54:03.202Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SUNDAY CLUB w/ FINN",
-        "s": "2026-02-15T15:00:00Z",
-        "e": "2026-02-15T17:00:00Z",
-        "d": "Dance music with bad feelings; a special Dismal Sunday with Finn.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sunday-club/episodes/sunday-club-15th-february-2026",
-        "p": "finn"
-      },
-      {
-        "n": "A Month of Sundays w/ Yumi",
-        "s": "2026-02-15T17:00:00Z",
-        "e": "2026-02-15T18:00:00Z",
-        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-15th-february-2026"
-      },
       {
         "n": "LUPINI W/ CHRISSY CONNOR",
         "s": "2026-02-15T18:00:00Z",
@@ -105,9 +88,9 @@
         "n": "THE EARLY BIRD SHOW W/ BRADEN WELLS",
         "s": "2026-02-16T07:00:00Z",
         "e": "2026-02-16T09:00:00Z",
-        "d": null,
+        "d": "Introducing The Early Bird Show - our radio offering for morning people, hosted by Maria Somerville (Mondays and Tuesdays), Spirit Blue (Wednesdays and Thursdays) and Jack Rollo (Fridays). Weekday mornings, 7-9am.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-braden-wells-16th-february-2026"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -247,29 +230,17 @@
         "u": null,
         "t": "restream",
         "p": "coldpizza"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ BRADEN WELLS",
+        "s": "2026-02-17T07:00:00Z",
+        "e": "2026-02-17T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "CROSSED WIRES W/ AMANDA SIEGEL (R)",
-        "s": "2026-02-15T16:00:00Z",
-        "e": "2026-02-15T17:00:00Z",
-        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.",
-        "j": "AMANDA SIEGEL",
-        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-8th-august-2025",
-        "t": "restream",
-        "p": "amandasiegel"
-      },
-      {
-        "n": "BAYU & MOOPIE: I WON'T HAVE TO THINK ABOUT YOU (R)",
-        "s": "2026-02-15T17:00:00Z",
-        "e": "2026-02-15T18:00:00Z",
-        "d": "Bayu & Moopie Present I Won't Have To Think About You, a mix of 80's Aussie and Kiwi wave/indie/synth.",
-        "j": "I WON'T HAVE TO THINK ABOUT YOU",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/moopie-and-bayu-24th-november-2017",
-        "t": "restream",
-        "p": "moopie"
-      },
       {
         "n": "IN FOCUS: QUINCY JONES (R)",
         "s": "2026-02-15T18:00:00Z",
@@ -369,18 +340,18 @@
         "n": "NTS GUIDE TO: INDIAN CLASSICAL INFLUENCE ON JAZZ (R)",
         "s": "2026-02-16T06:00:00Z",
         "e": "2026-02-16T08:05:00Z",
-        "d": null,
+        "d": "In the mid-1950s musicians such as Yusuf Lateef and John Coltrane started to use instruments, structure and patterns based on traditional Indian music.  Artists sought to expand the boundaries of jazz by incorporating the modal structures, improvisational depth, and spiritual ethos of Indian music. Listen to two hours of Jazz inspired by Indian Classical.",
         "j": "INDIAN CLASSICAL INFLUENCE ON JAZZ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-indian-classical-influence-on-jazz-26th-may-2025",
         "t": "restream"
       },
       {
         "n": "SOUNDS ON SCREEN: G. ARAVINDAN (R)",
         "s": "2026-02-16T08:05:00Z",
         "e": "2026-02-16T09:00:00Z",
-        "d": null,
+        "d": "Julien Dechery and David Pinhas set out to capture the meditative beauty and poetry of Malayalam filmmaker Aravindan Govindan’s craft, exploring his film scores and sound design.\nFeaturing music by Aravindan Govindan himself, along with Hariprasad Chaurasia, Salil Chowdhury, Rajeev Taranath, K. Raghavan, M.B. Sreenivasan, Janardhan, M.G. Radhakrishnan, G. Devarajan, Mohan Sithra, and K.J. Yesudas.",
         "j": "G. ARAVINDAN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-g-aravindan-4th-march-2025",
         "t": "restream"
       },
       {
@@ -501,17 +472,25 @@
         "j": null,
         "u": null,
         "p": "honey"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Dorian Day",
-        "s": "2026-02-15T16:00:00Z",
-        "e": "2026-02-15T17:00:00Z",
+        "n": "Total Stasis",
+        "s": "2026-02-17T02:00:00Z",
+        "e": "2026-02-17T03:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "DELIVERY PRESENTS: HAAN",
+        "s": "2026-02-17T03:00:00Z",
+        "e": "2026-02-17T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "SETTINGS",
         "s": "2026-02-15T17:00:00Z",
@@ -616,6 +595,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-16T07:00:00Z",
+        "e": "2026-02-16T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Liquid Daybreak",
@@ -1593,25 +1581,6 @@
     ],
     "dublab": [
       {
-        "n": "djjs 2",
-        "s": "2026-02-15T15:00:00Z",
-        "e": "2026-02-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-02-15T17:00:00Z",
-        "e": "2026-02-15T18:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "biweekly",
-        "p": "kennethbager"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-02-15T18:00:00Z",
         "e": "2026-02-15T20:00:00Z",
@@ -1671,6 +1640,15 @@
         "j": null,
         "u": null,
         "p": "jessfu"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-16T08:00:00Z",
+        "e": "2026-02-16T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Andrew Goldberg - Rainy Day Fund",
@@ -2130,32 +2108,14 @@
     ],
     "rinse": [
       {
-        "n": "Scratcha",
-        "s": "2026-02-15T15:00:00Z",
-        "e": "2026-02-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Talina",
-        "s": "2026-02-15T17:00:00Z",
-        "e": "2026-02-15T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "talina"
-      },
-      {
         "n": "Dyslecta",
         "s": "2026-02-15T18:00:00Z",
         "e": "2026-02-15T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "dyslecta"
+        "p": "dyslecta",
+        "t": "monthly"
       },
       {
         "n": "Borne Fruits with Amaliah",
@@ -2164,7 +2124,7 @@
         "d": null,
         "j": "100% Production Mix",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "amaliah"
       },
       {
@@ -2235,14 +2195,14 @@
         "t": "playlist"
       },
       {
-        "n": "Freshta",
+        "n": "Paradise",
         "s": "2026-02-16T06:00:00Z",
         "e": "2026-02-16T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "freshta"
+        "p": "paradise"
       },
       {
         "n": "Playlist",
@@ -2254,60 +2214,61 @@
         "t": "playlist"
       },
       {
-        "n": "Papaoul",
+        "n": "Tim Garcia",
         "s": "2026-02-16T09:00:00Z",
         "e": "2026-02-16T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "weekly"
       },
       {
-        "n": "Cara Crosby",
+        "n": "Donsurf",
         "s": "2026-02-16T11:00:00Z",
         "e": "2026-02-16T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "& Jimmy Smith",
         "u": null,
-        "t": "biweekly"
+        "t": "biweekly",
+        "p": "donsurf"
       },
       {
-        "n": "Ed Gillett",
+        "n": "Niall Smith",
         "s": "2026-02-16T12:00:00Z",
         "e": "2026-02-16T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "niallsmith"
       },
       {
-        "n": "Suzie Bakos",
+        "n": "Nakeira",
         "s": "2026-02-16T13:00:00Z",
         "e": "2026-02-16T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly",
+        "p": "nakeira"
       },
       {
-        "n": "Manuel Darquart",
+        "n": "Tommy Gold",
         "s": "2026-02-16T14:00:00Z",
         "e": "2026-02-16T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "manueldarquart"
+        "t": "monthly",
+        "p": "tommygold"
       },
       {
-        "n": "Brighter Days Family",
+        "n": "Scratcha",
         "s": "2026-02-16T15:00:00Z",
         "e": "2026-02-16T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "brighterdaysfamily"
+        "t": "weekly"
       },
       {
         "n": "Talina",
@@ -2320,44 +2281,44 @@
         "p": "talina"
       },
       {
-        "n": "Papa Nugs",
+        "n": "Dyslecta",
         "s": "2026-02-16T18:00:00Z",
         "e": "2026-02-16T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "papanugs"
+        "t": "monthly",
+        "p": "dyslecta"
       },
       {
-        "n": "bullet tooth",
+        "n": "Borne Fruits with Amaliah",
         "s": "2026-02-16T19:00:00Z",
         "e": "2026-02-16T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "100% Production Mix",
         "u": null,
-        "t": "monthly",
-        "p": "bullettooth"
+        "t": "biweekly",
+        "p": "amaliah"
       },
       {
-        "n": "La La",
+        "n": "Hessle Audio",
         "s": "2026-02-16T20:00:00Z",
         "e": "2026-02-16T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "lala"
+        "t": "biweekly",
+        "p": "hessleaudio"
       },
       {
-        "n": "Surusinghe",
+        "n": "Tasha",
         "s": "2026-02-16T22:00:00Z",
         "e": "2026-02-16T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "surusinghe"
+        "t": "monthly",
+        "p": "tasha"
       },
       {
         "n": "Bluetoof",
@@ -2366,8 +2327,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "bluetoof",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "bluetoof"
       },
       {
         "n": "Night Service",
@@ -2385,8 +2346,8 @@
         "d": null,
         "j": "Trailcam",
         "u": null,
-        "p": "loris",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "loris"
       },
       {
         "n": "Lu.Re",
@@ -2413,7 +2374,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "freshta"
       },
       {
@@ -2441,7 +2402,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Ed Gillett",
@@ -2449,8 +2410,7 @@
         "e": "2026-02-17T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Suzie Bakos",
@@ -2458,8 +2418,7 @@
         "e": "2026-02-17T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Manuel Darquart",
@@ -2468,7 +2427,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "manueldarquart"
       },
       {
@@ -2498,7 +2457,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "papanugs"
       },
       {
@@ -2508,8 +2467,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "bullettooth",
-        "t": "monthly"
+        "p": "bullettooth"
       },
       {
         "n": "La La",
@@ -2533,24 +2491,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Didi Han",
-        "s": "2026-02-15T16:00:00Z",
-        "e": "2026-02-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "didihan"
-      },
-      {
-        "n": "Poté",
-        "s": "2026-02-15T17:00:00Z",
-        "e": "2026-02-15T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "pot"
-      },
       {
         "n": "Belaria",
         "s": "2026-02-15T18:00:00Z",
