@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-16T08:36:48.585Z",
+  "updated": "2026-02-16T10:40:35.192Z",
   "stations": {
     "nts1": [
-      {
-        "n": "AD 93 w/ Ben Vince",
-        "s": "2026-02-15T20:00:00Z",
-        "e": "2026-02-15T22:00:00Z",
-        "d": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests.\nOld 88 Transition shows available on the archive.",
-        "j": "Ben Vince",
-        "u": "https://www.nts.live/api/v2/shows/whities-w-tasker/episodes/whities-w-tasker-15th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "Death Is Not The End - World Tango",
         "s": "2026-02-15T22:00:00Z",
@@ -97,9 +88,9 @@
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-02-16T11:00:00Z",
         "e": "2026-02-16T13:00:00Z",
-        "d": null,
+        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
         "j": "John Gómez",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-16th-february-2026",
         "t": "monthly"
       },
       {
@@ -239,27 +230,18 @@
         "u": null,
         "t": "weekly",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ ANU",
+        "s": "2026-02-17T11:00:00Z",
+        "e": "2026-02-17T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "anu"
       }
     ],
     "nts2": [
-      {
-        "n": "CLAIRE MILBRATH - COUNTRY SPECIAL (R)",
-        "s": "2026-02-15T20:00:00Z",
-        "e": "2026-02-15T21:00:00Z",
-        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
-        "j": "COUNTRY SPECIAL",
-        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-8th-february-2024",
-        "t": "restream"
-      },
-      {
-        "n": "SÉANCE CENTRE - MUSIC FOR YOUNG LOVERS (R)",
-        "s": "2026-02-15T21:00:00Z",
-        "e": "2026-02-15T22:00:00Z",
-        "d": "Canadian record label, publisher, and distributors Séance Centre conjure timeless music from the past, present, and future. ",
-        "j": "MUSIC FOR YOUNG LOVERS",
-        "u": "https://www.nts.live/api/v2/shows/seance-centre/episodes/seance-centre-4th-december-2024",
-        "t": "restream"
-      },
       {
         "n": "VENTANA W/ FÉLICITÉ VENTILATEUR (R)",
         "s": "2026-02-15T22:00:00Z",
@@ -359,18 +341,18 @@
         "n": "THEORY THERAPY (R)",
         "s": "2026-02-16T10:00:00Z",
         "e": "2026-02-16T11:00:00Z",
-        "d": null,
+        "d": "Theory Therapy is a label, mix series and radio show run by Low End Theorists, broadcasting from Sydney. Expect sun-drenched ambient and downtempo-adjacent sounds, inspired by late ’90s/early ’00s labels like Instinct Ambient and Elektrolux, plus unreleased music from artists like Ike Zwanikken, Slowfoam and Ben Bondy.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/theory-therapy-5th-may-2025",
         "t": "restream"
       },
       {
-        "n": "THE WONDER CABINET",
+        "n": "THE WONDER CABINET w/ Mothanna Hussein",
         "s": "2026-02-16T11:00:00Z",
         "e": "2026-02-16T12:00:00Z",
-        "d": null,
+        "d": "Sounds and recordings from resident artists at the Wonder Cabinet space in Cremisan Valley, Bethlehem.\nFrom the host: \"Wonder Cabinet on NTS  invites Mothanna Hussein for a 1 hour section of music.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-wonder-cabinet/episodes/the-wonder-cabinet-16th-february-2026"
       },
       {
         "n": "SKYAPNEA w/ Mika Oki",
@@ -379,6 +361,16 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "YU SU (R)",
+        "s": "2026-02-16T14:00:00Z",
+        "e": "2026-02-16T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "yusu"
       },
       {
         "n": "Mala Junta w/ DHC",
@@ -490,26 +482,18 @@
         "u": null,
         "t": "restream",
         "p": "akito"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-02-15T20:00:00Z",
-        "e": "2026-02-15T21:00:00Z",
+        "n": "ALL STYLES ALL SMILES (R)",
+        "s": "2026-02-17T05:00:00Z",
+        "e": "2026-02-17T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Off-Switch Audio",
-        "s": "2026-02-15T21:00:00Z",
-        "e": "2026-02-15T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "SPOTLIGHT EVENTS ",
         "s": "2026-02-15T22:00:00Z",
@@ -1561,18 +1545,27 @@
         "j": null,
         "u": null,
         "p": "arma"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Barbarelle - Atlas",
-        "s": "2026-02-15T20:00:00Z",
-        "e": "2026-02-15T22:00:00Z",
+        "n": "Casual P",
+        "s": "2026-02-23T09:00:00Z",
+        "e": "2026-02-23T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "barbarelle"
+        "p": "casualp"
       },
+      {
+        "n": "Not a Baile Radio Show",
+        "s": "2026-02-23T10:00:00Z",
+        "e": "2026-02-23T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "notabaileradio"
+      }
+    ],
+    "dublab": [
       {
         "n": "body / negative - cloud music",
         "s": "2026-02-15T22:00:00Z",
@@ -1629,6 +1622,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-16T10:00:00Z",
         "e": "2026-02-16T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-16T12:00:00Z",
+        "e": "2026-02-16T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2091,16 +2093,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Hessle Audio",
-        "s": "2026-02-15T20:00:00Z",
-        "e": "2026-02-15T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "hessleaudio"
-      },
       {
         "n": "Tasha",
         "s": "2026-02-15T22:00:00Z",
