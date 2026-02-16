@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-16T06:54:03.202Z",
+  "updated": "2026-02-16T08:36:48.585Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUPINI W/ CHRISSY CONNOR",
-        "s": "2026-02-15T18:00:00Z",
-        "e": "2026-02-15T20:00:00Z",
-        "d": "A little bit sweet, a little bit sad, a little bit silly - Chrissy Connor covers Lupini this month, keeping things horizontal as usual.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-15th-february-2026",
-        "p": "chrissy"
-      },
       {
         "n": "AD 93 w/ Ben Vince",
         "s": "2026-02-15T20:00:00Z",
@@ -96,9 +87,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-02-16T09:00:00Z",
         "e": "2026-02-16T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-16th-february-2026",
         "t": "weekly",
         "p": "flo"
       },
@@ -238,18 +229,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-02-17T09:00:00Z",
+        "e": "2026-02-17T11:00:00Z",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "weekly",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "IN FOCUS: QUINCY JONES (R)",
-        "s": "2026-02-15T18:00:00Z",
-        "e": "2026-02-15T20:00:00Z",
-        "d": "Music wouldn't sound the same today without Quincy Jones. \nRising up from poverty, Jones spent his early musical career playing trumpet with big band swing legend Count Basie, and worked as a young arranger for jazz greats like Duke Ellington and Dizzy Gillespie. He went on to learn classical composition in Paris under Nadia Boulanger, whilst living across the street from Picasso.\nJones became one of the first ever Black music executives signed to a US record label, and over the course of his career, his vision for transmuting musical talent into enormous pop successes earned him a staggering 28 Grammys, with collaborations spanning icons like Ray Charles, Frank Sinatra, and Aretha Franklin, shaping the sounds of jazz, pop, soul, and film.\nTune in for two hours paying tribute to his recent passing, compiled by Jean-Claude Thompson (IF Music).",
-        "j": "QUINCY JONES",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-quincy-jones-15th-november-2024",
-        "t": "restream"
-      },
       {
         "n": "CLAIRE MILBRATH - COUNTRY SPECIAL (R)",
         "s": "2026-02-15T20:00:00Z",
@@ -358,9 +350,9 @@
         "n": "RŌNIN SHUTSUGEN W/ SLOWERPACE 音楽 (R)",
         "s": "2026-02-16T09:00:00Z",
         "e": "2026-02-16T10:00:00Z",
-        "d": null,
+        "d": "60 minutes of dreamscapes from the Slowerpace’s vaporwave lab. ",
         "j": "SLOWERPACE 音楽",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ronin-shutsugen-w-slowerpace-yin-le-30th-september-2025",
         "t": "restream"
       },
       {
@@ -381,7 +373,7 @@
         "u": null
       },
       {
-        "n": "SKPNTS188 - SKYAPNEA w/ Mika Oki",
+        "n": "SKYAPNEA w/ Mika Oki",
         "s": "2026-02-16T12:00:00Z",
         "e": "2026-02-16T14:00:00Z",
         "d": null,
@@ -488,27 +480,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Akito w/ Forward Transition (R)",
+        "s": "2026-02-17T04:00:00Z",
+        "e": "2026-02-17T05:00:00Z",
+        "d": null,
+        "j": "Forward Transition",
+        "u": null,
+        "t": "restream",
+        "p": "akito"
       }
     ],
     "subtle": [
-      {
-        "n": "SETTINGS",
-        "s": "2026-02-15T17:00:00Z",
-        "e": "2026-02-15T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "settings"
-      },
-      {
-        "n": "So Far So Good",
-        "s": "2026-02-15T19:00:00Z",
-        "e": "2026-02-15T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "sofarsogood"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-02-15T20:00:00Z",
@@ -1581,15 +1565,6 @@
     ],
     "dublab": [
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-15T18:00:00Z",
-        "e": "2026-02-15T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Barbarelle - Atlas",
         "s": "2026-02-15T20:00:00Z",
         "e": "2026-02-15T22:00:00Z",
@@ -1645,6 +1620,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-16T08:00:00Z",
         "e": "2026-02-16T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-16T10:00:00Z",
+        "e": "2026-02-16T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2108,26 +2092,6 @@
     ],
     "rinse": [
       {
-        "n": "Dyslecta",
-        "s": "2026-02-15T18:00:00Z",
-        "e": "2026-02-15T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "dyslecta",
-        "t": "monthly"
-      },
-      {
-        "n": "Borne Fruits with Amaliah",
-        "s": "2026-02-15T19:00:00Z",
-        "e": "2026-02-15T20:00:00Z",
-        "d": null,
-        "j": "100% Production Mix",
-        "u": null,
-        "t": "biweekly",
-        "p": "amaliah"
-      },
-      {
         "n": "Hessle Audio",
         "s": "2026-02-15T20:00:00Z",
         "e": "2026-02-15T22:00:00Z",
@@ -2492,23 +2456,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Belaria",
-        "s": "2026-02-15T18:00:00Z",
-        "e": "2026-02-15T19:00:00Z",
-        "d": null,
-        "j": "invite Kendal",
-        "u": null,
-        "p": "belaria"
-      },
-      {
-        "n": "Aurèle",
-        "s": "2026-02-15T19:00:00Z",
-        "e": "2026-02-15T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2026-02-15T20:00:00Z",
         "e": "2026-02-15T23:00:00Z",
@@ -2529,6 +2476,15 @@
       {
         "n": "Playlist France",
         "s": "2026-02-16T08:00:00Z",
+        "e": "2026-02-16T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-16T11:00:00Z",
         "e": "2026-02-16T13:00:00Z",
         "d": null,
         "j": null,
@@ -2536,51 +2492,141 @@
         "t": "playlist"
       },
       {
-        "n": "Charlie 3000",
+        "n": "Onelight",
         "s": "2026-02-16T13:00:00Z",
+        "e": "2026-02-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Sébastien Forrester",
+        "s": "2026-02-16T14:00:00Z",
         "e": "2026-02-16T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly"
+      },
+      {
+        "n": "Young Pulse",
+        "s": "2026-02-16T15:00:00Z",
+        "e": "2026-02-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "youngpulse"
+      },
+      {
+        "n": "Didi Han",
+        "s": "2026-02-16T16:00:00Z",
+        "e": "2026-02-16T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "didihan"
+      },
+      {
+        "n": "Poté",
+        "s": "2026-02-16T17:00:00Z",
+        "e": "2026-02-16T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "pot"
+      },
+      {
+        "n": "Belaria",
+        "s": "2026-02-16T18:00:00Z",
+        "e": "2026-02-16T19:00:00Z",
+        "d": null,
+        "j": "invite Kendal",
+        "u": null,
+        "t": "monthly",
+        "p": "belaria"
+      },
+      {
+        "n": "Aurèle",
+        "s": "2026-02-16T19:00:00Z",
+        "e": "2026-02-16T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-16T20:00:00Z",
+        "e": "2026-02-16T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-16T23:00:00Z",
+        "e": "2026-02-17T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-17T08:00:00Z",
+        "e": "2026-02-17T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Charlie 3000",
+        "s": "2026-02-17T13:00:00Z",
+        "e": "2026-02-17T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
         "p": "charlie3000"
       },
       {
         "n": "Kali Kalité",
-        "s": "2026-02-16T15:00:00Z",
-        "e": "2026-02-16T16:00:00Z",
+        "s": "2026-02-17T15:00:00Z",
+        "e": "2026-02-17T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Jeune à Jamais",
-        "s": "2026-02-16T16:00:00Z",
-        "e": "2026-02-16T17:00:00Z",
+        "s": "2026-02-17T16:00:00Z",
+        "e": "2026-02-17T17:00:00Z",
         "d": null,
         "j": "Présente LE FRAPPÉ AGENCY",
         "u": null
       },
       {
         "n": "TEMƎT",
-        "s": "2026-02-16T17:00:00Z",
-        "e": "2026-02-16T18:00:00Z",
+        "s": "2026-02-17T17:00:00Z",
+        "e": "2026-02-17T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Nyege Nyege",
-        "s": "2026-02-16T18:00:00Z",
-        "e": "2026-02-16T19:00:00Z",
+        "s": "2026-02-17T18:00:00Z",
+        "e": "2026-02-17T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Bambi",
-        "s": "2026-02-16T19:00:00Z",
-        "e": "2026-02-16T20:00:00Z",
+        "s": "2026-02-17T19:00:00Z",
+        "e": "2026-02-17T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2588,8 +2634,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-16T20:00:00Z",
-        "e": "2026-02-16T21:00:00Z",
+        "s": "2026-02-17T20:00:00Z",
+        "e": "2026-02-17T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
