@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-17T10:36:57.959Z",
+  "updated": "2026-02-17T12:41:37.759Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LEE GAMBLE",
-        "s": "2026-02-16T22:00:00Z",
-        "e": "2026-02-16T23:00:00Z",
-        "d": "Artist, producer, label owner and DJ Lee Gamble bringing an oneiric bi-monthly show of current sound and music from his hallucinated musical continuum. Expect anything from Drill to Dream pop, Conceptual Sound and Jazz to bleached out rave memories.. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lee-gamble/episodes/lee-gamble-16th-february-2026",
-        "t": "monthly",
-        "p": "leegamble"
-      },
-      {
-        "n": "MAKE-BELIEVE W/ OBJECT BLUE",
-        "s": "2026-02-16T23:00:00Z",
-        "e": "2026-02-17T00:00:00Z",
-        "d": "A bimonthly assemblage of moving sounds from London-based producer object blue.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/object-blue/episodes/object-blue-16th-february-2026",
-        "p": "objectblue"
-      },
       {
         "n": "BODY MOTION W/ LUX18",
         "s": "2026-02-17T00:00:00Z",
@@ -109,9 +90,9 @@
         "n": "PROSUMER w/ Adam Tendler",
         "s": "2026-02-17T13:00:00Z",
         "e": "2026-02-17T15:00:00Z",
-        "d": null,
+        "d": "Berlin techno aficionado Prosumer lays it out for all the wannabes. A harmonious lecture in house and soul, Prosumer’s here to share.\nFrom the host: \"featuring a guest selection by pianist and 2006 Grammy nominee Adam Tendler\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/prosumer/episodes/prosumer-17th-february-2026",
         "p": "prosumer"
       },
       {
@@ -181,6 +162,15 @@
         "u": null
       },
       {
+        "n": "BABA STILTZ (R)",
+        "s": "2026-02-18T02:00:00Z",
+        "e": "2026-02-18T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "Furniture without Memories w/ livwutang (R)",
         "s": "2026-02-18T04:00:00Z",
         "e": "2026-02-18T05:00:00Z",
@@ -244,25 +234,6 @@
       }
     ],
     "nts2": [
-      {
-        "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE",
-        "s": "2026-02-16T22:00:00Z",
-        "e": "2026-02-16T23:00:00Z",
-        "d": "Former frontwoman of rock outfit Dum Dum Girls eschews the pseudonym with her new solo project, Kristin Kontrol. Newly relocated to LA, Kristin delivers a monthly mix of expansive and hypnotic sounds: one part Durutti Column to two parts Alice Coltrane.\nFrom the host: \"gentle luvin\"",
-        "j": "OUT OF VOGUE",
-        "u": "https://www.nts.live/api/v2/shows/kristin-kontrol/episodes/kristin-kontrol-16th-february-2026",
-        "t": "monthly",
-        "p": "kristinkontrol"
-      },
-      {
-        "n": "WEEKEND READ w/ JONAH RABB",
-        "s": "2026-02-16T23:00:00Z",
-        "e": "2026-02-17T00:00:00Z",
-        "d": "Every month Jonah Rabb brings you Weekend Read, an hour of funk, house, contemporary R&B, and more.",
-        "j": "JONAH RABB",
-        "u": "https://www.nts.live/api/v2/shows/jonah/episodes/jonah-16th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "GINKGO RECORDS W/ NICOLE MISHA (R)",
         "s": "2026-02-17T00:00:00Z",
@@ -375,18 +346,19 @@
         "n": "Phambinho W/ QUYẾCH",
         "s": "2026-02-17T12:00:00Z",
         "e": "2026-02-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Monthly enqiuries into encounters in harmony, forms of hearing, and occasionally responding.\nFrom the host: \"Quyếch's debut album Quyển Trời, reordered from a storytelling perspective.\"",
+        "j": "QUYẾCH",
+        "u": "https://www.nts.live/api/v2/shows/phambinho/episodes/phambinho-17th-february-2026",
+        "t": "monthly",
         "p": "phambinho"
       },
       {
         "n": "Pasta Kebab",
         "s": "2026-02-17T13:00:00Z",
         "e": "2026-02-17T14:00:00Z",
-        "d": null,
+        "d": "Contemporary British AV artist, collagist, and NTS host Mark Leckey takes to the airwaves to play oddities from his collection. Everything from doo-wop to gabber. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/mark-leckey/episodes/mark-leckey-17th-february-2026"
       },
       {
         "n": "LORAINE JAMES",
@@ -504,25 +476,28 @@
         "j": "NOA KURZWEIL",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Lung Dart (R)",
+        "s": "2026-02-18T06:00:00Z",
+        "e": "2026-02-18T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "lungdart"
+      },
+      {
+        "n": "PHILIP FM (R)",
+        "s": "2026-02-18T07:00:00Z",
+        "e": "2026-02-18T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "tighe",
-        "s": "2026-02-16T22:00:00Z",
-        "e": "2026-02-16T23:00:00Z",
-        "d": "I’m a 19 year old DJ and producer from Newcastle upon Tyne, mainly playing and producing music around the 140bpm mark. I started out playing old 2-step and jungle records, before moving my focus to mainly dubstep and grime. Along with my friends Pirata and White Label, I run Newcastle’s only current 140 night, Well Irie. ",
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Marcus Phillippe",
-        "s": "2026-02-16T23:00:00Z",
-        "e": "2026-02-17T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Dan Dara",
         "s": "2026-02-17T00:00:00Z",
@@ -1567,18 +1542,18 @@
         "j": null,
         "u": null,
         "p": "poshmornings"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Rani de Leon - Tizita Radio",
-        "s": "2026-02-16T22:00:00Z",
-        "e": "2026-02-17T00:00:00Z",
+        "n": "Local Movements",
+        "s": "2026-02-24T11:00:00Z",
+        "e": "2026-02-24T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "ranideleon"
-      },
+        "p": "localmovements"
+      }
+    ],
+    "dublab": [
       {
         "n": "Haram Kisses – guest session",
         "s": "2026-02-17T00:00:00Z",
@@ -1635,6 +1610,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-17T12:00:00Z",
         "e": "2026-02-17T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-17T14:00:00Z",
+        "e": "2026-02-17T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2162,7 +2146,7 @@
         "s": "2026-02-17T17:00:00Z",
         "e": "2026-02-17T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Jasper Tygner",
         "u": null,
         "t": "regular",
         "p": "talina"
@@ -2195,11 +2179,11 @@
         "p": "lala"
       },
       {
-        "n": "Surusinghe",
+        "n": "Surusinghe with 10 Years of Autonomy",
         "s": "2026-02-17T22:00:00Z",
         "e": "2026-02-17T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Xilla & Marie Qrie",
         "u": null,
         "p": "surusinghe"
       },
@@ -2374,15 +2358,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-02-16T20:00:00Z",
-        "e": "2026-02-16T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-02-16T23:00:00Z",
