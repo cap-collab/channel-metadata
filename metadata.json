@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-17T06:47:58.626Z",
+  "updated": "2026-02-17T08:35:19.743Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-02-16T18:00:00Z",
-        "e": "2026-02-16T20:00:00Z",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": "COCO MARIA",
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-16th-february-2026",
-        "p": "cocomaria"
-      },
       {
         "n": "CALM ROOTS W/ ALEX RITA",
         "s": "2026-02-16T20:00:00Z",
@@ -108,9 +99,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-02-17T09:00:00Z",
         "e": "2026-02-17T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-17th-february-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -243,27 +234,17 @@
         "j": null,
         "u": null,
         "p": "shyone"
+      },
+      {
+        "n": "JENNIFER LOVELESS",
+        "s": "2026-02-18T13:00:00Z",
+        "e": "2026-02-18T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NATIVE SOUNDSYSTEM W/ SHOLZ",
-        "s": "2026-02-16T18:00:00Z",
-        "e": "2026-02-16T19:00:00Z",
-        "d": "Native Sound System join us once a month, breaking the latest sounds from Lagos",
-        "j": "SHOLZ",
-        "u": "https://www.nts.live/api/v2/shows/native-soundsystem/episodes/native-soundsystem-16th-february-2026",
-        "t": "monthly",
-        "p": "nativesoundsystem"
-      },
-      {
-        "n": "1080P w/ HD",
-        "s": "2026-02-16T19:00:00Z",
-        "e": "2026-02-16T20:00:00Z",
-        "d": "HD features a vast variety of guests spanning across hip hop, RnB and electronic music to talk about music, culture and life aswell as share their favorite selections of any genre.\nFrom the host: \"This episode is pure energy in the mix with HD including techno, guaracha, dembow, freestyle + more.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hd/episodes/hd-16th-february-2026"
-      },
       {
         "n": "Get Grimy w/ Jamie 3:26",
         "s": "2026-02-16T20:00:00Z",
@@ -368,18 +349,18 @@
         "n": "BUDGIE - D'ANGELO SPECIAL (R)",
         "s": "2026-02-17T08:00:00Z",
         "e": "2026-02-17T09:00:00Z",
-        "d": null,
+        "d": "BUDGIE – serving up jazz, hip-hop, soul, beats & more from his sprawling record collection, once a month from our LA studio.",
         "j": "D'ANGELO SPECIAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/budgie/episodes/budgie-16th-october-2025",
         "t": "restream"
       },
       {
         "n": "NTS GUIDE TO: OGUN RECORDS (R)",
         "s": "2026-02-17T09:00:00Z",
         "e": "2026-02-17T10:00:00Z",
-        "d": null,
+        "d": "6O minutes of timeless jazz from Ogun Records, the London label formed by South African bassist Harry Miller, his wife Hazel Miller, and sound engineer Keith Beal. Selected by NTS.",
         "j": "OGUN RECORDS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/ogun-records-14th-september-2022",
         "t": "restream"
       },
       {
@@ -498,26 +479,26 @@
         "j": null,
         "u": null,
         "p": "djkita"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "H3L3NA",
-        "s": "2026-02-16T18:00:00Z",
-        "e": "2026-02-16T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "h3l3na"
       },
       {
-        "n": "LOOSE E",
-        "s": "2026-02-16T19:00:00Z",
-        "e": "2026-02-16T20:00:00Z",
+        "n": "BOOM BIP",
+        "s": "2026-02-18T02:00:00Z",
+        "e": "2026-02-18T03:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "The Last Playlist w/ Luis Felipe Farfán",
+        "s": "2026-02-18T03:00:00Z",
+        "e": "2026-02-18T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      }
+    ],
+    "subtle": [
       {
         "n": "Rainbow Conspiracy",
         "s": "2026-02-16T20:00:00Z",
@@ -609,6 +590,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-17T09:00:00Z",
+        "e": "2026-02-17T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Albert Moon",
@@ -1559,19 +1549,27 @@
         "j": null,
         "u": null,
         "p": "albh"
+      },
+      {
+        "n": "Ms Chief",
+        "s": "2026-02-24T07:00:00Z",
+        "e": "2026-02-24T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "mschief"
+      },
+      {
+        "n": "Azadi Sound",
+        "s": "2026-02-24T08:00:00Z",
+        "e": "2026-02-24T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "azadisound"
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-02-16T18:00:00Z",
-        "e": "2026-02-16T20:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
       {
         "n": "Bobbyy & Lastword – Rare Candy Radio",
         "s": "2026-02-16T20:00:00Z",
@@ -1628,6 +1626,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-17T08:00:00Z",
         "e": "2026-02-17T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-17T10:00:00Z",
+        "e": "2026-02-17T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2092,31 +2099,13 @@
     ],
     "rinse": [
       {
-        "n": "Dyslecta",
-        "s": "2026-02-16T18:00:00Z",
-        "e": "2026-02-16T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "dyslecta"
-      },
-      {
         "n": "Borne Fruits with Amaliah",
         "s": "2026-02-16T19:00:00Z",
-        "e": "2026-02-17T06:00:00Z",
+        "e": "2026-02-17T07:00:00Z",
         "d": null,
         "j": "100% Production Mix",
         "u": null,
         "p": "amaliah"
-      },
-      {
-        "n": "Freshta",
-        "s": "2026-02-17T06:00:00Z",
-        "e": "2026-02-17T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "freshta"
       },
       {
         "n": "Playlist",
@@ -2395,23 +2384,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Nyege Nyege",
-        "s": "2026-02-16T18:00:00Z",
-        "e": "2026-02-16T19:00:00Z",
-        "d": null,
-        "j": "Takeover x Hibotep",
-        "u": null
-      },
-      {
-        "n": "Bambi",
-        "s": "2026-02-16T19:00:00Z",
-        "e": "2026-02-16T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "bambi"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-02-16T20:00:00Z",
         "e": "2026-02-16T23:00:00Z",
@@ -2439,23 +2411,16 @@
         "t": "playlist"
       },
       {
-        "n": "Divin0",
+        "n": "Charlie 3000",
         "s": "2026-02-17T13:00:00Z",
-        "e": "2026-02-17T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "MOMENTUM Highlight",
-        "s": "2026-02-17T14:00:00Z",
         "e": "2026-02-17T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "charlie3000"
       },
       {
-        "n": "ADRIXXX",
+        "n": "Kali Kalité",
         "s": "2026-02-17T15:00:00Z",
         "e": "2026-02-17T16:00:00Z",
         "d": null,
@@ -2463,15 +2428,15 @@
         "u": null
       },
       {
-        "n": "CHÔ!",
+        "n": "Jeune à Jamais",
         "s": "2026-02-17T16:00:00Z",
         "e": "2026-02-17T17:00:00Z",
         "d": null,
-        "j": "invite BAHNAAL",
+        "j": "Présente LE FRAPPÉ AGENCY",
         "u": null
       },
       {
-        "n": "Not Sorry",
+        "n": "TEMƎT",
         "s": "2026-02-17T17:00:00Z",
         "e": "2026-02-17T18:00:00Z",
         "d": null,
@@ -2479,9 +2444,93 @@
         "u": null
       },
       {
-        "n": "Hyas",
+        "n": "Nyege Nyege",
         "s": "2026-02-17T18:00:00Z",
         "e": "2026-02-17T19:00:00Z",
+        "d": null,
+        "j": "Takeover x Hibotep",
+        "u": null
+      },
+      {
+        "n": "Bambi",
+        "s": "2026-02-17T19:00:00Z",
+        "e": "2026-02-17T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "bambi"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-17T20:00:00Z",
+        "e": "2026-02-17T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-17T23:00:00Z",
+        "e": "2026-02-18T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-18T08:00:00Z",
+        "e": "2026-02-18T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Divin0",
+        "s": "2026-02-18T13:00:00Z",
+        "e": "2026-02-18T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MOMENTUM Highlight",
+        "s": "2026-02-18T14:00:00Z",
+        "e": "2026-02-18T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ADRIXXX",
+        "s": "2026-02-18T15:00:00Z",
+        "e": "2026-02-18T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CHÔ!",
+        "s": "2026-02-18T16:00:00Z",
+        "e": "2026-02-18T17:00:00Z",
+        "d": null,
+        "j": "invite BAHNAAL",
+        "u": null
+      },
+      {
+        "n": "Not Sorry",
+        "s": "2026-02-18T17:00:00Z",
+        "e": "2026-02-18T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Hyas",
+        "s": "2026-02-18T18:00:00Z",
+        "e": "2026-02-18T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2489,16 +2538,16 @@
       },
       {
         "n": "GOTIS",
-        "s": "2026-02-17T19:00:00Z",
-        "e": "2026-02-17T20:00:00Z",
+        "s": "2026-02-18T19:00:00Z",
+        "e": "2026-02-18T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-17T20:00:00Z",
-        "e": "2026-02-17T21:00:00Z",
+        "s": "2026-02-18T20:00:00Z",
+        "e": "2026-02-18T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
