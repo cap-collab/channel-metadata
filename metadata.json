@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-17T12:41:37.759Z",
+  "updated": "2026-02-17T14:39:45.215Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BODY MOTION W/ LUX18",
-        "s": "2026-02-17T00:00:00Z",
-        "e": "2026-02-17T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "bodymotion"
-      },
       {
         "n": "FRACTAL MEAT ON A SPONGY BONE",
         "s": "2026-02-17T01:00:00Z",
@@ -99,9 +90,10 @@
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-02-17T15:00:00Z",
         "e": "2026-02-17T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
+        "j": "Margeaux",
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-17th-february-2026",
+        "t": "weekly",
         "p": "margeaux"
       },
       {
@@ -231,26 +223,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "MOXIE",
+        "s": "2026-02-18T15:00:00Z",
+        "e": "2026-02-18T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "GINKGO RECORDS W/ NICOLE MISHA (R)",
-        "s": "2026-02-17T00:00:00Z",
-        "e": "2026-02-17T01:00:00Z",
-        "d": null,
-        "j": "NICOLE MISHA",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "Lunar New Year: Mahjong Special w/ Straight Honey",
-        "s": "2026-02-17T01:00:00Z",
-        "e": "2026-02-17T02:00:00Z",
-        "d": "NTS marks Lunar New Year 2025, ushering in the Year of the Wood Snake with a series of broadcasts – featuring guest hosts representing the range of East Asian countries that celebrate every year. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lunar-new-year-2025/episodes/lunar-new-year-2025-straight-honey-17th-february-2026"
-      },
       {
         "n": "Total Stasis w/ Alex Ho",
         "s": "2026-02-17T02:00:00Z",
@@ -364,17 +347,17 @@
         "n": "LORAINE JAMES",
         "s": "2026-02-17T14:00:00Z",
         "e": "2026-02-17T15:00:00Z",
-        "d": null,
+        "d": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/loraine-james/episodes/loraine-james-17th-february-2026"
       },
       {
         "n": "Magic Mashups w/ Miss Sheitana",
         "s": "2026-02-17T15:00:00Z",
         "e": "2026-02-17T16:00:00Z",
-        "d": null,
+        "d": "Loops, remixes, edits and reinterpretations from DJ and programmer miss sheitana, oscillating between post-club, rap, baltimore club, bass, ambient and remixes from the limbos of the internet.\nFrom the host: \"postclub ° stolen loops ° radical bass ° romantic sometimes ° classics ° collapsed tempo ° footwork ° misfit emotions ° emoraï ° remixs from internet limbos ° haunted rhythms ° magic mashups only\nhectic +++++++\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/miss-sheitana/episodes/miss-sheitana-17th-february-2026"
       },
       {
         "n": "Unearth w/ Sgabe",
@@ -495,17 +478,27 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Dan Dara",
-        "s": "2026-02-17T00:00:00Z",
-        "e": "2026-02-17T02:00:00Z",
+        "n": "3XL (R)",
+        "s": "2026-02-18T10:00:00Z",
+        "e": "2026-02-18T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "3xl"
+      },
+      {
+        "n": "DIGGING IN INDIA",
+        "s": "2026-02-18T11:00:00Z",
+        "e": "2026-02-18T12:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Refractions Radio",
         "s": "2026-02-17T02:00:00Z",
@@ -1551,17 +1544,27 @@
         "j": null,
         "u": null,
         "p": "localmovements"
+      },
+      {
+        "n": "Liquid Vault w/ Half-Life",
+        "s": "2026-02-24T13:00:00Z",
+        "e": "2026-02-24T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "half"
+      },
+      {
+        "n": "Silk Road Sessions w/ YVES",
+        "s": "2026-02-24T14:00:00Z",
+        "e": "2026-02-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "yves"
       }
     ],
     "dublab": [
-      {
-        "n": "Haram Kisses – guest session",
-        "s": "2026-02-17T00:00:00Z",
-        "e": "2026-02-17T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Encarnación - Lucid Hour",
         "s": "2026-02-17T02:00:00Z",
@@ -2156,7 +2159,7 @@
         "s": "2026-02-17T18:00:00Z",
         "e": "2026-02-17T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Rossiter",
         "u": null,
         "p": "papanugs"
       },
