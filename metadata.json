@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-18T14:39:07.329Z",
+  "updated": "2026-02-18T16:53:39.238Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BABA STILTZ (R)",
-        "s": "2026-02-18T02:00:00Z",
-        "e": "2026-02-18T04:00:00Z",
-        "d": "Guitar music, electronic musings and heady explorations with Baba Stiltz.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/babastiltz/episodes/babastiltz-6th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "Furniture without Memories w/ livwutang (R)",
         "s": "2026-02-18T04:00:00Z",
@@ -98,9 +89,9 @@
         "n": "Scarlett O'Malley",
         "s": "2026-02-18T17:00:00Z",
         "e": "2026-02-18T18:00:00Z",
-        "d": null,
+        "d": "After work fun and global tunes with Tash LC and guests every other Wednesday ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/tash-lc/episodes/tash-lc-scarlett-o-malley-18th-february-2026"
       },
       {
         "n": "MOTIVE",
@@ -151,6 +142,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "IN FOCUS: CHAKA KHAN (R)",
+        "s": "2026-02-19T00:00:00Z",
+        "e": "2026-02-19T02:00:00Z",
+        "d": null,
+        "j": "CHAKA KHAN",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Slow Hand Clutches (R)",
@@ -233,24 +233,6 @@
       }
     ],
     "nts2": [
-      {
-        "n": "BOOM BIP",
-        "s": "2026-02-18T02:00:00Z",
-        "e": "2026-02-18T03:00:00Z",
-        "d": "Lex Records artist Boom Bip scrapes beneath the surface of the status quo by loosely basing his mixes on electronics and the new waves they produce.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/boom-bip/episodes/boom-bip-18th-february-2026",
-        "p": "boombip"
-      },
-      {
-        "n": "The Last Playlist w/ Luis Felipe Farfán",
-        "s": "2026-02-18T03:00:00Z",
-        "e": "2026-02-18T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "CXEMA (R)",
         "s": "2026-02-18T04:00:00Z",
@@ -355,17 +337,19 @@
         "n": "THE BADDIS SOUND W/ DANNIELLA DEE - Live from Vinyl Club Jamaica",
         "s": "2026-02-18T16:00:00Z",
         "e": "2026-02-18T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Inspired by the iconic reggae & ska sounds of her home, singer & producer Danniella Dee shares a monthly crate of dub-wise selections, soul-soothing rocksteady, and heavyweight roots to the studio. ",
+        "j": "DANNIELLA DEE",
+        "u": "https://www.nts.live/api/v2/shows/danniella-dee/episodes/danniella-dee-18th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "Martyn's Darkest Light",
         "s": "2026-02-18T17:00:00Z",
         "e": "2026-02-18T18:00:00Z",
-        "d": null,
+        "d": "Tune into Martyn's monthly show on 2 for some delectable jazz treats from over the Atlantic. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/martyn/episodes/martyn-18th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "SUBJECT TO CHANGE W/ TIMMHOTEP",
@@ -483,26 +467,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Sub Archives",
-        "s": "2026-02-18T02:00:00Z",
-        "e": "2026-02-18T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "subarchives"
       },
       {
-        "n": "Baghead",
-        "s": "2026-02-18T03:00:00Z",
-        "e": "2026-02-18T04:00:00Z",
+        "n": "Jim O'Rourke",
+        "s": "2026-02-19T11:00:00Z",
+        "e": "2026-02-19T12:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "seln recordings w/ conrad pack",
+        "s": "2026-02-19T12:00:00Z",
+        "e": "2026-02-19T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-02-18T04:00:00Z",
@@ -1557,18 +1540,27 @@
         "j": null,
         "u": null,
         "p": "bin"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Tyler Bell - Check In",
-        "s": "2026-02-18T02:00:00Z",
-        "e": "2026-02-18T04:00:00Z",
+        "n": "Baked Biscuit",
+        "s": "2026-02-25T15:00:00Z",
+        "e": "2026-02-25T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "tylerbell"
+        "p": "bakedbiscuit"
       },
+      {
+        "n": "Rushmoor",
+        "s": "2026-02-25T16:00:00Z",
+        "e": "2026-02-25T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "rushmoor"
+      }
+    ],
+    "dublab": [
       {
         "n": "Echo Park Film Center - Optical Track",
         "s": "2026-02-18T04:00:00Z",
@@ -2096,18 +2088,18 @@
         "j": null,
         "u": null,
         "p": "payray"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Nakeira",
-        "s": "2026-02-18T02:00:00Z",
-        "e": "2026-02-18T03:00:00Z",
+        "n": "Seano - The Treehouse",
+        "s": "2026-02-25T16:00:00Z",
+        "e": "2026-02-25T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "nakeira"
-      },
+        "p": "seano"
+      }
+    ],
+    "rinse": [
       {
         "n": "Electronic Playlist",
         "s": "2026-02-18T03:00:00Z",
@@ -2212,7 +2204,7 @@
         "s": "2026-02-18T19:00:00Z",
         "e": "2026-02-18T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Manami",
         "u": null,
         "p": "justjane"
       },
@@ -2230,7 +2222,7 @@
         "s": "2026-02-18T22:00:00Z",
         "e": "2026-02-18T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Love International",
         "u": null,
         "p": "lukaswigflex"
       },
@@ -2310,7 +2302,7 @@
         "s": "2026-02-19T11:00:00Z",
         "e": "2026-02-19T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Soul Selections - Just You, Just me",
         "u": null,
         "p": "jordanmae"
       },
@@ -2327,7 +2319,7 @@
         "s": "2026-02-19T13:00:00Z",
         "e": "2026-02-19T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Little Simz Mix",
         "u": null,
         "p": "skvibemaker"
       },
@@ -2390,7 +2382,7 @@
         "s": "2026-02-19T22:00:00Z",
         "e": "2026-02-19T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Margo XS",
         "u": null,
         "p": "steelcitydancediscs"
       },
