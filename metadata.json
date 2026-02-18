@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-18T08:35:21.325Z",
+  "updated": "2026-02-18T10:35:45.065Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NITETRAX - THE BOWGIE, CORNWALL 89-92 (R)",
-        "s": "2026-02-17T20:00:00Z",
-        "e": "2026-02-17T21:00:00Z",
-        "d": "Nitetrax presents a monthly exploration of classic and contemporary club and experimental music.",
-        "j": "THE BOWGIE, CORNWALL 89-92",
-        "u": "https://www.nts.live/api/v2/shows/nitetrax/episodes/nitetrax-2nd-march-2025",
-        "t": "restream",
-        "p": "nitetrax"
-      },
-      {
-        "n": "Pochola",
-        "s": "2026-02-17T21:00:00Z",
-        "e": "2026-02-17T22:00:00Z",
-        "d": "London-based Mexican DJ pochola brings bass-heavy club sounds to the studio, spotlighting producers from Mexico and Latin America. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/pochola-17th-february-2026"
-      },
       {
         "n": "Space Afrika",
         "s": "2026-02-17T22:00:00Z",
@@ -108,9 +90,9 @@
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-02-18T11:00:00Z",
         "e": "2026-02-18T13:00:00Z",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-18th-february-2026",
         "p": "shyone"
       },
       {
@@ -240,26 +222,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-02-19T09:00:00Z",
+        "e": "2026-02-19T11:00:00Z",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "NTS Guide to: Japanese Punk 1980 – 1985",
-        "s": "2026-02-17T20:00:00Z",
-        "e": "2026-02-17T21:00:00Z",
-        "d": "Japanese hardcore punk records from the nation's first explosion of the genre. \nSelected by Los Hitters.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-japanese-punk-1980-1985-17th-february-2026"
-      },
-      {
-        "n": "HEGOA",
-        "s": "2026-02-17T21:00:00Z",
-        "e": "2026-02-17T22:00:00Z",
-        "d": "Over the last few years, the London based imprint, Hegoa, has taken great strides toward illuminating the shadowy world of contemporary music emerging from the Basque region, an autonomous community in northern Spain with its own distinct cultural traditions and language.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hegoa/episodes/hegoa-17th-february-2026",
-        "p": "hegoa"
-      },
       {
         "n": "LOS HITTERS",
         "s": "2026-02-17T22:00:00Z",
@@ -375,9 +350,9 @@
         "n": "DIGGING IN INDIA",
         "s": "2026-02-18T11:00:00Z",
         "e": "2026-02-18T12:00:00Z",
-        "d": null,
+        "d": "“Explorations” is an attempt to shed light on offbeat music from India and around the world. Digging In India aka Nishant Mittal is a music archivist, DJ and record store owner based in New Delhi.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/digging-in-india/episodes/digging-in-india-18th-february-2026"
       },
       {
         "n": "Shakshouka w/ Cheb Mimo",
@@ -502,27 +477,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "MUSIC 4 LOVERS W/ JABU & ANDY PAYBACK (R)",
+        "s": "2026-02-19T06:00:00Z",
+        "e": "2026-02-19T07:00:00Z",
+        "d": null,
+        "j": "JABU & ANDY PAYBACK",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Deeper DnB",
-        "s": "2026-02-17T20:00:00Z",
-        "e": "2026-02-17T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "deeperdnb"
-      },
-      {
-        "n": "ASH BASH - SHOWTIME",
-        "s": "2026-02-17T21:00:00Z",
-        "e": "2026-02-17T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "ash"
-      },
       {
         "n": " Bassfreight Sound",
         "s": "2026-02-17T22:00:00Z",
@@ -607,6 +573,15 @@
         "u": null
       },
       {
+        "n": "Subtle Selects",
+        "s": "2026-02-18T11:00:00Z",
+        "e": "2026-02-18T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
         "n": "Stroke of Sound by Tia",
         "s": "2026-02-18T12:00:00Z",
         "e": "2026-02-18T13:00:00Z",
@@ -657,6 +632,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Louis Selwyn",
+        "s": "2026-02-18T18:00:00Z",
+        "e": "2026-02-18T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "louisselwyn"
       },
       {
         "n": "Sumgii",
@@ -946,14 +930,6 @@
         "n": "TMANTUS",
         "s": "2026-02-20T23:00:00Z",
         "e": "2026-02-21T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Witch Trials presents Myryrs",
-        "s": "2026-02-21T00:00:00Z",
-        "e": "2026-02-21T01:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1555,17 +1531,18 @@
         "j": null,
         "u": null,
         "p": "weakspell"
+      },
+      {
+        "n": "Sport Mode",
+        "s": "2026-02-25T09:00:00Z",
+        "e": "2026-02-25T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sportmode"
       }
     ],
     "dublab": [
-      {
-        "n": "Cafe's Internet Lounge",
-        "s": "2026-02-17T20:00:00Z",
-        "e": "2026-02-17T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-02-17T22:00:00Z",
@@ -1626,6 +1603,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-18T10:00:00Z",
         "e": "2026-02-18T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-18T12:00:00Z",
+        "e": "2026-02-18T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2107,15 +2093,6 @@
     ],
     "rinse": [
       {
-        "n": "La La",
-        "s": "2026-02-17T20:00:00Z",
-        "e": "2026-02-17T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "lala"
-      },
-      {
         "n": "Surusinghe with 10 Years of Autonomy",
         "s": "2026-02-17T22:00:00Z",
         "e": "2026-02-17T23:00:00Z",
@@ -2307,7 +2284,7 @@
         "s": "2026-02-19T01:00:00Z",
         "e": "2026-02-19T02:00:00Z",
         "d": null,
-        "j": null,
+        "j": "rotciv_",
         "u": null,
         "p": "antconstantino"
       },
