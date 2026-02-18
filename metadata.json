@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-18T16:53:39.238Z",
+  "updated": "2026-02-18T18:40:53.962Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Furniture without Memories w/ livwutang (R)",
-        "s": "2026-02-18T04:00:00Z",
-        "e": "2026-02-18T05:00:00Z",
-        "d": "Bimonthly excursions through memories, geographies and nostalgia from NYC-based livwutang.",
-        "j": "livwutang",
-        "u": "https://www.nts.live/api/v2/shows/livwutang/episodes/livwutang-9th-june-2025",
-        "t": "restream",
-        "p": "livwutang"
-      },
-      {
-        "n": "YU SU (R)",
-        "s": "2026-02-18T05:00:00Z",
-        "e": "2026-02-18T06:00:00Z",
-        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-10th-december-2024",
-        "t": "restream",
-        "p": "yusu"
-      },
       {
         "n": "CLAIRE MILBRATH (R)",
         "s": "2026-02-18T06:00:00Z",
@@ -97,18 +77,20 @@
         "n": "MOTIVE",
         "s": "2026-02-18T18:00:00Z",
         "e": "2026-02-18T19:00:00Z",
-        "d": null,
+        "d": "Theo Motive takes you on a monthly journey through upfront Hip Hop, Beats, Grime, Bass & everything in between.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/motive/episodes/motive-18th-february-2026",
+        "t": "monthly",
         "p": "motive"
       },
       {
         "n": "Steven Julien Presents: The Apron Show",
         "s": "2026-02-18T19:00:00Z",
         "e": "2026-02-18T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "The Apron Records boss takes his anything goes approach to an continually surprising hour of radio every month, featuring everything from dusty leftfield house to energetic jazz, and anything else that he's feeling. ",
+        "j": "The Apron Show",
+        "u": "https://www.nts.live/api/v2/shows/funkineven/episodes/funkineven-18th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "MAXIMUM EXPOSURE POWER HOUR W/ TONY PRICE",
@@ -230,27 +212,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ECLAIR FIFI",
+        "s": "2026-02-19T15:00:00Z",
+        "e": "2026-02-19T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "fifi"
+      },
+      {
+        "n": "NTS Guide To.. French Touch",
+        "s": "2026-02-19T17:00:00Z",
+        "e": "2026-02-19T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "CXEMA (R)",
-        "s": "2026-02-18T04:00:00Z",
-        "e": "2026-02-18T05:00:00Z",
-        "d": "The sound of Ukraine's independent music scene. Presented by Схема, a Kyiv-based collective that moves forward rave culture in Ukraine.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/cxema/episodes/cxema-27th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "BREAKING PEOPLE W/ NOA KURZWEIL (R)",
-        "s": "2026-02-18T05:00:00Z",
-        "e": "2026-02-18T06:00:00Z",
-        "d": "Another mixtape, another mistake. Come get broken with Noa Kurzweil (from VOICE ACTOR).",
-        "j": "NOA KURZWEIL",
-        "u": "https://www.nts.live/api/v2/shows/voice-actor/episodes/voice-actor-11th-september-2023",
-        "t": "restream"
-      },
       {
         "n": "Lung Dart (R)",
         "s": "2026-02-18T06:00:00Z",
@@ -355,17 +336,17 @@
         "n": "SUBJECT TO CHANGE W/ TIMMHOTEP",
         "s": "2026-02-18T18:00:00Z",
         "e": "2026-02-18T19:00:00Z",
-        "d": null,
+        "d": "Cultural critic and curator Timmhotep Aku explores the intersections of black music, life, metaphor, and meaning through songs and found audio footage.\nFrom the host: \"The emotions are mixed but my heart is pure. A soundtrack to my now as told through the music of Sun Ra, Roy Ayers, Roc Marci and more. Love to the world.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/subject-to-change-w-timmhotep/episodes/subject-to-change-w-timmhotep-18th-february-2026"
       },
       {
         "n": "Aloha Got Soul",
         "s": "2026-02-18T19:00:00Z",
         "e": "2026-02-18T20:00:00Z",
-        "d": null,
+        "d": "An exploration into obscure, underground, and lesser known music from Hawaii, bound not by genre or generation but by a connection to the islands. Hosted by Roger Bong of Aloha Got Soul, a record label and record store in Honolulu.\nFrom the host: \"Like a fever dream of free jazz, indie pop, ambient classical and other strange stuff.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/aloha-got-soul/episodes/aloha-got-soul-18th-february-2026"
       },
       {
         "n": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
@@ -452,6 +433,15 @@
         "t": "restream"
       },
       {
+        "n": "NTS GUIDE TO: SOULFUL SÉGA & ELECTRIC MALOYA FROM THE INDIAN OCEAN (R)",
+        "s": "2026-02-19T08:00:00Z",
+        "e": "2026-02-19T09:00:00Z",
+        "d": null,
+        "j": "SOULFUL SÉGA & ELECTRIC MALOYA FROM THE INDIAN OCEAN",
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "A Scene In Between w/ Samuel Knee (R)",
         "s": "2026-02-19T09:00:00Z",
         "e": "2026-02-19T10:00:00Z",
@@ -480,6 +470,14 @@
         "n": "seln recordings w/ conrad pack",
         "s": "2026-02-19T12:00:00Z",
         "e": "2026-02-19T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Shadow Dance w/ XIXO",
+        "s": "2026-02-19T13:00:00Z",
+        "e": "2026-02-19T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1558,19 +1556,26 @@
         "j": null,
         "u": null,
         "p": "rushmoor"
+      },
+      {
+        "n": "baeker",
+        "s": "2026-02-25T17:00:00Z",
+        "e": "2026-02-25T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "baeker"
+      },
+      {
+        "n": "PCKRNG & THT GRL",
+        "s": "2026-02-25T18:00:00Z",
+        "e": "2026-02-25T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Echo Park Film Center - Optical Track",
-        "s": "2026-02-18T04:00:00Z",
-        "e": "2026-02-18T06:00:00Z",
-        "d": null,
-        "j": "Optical Track",
-        "u": null,
-        "t": "weekly",
-        "p": "echoparkfilmcenter"
-      },
       {
         "n": "BHM: Addae",
         "s": "2026-02-18T06:00:00Z",
@@ -2101,15 +2106,6 @@
     ],
     "rinse": [
       {
-        "n": "Electronic Playlist",
-        "s": "2026-02-18T03:00:00Z",
-        "e": "2026-02-18T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Tasha",
         "s": "2026-02-18T06:00:00Z",
         "e": "2026-02-18T07:00:00Z",
@@ -2204,7 +2200,7 @@
         "s": "2026-02-18T19:00:00Z",
         "e": "2026-02-18T20:00:00Z",
         "d": null,
-        "j": "Manami",
+        "j": "B2B Manami",
         "u": null,
         "p": "justjane"
       },
