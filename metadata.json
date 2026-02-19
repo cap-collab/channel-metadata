@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-19T16:41:20.440Z",
+  "updated": "2026-02-19T18:40:53.096Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NOISE IN MY HEAD (R)",
-        "s": "2026-02-19T03:00:00Z",
-        "e": "2026-02-19T05:00:00Z",
-        "d": "Noise In My Head is a freeform sonic excursion presented by Melbourne based host Michael Kucyk. Over the years the show has been responsible for displaying talent from around the globe, from artists to DJs, label heads, compilation selectors and record collectors. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/noise-in-my-head/episodes/noise-in-my-head-w-plo-man-13th-february-2018",
-        "t": "restream"
-      },
-      {
-        "n": "The Uline Catalog (R)",
-        "s": "2026-02-19T05:00:00Z",
-        "e": "2026-02-19T06:00:00Z",
-        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-31st-august-2024",
-        "t": "restream"
-      },
       {
         "n": "UNITED IN FLAMES W/ MALIBU (R)",
         "s": "2026-02-19T06:00:00Z",
@@ -95,9 +77,10 @@
         "n": "Archived w/ Rotational: Street Kuduro",
         "s": "2026-02-19T19:00:00Z",
         "e": "2026-02-19T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Monthly reports from Rotational, the archivist & DJ focussing on electronic dance music from Africa and South-America. Dance to the sound of digitized kuduro CDs, baile funk found on a USB-stick from Rio, or Moroccan techno from dusty cassette tapes. Besides DJing, Rotational also runs a YouTube channel filled with musical finds from all around the world.\nFrom the host: \"A raw selection of classic Kuduro rooted in the streets of Luanda. Heavy, aggressive beats, synth loops. These tracks echo street circles, Candongueiro sound systems, and a generation’s joy and struggle, from Bruno M to Os Lambas.\"",
+        "j": "Rotational",
+        "u": "https://www.nts.live/api/v2/shows/rotational/episodes/rotational-19th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "NILE TO BANK w/ NIHAL - Youssef Chahine Special",
@@ -232,27 +215,17 @@
         "j": null,
         "u": null,
         "p": "jeunepouce"
+      },
+      {
+        "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW w/ Jah$tar",
+        "s": "2026-02-20T15:00:00Z",
+        "e": "2026-02-20T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Ganga Blues w/ Ash Rucker",
-        "s": "2026-02-19T04:00:00Z",
-        "e": "2026-02-19T05:00:00Z",
-        "d": "This hour of music moves through gospel, soul, and a spectrum of Black artists, tracing music as a spiritual architecture beyond the individual. Blending sacred textures with ambient and rhythmic passages, the episode explores sound as vibration , a living force shaped by Black Spirit. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ganga-blues/episodes/ganga-blues-19th-february-2026",
-        "p": "gangablues"
-      },
-      {
-        "n": "Benedek (R)",
-        "s": "2026-02-19T05:00:00Z",
-        "e": "2026-02-19T06:00:00Z",
-        "d": "Los Angeles native & synth pioneer Benedek blends ambient, boogie, funk & more, once a month from our LA studio. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/benedek/episodes/benedek-13th-november-2020",
-        "t": "restream"
-      },
       {
         "n": "MUSIC 4 LOVERS W/ JABU & ANDY PAYBACK (R)",
         "s": "2026-02-19T06:00:00Z",
@@ -360,17 +333,18 @@
         "n": "CRYPT OF THE WIZARD",
         "s": "2026-02-19T18:00:00Z",
         "e": "2026-02-19T19:00:00Z",
-        "d": null,
+        "d": "\"Dark dirges to satisfy your darkest urges…”",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/crypt-of-the-wizard/episodes/crypt-of-the-wizard-19th-february-2026"
       },
       {
         "n": "Sasha Crush",
         "s": "2026-02-19T19:00:00Z",
         "e": "2026-02-19T20:00:00Z",
-        "d": null,
+        "d": "Monthly mixes by Sasha Crush (Sasha Alcocer), a NY native, her taste is influenced by the dancefloor, with an inclination toward disco, Chicago house, synth-pop, funk, freestyle + more. Photo Credit: Morgan Maher\nFrom the host: \"Imagine your crush sending this to you ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/sasha-crush/episodes/sasha-crush-19th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "COSMIC PEEKABOO",
@@ -493,17 +467,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Sasha Rome Presents Eclipse",
-        "s": "2026-02-19T04:00:00Z",
-        "e": "2026-02-19T06:00:00Z",
+        "n": "Orpheu The Wizard",
+        "s": "2026-02-20T13:00:00Z",
+        "e": "2026-02-20T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "ANTINOTE",
+        "s": "2026-02-20T14:00:00Z",
+        "e": "2026-02-20T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-02-19T06:00:00Z",
@@ -1597,18 +1579,25 @@
         "j": null,
         "u": null,
         "p": "mmmarsh"
+      },
+      {
+        "n": "Locked On Records",
+        "s": "2026-02-26T17:00:00Z",
+        "e": "2026-02-26T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Kishan",
+        "s": "2026-02-26T18:00:00Z",
+        "e": "2026-02-26T19:00:00Z",
+        "d": "Kishan is a DJ and Producer currently based in London. Actively involved in the music scene already, he produces and mixes a wide range of genres including UK Garage, Drum & Bass, House, Disco and Afrobeat. ",
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Ghorba Radio",
-        "s": "2026-02-19T04:00:00Z",
-        "e": "2026-02-19T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "ghorba"
-      },
       {
         "n": "Richard Chartier – between two points",
         "s": "2026-02-19T06:00:00Z",
@@ -2145,18 +2134,19 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "RERUN: Richard Chartier",
+        "s": "2026-02-26T18:00:00Z",
+        "e": "2026-02-26T20:00:00Z",
+        "d": null,
+        "j": "Richard Chartier",
+        "u": null,
+        "t": "restream",
+        "p": "richardchartier"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-02-19T03:00:00Z",
-        "e": "2026-02-19T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Cara Crosby",
         "s": "2026-02-19T06:00:00Z",
@@ -2375,7 +2365,7 @@
         "s": "2026-02-20T18:00:00Z",
         "e": "2026-02-20T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Grant Nelson",
         "u": null,
         "p": "ellaknight"
       },
