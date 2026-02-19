@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-19T06:50:54.679Z",
+  "updated": "2026-02-19T08:34:02.427Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOTIVE",
-        "s": "2026-02-18T18:00:00Z",
-        "e": "2026-02-18T19:00:00Z",
-        "d": "Theo Motive takes you on a monthly journey through upfront Hip Hop, Beats, Grime, Bass & everything in between.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/motive/episodes/motive-18th-february-2026",
-        "t": "monthly",
-        "p": "motive"
-      },
-      {
-        "n": "Steven Julien Presents: The Apron Show",
-        "s": "2026-02-18T19:00:00Z",
-        "e": "2026-02-18T20:00:00Z",
-        "d": "The Apron Records boss takes his anything goes approach to an continually surprising hour of radio every month, featuring everything from dusty leftfield house to energetic jazz, and anything else that he's feeling. ",
-        "j": "The Apron Show",
-        "u": "https://www.nts.live/api/v2/shows/funkineven/episodes/funkineven-18th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "MAXIMUM EXPOSURE POWER HOUR W/ TONY PRICE",
         "s": "2026-02-18T20:00:00Z",
@@ -103,7 +84,7 @@
         "p": "malibu"
       },
       {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "n": "THE EARLY BIRD SHOW W/ PAM & Fetva",
         "s": "2026-02-19T07:00:00Z",
         "e": "2026-02-19T09:00:00Z",
         "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
@@ -114,9 +95,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-02-19T09:00:00Z",
         "e": "2026-02-19T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-19th-february-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -249,25 +230,19 @@
         "u": null,
         "t": "restream",
         "p": "clairerousay"
+      },
+      {
+        "n": "Fifth World w/ Ian Kim Judd (R)",
+        "s": "2026-02-20T06:00:00Z",
+        "e": "2026-02-20T07:00:00Z",
+        "d": null,
+        "j": "Ian Kim Judd",
+        "u": null,
+        "t": "restream",
+        "p": "fifthworld"
       }
     ],
     "nts2": [
-      {
-        "n": "SUBJECT TO CHANGE W/ TIMMHOTEP",
-        "s": "2026-02-18T18:00:00Z",
-        "e": "2026-02-18T19:00:00Z",
-        "d": "Cultural critic and curator Timmhotep Aku explores the intersections of black music, life, metaphor, and meaning through songs and found audio footage.\nFrom the host: \"The emotions are mixed but my heart is pure. A soundtrack to my now as told through the music of Sun Ra, Roy Ayers, Roc Marci and more. Love to the world.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/subject-to-change-w-timmhotep/episodes/subject-to-change-w-timmhotep-18th-february-2026"
-      },
-      {
-        "n": "Aloha Got Soul",
-        "s": "2026-02-18T19:00:00Z",
-        "e": "2026-02-18T20:00:00Z",
-        "d": "An exploration into obscure, underground, and lesser known music from Hawaii, bound not by genre or generation but by a connection to the islands. Hosted by Roger Bong of Aloha Got Soul, a record label and record store in Honolulu.\nFrom the host: \"Like a fever dream of free jazz, indie pop, ambient classical and other strange stuff.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/aloha-got-soul/episodes/aloha-got-soul-18th-february-2026"
-      },
       {
         "n": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
         "s": "2026-02-18T20:00:00Z",
@@ -368,18 +343,18 @@
         "n": "NTS GUIDE TO: SOULFUL SÉGA & ELECTRIC MALOYA FROM THE INDIAN OCEAN (R)",
         "s": "2026-02-19T08:00:00Z",
         "e": "2026-02-19T09:00:00Z",
-        "d": null,
+        "d": "In the 1970s, artists from Réunion and Mauritius began fusing island styles - Maloya and Séga - with psychedelic rock, funk, and soul. \nSéga, rooted in Afro-Creole rhythms and often sung in Mauritian Creole, developed as a celebratory dance music drawing from European, African, and Indian influences. Maloya, native to Réunion, originated in enslaved Malagasy and African communities - a slower, percussive style traditionally performed with vocals, kayamb and roulér, and associated with ritual, resistance, and later, political activism.",
         "j": "SOULFUL SÉGA & ELECTRIC MALOYA FROM THE INDIAN OCEAN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-soulful-sega-electric-maloya-from-the-indian-ocean-4th-august-2025",
         "t": "restream"
       },
       {
         "n": "A Scene In Between w/ Samuel Knee (R)",
         "s": "2026-02-19T09:00:00Z",
         "e": "2026-02-19T10:00:00Z",
-        "d": null,
+        "d": "Sam Knee navigates and curates lost underground countercultural sounds with deep dives into specific sub-scenes, regions, years, labels of the near mythical 80’s post punk DIY indie guitar era and beyond, back to its 60s basement punk genesis. ",
         "j": "Samuel Knee",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/a-scene-in-between/episodes/a-scene-in-between-w-samuel-knee-15th-january-2025",
         "t": "restream"
       },
       {
@@ -495,18 +470,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "RAVE REPARATIONS RADIO",
+        "s": "2026-02-20T00:00:00Z",
+        "e": "2026-02-20T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Post-Geography w/ Ramzi",
+        "s": "2026-02-20T02:00:00Z",
+        "e": "2026-02-20T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Louis Selwyn",
-        "s": "2026-02-18T18:00:00Z",
-        "e": "2026-02-18T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "louisselwyn"
-      },
       {
         "n": "Sumgii",
         "s": "2026-02-18T20:00:00Z",
@@ -583,6 +565,15 @@
         "j": null,
         "u": null,
         "p": "psychogeography"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-19T08:00:00Z",
+        "e": "2026-02-19T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "source",
@@ -1568,25 +1559,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Insider Trading w/ APOLLO",
+        "s": "2026-02-26T07:00:00Z",
+        "e": "2026-02-26T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "On Wax w/ Samuel Alexander",
+        "s": "2026-02-26T08:00:00Z",
+        "e": "2026-02-26T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Carolina Isabel w/ Dro, Barlo & Niño Genisis – Una Noche Deep Cuts",
-        "s": "2026-02-18T18:00:00Z",
-        "e": "2026-02-18T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Spiñorita – Beyond the Groove",
-        "s": "2026-02-18T19:00:00Z",
-        "e": "2026-02-18T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Heidi Lawden – Magic Roundabout",
         "s": "2026-02-18T20:00:00Z",
@@ -1643,6 +1634,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-19T08:00:00Z",
         "e": "2026-02-19T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-19T10:00:00Z",
+        "e": "2026-02-19T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2113,26 +2113,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "T.NO",
-        "s": "2026-02-18T18:00:00Z",
-        "e": "2026-02-18T19:00:00Z",
+        "n": "The Sweeter the Juice Show",
+        "s": "2026-02-26T08:00:00Z",
+        "e": "2026-02-26T10:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
-      {
-        "n": "Just Jane",
-        "s": "2026-02-18T19:00:00Z",
-        "e": "2026-02-18T20:00:00Z",
-        "d": null,
-        "j": "B2B Manami",
-        "u": null,
-        "p": "justjane"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Interplanetary Criminal",
         "s": "2026-02-18T20:00:00Z",
@@ -2446,22 +2437,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Soeurs Malsaines",
-        "s": "2026-02-18T18:00:00Z",
-        "e": "2026-02-18T19:00:00Z",
-        "d": null,
-        "j": "Petite Mort",
-        "u": null
-      },
-      {
-        "n": "LAZE",
-        "s": "2026-02-18T19:00:00Z",
-        "e": "2026-02-18T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2026-02-18T20:00:00Z",
         "e": "2026-02-18T23:00:00Z",
@@ -2489,42 +2464,41 @@
         "t": "playlist"
       },
       {
-        "n": "MumBeats",
+        "n": "Vie Garantie",
         "s": "2026-02-19T13:00:00Z",
         "e": "2026-02-19T14:00:00Z",
         "d": null,
-        "j": "#4 avec Louise Chen",
+        "j": "w/ Marion Guillet",
         "u": null,
-        "p": "louisechen"
+        "p": "viegarantie"
       },
       {
-        "n": "Vital",
+        "n": "Mattias Mimoun",
         "s": "2026-02-19T14:00:00Z",
         "e": "2026-02-19T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "mattiasmimoun"
+      },
+      {
+        "n": "Marge",
+        "s": "2026-02-19T15:00:00Z",
+        "e": "2026-02-19T16:00:00Z",
+        "d": null,
+        "j": "présente Bass Bloom",
+        "u": null
+      },
+      {
+        "n": "ERNA",
+        "s": "2026-02-19T16:00:00Z",
+        "e": "2026-02-19T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Queer Cult",
-        "s": "2026-02-19T15:00:00Z",
-        "e": "2026-02-19T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Misantropical",
-        "s": "2026-02-19T16:00:00Z",
-        "e": "2026-02-19T17:00:00Z",
-        "d": null,
-        "j": "invite Solsi",
-        "u": null,
-        "p": "misantropical"
-      },
-      {
-        "n": "BAÏLE avec MAÏA",
+        "n": "TTristana",
         "s": "2026-02-19T17:00:00Z",
         "e": "2026-02-19T18:00:00Z",
         "d": null,
@@ -2532,25 +2506,111 @@
         "u": null
       },
       {
-        "n": "Exa-Terra",
+        "n": "Soeurs Malsaines",
         "s": "2026-02-19T18:00:00Z",
         "e": "2026-02-19T19:00:00Z",
+        "d": null,
+        "j": "Petite Mort",
+        "u": null
+      },
+      {
+        "n": "LAZE",
+        "s": "2026-02-19T19:00:00Z",
+        "e": "2026-02-19T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-19T20:00:00Z",
+        "e": "2026-02-19T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-19T23:00:00Z",
+        "e": "2026-02-20T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-20T08:00:00Z",
+        "e": "2026-02-20T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "MumBeats",
+        "s": "2026-02-20T13:00:00Z",
+        "e": "2026-02-20T14:00:00Z",
+        "d": null,
+        "j": "#4 avec Louise Chen",
+        "u": null,
+        "p": "louisechen"
+      },
+      {
+        "n": "Vital",
+        "s": "2026-02-20T14:00:00Z",
+        "e": "2026-02-20T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Queer Cult",
+        "s": "2026-02-20T15:00:00Z",
+        "e": "2026-02-20T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Misantropical",
+        "s": "2026-02-20T16:00:00Z",
+        "e": "2026-02-20T17:00:00Z",
+        "d": null,
+        "j": "invite Solsi",
+        "u": null,
+        "p": "misantropical"
+      },
+      {
+        "n": "BAÏLE avec MAÏA",
+        "s": "2026-02-20T17:00:00Z",
+        "e": "2026-02-20T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Exa-Terra",
+        "s": "2026-02-20T18:00:00Z",
+        "e": "2026-02-20T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Useless Seconds",
-        "s": "2026-02-19T19:00:00Z",
-        "e": "2026-02-19T20:00:00Z",
+        "s": "2026-02-20T19:00:00Z",
+        "e": "2026-02-20T20:00:00Z",
         "d": null,
         "j": "basic chanel",
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-19T20:00:00Z",
-        "e": "2026-02-19T21:00:00Z",
+        "s": "2026-02-20T20:00:00Z",
+        "e": "2026-02-20T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
