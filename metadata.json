@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-19T20:23:18.973Z",
+  "updated": "2026-02-19T22:23:03.653Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM & Fetva",
-        "s": "2026-02-19T07:00:00Z",
-        "e": "2026-02-19T09:00:00Z",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-19th-february-2026"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-02-19T09:00:00Z",
@@ -93,9 +85,10 @@
         "n": "KASRA V",
         "s": "2026-02-19T23:00:00Z",
         "e": "2026-02-20T00:00:00Z",
-        "d": null,
+        "d": "Kasra Vaseghi homes in on leftfield music on a monthly Friday, playing new beat to trance, ambient to Middle Eastern disco and other oddities. The show regularly features guests who are upcoming DJs, local heroes or avid collectors.\nFor archive shows: Paradise Show",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/kasra-v/episodes/kasra-v-19th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "SLIME FM W/ KHADIJA AL HANAFI (R)",
@@ -230,27 +223,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "RUF DUG",
+        "s": "2026-02-20T18:00:00Z",
+        "e": "2026-02-20T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "rufdug"
       }
     ],
     "nts2": [
-      {
-        "n": "NTS GUIDE TO: SOULFUL SÉGA & ELECTRIC MALOYA FROM THE INDIAN OCEAN (R)",
-        "s": "2026-02-19T08:00:00Z",
-        "e": "2026-02-19T09:00:00Z",
-        "d": "In the 1970s, artists from Réunion and Mauritius began fusing island styles - Maloya and Séga - with psychedelic rock, funk, and soul. \nSéga, rooted in Afro-Creole rhythms and often sung in Mauritian Creole, developed as a celebratory dance music drawing from European, African, and Indian influences. Maloya, native to Réunion, originated in enslaved Malagasy and African communities - a slower, percussive style traditionally performed with vocals, kayamb and roulér, and associated with ritual, resistance, and later, political activism.",
-        "j": "SOULFUL SÉGA & ELECTRIC MALOYA FROM THE INDIAN OCEAN",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-soulful-sega-electric-maloya-from-the-indian-ocean-4th-august-2025",
-        "t": "restream"
-      },
-      {
-        "n": "A Scene In Between w/ Samuel Knee (R)",
-        "s": "2026-02-19T09:00:00Z",
-        "e": "2026-02-19T10:00:00Z",
-        "d": "Sam Knee navigates and curates lost underground countercultural sounds with deep dives into specific sub-scenes, regions, years, labels of the near mythical 80’s post punk DIY indie guitar era and beyond, back to its 60s basement punk genesis. ",
-        "j": "Samuel Knee",
-        "u": "https://www.nts.live/api/v2/shows/a-scene-in-between/episodes/a-scene-in-between-w-samuel-knee-15th-january-2025",
-        "t": "restream"
-      },
       {
         "n": "Just A Thought w/ +44K",
         "s": "2026-02-19T10:00:00Z",
@@ -356,18 +340,18 @@
         "n": "UNDERGROUND & BLACK W/ ASH LAURYN",
         "s": "2026-02-19T22:00:00Z",
         "e": "2026-02-19T23:00:00Z",
-        "d": null,
+        "d": "Self proclaimed “Underground and Black”, Detroit native Ash Lauryn leads her musical charge with a candid love for the historical roots of dance music, and the power of reclamation in modern day America. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ash-lauryn/episodes/ash-lauryn-19th-february-2026",
         "p": "ashlauryn"
       },
       {
         "n": "Whits & Giggles",
         "s": "2026-02-19T23:00:00Z",
         "e": "2026-02-20T00:00:00Z",
-        "d": null,
+        "d": "A trip down memory lane for the final edition of Whits & Giggles…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/whits-giggles/episodes/whits-giggles-19th-february-2026"
       },
       {
         "n": "Rave Reparations Radio - Spooky Szn Mixtape (R)",
@@ -489,27 +473,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Curious Music: My Music Love Affair",
+        "s": "2026-02-20T18:00:00Z",
+        "e": "2026-02-20T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Sounds on Screen: Eating Out",
+        "s": "2026-02-20T20:00:00Z",
+        "e": "2026-02-20T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-02-19T08:00:00Z",
-        "e": "2026-02-19T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "source",
-        "s": "2026-02-19T09:00:00Z",
-        "e": "2026-02-19T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "source"
-      },
       {
         "n": "In The Rotation w/ Su",
         "s": "2026-02-19T10:00:00Z",
@@ -1599,18 +1581,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Cue:Rated",
+        "s": "2026-02-26T22:00:00Z",
+        "e": "2026-02-27T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-19T08:00:00Z",
-        "e": "2026-02-19T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-02-19T10:00:00Z",
@@ -1924,6 +1905,14 @@
         "p": "defsound"
       },
       {
+        "n": "sadie ibrahim – out of range",
+        "s": "2026-02-23T02:00:00Z",
+        "e": "2026-02-23T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "Gabie Strong and Ian Wellman - Zone Mapping",
         "s": "2026-02-23T04:00:00Z",
         "e": "2026-02-23T06:00:00Z",
@@ -2158,18 +2147,18 @@
         "u": null,
         "t": "weekly",
         "p": "jimmytamborello"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-02-19T07:00:00Z",
-        "e": "2026-02-19T09:00:00Z",
+        "n": "Apiento’s New Age Dance Show",
+        "s": "2026-02-26T22:00:00Z",
+        "e": "2026-02-27T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "apiento"
+      }
+    ],
+    "rinse": [
       {
         "n": "Yazmin Lacey",
         "s": "2026-02-19T09:00:00Z",
