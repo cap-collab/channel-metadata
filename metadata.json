@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-19T18:40:53.096Z",
+  "updated": "2026-02-19T20:23:18.973Z",
   "stations": {
     "nts1": [
-      {
-        "n": "UNITED IN FLAMES W/ MALIBU (R)",
-        "s": "2026-02-19T06:00:00Z",
-        "e": "2026-02-19T07:00:00Z",
-        "d": "Malibu is a French electronic musician whose work sails between ambient and ethereal music.\nForever inspired by soft reverbed vocals and melodious chord progressions, Malibu’s music is an immersive nostalgic journey in a sea of synthetic strings and choirs.",
-        "j": "MALIBU",
-        "u": "https://www.nts.live/api/v2/shows/malibu/episodes/united-in-flames-w-malibu-7th-october-2020",
-        "t": "restream",
-        "p": "malibu"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ PAM & Fetva",
         "s": "2026-02-19T07:00:00Z",
@@ -86,17 +76,18 @@
         "n": "NILE TO BANK w/ NIHAL - Youssef Chahine Special",
         "s": "2026-02-19T20:00:00Z",
         "e": "2026-02-19T21:00:00Z",
-        "d": null,
+        "d": "Influenced by her hometown Cairo’s underground scene, London-based writer and researcher Nihal selects contemporary left-field hip hop, drill, drum & bass and experimental sounds from the Middle East and North Africa capturing the organic crossovers traversing the region.\nFrom the host: \"2026 marks the centennial of legendary Egyptian director Youssef Chahine (1926-2008). This show evokes the rich soundscapes of Chahine’s cinema. It includes songs, soundtracks and excerpts of dialogues starting from 1957‘s Enta Habibi and ending with 2004’s Alexandria… New York.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/nihal/episodes/nihal-19th-february-2026"
       },
       {
         "n": "PEKING SPRING w/ JON K  - A Tribute To The Music Of Sly Dunbar",
         "s": "2026-02-19T21:00:00Z",
         "e": "2026-02-19T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Jon K explores the spaces between monthly for 120 mins.\nFrom the host: \"2 hours celebrating the music and production of Sly Dunbar - hosted by Jon K\"",
+        "j": "JON K",
+        "u": "https://www.nts.live/api/v2/shows/jon-k-presents-peking-spring/episodes/jon-k-presents-peking-spring-19th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "KASRA V",
@@ -223,27 +214,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "STEPHANE",
+        "s": "2026-02-20T16:00:00Z",
+        "e": "2026-02-20T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Tama Sumo & Lakuti",
+        "s": "2026-02-20T17:00:00Z",
+        "e": "2026-02-20T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "MUSIC 4 LOVERS W/ JABU & ANDY PAYBACK (R)",
-        "s": "2026-02-19T06:00:00Z",
-        "e": "2026-02-19T07:00:00Z",
-        "d": "Jabu and Andy Payback bring us Music 4 Lovers once a month.",
-        "j": "JABU & ANDY PAYBACK",
-        "u": "https://www.nts.live/api/v2/shows/music-4-lovers/episodes/music-4-lovers-19th-august-2023",
-        "t": "restream"
-      },
-      {
-        "n": "GHUNGHRU (R)",
-        "s": "2026-02-19T07:00:00Z",
-        "e": "2026-02-19T08:00:00Z",
-        "d": "New Delhi and San Francisco based GHUNGHRU presents sounds influenced by Indian classical music and other traditional sounds of India, modular synthesizers, drones, lyricism, and texture.\nwww.ghunghru.fm",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-18th-august-2025",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: SOULFUL SÉGA & ELECTRIC MALOYA FROM THE INDIAN OCEAN (R)",
         "s": "2026-02-19T08:00:00Z",
@@ -350,17 +339,17 @@
         "n": "COSMIC PEEKABOO",
         "s": "2026-02-19T20:00:00Z",
         "e": "2026-02-19T21:00:00Z",
-        "d": null,
+        "d": "\"Psychedelic sunshine, folk songs, and poppy jazz for cats.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/cosmic-peekaboo/episodes/cosmic-peekaboo-19th-february-2026"
       },
       {
         "n": "Straight Honey",
         "s": "2026-02-19T21:00:00Z",
         "e": "2026-02-19T22:00:00Z",
-        "d": null,
+        "d": "Straight Honey is raw, unfiltered, and naturally crystallized Jazz & soulful R&B. Pour, stir, and sip, while you sink into her rich grooves…of tomorrow & yesterday.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/straight-honey/episodes/straight-honey-20th-february-2026",
         "p": "honey"
       },
       {
@@ -381,12 +370,13 @@
         "u": null
       },
       {
-        "n": "RAVE REPARATIONS RADIO",
+        "n": "Rave Reparations Radio - Spooky Szn Mixtape (R)",
         "s": "2026-02-20T00:00:00Z",
         "e": "2026-02-20T02:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Spooky Szn Mixtape",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Post-Geography w/ Ramzi",
@@ -483,27 +473,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "JUNE MCDOOM",
+        "s": "2026-02-20T16:00:00Z",
+        "e": "2026-02-20T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Finest Hour w/ Cynthia",
+        "s": "2026-02-20T17:00:00Z",
+        "e": "2026-02-20T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-02-19T06:00:00Z",
-        "e": "2026-02-19T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Psychogeography",
-        "s": "2026-02-19T07:00:00Z",
-        "e": "2026-02-19T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "psychogeography"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-02-19T08:00:00Z",
@@ -1595,18 +1583,25 @@
         "d": "Kishan is a DJ and Producer currently based in London. Actively involved in the music scene already, he produces and mixes a wide range of genres including UK Garage, Drum & Bass, House, Disco and Afrobeat. ",
         "j": null,
         "u": null
+      },
+      {
+        "n": "Gabriella",
+        "s": "2026-02-26T19:00:00Z",
+        "e": "2026-02-26T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SI*BL",
+        "s": "2026-02-26T20:00:00Z",
+        "e": "2026-02-26T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Richard Chartier – between two points",
-        "s": "2026-02-19T06:00:00Z",
-        "e": "2026-02-19T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "richardchartier"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-02-19T08:00:00Z",
@@ -1678,6 +1673,15 @@
         "u": null,
         "t": "weekly",
         "p": "jimmytamborello"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-19T22:00:00Z",
+        "e": "2026-02-20T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Version Galore OR Pony Sweat",
@@ -2144,17 +2148,19 @@
         "u": null,
         "t": "restream",
         "p": "richardchartier"
+      },
+      {
+        "n": "Jimmy Tamborello - Dying Songs",
+        "s": "2026-02-26T20:00:00Z",
+        "e": "2026-02-26T22:00:00Z",
+        "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
+        "j": "Dying Songs",
+        "u": null,
+        "t": "weekly",
+        "p": "jimmytamborello"
       }
     ],
     "rinse": [
-      {
-        "n": "Cara Crosby",
-        "s": "2026-02-19T06:00:00Z",
-        "e": "2026-02-19T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Playlist",
         "s": "2026-02-19T07:00:00Z",
@@ -2396,15 +2402,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-02-18T23:00:00Z",
-        "e": "2026-02-19T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-02-19T08:00:00Z",
