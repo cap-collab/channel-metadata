@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-19T04:12:06.213Z",
+  "updated": "2026-02-19T06:50:54.679Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOXIE",
-        "s": "2026-02-18T15:00:00Z",
-        "e": "2026-02-18T17:00:00Z",
-        "d": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moxie/episodes/moxie-18th-february-2026",
-        "p": "moxie"
-      },
-      {
-        "n": "Scarlett O'Malley",
-        "s": "2026-02-18T17:00:00Z",
-        "e": "2026-02-18T18:00:00Z",
-        "d": "After work fun and global tunes with Tash LC and guests every other Wednesday ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tash-lc/episodes/tash-lc-scarlett-o-malley-18th-february-2026"
-      },
       {
         "n": "MOTIVE",
         "s": "2026-02-18T18:00:00Z",
@@ -113,9 +96,9 @@
         "n": "UNITED IN FLAMES W/ MALIBU (R)",
         "s": "2026-02-19T06:00:00Z",
         "e": "2026-02-19T07:00:00Z",
-        "d": null,
+        "d": "Malibu is a French electronic musician whose work sails between ambient and ethereal music.\nForever inspired by soft reverbed vocals and melodious chord progressions, Malibu’s music is an immersive nostalgic journey in a sea of synthetic strings and choirs.",
         "j": "MALIBU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/malibu/episodes/united-in-flames-w-malibu-7th-october-2020",
         "t": "restream",
         "p": "malibu"
       },
@@ -123,9 +106,9 @@
         "n": "THE EARLY BIRD SHOW W/ PAM",
         "s": "2026-02-19T07:00:00Z",
         "e": "2026-02-19T09:00:00Z",
-        "d": null,
+        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-19th-february-2026"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -247,28 +230,28 @@
         "j": "AGATHE ROUSSELLE",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Last Resort (R)",
+        "s": "2026-02-20T04:00:00Z",
+        "e": "2026-02-20T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Mended Dreams w/ Claire Rousay (R)",
+        "s": "2026-02-20T05:00:00Z",
+        "e": "2026-02-20T06:00:00Z",
+        "d": null,
+        "j": "Claire Rousay",
+        "u": null,
+        "t": "restream",
+        "p": "clairerousay"
       }
     ],
     "nts2": [
-      {
-        "n": "THE BADDIS SOUND W/ DANNIELLA DEE - Live from Vinyl Club Jamaica",
-        "s": "2026-02-18T16:00:00Z",
-        "e": "2026-02-18T17:00:00Z",
-        "d": "Inspired by the iconic reggae & ska sounds of her home, singer & producer Danniella Dee shares a monthly crate of dub-wise selections, soul-soothing rocksteady, and heavyweight roots to the studio. ",
-        "j": "DANNIELLA DEE",
-        "u": "https://www.nts.live/api/v2/shows/danniella-dee/episodes/danniella-dee-18th-february-2026",
-        "t": "monthly",
-        "p": "dannielladee"
-      },
-      {
-        "n": "Martyn's Darkest Light",
-        "s": "2026-02-18T17:00:00Z",
-        "e": "2026-02-18T18:00:00Z",
-        "d": "Tune into Martyn's monthly show on 2 for some delectable jazz treats from over the Atlantic. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martyn/episodes/martyn-18th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "SUBJECT TO CHANGE W/ TIMMHOTEP",
         "s": "2026-02-18T18:00:00Z",
@@ -367,18 +350,18 @@
         "n": "MUSIC 4 LOVERS W/ JABU & ANDY PAYBACK (R)",
         "s": "2026-02-19T06:00:00Z",
         "e": "2026-02-19T07:00:00Z",
-        "d": null,
+        "d": "Jabu and Andy Payback bring us Music 4 Lovers once a month.",
         "j": "JABU & ANDY PAYBACK",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/music-4-lovers/episodes/music-4-lovers-19th-august-2023",
         "t": "restream"
       },
       {
         "n": "GHUNGHRU (R)",
         "s": "2026-02-19T07:00:00Z",
         "e": "2026-02-19T08:00:00Z",
-        "d": null,
+        "d": "New Delhi and San Francisco based GHUNGHRU presents sounds influenced by Indian classical music and other traditional sounds of India, modular synthesizers, drones, lyricism, and texture.\nwww.ghunghru.fm",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-18th-august-2025",
         "t": "restream"
       },
       {
@@ -495,26 +478,26 @@
         "j": null,
         "u": null,
         "p": "honey"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " Gilbo",
-        "s": "2026-02-18T16:00:00Z",
-        "e": "2026-02-18T17:00:00Z",
+        "n": "UNDERGROUND & BLACK W/ ASH LAURYN",
+        "s": "2026-02-19T22:00:00Z",
+        "e": "2026-02-19T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "gilbo"
+        "p": "ashlauryn"
       },
       {
-        "n": "MixRaw",
-        "s": "2026-02-18T17:00:00Z",
-        "e": "2026-02-18T18:00:00Z",
+        "n": "Whits & Giggles",
+        "s": "2026-02-19T23:00:00Z",
+        "e": "2026-02-20T00:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Louis Selwyn",
         "s": "2026-02-18T18:00:00Z",
@@ -1589,15 +1572,6 @@
     ],
     "dublab": [
       {
-        "n": "Teen Daze - Easy Listening",
-        "s": "2026-02-18T16:00:00Z",
-        "e": "2026-02-18T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "teendaze"
-      },
-      {
         "n": "Carolina Isabel w/ Dro, Barlo & Niño Genisis – Una Noche Deep Cuts",
         "s": "2026-02-18T18:00:00Z",
         "e": "2026-02-18T19:00:00Z",
@@ -1664,6 +1638,15 @@
         "j": null,
         "u": null,
         "p": "richardchartier"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-19T08:00:00Z",
+        "e": "2026-02-19T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -2122,28 +2105,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Change of Heart",
+        "s": "2026-02-26T06:00:00Z",
+        "e": "2026-02-26T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Utopia Presents",
-        "s": "2026-02-18T15:00:00Z",
-        "e": "2026-02-18T17:00:00Z",
-        "d": null,
-        "j": "LILA B2B JJAMZ",
-        "u": null,
-        "p": "lila"
-      },
-      {
-        "n": "Talina",
-        "s": "2026-02-18T17:00:00Z",
-        "e": "2026-02-18T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "regular",
-        "p": "talina"
-      },
       {
         "n": "T.NO",
         "s": "2026-02-18T18:00:00Z",
@@ -2473,22 +2445,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "ERNA",
-        "s": "2026-02-18T16:00:00Z",
-        "e": "2026-02-18T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "TTristana",
-        "s": "2026-02-18T17:00:00Z",
-        "e": "2026-02-18T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Soeurs Malsaines",
         "s": "2026-02-18T18:00:00Z",
