@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-20T10:29:11.927Z",
+  "updated": "2026-02-20T12:38:16.376Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PEKING SPRING w/ JON K  - A Tribute To The Music Of Sly Dunbar",
-        "s": "2026-02-19T21:00:00Z",
-        "e": "2026-02-19T23:00:00Z",
-        "d": "Jon K explores the spaces between monthly for 120 mins.\nFrom the host: \"2 hours celebrating the music and production of Sly Dunbar - hosted by Jon K\"",
-        "j": "JON K",
-        "u": "https://www.nts.live/api/v2/shows/jon-k-presents-peking-spring/episodes/jon-k-presents-peking-spring-19th-february-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "KASRA V",
-        "s": "2026-02-19T23:00:00Z",
-        "e": "2026-02-20T00:00:00Z",
-        "d": "Kasra Vaseghi homes in on leftfield music on a monthly Friday, playing new beat to trance, ambient to Middle Eastern disco and other oddities. The show regularly features guests who are upcoming DJs, local heroes or avid collectors.\nFor archive shows: Paradise Show",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kasra-v/episodes/kasra-v-19th-february-2026",
-        "t": "monthly",
-        "p": "kasrav"
-      },
       {
         "n": "SLIME FM W/ KHADIJA AL HANAFI (R)",
         "s": "2026-02-20T00:00:00Z",
@@ -116,12 +97,21 @@
         "p": "scarythings"
       },
       {
+        "n": "SOUP TO NUTS W/ SCARY THINGS",
+        "s": "2026-02-20T11:10:00Z",
+        "e": "2026-02-20T13:00:00Z",
+        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-20th-february-2026",
+        "p": "scarythings"
+      },
+      {
         "n": "PUM PUM POWER HOUR W/ LIL C",
         "s": "2026-02-20T13:00:00Z",
         "e": "2026-02-20T14:00:00Z",
-        "d": null,
+        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-20th-february-2026",
         "p": "lilc"
       },
       {
@@ -251,26 +241,19 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Post-Geography (R)",
+        "s": "2026-02-21T07:00:00Z",
+        "e": "2026-02-21T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "postgeography"
       }
     ],
     "nts2": [
-      {
-        "n": "UNDERGROUND & BLACK W/ ASH LAURYN",
-        "s": "2026-02-19T22:00:00Z",
-        "e": "2026-02-19T23:00:00Z",
-        "d": "Self proclaimed “Underground and Black”, Detroit native Ash Lauryn leads her musical charge with a candid love for the historical roots of dance music, and the power of reclamation in modern day America. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ash-lauryn/episodes/ash-lauryn-19th-february-2026",
-        "p": "ashlauryn"
-      },
-      {
-        "n": "Whits & Giggles",
-        "s": "2026-02-19T23:00:00Z",
-        "e": "2026-02-20T00:00:00Z",
-        "d": "A trip down memory lane for the final edition of Whits & Giggles…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/whits-giggles/episodes/whits-giggles-19th-february-2026"
-      },
       {
         "n": "Rave Reparations Radio - Spooky Szn Mixtape (R)",
         "s": "2026-02-20T00:00:00Z",
@@ -366,9 +349,10 @@
         "n": "Orpheu The Wizard",
         "s": "2026-02-20T13:00:00Z",
         "e": "2026-02-20T14:00:00Z",
-        "d": null,
+        "d": "Amsterdam selector Orpheu The Wizard connects oddball and straight forward jams from different decades and different record shelves in a monthly show. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/orpheu-the-wizard/episodes/orpheu-the-wizard-20th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "ANTINOTE",
@@ -377,6 +361,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS GUIDE TO: DRUM & BLISS (R)",
+        "s": "2026-02-20T15:00:00Z",
+        "e": "2026-02-20T16:00:00Z",
+        "d": null,
+        "j": "DRUM & BLISS",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "JUNE MCDOOM",
@@ -503,14 +496,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "The Mean Streets Show",
-        "s": "2026-02-19T22:00:00Z",
-        "e": "2026-02-20T00:00:00Z",
-        "d": "Responsible for “that massive grime tune with the Psycho strings”, UK producers/DJs Trends & Boylan are well versed in what the scene has to offer. They use this platform to showcase music from across the 140 spectrum from Grime to Dubstep. Anything goes!!",
-        "j": null,
-        "u": null
-      },
       {
         "n": " Akira Knightley",
         "s": "2026-02-20T00:00:00Z",
@@ -1568,18 +1553,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-19T22:00:00Z",
-        "e": "2026-02-20T00:00:00Z",
+        "n": " Household",
+        "s": "2026-02-27T11:00:00Z",
+        "e": "2026-02-27T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Lakey",
+        "s": "2026-02-27T12:00:00Z",
+        "e": "2026-02-27T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "lakey"
+      }
+    ],
+    "dublab": [
       {
         "n": "Version Galore OR Pony Sweat",
         "s": "2026-02-20T00:00:00Z",
@@ -1645,6 +1638,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-20T12:00:00Z",
         "e": "2026-02-20T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-20T14:00:00Z",
+        "e": "2026-02-20T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2146,24 +2148,6 @@
     ],
     "rinse": [
       {
-        "n": "Steel City Dance Discs",
-        "s": "2026-02-19T22:00:00Z",
-        "e": "2026-02-19T23:00:00Z",
-        "d": null,
-        "j": "Margo XS",
-        "u": null,
-        "p": "steelcitydancediscs"
-      },
-      {
-        "n": "Soul Mass Transit System",
-        "s": "2026-02-19T23:00:00Z",
-        "e": "2026-02-20T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "soulmasstransitsystem"
-      },
-      {
         "n": "Wes Baggaley",
         "s": "2026-02-20T00:00:00Z",
         "e": "2026-02-20T01:00:00Z",
@@ -2274,7 +2258,7 @@
         "s": "2026-02-20T22:00:00Z",
         "e": "2026-02-20T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "ROJDAR",
         "u": null
       },
       {
@@ -2349,11 +2333,11 @@
         "p": "ijordan"
       },
       {
-        "n": "Hi-Fidelity",
+        "n": "Hi-Fidelity with New Forms",
         "s": "2026-02-21T11:00:00Z",
         "e": "2026-02-21T13:00:00Z",
         "d": null,
-        "j": "New Forms",
+        "j": "Son of Paul",
         "u": null
       },
       {
@@ -2379,7 +2363,7 @@
         "s": "2026-02-21T16:00:00Z",
         "e": "2026-02-21T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJ Khalipha",
         "u": null,
         "p": "juba"
       },
@@ -2397,18 +2381,26 @@
         "s": "2026-02-21T18:00:00Z",
         "e": "2026-02-21T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "BABY FORD & HIS IFACH COLLECTIVE special",
         "u": null,
         "p": "cassy"
       },
       {
         "n": "ADIEL",
         "s": "2026-02-21T20:00:00Z",
-        "e": "2026-02-21T23:00:00Z",
+        "e": "2026-02-21T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "p": "adiel"
+      },
+      {
+        "n": "Roman Flügel",
+        "s": "2026-02-21T22:00:00Z",
+        "e": "2026-02-21T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Rinse HQ Series",
@@ -2420,15 +2412,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-02-19T20:00:00Z",
-        "e": "2026-02-19T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-02-19T23:00:00Z",
