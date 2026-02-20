@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-20T12:38:16.376Z",
+  "updated": "2026-02-20T14:35:07.018Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SLIME FM W/ KHADIJA AL HANAFI (R)",
-        "s": "2026-02-20T00:00:00Z",
-        "e": "2026-02-20T01:00:00Z",
-        "d": null,
-        "j": "KHADIJA AL HANAFI",
-        "u": null,
-        "t": "restream",
-        "p": "slimefm"
-      },
-      {
-        "n": "DJ TOBZY IMOLE GIWA (R)",
-        "s": "2026-02-20T01:00:00Z",
-        "e": "2026-02-20T02:00:00Z",
-        "d": "The best in Nigerian freebeat from Lagos-based champion of the sound, DJ Tobzy.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tobzy-imole-giwa/episodes/tobzy-imole-giwa-30th-june-2023",
-        "t": "restream"
-      },
       {
         "n": "8ULENTINA (R)",
         "s": "2026-02-20T02:00:00Z",
@@ -118,18 +99,19 @@
         "n": "TEARS IN THE CLUB W/ JEUNE POUCE",
         "s": "2026-02-20T14:00:00Z",
         "e": "2026-02-20T15:00:00Z",
-        "d": null,
+        "d": "\"Tears in the Club\" presents a unique blend of structured and chaotic music, combining intense hip hop, drum and bass, footwork, jersey club, and sometimes Afro rhythms. This multi-genre musical show explores diverse musical landscapes, creating a striking contrast between genres, while also showcasing new artists.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jeune-pouce/episodes/jeune-pouce-20th-february-2026",
         "p": "jeunepouce"
       },
       {
-        "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW w/ Jah$tar",
+        "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW w/ Jah$tar & Kear",
         "s": "2026-02-20T15:00:00Z",
         "e": "2026-02-20T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Artist and selector Fatima drops by NTS London studio once a month to play her favourite tunes. A laid back waffle infused show draped in the finest of audible garments, presenting some the worlds hardest ear candy.",
+        "j": "Jah$tar & Kear",
+        "u": "https://www.nts.live/api/v2/shows/fatima/episodes/fatima-20th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "STEPHANE",
@@ -251,18 +233,35 @@
         "u": null,
         "t": "restream",
         "p": "postgeography"
+      },
+      {
+        "n": "SOUNDS OF THE DAWN",
+        "s": "2026-02-21T08:00:00Z",
+        "e": "2026-02-21T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
+        "s": "2026-02-21T10:00:00Z",
+        "e": "2026-02-21T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "macca"
+      },
+      {
+        "n": "Ross Allen",
+        "s": "2026-02-21T12:00:00Z",
+        "e": "2026-02-21T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "rossallen"
       }
     ],
     "nts2": [
-      {
-        "n": "Rave Reparations Radio - Spooky Szn Mixtape (R)",
-        "s": "2026-02-20T00:00:00Z",
-        "e": "2026-02-20T02:00:00Z",
-        "d": null,
-        "j": "Spooky Szn Mixtape",
-        "u": "https://www.nts.live/api/v2/shows/rave-reparations/episodes/rave-reparations-3rd-october-2025",
-        "t": "restream"
-      },
       {
         "n": "Post-Geography w/ Ramzi",
         "s": "2026-02-20T02:00:00Z",
@@ -358,17 +357,18 @@
         "n": "ANTINOTE",
         "s": "2026-02-20T14:00:00Z",
         "e": "2026-02-20T15:00:00Z",
-        "d": null,
+        "d": "Monthly sessions from Zaltan, the mind behind Paris-based leftfield dance, electronic & downtempo imprint Antinote, with occasional appearances from friends and artists on the label.\nFrom the host: \"Hi, this is zaltan for an hour of new music :-)\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/zaltan/episodes/zaltan-20th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "NTS GUIDE TO: DRUM & BLISS (R)",
         "s": "2026-02-20T15:00:00Z",
         "e": "2026-02-20T16:00:00Z",
-        "d": null,
+        "d": "In a vague coalescing of producers and scenes in the late 1990s, the worlds of fuzzy, reverb laden indie rock and drum & bass fused on projects by artists like Bowery Electric and Flying Saucer attack. ",
         "j": "DRUM & BLISS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-drum-and-bliss-17th-february-2023",
         "t": "restream"
       },
       {
@@ -493,25 +493,27 @@
         "u": null,
         "t": "restream",
         "p": "sophie"
+      },
+      {
+        "n": "OPEN HAND REAL FLAMES - NINA SIMONE SPECIAL (R)",
+        "s": "2026-02-21T09:00:00Z",
+        "e": "2026-02-21T10:00:00Z",
+        "d": null,
+        "j": "NINA SIMONE SPECIAL",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "NTS GUIDE TO: SAKAMOTO'S PIANO WORKS (R)",
+        "s": "2026-02-21T10:00:00Z",
+        "e": "2026-02-21T11:00:00Z",
+        "d": null,
+        "j": "SAKAMOTO'S PIANO WORKS",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": " Akira Knightley",
-        "s": "2026-02-20T00:00:00Z",
-        "e": "2026-02-20T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "DELLUSION",
-        "s": "2026-02-20T01:00:00Z",
-        "e": "2026-02-20T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "robbiethemook",
         "s": "2026-02-20T02:00:00Z",
@@ -1570,25 +1572,17 @@
         "j": null,
         "u": null,
         "p": "lakey"
+      },
+      {
+        "n": "Cam Yates",
+        "s": "2026-02-27T14:00:00Z",
+        "e": "2026-02-27T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Version Galore OR Pony Sweat",
-        "s": "2026-02-20T00:00:00Z",
-        "e": "2026-02-20T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Puma Blue – guest session",
-        "s": "2026-02-20T01:00:00Z",
-        "e": "2026-02-20T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-02-20T02:00:00Z",
@@ -1647,6 +1641,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-20T14:00:00Z",
         "e": "2026-02-20T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-20T16:00:00Z",
+        "e": "2026-02-20T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2148,24 +2151,6 @@
     ],
     "rinse": [
       {
-        "n": "Wes Baggaley",
-        "s": "2026-02-20T00:00:00Z",
-        "e": "2026-02-20T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "wesbaggaley"
-      },
-      {
-        "n": "Studio Barnhus",
-        "s": "2026-02-20T01:00:00Z",
-        "e": "2026-02-20T02:00:00Z",
-        "d": null,
-        "j": "Kornél Kovács B2B Axel Boman",
-        "u": null,
-        "p": "studiobarnhus"
-      },
-      {
         "n": "Just Jane",
         "s": "2026-02-20T02:00:00Z",
         "e": "2026-02-20T03:00:00Z",
@@ -2452,7 +2437,7 @@
         "s": "2026-02-20T15:00:00Z",
         "e": "2026-02-20T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJ Monique invite Acidusa",
         "u": null,
         "p": "queercult"
       },
@@ -2470,7 +2455,7 @@
         "s": "2026-02-20T17:00:00Z",
         "e": "2026-02-20T18:00:00Z",
         "d": null,
-        "j": "invite mAdvil",
+        "j": "invite MadVil",
         "u": null
       },
       {
