@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-20T14:35:07.018Z",
+  "updated": "2026-02-20T16:28:27.835Z",
   "stations": {
     "nts1": [
-      {
-        "n": "8ULENTINA (R)",
-        "s": "2026-02-20T02:00:00Z",
-        "e": "2026-02-20T03:00:00Z",
-        "d": "8ULENTINA is an interdisciplinary artist, music producer and DJ based in Brooklyn, New York. Known for his dynamic DJ sets and music composition synthesizing a range of genres, geographies and tempos. He co-founded CLUB CHAI (2016-2021), a record label and curatorial platform with Lara Sarkissian and currently runs a SILLAGE, a platform for contemporary sonic artifacts. His NTS show explores the sounds that inspire his production process, focusing on experimentation, percussive intensity, and non linear storytelling through sound.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/8ulentina/episodes/8ulentina-8th-may-2024",
-        "t": "restream"
-      },
-      {
-        "n": "SCORING MACHINE w/ AGATHE ROUSSELLE (R)",
-        "s": "2026-02-20T03:00:00Z",
-        "e": "2026-02-20T04:00:00Z",
-        "d": null,
-        "j": "AGATHE ROUSSELLE",
-        "u": null,
-        "t": "restream",
-        "p": "agatherousselle"
-      },
       {
         "n": "Last Resort (R)",
         "s": "2026-02-20T04:00:00Z",
@@ -117,26 +98,26 @@
         "n": "STEPHANE",
         "s": "2026-02-20T16:00:00Z",
         "e": "2026-02-20T17:00:00Z",
-        "d": null,
+        "d": "contemporary french + international rap presented by Stephane.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/gelato/episodes/gelato-20th-february-2026"
       },
       {
         "n": "Tama Sumo & Lakuti",
         "s": "2026-02-20T17:00:00Z",
         "e": "2026-02-20T18:00:00Z",
-        "d": null,
+        "d": "Dream team Tama Sumo & Lakuti take a soulful excursion into disco & house.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/tama-sumo-lakuti-20th-february-2026"
       },
       {
-        "n": "RUF DUG",
+        "n": "KEVIN SAUNDERSON (R)",
         "s": "2026-02-20T18:00:00Z",
         "e": "2026-02-20T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "rufdug"
+        "t": "restream"
       },
       {
         "n": "MINIMAL EFFORT",
@@ -243,13 +224,12 @@
         "u": null
       },
       {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA & Yaya Bey",
         "s": "2026-02-21T10:00:00Z",
         "e": "2026-02-21T12:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "macca"
+        "u": null
       },
       {
         "n": "Ross Allen",
@@ -259,27 +239,17 @@
         "j": null,
         "u": null,
         "p": "rossallen"
+      },
+      {
+        "n": "JAMES MASSIAH",
+        "s": "2026-02-21T14:00:00Z",
+        "e": "2026-02-21T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Post-Geography w/ Ramzi",
-        "s": "2026-02-20T02:00:00Z",
-        "e": "2026-02-20T03:00:00Z",
-        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-20th-february-2026",
-        "p": "postgeography"
-      },
-      {
-        "n": "The Outside Insight Hour (R)",
-        "s": "2026-02-20T03:00:00Z",
-        "e": "2026-02-20T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Kampire (R)",
         "s": "2026-02-20T04:00:00Z",
@@ -375,18 +345,19 @@
         "n": "JUNE MCDOOM",
         "s": "2026-02-20T16:00:00Z",
         "e": "2026-02-20T17:00:00Z",
-        "d": null,
+        "d": "New York based neo-folk songwriter June McDoom takes over for regular trips into vintage folk, reggae, soul, experimental sounds and more.\nFrom the host: \"Snowbound in New York.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/june-mcdoom/episodes/june-mcdoom-20th-february-2026",
         "p": "junemcdoom"
       },
       {
         "n": "Finest Hour w/ Cynthia",
         "s": "2026-02-20T17:00:00Z",
         "e": "2026-02-20T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "A monthly broadcasts from London-based curator Cynthia, taking you through a selection of her ongoing music research and personal favourites, blending sounds that move across time and genre.",
+        "j": "Cynthia",
+        "u": "https://www.nts.live/api/v2/shows/cynthia/episodes/cynthia-20th-february-2026",
+        "t": "monthly"
       },
       {
         "n": "Curious Music: My Music Love Affair",
@@ -511,25 +482,28 @@
         "j": "SAKAMOTO'S PIANO WORKS",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "AWE W/ LAUREL HALO (R)",
+        "s": "2026-02-21T11:00:00Z",
+        "e": "2026-02-21T12:00:00Z",
+        "d": null,
+        "j": "LAUREL HALO",
+        "u": null,
+        "t": "restream",
+        "p": "laurelhalo"
+      },
+      {
+        "n": "AS I WAS MOVING AHEAD - SPIRITUAL AWAKENINGS (R)",
+        "s": "2026-02-21T12:00:00Z",
+        "e": "2026-02-21T13:00:00Z",
+        "d": null,
+        "j": "SPIRITUAL AWAKENINGS",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "robbiethemook",
-        "s": "2026-02-20T02:00:00Z",
-        "e": "2026-02-20T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Empathy Audio Show",
-        "s": "2026-02-20T03:00:00Z",
-        "e": "2026-02-20T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-02-20T04:00:00Z",
@@ -1580,18 +1554,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-20T02:00:00Z",
-        "e": "2026-02-20T04:00:00Z",
+        "n": "Loker",
+        "s": "2026-02-27T15:00:00Z",
+        "e": "2026-02-27T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Rowan Ash B2B Louna",
+        "s": "2026-02-27T16:00:00Z",
+        "e": "2026-02-27T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "ash"
+      }
+    ],
+    "dublab": [
       {
         "n": "Star Eyes - Chaos Clan",
         "s": "2026-02-20T04:00:00Z",
@@ -2151,15 +2133,6 @@
     ],
     "rinse": [
       {
-        "n": "Just Jane",
-        "s": "2026-02-20T02:00:00Z",
-        "e": "2026-02-20T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "justjane"
-      },
-      {
         "n": "Electronic Playlist",
         "s": "2026-02-20T03:00:00Z",
         "e": "2026-02-20T06:00:00Z",
@@ -2330,7 +2303,7 @@
         "s": "2026-02-21T13:00:00Z",
         "e": "2026-02-21T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Next Door Records presents Penzik & Burns",
         "u": null,
         "p": "counterculture"
       },
@@ -2388,11 +2361,11 @@
         "u": null
       },
       {
-        "n": "Rinse HQ Series",
+        "n": "Dennis Quin",
         "s": "2026-02-21T23:00:00Z",
         "e": "2026-02-22T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Rinse HQ144",
         "u": null
       }
     ],
