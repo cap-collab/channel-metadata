@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-21T16:18:32.562Z",
+  "updated": "2026-02-21T18:22:20.040Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GiGi FM (R)",
-        "s": "2026-02-21T04:00:00Z",
-        "e": "2026-02-21T05:00:00Z",
-        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-3rd-january-2024",
-        "t": "restream"
-      },
       {
         "n": "Japan Blues (R)",
         "s": "2026-02-21T05:00:00Z",
@@ -95,17 +86,18 @@
         "n": "SWEET TOOTH W/ ALFIE WHITEMAN",
         "s": "2026-02-21T18:00:00Z",
         "e": "2026-02-21T19:00:00Z",
-        "d": null,
+        "d": "Sweet selections from director and photographer Alfie Whiteman.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/alfie-whiteman/episodes/alfie-whiteman-21st-february-2026"
       },
       {
         "n": "HOT MESS",
         "s": "2026-02-21T19:00:00Z",
         "e": "2026-02-21T20:00:00Z",
-        "d": null,
+        "d": "Babak Ganjei's monthly grunge and garage hangover rolls through with classics old and new, from Memphis to London, interspersed, of course, with totally irrelevant jokes and chat.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/hotmess/episodes/hotmess-21st-february-2026",
+        "t": "monthly"
       },
       {
         "n": "CHERRIE FLAVA",
@@ -222,29 +214,26 @@
         "j": null,
         "u": null,
         "p": "perfectlives"
+      },
+      {
+        "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
+        "s": "2026-02-22T22:00:00Z",
+        "e": "2026-02-23T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "midnightmarauders"
+      },
+      {
+        "n": "LIVE AT THE CLINIC w/ BAKUDI SCREAM",
+        "s": "2026-02-23T00:00:00Z",
+        "e": "2026-02-23T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "FLOATING POINTS (R)",
-        "s": "2026-02-21T03:00:00Z",
-        "e": "2026-02-21T05:00:00Z",
-        "d": "Sam Shepherd a.k.a Floating Points barely needs introduction. Cataloguing depths uncharted to expose some of the best jazz, soul, rare groove and disco around. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/floating-points/episodes/floating-points-3rd-june-2024",
-        "t": "restream",
-        "p": "floatingpoints"
-      },
-      {
-        "n": "Popstar Benny (R)",
-        "s": "2026-02-21T05:00:00Z",
-        "e": "2026-02-21T06:00:00Z",
-        "d": "An hour of the most exciting rap, r&b and club from the underground and mainstream presented by Atlanta's own, Popstar Benny.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-15th-july-2025",
-        "t": "restream",
-        "p": "popstarbenny"
-      },
       {
         "n": "DJ Harrison (R)",
         "s": "2026-02-21T06:00:00Z",
@@ -356,9 +345,9 @@
         "n": "MUTUALISM W/ ICEBOY VIOLET",
         "s": "2026-02-21T19:00:00Z",
         "e": "2026-02-21T20:00:00Z",
-        "d": null,
+        "d": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.\nFrom the host: \"I feel like the apocalypse is creeping under the door, UK rappers always know how to soundtrack the apocalypse, thus and therefore.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/mutualism/episodes/mutualism-21st-february-2026"
       },
       {
         "n": "KIM LANA",
@@ -490,6 +479,14 @@
         "n": "Abena",
         "s": "2026-02-22T15:00:00Z",
         "e": "2026-02-22T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Smut Press w/ TONIE WALSH",
+        "s": "2026-02-22T16:00:00Z",
+        "e": "2026-02-22T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1611,19 +1608,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "DJ SK",
+        "s": "2026-02-28T18:00:00Z",
+        "e": "2026-02-28T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Greg Belson - 45 live",
-        "s": "2026-02-21T04:00:00Z",
-        "e": "2026-02-21T06:00:00Z",
-        "d": null,
-        "j": "45 live",
-        "u": null,
-        "t": "weekly",
-        "p": "45live"
-      },
       {
         "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
         "s": "2026-02-21T06:00:00Z",
@@ -2193,18 +2188,28 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "RERUN: JF Chen",
+        "s": "2026-02-28T17:00:00Z",
+        "e": "2026-02-28T18:00:00Z",
+        "d": null,
+        "j": "JF Chen",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Greg Belson - Divine Chord Gospel Show",
+        "s": "2026-02-28T18:00:00Z",
+        "e": "2026-02-28T20:00:00Z",
+        "d": null,
+        "j": "Divine Chord Gospel Show",
+        "u": null,
+        "t": "weekly",
+        "p": "gregbelson"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-02-21T03:00:00Z",
-        "e": "2026-02-21T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Meena Sears",
         "s": "2026-02-21T06:00:00Z",
