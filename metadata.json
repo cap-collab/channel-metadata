@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-21T01:14:41.387Z",
+  "updated": "2026-02-21T03:59:20.074Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PUM PUM POWER HOUR W/ LIL C",
-        "s": "2026-02-20T13:00:00Z",
-        "e": "2026-02-20T14:00:00Z",
-        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-20th-february-2026",
-        "p": "lilc"
-      },
-      {
-        "n": "TEARS IN THE CLUB W/ JEUNE POUCE",
-        "s": "2026-02-20T14:00:00Z",
-        "e": "2026-02-20T15:00:00Z",
-        "d": "\"Tears in the Club\" presents a unique blend of structured and chaotic music, combining intense hip hop, drum and bass, footwork, jersey club, and sometimes Afro rhythms. This multi-genre musical show explores diverse musical landscapes, creating a striking contrast between genres, while also showcasing new artists.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jeune-pouce/episodes/jeune-pouce-20th-february-2026",
-        "p": "jeunepouce"
-      },
       {
         "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW w/ Jah$tar & Kear",
         "s": "2026-02-20T15:00:00Z",
@@ -61,7 +43,8 @@
         "e": "2026-02-20T21:00:00Z",
         "d": "Ira demonstrates how to do extra soulful with a masterclass in vibes. It's easy when you know how.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/minimal-effort/episodes/minimal-effort-20th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/minimal-effort/episodes/minimal-effort-20th-february-2026",
+        "p": "minimaleffort"
       },
       {
         "n": "NATIVESUN",
@@ -88,7 +71,8 @@
         "d": "The sound of Ukraine's independent music scene. Presented by Схема, a Kyiv-based collective that moves forward rave culture in Ukraine.",
         "j": "SASHA TESSIO",
         "u": "https://www.nts.live/api/v2/shows/cxema/episodes/cxema-1st-december-2025",
-        "t": "restream"
+        "t": "restream",
+        "p": "cxema"
       },
       {
         "n": "I'M FEELING LUCKY W/ UMRU (R)",
@@ -97,7 +81,8 @@
         "d": null,
         "j": "UMRU",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "umru"
       },
       {
         "n": "The Deep",
@@ -120,18 +105,19 @@
         "n": "KHARTOUM ARRIVALS W/ BASMA (R)",
         "s": "2026-02-21T03:00:00Z",
         "e": "2026-02-21T04:00:00Z",
-        "d": null,
+        "d": "Basma shares songs and stories from passings through Khartoum and beyond.",
         "j": "BASMA",
-        "u": null,
-        "t": "restream"
+        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-15th-september-2024",
+        "t": "restream",
+        "p": "basma"
       },
       {
         "n": "GiGi FM (R)",
         "s": "2026-02-21T04:00:00Z",
         "e": "2026-02-21T05:00:00Z",
-        "d": null,
+        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-3rd-january-2024",
         "t": "restream"
       },
       {
@@ -200,7 +186,8 @@
         "e": "2026-02-21T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "lastresort"
       },
       {
         "n": "SWEET TOOTH W/ ALFIE WHITEMAN",
@@ -251,27 +238,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THEA HD",
+        "s": "2026-02-22T08:00:00Z",
+        "e": "2026-02-22T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "theahd"
+      },
+      {
+        "n": "SOPHIA ZHURAVKOVA W/ AIEL",
+        "s": "2026-02-22T09:00:00Z",
+        "e": "2026-02-22T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Orpheu The Wizard",
-        "s": "2026-02-20T13:00:00Z",
-        "e": "2026-02-20T14:00:00Z",
-        "d": "Amsterdam selector Orpheu The Wizard connects oddball and straight forward jams from different decades and different record shelves in a monthly show. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/orpheu-the-wizard/episodes/orpheu-the-wizard-20th-february-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ANTINOTE",
-        "s": "2026-02-20T14:00:00Z",
-        "e": "2026-02-20T15:00:00Z",
-        "d": "Monthly sessions from Zaltan, the mind behind Paris-based leftfield dance, electronic & downtempo imprint Antinote, with occasional appearances from friends and artists on the label.\nFrom the host: \"Hi, this is zaltan for an hour of new music :-)\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/zaltan/episodes/zaltan-20th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "NTS GUIDE TO: DRUM & BLISS (R)",
         "s": "2026-02-20T15:00:00Z",
@@ -297,7 +283,8 @@
         "d": "A monthly broadcasts from London-based curator Cynthia, taking you through a selection of her ongoing music research and personal favourites, blending sounds that move across time and genre.",
         "j": "Cynthia",
         "u": "https://www.nts.live/api/v2/shows/cynthia/episodes/cynthia-20th-february-2026",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "cynthia"
       },
       {
         "n": "Curious Music: My Music Love Affair",
@@ -363,9 +350,9 @@
         "n": "FLOATING POINTS (R)",
         "s": "2026-02-21T03:00:00Z",
         "e": "2026-02-21T05:00:00Z",
-        "d": null,
+        "d": "Sam Shepherd a.k.a Floating Points barely needs introduction. Cataloguing depths uncharted to expose some of the best jazz, soul, rare groove and disco around. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/floating-points/episodes/floating-points-3rd-june-2024",
         "t": "restream",
         "p": "floatingpoints"
       },
@@ -373,9 +360,9 @@
         "n": "Popstar Benny (R)",
         "s": "2026-02-21T05:00:00Z",
         "e": "2026-02-21T06:00:00Z",
-        "d": null,
+        "d": "An hour of the most exciting rap, r&b and club from the underground and mainstream presented by Atlanta's own, Popstar Benny.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-15th-july-2025",
         "t": "restream",
         "p": "popstarbenny"
       },
@@ -499,26 +486,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Gwero b2b Nightshade",
-        "s": "2026-02-20T12:00:00Z",
-        "e": "2026-02-20T14:00:00Z",
+        "n": "Bergsonist w/ Sam Clarke",
+        "s": "2026-02-21T22:00:00Z",
+        "e": "2026-02-21T23:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Rebello",
-        "s": "2026-02-20T14:00:00Z",
-        "e": "2026-02-20T15:00:00Z",
+        "n": "ABIU (R)",
+        "s": "2026-02-21T23:00:00Z",
+        "e": "2026-02-22T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "rebello"
-      },
+        "t": "restream",
+        "p": "abiu"
+      }
+    ],
+    "subtle": [
       {
         "n": "Emma & Embla",
         "s": "2026-02-20T15:00:00Z",
@@ -579,6 +567,15 @@
         "u": null
       },
       {
+        "n": "Subtle Selects",
+        "s": "2026-02-21T00:00:00Z",
+        "e": "2026-02-21T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
         "n": "Melting Point",
         "s": "2026-02-21T01:00:00Z",
         "e": "2026-02-21T02:00:00Z",
@@ -604,6 +601,15 @@
         "j": null,
         "u": null,
         "p": "carlos"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-21T04:00:00Z",
+        "e": "2026-02-21T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "call curtis",
@@ -1612,18 +1618,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-20T12:00:00Z",
-        "e": "2026-02-20T14:00:00Z",
+        "n": "YSL (Young Saucy Lovers)",
+        "s": "2026-02-28T02:00:00Z",
+        "e": "2026-02-28T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Kid Contra",
+        "s": "2026-02-28T03:00:00Z",
+        "e": "2026-02-28T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "kidcontra"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-02-20T14:00:00Z",
@@ -2204,18 +2218,18 @@
         "j": null,
         "u": null,
         "p": "dannygoliger"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Uncle Dugs",
-        "s": "2026-02-20T11:00:00Z",
-        "e": "2026-02-20T14:00:00Z",
+        "n": "Morpho - Graph Paper",
+        "s": "2026-02-28T02:00:00Z",
+        "e": "2026-02-28T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "uncledugs"
-      },
+        "p": "morpho"
+      }
+    ],
+    "rinse": [
       {
         "n": "Jeremy Sylvester",
         "s": "2026-02-20T14:00:00Z",
@@ -2533,23 +2547,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Ygal Ohayon",
-        "s": "2026-02-20T13:00:00Z",
-        "e": "2026-02-20T14:00:00Z",
-        "d": null,
-        "j": "Press Play",
-        "u": null,
-        "p": "ygalohayon"
-      },
-      {
-        "n": "MALIMAN",
-        "s": "2026-02-20T14:00:00Z",
-        "e": "2026-02-20T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Bunkaball",
         "s": "2026-02-20T15:00:00Z",
