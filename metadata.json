@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-02-22T10:17:14.460Z",
+  "updated": "2026-02-22T12:30:23.976Z",
   "stations": {
     "nts1": [
       {
@@ -69,9 +69,10 @@
         "n": "CORTICEPS W/ MINUS KENDAL",
         "s": "2026-02-22T14:00:00Z",
         "e": "2026-02-22T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Minus Kendal trods the outer reaches foraging for aural morsels, slinging you a monthly smorgasbord of sultry sonix from trenchcoat folk to silicone synthwave.",
+        "j": "MINUS KENDAL",
+        "u": "https://www.nts.live/api/v2/shows/corticeps/episodes/corticeps-22nd-february-2026",
+        "t": "monthly",
         "p": "corticeps"
       },
       {
@@ -207,28 +208,17 @@
         "j": "John Gómez",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "PATRICK FORGE",
+        "s": "2026-02-23T13:00:00Z",
+        "e": "2026-02-23T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Bergsonist w/ Sam Clarke",
-        "s": "2026-02-21T22:00:00Z",
-        "e": "2026-02-21T23:00:00Z",
-        "d": "Bergsonist is a musician originally from Morocco based in NYC. Genre-free sonic explorations with occasional conversations/guest mixes featuring inspiring artists.\nFrom the host: I wanted to thank Sam for his mix, you can find Sam Clarke's IG: https://www.instagram.com/3sam3clarke3/\nand his label Rank + File bandcamp (featuring a beautiful release by Gaul Plus (tip+++)): https://rankandfile.bandcamp.com/music\nThank you for tuning in!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bergsonist/episodes/bergsonist-21st-february-2026",
-        "p": "bergsonist"
-      },
-      {
-        "n": "ABIU (R)",
-        "s": "2026-02-21T23:00:00Z",
-        "e": "2026-02-22T00:00:00Z",
-        "d": "Tokyo-based DJ & composer Abiu taking you to a higher state, playing tracks from across the house axis.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/abiu/episodes/abiu-6th-february-2025",
-        "t": "restream",
-        "p": "abiu"
-      },
       {
         "n": "Ben Sims",
         "s": "2026-02-22T00:00:00Z",
@@ -309,17 +299,18 @@
         "n": "TOUGH MATTER",
         "s": "2026-02-22T12:00:00Z",
         "e": "2026-02-22T13:00:00Z",
-        "d": null,
+        "d": "Monthly broadcast by Ashley Holmes, multidisciplinary artist based in Sheffield working across sound, installation, radio broadcasts and performance.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/ashley-plenty-vibes/episodes/ashley-plenty-vibes-22nd-february-2026",
+        "t": "monthly"
       },
       {
         "n": "M00DTAPES (R)",
         "s": "2026-02-22T13:00:00Z",
         "e": "2026-02-22T14:00:00Z",
-        "d": null,
+        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-26th-june-2022",
         "t": "restream",
         "p": "m00dtapes"
       },
@@ -446,26 +437,28 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Tafelmusik w/ Francesco Fusaro (R)",
+        "s": "2026-02-23T05:00:00Z",
+        "e": "2026-02-23T07:00:00Z",
+        "d": null,
+        "j": "Francesco Fusaro",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "DOING TIME W/ LUCAS LAGO (R)",
+        "s": "2026-02-23T07:00:00Z",
+        "e": "2026-02-23T09:00:00Z",
+        "d": null,
+        "j": "LUCAS LAGO",
+        "u": null,
+        "t": "restream",
+        "p": "doingtime"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-02-21T22:00:00Z",
-        "e": "2026-02-21T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Deep Diving w/ DJ Nøthing",
-        "s": "2026-02-21T23:00:00Z",
-        "e": "2026-02-22T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Sunday Bass Service w/ Raggo",
         "s": "2026-02-22T00:00:00Z",
@@ -1590,17 +1583,25 @@
         "j": null,
         "u": null,
         "p": "harbee"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Beats of All-Nations",
-        "s": "2026-02-21T22:00:00Z",
-        "e": "2026-02-22T00:00:00Z",
+        "n": "Mood Shift w/ ANIKA",
+        "s": "2026-03-01T11:00:00Z",
+        "e": "2026-03-01T12:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "TAMA",
+        "s": "2026-03-01T12:00:00Z",
+        "e": "2026-03-01T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "ANTHNY GBRIEL – Con Amor",
         "s": "2026-02-22T00:00:00Z",
@@ -2184,22 +2185,6 @@
     ],
     "rinse": [
       {
-        "n": "Roman Flügel",
-        "s": "2026-02-21T22:00:00Z",
-        "e": "2026-02-21T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Dennis Quin",
-        "s": "2026-02-21T23:00:00Z",
-        "e": "2026-02-22T00:00:00Z",
-        "d": null,
-        "j": "Rinse HQ144",
-        "u": null
-      },
-      {
         "n": "Cormac",
         "s": "2026-02-22T00:00:00Z",
         "e": "2026-02-22T01:00:00Z",
@@ -2254,11 +2239,11 @@
         "p": "fyirobyn"
       },
       {
-        "n": "Dean Bryce",
+        "n": "Dean Bryce presents Don't Sleep",
         "s": "2026-02-22T11:00:00Z",
         "e": "2026-02-22T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "80's + 90's Pirate Radio Club Classics",
         "u": null
       },
       {
@@ -2293,7 +2278,7 @@
         "s": "2026-02-22T18:00:00Z",
         "e": "2026-02-22T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Sorsari",
         "u": null,
         "p": "plastician"
       },
@@ -2302,7 +2287,7 @@
         "s": "2026-02-22T20:00:00Z",
         "e": "2026-02-22T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B AceMo",
         "u": null,
         "p": "oblig"
       },
@@ -2485,15 +2470,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-02-21T19:00:00Z",
-        "e": "2026-02-21T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-02-21T23:00:00Z",
