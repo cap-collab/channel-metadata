@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-22T16:19:29.824Z",
+  "updated": "2026-02-22T18:23:11.534Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TREVOR JACKSON - ISLAND RECORDS SPECIAL PART 2 (R)",
-        "s": "2026-02-21T22:00:00Z",
-        "e": "2026-02-22T06:00:00Z",
-        "d": "Trevor Jackson plays Extended Cuts, Remixes, Classics, Rarities & Dubs from the legendary Island Records catalogue. Featuring artists such as: \nBLACK UHURU\nCOATI MUNDI\nCOMPASS POINT ALL STARS\nDEF JEF\nGRACE JONES\nERIC B & RAKIM\nGREGORY ISSACS \nGWEN GUTHRIE\nHI TENSION\nJAH WOBBLE\nKID CREOLE\nKING SUNNY ADE\nMALCOLM MCLAREN \nMATERIAL \nNYC PEECH BOYS\nPAUL HAIG\nPHILIP GLASS\nROBERY PALMER\nSLY & ROBBIE\nSTEEL PULSE\nTHE B 52’S\nSTEREO MC’S\nSTEVE WINWOOD\nTOM TOM CLUB\nTROUBLE FUNK\nU2\nWALLY BADAROU",
-        "j": "ISLAND RECORDS SPECIAL PART 2",
-        "u": "https://www.nts.live/api/v2/shows/trevorjackson/episodes/trevor-jackson-island-records-30th-december-2021",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: CANADIAN NEW AGE 1980-87 (R)",
         "s": "2026-02-22T06:00:00Z",
@@ -97,9 +88,9 @@
         "n": "JANIE JONES (R)",
         "s": "2026-02-22T19:00:00Z",
         "e": "2026-02-22T20:00:00Z",
-        "d": null,
+        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-13th-july-2025",
         "t": "restream",
         "p": "janiejones"
       },
@@ -234,19 +225,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-02-23T18:00:00Z",
+        "e": "2026-02-23T20:00:00Z",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
       }
     ],
     "nts2": [
-      {
-        "n": "Nosedrip (R)",
-        "s": "2026-02-22T03:00:00Z",
-        "e": "2026-02-22T05:00:00Z",
-        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-25th-march-2021",
-        "t": "restream",
-        "p": "nosedrip"
-      },
       {
         "n": "Rio Doce (R)",
         "s": "2026-02-22T05:00:00Z",
@@ -343,20 +334,21 @@
         "p": "smutpress"
       },
       {
-        "n": "RED LASER RECORDS",
+        "n": "RED LASER RECORDS W/ IL BOSCO (R)",
         "s": "2026-02-22T17:00:00Z",
         "e": "2026-02-22T19:00:00Z",
         "d": "Red Laser Records crew brings Manchester's own blend of Manctalo, Disco & Boogie. A high energy Sunday Buzz guaranteed.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-22nd-february-2026"
+        "j": "IL BOSCO",
+        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-23rd-march-2025",
+        "t": "restream"
       },
       {
         "n": "DESIRE (R)",
         "s": "2026-02-22T19:00:00Z",
         "e": "2026-02-22T20:00:00Z",
-        "d": null,
+        "d": "Supremo '80s goodness from Montreal duo Desire in a special guest mix.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/desire-24th-may-2024",
         "t": "restream"
       },
       {
@@ -492,17 +484,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Clairvoyage w/ Search Urchin",
-        "s": "2026-02-22T04:00:00Z",
-        "e": "2026-02-22T05:00:00Z",
+        "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL",
+        "s": "2026-02-23T13:00:00Z",
+        "e": "2026-02-23T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-02-22T05:00:00Z",
@@ -1631,14 +1623,6 @@
     ],
     "dublab": [
       {
-        "n": "Discoteca 3ala Mars",
-        "s": "2026-02-22T04:00:00Z",
-        "e": "2026-02-22T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Mark Maxwell - Sankofa Sound System",
         "s": "2026-02-22T06:00:00Z",
         "e": "2026-02-22T08:00:00Z",
@@ -2210,18 +2194,28 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Electronic Playlist",
-        "s": "2026-02-22T03:00:00Z",
-        "e": "2026-02-22T06:00:00Z",
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-03-01T17:00:00Z",
+        "e": "2026-03-01T18:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
+      },
+      {
+        "n": "Chris Kissel and Chuck Soo-Hoo - Contact Wave",
+        "s": "2026-03-01T18:00:00Z",
+        "e": "2026-03-01T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "chriskissel"
+      }
+    ],
+    "rinse": [
       {
         "n": "Clementaum",
         "s": "2026-02-22T06:00:00Z",
@@ -2429,7 +2423,7 @@
         "s": "2026-02-23T15:00:00Z",
         "e": "2026-02-23T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "N:Fostell, DarkmanZulu & Shade1",
         "u": null,
         "t": "weekly"
       },
@@ -2466,7 +2460,7 @@
         "s": "2026-02-23T21:00:00Z",
         "e": "2026-02-23T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "AFRA",
         "u": null,
         "p": "djstingray"
       },
