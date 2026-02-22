@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-22T18:23:11.534Z",
+  "updated": "2026-02-22T20:16:35.381Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NTS GUIDE TO: CANADIAN NEW AGE 1980-87 (R)",
-        "s": "2026-02-22T06:00:00Z",
-        "e": "2026-02-22T07:30:00Z",
-        "d": "Two hours of Canadian-made cassette ambient, new age and downtempo sounds from the 1980s, selected by NTS.",
-        "j": "CANADIAN NEW AGE 1980-87",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-canadian-new-age-15th-july-2023",
-        "t": "restream"
-      },
-      {
-        "n": "MARTIN NEWELL'S ODDCASTE",
-        "s": "2026-02-22T07:30:00Z",
-        "e": "2026-02-22T08:00:00Z",
-        "d": "The Cleaners From Venus frontman presents an eclectic mix of pop music, comedy, and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martin-newells-oddcaste/episodes/martin-newells-oddcaste-22nd-february-2026"
-      },
       {
         "n": "THEA HD",
         "s": "2026-02-22T08:00:00Z",
@@ -98,17 +81,17 @@
         "n": "Bon Iver",
         "s": "2026-02-22T20:00:00Z",
         "e": "2026-02-22T21:00:00Z",
-        "d": null,
+        "d": "Justin Vernon of Bon Iver selects an hour of his favourite live albums and tracks for NTS.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/bon-iver-22nd-february-2026"
       },
       {
         "n": "Perfect Lives w/ Bruno & Daniel",
         "s": "2026-02-22T21:00:00Z",
         "e": "2026-02-22T22:00:00Z",
-        "d": null,
+        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-22nd-february-2026",
         "p": "perfectlives"
       },
       {
@@ -235,19 +218,25 @@
         "u": null,
         "t": "weekly",
         "p": "cocomaria"
+      },
+      {
+        "n": "SUNCUT",
+        "s": "2026-02-23T20:00:00Z",
+        "e": "2026-02-23T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ALL FRUITS RIPE W/ JACK SAPSED",
+        "s": "2026-02-23T21:00:00Z",
+        "e": "2026-02-23T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Rio Doce (R)",
-        "s": "2026-02-22T05:00:00Z",
-        "e": "2026-02-22T07:00:00Z",
-        "d": "July’s Rio Doce invites Cindy Sissokho to dive into her powerful family story — and the soul of African Salsa.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-16th-july-2025",
-        "t": "restream",
-        "p": "riodoce"
-      },
       {
         "n": "IN FOCUS: ALICE COLTRANE (R)",
         "s": "2026-02-22T07:00:00Z",
@@ -355,17 +344,18 @@
         "n": "Fixed Abode presents Northern Gothic w/ Jack Kimberley",
         "s": "2026-02-22T20:00:00Z",
         "e": "2026-02-22T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Prestonian singer songwriter Rainy Miller presents the progress check, a bi-monthly show playing an hour of archived experiments and influences.",
+        "j": "Jack Kimberley",
+        "u": "https://www.nts.live/api/v2/shows/rainy-miller/episodes/rainy-miller-22nd-february-2026",
+        "t": "monthly"
       },
       {
         "n": "ALL NIGHT FLIGHT",
         "s": "2026-02-22T21:00:00Z",
         "e": "2026-02-22T22:00:00Z",
-        "d": null,
+        "d": "A winding journey through the catalogue of All Night Flight's Stockport record store, spanning from modern classical and free-flowing jazz to a wide soundscape of dark ambient, folk and techno… with All Night Flight, anything goes!",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/all-night-flight/episodes/all-night-flight-22nd-february-2026"
       },
       {
         "n": "EFFICIENT SPACE - HYDROPLANE (R)",
@@ -492,18 +482,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-02-22T05:00:00Z",
-        "e": "2026-02-22T08:00:00Z",
+        "n": "CXEMA",
+        "s": "2026-02-23T14:00:00Z",
+        "e": "2026-02-23T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "p": "cxema"
       },
+      {
+        "n": "ZULI",
+        "s": "2026-02-23T15:00:00Z",
+        "e": "2026-02-23T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": " All Fitz",
         "s": "2026-02-22T08:00:00Z",
@@ -1619,18 +1617,17 @@
         "d": "Established in 2013, eatmybeat is a hybrid record label & club brand that was brought together by a group of friends with a passion for electronic music and building community. With diverse tastes, they support and champion the underground bass music scene through events and releases on the label. Refusing to be pigeonholed into a specific sound, they showcase everything from hip-hop, bass & breaks, through to techno, jungle, dubstep and grime. As long as it's tasty and full fat, you best believe eatmybeat are snacking on it.",
         "j": null,
         "u": "https://www.subtleradio.com/artists/extrasaus-w-eatmybeat/"
+      },
+      {
+        "n": "BASICS RECORDS: L MAJOR, TAMEN & SIDESHOW",
+        "s": "2026-03-01T19:00:00Z",
+        "e": "2026-03-01T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Mark Maxwell - Sankofa Sound System",
-        "s": "2026-02-22T06:00:00Z",
-        "e": "2026-02-22T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "markmaxwell"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-02-22T08:00:00Z",
@@ -2217,15 +2214,6 @@
     ],
     "rinse": [
       {
-        "n": "Clementaum",
-        "s": "2026-02-22T06:00:00Z",
-        "e": "2026-02-22T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "clementaum"
-      },
-      {
         "n": "Playlist",
         "s": "2026-02-22T07:00:00Z",
         "e": "2026-02-22T09:00:00Z",
@@ -2484,15 +2472,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-02-21T23:00:00Z",
-        "e": "2026-02-22T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-02-22T08:00:00Z",
