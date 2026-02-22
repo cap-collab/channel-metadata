@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-02-22T12:30:23.976Z",
+  "updated": "2026-02-22T14:19:11.694Z",
   "stations": {
     "nts1": [
       {
@@ -79,9 +79,10 @@
         "n": "KIT GRILL w/ Hania Rani",
         "s": "2026-02-22T16:00:00Z",
         "e": "2026-02-22T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
+        "j": "Hania Rani",
+        "u": "https://www.nts.live/api/v2/shows/kit-grill/episodes/kit-grill-22nd-february-2026",
+        "t": "monthly",
         "p": "kitgrill"
       },
       {
@@ -216,18 +217,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "DACTYLIAN & PALO SANTO DISCOS",
+        "s": "2026-02-23T15:00:00Z",
+        "e": "2026-02-23T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Ben Sims",
-        "s": "2026-02-22T00:00:00Z",
-        "e": "2026-02-22T02:00:00Z",
-        "d": "‘Run it Red’ sees bona fide techno legend Ben Sims showcases 2 hrs of the finest new house and techno he can lay his hands on.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ben-sims/episodes/ben-sims-22nd-february-2026",
-        "p": "bensims"
-      },
       {
         "n": "BFDM ZAHEF SHOW (R)",
         "s": "2026-02-22T02:00:00Z",
@@ -318,17 +318,19 @@
         "n": "CHILDREN OF ZEUS",
         "s": "2026-02-22T14:00:00Z",
         "e": "2026-02-22T15:00:00Z",
-        "d": null,
+        "d": "Children of Zeus's Konny Kon takes over our Manchester studio once a month to play upfront Soul, Classic Hip Hop & New RnB.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/children-of-zeus/episodes/children-of-zeus-22nd-february-2026",
+        "t": "monthly"
       },
       {
         "n": "Abena",
         "s": "2026-02-22T15:00:00Z",
         "e": "2026-02-22T16:00:00Z",
-        "d": null,
+        "d": "All Hands On Deck co-founder Abena jumps on once a month - music to help loosen your joints, live from the Manchester studio. Expect dub, techno & a bit of ambient.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abena/episodes/abena-22nd-february-2026",
+        "t": "monthly",
         "p": "abena"
       },
       {
@@ -456,26 +458,27 @@
         "u": null,
         "t": "restream",
         "p": "doingtime"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Sunday Bass Service w/ Raggo",
-        "s": "2026-02-22T00:00:00Z",
-        "e": "2026-02-22T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
-        "n": "Breeze",
-        "s": "2026-02-22T01:00:00Z",
-        "e": "2026-02-22T02:00:00Z",
+        "n": "Homeshake (R)",
+        "s": "2026-02-23T09:00:00Z",
+        "e": "2026-02-23T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "breeze"
+        "t": "restream"
       },
+      {
+        "n": "Kiefer (R)",
+        "s": "2026-02-23T10:00:00Z",
+        "e": "2026-02-23T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Bits Beats & Breaks w/ D.Mo",
         "s": "2026-02-22T02:00:00Z",
@@ -1599,18 +1602,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "ANTHNY GBRIEL – Con Amor",
-        "s": "2026-02-22T00:00:00Z",
-        "e": "2026-02-22T02:00:00Z",
+        "n": "Aloona",
+        "s": "2026-03-01T13:00:00Z",
+        "e": "2026-03-01T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "anthnygbriel"
+        "p": "aloona"
       },
+      {
+        "n": "Robeare",
+        "s": "2026-03-01T14:00:00Z",
+        "e": "2026-03-01T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "2092 presents... Funk Radio",
         "s": "2026-02-22T02:00:00Z",
@@ -2181,18 +2192,18 @@
         "j": "CLUB CRAIG",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Cormac",
-        "s": "2026-02-22T00:00:00Z",
-        "e": "2026-02-22T01:00:00Z",
+        "n": "djjs",
+        "s": "2026-03-01T13:00:00Z",
+        "e": "2026-03-01T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "cormac"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "MASTERplano",
         "s": "2026-02-22T01:00:00Z",
@@ -2383,7 +2394,7 @@
         "s": "2026-02-23T12:00:00Z",
         "e": "2026-02-23T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Tim Sweeney of Beats in Space",
         "u": null
       },
       {
@@ -2437,7 +2448,7 @@
         "s": "2026-02-23T19:00:00Z",
         "e": "2026-02-23T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Production Mix",
         "u": null,
         "p": "coido"
       },
