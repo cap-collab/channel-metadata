@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-22T22:15:21.268Z",
+  "updated": "2026-02-23T01:19:08.499Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE SLIP",
-        "s": "2026-02-22T10:00:00Z",
-        "e": "2026-02-22T12:00:00Z",
-        "d": "Rory Bowens heads The Slip on Sunday mornings every other week - squeezing an hour of hazy dub off-shoots, pupil-dilating shoegaze and uncanny dream music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/theslip/episodes/theslip-22nd-february-2026",
-        "t": "biweekly"
-      },
       {
         "n": "Tommasi",
         "s": "2026-02-22T12:00:00Z",
@@ -98,18 +89,18 @@
         "n": "SIC RECORDS (R)",
         "s": "2026-02-23T01:00:00Z",
         "e": "2026-02-23T02:00:00Z",
-        "d": null,
+        "d": "Vaporwave meets hip hop for an hour a month. Enjoy The SIC Records experience today.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sic-records/episodes/sic-records-11th-september-2025",
         "t": "restream"
       },
       {
         "n": "Mosca (R)",
         "s": "2026-02-23T02:00:00Z",
         "e": "2026-02-23T04:00:00Z",
-        "d": null,
+        "d": "Mosca runs underground club music inspired by tunes from all over: dub, house, techno, grime and jungle, as well as East coast hip hop, South African house, Shaolin soul, indie and post-rock from his youth, first-wave electro, stripped down ragga and dancehall, a little minimal ghetto stuff, and more. On top of that he's racked up some pretty big guest mixes in past shows. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mosca/episodes/mosca-24th-february-2021",
         "t": "restream"
       },
       {
@@ -235,37 +226,28 @@
         "j": null,
         "u": null,
         "p": "tornhawk"
+      },
+      {
+        "n": "HTRK (R)",
+        "s": "2026-02-24T01:00:00Z",
+        "e": "2026-02-24T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "htrk"
+      },
+      {
+        "n": "Blackest Ever Black (R)",
+        "s": "2026-02-24T02:00:00Z",
+        "e": "2026-02-24T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "MUSIC FOR A HEALING EARTH W/ THE COSMIC TONES RESEARCH TRIO (R)",
-        "s": "2026-02-22T10:00:00Z",
-        "e": "2026-02-22T11:00:00Z",
-        "d": "Healing and restorative sonic transmissions for all beings.",
-        "j": "THE COSMIC TONES RESEARCH TRIO",
-        "u": "https://www.nts.live/api/v2/shows/the-cosmic-tones-research-trio/episodes/the-cosmic-tones-research-trio-21st-october-2025",
-        "t": "restream",
-        "p": "thecosmictonesresearchtrio"
-      },
-      {
-        "n": "COUNTRY HAYRIDE w/ Ben Thomas",
-        "s": "2026-02-22T11:00:00Z",
-        "e": "2026-02-22T12:00:00Z",
-        "d": "Crispy Cowboy, of East Lonesome Drifters fame, explores the foundations of country and Western music. Expect outstanding vintage records from old-time, hillbilly, folk, Nashville sound, western swing, outlaw, red dirt, Bakersfield and more.\nFrom the host: \"This month we kick off with our Crispiest Record of 2025 winner and then go deep on country piano.  Our guest DJ Ben Thomas joins us from St. Andrews University and for the first time we have a classical music set, as opposed to classic music!\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/country-hayride/episodes/country-hayride-22nd-february-2026",
-        "p": "countryhayride"
-      },
-      {
-        "n": "TOUGH MATTER",
-        "s": "2026-02-22T12:00:00Z",
-        "e": "2026-02-22T13:00:00Z",
-        "d": "Monthly broadcast by Ashley Holmes, multidisciplinary artist based in Sheffield working across sound, installation, radio broadcasts and performance.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ashley-plenty-vibes/episodes/ashley-plenty-vibes-22nd-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "M00DTAPES (R)",
         "s": "2026-02-22T13:00:00Z",
@@ -371,18 +353,18 @@
         "n": "Benedek (R)",
         "s": "2026-02-23T01:00:00Z",
         "e": "2026-02-23T02:00:00Z",
-        "d": null,
+        "d": "Los Angeles native & synth pioneer Benedek blends ambient, boogie, funk & more, once a month from our LA studio. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/benedek/episodes/benedek-1st-june-2018",
         "t": "restream"
       },
       {
         "n": "Mishka (R)",
         "s": "2026-02-23T02:00:00Z",
         "e": "2026-02-23T03:00:00Z",
-        "d": null,
+        "d": "An auditory exploration with SF native Mishka ranging from synth pop and balearic to softrock and global dance gems. One hour, once a month, with love. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mishka/episodes/mishka-31st-january-2022",
         "t": "restream",
         "p": "mishka"
       },
@@ -497,26 +479,33 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Housewife (UK)",
-        "s": "2026-02-22T10:00:00Z",
-        "e": "2026-02-22T11:00:00Z",
+        "n": "THE LAVENDER KITE AUDIO RESEARCH HOUR",
+        "s": "2026-02-23T19:00:00Z",
+        "e": "2026-02-23T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Subtle Selects",
-        "s": "2026-02-22T11:00:00Z",
-        "e": "2026-02-22T13:00:00Z",
+        "n": "BO NINGEN",
+        "s": "2026-02-23T20:00:00Z",
+        "e": "2026-02-23T21:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "playlist"
+        "u": null
       },
+      {
+        "n": "FUNK FREAKS",
+        "s": "2026-02-23T21:00:00Z",
+        "e": "2026-02-23T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "WAX HEAVY w/ VIOLENTLYILL",
         "s": "2026-02-22T13:00:00Z",
@@ -1227,8 +1216,9 @@
         "s": "2026-02-27T02:00:00Z",
         "e": "2026-02-27T03:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Oka",
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Subabuba",
@@ -1632,27 +1622,35 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Chacho",
+        "s": "2026-03-01T23:00:00Z",
+        "e": "2026-03-02T00:00:00Z",
+        "d": "As a drummer since childhood, Chacho has always had an insatiable appetite for new and unique beats.\r\nCombining his love of global percussion, dark grooves and deeper low end frequencies, \r\nhis sets feature a blend of dubstep, grime, garage, breaks, hip hop and other flavours from around the world.",
+        "j": null,
+        "u": null,
+        "p": "chacho"
+      },
+      {
+        "n": "Bassment Sessions W/ CORD",
+        "s": "2026-03-02T00:00:00Z",
+        "e": "2026-03-02T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Fome",
+        "s": "2026-03-02T01:00:00Z",
+        "e": "2026-03-02T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "fome"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-22T10:00:00Z",
-        "e": "2026-02-22T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-22T12:00:00Z",
-        "e": "2026-02-22T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "djjs",
         "s": "2026-02-22T13:00:00Z",
@@ -2235,26 +2233,18 @@
         "j": null,
         "u": null,
         "p": "ganas"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "FYI Robyn",
-        "s": "2026-02-22T09:00:00Z",
-        "e": "2026-02-22T11:00:00Z",
+        "n": "Noir and Jae Drago - Juke Bounce Werk Radio",
+        "s": "2026-03-02T00:00:00Z",
+        "e": "2026-03-02T02:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "fyirobyn"
-      },
-      {
-        "n": "Dean Bryce presents Don't Sleep",
-        "s": "2026-02-22T11:00:00Z",
-        "e": "2026-02-22T13:00:00Z",
-        "d": null,
-        "j": "80's + 90's Pirate Radio Club Classics",
-        "u": null
-      },
+        "p": "jukebouncewerk"
+      }
+    ],
+    "rinse": [
       {
         "n": "Dance Regular",
         "s": "2026-02-22T13:00:00Z",
@@ -2485,65 +2475,220 @@
         "j": "B2B DukwaL: Live from Venicberg",
         "u": null,
         "p": "halfpint"
-      }
-    ],
-    "rinsefr": [
+      },
       {
-        "n": "Playlist France",
-        "s": "2026-02-22T08:00:00Z",
-        "e": "2026-02-22T13:00:00Z",
+        "n": "Left, Right & Centre",
+        "s": "2026-02-24T00:00:00Z",
+        "e": "2026-02-24T01:00:00Z",
+        "d": null,
+        "j": "Korzi",
+        "u": null
+      },
+      {
+        "n": "TMSV",
+        "s": "2026-02-24T01:00:00Z",
+        "e": "2026-02-24T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "styn",
+        "s": "2026-02-24T02:00:00Z",
+        "e": "2026-02-24T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-02-24T03:00:00Z",
+        "e": "2026-02-24T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "Tom Val",
-        "s": "2026-02-22T13:00:00Z",
-        "e": "2026-02-22T15:00:00Z",
+        "n": "Flyo",
+        "s": "2026-02-24T06:00:00Z",
+        "e": "2026-02-24T07:00:00Z",
         "d": null,
-        "j": "Le Jazz Est Dangereux",
+        "j": null,
         "u": null,
-        "p": "tomval"
+        "p": "flyo"
       },
       {
-        "n": "Dubquake Records",
-        "s": "2026-02-22T15:00:00Z",
-        "e": "2026-02-22T16:00:00Z",
+        "n": "Playlist",
+        "s": "2026-02-24T07:00:00Z",
+        "e": "2026-02-24T09:00:00Z",
         "d": null,
-        "j": "Stef O.B.F",
+        "j": null,
         "u": null,
-        "p": "dubquakerecords"
+        "t": "playlist"
       },
       {
-        "n": "POLAAR",
-        "s": "2026-02-22T16:00:00Z",
-        "e": "2026-02-22T17:00:00Z",
+        "n": "Papaoul",
+        "s": "2026-02-24T09:00:00Z",
+        "e": "2026-02-24T11:00:00Z",
         "d": null,
-        "j": "Ehua b2b Flore",
+        "j": null,
         "u": null,
-        "p": "ehua"
+        "t": "weekly"
       },
       {
-        "n": "Unsho & Chris Sam",
-        "s": "2026-02-22T17:00:00Z",
-        "e": "2026-02-22T18:00:00Z",
+        "n": "Jumbi",
+        "s": "2026-02-24T11:00:00Z",
+        "e": "2026-02-24T12:00:00Z",
         "d": null,
-        "j": "present Ok For Now : Special episode",
+        "j": null,
         "u": null
       },
       {
-        "n": "The Bass Society",
+        "n": "Patrick Hinton",
+        "s": "2026-02-24T12:00:00Z",
+        "e": "2026-02-24T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Savannah Blake",
+        "s": "2026-02-24T13:00:00Z",
+        "e": "2026-02-24T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "savannahblake"
+      },
+      {
+        "n": "The OONTS Show with Kojay",
+        "s": "2026-02-24T14:00:00Z",
+        "e": "2026-02-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "kojay"
+      },
+      {
+        "n": "Brighter Days Family",
+        "s": "2026-02-24T15:00:00Z",
+        "e": "2026-02-24T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "brighterdaysfamily"
+      },
+      {
+        "n": "Talina",
+        "s": "2026-02-24T17:00:00Z",
+        "e": "2026-02-24T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular",
+        "p": "talina"
+      },
+      {
+        "n": "nora",
+        "s": "2026-02-24T18:00:00Z",
+        "e": "2026-02-24T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Changing Currents",
+        "s": "2026-02-24T19:00:00Z",
+        "e": "2026-02-24T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Apollonia",
+        "s": "2026-02-24T20:00:00Z",
+        "e": "2026-02-24T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "apollonia"
+      },
+      {
+        "n": "Silencer",
+        "s": "2026-02-24T22:00:00Z",
+        "e": "2026-02-24T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "silencer"
+      },
+      {
+        "n": "Sarra Wild",
+        "s": "2026-02-24T23:00:00Z",
+        "e": "2026-02-25T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sarrawild"
+      }
+    ],
+    "rinsefr": [
+      {
+        "n": "Cosmic Neman",
+        "s": "2026-02-22T13:00:00Z",
+        "e": "2026-02-22T15:00:00Z",
+        "d": null,
+        "j": "Les Témoins Du Futur",
+        "u": null,
+        "p": "cosmicneman"
+      },
+      {
+        "n": "Sentaku",
+        "s": "2026-02-22T15:00:00Z",
+        "e": "2026-02-22T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Connect'HER",
+        "s": "2026-02-22T16:00:00Z",
+        "e": "2026-02-22T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "HORS-SOL",
+        "s": "2026-02-22T17:00:00Z",
+        "e": "2026-02-22T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "horssol"
+      },
+      {
+        "n": "Neida",
         "s": "2026-02-22T18:00:00Z",
         "e": "2026-02-22T19:00:00Z",
         "d": null,
         "j": null,
+        "u": null
+      },
+      {
+        "n": "Miley Serious",
+        "s": "2026-02-22T19:00:00Z",
+        "e": "2026-02-22T20:00:00Z",
+        "d": null,
+        "j": "invite Akumen",
         "u": null,
-        "p": "thebasssociety"
+        "p": "akumen"
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-22T19:00:00Z",
+        "s": "2026-02-22T20:00:00Z",
         "e": "2026-02-22T23:00:00Z",
         "d": null,
         "j": null,
@@ -2569,16 +2714,24 @@
         "t": "playlist"
       },
       {
-        "n": "Cosmic Neman",
+        "n": "Anna Majidson",
         "s": "2026-02-23T13:00:00Z",
-        "e": "2026-02-23T15:00:00Z",
+        "e": "2026-02-23T14:00:00Z",
         "d": null,
-        "j": "Les Témoins Du Futur",
-        "u": null,
-        "p": "cosmicneman"
+        "j": "Behind The Curtain with Azzedine Fall",
+        "u": null
       },
       {
-        "n": "Sentaku",
+        "n": "honeymel",
+        "s": "2026-02-23T14:00:00Z",
+        "e": "2026-02-23T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "honeymel"
+      },
+      {
+        "n": "Louis Roméo",
         "s": "2026-02-23T15:00:00Z",
         "e": "2026-02-23T16:00:00Z",
         "d": null,
@@ -2586,38 +2739,39 @@
         "u": null
       },
       {
-        "n": "Connect'HER",
+        "n": "Lorkestra",
         "s": "2026-02-23T16:00:00Z",
         "e": "2026-02-23T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "lorkestra"
       },
       {
-        "n": "HORS-SOL",
+        "n": "Mel V",
         "s": "2026-02-23T17:00:00Z",
         "e": "2026-02-23T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "horssol"
+        "p": "mel"
       },
       {
-        "n": "Neida",
+        "n": "Kokoprisci",
         "s": "2026-02-23T18:00:00Z",
         "e": "2026-02-23T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "kokoprisci"
       },
       {
-        "n": "Miley Serious",
+        "n": "22heures30",
         "s": "2026-02-23T19:00:00Z",
         "e": "2026-02-23T20:00:00Z",
         "d": null,
-        "j": "invite Akumen",
-        "u": null,
-        "p": "akumen"
+        "j": null,
+        "u": null
       },
       {
         "n": "Playlist France",
