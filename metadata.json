@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-23T14:41:12.846Z",
+  "updated": "2026-02-23T16:44:35.178Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Mosca (R)",
-        "s": "2026-02-23T02:00:00Z",
-        "e": "2026-02-23T04:00:00Z",
-        "d": "Mosca runs underground club music inspired by tunes from all over: dub, house, techno, grime and jungle, as well as East coast hip hop, South African house, Shaolin soul, indie and post-rock from his youth, first-wave electro, stripped down ragga and dancehall, a little minimal ghetto stuff, and more. On top of that he's racked up some pretty big guest mixes in past shows. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mosca/episodes/mosca-24th-february-2021",
-        "t": "restream"
-      },
       {
         "n": "Elena Colombi (R)",
         "s": "2026-02-23T04:00:00Z",
@@ -88,17 +79,17 @@
         "n": "FROM THE DEPTHS W/ DRAKEFORD",
         "s": "2026-02-23T16:00:00Z",
         "e": "2026-02-23T18:00:00Z",
-        "d": null,
+        "d": "Drakeford in the drivetime slot. A gentle cruise through dream pop, vintage folk, lushed-out electronics and more.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/from-the-depths/episodes/from-the-depths-23rd-february-2026"
       },
       {
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-02-23T18:00:00Z",
         "e": "2026-02-23T20:00:00Z",
-        "d": null,
+        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
         "j": "COCO MARIA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-23rd-february-2026",
         "t": "weekly",
         "p": "cocomaria"
       },
@@ -135,6 +126,15 @@
         "j": null,
         "u": null,
         "p": "tornhawk"
+      },
+      {
+        "n": "OMICHIVE'S BOOKSHELF (R)",
+        "s": "2026-02-24T00:00:00Z",
+        "e": "2026-02-24T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "HTRK (R)",
@@ -212,7 +212,7 @@
         "p": "anu"
       },
       {
-        "n": "NABIHAH IQBAL",
+        "n": "NABIHAH IQBAL w/ Ben Chiu",
         "s": "2026-02-24T13:00:00Z",
         "e": "2026-02-24T15:00:00Z",
         "d": null,
@@ -229,28 +229,17 @@
         "u": null,
         "t": "weekly",
         "p": "margeaux"
+      },
+      {
+        "n": "NTS Guide to: Komuso flute - Shakuhachi",
+        "s": "2026-02-24T16:00:00Z",
+        "e": "2026-02-24T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Mishka (R)",
-        "s": "2026-02-23T02:00:00Z",
-        "e": "2026-02-23T03:00:00Z",
-        "d": "An auditory exploration with SF native Mishka ranging from synth pop and balearic to softrock and global dance gems. One hour, once a month, with love. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mishka/episodes/mishka-31st-january-2022",
-        "t": "restream",
-        "p": "mishka"
-      },
-      {
-        "n": "SOFAY & RIBEKA (R)",
-        "s": "2026-02-23T03:00:00Z",
-        "e": "2026-02-23T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "BLAZER SOUND SYSTEM (R)",
         "s": "2026-02-23T04:00:00Z",
@@ -345,9 +334,10 @@
         "n": "ANTHONY CHALMERS",
         "s": "2026-02-23T17:00:00Z",
         "e": "2026-02-23T18:00:00Z",
-        "d": null,
+        "d": "Anthony Chalmers, promoter of Baba Yaga's Hut, London's top night for left-field & experimental music visits NTS for a monthly showcase of his heavy collection, which spans jazz, dub, stoner rock, psych, electronic & more.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/anthonychalmers/episodes/anthonychalmers-23rd-february-2026",
+        "t": "monthly"
       },
       {
         "n": "ALDOUS RH",
@@ -358,7 +348,7 @@
         "u": null
       },
       {
-        "n": "THE LAVENDER KITE AUDIO RESEARCH HOUR",
+        "n": "THE LAVENDER KITE AUDIO RESEARCH HOUR w/ J. Ka Ching",
         "s": "2026-02-23T19:00:00Z",
         "e": "2026-02-23T20:00:00Z",
         "d": null,
@@ -374,12 +364,13 @@
         "u": null
       },
       {
-        "n": "FUNK FREAKS",
+        "n": "Funk Freaks Radio w/ DJ PHREE (R)",
         "s": "2026-02-23T21:00:00Z",
         "e": "2026-02-23T22:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "DJ PHREE",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "BASHMENT SOUND W/ SILENT ADDY & DISCO NEIL",
@@ -478,18 +469,19 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "PLAY IT AS IT LATHES W/ ZACH COWIE (R)",
+        "s": "2026-02-24T10:00:00Z",
+        "e": "2026-02-24T11:00:00Z",
+        "d": null,
+        "j": "ZACH COWIE",
+        "u": null,
+        "t": "restream",
+        "p": "zachcowie"
       }
     ],
     "subtle": [
-      {
-        "n": "Arma",
-        "s": "2026-02-23T02:00:00Z",
-        "e": "2026-02-23T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "arma"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-02-23T03:00:00Z",
@@ -1626,17 +1618,25 @@
         "j": null,
         "u": null,
         "p": "enable"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sadie ibrahim – out of range",
-        "s": "2026-02-23T02:00:00Z",
-        "e": "2026-02-23T04:00:00Z",
+        "n": "L!pi",
+        "s": "2026-03-02T15:00:00Z",
+        "e": "2026-03-02T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "Strange Signals",
+        "s": "2026-03-02T16:00:00Z",
+        "e": "2026-03-02T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "Gabie Strong and Ian Wellman - Zone Mapping",
         "s": "2026-02-23T04:00:00Z",
@@ -2229,17 +2229,18 @@
         "j": null,
         "u": null,
         "p": "xenmodel"
+      },
+      {
+        "n": "Thalma de Freitas – THALMA PLAYS BRASIL",
+        "s": "2026-03-02T16:00:00Z",
+        "e": "2026-03-02T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "thalmadefreitas"
       }
     ],
     "rinse": [
-      {
-        "n": "Roman Flügel",
-        "s": "2026-02-23T02:00:00Z",
-        "e": "2026-02-23T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-02-23T03:00:00Z",
