@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-23T06:54:51.438Z",
+  "updated": "2026-02-23T08:38:46.755Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ALL TRADES W/ CHUGGY",
-        "s": "2026-02-22T17:00:00Z",
-        "e": "2026-02-22T19:00:00Z",
-        "d": "The man behind the various Emotional labels jumps in the NTS cockpit for a chance to show off his expansive taste. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/emotional/episodes/emotional-22nd-february-2026"
-      },
-      {
-        "n": "JANIE JONES (R)",
-        "s": "2026-02-22T19:00:00Z",
-        "e": "2026-02-22T20:00:00Z",
-        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-13th-july-2025",
-        "t": "restream",
-        "p": "janiejones"
-      },
       {
         "n": "Bon Iver",
         "s": "2026-02-22T20:00:00Z",
@@ -115,9 +97,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-02-23T09:00:00Z",
         "e": "2026-02-23T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-23rd-february-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -252,27 +234,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-02-24T09:00:00Z",
+        "e": "2026-02-24T11:00:00Z",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "RED LASER RECORDS W/ IL BOSCO (R)",
-        "s": "2026-02-22T17:00:00Z",
-        "e": "2026-02-22T19:00:00Z",
-        "d": "Red Laser Records crew brings Manchester's own blend of Manctalo, Disco & Boogie. A high energy Sunday Buzz guaranteed.",
-        "j": "IL BOSCO",
-        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-23rd-march-2025",
-        "t": "restream"
-      },
-      {
-        "n": "DESIRE (R)",
-        "s": "2026-02-22T19:00:00Z",
-        "e": "2026-02-22T20:00:00Z",
-        "d": "Supremo '80s goodness from Montreal duo Desire in a special guest mix.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/desire-24th-may-2024",
-        "t": "restream"
-      },
       {
         "n": "Fixed Abode presents Northern Gothic w/ Jack Kimberley",
         "s": "2026-02-22T20:00:00Z",
@@ -379,9 +353,9 @@
         "n": "Homeshake (R)",
         "s": "2026-02-23T09:00:00Z",
         "e": "2026-02-23T10:00:00Z",
-        "d": null,
+        "d": "Cheeky slacker selections from everyone's favourite - Homeshake. Kick back. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/homeshake/episodes/homeshake-24th-november-2021",
         "t": "restream"
       },
       {
@@ -510,26 +484,17 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "2Step Selects ",
-        "s": "2026-02-22T17:00:00Z",
-        "e": "2026-02-22T19:00:00Z",
-        "d": "2Step Selects is a monthly show hosted by the Choki Biki Records crew. Founded in Dublin, Ireland, CBR consists of DJ Sharpson, 2step.png, Frame Shift, and MICK. The show consists of an all round breaks, electro, ukg and jungle hour, followed by an Irish showcase, demonstrating all the best Ireland has to offer collective/party/Dj & Producer wise!",
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": " The Process Show w/ EONE",
-        "s": "2026-02-22T19:00:00Z",
-        "e": "2026-02-22T20:00:00Z",
+        "n": "FINE-TUNE W/ JOHN TIANGCO",
+        "s": "2026-02-24T02:00:00Z",
+        "e": "2026-02-24T03:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "EBITDA",
         "s": "2026-02-22T20:00:00Z",
@@ -1658,18 +1623,25 @@
         "j": null,
         "u": null,
         "p": "takydon"
+      },
+      {
+        "n": "VITRINE by Sasoun",
+        "s": "2026-03-02T07:00:00Z",
+        "e": "2026-03-02T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": " Hello, You’ve Reached The Grooveline",
+        "s": "2026-03-02T08:00:00Z",
+        "e": "2026-03-02T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Thomas Klepper - Library of Sounds",
-        "s": "2026-02-22T18:00:00Z",
-        "e": "2026-02-22T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "thomasklepper"
-      },
       {
         "n": "Flight Club",
         "s": "2026-02-22T20:00:00Z",
@@ -1726,6 +1698,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-23T08:00:00Z",
         "e": "2026-02-23T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-23T10:00:00Z",
+        "e": "2026-02-23T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2039,8 +2020,9 @@
         "s": "2026-02-27T20:00:00Z",
         "e": "2026-02-27T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Cuts 01",
         "u": null,
+        "t": "weekly",
         "p": "callieryan"
       },
       {
@@ -2262,15 +2244,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Plastician",
-        "s": "2026-02-22T18:00:00Z",
-        "e": "2026-02-22T20:00:00Z",
-        "d": null,
-        "j": "Sorsari",
-        "u": null,
-        "p": "plastician"
-      },
       {
         "n": "Oblig",
         "s": "2026-02-22T20:00:00Z",
@@ -2626,23 +2599,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Neida",
-        "s": "2026-02-22T18:00:00Z",
-        "e": "2026-02-22T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Miley Serious",
-        "s": "2026-02-22T19:00:00Z",
-        "e": "2026-02-22T20:00:00Z",
-        "d": null,
-        "j": "invite Akumen",
-        "u": null,
-        "p": "akumen"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-02-22T20:00:00Z",
         "e": "2026-02-22T23:00:00Z",
@@ -2670,24 +2626,16 @@
         "t": "playlist"
       },
       {
-        "n": "Anna Majidson",
+        "n": "Cosmic Neman",
         "s": "2026-02-23T13:00:00Z",
-        "e": "2026-02-23T14:00:00Z",
-        "d": null,
-        "j": "Behind The Curtain with Azzedine Fall",
-        "u": null
-      },
-      {
-        "n": "honeymel",
-        "s": "2026-02-23T14:00:00Z",
         "e": "2026-02-23T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Les Témoins Du Futur",
         "u": null,
-        "p": "honeymel"
+        "p": "cosmicneman"
       },
       {
-        "n": "Louis Roméo",
+        "n": "Sentaku",
         "s": "2026-02-23T15:00:00Z",
         "e": "2026-02-23T16:00:00Z",
         "d": null,
@@ -2695,9 +2643,95 @@
         "u": null
       },
       {
-        "n": "Lorkestra",
+        "n": "Connect'HER",
         "s": "2026-02-23T16:00:00Z",
         "e": "2026-02-23T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "HORS-SOL",
+        "s": "2026-02-23T17:00:00Z",
+        "e": "2026-02-23T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "horssol"
+      },
+      {
+        "n": "Neida",
+        "s": "2026-02-23T18:00:00Z",
+        "e": "2026-02-23T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Miley Serious",
+        "s": "2026-02-23T19:00:00Z",
+        "e": "2026-02-23T20:00:00Z",
+        "d": null,
+        "j": "invite Akumen",
+        "u": null,
+        "p": "akumen"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-23T20:00:00Z",
+        "e": "2026-02-23T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-23T23:00:00Z",
+        "e": "2026-02-24T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-24T08:00:00Z",
+        "e": "2026-02-24T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Anna Majidson",
+        "s": "2026-02-24T13:00:00Z",
+        "e": "2026-02-24T14:00:00Z",
+        "d": null,
+        "j": "Behind The Curtain with Azzedine Fall",
+        "u": null
+      },
+      {
+        "n": "honeymel",
+        "s": "2026-02-24T14:00:00Z",
+        "e": "2026-02-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "honeymel"
+      },
+      {
+        "n": "Louis Roméo",
+        "s": "2026-02-24T15:00:00Z",
+        "e": "2026-02-24T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Lorkestra",
+        "s": "2026-02-24T16:00:00Z",
+        "e": "2026-02-24T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2705,8 +2739,8 @@
       },
       {
         "n": "Mel V",
-        "s": "2026-02-23T17:00:00Z",
-        "e": "2026-02-23T18:00:00Z",
+        "s": "2026-02-24T17:00:00Z",
+        "e": "2026-02-24T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2714,8 +2748,8 @@
       },
       {
         "n": "Kokoprisci",
-        "s": "2026-02-23T18:00:00Z",
-        "e": "2026-02-23T19:00:00Z",
+        "s": "2026-02-24T18:00:00Z",
+        "e": "2026-02-24T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2723,16 +2757,16 @@
       },
       {
         "n": "22heures30",
-        "s": "2026-02-23T19:00:00Z",
-        "e": "2026-02-23T20:00:00Z",
+        "s": "2026-02-24T19:00:00Z",
+        "e": "2026-02-24T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-23T20:00:00Z",
-        "e": "2026-02-23T21:00:00Z",
+        "s": "2026-02-24T20:00:00Z",
+        "e": "2026-02-24T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
