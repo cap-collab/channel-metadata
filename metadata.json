@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-24T12:43:19.996Z",
+  "updated": "2026-02-24T14:44:21.515Z",
   "stations": {
     "nts1": [
-      {
-        "n": "OMICHIVE'S BOOKSHELF (R)",
-        "s": "2026-02-24T00:00:00Z",
-        "e": "2026-02-24T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "HTRK (R)",
-        "s": "2026-02-24T01:00:00Z",
-        "e": "2026-02-24T02:00:00Z",
-        "d": "New releases and current inspirations from your hosts Jonnine Standish and Nigel Yang aka HTRK.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/htrk/episodes/htrk-17th-november-2021",
-        "t": "restream",
-        "p": "htrk"
-      },
       {
         "n": "Blackest Ever Black (R)",
         "s": "2026-02-24T02:00:00Z",
@@ -100,9 +81,9 @@
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-02-24T15:00:00Z",
         "e": "2026-02-24T16:00:00Z",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-24th-february-2026",
         "t": "weekly",
         "p": "margeaux"
       },
@@ -238,27 +219,18 @@
         "j": null,
         "u": null,
         "p": "louisechen"
-      }
-    ],
-    "nts2": [
+      },
       {
-        "n": "POPSTAR BENNY",
-        "s": "2026-02-24T00:00:00Z",
-        "e": "2026-02-24T01:00:00Z",
+        "n": "PEACH",
+        "s": "2026-02-25T17:00:00Z",
+        "e": "2026-02-25T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "popstarbenny"
-      },
-      {
-        "n": "SIC Records (R)",
-        "s": "2026-02-24T01:00:00Z",
-        "e": "2026-02-24T02:00:00Z",
-        "d": "Vaporwave meets hip hop for an hour a month. Enjoy The SIC Records experience today.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sic-records/episodes/sic-records-17th-july-2025",
-        "t": "restream"
-      },
+        "p": "peach"
+      }
+    ],
+    "nts2": [
       {
         "n": "NTS Guide to: Trip Hop Revival (R)",
         "s": "2026-02-24T02:00:00Z",
@@ -360,17 +332,17 @@
         "n": "Vanilla Glint w/ Yuri Online & Gustavio",
         "s": "2026-02-24T14:00:00Z",
         "e": "2026-02-24T15:00:00Z",
-        "d": null,
+        "d": "Into a new sonic universe, blending tropical ambient soundscapes with dancehall and hip hop in a regular hour from Gustavio Koslowski.\nFrom the host: \"Vannila Glint first episode welcomes french producer and artist Yuri Online into a new sonic universe, blending tropical ambient soundscapes with dancehall and hip hop in a regular hour shared with Host Gustavio Koslowski.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/gustavio-koslowski/episodes/gustavio-koslowski-24th-february-2026"
       },
       {
         "n": "SKINNY GIRL DIET",
         "s": "2026-02-24T15:00:00Z",
         "e": "2026-02-24T16:00:00Z",
-        "d": null,
+        "d": "Skinny Girl Diet are London's foremost riot grrrl duo. Delilah Holliday and Ursula Holliday. Post-punk, glam, garage and all things nice… or something like that.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/skinny-girl-diet/episodes/skinny-girl-diet-24th-february-2026"
       },
       {
         "n": "NTS x Bershka Next Up! w/ Kaanijo & ledbyher",
@@ -493,18 +465,28 @@
         "u": null,
         "t": "restream",
         "p": "upsammy"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-02-24T00:00:00Z",
-        "e": "2026-02-24T02:00:00Z",
+        "n": "True As Few w/ Mark (R)",
+        "s": "2026-02-25T08:00:00Z",
+        "e": "2026-02-25T09:00:00Z",
+        "d": null,
+        "j": "Mark",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "RAGA VIBRATIONS (R)",
+        "s": "2026-02-25T09:00:00Z",
+        "e": "2026-02-25T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "restream",
+        "p": "ragavibrations"
+      }
+    ],
+    "subtle": [
       {
         "n": "The Ice Box Sessions with Frigid",
         "s": "2026-02-24T02:00:00Z",
@@ -1672,18 +1654,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-24T00:00:00Z",
-        "e": "2026-02-24T02:00:00Z",
+        "n": "Bass Exchange",
+        "s": "2026-03-03T13:00:00Z",
+        "e": "2026-03-03T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "p": "bassexchange"
       },
+      {
+        "n": "Solly",
+        "s": "2026-03-03T14:00:00Z",
+        "e": "2026-03-03T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "solly"
+      }
+    ],
+    "dublab": [
       {
         "n": "El Cocodrilo – Tropisónico",
         "s": "2026-02-24T02:00:00Z",
@@ -1741,6 +1732,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-24T13:00:00Z",
         "e": "2026-02-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-24T15:00:00Z",
+        "e": "2026-02-24T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2281,22 +2281,6 @@
     ],
     "rinse": [
       {
-        "n": "Left, Right & Centre",
-        "s": "2026-02-24T00:00:00Z",
-        "e": "2026-02-24T01:00:00Z",
-        "d": null,
-        "j": "Korzi",
-        "u": null
-      },
-      {
-        "n": "TMSV",
-        "s": "2026-02-24T01:00:00Z",
-        "e": "2026-02-24T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "styn",
         "s": "2026-02-24T02:00:00Z",
         "e": "2026-02-24T03:00:00Z",
@@ -2415,7 +2399,7 @@
         "s": "2026-02-24T20:00:00Z",
         "e": "2026-02-24T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Dyed Soundorom feat. Jorge Caiado",
         "u": null,
         "p": "apollonia"
       },
@@ -2514,7 +2498,7 @@
         "s": "2026-02-25T12:00:00Z",
         "e": "2026-02-25T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Emotional Bass",
         "u": null,
         "p": "eclecticist"
       },
@@ -2541,7 +2525,7 @@
         "s": "2026-02-25T15:00:00Z",
         "e": "2026-02-25T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Marcia Carr",
         "u": null,
         "t": "weekly",
         "p": "utopiapresents"
@@ -2570,7 +2554,7 @@
         "s": "2026-02-25T19:00:00Z",
         "e": "2026-02-25T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Sentimento",
         "u": null,
         "p": "saintludo"
       },
@@ -2634,7 +2618,7 @@
         "s": "2026-02-24T14:00:00Z",
         "e": "2026-02-24T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Sip into something soft avec Nightchou",
         "u": null,
         "p": "honeymel"
       },
