@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-24T18:50:22.137Z",
+  "updated": "2026-02-24T20:25:56.483Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Acid Memories (R)",
-        "s": "2026-02-24T06:00:00Z",
-        "e": "2026-02-24T07:00:00Z",
-        "d": "Rose-tinted hallucinogenic sounds from Astral Vibes' Acid Memories. Illicit dealings in psychedelia of all persuasions. Sit back and enjoy…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/acid-memories/episodes/acid-memories-w-astral-vibes-4th-september-2019",
-        "t": "restream",
-        "p": "acidmemories"
-      },
       {
         "n": "The Early Bird Show w/ Bitter Babe",
         "s": "2026-02-24T07:00:00Z",
@@ -100,9 +90,9 @@
         "n": "Circuits",
         "s": "2026-02-24T22:00:00Z",
         "e": "2026-02-25T00:00:00Z",
-        "d": null,
+        "d": "Connections in electronic music: the history of house and techno as presented to you by the wonderful Olly Chubb.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/circuits/episodes/circuits-24th-february-2026",
         "p": "circuits"
       },
       {
@@ -238,27 +228,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "GIGI FM presents Space Drum Meditation",
+        "s": "2026-02-25T22:00:00Z",
+        "e": "2026-02-25T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Altered Soul Experiment (R)",
-        "s": "2026-02-24T05:00:00Z",
-        "e": "2026-02-24T07:00:00Z",
-        "d": "Amila, the founder of Altered Soul Experiment brings monthly transmissions of soul, boogie, disco and his Search For Peace series, covering soothing and cerebral ambient jazz and fourth world selections.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/amila/episodes/altered-soul-experiment-w-amila-and-kris-guilty-27th-july-2017",
-        "t": "restream"
-      },
-      {
-        "n": "Sounds on Screen: Kore-Eda (R)",
-        "s": "2026-02-24T07:00:00Z",
-        "e": "2026-02-24T08:00:00Z",
-        "d": "Exploring the cinematic universe inhabited by Japanese director Hirokazu Kore-eda, master of shomin-geki, the technique of magnifying small but significant human moments on film as opposed to grand dramatic conflict and tension. \n“I’ve learned to value ordinary life. And I still have a wish to portray that.”",
-        "j": "Kore-Eda",
-        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-kore-eda-9th-november-2023",
-        "t": "restream"
-      },
       {
         "n": "Lamin Fofana (R)",
         "s": "2026-02-24T08:00:00Z",
@@ -366,18 +346,19 @@
         "n": "NYA",
         "s": "2026-02-24T20:00:00Z",
         "e": "2026-02-24T21:00:00Z",
-        "d": null,
+        "d": "Memphis selector and radio host Nya presents an hour of rare soul, boogie, gospel, and funk records once a month.\nArtwork by Abby Shoaf",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nya/episodes/nya-24th-february-2026",
+        "t": "monthly",
         "p": "nya"
       },
       {
         "n": "HELLOTONES: EL HIJO DE PUEBLAYORK",
         "s": "2026-02-24T21:00:00Z",
         "e": "2026-02-24T22:00:00Z",
-        "d": null,
+        "d": "Kumbias mezcladas como nunca antes by hellotones.. direct from the Poblano Mexicano diaspora in New York City and stamping the moment that is the PueblaYork renaissance. Paying homage with mixes blending the sounds of yesteryears’ cumbia labels and the sounds of the future in cumbia happening now.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/hellotones/episodes/hellotones-24th-february-2026"
       },
       {
         "n": "Joshua Chuquimia Crampton - VISTAS II",
@@ -501,27 +482,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "HIGH JAZZ* W/ ILL DUBIO",
+        "s": "2026-02-25T14:00:00Z",
+        "e": "2026-02-25T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ARUSHI JAIN",
+        "s": "2026-02-25T15:00:00Z",
+        "e": "2026-02-25T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-02-24T05:00:00Z",
-        "e": "2026-02-24T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Ms Chief",
-        "s": "2026-02-24T07:00:00Z",
-        "e": "2026-02-24T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "mschief"
-      },
       {
         "n": "Azadi Sound",
         "s": "2026-02-24T08:00:00Z",
@@ -1697,17 +1676,26 @@
         "j": null,
         "u": null,
         "p": "karishma"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Karen y Los Remedios – guest session",
-        "s": "2026-02-24T06:00:00Z",
-        "e": "2026-02-24T07:00:00Z",
+        "n": "Ro-Motion",
+        "s": "2026-03-03T19:00:00Z",
+        "e": "2026-03-03T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "romotion"
+      },
+      {
+        "n": "Jake Plisken",
+        "s": "2026-03-03T20:00:00Z",
+        "e": "2026-03-03T22:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-02-24T07:00:00Z",
@@ -2310,18 +2298,17 @@
         "j": null,
         "u": null,
         "p": "jonathankornman"
+      },
+      {
+        "n": "OPEN SLOT",
+        "s": "2026-03-03T20:00:00Z",
+        "e": "2026-03-03T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Flyo",
-        "s": "2026-02-24T06:00:00Z",
-        "e": "2026-02-24T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "flyo"
-      },
       {
         "n": "Playlist",
         "s": "2026-02-24T07:00:00Z",
@@ -2603,15 +2590,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-02-23T23:00:00Z",
-        "e": "2026-02-24T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-02-24T08:00:00Z",
