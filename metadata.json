@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-24T16:57:14.559Z",
+  "updated": "2026-02-24T18:50:22.137Z",
   "stations": {
     "nts1": [
-      {
-        "n": "RVNG Intl. (R)",
-        "s": "2026-02-24T04:00:00Z",
-        "e": "2026-02-24T05:00:00Z",
-        "d": "RVNG Intl. presents Friends & Fiends, a monthly guest hosted show spotlighting resident artists and heads orbiting the label’s universe of forward-reaching, free, and (generally) fried music. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rvngintl/episodes/rvng-intl-presents-friends-fiends-21st-september-2021",
-        "t": "restream"
-      },
-      {
-        "n": "FINE (R)",
-        "s": "2026-02-24T05:00:00Z",
-        "e": "2026-02-24T06:00:00Z",
-        "d": "Sonic diaries from Fine…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-18th-september-2025",
-        "t": "restream"
-      },
       {
         "n": "Acid Memories (R)",
         "s": "2026-02-24T06:00:00Z",
@@ -98,18 +80,20 @@
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
         "s": "2026-02-24T18:00:00Z",
         "e": "2026-02-24T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
+        "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-24th-february-2026",
+        "t": "biweekly",
         "p": "channeling"
       },
       {
         "n": "Minimal Wave w/ VERONICA VASICKA",
         "s": "2026-02-24T20:00:00Z",
         "e": "2026-02-24T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Veronica Vasicka presents a monthly 2-hour show featuring the lost synth-wave treasures she has archived from the late 70s and early 80s, along with other iconic underground electronic music drawn from over four decades. Expect to hear exclusive tracks from releases on her seminal Minimal Wave and Cititrax labels plus cassette-only and private press rarities.",
+        "j": "VERONICA VASICKA",
+        "u": "https://www.nts.live/api/v2/shows/veronica-vasicka/episodes/veronica-vasicka-24th-february-2026",
+        "t": "monthly",
         "p": "veronicavasicka"
       },
       {
@@ -237,18 +221,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Martelo",
+        "s": "2026-02-25T20:00:00Z",
+        "e": "2026-02-25T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "martelo"
+      },
+      {
+        "n": "PRECIOUS METALS W/ ENDGAME & Other Islands",
+        "s": "2026-02-25T21:00:00Z",
+        "e": "2026-02-25T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "LIVING GATLATO (R)",
-        "s": "2026-02-24T04:00:00Z",
-        "e": "2026-02-24T05:00:00Z",
-        "d": "FROM THE GREAT DIVIDE HE EMERGED.\nONE FOOT IN THE WRETCHED.\nTHE OTHER IN THE SUBLIME. \nFORWARD CLUB FOR A BACKWARD ERA. \nLIVING WILL KILL HIM. \nLIVING GATLATO.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/living-gatlato/episodes/living-gatlato-1st-june-2024",
-        "t": "restream"
-      },
       {
         "n": "Altered Soul Experiment (R)",
         "s": "2026-02-24T05:00:00Z",
@@ -356,9 +348,9 @@
         "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE (R)",
         "s": "2026-02-24T18:00:00Z",
         "e": "2026-02-24T19:00:00Z",
-        "d": null,
+        "d": "Lagos based collector and DJ Temi Kogbe traces connections in African popular culture through vinyl. ",
         "j": "TEMI KOGBE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/temi-kogbe/episodes/temi-kogbe-2nd-february-2025",
         "t": "restream",
         "p": "temikogbe"
       },
@@ -366,9 +358,9 @@
         "n": "EDNA MARTINEZ - El Parrandero Picó",
         "s": "2026-02-24T19:00:00Z",
         "e": "2026-02-24T20:00:00Z",
-        "d": null,
+        "d": "Curator and DJ Edna Martinez explores the champeta, an underground musical genre and dance that originated in the Caribbean coast of Colombia in the early 1980s. The rhythms and influences are said to have arrived with the sailors from West Africa in the 1960s and 70s. We will get to know in each episode its specificities and the relevance of this scene.\nFrom the host: \"A tribute to a legendary Cartagena picó El Parrandero since 1978, championing soca and Caribbean rhythms. The pure euphoria of Colombian caribbean sound system culture.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/edna-martinez/episodes/edna-martinez-24th-february-2026"
       },
       {
         "n": "NYA",
@@ -430,7 +422,7 @@
         "u": null
       },
       {
-        "n": "TIMETABLE",
+        "n": "Timetable w/ Nosaj Thing",
         "s": "2026-02-25T03:00:00Z",
         "e": "2026-02-25T04:00:00Z",
         "d": null,
@@ -493,18 +485,25 @@
         "j": null,
         "u": null,
         "p": "natalia"
+      },
+      {
+        "n": "Tara Clerkin Trio",
+        "s": "2026-02-25T12:00:00Z",
+        "e": "2026-02-25T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Mil Townley",
+        "s": "2026-02-25T13:00:00Z",
+        "e": "2026-02-25T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "ALBH",
-        "s": "2026-02-24T04:00:00Z",
-        "e": "2026-02-24T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "albh"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-02-24T05:00:00Z",
@@ -1681,18 +1680,26 @@
         "j": null,
         "u": null,
         "p": "getonfestival"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Aaron Paar - Stomping Grounds",
-        "s": "2026-02-24T04:00:00Z",
-        "e": "2026-02-24T06:00:00Z",
+        "n": "SECH",
+        "s": "2026-03-03T17:00:00Z",
+        "e": "2026-03-03T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": " Karishma",
+        "s": "2026-03-03T18:00:00Z",
+        "e": "2026-03-03T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "aaronpaar"
-      },
+        "p": "karishma"
+      }
+    ],
+    "dublab": [
       {
         "n": "Karen y Los Remedios – guest session",
         "s": "2026-02-24T06:00:00Z",
@@ -2285,18 +2292,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-02-24T03:00:00Z",
-        "e": "2026-02-24T06:00:00Z",
+        "n": "Chandler Poling - Studio Soundtracks",
+        "s": "2026-03-03T17:00:00Z",
+        "e": "2026-03-03T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "p": "chandlerpoling"
       },
+      {
+        "n": "Jonathan Kornman - Discoteca Imaginaria",
+        "s": "2026-03-03T18:00:00Z",
+        "e": "2026-03-03T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "jonathankornman"
+      }
+    ],
+    "rinse": [
       {
         "n": "Flyo",
         "s": "2026-02-24T06:00:00Z",
