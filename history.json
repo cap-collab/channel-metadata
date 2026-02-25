@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-02-25T01:22:21.659Z",
+  "updated": "2026-02-25T04:12:35.536Z",
   "stations": {
     "nts1": [
       {
@@ -804,7 +804,8 @@
         "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM. ",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-3rd-january-2024",
-        "t": "restream"
+        "t": "restream",
+        "p": "gigifm"
       },
       {
         "n": "Japan Blues (R)",
@@ -1271,6 +1272,25 @@
         "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-24th-february-2026",
         "t": "weekly",
         "p": "anu"
+      },
+      {
+        "n": "NABIHAH IQBAL w/ Ben Chiu",
+        "s": "2026-02-24T13:00:00Z",
+        "e": "2026-02-24T15:00:00Z",
+        "d": "London-based DJ and producer Nabihah Iqbal (formerly known as Throwing Shade) brings you an ethnomusicological perspective on weird and wonderful music from around the world. Expect regular themed special episode; a good dose of history, and above all, good music to broaden your horizons. Every other Tuesday, midday-1pm. You can listen back to previous Throwing Shade episodes here\nFrom the host: \"Recorded in Sydney, with Nabihah Iqbal in the first hour & Ben Chiu in the second.\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/nabihah-iqbal/episodes/nabihah-iqbal-24th-february-2026",
+        "p": "nabihahiqbal"
+      },
+      {
+        "n": "Self Soothe w/ Margeaux",
+        "s": "2026-02-24T15:00:00Z",
+        "e": "2026-02-24T16:00:00Z",
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
+        "j": "Margeaux",
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-24th-february-2026",
+        "t": "weekly",
+        "p": "margeaux"
       }
     ],
     "nts2": [
@@ -2859,6 +2879,30 @@
         "d": "Artist Katie Shannon brings a series of thematic shows; connections between people, place and sound with a strong focus on DIY music cultures.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/katie-shannon/episodes/katie-shannon-24th-february-2026"
+      },
+      {
+        "n": "SOFAY AND RIBEKA",
+        "s": "2026-02-24T13:00:00Z",
+        "e": "2026-02-24T14:00:00Z",
+        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-24th-february-2026"
+      },
+      {
+        "n": "Vanilla Glint w/ Yuri Online & Gustavio",
+        "s": "2026-02-24T14:00:00Z",
+        "e": "2026-02-24T15:00:00Z",
+        "d": "Into a new sonic universe, blending tropical ambient soundscapes with dancehall and hip hop in a regular hour from Gustavio Koslowski.\nFrom the host: \"Vannila Glint first episode welcomes french producer and artist Yuri Online into a new sonic universe, blending tropical ambient soundscapes with dancehall and hip hop in a regular hour shared with Host Gustavio Koslowski.\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/gustavio-koslowski/episodes/gustavio-koslowski-24th-february-2026"
+      },
+      {
+        "n": "SKINNY GIRL DIET",
+        "s": "2026-02-24T15:00:00Z",
+        "e": "2026-02-24T16:00:00Z",
+        "d": "Skinny Girl Diet are London's foremost riot grrrl duo. Delilah Holliday and Ursula Holliday. Post-punk, glam, garage and all things nice… or something like that.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/skinny-girl-diet/episodes/skinny-girl-diet-24th-february-2026"
       }
     ],
     "subtle": [
@@ -4265,6 +4309,33 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Liquid Vault w/ Half-Life",
+        "s": "2026-02-24T13:00:00Z",
+        "e": "2026-02-24T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "half"
+      },
+      {
+        "n": "Silk Road Sessions w/ YVES",
+        "s": "2026-02-24T14:00:00Z",
+        "e": "2026-02-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "yves"
+      },
+      {
+        "n": "sophie",
+        "s": "2026-02-24T15:00:00Z",
+        "e": "2026-02-24T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sophie"
       }
     ],
     "dublab": [
@@ -5219,6 +5290,24 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-24T13:00:00Z",
+        "e": "2026-02-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-24T15:00:00Z",
+        "e": "2026-02-24T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -5679,7 +5768,8 @@
         "e": "2026-02-19T15:00:00Z",
         "d": null,
         "j": "(Acid Special)",
-        "u": null
+        "u": null,
+        "p": "mrredley"
       },
       {
         "n": "Tom Ravenscroft",
@@ -6385,6 +6475,24 @@
         "d": null,
         "j": "Tanya Voytko",
         "u": null
+      },
+      {
+        "n": "Savannah Blake",
+        "s": "2026-02-24T13:00:00Z",
+        "e": "2026-02-24T14:00:00Z",
+        "d": null,
+        "j": "SOL Sessions with Bella Barbe",
+        "u": null,
+        "p": "savannahblake"
+      },
+      {
+        "n": "The OONTS Show with Kojay",
+        "s": "2026-02-24T14:00:00Z",
+        "e": "2026-02-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "kojay"
       }
     ],
     "rinsefr": [
@@ -7071,6 +7179,31 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "MENTAL HEALTH RADIO par Stencia",
+        "s": "2026-02-24T13:00:00Z",
+        "e": "2026-02-24T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "WEDOMiEL",
+        "s": "2026-02-24T14:00:00Z",
+        "e": "2026-02-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "wedomiel"
+      },
+      {
+        "n": "Vanyfox",
+        "s": "2026-02-24T15:00:00Z",
+        "e": "2026-02-24T16:00:00Z",
+        "d": null,
+        "j": "& NegoO",
+        "u": null
       }
     ],
     "newtown": []
