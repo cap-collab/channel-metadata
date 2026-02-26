@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-26T01:16:26.246Z",
+  "updated": "2026-02-26T04:08:15.877Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Eric D. Clark",
-        "s": "2026-02-25T13:00:00Z",
-        "e": "2026-02-25T14:01:00Z",
-        "d": "House veteran Eric D. Clark rolls through and hour of dancefloor deepness, recorded live at Open Ground, Wuppertal. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/eric-d-clark-25th-february-2026"
-      },
-      {
-        "n": "NTS GUIDE TO: MEXICAN DISCOTECA (70S-90S) (R)",
-        "s": "2026-02-25T14:01:00Z",
-        "e": "2026-02-25T15:00:00Z",
-        "d": "1 hour of disco and italo from Mexico.\nMade by Coco Maria. ",
-        "j": "MEXICAN DISCOTECA (70S-90S)",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-mexican-discoteca-70s-90s-20th-may-2025",
-        "t": "restream"
-      },
       {
         "n": "LOUISE CHEN",
         "s": "2026-02-25T15:00:00Z",
@@ -112,9 +95,9 @@
         "n": "Maria Somerville (R)",
         "s": "2026-02-26T04:00:00Z",
         "e": "2026-02-26T05:00:00Z",
-        "d": null,
+        "d": "Irish avant pop artist Maria Somerville traverses heady concepts through classic pop, ambient, experimental, spoken word, & field recordings - now hosted ever morning for the NTS Breakfast Show here.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/maria-somerville/episodes/maria-somerville-26th-august-2020",
         "t": "restream",
         "p": "mariasomerville"
       },
@@ -122,9 +105,9 @@
         "n": "Doing Time (R)",
         "s": "2026-02-26T05:00:00Z",
         "e": "2026-02-26T07:00:00Z",
-        "d": null,
+        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-18th-august-2024",
         "t": "restream",
         "p": "doingtime"
       },
@@ -244,35 +227,29 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "ZEL ZELE W/ DEBORA IPEKEL & ECE DUZGIT (R)",
+        "s": "2026-02-27T05:00:00Z",
+        "e": "2026-02-27T06:00:00Z",
+        "d": null,
+        "j": "DEBORA IPEKEL & ECE DUZGIT",
+        "u": null,
+        "t": "restream",
+        "p": "zelzele"
+      },
+      {
+        "n": "SOPHIA ZHURAVKOVA (R)",
+        "s": "2026-02-27T06:00:00Z",
+        "e": "2026-02-27T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "sophiazhuravkova"
       }
     ],
     "nts2": [
-      {
-        "n": "Mil Townley",
-        "s": "2026-02-25T13:00:00Z",
-        "e": "2026-02-25T14:00:00Z",
-        "d": "Bimonthly radio hour taking you down various musical rabbit holes. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/no-one-radio/episodes/no-one-radio-25th-february-2026"
-      },
-      {
-        "n": "HIGH JAZZ* W/ ILL DUBIO",
-        "s": "2026-02-25T14:00:00Z",
-        "e": "2026-02-25T15:00:00Z",
-        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
-        "j": "ILL DUBIO",
-        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-25th-february-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ARUSHI JAIN",
-        "s": "2026-02-25T15:00:00Z",
-        "e": "2026-02-25T16:00:00Z",
-        "d": "All-genre NTS monthly by New York–based, New Delhi–born Arushi Jain fka modularprincess\nFrom the host: \"soundtrack to the first blizzard of my life. It feels unhurried, a little haunted, melancholic (but not heavy). I've been listening to Persian music this month, & it runs deep through the mix. kamancheh, setar, rabab, voice…hazy electronics dissolve into Iranian classical, post-rock, and slowbass.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-25th-february-2026",
-        "t": "monthly"
-      },
       {
         "n": "ZEL ZELE w/ Lay Llamas",
         "s": "2026-02-25T16:00:00Z",
@@ -341,7 +318,8 @@
         "e": "2026-02-26T02:00:00Z",
         "d": "Vaporwave meets hip hop for an hour a month. Enjoy The SIC Records experience today.\nFrom the host: \"With LUV S1GN I’m curating the musical legacy of Prince in a playful, storytelling way by blending his work (including samples, covers, b-sides, uncredited material, productions, collabs, etc.) with any other music that sets the tone for the story.\" - ADRIANNA LUCID",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sic-records/episodes/sic-records-26th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/sic-records/episodes/sic-records-26th-february-2026",
+        "p": "sicrecords"
       },
       {
         "n": "La Cosecha Internacional w/ XOLO (R)",
@@ -365,18 +343,18 @@
         "n": "Rambo Radio w/ 12manrambo",
         "s": "2026-02-26T04:00:00Z",
         "e": "2026-02-26T05:00:00Z",
-        "d": null,
+        "d": "West Coast Rap tape, cd, and vinyl archives/mixes spanning the mid 80's to early 00's, from San Diego, L.A., Central Valley all the way up to the Bay Area, Sacramento, Northwest and Alaska! Artwork by: DJ TRIGG\nFrom the host: \"Essential Late-80's/Early 90's tracks defining the San Francisco Bay Rap sound\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rambo-radio/episodes/rambo-radio-26th-february-2026",
         "p": "ramboradio"
       },
       {
         "n": "Otaku: Neon Genesis Evangelion (R)",
         "s": "2026-02-26T05:00:00Z",
         "e": "2026-02-26T06:00:00Z",
-        "d": null,
+        "d": "Soundtrack moments from Hidetaki Anno's anime masterwork Neon Genesis Evangelion.",
         "j": "Neon Genesis Evangelion",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/otaku/episodes/otaku-neon-genesis-evangelion-12th-august-2025",
         "t": "restream"
       },
       {
@@ -430,7 +408,8 @@
         "e": "2026-02-26T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "conradstandish"
       },
       {
         "n": "THE NUMERO GROUP - Walk Don't Run",
@@ -488,36 +467,35 @@
         "j": null,
         "u": null,
         "p": "homunkuli"
+      },
+      {
+        "n": "TEMPORAL COVE W/ SMILEGOTH",
+        "s": "2026-02-26T20:00:00Z",
+        "e": "2026-02-26T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "smilegoth"
+      },
+      {
+        "n": "Geologist Presents: The O'Brien System w/ Crown Vic",
+        "s": "2026-02-26T21:00:00Z",
+        "e": "2026-02-26T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Forager Records",
+        "s": "2026-02-26T22:00:00Z",
+        "e": "2026-02-26T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "foragerrecords"
       }
     ],
     "subtle": [
-      {
-        "n": "Kon Radd",
-        "s": "2026-02-25T13:00:00Z",
-        "e": "2026-02-25T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "konradd"
-      },
-      {
-        "n": "bin",
-        "s": "2026-02-25T14:00:00Z",
-        "e": "2026-02-25T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "bin"
-      },
-      {
-        "n": "Baked Biscuit",
-        "s": "2026-02-25T15:00:00Z",
-        "e": "2026-02-25T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "bakedbiscuit"
-      },
       {
         "n": "Rushmoor",
         "s": "2026-02-25T16:00:00Z",
@@ -618,6 +596,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-02-26T04:00:00Z",
+        "e": "2026-02-26T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Insider Trading w/ APOLLO",
@@ -1672,27 +1659,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "K-CO",
+        "s": "2026-03-05T02:00:00Z",
+        "e": "2026-03-05T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Wandah",
+        "s": "2026-03-05T04:00:00Z",
+        "e": "2026-03-05T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-25T12:00:00Z",
-        "e": "2026-02-25T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-02-25T14:00:00Z",
-        "e": "2026-02-25T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Seano - The Treehouse",
         "s": "2026-02-25T16:00:00Z",
@@ -2280,27 +2265,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Kins – Footnotes",
+        "s": "2026-03-05T02:00:00Z",
+        "e": "2026-03-05T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "kins"
+      },
+      {
+        "n": "GOGO – The Wavelength",
+        "s": "2026-03-05T04:00:00Z",
+        "e": "2026-03-05T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "gogo"
       }
     ],
     "rinse": [
-      {
-        "n": "Neptizzle",
-        "s": "2026-02-25T13:00:00Z",
-        "e": "2026-02-25T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "neptizzle"
-      },
-      {
-        "n": "Jasper James",
-        "s": "2026-02-25T14:00:00Z",
-        "e": "2026-02-25T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "jasperjames"
-      },
       {
         "n": "Utopia Presents",
         "s": "2026-02-25T15:00:00Z",
@@ -2668,23 +2653,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "TONAK.fm",
-        "s": "2026-02-25T13:00:00Z",
-        "e": "2026-02-25T15:00:00Z",
-        "d": null,
-        "j": "Music For The Soul #15 (w/ Carole Fe)",
-        "u": null
-      },
-      {
-        "n": "Naomi",
-        "s": "2026-02-25T15:00:00Z",
-        "e": "2026-02-25T16:00:00Z",
-        "d": null,
-        "j": "invite Myd",
-        "u": null,
-        "p": "naomi"
-      },
       {
         "n": "Kaïlys",
         "s": "2026-02-25T16:00:00Z",
