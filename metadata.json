@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-02-26T06:50:09.310Z",
+  "updated": "2026-02-26T08:36:17.651Z",
   "stations": {
     "nts1": [
-      {
-        "n": "dweller electronics w/ SHYBOI",
-        "s": "2026-02-25T18:00:00Z",
-        "e": "2026-02-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Martelo",
         "s": "2026-02-25T20:00:00Z",
@@ -105,9 +97,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO & Tristwch Y Fenywod",
         "s": "2026-02-26T09:00:00Z",
         "e": "2026-02-26T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. Today Flo's looking ahead to St David's Day, and is joined by Welsh-language gothic avant-rock power-coven Tristwch Y Fenywod live in the studio. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-26th-february-2026"
       },
       {
         "n": "Soup To Nuts w/ Minus Kendal",
@@ -237,26 +229,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "The NTS Breakfast Show w/ LUPINI",
+        "s": "2026-02-27T09:00:00Z",
+        "e": "2026-02-27T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "lupini"
       }
     ],
     "nts2": [
-      {
-        "n": "Rio Doce",
-        "s": "2026-02-25T17:00:00Z",
-        "e": "2026-02-25T19:00:00Z",
-        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-25th-february-2026",
-        "p": "riodoce"
-      },
-      {
-        "n": "Amarillo on Everything w/ Hayden Pedigo",
-        "s": "2026-02-25T19:00:00Z",
-        "e": "2026-02-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "SÉANCE CENTRE",
         "s": "2026-02-25T20:00:00Z",
@@ -359,9 +343,9 @@
         "n": "Shukai (R)",
         "s": "2026-02-26T09:00:00Z",
         "e": "2026-02-26T10:00:00Z",
-        "d": null,
+        "d": "A unique dip into the musical history of Ukraine with archival label Shukai, journeying back to the ‘90s, playing music from documentaries, sci-fi films, obscure cartoons and late-night music programming, curated by Dmytro Nikolaienko, Dmytro Prutkin and Alec Tsapenko.\nFrom the host: \"Step inside the sonic laboratory of Soviet Ukraine’s Kyivnaukfilm (Eng: Kyiv Science Film, active years 1941-1993) studio — a workshop where composers and sound designers crafted scores for documentary, science, education, and animation films. From eerie synth textures to inventive tape collages, these rare recordings (1967–1990) reveal a secret world of avant-garde music created under censorship yet brimming with experiments.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/shukai/episodes/shukai-24th-september-2025",
         "t": "restream",
         "p": "shukai"
       },
@@ -490,26 +474,19 @@
         "j": null,
         "u": null,
         "p": "mishka"
+      },
+      {
+        "n": "Blooming In Filth w/ CRISIS ACTING (R)",
+        "s": "2026-02-27T01:00:00Z",
+        "e": "2026-02-27T02:00:00Z",
+        "d": null,
+        "j": "CRISIS ACTING",
+        "u": null,
+        "t": "restream",
+        "p": "crisisacting"
       }
     ],
     "subtle": [
-      {
-        "n": "PCKRNG & THT GRL",
-        "s": "2026-02-25T18:00:00Z",
-        "e": "2026-02-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Ezra",
-        "s": "2026-02-25T19:00:00Z",
-        "e": "2026-02-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "ezra"
-      },
       {
         "n": "inner; Outer w/ c_h_l__o_e",
         "s": "2026-02-25T20:00:00Z",
@@ -1654,18 +1631,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-02-25T18:00:00Z",
-        "e": "2026-02-25T20:00:00Z",
+        "n": "Lauden ",
+        "s": "2026-03-05T07:00:00Z",
+        "e": "2026-03-05T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "lauden"
+      }
+    ],
+    "dublab": [
       {
         "n": "Jennifer Herrema and Kurt Midness - The Banana Question",
         "s": "2026-02-25T20:00:00Z",
@@ -1721,6 +1698,15 @@
         "n": "sounds of NOW",
         "s": "2026-02-26T07:00:00Z",
         "e": "2026-02-26T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-02-26T09:00:00Z",
+        "e": "2026-02-26T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2275,24 +2261,6 @@
     ],
     "rinse": [
       {
-        "n": "Buckley",
-        "s": "2026-02-25T18:00:00Z",
-        "e": "2026-02-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "buckley"
-      },
-      {
-        "n": "Saint Ludo",
-        "s": "2026-02-25T19:00:00Z",
-        "e": "2026-02-25T20:00:00Z",
-        "d": null,
-        "j": "Sentimento",
-        "u": null,
-        "p": "saintludo"
-      },
-      {
         "n": "Taiki Nulight",
         "s": "2026-02-25T20:00:00Z",
         "e": "2026-02-25T22:00:00Z",
@@ -2622,23 +2590,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Roulita",
-        "s": "2026-02-25T18:00:00Z",
-        "e": "2026-02-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "To Van Kao",
-        "s": "2026-02-25T19:00:00Z",
-        "e": "2026-02-25T20:00:00Z",
-        "d": null,
-        "j": "invite Nammy Wams & M.I.C",
-        "u": null,
-        "p": "tovankao"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-02-25T20:00:00Z",
         "e": "2026-02-25T23:00:00Z",
@@ -2666,50 +2617,40 @@
         "t": "playlist"
       },
       {
-        "n": "Playlist France",
+        "n": "TONAK.fm",
         "s": "2026-02-26T13:00:00Z",
-        "e": "2026-02-26T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "KOLLIN",
-        "s": "2026-02-26T14:00:00Z",
         "e": "2026-02-26T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Music For The Soul #15 (w/ Carole Fe)",
         "u": null
       },
       {
-        "n": "SCHNAUTZI",
+        "n": "Naomi",
         "s": "2026-02-26T15:00:00Z",
         "e": "2026-02-26T16:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "invite Myd",
+        "u": null,
+        "p": "naomi"
       },
       {
-        "n": "Boukan Records",
+        "n": "Kaïlys",
         "s": "2026-02-26T16:00:00Z",
         "e": "2026-02-26T17:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "p": "boukanrecords"
+        "j": "Laboshadory : invite Dr. Prime",
+        "u": null
       },
       {
-        "n": "Ohjeelo",
+        "n": "Scarlett",
         "s": "2026-02-26T17:00:00Z",
         "e": "2026-02-26T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "ohjeelo"
+        "u": null
       },
       {
-        "n": "rougail space program",
+        "n": "Roulita",
         "s": "2026-02-26T18:00:00Z",
         "e": "2026-02-26T19:00:00Z",
         "d": null,
@@ -2717,17 +2658,104 @@
         "u": null
       },
       {
-        "n": "Asian Core",
+        "n": "To Van Kao",
         "s": "2026-02-26T19:00:00Z",
         "e": "2026-02-26T20:00:00Z",
+        "d": null,
+        "j": "invite Nammy Wams & M.I.C",
+        "u": null,
+        "p": "tovankao"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-26T20:00:00Z",
+        "e": "2026-02-26T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-26T23:00:00Z",
+        "e": "2026-02-27T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-27T08:00:00Z",
+        "e": "2026-02-27T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-02-27T13:00:00Z",
+        "e": "2026-02-27T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "KOLLIN",
+        "s": "2026-02-27T14:00:00Z",
+        "e": "2026-02-27T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SCHNAUTZI",
+        "s": "2026-02-27T15:00:00Z",
+        "e": "2026-02-27T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Boukan Records",
+        "s": "2026-02-27T16:00:00Z",
+        "e": "2026-02-27T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "boukanrecords"
+      },
+      {
+        "n": "Ohjeelo",
+        "s": "2026-02-27T17:00:00Z",
+        "e": "2026-02-27T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ohjeelo"
+      },
+      {
+        "n": "rougail space program",
+        "s": "2026-02-27T18:00:00Z",
+        "e": "2026-02-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Asian Core",
+        "s": "2026-02-27T19:00:00Z",
+        "e": "2026-02-27T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-02-26T20:00:00Z",
-        "e": "2026-02-26T21:00:00Z",
+        "s": "2026-02-27T20:00:00Z",
+        "e": "2026-02-27T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
