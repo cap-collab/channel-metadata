@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-04T12:36:24.474Z",
+  "updated": "2026-03-04T14:33:01.821Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Kronicles w/ DJ Amir",
-        "s": "2026-03-04T00:00:00Z",
-        "e": "2026-03-04T01:00:00Z",
-        "d": "Sample excavator, music historian, and compilation curator DJ Amir selects a few influences each month - from house to disco, hip-hop to jazz.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-kronicles-featuring-dj-amir/episodes/the-kronicles-featuring-dj-amir-4th-march-2026"
-      },
       {
         "n": "Minimal Effort (R)",
         "s": "2026-03-04T01:00:00Z",
@@ -81,18 +73,18 @@
         "n": "BRADLEY ZERO PRESENTS: RHYTHM SECTION",
         "s": "2026-03-04T14:00:00Z",
         "e": "2026-03-04T15:00:00Z",
-        "d": null,
+        "d": "Rhythm Section Radio was founded in 2009 and moved to NTS in 2012, and has since pulled out the stops breaking new music, promoting independent labels and paying homage to the greatest music from the past, through a perhaps unhealthy obsession with record digging.",
         "j": "RHYTHM SECTION",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rhythmsection/episodes/rhythmsection-4th-march-2026",
         "t": "biweekly"
       },
       {
         "n": "MOXIE",
         "s": "2026-03-04T15:00:00Z",
         "e": "2026-03-04T17:00:00Z",
-        "d": null,
+        "d": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moxie/episodes/moxie-4th-march-2026",
         "t": "biweekly",
         "p": "moxie"
       },
@@ -215,26 +207,26 @@
         "j": null,
         "u": null,
         "p": "gabi"
+      },
+      {
+        "n": "Fauzia",
+        "s": "2026-03-05T13:00:00Z",
+        "e": "2026-03-05T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "fauzia"
+      },
+      {
+        "n": "GILES SMITH",
+        "s": "2026-03-05T15:00:00Z",
+        "e": "2026-03-05T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "West Coast Fog: Trans Pacificisms",
-        "s": "2026-03-04T00:00:00Z",
-        "e": "2026-03-04T01:00:00Z",
-        "d": "West Coast Fog with Erik Bluhm, broadcasts monthly from far-flung natural environments, bringing along site specific, privately released meditational music from past decades for a deeply involved sensory experience.",
-        "j": "Trans Pacificisms",
-        "u": "https://www.nts.live/api/v2/shows/west-coast-fog/episodes/west-coast-fog-3rd-march-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Freedom To Spend w/ Jed Bindeman",
-        "s": "2026-03-04T01:00:00Z",
-        "e": "2026-03-04T02:00:00Z",
-        "d": "Freedom To Spend examines fully realized yet under recognized sonic statements from other eras when accessibility to technology did not always equate to accessible music… Less is more, more or less. Spend some mind, free your time.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/freedom-to-spend/episodes/freedom-to-spend-3rd-march-2026"
-      },
       {
         "n": "Blooming In Filth w/ CRISIS ACTING",
         "s": "2026-03-04T02:00:00Z",
@@ -337,17 +329,18 @@
         "n": "RAMADAN SPECIAL W/ YAMEN MEKDAD & MHAMAD SAFA",
         "s": "2026-03-04T14:00:00Z",
         "e": "2026-03-04T15:00:00Z",
-        "d": null,
+        "d": "A sonic talisman for dismantling empire from its core to its spearhead, woven from Islamic chants, prayers, dhikr, hadrat, and ibtihalat, in celebration of the 15th of Ramadan 1447 AH.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ramadan-special-with-yamen-mekdad-mhamad-safa-4th-march-2026"
       },
       {
         "n": "NO WEAPON IS ABSOLUTE w/ Cosmo Vitelli",
         "s": "2026-03-04T15:00:00Z",
         "e": "2026-03-04T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
+        "j": "Cosmo Vitelli",
+        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-5th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "KOKONUT TRIP w/ TIM KOH",
@@ -467,18 +460,29 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "No ID Radio w/ Anysia Kym (R)",
+        "s": "2026-03-05T07:00:00Z",
+        "e": "2026-03-05T08:00:00Z",
+        "d": null,
+        "j": "Anysia Kym",
+        "u": null,
+        "t": "restream",
+        "p": "anysiakym"
+      },
+      {
+        "n": "HOMUNKULI W/ LENA WILLIKENS (R)",
+        "s": "2026-03-05T08:00:00Z",
+        "e": "2026-03-05T09:00:00Z",
+        "d": null,
+        "j": "LENA WILLIKENS",
+        "u": null,
+        "t": "restream",
+        "p": "homunkuli"
       }
     ],
     "subtle": [
-      {
-        "n": "KUBA KONOFALSKI",
-        "s": "2026-03-04T00:00:00Z",
-        "e": "2026-03-04T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "kubakonofalski"
-      },
       {
         "n": "Shreztah Selects",
         "s": "2026-03-04T02:00:00Z",
@@ -571,6 +575,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-04T14:00:00Z",
+        "e": "2026-03-04T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "IC FM w/ Luke Ferrero",
@@ -1182,7 +1195,7 @@
         "p": "fkof"
       },
       {
-        "n": "Skye",
+        "n": " Ms. Renegade",
         "s": "2026-03-08T22:00:00Z",
         "e": "2026-03-08T23:00:00Z",
         "d": null,
@@ -1190,10 +1203,10 @@
         "u": null
       },
       {
-        "n": "casual_observer",
+        "n": "Kütchi",
         "s": "2026-03-08T23:00:00Z",
         "e": "2026-03-09T00:00:00Z",
-        "d": "casual_observer is a DJ and producer originally hailing from Amsterdam, where he co-organises the \"moving closer\" event series with friend and collaborator Bcl-2. He currently resides in Berlin. Starting his musical journey as a drummer, his music retains a heavy focus on groove, rhythm and experimentation.  Sets played by casual_observer are diverse and surprising, moving effortlessly between jungle, breaks, bass, footwork, and more. No matter the genre, his selection is sure to keep you on your toes!",
+        "d": null,
         "j": null,
         "u": null
       },
@@ -1568,19 +1581,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Niamh",
+        "s": "2026-03-11T13:00:00Z",
+        "e": "2026-03-11T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "niamh"
+      },
+      {
+        "n": "Endri",
+        "s": "2026-03-11T14:00:00Z",
+        "e": "2026-03-11T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Hoseh - Version Sounds",
-        "s": "2026-03-04T00:00:00Z",
-        "e": "2026-03-04T02:00:00Z",
-        "d": null,
-        "j": "Version Sounds",
-        "u": null,
-        "t": "weekly",
-        "p": "hoseh"
-      },
       {
         "n": "Langosta y Miche – Sonámbula Radio",
         "s": "2026-03-04T02:00:00Z",
@@ -2154,23 +2174,6 @@
     ],
     "rinse": [
       {
-        "n": "Hold A Corner Records",
-        "s": "2026-03-04T00:00:00Z",
-        "e": "2026-03-04T01:00:00Z",
-        "d": null,
-        "j": "SORLEY",
-        "u": null
-      },
-      {
-        "n": "DJ RED",
-        "s": "2026-03-04T01:00:00Z",
-        "e": "2026-03-04T02:00:00Z",
-        "d": null,
-        "j": "Elisa Btti",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Nervous Horizon",
         "s": "2026-03-04T02:00:00Z",
         "e": "2026-03-04T03:00:00Z",
@@ -2316,7 +2319,7 @@
         "s": "2026-03-05T00:00:00Z",
         "e": "2026-03-05T01:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B Horston",
         "u": null,
         "p": "allecto"
       },
