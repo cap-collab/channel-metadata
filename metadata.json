@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-04T18:36:24.625Z",
+  "updated": "2026-03-04T20:24:02.052Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUNDS OF THE DAWN (R)",
-        "s": "2026-03-04T05:00:00Z",
-        "e": "2026-03-04T07:00:00Z",
-        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-14th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
         "s": "2026-03-04T07:00:00Z",
@@ -101,9 +92,9 @@
         "n": "Ila Brugal",
         "s": "2026-03-04T21:00:00Z",
         "e": "2026-03-04T22:00:00Z",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ila-brugal-4th-march-2026",
         "p": "ilabrugal"
       },
       {
@@ -232,27 +223,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Girls Club K-pop w/ Kokoprisci",
+        "s": "2026-03-05T19:00:00Z",
+        "e": "2026-03-05T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "kokoprisci"
       }
     ],
     "nts2": [
-      {
-        "n": "TRiNH (R)",
-        "s": "2026-03-04T06:00:00Z",
-        "e": "2026-03-04T07:00:00Z",
-        "d": "TRiNH - an hour of covers and nostalgic feels, playing a wide range of genres with a focus on L-O-V-E. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/trinh/episodes/trinh-1st-august-2025",
-        "t": "restream"
-      },
-      {
-        "n": "INSOLAR w/ CAMI LAYÉ OKÚN (R)",
-        "s": "2026-03-04T07:00:00Z",
-        "e": "2026-03-04T08:00:00Z",
-        "d": "Cuban record collector, ethnomusicologist researcher, picks up a hour of global vinyl via Havana every months.",
-        "j": "CAMI LAYÉ OKÚN",
-        "u": "https://www.nts.live/api/v2/shows/cami-laye-okun/episodes/cami-laye-okun-4th-november-2025",
-        "t": "restream"
-      },
       {
         "n": "Forager Records (R)",
         "s": "2026-03-04T08:00:00Z",
@@ -362,18 +344,18 @@
         "n": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
         "s": "2026-03-04T20:00:00Z",
         "e": "2026-03-04T21:00:00Z",
-        "d": null,
+        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures. ",
         "j": "Taylor Rowley",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-4th-march-2026",
         "t": "biweekly"
       },
       {
         "n": "SOLID STATE SURVIVOR W/ SHAGS CHAMBERLAIN",
         "s": "2026-03-04T21:00:00Z",
         "e": "2026-03-04T22:00:00Z",
-        "d": null,
+        "d": "Broadcasting from LA, Shags dives deep into his wild array of records, bringing a strong thematic focus each month.\nFrom the host: \"Over Twelve years into an illustrious career as The Drummer From Santana - Michael Shrieve, took a surprising side quest into the world of Electronic Music in his experimental collaborations with Klaus Schultze. Here is a bit of a patchwork of some of my favs from those albums.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/solid-state-survivor/episodes/solid-state-survivor-4th-march-2026"
       },
       {
         "n": "IDLE HANDS W/ ZANE LANDRETH",
@@ -499,18 +481,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-03-04T06:00:00Z",
-        "e": "2026-03-04T08:00:00Z",
+        "n": "Sounds on Screen: Henry Mancini",
+        "s": "2026-03-05T13:00:00Z",
+        "e": "2026-03-05T15:00:00Z",
+        "d": null,
+        "j": "Henry Mancini",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "GEORGIA",
+        "s": "2026-03-05T15:00:00Z",
+        "e": "2026-03-05T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "georgia"
+      }
+    ],
+    "subtle": [
       {
         "n": "Sing/Say w/ Paul Hertmann",
         "s": "2026-03-04T08:00:00Z",
@@ -1609,18 +1600,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Kaustin - Subsurface Radio",
-        "s": "2026-03-04T06:00:00Z",
-        "e": "2026-03-04T08:00:00Z",
+        "n": " We Kill Culture",
+        "s": "2026-03-11T19:00:00Z",
+        "e": "2026-03-11T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "kaustin"
+        "p": "wekillculture"
       },
+      {
+        "n": "Hazel",
+        "s": "2026-03-11T20:00:00Z",
+        "e": "2026-03-11T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "hazel"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-04T08:00:00Z",
@@ -2189,18 +2189,18 @@
         "j": null,
         "u": null,
         "p": "larryg"
+      },
+      {
+        "n": "Jeff Weiss - POW Radio",
+        "s": "2026-03-11T20:00:00Z",
+        "e": "2026-03-11T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "jeffweiss"
       }
     ],
     "rinse": [
-      {
-        "n": "Donsurf & Last Nubian",
-        "s": "2026-03-04T06:00:00Z",
-        "e": "2026-03-04T07:00:00Z",
-        "d": null,
-        "j": "Dreamer",
-        "u": null,
-        "p": "donsurf"
-      },
       {
         "n": "Playlist",
         "s": "2026-03-04T07:00:00Z",
@@ -2384,7 +2384,7 @@
         "s": "2026-03-05T11:00:00Z",
         "e": "2026-03-05T12:00:00Z",
         "d": null,
-        "j": "Soul Sessions - Cosmic Connection",
+        "j": "Soul Selections - Cosmic Connection",
         "u": null,
         "t": "biweekly",
         "p": "jordanmae"
@@ -2485,15 +2485,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-03T20:00:00Z",
-        "e": "2026-03-04T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-04T08:00:00Z",
