@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-03-04T06:36:42.806Z",
+  "updated": "2026-03-04T08:29:26.754Z",
   "stations": {
     "nts1": [
       {
@@ -61,9 +61,9 @@
         "n": "The NTS Breakfast Show w/ Flo",
         "s": "2026-03-04T09:00:00Z",
         "e": "2026-03-04T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "Flo",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-4th-march-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -198,6 +198,15 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "s": "2026-03-05T07:00:00Z",
+        "e": "2026-03-05T09:00:00Z",
+        "d": null,
+        "j": "PAM",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
@@ -277,9 +286,9 @@
         "n": "Forager Records (R)",
         "s": "2026-03-04T08:00:00Z",
         "e": "2026-03-04T09:00:00Z",
-        "d": null,
+        "d": "Forager Records is a Los Angeles based record label, committed to unearthing and breathing new life into rare and under appreciated sounds from the past. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/forager-records/episodes/forager-records-14th-august-2025",
         "t": "restream",
         "p": "foragerrecords"
       },
@@ -287,9 +296,9 @@
         "n": "A Colourful Storm (R)",
         "s": "2026-03-04T09:00:00Z",
         "e": "2026-03-04T10:00:00Z",
-        "d": null,
+        "d": "A Colourful Storm from label head Moopie, featuring contemplative ambience, folksong and indie-pop melancholia, contemporary electronics and beyond.\nPhoto by Young Ha Kim",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/a-colourful-storm/episodes/a-colourful-storm-11th-august-2025",
         "t": "restream"
       },
       {
@@ -409,27 +418,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Troth: A Japan Tour Diary",
+        "s": "2026-03-05T02:00:00Z",
+        "e": "2026-03-05T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DISCOSTAN",
+        "s": "2026-03-05T03:00:00Z",
+        "e": "2026-03-05T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "discostan"
       }
     ],
     "subtle": [
-      {
-        "n": " Karishma",
-        "s": "2026-03-03T18:00:00Z",
-        "e": "2026-03-03T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "karishma"
-      },
-      {
-        "n": "Ro-Motion",
-        "s": "2026-03-03T19:00:00Z",
-        "e": "2026-03-03T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "romotion"
-      },
       {
         "n": "Jake Plisken",
         "s": "2026-03-03T20:00:00Z",
@@ -512,6 +520,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-04T09:00:00Z",
+        "e": "2026-03-04T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Music that Moves",
@@ -1515,15 +1532,6 @@
     ],
     "dublab": [
       {
-        "n": "Jonathan Kornman - Discoteca Imaginaria",
-        "s": "2026-03-03T18:00:00Z",
-        "e": "2026-03-03T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "jonathankornman"
-      },
-      {
         "n": "OPEN SLOT",
         "s": "2026-03-03T20:00:00Z",
         "e": "2026-03-03T22:00:00Z",
@@ -1582,6 +1590,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-04T08:00:00Z",
         "e": "2026-03-04T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-04T10:00:00Z",
+        "e": "2026-03-04T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2433,24 +2450,6 @@
     ],
     "rinsefr": [
       {
-        "n": "La Connect’ avec Le Kaiju",
-        "s": "2026-03-03T18:00:00Z",
-        "e": "2026-03-03T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "laconnectaveclekaiju"
-      },
-      {
-        "n": "Lisa More",
-        "s": "2026-03-03T19:00:00Z",
-        "e": "2026-03-03T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "lisamore"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-03-03T20:00:00Z",
         "e": "2026-03-04T08:00:00Z",
@@ -2478,40 +2477,40 @@
         "t": "playlist"
       },
       {
-        "n": "Léna Daniel",
+        "n": "Chloé Sarraméa",
         "s": "2026-03-04T13:00:00Z",
         "e": "2026-03-04T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "PREMIERES W/ SEXY AND DEPRESSED",
         "u": null
       },
       {
-        "n": "DOUBLE-O-THEATRE",
+        "n": "Playlist France",
         "s": "2026-03-04T14:00:00Z",
         "e": "2026-03-04T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
-        "n": "Louise Pétrouchka B2B Naomi",
+        "n": "LeZduA",
         "s": "2026-03-04T15:00:00Z",
         "e": "2026-03-04T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "louiseptrouchka"
-      },
-      {
-        "n": "Artem",
-        "s": "2026-03-04T16:00:00Z",
-        "e": "2026-03-04T17:00:00Z",
-        "d": null,
-        "j": null,
         "u": null
       },
       {
-        "n": "Meli Mena",
+        "n": "Umoya",
+        "s": "2026-03-04T16:00:00Z",
+        "e": "2026-03-04T17:00:00Z",
+        "d": null,
+        "j": "W/ WE ARE ROMEO",
+        "u": null
+      },
+      {
+        "n": "Receba Showcase",
         "s": "2026-03-04T17:00:00Z",
         "e": "2026-03-04T18:00:00Z",
         "d": null,
@@ -2519,9 +2518,95 @@
         "u": null
       },
       {
-        "n": "Anaco",
+        "n": "La Connect’ avec Le Kaiju",
         "s": "2026-03-04T18:00:00Z",
         "e": "2026-03-04T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "laconnectaveclekaiju"
+      },
+      {
+        "n": "Lisa More",
+        "s": "2026-03-04T19:00:00Z",
+        "e": "2026-03-04T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "lisamore"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-04T20:00:00Z",
+        "e": "2026-03-05T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-05T08:00:00Z",
+        "e": "2026-03-05T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-05T11:00:00Z",
+        "e": "2026-03-05T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Léna Daniel",
+        "s": "2026-03-05T13:00:00Z",
+        "e": "2026-03-05T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DOUBLE-O-THEATRE",
+        "s": "2026-03-05T14:00:00Z",
+        "e": "2026-03-05T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Louise Pétrouchka B2B Naomi",
+        "s": "2026-03-05T15:00:00Z",
+        "e": "2026-03-05T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "louiseptrouchka"
+      },
+      {
+        "n": "Artem",
+        "s": "2026-03-05T16:00:00Z",
+        "e": "2026-03-05T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Meli Mena",
+        "s": "2026-03-05T17:00:00Z",
+        "e": "2026-03-05T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Anaco",
+        "s": "2026-03-05T18:00:00Z",
+        "e": "2026-03-05T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2529,16 +2614,16 @@
       },
       {
         "n": "2much",
-        "s": "2026-03-04T19:00:00Z",
-        "e": "2026-03-04T20:00:00Z",
+        "s": "2026-03-05T19:00:00Z",
+        "e": "2026-03-05T20:00:00Z",
         "d": null,
         "j": "invite Jacidorex",
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-03-04T20:00:00Z",
-        "e": "2026-03-04T21:00:00Z",
+        "s": "2026-03-05T20:00:00Z",
+        "e": "2026-03-05T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
