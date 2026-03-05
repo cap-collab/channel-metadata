@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-05T04:05:15.082Z",
+  "updated": "2026-03-05T06:39:46.612Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOXIE",
-        "s": "2026-03-04T15:00:00Z",
-        "e": "2026-03-04T17:00:00Z",
-        "d": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moxie/episodes/moxie-4th-march-2026",
-        "t": "biweekly",
-        "p": "moxie"
-      },
-      {
-        "n": "Only Now",
-        "s": "2026-03-04T17:00:00Z",
-        "e": "2026-03-04T18:00:00Z",
-        "d": "After work fun and global tunes with Tash LC and guests every other Wednesday ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tash-lc/episodes/tash-lc-kush-4th-march-2026"
-      },
       {
         "n": "TOUCHING BASS W/ ERROL & ALEX RITA",
         "s": "2026-03-04T18:00:00Z",
@@ -114,18 +96,18 @@
         "n": "Benedek (R)",
         "s": "2026-03-05T06:00:00Z",
         "e": "2026-03-05T07:00:00Z",
-        "d": null,
+        "d": "Benedek B2B w/ Juan Izguerra",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/benedek/episodes/benedek-4th-march-2022",
         "t": "restream"
       },
       {
         "n": "THE EARLY BIRD SHOW W/ PAM",
         "s": "2026-03-05T07:00:00Z",
         "e": "2026-03-05T09:00:00Z",
-        "d": null,
+        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
         "j": "PAM",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-5th-march-2026",
         "t": "weekly"
       },
       {
@@ -249,27 +231,26 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "nts2": [
+      },
       {
-        "n": "KOKONUT TRIP w/ TIM KOH",
-        "s": "2026-03-04T16:00:00Z",
-        "e": "2026-03-04T17:00:00Z",
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "s": "2026-03-06T07:00:00Z",
+        "e": "2026-03-06T09:00:00Z",
+        "d": null,
+        "j": "JACK ROLLO",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW",
+        "s": "2026-03-06T09:00:00Z",
+        "e": "2026-03-06T11:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
-      {
-        "n": "ASTRID SONNE",
-        "s": "2026-03-04T17:00:00Z",
-        "e": "2026-03-04T18:00:00Z",
-        "d": "1-hour monthly show with composer and musician Astrid Sonne. Sharing everything from rock to dub to classical to pop. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/astrid-sonne/episodes/astrid-sonne-4th-march-2026",
-        "t": "monthly",
-        "p": "astridsonne"
-      },
+      }
+    ],
+    "nts2": [
       {
         "n": "TRIP LICK W/ Wonja",
         "s": "2026-03-04T18:00:00Z",
@@ -368,18 +349,18 @@
         "n": "Tuesday Trips (R)",
         "s": "2026-03-05T06:00:00Z",
         "e": "2026-03-05T07:00:00Z",
-        "d": null,
+        "d": "NahhG hosts Tuesday Trips, exploring the different sounds of underground beats and hip-hop alongside special guest mixes from current beatmakers and curators. - Live once a month",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tuesday-trips/episodes/tuesday-trips-15th-july-2025",
         "t": "restream"
       },
       {
         "n": "No ID Radio w/ Anysia Kym (R)",
         "s": "2026-03-05T07:00:00Z",
         "e": "2026-03-05T08:00:00Z",
-        "d": null,
+        "d": "NYC-based producer, songwriter, and multi-instrumentalist Anysia Kym shares a monthly compilation of her favourite tracks, right now and of all time; she flips a song of her choice at the start of each hour-long episode.",
         "j": "Anysia Kym",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/anysia-kym/episodes/anysia-kym-14th-february-2025",
         "t": "restream",
         "p": "anysiakym"
       },
@@ -504,25 +485,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Budgie w/ Hakeem",
+        "s": "2026-03-05T23:00:00Z",
+        "e": "2026-03-06T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Casual Play w/ SpiÑorita",
+        "s": "2026-03-06T00:00:00Z",
+        "e": "2026-03-06T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Sonic Seasoning ",
-        "s": "2026-03-04T16:00:00Z",
-        "e": "2026-03-04T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Groundwrk w/ B4B",
-        "s": "2026-03-04T17:00:00Z",
-        "e": "2026-03-04T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": " Ellen",
         "s": "2026-03-04T18:00:00Z",
@@ -1644,14 +1625,6 @@
     ],
     "dublab": [
       {
-        "n": "in plain sight radio",
-        "s": "2026-03-04T16:00:00Z",
-        "e": "2026-03-04T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Andres Renteria - Shining Spirit Sound",
         "s": "2026-03-04T18:00:00Z",
         "e": "2026-03-04T20:00:00Z",
@@ -2228,29 +2201,18 @@
         "j": null,
         "u": null,
         "p": "rustysantos"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Utopia Presents",
-        "s": "2026-03-04T15:00:00Z",
-        "e": "2026-03-04T17:00:00Z",
-        "d": null,
-        "j": "Toribio",
-        "u": null,
-        "t": "weekly",
-        "p": "utopiapresents"
       },
       {
-        "n": "Talina",
-        "s": "2026-03-04T17:00:00Z",
-        "e": "2026-03-04T18:00:00Z",
+        "n": "Laura Shumate - Indoor Cats",
+        "s": "2026-03-12T06:00:00Z",
+        "e": "2026-03-12T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "regular",
-        "p": "talina"
-      },
+        "p": "laurashumate"
+      }
+    ],
+    "rinse": [
       {
         "n": "DaMetalMessiah",
         "s": "2026-03-04T18:00:00Z",
@@ -2577,22 +2539,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Artem",
-        "s": "2026-03-04T16:00:00Z",
-        "e": "2026-03-04T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Meli Mena",
-        "s": "2026-03-04T17:00:00Z",
-        "e": "2026-03-04T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Anaco",
         "s": "2026-03-04T18:00:00Z",
