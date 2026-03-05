@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-05T08:31:03.838Z",
+  "updated": "2026-03-05T10:30:55.847Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GIULIA TESS",
-        "s": "2026-03-04T20:00:00Z",
-        "e": "2026-03-04T21:00:00Z",
-        "d": "NTS's own Giulia Tess pulls us leftfield once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/giulia-tess/episodes/giulia-tess-4th-march-2026",
-        "t": "monthly",
-        "p": "giuliatess"
-      },
-      {
-        "n": "Ila Brugal",
-        "s": "2026-03-04T21:00:00Z",
-        "e": "2026-03-04T22:00:00Z",
-        "d": "Special guest shows from around the world.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ila-brugal-4th-march-2026",
-        "p": "ilabrugal"
-      },
       {
         "n": "Turmeric w/ The Twins & Human Reaction",
         "s": "2026-03-04T22:00:00Z",
@@ -112,9 +93,9 @@
         "n": "SOUP TO NUTS W/ GABI",
         "s": "2026-03-05T11:00:00Z",
         "e": "2026-03-05T13:00:00Z",
-        "d": null,
+        "d": "Let NTS brighten up your lunchtime hours.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-gabi-5th-march-2026",
         "p": "gabi"
       },
       {
@@ -248,26 +229,19 @@
         "u": null,
         "t": "weekly",
         "p": "scarythings"
+      },
+      {
+        "n": "PUM PUM POWER HOUR W/ LIL C",
+        "s": "2026-03-06T13:00:00Z",
+        "e": "2026-03-06T14:00:00Z",
+        "d": null,
+        "j": "LIL C",
+        "u": null,
+        "t": "biweekly",
+        "p": "lilc"
       }
     ],
     "nts2": [
-      {
-        "n": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
-        "s": "2026-03-04T20:00:00Z",
-        "e": "2026-03-04T21:00:00Z",
-        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures. ",
-        "j": "Taylor Rowley",
-        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-4th-march-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "SOLID STATE SURVIVOR W/ SHAGS CHAMBERLAIN",
-        "s": "2026-03-04T21:00:00Z",
-        "e": "2026-03-04T22:00:00Z",
-        "d": "Broadcasting from LA, Shags dives deep into his wild array of records, bringing a strong thematic focus each month.\nFrom the host: \"Over Twelve years into an illustrious career as The Drummer From Santana - Michael Shrieve, took a surprising side quest into the world of Electronic Music in his experimental collaborations with Klaus Schultze. Here is a bit of a patchwork of some of my favs from those albums.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/solid-state-survivor/episodes/solid-state-survivor-4th-march-2026"
-      },
       {
         "n": "IDLE HANDS W/ ZANE LANDRETH",
         "s": "2026-03-04T22:00:00Z",
@@ -371,9 +345,9 @@
         "n": "PURE AT CAFE DEL MAR (R)",
         "s": "2026-03-05T10:00:00Z",
         "e": "2026-03-05T11:00:00Z",
-        "d": null,
+        "d": "El sol desapareciendo en el horizonte.\nPURE at Café Del Mar, Ibiza. Music for sunsets, directed by Evian Christ and Slam Jam.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/pure/episodes/pure-torus-31st-august-2025",
         "t": "restream",
         "p": "pure"
       },
@@ -381,9 +355,10 @@
         "n": "YL HOOI w/ Radart",
         "s": "2026-03-05T11:00:00Z",
         "e": "2026-03-05T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…",
+        "j": "Radart",
+        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-5th-march-2026",
+        "t": "monthly",
         "p": "ylhooi"
       },
       {
@@ -502,26 +477,26 @@
         "j": null,
         "u": null,
         "p": "screwbossradio"
-      }
-    ],
-    "subtle": [
-      {
-        "n": " INDXSTRIAL STRXNGTH",
-        "s": "2026-03-04T20:00:00Z",
-        "e": "2026-03-04T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "indxstrialstrxngth"
       },
       {
-        "n": "Seshington",
-        "s": "2026-03-04T21:00:00Z",
-        "e": "2026-03-04T22:00:00Z",
+        "n": "626COMPANY RADIO W/ DJ GONORRHEA & DJ诸葛亮 & MC蒙古包",
+        "s": "2026-03-06T04:00:00Z",
+        "e": "2026-03-06T05:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "LIV.E (R)",
+        "s": "2026-03-06T05:00:00Z",
+        "e": "2026-03-06T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-03-04T22:00:00Z",
@@ -1622,27 +1597,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Deep Awake by Semaj",
+        "s": "2026-03-12T09:00:00Z",
+        "e": "2026-03-12T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "deepawakebysemaj"
+      },
+      {
+        "n": "Emanuel",
+        "s": "2026-03-12T10:00:00Z",
+        "e": "2026-03-12T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-04T20:00:00Z",
-        "e": "2026-03-04T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Lana Miller – Soft Focus",
-        "s": "2026-03-04T21:00:00Z",
-        "e": "2026-03-04T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "lanamiller"
-      },
       {
         "n": "RERUN: Easy Listening Sade Special",
         "s": "2026-03-04T22:00:00Z",
@@ -1709,6 +1683,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-05T10:00:00Z",
         "e": "2026-03-05T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-05T12:00:00Z",
+        "e": "2026-03-05T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2224,14 +2207,6 @@
     ],
     "rinse": [
       {
-        "n": "Youngsta with SP:MC",
-        "s": "2026-03-04T20:00:00Z",
-        "e": "2026-03-04T22:00:00Z",
-        "d": null,
-        "j": "From The Vault (2020)",
-        "u": null
-      },
-      {
         "n": "Pariah presents Voam",
         "s": "2026-03-04T22:00:00Z",
         "e": "2026-03-04T23:00:00Z",
@@ -2295,78 +2270,118 @@
         "t": "playlist"
       },
       {
-        "n": "Breakfast with Nancy June",
+        "n": "Yazmin Lacey",
         "s": "2026-03-05T09:00:00Z",
         "e": "2026-03-05T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "nancyjune"
+        "t": "weekly",
+        "p": "yazminlacey"
       },
       {
-        "n": "Uncle Dugs",
+        "n": "Jordan Mae",
         "s": "2026-03-05T11:00:00Z",
+        "e": "2026-03-05T12:00:00Z",
+        "d": null,
+        "j": "Soul Selections - Cosmic Connection",
+        "u": null,
+        "t": "weekly",
+        "p": "jordanmae"
+      },
+      {
+        "n": "Nathan Evans with RamonPang",
+        "s": "2026-03-05T12:00:00Z",
+        "e": "2026-03-05T13:00:00Z",
+        "d": null,
+        "j": "Exploring California Garage",
+        "u": null,
+        "p": "nathanevans"
+      },
+      {
+        "n": "SK Vibemaker",
+        "s": "2026-03-05T13:00:00Z",
         "e": "2026-03-05T14:00:00Z",
+        "d": null,
+        "j": "IWD Mix",
+        "u": null,
+        "t": "weekly",
+        "p": "skvibemaker"
+      },
+      {
+        "n": "Mr. Redley",
+        "s": "2026-03-05T14:00:00Z",
+        "e": "2026-03-05T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly",
-        "p": "uncledugs"
+        "p": "mrredley"
       },
       {
-        "n": "Continental GT",
-        "s": "2026-03-05T14:00:00Z",
-        "e": "2026-03-05T16:00:00Z",
+        "n": "Tom Ravenscroft",
+        "s": "2026-03-05T15:00:00Z",
+        "e": "2026-03-05T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "continentalgt"
+        "t": "weekly",
+        "p": "tomravenscroft"
       },
       {
-        "n": "Shuffle 'n' Swing",
-        "s": "2026-03-05T16:00:00Z",
+        "n": "Talina",
+        "s": "2026-03-05T17:00:00Z",
         "e": "2026-03-05T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "regular",
+        "p": "talina"
       },
       {
-        "n": "Ella Knight",
+        "n": "malix",
         "s": "2026-03-05T18:00:00Z",
+        "e": "2026-03-05T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular",
+        "p": "malix"
+      },
+      {
+        "n": "Arthi",
+        "s": "2026-03-05T19:00:00Z",
         "e": "2026-03-05T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "ellaknight"
+        "p": "arthi"
       },
       {
-        "n": "Stay On Sight with Skin On Skin",
+        "n": "Youngsta with SP:MC",
         "s": "2026-03-05T20:00:00Z",
         "e": "2026-03-05T22:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "p": "skinonskin"
+        "j": "From The Vault (2020)",
+        "u": null
       },
       {
-        "n": "Anna Lunoe",
+        "n": "Pariah presents Voam",
         "s": "2026-03-05T22:00:00Z",
         "e": "2026-03-05T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "annalunoe"
+        "p": "pariah"
       },
       {
-        "n": "DJ Fuckoff",
+        "n": "DJ Plead",
         "s": "2026-03-05T23:00:00Z",
-        "e": "2026-03-06T00:00:00Z",
+        "e": "2026-03-06T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "djfuckoff"
+        "p": "djplead"
       },
       {
         "n": "LIZZ",
@@ -2448,7 +2463,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "biweekly"
       },
       {
         "n": "Ella Knight",
@@ -2457,7 +2472,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "ellaknight"
       },
       {
@@ -2485,6 +2500,7 @@
         "d": null,
         "j": null,
         "u": null,
+        "t": "weekly",
         "p": "djfuckoff"
       }
     ],
@@ -2517,12 +2533,13 @@
         "t": "playlist"
       },
       {
-        "n": "Léna Daniel",
+        "n": "MENTAL HEALTH RADIO par Stencia",
         "s": "2026-03-05T13:00:00Z",
         "e": "2026-03-05T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "DOUBLE-O-THEATRE",
@@ -2546,7 +2563,7 @@
         "s": "2026-03-05T16:00:00Z",
         "e": "2026-03-05T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "gqom + funk = <3",
         "u": null
       },
       {
