@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-05T10:30:55.847Z",
+  "updated": "2026-03-05T12:39:57.232Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Turmeric w/ The Twins & Human Reaction",
-        "s": "2026-03-04T22:00:00Z",
-        "e": "2026-03-04T23:00:00Z",
-        "d": "Fraternal party starters The Twins takeover for regular trips into electroclash, experimental electronics, and Desi sounds, inviting on boundary pushing collaborators and friends. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-twins/episodes/the-twins-4th-march-2026"
-      },
-      {
-        "n": "LOW INCOME $QUAD",
-        "s": "2026-03-04T23:00:00Z",
-        "e": "2026-03-05T00:00:00Z",
-        "d": "Croatian DIY label Low Income $quad showcase their catalogue and extended family of producers - Expect neo trance sounds, reworked Memphis rap acapellas, 90s-inspired fast techno and noisy experimentalism.\nFrom the host: \"The best of Soundcloud\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/low-income-squad/episodes/low-income-squad-4th-march-2026"
-      },
       {
         "n": "CDMX TAPES W/ LUXIXI & DJ CO.KR (R)",
         "s": "2026-03-05T00:00:00Z",
@@ -102,9 +86,9 @@
         "n": "Fauzia",
         "s": "2026-03-05T13:00:00Z",
         "e": "2026-03-05T15:00:00Z",
-        "d": null,
+        "d": "Longtime NTS resident, producer, vocalist and DJ Fauzia guides us through the multiplicity of her influences and tastes for an hour each month. Expect everything from frenetic club productions to classical composition, experimental electronics and beyond. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/fauzia/episodes/fauzia-5th-february-2026",
         "p": "fauzia"
       },
       {
@@ -126,7 +110,7 @@
         "p": "anz"
       },
       {
-        "n": "Kwes e",
+        "n": "Vowelist (Kwes e)",
         "s": "2026-03-05T18:00:00Z",
         "e": "2026-03-05T19:00:00Z",
         "d": null,
@@ -185,6 +169,16 @@
         "p": "leegamble"
       },
       {
+        "n": "MOIN (R)",
+        "s": "2026-03-06T03:00:00Z",
+        "e": "2026-03-06T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "moin"
+      },
+      {
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS (R)",
         "s": "2026-03-06T04:00:00Z",
         "e": "2026-03-06T06:00:00Z",
@@ -213,12 +207,13 @@
         "t": "weekly"
       },
       {
-        "n": "THE NTS BREAKFAST SHOW",
+        "n": "The NTS Breakfast Show w/ ECLAIR FIFI",
         "s": "2026-03-06T09:00:00Z",
         "e": "2026-03-06T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "eclairfifi"
       },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
@@ -242,14 +237,6 @@
       }
     ],
     "nts2": [
-      {
-        "n": "IDLE HANDS W/ ZANE LANDRETH",
-        "s": "2026-03-04T22:00:00Z",
-        "e": "2026-03-05T00:00:00Z",
-        "d": "Modern melancholia, waves from yesterdays, teenage rebellion and electronic electronics.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/zane/episodes/zane-4th-march-2026"
-      },
       {
         "n": "Kranky w/ Isabel Pine",
         "s": "2026-03-05T00:00:00Z",
@@ -365,17 +352,17 @@
         "n": "Mountain Cry w/ Marylou & Ziad Naoufal - Ruptured Label Special",
         "s": "2026-03-05T12:00:00Z",
         "e": "2026-03-05T13:00:00Z",
-        "d": null,
+        "d": "French selector Marylou invites us on a trip through genre-defying and cinematic selections, weaving ambient, dub, noise, traditional music, jazz dance, footwork and more, always guided by \"intuition and a soft refusal of codes.\".\nFrom the host: \"Ruptured Records was co-founded by radio host & DJ Ziad Nawfal and sound engineer & studio owner Fadi Tabbal in 2008. Ruptured releases music by artists from Lebanon and the MENA region in a variety of formats - with a strong focus on experimental rock and leftfield electronic music.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/marylou/episodes/marylou-5th-march-2026"
       },
       {
         "n": "Sounds on Screen: Henry Mancini",
         "s": "2026-03-05T13:00:00Z",
         "e": "2026-03-05T15:00:00Z",
-        "d": null,
+        "d": "Two hours of soundtrack magic from Henry Mancini, whose uplifting orchestrations and arrangements left an indelible print on the pop culture of the post-war 20th Century. ",
         "j": "Henry Mancini",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-henry-mancini-5th-march-2026",
         "t": "biweekly"
       },
       {
@@ -494,27 +481,28 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "GEOLOGIST PRESENTS: THE O'BRIEN SYSTEM (R)",
+        "s": "2026-03-06T06:00:00Z",
+        "e": "2026-03-06T07:00:00Z",
+        "d": null,
+        "j": "THE O'BRIEN SYSTEM",
+        "u": null,
+        "t": "restream",
+        "p": "geologist"
+      },
+      {
+        "n": "Aloha Got Soul (R)",
+        "s": "2026-03-06T07:00:00Z",
+        "e": "2026-03-06T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-04T22:00:00Z",
-        "e": "2026-03-04T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "PANACEA",
-        "s": "2026-03-04T23:00:00Z",
-        "e": "2026-03-05T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "panacea"
-      },
       {
         "n": " Glittcherz",
         "s": "2026-03-05T00:00:00Z",
@@ -1614,18 +1602,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Con Artist",
+        "s": "2026-03-12T12:00:00Z",
+        "e": "2026-03-12T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN: Easy Listening Sade Special",
-        "s": "2026-03-04T22:00:00Z",
-        "e": "2026-03-05T00:00:00Z",
-        "d": null,
-        "j": "Easy Listening Sade Special",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "In Sheep's Clothing – World of Sound",
         "s": "2026-03-05T00:00:00Z",
@@ -1692,6 +1679,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-05T12:00:00Z",
         "e": "2026-03-05T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-05T14:00:00Z",
+        "e": "2026-03-05T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2207,15 +2203,6 @@
     ],
     "rinse": [
       {
-        "n": "Pariah presents Voam",
-        "s": "2026-03-04T22:00:00Z",
-        "e": "2026-03-04T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "pariah"
-      },
-      {
         "n": "DJ Plead",
         "s": "2026-03-04T23:00:00Z",
         "e": "2026-03-05T01:00:00Z",
@@ -2313,7 +2300,7 @@
         "s": "2026-03-05T14:00:00Z",
         "e": "2026-03-05T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live From Toy Tonics Summer Jam, Berlin",
         "u": null,
         "t": "weekly",
         "p": "mrredley"
@@ -2353,7 +2340,7 @@
         "s": "2026-03-05T19:00:00Z",
         "e": "2026-03-05T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Racing Nokia",
         "u": null,
         "p": "arthi"
       },
@@ -2377,11 +2364,20 @@
       {
         "n": "DJ Plead",
         "s": "2026-03-05T23:00:00Z",
-        "e": "2026-03-06T01:00:00Z",
+        "e": "2026-03-06T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "p": "djplead"
+      },
+      {
+        "n": "Alicia",
+        "s": "2026-03-06T00:00:00Z",
+        "e": "2026-03-06T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "alicia"
       },
       {
         "n": "LIZZ",
@@ -2579,7 +2575,7 @@
         "s": "2026-03-05T18:00:00Z",
         "e": "2026-03-05T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite SORUN",
         "u": null,
         "p": "anaco"
       },
@@ -2660,7 +2656,7 @@
         "s": "2026-03-06T17:00:00Z",
         "e": "2026-03-06T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "COMPLEXCITY",
         "u": null,
         "p": "carlos"
       },
