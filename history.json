@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-03-06T01:21:27.438Z",
+  "updated": "2026-03-06T04:02:06.255Z",
   "stations": {
     "nts1": [
       {
@@ -1955,6 +1955,15 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-gabi-5th-march-2026",
         "p": "gabi"
+      },
+      {
+        "n": "Fauzia",
+        "s": "2026-03-05T13:00:00Z",
+        "e": "2026-03-05T15:00:00Z",
+        "d": "Longtime NTS resident, producer, vocalist and DJ Fauzia guides us through the multiplicity of her influences and tastes for an hour each month. Expect everything from frenetic club productions to classical composition, experimental electronics and beyond. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/fauzia/episodes/fauzia-5th-february-2026",
+        "p": "fauzia"
       }
     ],
     "nts2": [
@@ -2174,7 +2183,8 @@
         "d": "BUDGIE – serving up jazz, hip-hop, soul, beats & more from his sprawling record collection, once a month from our LA studio.",
         "j": "D'ANGELO SPECIAL",
         "u": "https://www.nts.live/api/v2/shows/budgie/episodes/budgie-16th-october-2025",
-        "t": "restream"
+        "t": "restream",
+        "p": "budgie"
       },
       {
         "n": "NTS GUIDE TO: OGUN RECORDS (R)",
@@ -4394,6 +4404,25 @@
         "d": "French selector Marylou invites us on a trip through genre-defying and cinematic selections, weaving ambient, dub, noise, traditional music, jazz dance, footwork and more, always guided by \"intuition and a soft refusal of codes.\".\nFrom the host: \"Ruptured Records was co-founded by radio host & DJ Ziad Nawfal and sound engineer & studio owner Fadi Tabbal in 2008. Ruptured releases music by artists from Lebanon and the MENA region in a variety of formats - with a strong focus on experimental rock and leftfield electronic music.\"",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/marylou/episodes/marylou-5th-march-2026"
+      },
+      {
+        "n": "Sounds on Screen: Henry Mancini",
+        "s": "2026-03-05T13:00:00Z",
+        "e": "2026-03-05T15:00:00Z",
+        "d": "Two hours of soundtrack magic from Henry Mancini, whose uplifting orchestrations and arrangements left an indelible print on the pop culture of the post-war 20th Century. ",
+        "j": "Henry Mancini",
+        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-henry-mancini-5th-march-2026",
+        "t": "biweekly"
+      },
+      {
+        "n": "GEORGIA",
+        "s": "2026-03-05T15:00:00Z",
+        "e": "2026-03-05T16:00:00Z",
+        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-5th-march-2026",
+        "t": "monthly",
+        "p": "georgia"
       }
     ],
     "subtle": [
@@ -7334,6 +7363,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "QUIN-B",
+        "s": "2026-03-05T13:00:00Z",
+        "e": "2026-03-05T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "quinb"
+      },
+      {
+        "n": " Start Dancing Now",
+        "s": "2026-03-05T14:00:00Z",
+        "e": "2026-03-05T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "startdancingnow"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-05T15:00:00Z",
+        "e": "2026-03-05T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "dublab": [
@@ -9208,6 +9264,24 @@
         "n": "sounds of NOW",
         "s": "2026-03-05T10:00:00Z",
         "e": "2026-03-05T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-05T12:00:00Z",
+        "e": "2026-03-05T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-05T14:00:00Z",
+        "e": "2026-03-05T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -11176,6 +11250,26 @@
         "j": "Exploring California Garage",
         "u": null,
         "p": "nathanevans"
+      },
+      {
+        "n": "SK Vibemaker",
+        "s": "2026-03-05T13:00:00Z",
+        "e": "2026-03-05T14:00:00Z",
+        "d": null,
+        "j": "IWD Mix",
+        "u": null,
+        "t": "weekly",
+        "p": "skvibemaker"
+      },
+      {
+        "n": "Mr. Redley",
+        "s": "2026-03-05T14:00:00Z",
+        "e": "2026-03-05T15:00:00Z",
+        "d": null,
+        "j": "Live From Toy Tonics Summer Jam, Berlin",
+        "u": null,
+        "t": "weekly",
+        "p": "mrredley"
       }
     ],
     "rinsefr": [
@@ -12359,6 +12453,34 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Technopol",
+        "s": "2026-03-05T13:00:00Z",
+        "e": "2026-03-05T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "technopol"
+      },
+      {
+        "n": "Jim Irie",
+        "s": "2026-03-05T14:00:00Z",
+        "e": "2026-03-05T15:00:00Z",
+        "d": null,
+        "j": "présente douce france 11",
+        "u": null,
+        "p": "jimirie"
+      },
+      {
+        "n": "Queer Cult",
+        "s": "2026-03-05T15:00:00Z",
+        "e": "2026-03-05T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "queercult"
       }
     ],
     "newtown": []
