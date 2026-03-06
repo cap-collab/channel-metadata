@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-06T14:31:00.611Z",
+  "updated": "2026-03-06T16:30:02.593Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Lee Gamble (R)",
-        "s": "2026-03-06T02:00:00Z",
-        "e": "2026-03-06T03:00:00Z",
-        "d": "Artist, producer, label owner and DJ Lee Gamble bringing an oneiric bi-monthly show of current sound and music from his hallucinated musical continuum. Expect anything from Drill to Dream pop, Conceptual Sound and Jazz to bleached out rave memories.. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lee-gamble/episodes/lee-gamble-20th-january-2025",
-        "t": "restream",
-        "p": "leegamble"
-      },
-      {
-        "n": "MOIN (R)",
-        "s": "2026-03-06T03:00:00Z",
-        "e": "2026-03-06T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "moin"
-      },
       {
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS (R)",
         "s": "2026-03-06T04:00:00Z",
@@ -101,18 +81,19 @@
         "n": "SELASSIE TBC w/ Ari Lennox",
         "s": "2026-03-06T16:00:00Z",
         "e": "2026-03-06T17:00:00Z",
-        "d": null,
+        "d": "D.C R&B royalty Ari Lennox in the London studio with Selassie. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/selassie-tbc/episodes/selassie-tbc-6th-march-2026",
         "p": "selassietbc"
       },
       {
         "n": "CHARISSE C w/ Busiswa",
         "s": "2026-03-06T17:00:00Z",
         "e": "2026-03-06T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Charisse C takes us on a monthly journey through an electronic soundscape birthed by the melting pot which raised her, anchored by South African giants Amapiano & Gqom, featuring soulful, bass-heavy & playful selections.",
+        "j": "Busiswa",
+        "u": "https://www.nts.live/api/v2/shows/charisse-c/episodes/charisse-c-6th-march-2026",
+        "t": "monthly",
         "p": "charissec"
       },
       {
@@ -237,18 +218,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
+        "s": "2026-03-07T15:00:00Z",
+        "e": "2026-03-07T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Aqwea",
+        "s": "2026-03-07T17:00:00Z",
+        "e": "2026-03-07T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "aqwea"
       }
     ],
     "nts2": [
-      {
-        "n": "Screwboss Radio w/ Marcy Mane",
-        "s": "2026-03-06T02:00:00Z",
-        "e": "2026-03-06T04:00:00Z",
-        "d": "Screwboss MFK Marcy Mane heads up a 2 hour round-up of the latest in underground hip hop, screwed down classics and cuts from his extensive catalog.\nFrom the host: \"another rare entry from MARCY MANE Aka Screwboss play this on your speakers loudly\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/screwboss-radio/episodes/screwboss-radio-6th-march-2026",
-        "p": "screwbossradio"
-      },
       {
         "n": "626COMPANY RADIO W/ DJ GONORRHEA & DJ诸葛亮 & MC蒙古包",
         "s": "2026-03-06T04:00:00Z",
@@ -344,18 +333,19 @@
         "n": "DISCO PICKLES W/ DRY CLEANING",
         "s": "2026-03-06T16:00:00Z",
         "e": "2026-03-06T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "The South London postpunk crew take control sharing an hour of selections every month.",
+        "j": "DRY CLEANING",
+        "u": "https://www.nts.live/api/v2/shows/dry-cleaning/episodes/dry-cleaning-6th-march-2026",
+        "t": "monthly",
         "p": "drycleaning"
       },
       {
         "n": "OLIVIA O. w/ Lulu Prost",
         "s": "2026-03-06T17:00:00Z",
         "e": "2026-03-06T18:00:00Z",
-        "d": null,
+        "d": "Olivia O. — musician, multidisciplinary artist, performing under Lowertown, Olivia O., and child star — delivers a set blending cult discoveries, current obsessions, and deep cuts from her collaborators and the NYC underground.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/olivia-o/episodes/olivia-o-6th-march-2026"
       },
       {
         "n": "SARA A",
@@ -479,26 +469,27 @@
         "j": null,
         "u": null,
         "p": "roughversion"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Madilickk",
-        "s": "2026-03-06T02:00:00Z",
-        "e": "2026-03-06T03:00:00Z",
+        "n": "Vibrations for a Better World w/ AOKI takamasa",
+        "s": "2026-03-07T12:00:00Z",
+        "e": "2026-03-07T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "madilickk"
+        "p": "aokitakamasa"
       },
       {
-        "n": "Eclipse w D.N.S",
-        "s": "2026-03-06T03:00:00Z",
-        "e": "2026-03-06T04:00:00Z",
+        "n": "YOUTH",
+        "s": "2026-03-07T14:00:00Z",
+        "e": "2026-03-07T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
-      },
+        "u": null,
+        "p": "youth"
+      }
+    ],
+    "subtle": [
       {
         "n": "Pattern Recognition w/ R A L L Y ",
         "s": "2026-03-06T04:00:00Z",
@@ -598,6 +589,14 @@
         "n": " Submundo Soundsystem",
         "s": "2026-03-06T16:00:00Z",
         "e": "2026-03-06T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": " Locked On Records w/ Tabz",
+        "s": "2026-03-06T17:00:00Z",
+        "e": "2026-03-06T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1562,18 +1561,26 @@
         "j": null,
         "u": null,
         "p": "collective"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "JELLY – Blended Beats",
-        "s": "2026-03-06T02:00:00Z",
-        "e": "2026-03-06T04:00:00Z",
+        "n": "Kamzuqi",
+        "s": "2026-03-13T15:00:00Z",
+        "e": "2026-03-13T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "jelly"
+        "p": "kamzuqi"
       },
+      {
+        "n": "The Free Range Sounds Show",
+        "s": "2026-03-13T16:00:00Z",
+        "e": "2026-03-13T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "dublab": [
       {
         "n": "Moniquea - Jammin' Croquettes",
         "s": "2026-03-06T04:00:00Z",
@@ -2151,18 +2158,18 @@
         "j": null,
         "u": null,
         "p": "alexpelly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Breaka",
-        "s": "2026-03-06T02:00:00Z",
-        "e": "2026-03-06T03:00:00Z",
+        "n": "EddyMac - Something Going On",
+        "s": "2026-03-13T16:00:00Z",
+        "e": "2026-03-13T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "breaka"
-      },
+        "p": "eddymac"
+      }
+    ],
+    "rinse": [
       {
         "n": "Electronic Playlist",
         "s": "2026-03-06T03:00:00Z",
@@ -2399,7 +2406,7 @@
         "s": "2026-03-07T22:00:00Z",
         "e": "2026-03-07T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "TRANCE EXTRAVAGANZA",
         "u": null,
         "p": "ammara"
       },
