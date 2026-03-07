@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-07T16:17:51.841Z",
+  "updated": "2026-03-07T18:21:59.416Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Okonkole Y Trompa (R)",
-        "s": "2026-03-07T04:00:00Z",
-        "e": "2026-03-07T06:00:00Z",
-        "d": "PAM & Satoshi from the blog Okonkole Y Trompa select 2 hours of records from their collection for NTS.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/okonkole-y-trompa/episodes/okonkole-y-trompa-8th-september-2021",
-        "t": "restream"
-      },
       {
         "n": "NTS Guide to: Japanese '70s Folk Special (R)",
         "s": "2026-03-07T06:00:00Z",
@@ -89,18 +80,18 @@
         "n": "TEST PRESSING",
         "s": "2026-03-07T18:00:00Z",
         "e": "2026-03-07T20:00:00Z",
-        "d": null,
+        "d": "Apiento, a.k.a Paul Byrne runs the invaluable Test Pressing blog and releases music on World Building, World Unknown and more. His show has that esoteric techno thing and whatever suits the mood…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/test-pressing/episodes/test-pressing-7th-march-2026",
         "p": "testpressing"
       },
       {
         "n": "LDLDN w/ Earl Jeffers",
         "s": "2026-03-07T20:00:00Z",
         "e": "2026-03-07T22:00:00Z",
-        "d": null,
+        "d": "LD and guests deliver a slice of realness via jazz, fusion, deep soul, funk, warm techno and the rest. Expect music you can move to from the long-time DJ and producer.\nFrom the host: \"This month I've got Cardiff underground hero Earl Jeffers in with a 45-minute guest mix of his favourite jams spanning house, disco, and techno. Lots of new music from me with a few classixxx to get you going\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/spacebass/episodes/spacebass-7th-march-2026"
       },
       {
         "n": "BLACK IMPULSE",
@@ -226,27 +217,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "PALM WINE CLUB",
+        "s": "2026-03-08T14:00:00Z",
+        "e": "2026-03-08T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "NOEL SPIVA w/ Moochie - Yacht Rock Special",
+        "s": "2026-03-08T15:00:00Z",
+        "e": "2026-03-08T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "noelspiva"
       }
     ],
     "nts2": [
-      {
-        "n": "TOPIAS W/ GABRIEL MEIER",
-        "s": "2026-03-07T03:00:00Z",
-        "e": "2026-03-07T05:00:00Z",
-        "d": "Monthly hub for club geographies, place-specific constructions, architectural musics and the production of sonic space and scale.",
-        "j": "GABRIEL MEIER",
-        "u": "https://www.nts.live/api/v2/shows/astral-plane/episodes/astral-plane-7th-march-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Stephane (R)",
-        "s": "2026-03-07T05:00:00Z",
-        "e": "2026-03-07T06:00:00Z",
-        "d": "contemporary french + international rap presented by Stephane.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gelato/episodes/gelato-w-stephane-6th-january-2023",
-        "t": "restream"
-      },
       {
         "n": "Bad Vibes w/ Eyedress (R)",
         "s": "2026-03-07T06:00:00Z",
@@ -342,18 +332,18 @@
         "n": "WABI SABI W/ TANA YONAS (R)",
         "s": "2026-03-07T18:00:00Z",
         "e": "2026-03-07T19:00:00Z",
-        "d": null,
+        "d": "Tana Yonas collects songs like souvenirs, each recalling precious moments found leafing through dusty foreign record shops or catching sonic fragments weathered by time from the radio of bumpy taxi rides. Listen as she delicately guilds together these memories and shares music from lesser known and under represented musical traditions from across the globe and decades.",
         "j": "TANA YONAS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tana-yonas/episodes/tana-yonas-5th-january-2024",
         "t": "restream"
       },
       {
         "n": "CONOR THOMAS",
         "s": "2026-03-07T19:00:00Z",
         "e": "2026-03-07T21:00:00Z",
-        "d": null,
+        "d": "Irrevelent, asymmetric selections by Boomkat lifer, Conor Thomas; caretaker of The Death of Rave and R* T*** labels, and resident DJ of The White Hotel & Impiety Hour {AD England} in Manchester, drawing on decades of nocturbulous behaviour and a brend toward short-circuiting genres.\nFrom the host: \"Chronicles of Atlantis & Lemuria\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/conor-thomas/episodes/conor-thomas-7th-march-2026"
       },
       {
         "n": "ILLSEE (R)",
@@ -484,26 +474,27 @@
         "j": "BROADCAST",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-03-07T04:00:00Z",
-        "e": "2026-03-07T05:00:00Z",
+        "n": "CARO<3 (R)",
+        "s": "2026-03-08T15:00:00Z",
+        "e": "2026-03-08T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream"
       },
       {
-        "n": "Minus - Flow State",
-        "s": "2026-03-07T05:00:00Z",
-        "e": "2026-03-07T06:00:00Z",
+        "n": "WAVE FLOWER W/ YUKA MIZUHARA (R)",
+        "s": "2026-03-08T16:00:00Z",
+        "e": "2026-03-08T17:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
-      },
+        "j": "YUKA MIZUHARA",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-03-07T06:00:00Z",
@@ -589,6 +580,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-07T20:00:00Z",
+        "e": "2026-03-07T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Minus - Flow State",
@@ -1557,18 +1557,26 @@
         "j": null,
         "u": null,
         "p": "niamh"
+      },
+      {
+        "n": "BirdE",
+        "s": "2026-03-14T17:00:00Z",
+        "e": "2026-03-14T18:00:00Z",
+        "d": "BirdE brings an hour of the freshest Drum and Bass covering everything from liquid to techy steppers - the deeper the better.",
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Counter Culture",
+        "s": "2026-03-14T18:00:00Z",
+        "e": "2026-03-14T19:00:00Z",
+        "d": "Originally from Cambridge, Counter Culture's selection deftly navigates across a myriad of influences and exclusives from himself & friends.\r\nExpect some of the freshest rolling soul straight to your headspace.",
+        "j": null,
+        "u": null,
+        "p": "counterculture"
       }
     ],
     "dublab": [
-      {
-        "n": "45 Live Radio Show",
-        "s": "2026-03-07T04:00:00Z",
-        "e": "2026-03-07T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "45live"
-      },
       {
         "n": "Daniel Troberg - Transition",
         "s": "2026-03-07T06:00:00Z",
@@ -2145,18 +2153,18 @@
         "u": null,
         "t": "biweekly",
         "p": "illcamille"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Electronic Playlist",
-        "s": "2026-03-07T03:00:00Z",
-        "e": "2026-03-07T06:00:00Z",
+        "n": "Ryan Lee Moore – Holy Ghost Honky Tonk",
+        "s": "2026-03-14T18:00:00Z",
+        "e": "2026-03-14T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "ryanleemoore"
+      }
+    ],
+    "rinse": [
       {
         "n": "Jordan Mae",
         "s": "2026-03-07T06:00:00Z",
