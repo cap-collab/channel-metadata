@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-07T18:21:59.416Z",
+  "updated": "2026-03-07T20:15:53.237Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NTS Guide to: Japanese '70s Folk Special (R)",
-        "s": "2026-03-07T06:00:00Z",
-        "e": "2026-03-07T07:00:00Z",
-        "d": "An hour of gently psychedelic folk and acoustic arrangements from Japan's close-knit 1970s folk scene.",
-        "j": "Japanese '70s Folk Special",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-japanese-70-s-folk-special-23rd-june-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Fervent Moon (R)",
-        "s": "2026-03-07T07:00:00Z",
-        "e": "2026-03-07T08:00:00Z",
-        "d": "DJ: “… I don’t know, I didn’t… I didn’t think I’d be the one holding the air, I never spoke live before the event consumed the many. I’ve no news for the desperate survivors and… and I can’t… well, I can hope that this next song might help us survive a little longer…\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fervent-moon/episodes/fervent-moon-19th-august-2022",
-        "t": "restream",
-        "p": "ferventmoon"
-      },
       {
         "n": "YOUARELISTENING.TO (R)",
         "s": "2026-03-07T08:00:00Z",
@@ -97,9 +78,9 @@
         "n": "BLACK IMPULSE",
         "s": "2026-03-07T22:00:00Z",
         "e": "2026-03-08T00:00:00Z",
-        "d": null,
+        "d": "From 10 till midnight, Black Impulse’s shows are packed with transatlantic camaraderie and a distortion heavy stroll though metal, noise, gutter garage, trash blues, prog, hardcore, hip-hop, free jazz and anything else.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/black-impulse/episodes/black-impulse-7th-march-2026",
         "p": "blackimpulse"
       },
       {
@@ -234,29 +215,18 @@
         "j": null,
         "u": null,
         "p": "noelspiva"
+      },
+      {
+        "n": "LEILA SAMIR",
+        "s": "2026-03-08T16:00:00Z",
+        "e": "2026-03-08T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "leilasamir"
       }
     ],
     "nts2": [
-      {
-        "n": "Bad Vibes w/ Eyedress (R)",
-        "s": "2026-03-07T06:00:00Z",
-        "e": "2026-03-07T07:00:00Z",
-        "d": "Idris Vicuña a.k.a Eyedress holds down a monthly hour on NTS' channel 2 bridging the gaps between lo-fi hip hop, garage pop, psychedelia and more…",
-        "j": "Eyedress",
-        "u": "https://www.nts.live/api/v2/shows/eyedress/episodes/eyedress-15th-july-2019",
-        "t": "restream",
-        "p": "eyedress"
-      },
-      {
-        "n": "Image Search (R)",
-        "s": "2026-03-07T07:00:00Z",
-        "e": "2026-03-07T08:00:00Z",
-        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month.\nEmail: animalimagesearch@gmail.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-29th-august-2024",
-        "t": "restream",
-        "p": "imagesearch"
-      },
       {
         "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
         "s": "2026-03-07T08:00:00Z",
@@ -349,9 +319,9 @@
         "n": "ILLSEE (R)",
         "s": "2026-03-07T21:00:00Z",
         "e": "2026-03-07T22:00:00Z",
-        "d": null,
+        "d": "The sound of her brain on standby: A mixture of Industrial textures crackling beneath mutated hip-hop beats, dub, ambient, and more. Not for productive hours.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/illsee/episodes/illsee-11th-july-2025",
         "t": "restream"
       },
       {
@@ -492,6 +462,15 @@
         "j": "YUKA MIZUHARA",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "ORGANIC MUSIC TOKYO W/ CHEE SHIMIZU (R)",
+        "s": "2026-03-08T17:00:00Z",
+        "e": "2026-03-08T18:00:00Z",
+        "d": null,
+        "j": "CHEE SHIMIZU",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -582,13 +561,14 @@
         "u": null
       },
       {
-        "n": "Subtle Selects",
+        "n": " Lumeni",
         "s": "2026-03-07T20:00:00Z",
         "e": "2026-03-07T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "biweekly",
+        "p": "lumeni"
       },
       {
         "n": "Minus - Flow State",
@@ -1574,18 +1554,25 @@
         "j": null,
         "u": null,
         "p": "counterculture"
+      },
+      {
+        "n": "Strictly Business Show w/ Qua Rush & Flipz MC",
+        "s": "2026-03-14T19:00:00Z",
+        "e": "2026-03-14T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Kimber & Kid Kun",
+        "s": "2026-03-14T20:00:00Z",
+        "e": "2026-03-14T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Daniel Troberg - Transition",
-        "s": "2026-03-07T06:00:00Z",
-        "e": "2026-03-07T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "danieltroberg"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-03-07T08:00:00Z",
@@ -2166,16 +2153,6 @@
     ],
     "rinse": [
       {
-        "n": "Jordan Mae",
-        "s": "2026-03-07T06:00:00Z",
-        "e": "2026-03-07T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "jordanmae"
-      },
-      {
         "n": "Playlist",
         "s": "2026-03-07T07:00:00Z",
         "e": "2026-03-07T09:00:00Z",
@@ -2284,7 +2261,7 @@
         "p": "riordan"
       },
       {
-        "n": "Riel",
+        "n": "riel B2B Stasis",
         "s": "2026-03-08T00:00:00Z",
         "e": "2026-03-08T01:00:00Z",
         "d": null,
@@ -2457,15 +2434,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-06T20:00:00Z",
-        "e": "2026-03-07T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-07T08:00:00Z",
