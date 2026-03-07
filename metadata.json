@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-07T01:13:07.735Z",
+  "updated": "2026-03-07T03:53:11.433Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PUM PUM POWER HOUR W/ LIL C",
-        "s": "2026-03-06T13:00:00Z",
-        "e": "2026-03-06T14:00:00Z",
-        "d": "Party starter & dancehall connoisseur Lil C live in session.\nFrom the host: \"Business as usual : bringing you a sexy selection of contemporary afro-carribean pop music , lovingly curated by lil c\"",
-        "j": "LIL C",
-        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-6th-march-2026",
-        "t": "biweekly",
-        "p": "lilc"
-      },
-      {
-        "n": "FREEWATER W/ pr1nc1p3ss4",
-        "s": "2026-03-06T14:00:00Z",
-        "e": "2026-03-06T15:00:00Z",
-        "d": "Founders of Lagos’ new-age underground festival, FREEWATER, join NTS for a 6-show residency, diving deep into the next wave of Nigerian music. Each hour-long show explores our favorite jams from the city’s bubbling alternative scene, covering alt-afro, indie, electronic, and trap sounds shaping the future of Lagos’ underground.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/freewater/episodes/freewater-6th-march-2026",
-        "p": "freewater"
-      },
       {
         "n": "SLAP CITY W/ ARCHITECT",
         "s": "2026-03-06T15:00:00Z",
@@ -80,7 +61,8 @@
         "e": "2026-03-06T23:00:00Z",
         "d": "Ed Banger bringing the party to the London studio in a two hour session with the big wig Busy P and label stalwart Myd and Tatyana Jane. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ed-banger-6th-march-2026"
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ed-banger-6th-march-2026",
+        "p": "edbanger"
       },
       {
         "n": "LATE NIGHT BILLIARDS",
@@ -113,9 +95,9 @@
         "n": "Okonkole Y Trompa (R)",
         "s": "2026-03-07T04:00:00Z",
         "e": "2026-03-07T06:00:00Z",
-        "d": null,
+        "d": "PAM & Satoshi from the blog Okonkole Y Trompa select 2 hours of records from their collection for NTS.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/okonkole-y-trompa/episodes/okonkole-y-trompa-8th-september-2021",
         "t": "restream"
       },
       {
@@ -250,17 +232,18 @@
         "u": null,
         "t": "restream",
         "p": "janiejones"
+      },
+      {
+        "n": "AN1MA (R)",
+        "s": "2026-03-08T04:00:00Z",
+        "e": "2026-03-08T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "CAROLINA SOUL: Classical",
-        "s": "2026-03-06T13:00:00Z",
-        "e": "2026-03-06T15:00:00Z",
-        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-6th-march-2026"
-      },
       {
         "n": "MIHÁLY VÍG",
         "s": "2026-03-06T15:00:00Z",
@@ -350,17 +333,18 @@
         "n": "TOPIAS W/ GABRIEL MEIER",
         "s": "2026-03-07T03:00:00Z",
         "e": "2026-03-07T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Monthly hub for club geographies, place-specific constructions, architectural musics and the production of sonic space and scale.",
+        "j": "GABRIEL MEIER",
+        "u": "https://www.nts.live/api/v2/shows/astral-plane/episodes/astral-plane-7th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "Stephane (R)",
         "s": "2026-03-07T05:00:00Z",
         "e": "2026-03-07T06:00:00Z",
-        "d": null,
+        "d": "contemporary french + international rap presented by Stephane.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gelato/episodes/gelato-w-stephane-6th-january-2023",
         "t": "restream"
       },
       {
@@ -486,26 +470,28 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "The Hybrid House Show",
-        "s": "2026-03-06T13:00:00Z",
-        "e": "2026-03-06T14:00:00Z",
+        "n": "YU SU (R)",
+        "s": "2026-03-07T23:00:00Z",
+        "e": "2026-03-08T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "thehybridhouseshow"
+        "t": "restream",
+        "p": "yusu"
       },
       {
-        "n": "Taking the Peel w/ Badly Drawn Banana",
-        "s": "2026-03-06T14:00:00Z",
-        "e": "2026-03-06T15:00:00Z",
+        "n": "DRIZLE.FM W/ PLO MAN (R)",
+        "s": "2026-03-08T00:00:00Z",
+        "e": "2026-03-08T02:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
-      },
+        "j": "PLO MAN",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": " Collider",
         "s": "2026-03-06T15:00:00Z",
@@ -599,6 +585,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-07T04:00:00Z",
+        "e": "2026-03-07T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Minus - Flow State",
@@ -1559,18 +1554,26 @@
         "j": null,
         "u": null,
         "p": "mannrs"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-06T12:00:00Z",
-        "e": "2026-03-06T14:00:00Z",
+        "n": "Signal Flow ",
+        "s": "2026-03-14T02:00:00Z",
+        "e": "2026-03-14T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "TheComplexCurve",
+        "s": "2026-03-14T03:00:00Z",
+        "e": "2026-03-14T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "thecomplexcurve"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-06T14:00:00Z",
@@ -2157,19 +2160,17 @@
         "j": null,
         "u": null,
         "p": "mattmcdermott"
+      },
+      {
+        "n": "Gum.mp3 - Black Audio Society",
+        "s": "2026-03-14T02:00:00Z",
+        "e": "2026-03-14T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Uncle Dugs",
-        "s": "2026-03-06T11:00:00Z",
-        "e": "2026-03-06T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "uncledugs"
-      },
       {
         "n": "Continental GT",
         "s": "2026-03-06T14:00:00Z",
@@ -2538,15 +2539,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Camion Bazar",
-        "s": "2026-03-06T13:00:00Z",
-        "e": "2026-03-06T15:00:00Z",
-        "d": null,
-        "j": "invite Marabou : What's in our bags ?",
-        "u": null,
-        "p": "camionbazar"
-      },
       {
         "n": "Griffes d'Anges",
         "s": "2026-03-06T15:00:00Z",
