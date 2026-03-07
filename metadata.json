@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-07T10:15:36.688Z",
+  "updated": "2026-03-07T12:29:00.446Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ED BANGER W/ BUSY P, MYD, AND TATYANA JANE",
-        "s": "2026-03-06T21:00:00Z",
-        "e": "2026-03-06T23:00:00Z",
-        "d": "Ed Banger bringing the party to the London studio in a two hour session with the big wig Busy P and label stalwart Myd and Tatyana Jane. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ed-banger-6th-march-2026",
-        "p": "edbanger"
-      },
-      {
-        "n": "LATE NIGHT BILLIARDS",
-        "s": "2026-03-06T23:00:00Z",
-        "e": "2026-03-07T00:00:00Z",
-        "d": "Nocturnal moods from the haze of the billiards hall with Diogo & friends…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/late-night-billiards/episodes/late-night-billiards-6th-march-2026"
-      },
       {
         "n": "NTS GUIDE TO: INDEPENDENT NORTH AMERICAN JAZZ VOL 4 (R)",
         "s": "2026-03-07T00:00:00Z",
@@ -98,9 +81,10 @@
         "n": "TARZSA",
         "s": "2026-03-07T14:00:00Z",
         "e": "2026-03-07T15:00:00Z",
-        "d": null,
+        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-6th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
@@ -234,27 +218,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE SLIP",
+        "s": "2026-03-08T10:00:00Z",
+        "e": "2026-03-08T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "MACHINES OF LOVING GRACE W/ ULRIKA SPACEK",
-        "s": "2026-03-06T22:00:00Z",
-        "e": "2026-03-06T23:00:00Z",
-        "d": "Midwife’s multi-instrumentalist and recording engineer Madeline Johnston presents “Machines of Loving Grace,” a monthly transmission featuring her new finds and old favorites with a focus on the golden age of DIY community, cosmic sentimentalism, world music, and experimental pop. “Machines of Loving Grace” is a gateway into Johnston’s process and personal soundtrack.\nInspired by the Richard Brautigan poem, Midwife’s curated playlists explore the idea of “a cybernetic ecology;” acoustic and electronic sources reflect on our humanity as well as our animalistic nature in the context of a digital landscape. ",
-        "j": "ULRIKA SPACEK",
-        "u": "https://www.nts.live/api/v2/shows/midwife/episodes/midwife-6th-march-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "CRY LATER - Sons de Brasileiras",
-        "s": "2026-03-06T23:00:00Z",
-        "e": "2026-03-07T00:00:00Z",
-        "d": "Camella Lobo, aka Tropic of Cancer, takes to the air once a month for Cry Later. Tune in for a dedication hour of songs selected by listeners in honor of their lovers and loved ones. Send a personal message and song selection to cryinglater@gmail.com\nFrom the host: \"In honor of all the vovós - a selection of songs from the women on Brazilian airwaves between 1957 and 1994 to celebrate fierce dedication to love and family. Feliz aniversário, pai.\"",
-        "j": "Sons de Brasileiras",
-        "u": "https://www.nts.live/api/v2/shows/tropic-of-cancer/episodes/tropic-of-cancer-6th-march-2026",
-        "t": "monthly"
-      },
       {
         "n": "Bump City w/ Billy Goods & Yamagucci",
         "s": "2026-03-07T00:00:00Z",
@@ -341,18 +316,19 @@
         "n": "Vibrations for a Better World w/ AOKI takamasa",
         "s": "2026-03-07T12:00:00Z",
         "e": "2026-03-07T14:00:00Z",
-        "d": null,
+        "d": "Sticky Groove for Every Direction.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/aoki-takamasa/episodes/aoki-takamasa-7th-march-2026",
         "p": "aokitakamasa"
       },
       {
         "n": "YOUTH",
         "s": "2026-03-07T14:00:00Z",
         "e": "2026-03-07T15:00:00Z",
-        "d": null,
+        "d": "Andrew Lyster's YOUTH takes over the NTS airwaves live from MO6B in Stockport once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/youth/episodes/youth-7th-march-2026",
+        "t": "monthly",
         "p": "youth"
       },
       {
@@ -478,17 +454,28 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "80s Rampwalk (R)",
+        "s": "2026-03-08T08:00:00Z",
+        "e": "2026-03-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "RAHILL (R)",
+        "s": "2026-03-08T09:00:00Z",
+        "e": "2026-03-08T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "rahill"
       }
     ],
     "subtle": [
-      {
-        "n": " Fuuki Fam",
-        "s": "2026-03-06T22:00:00Z",
-        "e": "2026-03-07T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Programm Ldn",
         "s": "2026-03-07T00:00:00Z",
@@ -565,6 +552,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-07T12:00:00Z",
+        "e": "2026-03-07T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Live & Direct w/ Hannah",
@@ -1534,18 +1530,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Secret Circuit - Cosmic Neighborhood",
-        "s": "2026-03-06T22:00:00Z",
-        "e": "2026-03-07T00:00:00Z",
+        "n": "Poolside Convo w/ Gabe",
+        "s": "2026-03-14T11:00:00Z",
+        "e": "2026-03-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Cam Christie",
+        "s": "2026-03-14T12:00:00Z",
+        "e": "2026-03-14T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "secretcircuit"
-      },
+        "p": "camchristie"
+      }
+    ],
+    "dublab": [
       {
         "n": "Dor Wand – Open Heart Social Club",
         "s": "2026-03-07T00:00:00Z",
@@ -1604,6 +1608,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-07T12:00:00Z",
         "e": "2026-03-07T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-07T16:00:00Z",
+        "e": "2026-03-07T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2121,28 +2134,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Anna Lunoe",
-        "s": "2026-03-06T22:00:00Z",
-        "e": "2026-03-06T23:00:00Z",
-        "d": null,
-        "j": "March Madness Mix",
-        "u": null,
-        "p": "annalunoe"
       },
       {
-        "n": "DJ Fuckoff",
-        "s": "2026-03-06T23:00:00Z",
-        "e": "2026-03-07T00:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-03-14T12:00:00Z",
+        "e": "2026-03-14T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "djfuckoff"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "ESC",
         "s": "2026-03-07T00:00:00Z",
@@ -2283,11 +2286,19 @@
       {
         "n": "Riordan",
         "s": "2026-03-07T23:00:00Z",
-        "e": "2026-03-08T01:00:00Z",
+        "e": "2026-03-08T00:00:00Z",
         "d": null,
         "j": "Rinse HQ124",
         "u": null,
         "p": "riordan"
+      },
+      {
+        "n": "Riel",
+        "s": "2026-03-08T00:00:00Z",
+        "e": "2026-03-08T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Amadeezy & Bae Blade",
