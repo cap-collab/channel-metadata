@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-08T08:21:13.339Z",
+  "updated": "2026-03-08T10:17:09.814Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LDLDN w/ Earl Jeffers",
-        "s": "2026-03-07T20:00:00Z",
-        "e": "2026-03-07T22:00:00Z",
-        "d": "LD and guests deliver a slice of realness via jazz, fusion, deep soul, funk, warm techno and the rest. Expect music you can move to from the long-time DJ and producer.\nFrom the host: \"This month I've got Cardiff underground hero Earl Jeffers in with a 45-minute guest mix of his favourite jams spanning house, disco, and techno. Lots of new music from me with a few classixxx to get you going\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/spacebass/episodes/spacebass-7th-march-2026"
-      },
       {
         "n": "BLACK IMPULSE",
         "s": "2026-03-07T22:00:00Z",
@@ -114,18 +106,19 @@
         "n": "THE SLIP",
         "s": "2026-03-08T10:00:00Z",
         "e": "2026-03-08T12:00:00Z",
-        "d": null,
+        "d": "Rory Bowens heads The Slip on Sunday mornings every other week - squeezing an hour of hazy dub off-shoots, pupil-dilating shoegaze and uncanny dream music.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/theslip/episodes/theslip-8th-march-2026",
         "t": "biweekly"
       },
       {
         "n": "High Hopes w/ Judah",
         "s": "2026-03-08T12:00:00Z",
         "e": "2026-03-08T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Judah's High Hopes explains itself with the name. The blend of soul, experimental hip hop and a range of jazz is enough to bring optimism into any listener's day, and Judah's sonic selections act as a monthly ray of sunshine to brighten any listener's day. ",
+        "j": "Judah",
+        "u": "https://www.nts.live/api/v2/shows/high-hopes-w-judah/episodes/high-hopes-w-judah-8th-march-2026",
+        "t": "monthly",
         "p": "judah"
       },
       {
@@ -247,27 +240,26 @@
         "j": null,
         "u": null,
         "p": "flo"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-03-09T11:00:00Z",
+        "e": "2026-03-09T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Melodies International",
+        "s": "2026-03-09T13:00:00Z",
+        "e": "2026-03-09T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "melodiesinternational"
       }
     ],
     "nts2": [
-      {
-        "n": "CONOR THOMAS",
-        "s": "2026-03-07T19:00:00Z",
-        "e": "2026-03-07T21:00:00Z",
-        "d": "Irrevelent, asymmetric selections by Boomkat lifer, Conor Thomas; caretaker of The Death of Rave and R* T*** labels, and resident DJ of The White Hotel & Impiety Hour {AD England} in Manchester, drawing on decades of nocturbulous behaviour and a brend toward short-circuiting genres.\nFrom the host: \"Chronicles of Atlantis & Lemuria\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/conor-thomas/episodes/conor-thomas-7th-march-2026",
-        "p": "conorthomas"
-      },
-      {
-        "n": "ILLSEE (R)",
-        "s": "2026-03-07T21:00:00Z",
-        "e": "2026-03-07T22:00:00Z",
-        "d": "The sound of her brain on standby: A mixture of Industrial textures crackling beneath mutated hip-hop beats, dub, ambient, and more. Not for productive hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/illsee/episodes/illsee-11th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "BRAV",
         "s": "2026-03-07T22:00:00Z",
@@ -367,9 +359,9 @@
         "n": "BASKET OF LIGHT W/ LIANA FLORES (R)",
         "s": "2026-03-08T11:00:00Z",
         "e": "2026-03-08T12:00:00Z",
-        "d": null,
+        "d": "Jazz-folk singer-songwriter Liana Flores brings a blend of global psych folk and bossa nova. ",
         "j": "LIANA FLORES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/liana-flores/episodes/liana-flores-15th-july-2025",
         "t": "restream",
         "p": "lianaflores"
       },
@@ -512,19 +504,18 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " Lumeni",
-        "s": "2026-03-07T20:00:00Z",
-        "e": "2026-03-07T21:00:00Z",
+        "n": "DJ NOBU (R)",
+        "s": "2026-03-09T04:00:00Z",
+        "e": "2026-03-09T05:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "lumeni"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Minus - Flow State",
         "s": "2026-03-07T21:00:00Z",
@@ -1584,18 +1575,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ECHO CHAMBER",
+        "s": "2026-03-15T09:00:00Z",
+        "e": "2026-03-15T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Time Away with Maral",
-        "s": "2026-03-07T20:00:00Z",
-        "e": "2026-03-07T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "maral"
-      },
       {
         "n": "mmarz",
         "s": "2026-03-07T22:00:00Z",
@@ -2184,15 +2174,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "sim0ne",
-        "s": "2026-03-07T20:00:00Z",
-        "e": "2026-03-07T22:00:00Z",
-        "d": null,
-        "j": "Live from Beyond The Valley Festival",
-        "u": null,
-        "p": "sim0ne"
-      },
       {
         "n": "AMMARA",
         "s": "2026-03-07T22:00:00Z",
