@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-08T06:32:41.544Z",
+  "updated": "2026-03-08T08:21:13.339Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TEST PRESSING",
-        "s": "2026-03-07T18:00:00Z",
-        "e": "2026-03-07T20:00:00Z",
-        "d": "Apiento, a.k.a Paul Byrne runs the invaluable Test Pressing blog and releases music on World Building, World Unknown and more. His show has that esoteric techno thing and whatever suits the mood…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/test-pressing/episodes/test-pressing-7th-march-2026",
-        "p": "testpressing"
-      },
       {
         "n": "LDLDN w/ Earl Jeffers",
         "s": "2026-03-07T20:00:00Z",
@@ -105,9 +96,9 @@
         "n": "THEA HD",
         "s": "2026-03-08T08:00:00Z",
         "e": "2026-03-08T09:00:00Z",
-        "d": null,
+        "d": "Odda Recordings label owner Thea HD unearths the lesser known common sounds. from old soundtracks, library music to experimental electronic music…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/thea-hd/episodes/thea-hd-8th-march-2026",
         "t": "biweekly",
         "p": "theahd"
       },
@@ -115,9 +106,9 @@
         "n": "Ondas w/ Dubby",
         "s": "2026-03-08T09:00:00Z",
         "e": "2026-03-08T10:00:00Z",
-        "d": null,
+        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-8th-march-2026"
       },
       {
         "n": "THE SLIP",
@@ -239,19 +230,26 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ MUSIC 4 LOVERS",
+        "s": "2026-03-09T07:00:00Z",
+        "e": "2026-03-09T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-03-09T09:00:00Z",
+        "e": "2026-03-09T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "WABI SABI W/ TANA YONAS (R)",
-        "s": "2026-03-07T18:00:00Z",
-        "e": "2026-03-07T19:00:00Z",
-        "d": "Tana Yonas collects songs like souvenirs, each recalling precious moments found leafing through dusty foreign record shops or catching sonic fragments weathered by time from the radio of bumpy taxi rides. Listen as she delicately guilds together these memories and shares music from lesser known and under represented musical traditions from across the globe and decades.",
-        "j": "TANA YONAS",
-        "u": "https://www.nts.live/api/v2/shows/tana-yonas/episodes/tana-yonas-5th-january-2024",
-        "t": "restream",
-        "p": "tanayonas"
-      },
       {
         "n": "CONOR THOMAS",
         "s": "2026-03-07T19:00:00Z",
@@ -350,18 +348,18 @@
         "n": "80s Rampwalk (R)",
         "s": "2026-03-08T08:00:00Z",
         "e": "2026-03-08T09:00:00Z",
-        "d": null,
+        "d": "80's Rampwalk delivers an hour of cold wave, minimal synth, industrial, post-punk and music made in Berlin basements.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/80srampwalk/episodes/80srampwalk-2nd-july-2025",
         "t": "restream"
       },
       {
         "n": "RAHILL (R)",
         "s": "2026-03-08T09:00:00Z",
         "e": "2026-03-08T11:00:00Z",
-        "d": null,
+        "d": "New York based artist and musician Rahill selects a monthly medley of picks from her record collection, rooted in US jazz, with soul, folk and international sounds.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rahill/episodes/rahill-9th-october-2024",
         "t": "restream",
         "p": "rahill"
       },
@@ -495,17 +493,28 @@
         "u": null,
         "t": "restream",
         "p": "keelher"
+      },
+      {
+        "n": "Milk Radio w/ Keiyaa (R)",
+        "s": "2026-03-09T02:00:00Z",
+        "e": "2026-03-09T03:00:00Z",
+        "d": null,
+        "j": "Keiyaa",
+        "u": null,
+        "t": "restream",
+        "p": "keiyaa"
+      },
+      {
+        "n": "Hollow Points Radio (R)",
+        "s": "2026-03-09T03:00:00Z",
+        "e": "2026-03-09T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "BAGGA BADNIS w/ Joe Joiner",
-        "s": "2026-03-07T18:00:00Z",
-        "e": "2026-03-07T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": " Lumeni",
         "s": "2026-03-07T20:00:00Z",
@@ -591,6 +600,15 @@
         "j": null,
         "u": null,
         "p": "kikib"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-08T08:00:00Z",
+        "e": "2026-03-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Kakuna",
@@ -1570,14 +1588,6 @@
     ],
     "dublab": [
       {
-        "n": "T-Kay - The Archive of Feelings",
-        "s": "2026-03-07T18:00:00Z",
-        "e": "2026-03-07T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Time Away with Maral",
         "s": "2026-03-07T20:00:00Z",
         "e": "2026-03-07T22:00:00Z",
@@ -1636,6 +1646,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-08T08:05:00Z",
         "e": "2026-03-08T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-08T11:00:00Z",
+        "e": "2026-03-08T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2154,27 +2173,17 @@
         "j": null,
         "u": null,
         "p": "daedelus"
+      },
+      {
+        "n": "Ale Cohen - Elevation Through Sound",
+        "s": "2026-03-15T08:00:00Z",
+        "e": "2026-03-15T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "George FitzGerald",
-        "s": "2026-03-07T18:00:00Z",
-        "e": "2026-03-07T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "georgefitzgerald"
-      },
-      {
-        "n": "CASE",
-        "s": "2026-03-07T19:00:00Z",
-        "e": "2026-03-07T20:00:00Z",
-        "d": null,
-        "j": "B2B Rebekah Abdeen",
-        "u": null,
-        "p": "case"
-      },
       {
         "n": "sim0ne",
         "s": "2026-03-07T20:00:00Z",
@@ -2538,15 +2547,6 @@
     ],
     "rinsefr": [
       {
-        "n": "LU2K",
-        "s": "2026-03-07T18:00:00Z",
-        "e": "2026-03-07T19:00:00Z",
-        "d": null,
-        "j": "alovesopure",
-        "u": null,
-        "p": "lu2k"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-03-07T19:00:00Z",
         "e": "2026-03-07T23:00:00Z",
@@ -2567,6 +2567,15 @@
       {
         "n": "Playlist France",
         "s": "2026-03-08T08:00:00Z",
+        "e": "2026-03-08T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-08T11:00:00Z",
         "e": "2026-03-08T13:00:00Z",
         "d": null,
         "j": null,
@@ -2574,60 +2583,61 @@
         "t": "playlist"
       },
       {
-        "n": "LES YEUX FERMÉS",
+        "n": "La Sunday Abidjan",
         "s": "2026-03-08T13:00:00Z",
         "e": "2026-03-08T14:00:00Z",
         "d": null,
-        "j": "invitent MARIE QUÉAU",
+        "j": "invite Vonnie Mack",
         "u": null,
-        "p": "lesyeuxferms"
+        "p": "lasundayabidjan"
       },
       {
-        "n": "Baselitz",
+        "n": "ElectrAfrique",
         "s": "2026-03-08T14:00:00Z",
         "e": "2026-03-08T15:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "invite SKY WHITE",
+        "u": null,
+        "p": "electrafrique"
       },
       {
-        "n": "Sabor A Mi",
+        "n": "Gillie",
         "s": "2026-03-08T15:00:00Z",
         "e": "2026-03-08T16:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "p": "saborami"
+        "j": "100% Production Mix",
+        "u": null
       },
       {
-        "n": "DVDE",
+        "n": "Paloma Colombe",
         "s": "2026-03-08T16:00:00Z",
         "e": "2026-03-08T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "dvde"
+        "p": "palomacolombe"
       },
       {
-        "n": "Pureblast (ex Baraka)",
+        "n": "[re]sources",
         "s": "2026-03-08T17:00:00Z",
         "e": "2026-03-08T18:00:00Z",
         "d": null,
-        "j": "invite Ayesha",
+        "j": "avec Tommy Kid - Golden Era Dubstep Tribute Mix",
         "u": null
       },
       {
-        "n": "Souzo",
+        "n": "LU2K",
         "s": "2026-03-08T18:00:00Z",
         "e": "2026-03-08T19:00:00Z",
         "d": null,
-        "j": "invite BIG ACE",
-        "u": null
+        "j": "alovesopure",
+        "u": null,
+        "p": "lu2k"
       },
       {
         "n": "Playlist France",
         "s": "2026-03-08T19:00:00Z",
-        "e": "2026-03-08T20:00:00Z",
+        "e": "2026-03-08T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2635,8 +2645,86 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-03-08T20:00:00Z",
-        "e": "2026-03-08T21:00:00Z",
+        "s": "2026-03-08T23:00:00Z",
+        "e": "2026-03-09T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-09T08:00:00Z",
+        "e": "2026-03-09T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "LES YEUX FERMÉS",
+        "s": "2026-03-09T13:00:00Z",
+        "e": "2026-03-09T14:00:00Z",
+        "d": null,
+        "j": "invitent MARIE QUÉAU",
+        "u": null,
+        "p": "lesyeuxferms"
+      },
+      {
+        "n": "Baselitz",
+        "s": "2026-03-09T14:00:00Z",
+        "e": "2026-03-09T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Sabor A Mi",
+        "s": "2026-03-09T15:00:00Z",
+        "e": "2026-03-09T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "saborami"
+      },
+      {
+        "n": "DVDE",
+        "s": "2026-03-09T16:00:00Z",
+        "e": "2026-03-09T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "dvde"
+      },
+      {
+        "n": "Pureblast (ex Baraka)",
+        "s": "2026-03-09T17:00:00Z",
+        "e": "2026-03-09T18:00:00Z",
+        "d": null,
+        "j": "invite Ayesha",
+        "u": null
+      },
+      {
+        "n": "Souzo",
+        "s": "2026-03-09T18:00:00Z",
+        "e": "2026-03-09T19:00:00Z",
+        "d": null,
+        "j": "invite BIG ACE",
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-09T19:00:00Z",
+        "e": "2026-03-09T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-09T20:00:00Z",
+        "e": "2026-03-09T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
