@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-08T20:16:13.759Z",
+  "updated": "2026-03-08T22:15:24.988Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THEA HD",
-        "s": "2026-03-08T08:00:00Z",
-        "e": "2026-03-08T09:00:00Z",
-        "d": "Odda Recordings label owner Thea HD unearths the lesser known common sounds. from old soundtracks, library music to experimental electronic music…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/thea-hd/episodes/thea-hd-8th-march-2026",
-        "t": "biweekly",
-        "p": "theahd"
-      },
-      {
-        "n": "Ondas w/ Dubby",
-        "s": "2026-03-08T09:00:00Z",
-        "e": "2026-03-08T10:00:00Z",
-        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-8th-march-2026"
-      },
       {
         "n": "THE SLIP",
         "s": "2026-03-08T10:00:00Z",
@@ -114,9 +96,9 @@
         "n": "OTOLOGIC",
         "s": "2026-03-09T00:00:00Z",
         "e": "2026-03-09T02:00:00Z",
-        "d": null,
+        "d": "Australian duo Otologic traverse wave, post punk, outsider club & dubwise meanderings in constant delay.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/otologic/episodes/otologic-9th-march-2026",
         "p": "otologic"
       },
       {
@@ -247,18 +229,17 @@
         "j": null,
         "u": null,
         "p": "gyrofield"
+      },
+      {
+        "n": "ALL STYLES ALL SMILES",
+        "s": "2026-03-10T00:00:00Z",
+        "e": "2026-03-10T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "80s Rampwalk (R)",
-        "s": "2026-03-08T08:00:00Z",
-        "e": "2026-03-08T09:00:00Z",
-        "d": "80's Rampwalk delivers an hour of cold wave, minimal synth, industrial, post-punk and music made in Berlin basements.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/80srampwalk/episodes/80srampwalk-2nd-july-2025",
-        "t": "restream"
-      },
       {
         "n": "RAHILL (R)",
         "s": "2026-03-08T09:00:00Z",
@@ -366,18 +347,18 @@
         "n": "AMERICANA RAGA (R)",
         "s": "2026-03-08T22:00:00Z",
         "e": "2026-03-08T23:00:00Z",
-        "d": null,
+        "d": "Tracing the links between the American primitive & finger picking guitar tradition with Indian Classical sounds, featuring American-style ragas from John Fahey, Robbie Basho & more, selected by Dan Breuer.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dan-breuer-27th-september-2021",
         "t": "restream"
       },
       {
         "n": "EUROPEAN PRIMITIVE GUITAR (R)",
         "s": "2026-03-08T23:00:00Z",
         "e": "2026-03-09T00:00:00Z",
-        "d": null,
+        "d": "Selections from our European Primitive Guitar compilation, out now. \nEPG is a compilation of instrumental guitar compositions, mapping out the European analogues of the American Primitive Guitar movement, spearheaded by John Fahey in the 1950s.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/european-primitive-guitar-27th-january-2024",
         "t": "restream"
       },
       {
@@ -508,27 +489,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Aaron Angell",
+        "s": "2026-03-09T15:00:00Z",
+        "e": "2026-03-09T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SMERZ",
+        "s": "2026-03-09T16:00:00Z",
+        "e": "2026-03-09T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "smerz"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-08T08:00:00Z",
-        "e": "2026-03-08T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Kakuna",
-        "s": "2026-03-08T09:00:00Z",
-        "e": "2026-03-08T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "kakuna"
-      },
       {
         "n": "Agony Plants",
         "s": "2026-03-08T10:00:00Z",
@@ -1571,6 +1551,23 @@
         "j": null,
         "u": null,
         "p": "sofarsogood"
+      },
+      {
+        "n": "Off-Switch Audio",
+        "s": "2026-03-15T21:00:00Z",
+        "e": "2026-03-15T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SPOTLIGHT EVENTS ",
+        "s": "2026-03-15T22:00:00Z",
+        "e": "2026-03-15T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "spotlight"
       }
     ],
     "dublab": [
@@ -2158,18 +2155,17 @@
         "j": null,
         "u": null,
         "p": "barbarelle"
+      },
+      {
+        "n": "body / negative - cloud music",
+        "s": "2026-03-15T22:00:00Z",
+        "e": "2026-03-16T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-03-08T07:00:00Z",
-        "e": "2026-03-08T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Jordan Mae",
         "s": "2026-03-08T10:00:00Z",
