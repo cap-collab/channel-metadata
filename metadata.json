@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-09T10:37:16.054Z",
+  "updated": "2026-03-09T12:40:19.541Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Midnight Marauders w/ Marshmello",
-        "s": "2026-03-08T22:00:00Z",
-        "e": "2026-03-09T00:00:00Z",
-        "d": "Marsha by name and mellow by nature, MarshmeLLo takes you on a musical journey of all her influences plus a little extra. The first show ever broadcast on the station, Marsha continues to find her groove…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/midnight-marauders/episodes/midnight-marauders-8th-march-2026",
-        "p": "midnightmarauders"
-      },
       {
         "n": "OTOLOGIC",
         "s": "2026-03-09T00:00:00Z",
@@ -78,9 +69,10 @@
         "n": "Melodies International",
         "s": "2026-03-09T13:00:00Z",
         "e": "2026-03-09T15:00:00Z",
-        "d": null,
+        "d": "From dusty crates and dingy basements to the NTS airwaves - reissue label Melodies International bring special, undiscovered, and beautiful records from across the world their show, every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/melodies-international/episodes/melodies-international-9th-march-2026",
+        "t": "monthly",
         "p": "melodiesinternational"
       },
       {
@@ -216,27 +208,18 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ ANU",
+        "s": "2026-03-10T11:00:00Z",
+        "e": "2026-03-10T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "anu"
       }
     ],
     "nts2": [
-      {
-        "n": "AMERICANA RAGA (R)",
-        "s": "2026-03-08T22:00:00Z",
-        "e": "2026-03-08T23:00:00Z",
-        "d": "Tracing the links between the American primitive & finger picking guitar tradition with Indian Classical sounds, featuring American-style ragas from John Fahey, Robbie Basho & more, selected by Dan Breuer.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dan-breuer-27th-september-2021",
-        "t": "restream"
-      },
-      {
-        "n": "EUROPEAN PRIMITIVE GUITAR (R)",
-        "s": "2026-03-08T23:00:00Z",
-        "e": "2026-03-09T00:00:00Z",
-        "d": "Selections from our European Primitive Guitar compilation, out now. \nEPG is a compilation of instrumental guitar compositions, mapping out the European analogues of the American Primitive Guitar movement, spearheaded by John Fahey in the 1950s.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/european-primitive-guitar-27th-january-2024",
-        "t": "restream"
-      },
       {
         "n": "ADVENTURES W/ CLARISSA CONNELLY (R)",
         "s": "2026-03-09T00:00:00Z",
@@ -344,20 +327,21 @@
         "p": "bloodzboi"
       },
       {
-        "n": "CORIN: MANTRA OF LIFE",
+        "n": "CORIN: MANTRA OF LIFE W/ Rani Jambak",
         "s": "2026-03-09T12:00:00Z",
         "e": "2026-03-09T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Around the globe and across the spectrum of electronic music with DJ and producer CORIN. A monthly hour of warped percussion and ambient explorations.\nFrom the host: \"Though life may seem to stand on the brink of ruin, beauty still lingers in the hopes and prayers whispered with sincerity. The mantra of life unfolds in the symbols of human encounters with nature and the supernatural, reminding us that, in the end, we are but a small part of the vast universe.\"",
+        "j": "Rani Jambak",
+        "u": "https://www.nts.live/api/v2/shows/corin/episodes/corin-9th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "PAVEL MILYAKOV: Feuerwerk W/ Timothy George Kelly, Dylan Spencer-Davidson",
         "s": "2026-03-09T13:00:00Z",
         "e": "2026-03-09T14:00:00Z",
-        "d": null,
+        "d": "Berlin-based artist Pavel Milyakov aka Buttechno joins us for an hour a month.\nFrom the host: \"Music from the universe of the Berlin short film FEUERWERK. FEUERWERK is a short documentary about Berlin, New Year’s Eve, and catharsis. This mix was created by the film’s director, Timothy George Kelly in collaboration with Dylan Spencer-Davidson.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/buttechno/episodes/buttechno-9th-march-2026"
       },
       {
         "n": "Palestinian Sound Archive - Majazz Project",
@@ -478,25 +462,28 @@
         "j": "ILL DUBIO",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "In Focus: William Orbit (R)",
+        "s": "2026-03-10T05:00:00Z",
+        "e": "2026-03-10T07:00:00Z",
+        "d": null,
+        "j": "William Orbit",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "SHAKSHOUKA W/ CHEB MIMO (R)",
+        "s": "2026-03-10T07:00:00Z",
+        "e": "2026-03-10T08:00:00Z",
+        "d": null,
+        "j": "CHEB MIMO",
+        "u": null,
+        "t": "restream",
+        "p": "chebmimo"
       }
     ],
     "subtle": [
-      {
-        "n": " Ms. Renegade",
-        "s": "2026-03-08T22:00:00Z",
-        "e": "2026-03-08T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Kütchi",
-        "s": "2026-03-08T23:00:00Z",
-        "e": "2026-03-09T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Moonpie",
         "s": "2026-03-09T00:00:00Z",
@@ -1539,18 +1526,29 @@
         "j": "Komanche",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "gfunktrece - Escuchar al Istmo",
-        "s": "2026-03-08T22:00:00Z",
-        "e": "2026-03-09T00:00:00Z",
+        "n": "Sweet Things w/ PXLTERGEIST",
+        "s": "2026-03-16T11:00:00Z",
+        "e": "2026-03-16T12:00:00Z",
+        "d": null,
+        "j": "PXLTERGEIST",
+        "u": null,
+        "t": "monthly",
+        "p": "sweetthings"
+      },
+      {
+        "n": "Lady Jules",
+        "s": "2026-03-16T12:00:00Z",
+        "e": "2026-03-16T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "gfunktrece"
-      },
+        "t": "monthly",
+        "p": "jules"
+      }
+    ],
+    "dublab": [
       {
         "n": "DJ Lady C - Rare Air",
         "s": "2026-03-09T00:00:00Z",
@@ -1617,6 +1615,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-09T13:00:00Z",
         "e": "2026-03-09T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-09T15:00:00Z",
+        "e": "2026-03-09T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2147,24 +2154,6 @@
     ],
     "rinse": [
       {
-        "n": "re:ni",
-        "s": "2026-03-08T22:00:00Z",
-        "e": "2026-03-08T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Just Jane",
-        "s": "2026-03-08T23:00:00Z",
-        "e": "2026-03-09T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "justjane"
-      },
-      {
         "n": "Manami",
         "s": "2026-03-09T00:00:00Z",
         "e": "2026-03-09T01:00:00Z",
@@ -2494,15 +2483,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-03-08T20:00:00Z",
-        "e": "2026-03-08T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-03-08T23:00:00Z",
         "e": "2026-03-09T08:00:00Z",
         "d": null,
@@ -2529,19 +2509,20 @@
         "p": "lesyeuxferms"
       },
       {
-        "n": "Baselitz",
+        "n": "Anna Majidson",
         "s": "2026-03-09T14:00:00Z",
         "e": "2026-03-09T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Sabor A Mi",
         "s": "2026-03-09T15:00:00Z",
         "e": "2026-03-09T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Musica del Alma",
         "u": null,
         "p": "saborami"
       },
@@ -2550,7 +2531,7 @@
         "s": "2026-03-09T16:00:00Z",
         "e": "2026-03-09T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "20",
         "u": null,
         "p": "dvde"
       },
@@ -2645,7 +2626,7 @@
         "s": "2026-03-10T16:00:00Z",
         "e": "2026-03-10T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Crustasex & IMA Takevoer",
         "u": null,
         "p": "heybony"
       },
