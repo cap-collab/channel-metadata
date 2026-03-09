@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-09T20:24:34.329Z",
+  "updated": "2026-03-09T22:20:11.255Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MUSIC 4 LOVERS",
-        "s": "2026-03-09T07:00:00Z",
-        "e": "2026-03-09T09:00:00Z",
-        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-4-lovers-9th-march-2026"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-03-09T09:00:00Z",
@@ -96,18 +88,19 @@
         "n": "ORGAN TAPES w/ Keiska",
         "s": "2026-03-09T22:00:00Z",
         "e": "2026-03-09T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Organ Tapes and friends play disparate music plied and wrenched together with religious fervour. Sound of E5 上海 monthly on a Monday.\nFrom the host: \"Keiska guestmix for Organ Tapes NTS\"",
+        "j": "Keiska",
+        "u": "https://www.nts.live/api/v2/shows/organ-tapes/episodes/organ-tapes-9th-march-2026",
+        "t": "monthly",
         "p": "organtapes"
       },
       {
         "n": "GYROFIELD",
         "s": "2026-03-09T23:00:00Z",
         "e": "2026-03-10T00:00:00Z",
-        "d": null,
+        "d": "Blueprints in sounds, stones to sparks, lead to gold, with Hong-Kong-born, Utrecht-based electronic musician gyrofield.\nFrom the host: \"winds thrash imaginary trees\neverything else indoors with me\naustere fitting of a tory sort of god\nhe happens upon my thrifted rug\nthe north star is more like a sodium lamp\nwhose sunrise fades into noisy nothingness\nthrough the black of my shadow\nthis god smiles on me\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gyrofield/episodes/gyrofield-9th-march-2026",
         "p": "gyrofield"
       },
       {
@@ -235,29 +228,27 @@
         "j": null,
         "u": null,
         "p": "fergusclark"
+      },
+      {
+        "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "s": "2026-03-10T18:00:00Z",
+        "e": "2026-03-10T20:00:00Z",
+        "d": null,
+        "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "u": null,
+        "t": "biweekly",
+        "p": "channeling"
+      },
+      {
+        "n": "Trevor Jackson",
+        "s": "2026-03-10T20:00:00Z",
+        "e": "2026-03-10T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "m00dtapes (R)",
-        "s": "2026-03-09T08:00:00Z",
-        "e": "2026-03-09T09:00:00Z",
-        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-10th-november-2024",
-        "t": "restream",
-        "p": "m00dtapes"
-      },
-      {
-        "n": "Austral w/ AYLU (R)",
-        "s": "2026-03-09T09:00:00Z",
-        "e": "2026-03-09T10:00:00Z",
-        "d": "Austral showcases the wildness and beauty of Latin America’s sounds, and from other places south of somewhere. Aylu probes the depths of music from old times and music from the future.",
-        "j": "AYLU",
-        "u": "https://www.nts.live/api/v2/shows/aylu/episodes/aylu-24th-june-2024",
-        "t": "restream",
-        "p": "aylu"
-      },
       {
         "n": "JIM O'ROURKE STEAMROOM (R)",
         "s": "2026-03-09T10:00:00Z",
@@ -369,9 +360,9 @@
         "n": "Hora de la flor w/ LAFLOR",
         "s": "2026-03-09T23:00:00Z",
         "e": "2026-03-10T00:00:00Z",
-        "d": null,
+        "d": "Colombian-Miamian vinyl collector and DJ – LAFLOR presents the sounds of her roots, playing an hour of salsa romántica records.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/laflor-9th-march-2026"
       },
       {
         "n": "What Means The World 2 U w/ Michael David & Ron Snake",
@@ -506,27 +497,17 @@
         "j": null,
         "u": null,
         "p": "tone"
+      },
+      {
+        "n": "UNITED IDENTITIES w/ MALLAURY",
+        "s": "2026-03-10T16:00:00Z",
+        "e": "2026-03-10T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-09T06:00:00Z",
-        "e": "2026-03-09T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": " Tribalismo",
-        "s": "2026-03-09T09:00:00Z",
-        "e": "2026-03-09T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "tribalismo"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-03-09T10:00:00Z",
@@ -1594,18 +1575,27 @@
         "u": null,
         "t": "monthly",
         "p": "rainbowconspiracy"
+      },
+      {
+        "n": "In:flux Audio",
+        "s": "2026-03-16T21:00:00Z",
+        "e": "2026-03-16T22:00:00Z",
+        "d": "In:flux Audio are a record label based in Leeds, UK founded by production duo Tik&Borrow. Since the label's inception in October 2013, they have dabbled in multiple dance music styles with the emphasis always being on the tracks being unique, and packed full of bass. Today the primary output for the label is from their Dubstep roster and this is focus of their show on Subtle - giving the artists and remixers chance to showcase their sounds with an hour guest mix, all hosted by label bossman Tik.",
+        "j": "flux Audio",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "tighe",
+        "s": "2026-03-16T22:00:00Z",
+        "e": "2026-03-16T23:00:00Z",
+        "d": "I’m a 19 year old DJ and producer from Newcastle upon Tyne, mainly playing and producing music around the 140bpm mark. I started out playing old 2-step and jungle records, before moving my focus to mainly dubstep and grime. Along with my friends Pirata and White Label, I run Newcastle’s only current 140 night, Well Irie. ",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-09T07:00:00Z",
-        "e": "2026-03-09T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-03-09T09:00:00Z",
@@ -1679,6 +1669,15 @@
         "t": "restream"
       },
       {
+        "n": "sounds of NOW",
+        "s": "2026-03-10T00:00:00Z",
+        "e": "2026-03-10T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
         "n": "Terrell Brooke – TheyHouse",
         "s": "2026-03-10T02:00:00Z",
         "e": "2026-03-10T04:00:00Z",
@@ -1700,7 +1699,7 @@
       {
         "n": "Daniel T - Crosseyed and Painless",
         "s": "2026-03-10T06:00:00Z",
-        "e": "2026-03-10T08:00:00Z",
+        "e": "2026-03-10T08:10:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2183,18 +2182,19 @@
         "u": null,
         "t": "weekly",
         "p": "renecontreras"
+      },
+      {
+        "n": "Rani de Leon - Tizita Radio",
+        "s": "2026-03-16T22:00:00Z",
+        "e": "2026-03-17T00:00:00Z",
+        "d": null,
+        "j": "Tizita Radio",
+        "u": null,
+        "t": "monthly",
+        "p": "ranideleon"
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-03-09T07:00:00Z",
-        "e": "2026-03-09T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Tim Garcia",
         "s": "2026-03-09T09:00:00Z",
