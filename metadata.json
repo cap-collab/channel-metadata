@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-09T08:34:55.478Z",
+  "updated": "2026-03-09T10:37:16.054Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
-        "s": "2026-03-08T20:00:00Z",
-        "e": "2026-03-08T22:00:00Z",
-        "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
-        "j": "ERNESTO CHAHOUD",
-        "u": "https://www.nts.live/api/v2/shows/ernesto-chahoud/episodes/ernesto-chahoud-8th-march-2026",
-        "t": "monthly",
-        "p": "ernestochahoud"
-      },
       {
         "n": "Midnight Marauders w/ Marshmello",
         "s": "2026-03-08T22:00:00Z",
@@ -71,17 +61,18 @@
         "s": "2026-03-09T09:00:00Z",
         "e": "2026-03-09T11:00:00Z",
         "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": null,
+        "j": "FLO",
         "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-9th-march-2026",
+        "t": "regular",
         "p": "flo"
       },
       {
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-03-09T11:00:00Z",
         "e": "2026-03-09T13:00:00Z",
-        "d": null,
+        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-9th-march-2026"
       },
       {
         "n": "Melodies International",
@@ -145,7 +136,7 @@
         "u": null
       },
       {
-        "n": "ORGAN TAPES",
+        "n": "ORGAN TAPES w/ Keiska",
         "s": "2026-03-09T22:00:00Z",
         "e": "2026-03-09T23:00:00Z",
         "d": null,
@@ -215,27 +206,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "The NTS Breakfast Show w/ Flo",
+        "s": "2026-03-10T09:00:00Z",
+        "e": "2026-03-10T11:00:00Z",
+        "d": null,
+        "j": "Flo",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "NTS GUIDE TO: '70S ANGOLAN SEMBA & MÉRINGUE (R)",
-        "s": "2026-03-08T20:00:00Z",
-        "e": "2026-03-08T21:00:00Z",
-        "d": "An hour of '70s Angolan Semba & Mergenue, two distinct styles which emerged during Angola’s liberation movement against Portuguese colonial rule through Angolan records labels such as Rebita & Merengue.",
-        "j": "'70S ANGOLAN SEMBA & MÉRINGUE",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-angolan-semba-21st-march-2025",
-        "t": "restream"
-      },
-      {
-        "n": "THE ULINE CATALOG W/ CALVIN LECOMPTE (R)",
-        "s": "2026-03-08T21:00:00Z",
-        "e": "2026-03-08T22:00:00Z",
-        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
-        "j": "CALVIN LECOMPTE",
-        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-4th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "AMERICANA RAGA (R)",
         "s": "2026-03-08T22:00:00Z",
@@ -345,18 +328,19 @@
         "n": "JIM O'ROURKE STEAMROOM (R)",
         "s": "2026-03-09T10:00:00Z",
         "e": "2026-03-09T11:00:00Z",
-        "d": null,
+        "d": "Avant-garde musician and composer Jim O'Rourke pulls stops by once a month, pulling an hour of picks from his extensive record collection.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jim-o-rourke/episodes/jim-o-rourke-4th-september-2025",
         "t": "restream"
       },
       {
         "n": "BLOODZ BOI",
         "s": "2026-03-09T11:00:00Z",
         "e": "2026-03-09T12:00:00Z",
-        "d": null,
+        "d": "Underground legend Bloodz Boi leaves untold emotions in sounds. Broadcast from Beijing on a Tuesday every month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bloodz-boi/episodes/bloodz-boi-9th-march-2026",
+        "t": "monthly",
         "p": "bloodzboi"
       },
       {
@@ -475,18 +459,28 @@
         "j": "Florida Man FM",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "El Sabor De La Ciudad w/ REGAL86 (R)",
+        "s": "2026-03-10T03:00:00Z",
+        "e": "2026-03-10T04:00:00Z",
+        "d": null,
+        "j": "REGAL86",
+        "u": null,
+        "t": "restream",
+        "p": "regal86"
+      },
+      {
+        "n": "HIGH JAZZ* W/ ILL DUBIO (R)",
+        "s": "2026-03-10T04:00:00Z",
+        "e": "2026-03-10T05:00:00Z",
+        "d": null,
+        "j": "ILL DUBIO",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "FKOF",
-        "s": "2026-03-08T20:00:00Z",
-        "e": "2026-03-08T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "fkof"
-      },
       {
         "n": " Ms. Renegade",
         "s": "2026-03-08T22:00:00Z",
@@ -572,6 +566,15 @@
         "j": null,
         "u": null,
         "p": "tribalismo"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-09T10:00:00Z",
+        "e": "2026-03-09T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "syncop8",
@@ -1527,18 +1530,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "The PICKNMIX Show w/ Komanche",
+        "s": "2026-03-16T10:00:00Z",
+        "e": "2026-03-16T11:00:00Z",
+        "d": null,
+        "j": "Komanche",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Becky Ebenkamp – Bubblegum & Other Delights",
-        "s": "2026-03-08T20:00:00Z",
-        "e": "2026-03-08T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "beckyebenkamp"
-      },
       {
         "n": "gfunktrece - Escuchar al Istmo",
         "s": "2026-03-08T22:00:00Z",
@@ -1605,6 +1608,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-09T11:00:00Z",
         "e": "2026-03-09T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-09T13:00:00Z",
+        "e": "2026-03-09T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2135,24 +2147,6 @@
     ],
     "rinse": [
       {
-        "n": "Introspekt",
-        "s": "2026-03-08T20:00:00Z",
-        "e": "2026-03-08T21:00:00Z",
-        "d": null,
-        "j": "International Women's Day Guest Mix",
-        "u": null,
-        "p": "introspekt"
-      },
-      {
-        "n": "Anfisa Letyago",
-        "s": "2026-03-08T21:00:00Z",
-        "e": "2026-03-08T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "anfisaletyago"
-      },
-      {
         "n": "re:ni",
         "s": "2026-03-08T22:00:00Z",
         "e": "2026-03-08T23:00:00Z",
@@ -2232,13 +2226,14 @@
         "u": null
       },
       {
-        "n": "John Glacier",
+        "n": "Donsurf & Last Nubian",
         "s": "2026-03-09T11:00:00Z",
         "e": "2026-03-09T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Dreamer",
         "u": null,
-        "p": "johnglacier"
+        "t": "weekly",
+        "p": "donsurf"
       },
       {
         "n": "Christine Kakaire",
