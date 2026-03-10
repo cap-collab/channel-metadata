@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-10T06:37:54.890Z",
+  "updated": "2026-03-10T08:31:47.074Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-03-09T18:00:00Z",
-        "e": "2026-03-09T20:00:00Z",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-9th-march-2026",
-        "p": "cocomaria"
-      },
       {
         "n": "SUNCUT",
         "s": "2026-03-09T20:00:00Z",
@@ -116,9 +107,9 @@
         "n": "The NTS Breakfast Show w/ Flo",
         "s": "2026-03-10T09:00:00Z",
         "e": "2026-03-10T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "Flo",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-10th-march-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -255,25 +246,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2026-03-11T07:00:00Z",
+        "e": "2026-03-11T09:00:00Z",
+        "d": null,
+        "j": "SPIRIT BLUE",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "AMBIENT ABRACADABRA W/ SOFIE BIRCH",
-        "s": "2026-03-09T18:00:00Z",
-        "e": "2026-03-09T19:00:00Z",
-        "d": "Relaxing & spiritual sounds with Copenhagen-based composer & producer Sofie Birch.\nFrom the host: \"Spring is here, flowers are coming up making space for longing and lightness at the same time.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofie-birch/episodes/sofie-birch-9th-march-2026"
-      },
-      {
-        "n": "COMO LA FLOR W/ JAZMIN - PURO SENTIMENTAL",
-        "s": "2026-03-09T19:00:00Z",
-        "e": "2026-03-09T20:00:00Z",
-        "d": "Música sentimental for all the sad girls and sad boys.\nFrom the host: \"SOÑANDO DE UN MUNDO DONDE TODOS TIENEN EL DERECHO DE VIVIR EN PAZ.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jazmin-garcia/episodes/jazmin-garcia-9th-march-2026"
-      },
       {
         "n": "LE JARDIN W/ SARAH DAVACHI",
         "s": "2026-03-09T20:00:00Z",
@@ -370,18 +354,18 @@
         "n": "NTS Guide to: Giorno Poetry Systems (R)",
         "s": "2026-03-10T08:00:00Z",
         "e": "2026-03-10T09:00:00Z",
-        "d": null,
+        "d": "An hour of selections from Giorno Poetry Systems, the platform launched by NYC poet and performance artist John Giorno in 1972.\nAs well as engaging in live performances and performance art projects – including his famous \"Dial-A-Poem\" project – the record label wing of the platform released over 40 records featuring music and poetry from Laurie Anderson, Philip Glass, Meredith Monk, Allen Ginsberg, John Cage, and William S. Burroughs and more.  \nSelected by ML of 150 Session.",
         "j": "Giorno Poetry Systems",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-giorno-poetry-systems-15th-july-2025",
         "t": "restream"
       },
       {
         "n": "Dimension Door (R)",
         "s": "2026-03-10T09:00:00Z",
         "e": "2026-03-10T10:00:00Z",
-        "d": null,
+        "d": "Occult tapes plundered by two low level scavengers: the finest dungeon synth, medieval dark ambient & black metal.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-24th-april-2025",
         "t": "restream",
         "p": "dimensiondoor"
       },
@@ -503,25 +487,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "PADWICK",
-        "s": "2026-03-09T17:00:00Z",
-        "e": "2026-03-09T19:00:00Z",
-        "d": "Representing UK Bass Music Culture across a range of styles, sounds and tempos.",
-        "j": null,
-        "u": null
       },
       {
-        "n": "C Frame",
-        "s": "2026-03-09T19:00:00Z",
-        "e": "2026-03-09T20:00:00Z",
+        "n": "Night Shift w/ Diamondstein",
+        "s": "2026-03-11T01:00:00Z",
+        "e": "2026-03-11T03:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "DARK ENTRIES w/ Josh Cheon (R)",
+        "s": "2026-03-11T03:00:00Z",
+        "e": "2026-03-11T04:00:00Z",
+        "d": null,
+        "j": "Josh Cheon",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Elrobo's Selectas",
         "s": "2026-03-09T20:00:00Z",
@@ -1603,19 +1588,27 @@
         "u": null,
         "t": "monthly",
         "p": "fullfrontal"
+      },
+      {
+        "n": "THE CULTURE HEAD w. SAINT VOX",
+        "s": "2026-03-17T07:00:00Z",
+        "e": "2026-03-17T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Ardishko",
+        "s": "2026-03-17T08:00:00Z",
+        "e": "2026-03-17T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-03-09T18:00:00Z",
-        "e": "2026-03-09T20:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
       {
         "n": "Colloboh - Everything Inbetween",
         "s": "2026-03-09T20:00:00Z",
@@ -1675,6 +1668,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-10T08:10:00Z",
         "e": "2026-03-10T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-10T11:00:00Z",
+        "e": "2026-03-10T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2200,24 +2202,6 @@
     ],
     "rinse": [
       {
-        "n": "Sharnie",
-        "s": "2026-03-09T18:00:00Z",
-        "e": "2026-03-09T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "sharnie"
-      },
-      {
-        "n": "Fold",
-        "s": "2026-03-09T19:00:00Z",
-        "e": "2026-03-09T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "fold"
-      },
-      {
         "n": "Main Phase",
         "s": "2026-03-09T20:00:00Z",
         "e": "2026-03-09T22:00:00Z",
@@ -2568,15 +2552,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Broodoo Ramses",
-        "s": "2026-03-09T18:00:00Z",
-        "e": "2026-03-09T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "broodooramses"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-03-09T19:00:00Z",
         "e": "2026-03-09T23:00:00Z",
@@ -2597,6 +2572,15 @@
       {
         "n": "Playlist France",
         "s": "2026-03-10T08:00:00Z",
+        "e": "2026-03-10T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-10T11:00:00Z",
         "e": "2026-03-10T13:00:00Z",
         "d": null,
         "j": null,
@@ -2604,17 +2588,95 @@
         "t": "playlist"
       },
       {
-        "n": "Black Square Club",
+        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
         "s": "2026-03-10T13:00:00Z",
+        "e": "2026-03-10T14:00:00Z",
+        "d": null,
+        "j": "Épisode 4 – Tous·tes les ami·es dont j’ai dû me séparer",
+        "u": null
+      },
+      {
+        "n": "Kiala Ogawa",
+        "s": "2026-03-10T14:00:00Z",
         "e": "2026-03-10T15:00:00Z",
+        "d": null,
+        "j": "Maiden Voyage",
+        "u": null,
+        "p": "kialaogawa"
+      },
+      {
+        "n": "RONY",
+        "s": "2026-03-10T15:00:00Z",
+        "e": "2026-03-10T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Hey Bony",
+        "s": "2026-03-10T16:00:00Z",
+        "e": "2026-03-10T17:00:00Z",
+        "d": null,
+        "j": "Crustasex & IMA Takevoer",
+        "u": null,
+        "p": "heybony"
+      },
+      {
+        "n": "Missy Da Kunt",
+        "s": "2026-03-10T17:00:00Z",
+        "e": "2026-03-10T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Broodoo Ramses",
+        "s": "2026-03-10T18:00:00Z",
+        "e": "2026-03-10T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "broodooramses"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-10T19:00:00Z",
+        "e": "2026-03-10T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-10T23:00:00Z",
+        "e": "2026-03-11T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-11T08:00:00Z",
+        "e": "2026-03-11T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Black Square Club",
+        "s": "2026-03-11T13:00:00Z",
+        "e": "2026-03-11T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "ShayBySchai",
-        "s": "2026-03-10T15:00:00Z",
-        "e": "2026-03-10T16:00:00Z",
+        "s": "2026-03-11T15:00:00Z",
+        "e": "2026-03-11T16:00:00Z",
         "d": null,
         "j": "invite Bydone et SleepyPierre",
         "u": null,
@@ -2622,32 +2684,32 @@
       },
       {
         "n": "Andy4000",
-        "s": "2026-03-10T16:00:00Z",
-        "e": "2026-03-10T17:00:00Z",
+        "s": "2026-03-11T16:00:00Z",
+        "e": "2026-03-11T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Kayamba Records",
-        "s": "2026-03-10T17:00:00Z",
-        "e": "2026-03-10T18:00:00Z",
+        "s": "2026-03-11T17:00:00Z",
+        "e": "2026-03-11T18:00:00Z",
         "d": null,
         "j": "invite Kobé Lulu & Sorun spéciale Ultra-Zoréol EP",
         "u": null
       },
       {
         "n": "De Vedelly",
-        "s": "2026-03-10T18:00:00Z",
-        "e": "2026-03-10T19:00:00Z",
+        "s": "2026-03-11T18:00:00Z",
+        "e": "2026-03-11T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "RONI",
-        "s": "2026-03-10T19:00:00Z",
-        "e": "2026-03-10T20:00:00Z",
+        "s": "2026-03-11T19:00:00Z",
+        "e": "2026-03-11T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2655,8 +2717,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-03-10T20:00:00Z",
-        "e": "2026-03-10T21:00:00Z",
+        "s": "2026-03-11T20:00:00Z",
+        "e": "2026-03-11T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
