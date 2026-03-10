@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-10T18:37:24.908Z",
+  "updated": "2026-03-10T20:24:36.135Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Head Zone w/ Ripley Johnson (R)",
-        "s": "2026-03-10T06:00:00Z",
-        "e": "2026-03-10T07:00:00Z",
-        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
-        "j": "Ripley Johnson",
-        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/the-head-zone-w-ripley-johnson-9th-may-2018",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW w/ MARTHA SKYE MURPHY",
         "s": "2026-03-10T07:00:00Z",
@@ -110,9 +101,9 @@
         "n": "PERM POLITICS W/ CHANTAL",
         "s": "2026-03-10T22:00:00Z",
         "e": "2026-03-10T23:00:00Z",
-        "d": null,
+        "d": "Hosted by Chantal Adams, Perm Politics oscillates between noisier textures, smooth futuristic beats and a myriad of rap/hip-hop offshoots.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/chantal/episodes/chantal-10th-march-2026"
       },
       {
         "n": "SURF GANG RADIO W/ SAMBA JEAN-BAPTISTE (R)",
@@ -250,28 +241,18 @@
         "u": null,
         "t": "biweekly",
         "p": "martelo"
+      },
+      {
+        "n": "HOOVERSOUND W/ SHERELLE & NAINA",
+        "s": "2026-03-11T21:00:00Z",
+        "e": "2026-03-11T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "hooversound"
       }
     ],
     "nts2": [
-      {
-        "n": "In Focus: William Orbit (R)",
-        "s": "2026-03-10T05:00:00Z",
-        "e": "2026-03-10T07:00:00Z",
-        "d": "A two hour journey through the the intricate and epic electronic productions of William Orbit - featuring both his instrumental and experimental modes and his world-beating pop hits from All Saints, Madonna and more.\nSelected and mixed by The Pilotwings.",
-        "j": "William Orbit",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-william-orbit-20th-september-2024",
-        "t": "restream"
-      },
-      {
-        "n": "SHAKSHOUKA W/ CHEB MIMO (R)",
-        "s": "2026-03-10T07:00:00Z",
-        "e": "2026-03-10T08:00:00Z",
-        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.",
-        "j": "CHEB MIMO",
-        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-3rd-september-2025",
-        "t": "restream",
-        "p": "chebmimo"
-      },
       {
         "n": "NTS Guide to: Giorno Poetry Systems (R)",
         "s": "2026-03-10T08:00:00Z",
@@ -383,17 +364,17 @@
         "n": "NTS Guide to: Golden Age of Malian Music - 1970s",
         "s": "2026-03-10T20:00:00Z",
         "e": "2026-03-10T22:00:00Z",
-        "d": null,
+        "d": "Selections from the \"golden age\" of Malian music from the late 1960s into the early 1980s. This was the era following Mali's independence in 1960s. President Modibo Keïta, eager to make music a key part of a newly independent national spirit, funded and encouraged the forming of musical communities and orchestras across the country. Many of these groups fused the generations-old griot story telling tradition with modern instrumentation. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-golden-age-of-malian-music---1970s-10th-march-2026"
       },
       {
         "n": "Arp - SALON de MUSIQUE",
         "s": "2026-03-10T22:00:00Z",
         "e": "2026-03-11T00:00:00Z",
-        "d": null,
+        "d": "Quarterly transmissions from the New York-based composer/producer Alexis Georgopoulos, exploring the unexpected connections between disparate genres & traditions, from Modern Classical to the club-adjacent, experimental to folk, ambient to spiritual jazz and beyond.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/arp/episodes/arp-salon-de-musique-10th-march-2026"
       },
       {
         "n": "8ULENTINA",
@@ -516,26 +497,26 @@
         "j": null,
         "u": null,
         "p": "fifthworld"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-03-10T06:00:00Z",
-        "e": "2026-03-10T07:00:00Z",
+        "n": "GETTING WARMER W/ JEN MONROE",
+        "s": "2026-03-11T17:00:00Z",
+        "e": "2026-03-11T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "p": "jenmonroe"
       },
       {
-        "n": "Sparring Sessions",
-        "s": "2026-03-10T07:00:00Z",
-        "e": "2026-03-10T08:00:00Z",
+        "n": "SOPHIE THATCHER w/ Emma Barreto",
+        "s": "2026-03-11T18:00:00Z",
+        "e": "2026-03-11T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Breakfast Spoons w/ Boruch",
         "s": "2026-03-10T08:00:00Z",
@@ -645,6 +626,15 @@
         "j": null,
         "u": null,
         "p": "rodney"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-10T21:00:00Z",
+        "e": "2026-03-10T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "The Wheel Up Show w/ Tripta",
@@ -1633,18 +1623,28 @@
         "j": "Mood Change",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Daniel T - Crosseyed and Painless",
-        "s": "2026-03-10T06:00:00Z",
-        "e": "2026-03-10T08:10:00Z",
+        "n": "Skelecta presents: South London Dance Factory",
+        "s": "2026-03-17T19:00:00Z",
+        "e": "2026-03-17T20:00:00Z",
+        "d": null,
+        "j": "South London Dance Factory",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Deeper DnB",
+        "s": "2026-03-17T20:00:00Z",
+        "e": "2026-03-17T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "danielt"
-      },
+        "t": "monthly",
+        "p": "deeperdnb"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-10T08:10:00Z",
@@ -1707,6 +1707,15 @@
         "j": null,
         "u": null,
         "p": "sonrisita"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-10T22:00:00Z",
+        "e": "2026-03-11T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Hoseh - Version Sounds",
@@ -1924,6 +1933,15 @@
         "j": null,
         "u": null,
         "p": "xicasoul"
+      },
+      {
+        "n": "DJ Bird of Paradigm –  Paradigm Power Hour",
+        "s": "2026-03-13T22:00:00Z",
+        "e": "2026-03-13T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "birdofparadigm"
       },
       {
         "n": "DJ The Witching Hours - Centrifugues",
@@ -2217,18 +2235,18 @@
         "u": null,
         "t": "monthly",
         "p": "kohinoorgasm"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Cara Crosby",
-        "s": "2026-03-10T06:00:00Z",
-        "e": "2026-03-10T07:00:00Z",
+        "n": "Cafe's Internet Lounge",
+        "s": "2026-03-17T20:00:00Z",
+        "e": "2026-03-17T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
-      },
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-03-10T07:00:00Z",
@@ -2507,15 +2525,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-03-09T23:00:00Z",
-        "e": "2026-03-10T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-03-10T08:00:00Z",
         "e": "2026-03-10T11:00:00Z",
         "d": null,
@@ -2585,7 +2594,7 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-03-10T19:00:00Z",
+        "s": "2026-03-10T20:00:00Z",
         "e": "2026-03-10T23:00:00Z",
         "d": null,
         "j": null,
