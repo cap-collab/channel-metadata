@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-10T01:13:06.027Z",
+  "updated": "2026-03-10T04:01:05.237Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Melodies International",
-        "s": "2026-03-09T13:00:00Z",
-        "e": "2026-03-09T15:00:00Z",
-        "d": "From dusty crates and dingy basements to the NTS airwaves - reissue label Melodies International bring special, undiscovered, and beautiful records from across the world their show, every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/melodies-international/episodes/melodies-international-9th-march-2026",
-        "t": "monthly",
-        "p": "melodiesinternational"
-      },
-      {
-        "n": "System Olympia",
-        "s": "2026-03-09T15:00:00Z",
-        "e": "2026-03-09T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "systemolympia"
-      },
       {
         "n": "OHBLIV",
         "s": "2026-03-09T16:00:00Z",
@@ -116,9 +97,9 @@
         "n": "Music For Days Like These w/ John Talabot (R)",
         "s": "2026-03-10T04:00:00Z",
         "e": "2026-03-10T05:00:00Z",
-        "d": null,
+        "d": "Barcelona based producer, DJ and founder of Hivern Discs John Talabot takes over for his monthly show.",
         "j": "John Talabot",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/john-talabot/episodes/music-for-days-like-these-w-john-talabot-8th-june-2018",
         "t": "restream",
         "p": "johntalabot"
       },
@@ -126,9 +107,9 @@
         "n": "Perfect Lives w/ Bruno  & Daniel (R)",
         "s": "2026-03-10T05:00:00Z",
         "e": "2026-03-10T06:00:00Z",
-        "d": null,
+        "d": "Bruno selects an hour of little known punk and post punk. ",
         "j": "Bruno  & Daniel",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-w-bruno-4-october-2020",
         "t": "restream",
         "p": "perfectlives"
       },
@@ -174,7 +155,8 @@
         "e": "2026-03-10T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "rebe"
       },
       {
         "n": "GUESTS",
@@ -182,7 +164,8 @@
         "e": "2026-03-10T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "guests"
       },
       {
         "n": "Self Soothe w/ Margeaux",
@@ -245,33 +228,35 @@
         "j": null,
         "u": null,
         "p": "weed420"
+      },
+      {
+        "n": "After dark w/ HELM",
+        "s": "2026-03-11T00:00:00Z",
+        "e": "2026-03-11T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "helm"
+      },
+      {
+        "n": "OPEN HAND REAL FLAMES  - Juke, Footwork & 160 from Japan",
+        "s": "2026-03-11T02:00:00Z",
+        "e": "2026-03-11T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Studio One (R)",
+        "s": "2026-03-11T04:00:00Z",
+        "e": "2026-03-11T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "PAVEL MILYAKOV: Feuerwerk W/ Timothy George Kelly, Dylan Spencer-Davidson",
-        "s": "2026-03-09T13:00:00Z",
-        "e": "2026-03-09T14:00:00Z",
-        "d": "Berlin-based artist Pavel Milyakov aka Buttechno joins us for an hour a month.\nFrom the host: \"Music from the universe of the Berlin short film FEUERWERK. FEUERWERK is a short documentary about Berlin, New Year’s Eve, and catharsis. This mix was created by the film’s director, Timothy George Kelly in collaboration with Dylan Spencer-Davidson.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/buttechno/episodes/buttechno-9th-march-2026"
-      },
-      {
-        "n": "Palestinian Sound Archive - Majazz Project",
-        "s": "2026-03-09T14:00:00Z",
-        "e": "2026-03-09T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Aaron Angell",
-        "s": "2026-03-09T15:00:00Z",
-        "e": "2026-03-09T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "SMERZ",
         "s": "2026-03-09T16:00:00Z",
@@ -358,7 +343,8 @@
         "d": "NYC-based rapper & producer 454 presents Florida Man FM, coming through with an hour of under the radar US rap & club sounds every month.",
         "j": "Florida Man FM",
         "u": "https://www.nts.live/api/v2/shows/454/episodes/454-18th-october-2023",
-        "t": "restream"
+        "t": "restream",
+        "p": "454"
       },
       {
         "n": "El Sabor De La Ciudad w/ REGAL86 (R)",
@@ -374,18 +360,18 @@
         "n": "HIGH JAZZ* W/ ILL DUBIO (R)",
         "s": "2026-03-10T04:00:00Z",
         "e": "2026-03-10T05:00:00Z",
-        "d": null,
+        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
         "j": "ILL DUBIO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-16th-july-2025",
         "t": "restream"
       },
       {
         "n": "In Focus: William Orbit (R)",
         "s": "2026-03-10T05:00:00Z",
         "e": "2026-03-10T07:00:00Z",
-        "d": null,
+        "d": "A two hour journey through the the intricate and epic electronic productions of William Orbit - featuring both his instrumental and experimental modes and his world-beating pop hits from All Saints, Madonna and more.\nSelected and mixed by The Pilotwings.",
         "j": "William Orbit",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-william-orbit-20th-september-2024",
         "t": "restream"
       },
       {
@@ -499,28 +485,37 @@
         "e": "2026-03-10T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null
-      }
-    ],
-    "subtle": [
+        "u": null,
+        "p": "jonnymons"
+      },
       {
-        "n": "Bittersweet Sounds w/ Mass Hysteria",
-        "s": "2026-03-09T13:00:00Z",
-        "e": "2026-03-09T14:00:00Z",
+        "n": "NTS Guide to: Golden Age of Malian Music - 1970s",
+        "s": "2026-03-10T20:00:00Z",
+        "e": "2026-03-10T22:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Louis Selwyn",
-        "s": "2026-03-09T14:00:00Z",
-        "e": "2026-03-09T16:00:00Z",
+        "n": "The Outside Insight Hour (R)",
+        "s": "2026-03-10T22:00:00Z",
+        "e": "2026-03-10T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "louisselwyn"
+        "t": "restream"
       },
+      {
+        "n": "Gong Sounds w/ PRMTVO (R)",
+        "s": "2026-03-10T23:00:00Z",
+        "e": "2026-03-11T00:00:00Z",
+        "d": null,
+        "j": "PRMTVO",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "UWOT",
         "s": "2026-03-09T16:00:00Z",
@@ -614,6 +609,15 @@
         "j": null,
         "u": null,
         "p": "djoj"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-10T04:00:00Z",
+        "e": "2026-03-10T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "DJ Moement",
@@ -1580,27 +1584,38 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Refractions Radio",
+        "s": "2026-03-17T02:00:00Z",
+        "e": "2026-03-17T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "refractionsradio"
+      },
+      {
+        "n": "6JJACOB",
+        "s": "2026-03-17T03:00:00Z",
+        "e": "2026-03-17T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Full Frontal",
+        "s": "2026-03-17T04:00:00Z",
+        "e": "2026-03-17T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "fullfrontal"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-09T13:00:00Z",
-        "e": "2026-03-09T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-09T15:00:00Z",
-        "e": "2026-03-09T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Middle Pillar Sounds",
         "s": "2026-03-09T16:00:00Z",
@@ -2161,28 +2176,28 @@
         "u": null,
         "t": "monthly",
         "p": "ranideleon"
+      },
+      {
+        "n": "Encarnación - Lucid Hour",
+        "s": "2026-03-17T02:00:00Z",
+        "e": "2026-03-17T04:00:00Z",
+        "d": null,
+        "j": "Lucid Hour",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Jen Ferrer - Fish Whistle",
+        "s": "2026-03-17T04:00:00Z",
+        "e": "2026-03-17T06:00:00Z",
+        "d": null,
+        "j": "Fish Whistle",
+        "u": null,
+        "t": "monthly",
+        "p": "jenferrer"
       }
     ],
     "rinse": [
-      {
-        "n": "Nakeira",
-        "s": "2026-03-09T13:00:00Z",
-        "e": "2026-03-09T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "nakeira"
-      },
-      {
-        "n": "Braga Circuit",
-        "s": "2026-03-09T14:00:00Z",
-        "e": "2026-03-09T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "bragacircuit"
-      },
       {
         "n": "Scratcha",
         "s": "2026-03-09T15:00:00Z",
@@ -2569,31 +2584,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
-        "s": "2026-03-09T13:00:00Z",
-        "e": "2026-03-09T14:00:00Z",
-        "d": null,
-        "j": "Épisode 4 – Tous·tes les ami·es dont j’ai dû me séparer",
-        "u": null
-      },
-      {
-        "n": "Kiala Ogawa",
-        "s": "2026-03-09T14:00:00Z",
-        "e": "2026-03-09T15:00:00Z",
-        "d": null,
-        "j": "Maiden Voyage",
-        "u": null,
-        "p": "kialaogawa"
-      },
-      {
-        "n": "RONY",
-        "s": "2026-03-09T15:00:00Z",
-        "e": "2026-03-09T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Hey Bony",
         "s": "2026-03-09T16:00:00Z",
