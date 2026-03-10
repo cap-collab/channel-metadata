@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-10T10:30:56.177Z",
+  "updated": "2026-03-10T12:39:31.167Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ORGAN TAPES w/ Keiska",
-        "s": "2026-03-09T22:00:00Z",
-        "e": "2026-03-09T23:00:00Z",
-        "d": "Organ Tapes and friends play disparate music plied and wrenched together with religious fervour. Sound of E5 上海 monthly on a Monday.\nFrom the host: \"Keiska guestmix for Organ Tapes NTS\"",
-        "j": "Keiska",
-        "u": "https://www.nts.live/api/v2/shows/organ-tapes/episodes/organ-tapes-9th-march-2026",
-        "t": "monthly",
-        "p": "organtapes"
-      },
-      {
-        "n": "GYROFIELD",
-        "s": "2026-03-09T23:00:00Z",
-        "e": "2026-03-10T00:00:00Z",
-        "d": "Blueprints in sounds, stones to sparks, lead to gold, with Hong-Kong-born, Utrecht-based electronic musician gyrofield.\nFrom the host: \"winds thrash imaginary trees\neverything else indoors with me\naustere fitting of a tory sort of god\nhe happens upon my thrifted rug\nthe north star is more like a sodium lamp\nwhose sunrise fades into noisy nothingness\nthrough the black of my shadow\nthis god smiles on me\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gyrofield/episodes/gyrofield-9th-march-2026",
-        "p": "gyrofield"
-      },
       {
         "n": "NTS GUIDE TO: ENJA RECORDS (R)",
         "s": "2026-03-10T00:00:00Z",
@@ -109,9 +90,9 @@
         "n": "Rebe",
         "s": "2026-03-10T13:00:00Z",
         "e": "2026-03-10T14:00:00Z",
-        "d": null,
+        "d": "Rebe, \"the only official Princess of Spain\", hijacks the radio, Playing Romanian and Spanish folk, flamenco pop, soundtracks, originals and many more mysteries. Radio-Rebe, Radio-Ready’s worst nightmare.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rebe/episodes/rebe-10th-march-2026",
         "p": "rebe"
       },
       {
@@ -248,27 +229,19 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-03-11T11:00:00Z",
+        "e": "2026-03-11T13:00:00Z",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
       }
     ],
     "nts2": [
-      {
-        "n": "Day Care w/ DJ Randy Ellis, The Alaia, & Jeff Nelson: Drum and Bass from '93-'06",
-        "s": "2026-03-09T21:00:00Z",
-        "e": "2026-03-09T23:00:00Z",
-        "d": "CQQL Records founders DJ Randy Ellis and The Alaia bring you Day Care, a 2-hour monthly afternoon curriculum of Boogie Funk, Disco, R&B, G-Funk, House, Modern Soul wax, and way way more. Expect to be powdered and pampered by these audio obsessives.",
-        "j": "DJ Randy Ellis, The Alaia, & Jeff Nelson",
-        "u": "https://www.nts.live/api/v2/shows/day-care/episodes/day-care-9th-march-2026",
-        "t": "monthly",
-        "p": "daycare"
-      },
-      {
-        "n": "Hora de la flor w/ LAFLOR",
-        "s": "2026-03-09T23:00:00Z",
-        "e": "2026-03-10T00:00:00Z",
-        "d": "Colombian-Miamian vinyl collector and DJ – LAFLOR presents the sounds of her roots, playing an hour of salsa romántica records.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/laflor-9th-march-2026"
-      },
       {
         "n": "What Means The World 2 U w/ Michael David & Ron Snake",
         "s": "2026-03-10T00:00:00Z",
@@ -374,18 +347,19 @@
         "n": "LUKID",
         "s": "2026-03-10T12:00:00Z",
         "e": "2026-03-10T13:00:00Z",
-        "d": null,
+        "d": "A monthly sonic journey from Lukid a.k.a Luke Blair. Expect a slow-burning, cinematic hour of hip-hop, epic psych, dub and synth soundscapes. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lukid/episodes/lukid-10th-march-2026",
+        "t": "monthly",
         "p": "lukid"
       },
       {
         "n": "Adultz Only",
         "s": "2026-03-10T13:00:00Z",
         "e": "2026-03-10T14:00:00Z",
-        "d": null,
+        "d": "A lovers selection strictly for the adultz, courtesy of Norman Francis - the man behind lovers rock archive The Revival Master.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/adultz-only/episodes/adultz-only-10th-march-2026",
         "p": "adultzonly"
       },
       {
@@ -414,7 +388,7 @@
         "u": null
       },
       {
-        "n": "The Big Happy Show",
+        "n": "The Big Happy Show w/ FREDFADES",
         "s": "2026-03-10T17:00:00Z",
         "e": "2026-03-10T18:00:00Z",
         "d": null,
@@ -507,25 +481,44 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Séance Centre (R)",
+        "s": "2026-03-11T07:00:00Z",
+        "e": "2026-03-11T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Death Is Not The End (R)",
+        "s": "2026-03-11T08:00:00Z",
+        "e": "2026-03-11T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "OREN AMBARCHI (R)",
+        "s": "2026-03-11T10:00:00Z",
+        "e": "2026-03-11T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Eiko Ishibashi",
+        "s": "2026-03-11T11:00:00Z",
+        "e": "2026-03-11T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": " Subtext w/ Preet",
-        "s": "2026-03-09T22:00:00Z",
-        "e": "2026-03-09T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Factory Floor ",
-        "s": "2026-03-09T23:00:00Z",
-        "e": "2026-03-10T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Yung Dave",
         "s": "2026-03-10T00:00:00Z",
@@ -1611,18 +1604,19 @@
         "u": null,
         "t": "monthly",
         "p": "albertmoon"
+      },
+      {
+        "n": " Ovrtic",
+        "s": "2026-03-17T11:00:00Z",
+        "e": "2026-03-17T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ovrtic"
       }
     ],
     "dublab": [
-      {
-        "n": "rerun: Susan Ciani",
-        "s": "2026-03-09T22:00:00Z",
-        "e": "2026-03-10T00:00:00Z",
-        "d": null,
-        "j": "Susan Ciani",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-03-10T00:00:00Z",
@@ -1682,6 +1676,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-10T13:00:00Z",
         "e": "2026-03-10T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-10T15:00:00Z",
+        "e": "2026-03-10T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2207,25 +2210,6 @@
     ],
     "rinse": [
       {
-        "n": "Jossy Mitsu",
-        "s": "2026-03-09T22:00:00Z",
-        "e": "2026-03-09T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "jossymitsu"
-      },
-      {
-        "n": "Nervous Horizon",
-        "s": "2026-03-09T23:00:00Z",
-        "e": "2026-03-10T00:00:00Z",
-        "d": null,
-        "j": "DJ JM",
-        "u": null,
-        "t": "weekly",
-        "p": "nervoushorizon"
-      },
-      {
         "n": "Scuffed Recordings",
         "s": "2026-03-10T00:00:00Z",
         "e": "2026-03-10T01:00:00Z",
@@ -2547,15 +2531,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-09T19:00:00Z",
-        "e": "2026-03-09T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-09T23:00:00Z",
