@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-10T04:01:05.237Z",
+  "updated": "2026-03-10T06:37:54.890Z",
   "stations": {
     "nts1": [
-      {
-        "n": "OHBLIV",
-        "s": "2026-03-09T16:00:00Z",
-        "e": "2026-03-09T17:00:00Z",
-        "d": "Hip-hop and soul-inflected sounds from Richmond's Ohbliv.\nFrom the host: \"Ambient Jazz For The Mind and Spirit\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ohbliv/episodes/ohbliv-9th-march-2026",
-        "p": "ohbliv"
-      },
-      {
-        "n": "ATHENS OF THE NORTH",
-        "s": "2026-03-09T17:00:00Z",
-        "e": "2026-03-09T18:00:00Z",
-        "d": "Edinburgh based party and reissue label present rarities and classics every month.\nFrom the host:\"Jazz Funk Classics and deepfunk rarities all the way this month, Euan Fryer Athens of the North, never safe, always a bit chaotic, that's the way I like it.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/athens-of-the-north/episodes/athens-of-the-north-9th-march-2026",
-        "t": "monthly"
-      },
       {
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-03-09T18:00:00Z",
@@ -117,18 +99,18 @@
         "n": "The Head Zone w/ Ripley Johnson (R)",
         "s": "2026-03-10T06:00:00Z",
         "e": "2026-03-10T07:00:00Z",
-        "d": null,
+        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
         "j": "Ripley Johnson",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/the-head-zone-w-ripley-johnson-9th-may-2018",
         "t": "restream"
       },
       {
         "n": "THE EARLY BIRD SHOW w/ MARTHA SKYE MURPHY",
         "s": "2026-03-10T07:00:00Z",
         "e": "2026-03-10T09:00:00Z",
-        "d": null,
+        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-martha-skye-murphy-10th-march-2026"
       },
       {
         "n": "The NTS Breakfast Show w/ Flo",
@@ -254,28 +236,28 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Carlos René (R)",
+        "s": "2026-03-11T05:00:00Z",
+        "e": "2026-03-11T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "carlos"
+      },
+      {
+        "n": "ONDAS (R)",
+        "s": "2026-03-11T06:00:00Z",
+        "e": "2026-03-11T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "SMERZ",
-        "s": "2026-03-09T16:00:00Z",
-        "e": "2026-03-09T17:00:00Z",
-        "d": "Henriette and Catharina of Smerz take over the NTS airwaves once a month with a selection of classical, folk, ambient, pop and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/smerz/episodes/smerz-9th-march-2026",
-        "t": "monthly",
-        "p": "smerz"
-      },
-      {
-        "n": "CLAIRE ROUSAY",
-        "s": "2026-03-09T17:00:00Z",
-        "e": "2026-03-09T18:00:00Z",
-        "d": "Los Angeles producer & sound artist claire rousay journeys through healing plaintive electronics, quotidian field recordings & minimalist compositions.\nFrom the host: \"an hour of casual piano, human speech, and found sound\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/claire-rousay/episodes/claire-rousay-9th-march-2026",
-        "p": "clairerousay"
-      },
       {
         "n": "AMBIENT ABRACADABRA W/ SOFIE BIRCH",
         "s": "2026-03-09T18:00:00Z",
@@ -378,9 +360,9 @@
         "n": "SHAKSHOUKA W/ CHEB MIMO (R)",
         "s": "2026-03-10T07:00:00Z",
         "e": "2026-03-10T08:00:00Z",
-        "d": null,
+        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.",
         "j": "CHEB MIMO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-3rd-september-2025",
         "t": "restream",
         "p": "chebmimo"
       },
@@ -513,18 +495,17 @@
         "j": "PRMTVO",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "8ULENTINA",
+        "s": "2026-03-11T00:00:00Z",
+        "e": "2026-03-11T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "UWOT",
-        "s": "2026-03-09T16:00:00Z",
-        "e": "2026-03-09T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "uwot"
-      },
       {
         "n": "PADWICK",
         "s": "2026-03-09T17:00:00Z",
@@ -627,6 +608,15 @@
         "j": null,
         "u": null,
         "p": "djmoement"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-10T06:00:00Z",
+        "e": "2026-03-10T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Sparring Sessions",
@@ -1617,14 +1607,6 @@
     ],
     "dublab": [
       {
-        "n": "Middle Pillar Sounds",
-        "s": "2026-03-09T16:00:00Z",
-        "e": "2026-03-09T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Rene Contreras - Viva! Talks",
         "s": "2026-03-09T18:00:00Z",
         "e": "2026-03-09T20:00:00Z",
@@ -1688,6 +1670,15 @@
         "j": null,
         "u": null,
         "p": "danielt"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-10T08:10:00Z",
+        "e": "2026-03-10T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Mike Harding and Bana Haffar - Long Wave",
@@ -2195,27 +2186,19 @@
         "u": null,
         "t": "monthly",
         "p": "jenferrer"
+      },
+      {
+        "n": "Brennan - Unresolved Dependencies",
+        "s": "2026-03-17T06:00:00Z",
+        "e": "2026-03-17T08:00:00Z",
+        "d": null,
+        "j": "Unresolved Dependencies",
+        "u": null,
+        "t": "monthly",
+        "p": "brennan"
       }
     ],
     "rinse": [
-      {
-        "n": "Scratcha",
-        "s": "2026-03-09T15:00:00Z",
-        "e": "2026-03-09T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Talina",
-        "s": "2026-03-09T17:00:00Z",
-        "e": "2026-03-09T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "regular",
-        "p": "talina"
-      },
       {
         "n": "Sharnie",
         "s": "2026-03-09T18:00:00Z",
@@ -2584,23 +2567,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Hey Bony",
-        "s": "2026-03-09T16:00:00Z",
-        "e": "2026-03-09T17:00:00Z",
-        "d": null,
-        "j": "Crustasex & IMA Takevoer",
-        "u": null,
-        "p": "heybony"
-      },
-      {
-        "n": "Missy Da Kunt",
-        "s": "2026-03-09T17:00:00Z",
-        "e": "2026-03-09T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Broodoo Ramses",
         "s": "2026-03-09T18:00:00Z",
