@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-10T16:48:48.467Z",
+  "updated": "2026-03-10T18:37:24.908Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Music For Days Like These w/ John Talabot (R)",
-        "s": "2026-03-10T04:00:00Z",
-        "e": "2026-03-10T05:00:00Z",
-        "d": "Barcelona based producer, DJ and founder of Hivern Discs John Talabot takes over for his monthly show.",
-        "j": "John Talabot",
-        "u": "https://www.nts.live/api/v2/shows/john-talabot/episodes/music-for-days-like-these-w-john-talabot-8th-june-2018",
-        "t": "restream",
-        "p": "johntalabot"
-      },
-      {
-        "n": "Perfect Lives w/ Bruno  & Daniel (R)",
-        "s": "2026-03-10T05:00:00Z",
-        "e": "2026-03-10T06:00:00Z",
-        "d": "Bruno selects an hour of little known punk and post punk. ",
-        "j": "Bruno  & Daniel",
-        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-w-bruno-4-october-2020",
-        "t": "restream",
-        "p": "perfectlives"
-      },
       {
         "n": "The Head Zone w/ Ripley Johnson (R)",
         "s": "2026-03-10T06:00:00Z",
@@ -111,9 +91,9 @@
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
         "s": "2026-03-10T18:00:00Z",
         "e": "2026-03-10T20:00:00Z",
-        "d": null,
+        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
         "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-10th-march-2026",
         "t": "biweekly",
         "p": "channeling"
       },
@@ -121,9 +101,10 @@
         "n": "Trevor Jackson",
         "s": "2026-03-10T20:00:00Z",
         "e": "2026-03-10T22:00:00Z",
-        "d": null,
+        "d": "Audio-visual adventurer Trevor Jackson presents a broad spectrum of brand new experimental music, along with ancient oddities of every perceivable genre. A fortnightly uncompromising journey into the unexpected.\nMusic for sick minds and warm hearts",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/trevorjackson/episodes/trevorjackson-10th-march-2026",
+        "t": "biweekly"
       },
       {
         "n": "PERM POLITICS W/ CHANTAL",
@@ -251,18 +232,27 @@
         "j": null,
         "u": null,
         "p": "wesbaggaley"
+      },
+      {
+        "n": "TIM REAPER",
+        "s": "2026-03-11T19:00:00Z",
+        "e": "2026-03-11T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MARTELO",
+        "s": "2026-03-11T20:00:00Z",
+        "e": "2026-03-11T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "martelo"
       }
     ],
     "nts2": [
-      {
-        "n": "HIGH JAZZ* W/ ILL DUBIO (R)",
-        "s": "2026-03-10T04:00:00Z",
-        "e": "2026-03-10T05:00:00Z",
-        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
-        "j": "ILL DUBIO",
-        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-16th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "In Focus: William Orbit (R)",
         "s": "2026-03-10T05:00:00Z",
@@ -376,17 +366,17 @@
         "n": "Claire Milbrath - Oscars' Scores",
         "s": "2026-03-10T18:00:00Z",
         "e": "2026-03-10T19:00:00Z",
-        "d": null,
+        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-10th-march-2026"
       },
       {
         "n": "JONNY MONS",
         "s": "2026-03-10T19:00:00Z",
         "e": "2026-03-10T20:00:00Z",
-        "d": null,
+        "d": "One hour of music all across the board, naturally, with Jonny Mons.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jonny-mons/episodes/jonny-mons-10th-march-2026",
         "p": "jonnymons"
       },
       {
@@ -414,7 +404,7 @@
         "u": null
       },
       {
-        "n": "Night Shift w/ Diamondstein",
+        "n": "Night Shift w/ Diamondstein & ANOTHERREUR",
         "s": "2026-03-11T01:00:00Z",
         "e": "2026-03-11T03:00:00Z",
         "d": null,
@@ -509,27 +499,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "IKR. IMPRINT",
+        "s": "2026-03-11T15:00:00Z",
+        "e": "2026-03-11T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "FIFTH WORLD W/ IAN KIM JUDD",
+        "s": "2026-03-11T16:00:00Z",
+        "e": "2026-03-11T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "fifthworld"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-10T04:00:00Z",
-        "e": "2026-03-10T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "DJ Moement",
-        "s": "2026-03-10T05:00:00Z",
-        "e": "2026-03-10T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "djmoement"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-03-10T06:00:00Z",
@@ -1431,6 +1420,14 @@
         "p": "jokira"
       },
       {
+        "n": "Alive and Well",
+        "s": "2026-03-16T15:00:00Z",
+        "e": "2026-03-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "Bidl",
         "s": "2026-03-16T16:00:00Z",
         "e": "2026-03-16T17:00:00Z",
@@ -1619,19 +1616,26 @@
         "u": null,
         "t": "monthly",
         "p": "atik"
+      },
+      {
+        "n": "Pressure",
+        "s": "2026-03-17T17:00:00Z",
+        "e": "2026-03-17T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Super Best w/ Mood Change",
+        "s": "2026-03-17T18:00:00Z",
+        "e": "2026-03-17T19:00:00Z",
+        "d": null,
+        "j": "Mood Change",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Aaron Paar - Stomping Grounds",
-        "s": "2026-03-10T04:00:00Z",
-        "e": "2026-03-10T06:00:00Z",
-        "d": null,
-        "j": "Stomping Grounds",
-        "u": null,
-        "t": "biweekly",
-        "p": "aaronpaar"
-      },
       {
         "n": "Daniel T - Crosseyed and Painless",
         "s": "2026-03-10T06:00:00Z",
@@ -2203,18 +2207,19 @@
         "u": null,
         "t": "monthly",
         "p": "bensontaylor"
+      },
+      {
+        "n": "Kohinoorgasm - People's Portal",
+        "s": "2026-03-17T18:00:00Z",
+        "e": "2026-03-17T20:00:00Z",
+        "d": null,
+        "j": "People's Portal",
+        "u": null,
+        "t": "monthly",
+        "p": "kohinoorgasm"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-03-10T03:00:00Z",
-        "e": "2026-03-10T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Cara Crosby",
         "s": "2026-03-10T06:00:00Z",
