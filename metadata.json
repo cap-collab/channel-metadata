@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-11T16:41:29.677Z",
+  "updated": "2026-03-11T18:43:02.380Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Studio One (R)",
-        "s": "2026-03-11T04:00:00Z",
-        "e": "2026-03-11T05:00:00Z",
-        "d": "An hour deep dive into the women who have recorded at the world famous Studio One, featuring Jennifer Lara, Cherry Ann, Rita Marley + more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/studio-one/episodes/women-of-studio-one-30th-september-2020",
-        "t": "restream"
-      },
-      {
-        "n": "Carlos René (R)",
-        "s": "2026-03-11T05:00:00Z",
-        "e": "2026-03-11T06:00:00Z",
-        "d": "Straight from the 45s, a selection of Mexican female garage rock & yeyé recorded in Mexico between 1964 and 1970. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/carlos-rene/episodes/carlos-rene-5th-may-2023",
-        "t": "restream",
-        "p": "carlos"
-      },
       {
         "n": "ONDAS (R)",
         "s": "2026-03-11T06:00:00Z",
@@ -92,18 +73,18 @@
         "n": "WES BAGGALEY",
         "s": "2026-03-11T18:00:00Z",
         "e": "2026-03-11T19:00:00Z",
-        "d": null,
+        "d": "Deep-cut house and techno sessions from vet club selector Wes Baggaley. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/wes-baggaley/episodes/wes-baggaley-11th-march-2026",
         "p": "wesbaggaley"
       },
       {
         "n": "TIM REAPER",
         "s": "2026-03-11T19:00:00Z",
         "e": "2026-03-11T20:00:00Z",
-        "d": null,
+        "d": "Trips through the breakbeat portal with Tim Reaper, one of modern jungle's most vital talents.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tim-reaper/episodes/tim-reaper-11th-march-2026",
         "p": "timreaper"
       },
       {
@@ -228,26 +209,33 @@
         "t": "biweekly"
       },
       {
-        "n": "DANCE MUSIC SHOW W/ BELL TOWERS",
+        "n": "NTS Guide to: Punjabi Rap",
         "s": "2026-03-12T13:00:00Z",
         "e": "2026-03-12T14:00:00Z",
         "d": null,
+        "j": "Punjabi Rap",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "RHYTHM CONNECTION",
+        "s": "2026-03-12T14:00:00Z",
+        "e": "2026-03-12T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "WORK OUT W/ SOFIE K",
+        "s": "2026-03-12T16:00:00Z",
+        "e": "2026-03-12T17:00:00Z",
+        "d": null,
         "j": null,
         "u": null,
-        "p": "belltowers"
+        "p": "sofiek"
       }
     ],
     "nts2": [
-      {
-        "n": "Low Life Loves You w/ Bill Brewster (R)",
-        "s": "2026-03-11T04:00:00Z",
-        "e": "2026-03-11T06:00:00Z",
-        "d": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
-        "j": "Bill Brewster",
-        "u": "https://www.nts.live/api/v2/shows/bill-brewster/episodes/bill-brewster-1st-april-2025",
-        "t": "restream",
-        "p": "billbrewster"
-      },
       {
         "n": "Horsegirl Sounds Radio Hour (R)",
         "s": "2026-03-11T06:00:00Z",
@@ -349,18 +337,19 @@
         "n": "SOPHIE THATCHER w/ Emma Barreto",
         "s": "2026-03-11T18:00:00Z",
         "e": "2026-03-11T19:00:00Z",
-        "d": null,
+        "d": "Chime into a world of noise and melancholia. Ranging from ambient to 70s Italian film scores. Perfect time for a long long walk.\nFrom the host: \"An exploration into mid-century Black operatic sopranos and contraltos.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-11th-march-2026",
         "p": "sophiethatcher"
       },
       {
         "n": "PANORAMA HEAVEN W/ BIANCA LEXIS",
         "s": "2026-03-11T19:00:00Z",
         "e": "2026-03-11T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "LA native Bianca Lexis showcases a monthly, genre-blending hour, exploring the different facets of pop, rock, synth and house music. all in panoramic view, for you.",
+        "j": "BIANCA LEXIS",
+        "u": "https://www.nts.live/api/v2/shows/panorama-heaven/episodes/panorama-heaven-11th-march-2026",
+        "t": "monthly",
         "p": "biancalexis"
       },
       {
@@ -469,6 +458,24 @@
         "e": "2026-03-12T09:00:00Z",
         "d": null,
         "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "NTS GUIDE TO: MODERN ETHIOPIAN ORTHODOX BEGENA (R)",
+        "s": "2026-03-12T09:00:00Z",
+        "e": "2026-03-12T10:01:00Z",
+        "d": null,
+        "j": "MODERN ETHIOPIAN ORTHODOX BEGENA",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "TIM KOH: KOKONUT TRIP (R)",
+        "s": "2026-03-12T10:01:00Z",
+        "e": "2026-03-12T11:00:00Z",
+        "d": null,
+        "j": "KOKONUT TRIP",
         "u": null,
         "t": "restream"
       },
@@ -1606,19 +1613,18 @@
         "u": null,
         "t": "monthly",
         "p": "gilbo"
+      },
+      {
+        "n": "MixRaw",
+        "s": "2026-03-18T17:00:00Z",
+        "e": "2026-03-18T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Echo Park Film Center - Optical Track",
-        "s": "2026-03-11T04:00:00Z",
-        "e": "2026-03-11T06:00:00Z",
-        "d": null,
-        "j": "Optical Track",
-        "u": null,
-        "t": "weekly",
-        "p": "echoparkfilmcenter"
-      },
       {
         "n": "J.TRIPP - DWELL TIME",
         "s": "2026-03-11T06:00:00Z",
@@ -2201,18 +2207,18 @@
         "u": null,
         "t": "monthly",
         "p": "teendaze"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-03-11T03:00:00Z",
-        "e": "2026-03-11T06:00:00Z",
+        "n": "Juan Izguerra – Low Profile",
+        "s": "2026-03-18T18:00:00Z",
+        "e": "2026-03-18T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "juanizguerra"
+      }
+    ],
+    "rinse": [
       {
         "n": "Christine Kakaire",
         "s": "2026-03-11T06:00:00Z",
@@ -2576,9 +2582,9 @@
         "s": "2026-03-11T19:00:00Z",
         "e": "2026-03-11T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "INVITE COFFINTEXTS",
         "u": null,
-        "p": "roni"
+        "p": "coffintexts"
       },
       {
         "n": "Playlist France",
