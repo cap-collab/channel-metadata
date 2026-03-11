@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-11T10:30:30.573Z",
+  "updated": "2026-03-11T12:39:12.325Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PERM POLITICS W/ CHANTAL",
-        "s": "2026-03-10T22:00:00Z",
-        "e": "2026-03-10T23:00:00Z",
-        "d": "Hosted by Chantal Adams, Perm Politics oscillates between noisier textures, smooth futuristic beats and a myriad of rap/hip-hop offshoots.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/chantal/episodes/chantal-10th-march-2026"
-      },
-      {
-        "n": "SURF GANG RADIO W/ SAMBA JEAN-BAPTISTE (R)",
-        "s": "2026-03-10T23:00:00Z",
-        "e": "2026-03-11T00:00:00Z",
-        "d": "A radio show curated by Surf Gang Records. ",
-        "j": "SAMBA JEAN",
-        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-6th-january-2026",
-        "t": "restream"
-      },
       {
         "n": "After dark w/ HELM",
         "s": "2026-03-11T00:00:00Z",
@@ -108,9 +91,11 @@
         "n": "Tropic of Love w/ Mafalda & Pedro Ricardo",
         "s": "2026-03-11T13:00:00Z",
         "e": "2026-03-11T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Vibrant eclecticism from Portuguese selector Mafalda, for two hours every month. ",
+        "j": "Mafalda & Pedro Ricardo",
+        "u": "https://www.nts.live/api/v2/shows/mafalda/episodes/mafalda-11th-march-2026",
+        "t": "monthly",
+        "p": "mafalda"
       },
       {
         "n": "LOUISE CHEN",
@@ -121,6 +106,15 @@
         "u": null,
         "t": "biweekly",
         "p": "louisechen"
+      },
+      {
+        "n": "IN FOCUS: THE BURRELL BROTHERS (R)",
+        "s": "2026-03-11T17:00:00Z",
+        "e": "2026-03-11T18:00:00Z",
+        "d": null,
+        "j": "THE BURRELL BROTHERS",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "WES BAGGALEY",
@@ -254,14 +248,6 @@
     ],
     "nts2": [
       {
-        "n": "Arp - SALON de MUSIQUE",
-        "s": "2026-03-10T22:00:00Z",
-        "e": "2026-03-11T00:00:00Z",
-        "d": "Quarterly transmissions from the New York-based composer/producer Alexis Georgopoulos, exploring the unexpected connections between disparate genres & traditions, from Modern Classical to the club-adjacent, experimental to folk, ambient to spiritual jazz and beyond.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/arp/episodes/arp-salon-de-musique-10th-march-2026"
-      },
-      {
         "n": "8ULENTINA",
         "s": "2026-03-11T00:00:00Z",
         "e": "2026-03-11T01:00:00Z",
@@ -346,18 +332,18 @@
         "n": "ACID MEMORIES W/ ASTRAL VIBES",
         "s": "2026-03-11T12:00:00Z",
         "e": "2026-03-11T13:00:00Z",
-        "d": null,
+        "d": "Rose-tinted hallucinogenic sounds from Astral Vibes' Acid Memories. Illicit dealings in psychedelia of all persuasions. Sit back and enjoy…\nFrom the host: \"This mix is dedicated to vintage synths, cosmic library sounds, and rose-tinted frequencies.\nA slow, sensual orbit through forgotten studio experiments and psychedelic grooves.\nFloating somewhere between the body, memory, and deep space.\nSit back… and enjoy the journey.\nthis is Acid Memories !\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/acid-memories/episodes/acid-memories-11th-march-2026",
         "p": "acidmemories"
       },
       {
         "n": "SHUKAI - Estonian film music 1967–1986",
         "s": "2026-03-11T13:00:00Z",
         "e": "2026-03-11T14:00:00Z",
-        "d": null,
+        "d": "A unique dip into the musical history of Ukraine with archival label Shukai, journeying back to the ‘90s, playing music from documentaries, sci-fi films, obscure cartoons and late-night music programming, curated by Dmytro Nikolaienko, Dmytro Prutkin and Alec Tsapenko.\nFrom the host: \"A journey through Estonian film music (1967–1986) — from orchestral scores and jazz-infused soundtracks to early electronic experiments. Featuring works by Sven Grünberg, Raimo Kangro, Rein Rannap, and others, written for Estonian, Ukrainian, and Polish films, animation, and television.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/shukai/episodes/shukai-11th-march-2026",
         "p": "shukai"
       },
       {
@@ -483,25 +469,28 @@
         "u": null,
         "t": "restream",
         "p": "systemolympia"
+      },
+      {
+        "n": "In Focus: Soo Young Park (R)",
+        "s": "2026-03-12T05:00:00Z",
+        "e": "2026-03-12T06:00:00Z",
+        "d": null,
+        "j": "Soo Young Park",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Awe w/ Laurel Halo (R)",
+        "s": "2026-03-12T06:00:00Z",
+        "e": "2026-03-12T07:00:00Z",
+        "d": null,
+        "j": "Laurel Halo",
+        "u": null,
+        "t": "restream",
+        "p": "laurelhalo"
       }
     ],
     "subtle": [
-      {
-        "n": "The Wheel Up Show w/ Tripta",
-        "s": "2026-03-10T22:00:00Z",
-        "e": "2026-03-10T23:00:00Z",
-        "d": "Tripta is a Toronto based producer/DJ focusing on the darker sounds of Grime. Also blending elements of Drill, Dubstep and even Jungle all together for a unique sound you won't hear anywhere else. Signed to Slimzee's 'Slimzo's Recordings' and ‘Rotpot Records’.",
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Jonny Z",
-        "s": "2026-03-10T23:00:00Z",
-        "e": "2026-03-11T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Stereopants",
         "s": "2026-03-11T00:00:00Z",
@@ -1594,18 +1583,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-10T22:00:00Z",
-        "e": "2026-03-11T00:00:00Z",
+        "n": "Stroke of Sound by Tia",
+        "s": "2026-03-18T12:00:00Z",
+        "e": "2026-03-18T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "tia"
+      }
+    ],
+    "dublab": [
       {
         "n": "Hoseh - Version Sounds",
         "s": "2026-03-11T00:00:00Z",
@@ -1665,6 +1655,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-11T12:00:00Z",
         "e": "2026-03-11T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-11T14:00:00Z",
+        "e": "2026-03-11T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2202,24 +2201,6 @@
     ],
     "rinse": [
       {
-        "n": "Y U QT",
-        "s": "2026-03-10T22:00:00Z",
-        "e": "2026-03-10T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "yuqt"
-      },
-      {
-        "n": "Jay Carder",
-        "s": "2026-03-10T23:00:00Z",
-        "e": "2026-03-11T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "jaycarder"
-      },
-      {
         "n": "Earful of Wax",
         "s": "2026-03-11T00:00:00Z",
         "e": "2026-03-11T01:00:00Z",
@@ -2357,13 +2338,23 @@
         "p": "mjk"
       },
       {
-        "n": "Mall Grab",
+        "n": "Mall Grab with Skin On Skin",
         "s": "2026-03-11T20:00:00Z",
+        "e": "2026-03-11T22:00:00Z",
+        "d": null,
+        "j": "From The Vault (2020)",
+        "u": null,
+        "p": "mallgrab"
+      },
+      {
+        "n": "Studio Barnhus",
+        "s": "2026-03-11T22:00:00Z",
         "e": "2026-03-11T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "mallgrab"
+        "t": "biweekly",
+        "p": "studiobarnhus"
       },
       {
         "n": "Fracture",
@@ -2543,15 +2534,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-10T20:00:00Z",
-        "e": "2026-03-10T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-10T23:00:00Z",
