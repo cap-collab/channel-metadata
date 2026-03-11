@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-11T08:30:53.600Z",
+  "updated": "2026-03-11T10:30:30.573Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Trevor Jackson",
-        "s": "2026-03-10T20:00:00Z",
-        "e": "2026-03-10T22:00:00Z",
-        "d": "Audio-visual adventurer Trevor Jackson presents a broad spectrum of brand new experimental music, along with ancient oddities of every perceivable genre. A fortnightly uncompromising journey into the unexpected.\nMusic for sick minds and warm hearts",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/trevorjackson/episodes/trevorjackson-10th-march-2026",
-        "t": "biweekly"
-      },
       {
         "n": "PERM POLITICS W/ CHANTAL",
         "s": "2026-03-10T22:00:00Z",
@@ -107,9 +98,9 @@
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-03-11T11:00:00Z",
         "e": "2026-03-11T13:00:00Z",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-11th-march-2026",
         "t": "weekly",
         "p": "shyone"
       },
@@ -250,17 +241,18 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-03-12T11:00:00Z",
+        "e": "2026-03-12T13:00:00Z",
+        "d": null,
+        "j": "BABYSCHÖN",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "NTS Guide to: Golden Age of Malian Music - 1970s",
-        "s": "2026-03-10T20:00:00Z",
-        "e": "2026-03-10T22:00:00Z",
-        "d": "Selections from the \"golden age\" of Malian music from the late 1960s into the early 1980s. This was the era following Mali's independence in 1960s. President Modibo Keïta, eager to make music a key part of a newly independent national spirit, funded and encouraged the forming of musical communities and orchestras across the country. Many of these groups fused the generations-old griot story telling tradition with modern instrumentation. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-golden-age-of-malian-music---1970s-10th-march-2026"
-      },
       {
         "n": "Arp - SALON de MUSIQUE",
         "s": "2026-03-10T22:00:00Z",
@@ -345,9 +337,9 @@
         "n": "Eiko Ishibashi",
         "s": "2026-03-11T11:00:00Z",
         "e": "2026-03-11T12:00:00Z",
-        "d": null,
+        "d": "Regular transmissions from the Japanese songwriter & composer Eiko Ishibashi, sharing favourites traversing folk, jazz, avant-garde composition and more.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/eiko-ishibashi/episodes/eiko-ishibashi-11th-march-2026",
         "p": "eikoishibashi"
       },
       {
@@ -481,27 +473,19 @@
         "j": null,
         "u": null,
         "p": "clubaerobics"
+      },
+      {
+        "n": "System Olympia (R)",
+        "s": "2026-03-12T04:00:00Z",
+        "e": "2026-03-12T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "systemolympia"
       }
     ],
     "subtle": [
-      {
-        "n": "Rodney",
-        "s": "2026-03-10T20:00:00Z",
-        "e": "2026-03-10T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "rodney"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-10T21:00:00Z",
-        "e": "2026-03-10T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "The Wheel Up Show w/ Tripta",
         "s": "2026-03-10T22:00:00Z",
@@ -1601,18 +1585,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Sonrisita – Butterfly Beat",
-        "s": "2026-03-10T20:00:00Z",
-        "e": "2026-03-10T22:00:00Z",
+        "n": "TSZ INVITES FITS ME FUNNY",
+        "s": "2026-03-18T09:00:00Z",
+        "e": "2026-03-18T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "sonrisita"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-10T22:00:00Z",
@@ -1672,6 +1656,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-11T10:00:00Z",
         "e": "2026-03-11T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-11T12:00:00Z",
+        "e": "2026-03-11T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2208,15 +2201,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Silva Bumpa",
-        "s": "2026-03-10T20:00:00Z",
-        "e": "2026-03-10T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "silvabumpa"
-      },
       {
         "n": "Y U QT",
         "s": "2026-03-10T22:00:00Z",
