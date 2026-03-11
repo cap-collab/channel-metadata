@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-11T20:26:19.852Z",
+  "updated": "2026-03-11T22:19:48.970Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE & Theadora",
-        "s": "2026-03-11T07:00:00Z",
-        "e": "2026-03-11T09:00:00Z",
-        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-11th-march-2026"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-03-11T09:00:00Z",
@@ -102,18 +94,19 @@
         "n": "NKISI",
         "s": "2026-03-11T22:00:00Z",
         "e": "2026-03-11T23:00:00Z",
-        "d": null,
+        "d": "Nkisi a.k.a Melika Ngombe Kolongo heads up a monthly late slot to rattle through dozens of tracks at breakneck speed, her mixes punctuated by African club beats and tinged by the jagged edges of gabber.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nkisi/episodes/nkisi-11th-march-2026",
+        "t": "monthly",
         "p": "nkisi"
       },
       {
         "n": "LORAINE JAMES (R)",
         "s": "2026-03-11T23:00:00Z",
         "e": "2026-03-12T00:00:00Z",
-        "d": null,
+        "d": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/loraine-james/episodes/loraine-james-9th-april-2025",
         "t": "restream",
         "p": "lorainejames"
       },
@@ -242,18 +235,25 @@
         "j": null,
         "u": null,
         "p": "djlag"
+      },
+      {
+        "n": "Low Jack",
+        "s": "2026-03-12T20:00:00Z",
+        "e": "2026-03-12T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DRUM POETRY w/ Equinox & Dev/Null",
+        "s": "2026-03-12T21:00:00Z",
+        "e": "2026-03-12T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Death Is Not The End (R)",
-        "s": "2026-03-11T08:00:00Z",
-        "e": "2026-03-11T10:00:00Z",
-        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-16th-april-2023",
-        "t": "restream"
-      },
       {
         "n": "OREN AMBARCHI (R)",
         "s": "2026-03-11T10:00:00Z",
@@ -367,17 +367,17 @@
         "n": "Beyond The Clouds w/ Nevena Jeremic",
         "s": "2026-03-11T22:00:00Z",
         "e": "2026-03-11T23:00:00Z",
-        "d": null,
+        "d": "Slowed Down, sun kissed journeys through dub, synth, cosmic & balearic beats. Brought to you from LA each month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/masha/episodes/masha-11th-march-2026"
       },
       {
         "n": "In Focus: Blonde Redhead (R)",
         "s": "2026-03-11T23:00:00Z",
         "e": "2026-03-12T01:00:00Z",
-        "d": null,
+        "d": "Formed in the febrile community of NYC's 90s underground scene, Blonde Redhead – comprised of Kazu Makino and twin brothers Amedeo & Simone Pace – are the masters of indie rock atmospherics. From their early noise rock and no wave inspired sounds, they progressed into cinematic and lushly orchestrated leftfield pop, with Makino's ethereal vocals as the one constant. Compiled and mixed by Sophie Nicole Ellison.",
         "j": "Blonde Redhead",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-blonde-redhead-13th-february-2026",
         "t": "restream"
       },
       {
@@ -504,26 +504,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-03-11T04:00:00Z",
-        "e": "2026-03-11T09:00:00Z",
+        "n": "NOT WAVING",
+        "s": "2026-03-12T16:00:00Z",
+        "e": "2026-03-12T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "p": "notwaving"
       },
       {
-        "n": "AR1AH ",
-        "s": "2026-03-11T09:00:00Z",
-        "e": "2026-03-11T10:00:00Z",
+        "n": "Maria BC",
+        "s": "2026-03-12T17:00:00Z",
+        "e": "2026-03-12T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "DAT_URA w/ KOSO",
         "s": "2026-03-11T10:00:00Z",
@@ -1641,18 +1641,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-11T08:00:00Z",
-        "e": "2026-03-11T10:00:00Z",
+        "n": "Mr Beatnick",
+        "s": "2026-03-18T22:00:00Z",
+        "e": "2026-03-18T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "mrbeatnick"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-11T10:00:00Z",
@@ -2237,18 +2238,18 @@
         "u": null,
         "t": "monthly",
         "p": "heidilawden"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-03-11T07:00:00Z",
-        "e": "2026-03-11T09:00:00Z",
+        "n": "Ashraf – (very rare)",
+        "s": "2026-03-18T22:00:00Z",
+        "e": "2026-03-19T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "Esk",
         "s": "2026-03-11T09:00:00Z",
