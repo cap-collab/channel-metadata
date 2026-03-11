@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-11T18:43:02.380Z",
+  "updated": "2026-03-11T20:26:19.852Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ONDAS (R)",
-        "s": "2026-03-11T06:00:00Z",
-        "e": "2026-03-11T07:00:00Z",
-        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-29th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE & Theadora",
         "s": "2026-03-11T07:00:00Z",
@@ -91,9 +82,9 @@
         "n": "MARTELO",
         "s": "2026-03-11T20:00:00Z",
         "e": "2026-03-11T21:00:00Z",
-        "d": null,
+        "d": "Record maker, player and mixer Martelo - not Martello - joins the musical dots with sonic heat from across the globe. Taking us to hip-hop, RnB, electronica and elsewhere, Martelo keeps it tight and keeps the heat: non-stop classics. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/martelo/episodes/martelo-11th-march-2026",
         "t": "biweekly",
         "p": "martelo"
       },
@@ -101,9 +92,10 @@
         "n": "HOOVERSOUND W/ SHERELLE & NAINA",
         "s": "2026-03-11T21:00:00Z",
         "e": "2026-03-11T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound.",
+        "j": "SHERELLE & NAINA",
+        "u": "https://www.nts.live/api/v2/shows/hooversound/episodes/hooversound-11th-march-2026",
+        "t": "monthly",
         "p": "hooversound"
       },
       {
@@ -233,27 +225,26 @@
         "j": null,
         "u": null,
         "p": "sofiek"
+      },
+      {
+        "n": "Chicken Foot Soup w/ Goya Gumbani and Dom P",
+        "s": "2026-03-12T17:00:00Z",
+        "e": "2026-03-12T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DJ LAG",
+        "s": "2026-03-12T19:00:00Z",
+        "e": "2026-03-12T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "djlag"
       }
     ],
     "nts2": [
-      {
-        "n": "Horsegirl Sounds Radio Hour (R)",
-        "s": "2026-03-11T06:00:00Z",
-        "e": "2026-03-11T07:00:00Z",
-        "d": "Horsegirl Sounds Radio Hour is a long running playlist curated by Penelope, Gigi, and Nora. Now they bring their monthly selections to the NTS airwaves.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/horsegirl/episodes/horsegirl-5th-february-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Séance Centre (R)",
-        "s": "2026-03-11T07:00:00Z",
-        "e": "2026-03-11T08:00:00Z",
-        "d": "Canadian record label, publisher, and distributors Séance Centre conjure timeless music from the past, present, and future. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/seance-centre/episodes/seance-centre-18th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "Death Is Not The End (R)",
         "s": "2026-03-11T08:00:00Z",
@@ -356,18 +347,20 @@
         "n": "HEAVEN AND EARTH MAGIC W/ Barbarelle",
         "s": "2026-03-11T20:00:00Z",
         "e": "2026-03-11T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Exploring inner and outer worlds, cosmic and pastoral sounds, and the intersection between reality and dreams once a month with Jocelyn Romo's mix of international and private press folk, instrumental guitar, dream country, ambient, new age, kosmiche, psych and beyond\nFrom the host: \"Barbarelle is an artist, DJ, curator, and creative director from Buenos Aires. Her debut ambient album Celesta was released on Hidden Harmony in 2025. She founded ATLAS, a platform for deep listening through events, listening sessions, and a radio show on Dublab.\"",
+        "j": "Barbarelle",
+        "u": "https://www.nts.live/api/v2/shows/jocelyn-romo/episodes/jocelyn-romo-11th-march-2026",
+        "t": "monthly",
         "p": "barbarelle"
       },
       {
         "n": "Luke Mele - DUB SPECIAL",
         "s": "2026-03-11T21:00:00Z",
         "e": "2026-03-11T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Soft-touch home listening selections live from LA every month with Luke Mele. Traversing ambient, jazz, guitar tones and more. ",
+        "j": "DUB SPECIAL",
+        "u": "https://www.nts.live/api/v2/shows/luke-mele/episodes/luke-mele-11th-march-2026",
+        "t": "monthly",
         "p": "lukemele"
       },
       {
@@ -491,6 +484,23 @@
         "n": "On the Road w/ Adelina S - Gris-gris tour pt. 1",
         "s": "2026-03-12T12:00:00Z",
         "e": "2026-03-12T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Lloyd 'Musclehead' Saxon",
+        "s": "2026-03-12T13:00:00Z",
+        "e": "2026-03-12T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "lloyd"
+      },
+      {
+        "n": "MiNaYo w/ Ruth Tafébé",
+        "s": "2026-03-12T14:00:00Z",
+        "e": "2026-03-12T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1622,17 +1632,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sumgii",
+        "s": "2026-03-18T20:00:00Z",
+        "e": "2026-03-18T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "J.TRIPP - DWELL TIME",
-        "s": "2026-03-11T06:00:00Z",
-        "e": "2026-03-11T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-03-11T08:00:00Z",
@@ -2216,17 +2227,19 @@
         "j": null,
         "u": null,
         "p": "juanizguerra"
+      },
+      {
+        "n": "Heidi Lawden – Magic Roundabout",
+        "s": "2026-03-18T20:00:00Z",
+        "e": "2026-03-18T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "heidilawden"
       }
     ],
     "rinse": [
-      {
-        "n": "Christine Kakaire",
-        "s": "2026-03-11T06:00:00Z",
-        "e": "2026-03-11T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Playlist",
         "s": "2026-03-11T07:00:00Z",
@@ -2429,7 +2442,7 @@
         "s": "2026-03-12T12:00:00Z",
         "e": "2026-03-12T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Jail Time Records",
         "u": null,
         "p": "elleclark"
       },
@@ -2438,7 +2451,7 @@
         "s": "2026-03-12T13:00:00Z",
         "e": "2026-03-12T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "New music + 25 min Timbaland mix",
         "u": null,
         "t": "weekly",
         "p": "skvibemaker"
@@ -2508,24 +2521,15 @@
         "p": "jacquesgreene"
       },
       {
-        "n": "YETI OUT",
+        "n": "YETI OUT with TOM YETI",
         "s": "2026-03-12T23:00:00Z",
         "e": "2026-03-13T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Klymax Discotheque, Bali",
         "u": null
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-10T23:00:00Z",
-        "e": "2026-03-11T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-11T08:00:00Z",
