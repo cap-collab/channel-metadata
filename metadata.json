@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-12T18:41:04.433Z",
+  "updated": "2026-03-12T20:25:35.631Z",
   "stations": {
     "nts1": [
-      {
-        "n": "KRANKY (R)",
-        "s": "2026-03-12T06:00:00Z",
-        "e": "2026-03-12T07:00:00Z",
-        "d": "The inimitable Kranky Ltd, live from LA once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kranky/episodes/kranky-8th-april-2020",
-        "t": "restream",
-        "p": "kranky"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ PAM & Belec",
         "s": "2026-03-12T07:00:00Z",
@@ -89,17 +79,18 @@
         "n": "Low Jack",
         "s": "2026-03-12T20:00:00Z",
         "e": "2026-03-12T21:00:00Z",
-        "d": null,
+        "d": "Weirdo beatmaking & low-slung club rhythms in an intense session from French producer Low Jack as he returns to the dancefloor with new release “Market”.  ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/low-jack-12th-march-2026"
       },
       {
         "n": "DRUM POETRY w/ Equinox & Dev/Null",
         "s": "2026-03-12T21:00:00Z",
         "e": "2026-03-12T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Drum & bass and jungle every month with Equinox & Dev/Null.\nFrom the host: \"Drum Poetry is back with an hour of freshness from Equinox and Dev/Null\"",
+        "j": "Equinox & Dev/Null",
+        "u": "https://www.nts.live/api/v2/shows/dj-persuasion/episodes/dj-persuasion-12th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "MOESHA13",
@@ -223,28 +214,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "BASHMENT SOUND w/ Shadow Fyah - Rise & Toast (Live in Miami)",
+        "s": "2026-03-13T17:00:00Z",
+        "e": "2026-03-13T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "bashmentsound"
+      },
+      {
+        "n": "MARTHA",
+        "s": "2026-03-13T18:00:00Z",
+        "e": "2026-03-13T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "martha"
       }
     ],
     "nts2": [
-      {
-        "n": "Awe w/ Laurel Halo (R)",
-        "s": "2026-03-12T06:00:00Z",
-        "e": "2026-03-12T07:00:00Z",
-        "d": "Awe is something you feel when confronted with forces beyond your control: nature, the cosmos, chaos, human error, hallucinations.",
-        "j": "Laurel Halo",
-        "u": "https://www.nts.live/api/v2/shows/laurel-halo/episodes/laurel-halo-21st-may-2024",
-        "t": "restream",
-        "p": "laurelhalo"
-      },
-      {
-        "n": "ANADOL (R)",
-        "s": "2026-03-12T07:00:00Z",
-        "e": "2026-03-12T08:00:00Z",
-        "d": "Anadol's selection for NTS. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/anadol/episodes/anadol-2nd-january-2025",
-        "t": "restream"
-      },
       {
         "n": "HOUSE CALL (R)",
         "s": "2026-03-12T08:00:00Z",
@@ -356,17 +346,18 @@
         "n": "SEMATARY - MOUNDRICH RADIO 2",
         "s": "2026-03-12T20:00:00Z",
         "e": "2026-03-12T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Sematary (fka Grave Man), a key figure in cult new wave drill and horrorcore collective Haunted Mound presents his monthly NTS Show.",
+        "j": "MOUNDRICH RADIO 2",
+        "u": "https://www.nts.live/api/v2/shows/sematary/episodes/sematary-12th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "Underground & Black w/ Ash Lauryn (R)",
         "s": "2026-03-12T21:00:00Z",
         "e": "2026-03-12T22:00:00Z",
-        "d": null,
+        "d": "Self proclaimed “Underground and Black”, Detroit native Ash Lauryn leads her musical charge with a candid love for the historical roots of dance music, and the power of reclamation in modern day America. ",
         "j": "Ash Lauryn",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ash-lauryn/episodes/ash-lauryn-8th-august-2024",
         "t": "restream",
         "p": "ash"
       },
@@ -388,7 +379,7 @@
         "t": "restream"
       },
       {
-        "n": "NO BELLS",
+        "n": "No Bells w/ Mano Sundaresan",
         "s": "2026-03-13T00:00:00Z",
         "e": "2026-03-13T01:00:00Z",
         "d": null,
@@ -493,18 +484,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "POSH ISOLATION'S COPENHAGEN REPORT",
+        "s": "2026-03-13T14:00:00Z",
+        "e": "2026-03-13T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "THE ULINE CATALOG",
+        "s": "2026-03-13T15:00:00Z",
+        "e": "2026-03-13T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-12T05:00:00Z",
-        "e": "2026-03-12T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Making Hay w/ natdav",
         "s": "2026-03-12T08:00:00Z",
@@ -1647,18 +1645,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Laura Shumate - Indoor Cats",
-        "s": "2026-03-12T06:00:00Z",
-        "e": "2026-03-12T08:00:00Z",
+        "n": "Pull up w/ Niceup",
+        "s": "2026-03-19T19:00:00Z",
+        "e": "2026-03-19T20:00:00Z",
+        "d": "With a monthly show on Subtle, Niceup is a London based DJ with a unique style. Pushing UKG, Breakbeat, Bass, Electro and 140. Weaving through genres showcasing new releases and older cuts.\r\n",
+        "j": "Niceup",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "SCALADE",
+        "s": "2026-03-19T20:00:00Z",
+        "e": "2026-03-19T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "laurashumate"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-12T08:00:00Z",
@@ -2247,18 +2254,19 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Jimmy Tamborello - Dying Songs",
+        "s": "2026-03-19T20:00:00Z",
+        "e": "2026-03-19T22:00:00Z",
+        "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
+        "j": "Dying Songs",
+        "u": null,
+        "t": "weekly",
+        "p": "jimmytamborello"
       }
     ],
     "rinse": [
-      {
-        "n": "HABITAT",
-        "s": "2026-03-12T06:00:00Z",
-        "e": "2026-03-12T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "habitat"
-      },
       {
         "n": "Playlist",
         "s": "2026-03-12T07:00:00Z",
@@ -2358,7 +2366,7 @@
         "s": "2026-03-12T20:00:00Z",
         "e": "2026-03-12T22:00:00Z",
         "d": null,
-        "j": "NXN",
+        "j": "Sian Owen",
         "u": null,
         "p": "kilimanjaro"
       },
@@ -2508,15 +2516,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-11T23:00:00Z",
-        "e": "2026-03-12T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-12T08:00:00Z",
