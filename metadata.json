@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-12T14:42:02.004Z",
+  "updated": "2026-03-12T16:51:49.163Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Lunacy of Flowers w/ Dave ID (R)",
-        "s": "2026-03-12T02:00:00Z",
-        "e": "2026-03-12T03:00:00Z",
-        "d": "Dave I.D takes us through industrial, and techno – melodic and dark. New and classic goth, his selection sets him apart from most, branching decades and scenes.",
-        "j": "Dave ID",
-        "u": "https://www.nts.live/api/v2/shows/daveid/episodes/daveid-16th-april-2024",
-        "t": "restream"
-      },
       {
         "n": "DON'T TRIP W/ MARGARITA (R)",
         "s": "2026-03-12T03:00:00Z",
@@ -100,9 +91,9 @@
         "n": "Chicken Foot Soup w/ Goya Gumbani and Dom P",
         "s": "2026-03-12T17:00:00Z",
         "e": "2026-03-12T19:00:00Z",
-        "d": null,
+        "d": "London-based jazz artist Goya Gumbani stops by to share heartfelt picks from his collection.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/goya-gumbani/episodes/goya-gumbani-12th-march-2026"
       },
       {
         "n": "DJ LAG",
@@ -234,28 +225,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Cold Pizza w/ Stud1nt (R)",
-        "s": "2026-03-12T02:00:00Z",
-        "e": "2026-03-12T03:00:00Z",
-        "d": "for you and me",
-        "j": "Stud1nt",
-        "u": "https://www.nts.live/api/v2/shows/cold-pizza/episodes/cold-pizza-18th-december-2025",
-        "t": "restream",
-        "p": "coldpizza"
       },
       {
-        "n": "Club Aerobics w/ Bianca Oblivion & AOBEATS",
-        "s": "2026-03-12T03:00:00Z",
-        "e": "2026-03-12T04:00:00Z",
+        "n": "ADONIS w/ Marie Malarie",
+        "s": "2026-03-13T15:00:00Z",
+        "e": "2026-03-13T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "clubaerobics"
-      },
+        "p": "adonis"
+      }
+    ],
+    "nts2": [
       {
         "n": "System Olympia (R)",
         "s": "2026-03-12T04:00:00Z",
@@ -369,18 +350,19 @@
         "n": "NOT WAVING",
         "s": "2026-03-12T16:00:00Z",
         "e": "2026-03-12T17:00:00Z",
-        "d": null,
+        "d": "Alessio Natalizia is Not Waving. Take the plunge with his monthly hour of fucked-up left techno, leftfield electronics, brain-twisting oddball pop and post-punk, dub offshoots and other diversions. \necstaticrecordings.com",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/not-waving/episodes/not-waving-12th-march-2026",
+        "t": "monthly",
         "p": "notwaving"
       },
       {
         "n": "Maria BC",
         "s": "2026-03-12T17:00:00Z",
         "e": "2026-03-12T18:00:00Z",
-        "d": null,
+        "d": "Oakland songwriter Maria BC selects an hour of tracks serving as inspiration for their new LP “Marathon”, featuring lo-fi pop, folk, ambient and more. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/maria-bc-12th-march-2026"
       },
       {
         "n": "United In Flames w/ Malibu",
@@ -506,26 +488,27 @@
         "j": "Yawning Portal",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "VIBRATIONS FOR A BETTER WORLD W/ AOKI TAKAMASA (R)",
+        "s": "2026-03-13T09:00:00Z",
+        "e": "2026-03-13T11:00:00Z",
+        "d": null,
+        "j": "AOKI TAKAMASA",
+        "u": null,
+        "t": "restream",
+        "p": "aokitakamasa"
+      },
+      {
+        "n": "In Focus: Friendzone",
+        "s": "2026-03-13T11:00:00Z",
+        "e": "2026-03-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "The Dubversified Show",
-        "s": "2026-03-12T01:00:00Z",
-        "e": "2026-03-12T03:00:00Z",
-        "d": "Dubversified showcases Canadian West Coast DJ talent specializing in Bass Music. Hosted by Mirage, founder of Dubversified Culture, a community-led organization focusing on music, art, and events. Mirage, originally from Québec, blends house and hip-hop since 2010, now exploring 140bpm and Deep D&B.",
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "rowthedecks",
-        "s": "2026-03-12T03:00:00Z",
-        "e": "2026-03-12T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "rowthedecks"
-      },
       {
         "n": "kikitza",
         "s": "2026-03-12T04:00:00Z",
@@ -617,6 +600,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-12T17:00:00Z",
+        "e": "2026-03-12T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Say Less",
@@ -1649,17 +1641,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Aaliana",
+        "s": "2026-03-19T15:00:00Z",
+        "e": "2026-03-19T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Shana Sarret – guest session",
-        "s": "2026-03-12T02:00:00Z",
-        "e": "2026-03-12T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Rusty Santos - Microworlds",
         "s": "2026-03-12T04:00:00Z",
@@ -2257,19 +2250,18 @@
         "u": null,
         "t": "monthly",
         "p": "richardchartier"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "riria",
-        "s": "2026-03-12T02:00:00Z",
-        "e": "2026-03-12T03:00:00Z",
+        "n": "LARAAJI and OUT THERE",
+        "s": "2026-03-19T16:30:00Z",
+        "e": "2026-03-19T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "regular",
-        "p": "riria"
-      },
+        "t": "weekly"
+      }
+    ],
+    "rinse": [
       {
         "n": "Electronic Playlist",
         "s": "2026-03-12T03:00:00Z",
