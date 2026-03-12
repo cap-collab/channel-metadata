@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-12T08:32:44.838Z",
+  "updated": "2026-03-12T10:31:02.139Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MARTELO",
-        "s": "2026-03-11T20:00:00Z",
-        "e": "2026-03-11T21:00:00Z",
-        "d": "Record maker, player and mixer Martelo - not Martello - joins the musical dots with sonic heat from across the globe. Taking us to hip-hop, RnB, electronica and elsewhere, Martelo keeps it tight and keeps the heat: non-stop classics. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martelo/episodes/martelo-11th-march-2026",
-        "t": "biweekly",
-        "p": "martelo"
-      },
-      {
-        "n": "HOOVERSOUND W/ SHERELLE & NAINA",
-        "s": "2026-03-11T21:00:00Z",
-        "e": "2026-03-11T22:00:00Z",
-        "d": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound.",
-        "j": "SHERELLE & NAINA",
-        "u": "https://www.nts.live/api/v2/shows/hooversound/episodes/hooversound-11th-march-2026",
-        "t": "monthly",
-        "p": "hooversound"
-      },
       {
         "n": "NKISI",
         "s": "2026-03-11T22:00:00Z",
@@ -120,9 +100,9 @@
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-03-12T11:00:00Z",
         "e": "2026-03-12T13:00:00Z",
-        "d": null,
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
         "j": "BABYSCHÖN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-12th-march-2026",
         "t": "biweekly"
       },
       {
@@ -218,6 +198,15 @@
         "u": null
       },
       {
+        "n": "ONY (R)",
+        "s": "2026-03-13T02:00:00Z",
+        "e": "2026-03-13T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "OMICHIVE’S BOOKSHELF (R)",
         "s": "2026-03-13T03:00:00Z",
         "e": "2026-03-13T04:00:00Z",
@@ -257,26 +246,6 @@
       }
     ],
     "nts2": [
-      {
-        "n": "HEAVEN AND EARTH MAGIC W/ Barbarelle",
-        "s": "2026-03-11T20:00:00Z",
-        "e": "2026-03-11T21:00:00Z",
-        "d": "Exploring inner and outer worlds, cosmic and pastoral sounds, and the intersection between reality and dreams once a month with Jocelyn Romo's mix of international and private press folk, instrumental guitar, dream country, ambient, new age, kosmiche, psych and beyond\nFrom the host: \"Barbarelle is an artist, DJ, curator, and creative director from Buenos Aires. Her debut ambient album Celesta was released on Hidden Harmony in 2025. She founded ATLAS, a platform for deep listening through events, listening sessions, and a radio show on Dublab.\"",
-        "j": "Barbarelle",
-        "u": "https://www.nts.live/api/v2/shows/jocelyn-romo/episodes/jocelyn-romo-11th-march-2026",
-        "t": "monthly",
-        "p": "barbarelle"
-      },
-      {
-        "n": "Luke Mele - DUB SPECIAL",
-        "s": "2026-03-11T21:00:00Z",
-        "e": "2026-03-11T22:00:00Z",
-        "d": "Soft-touch home listening selections live from LA every month with Luke Mele. Traversing ambient, jazz, guitar tones and more. ",
-        "j": "DUB SPECIAL",
-        "u": "https://www.nts.live/api/v2/shows/luke-mele/episodes/luke-mele-11th-march-2026",
-        "t": "monthly",
-        "p": "lukemele"
-      },
       {
         "n": "Beyond The Clouds w/ Nevena Jeremic",
         "s": "2026-03-11T22:00:00Z",
@@ -382,18 +351,18 @@
         "n": "TIM KOH: KOKONUT TRIP (R)",
         "s": "2026-03-12T10:01:00Z",
         "e": "2026-03-12T11:00:00Z",
-        "d": null,
+        "d": "Take a Kokonut Trip with Tim Koh, playing vintage pop, kaleidoscopic rock & folk, and whatever else he feels.",
         "j": "KOKONUT TRIP",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tim-koh/episodes/tim-koh-10th-january-2024",
         "t": "restream"
       },
       {
         "n": "June Chikuma",
         "s": "2026-03-12T11:00:00Z",
         "e": "2026-03-12T12:00:00Z",
-        "d": null,
+        "d": "Japanese musician and video game composer June Chikuma, known for her work on the Bomberman series, plays selections from her wide and diverse musical tastes in regular transmissions. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/june-chikuma/episodes/june-chikuma-12th-march-2026",
         "p": "junechikuma"
       },
       {
@@ -420,6 +389,16 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE (R)",
+        "s": "2026-03-12T15:00:00Z",
+        "e": "2026-03-12T16:00:00Z",
+        "d": null,
+        "j": "TEMI KOGBE",
+        "u": null,
+        "t": "restream",
+        "p": "temikogbe"
       },
       {
         "n": "NOT WAVING",
@@ -516,18 +495,27 @@
         "j": null,
         "u": null,
         "p": "rapvacation"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Hazel",
-        "s": "2026-03-11T20:00:00Z",
-        "e": "2026-03-11T21:00:00Z",
+        "n": "FIXED ABODE (R)",
+        "s": "2026-03-13T04:00:00Z",
+        "e": "2026-03-13T05:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "hazel"
+        "t": "restream"
       },
+      {
+        "n": "THEY ARE GUTTING A BODY OF WATER (R)",
+        "s": "2026-03-13T05:00:00Z",
+        "e": "2026-03-13T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Marauder & Meg",
         "s": "2026-03-11T21:00:00Z",
@@ -611,6 +599,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-12T11:00:00Z",
+        "e": "2026-03-12T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Con Artist",
@@ -1628,18 +1625,28 @@
         "u": null,
         "t": "monthly",
         "p": "psychogeography"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Jeff Weiss - POW Radio",
-        "s": "2026-03-11T20:00:00Z",
-        "e": "2026-03-11T22:00:00Z",
+        "n": "source",
+        "s": "2026-03-19T09:00:00Z",
+        "e": "2026-03-19T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "jeffweiss"
+        "t": "monthly",
+        "p": "source"
       },
+      {
+        "n": "In The Rotation w/ Su",
+        "s": "2026-03-19T10:00:00Z",
+        "e": "2026-03-19T11:00:00Z",
+        "d": null,
+        "j": "Su",
+        "u": null,
+        "t": "biweekly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Danny Holloway - Heads Up",
         "s": "2026-03-11T22:00:00Z",
@@ -1697,6 +1704,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-12T10:00:00Z",
         "e": "2026-03-12T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-12T12:00:00Z",
+        "e": "2026-03-12T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2240,15 +2256,6 @@
     ],
     "rinse": [
       {
-        "n": "Mall Grab with Skin On Skin",
-        "s": "2026-03-11T20:00:00Z",
-        "e": "2026-03-11T22:00:00Z",
-        "d": null,
-        "j": "From The Vault (2020)",
-        "u": null,
-        "p": "mallgrab"
-      },
-      {
         "n": "Studio Barnhus",
         "s": "2026-03-11T22:00:00Z",
         "e": "2026-03-11T23:00:00Z",
@@ -2448,7 +2455,7 @@
         "s": "2026-03-13T01:00:00Z",
         "e": "2026-03-13T02:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Back To Old School Jungle Mix",
         "u": null,
         "p": "ryota"
       },
