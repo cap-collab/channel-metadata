@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-03-13T20:24:49.334Z",
+  "updated": "2026-03-13T21:32:29.868Z",
   "stations": {
     "nts1": [
       {
@@ -522,7 +522,10 @@
         "d": "Expert selections all round: encompassing everything you know and love from Eclair Fifi. That's techno, electro, hip-hop, Latin Freestyle, early Warp Records material, and then a bunch of other stuff that's bound to surprise you.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/eclair-fifi/episodes/eclair-fifi-19th-february-2026",
-        "p": "eclairfifi"
+        "p": "eclairfifi",
+        "ap": [
+          "fifi"
+        ]
       },
       {
         "n": "NTS Guide To: French Touch",
@@ -1731,7 +1734,10 @@
         "d": "Elena Colombi helps to keep nights weird - expect a diverse range of up-and-at-'em records: from techno to post-punk, through EBM, industrial and -wave…\nFrom the host: \"The first excerpt from a special 4-hour B2B set at Lux Fragil, in January. \nConsider it a warm-up of sorts… \nThe second excerpt will be released soon on limited-edition cassette!\n",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/elena-colombi/episodes/elena-colombi-3rd-march-2026",
-        "p": "elenacolombi"
+        "p": "elenacolombi",
+        "ap": [
+          "lenawillikens"
+        ]
       },
       {
         "n": "The Kronicles w/ DJ Amir",
@@ -2958,7 +2964,10 @@
         "j": "SHERELLE & NAINA",
         "u": "https://www.nts.live/api/v2/shows/hooversound/episodes/hooversound-11th-march-2026",
         "t": "monthly",
-        "p": "hooversound"
+        "p": "hooversound",
+        "ap": [
+          "sherelle"
+        ]
       },
       {
         "n": "NKISI",
@@ -3195,6 +3204,14 @@
         "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-8th-september-2023",
         "t": "restream",
         "p": "amandasiegel"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & Kaity Fox",
+        "s": "2026-03-13T07:00:00Z",
+        "e": "2026-03-13T09:00:00Z",
+        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-13th-march-2026"
       }
     ],
     "nts2": [
@@ -3928,7 +3945,10 @@
         "d": "Straight Honey is raw, unfiltered, and naturally crystallized Jazz & soulful R&B. Pour, stir, and sip, while you sink into her rich grooves…of tomorrow & yesterday.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/straight-honey/episodes/straight-honey-20th-february-2026",
-        "p": "honey"
+        "p": "honey",
+        "ap": [
+          "straighthoney"
+        ]
       },
       {
         "n": "UNDERGROUND & BLACK W/ ASH LAURYN",
@@ -4190,7 +4210,10 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-30th-july-2025",
         "t": "restream",
-        "p": "sophie"
+        "p": "sophie",
+        "ap": [
+          "sophiethatcher"
+        ]
       },
       {
         "n": "OPEN HAND REAL FLAMES - NINA SIMONE SPECIAL (R)",
@@ -4924,7 +4947,10 @@
         "j": "ASH LAURYN",
         "u": "https://www.nts.live/api/v2/shows/ash-lauryn/episodes/ash-lauryn-7th-august-2025",
         "t": "restream",
-        "p": "ash"
+        "p": "ash",
+        "ap": [
+          "ashlauryn"
+        ]
       },
       {
         "n": "Ectotherm (R)",
@@ -4971,7 +4997,10 @@
         "d": "Curio earworms and other obsessions from Krakow's Natalia Panzer.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-25th-february-2026",
-        "p": "natalia"
+        "p": "natalia",
+        "ap": [
+          "nataliapanzer"
+        ]
       },
       {
         "n": "Tara Clerkin Trio",
@@ -5227,7 +5256,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "homunkuli"
+        "p": "homunkuli",
+        "ap": [
+          "lenawillikens"
+        ]
       },
       {
         "n": "TEMPORAL COVE W/ SMILEGOTH",
@@ -5236,7 +5268,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "smilegoth"
+        "p": "smilegoth",
+        "ap": [
+          "temporalcove"
+        ]
       },
       {
         "n": "Geologist Presents: The O'Brien System w/ Crown Vic",
@@ -5598,7 +5633,10 @@
         "j": "LENA WILLIKENS",
         "u": "https://www.nts.live/api/v2/shows/homunkuli/episodes/homunkuli-6th-november-2025",
         "t": "restream",
-        "p": "homunkuli"
+        "p": "homunkuli",
+        "ap": [
+          "lenawillikens"
+        ]
       },
       {
         "n": "Gribs (R)",
@@ -6172,7 +6210,10 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-7th-december-2024",
         "t": "restream",
-        "p": "natalia"
+        "p": "natalia",
+        "ap": [
+          "nataliapanzer"
+        ]
       },
       {
         "n": "IN FOCUS: BROADCAST (R)",
@@ -6805,7 +6846,10 @@
         "j": "BIANCA LEXIS",
         "u": "https://www.nts.live/api/v2/shows/panorama-heaven/episodes/panorama-heaven-11th-march-2026",
         "t": "monthly",
-        "p": "biancalexis"
+        "p": "biancalexis",
+        "ap": [
+          "panoramaheaven"
+        ]
       },
       {
         "n": "HEAVEN AND EARTH MAGIC W/ Barbarelle",
@@ -7034,7 +7078,10 @@
         "j": "Ash Lauryn",
         "u": "https://www.nts.live/api/v2/shows/ash-lauryn/episodes/ash-lauryn-8th-august-2024",
         "t": "restream",
-        "p": "ash"
+        "p": "ash",
+        "ap": [
+          "ashlauryn"
+        ]
       },
       {
         "n": "Homeshake",
@@ -7118,6 +7165,15 @@
         "u": "https://www.nts.live/api/v2/shows/why-be/episodes/why-be-29th-july-2024",
         "t": "restream",
         "p": "whybe"
+      },
+      {
+        "n": "Under Sleepy Moon w/ Yawning Portal (R)",
+        "s": "2026-03-13T08:00:00Z",
+        "e": "2026-03-13T09:00:00Z",
+        "d": "Zzzzzzzzzzzz… Shhhh… There's a baby sleeping in the house!",
+        "j": "Yawning Portal",
+        "u": "https://www.nts.live/api/v2/shows/under-sleepy-moon/episodes/under-sleepy-moon-21st-october-2024",
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -7214,7 +7270,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "jules"
+        "p": "jules",
+        "ap": [
+          "ladyjules"
+        ]
       },
       {
         "n": "Meech",
@@ -8309,7 +8368,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "notabaileradio"
+        "p": "notabaileradio",
+        "ap": [
+          "notabaileradioshow"
+        ]
       },
       {
         "n": "Subtle Selects",
@@ -8692,7 +8754,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "timfromsales"
+        "p": "timfromsales",
+        "ap": [
+          "touchingbass"
+        ]
       },
       {
         "n": "Bouncing Betty Records ",
@@ -11489,7 +11554,11 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "bobbyy"
+        "p": "bobbyy",
+        "ap": [
+          "candy",
+          "lastword"
+        ]
       },
       {
         "n": "Rani de Leon - Tizita Radio",
@@ -11933,7 +12002,10 @@
         "j": "Things of Life",
         "u": null,
         "t": "weekly",
-        "p": "daddy"
+        "p": "daddydifferently",
+        "ap": [
+          "dirtydave"
+        ]
       },
       {
         "n": "Swami Sound – Crash Course",
@@ -11960,7 +12032,11 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "hymnal"
+        "p": "hymnal",
+        "ap": [
+          "mixmasterwolf",
+          "psychedelicstax"
+        ]
       },
       {
         "n": "Desmond - Cool Spot Selections",
@@ -11979,7 +12055,10 @@
         "j": "45 live",
         "u": null,
         "t": "weekly",
-        "p": "45live"
+        "p": "45live",
+        "ap": [
+          "gregbelson"
+        ]
       },
       {
         "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
@@ -11988,7 +12067,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "chrisbowen"
+        "p": "chrisbowen",
+        "ap": [
+          "victorrodriguez"
+        ]
       },
       {
         "n": "sounds of NOW",
@@ -12200,7 +12282,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "gabiestrong"
+        "p": "gabiestrong",
+        "ap": [
+          "ianwellman"
+        ]
       },
       {
         "n": "RERUN: '66 Sunset Strip",
@@ -12460,7 +12545,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "payray"
+        "p": "payray",
+        "ap": [
+          "wyldeflower"
+        ]
       },
       {
         "n": "sounds of NOW",
@@ -12523,7 +12611,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "jenniferherrema"
+        "p": "jenniferherrema",
+        "ap": [
+          "kurtmidness"
+        ]
       },
       {
         "n": "Grotto",
@@ -12689,7 +12780,10 @@
         "j": "Things of Life",
         "u": null,
         "t": "weekly",
-        "p": "daddy"
+        "p": "daddydifferently",
+        "ap": [
+          "dirtydave"
+        ]
       },
       {
         "n": "Callie Ryan - Cuts 01",
@@ -12736,7 +12830,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "honey"
+        "p": "honey",
+        "ap": [
+          "mamabear"
+        ]
       },
       {
         "n": "DJ Kerry - The Basement",
@@ -13131,7 +13228,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "langosta"
+        "p": "langosta",
+        "ap": [
+          "miche"
+        ]
       },
       {
         "n": "Echo Park Film Center - Optical Track",
@@ -13456,7 +13556,10 @@
         "j": "Things of Life",
         "u": null,
         "t": "weekly",
-        "p": "daddy"
+        "p": "daddydifferently",
+        "ap": [
+          "dirtydave"
+        ]
       },
       {
         "n": "Masha Mar – Analogue Players Club",
@@ -13600,7 +13703,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "akumen"
+        "p": "akumen",
+        "ap": [
+          "andyoro"
+        ]
       },
       {
         "n": "Chico Sonido Mixxx Show",
@@ -14373,7 +14479,10 @@
         "d": null,
         "j": "bullet tooth - Live from FOLD, London (24/01/2026)",
         "u": null,
-        "p": "bullettooth"
+        "p": "bullettooth",
+        "ap": [
+          "fold"
+        ]
       },
       {
         "n": "La La",
@@ -14506,7 +14615,10 @@
         "d": null,
         "j": "LILA B2B JJAMZ",
         "u": null,
-        "p": "lila"
+        "p": "lila",
+        "ap": [
+          "utopiapresents"
+        ]
       },
       {
         "n": "Talina",
@@ -14534,7 +14646,10 @@
         "d": null,
         "j": "B2B Manami",
         "u": null,
-        "p": "justjane"
+        "p": "justjane",
+        "ap": [
+          "manami"
+        ]
       },
       {
         "n": "Interplanetary Criminal",
@@ -14846,7 +14961,10 @@
         "d": null,
         "j": "VITO",
         "u": null,
-        "p": "collective"
+        "p": "collective",
+        "ap": [
+          "masoncollective"
+        ]
       },
       {
         "n": "Evissimax",
@@ -14961,7 +15079,10 @@
         "d": null,
         "j": "BABY FORD & HIS IFACH COLLECTIVE special",
         "u": null,
-        "p": "cassy"
+        "p": "cassy",
+        "ap": [
+          "collective"
+        ]
       },
       {
         "n": "ADIEL",
@@ -15103,7 +15224,10 @@
         "d": null,
         "j": "From The Vault (2018)",
         "u": null,
-        "p": "slimzee"
+        "p": "slimzee",
+        "ap": [
+          "trends"
+        ]
       },
       {
         "n": "styn",
@@ -15263,7 +15387,10 @@
         "d": null,
         "j": "From The Vault (2017)",
         "u": null,
-        "p": "callsuper"
+        "p": "callsuper",
+        "ap": [
+          "hessleaudio"
+        ]
       },
       {
         "n": "DJ Stingray 313",
@@ -15857,7 +15984,10 @@
         "d": null,
         "j": "DJ Perception",
         "u": null,
-        "p": "djperception"
+        "p": "djperception",
+        "ap": [
+          "themoodswingshow"
+        ]
       },
       {
         "n": "Roska B2B KTM B2B Just P B2B Just Chillz B2B Murder He Wrote B2B Calm Stiege",
@@ -16966,7 +17096,10 @@
         "d": null,
         "j": "Tone Rarri",
         "u": null,
-        "p": "habitat"
+        "p": "habitat",
+        "ap": [
+          "tone"
+        ]
       },
       {
         "n": "Brighter Days Family",
@@ -17168,7 +17301,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "mjk"
+        "p": "mjk",
+        "ap": [
+          "neffat"
+        ]
       },
       {
         "n": "Mall Grab with Skin On Skin",
@@ -17177,7 +17313,10 @@
         "d": null,
         "j": "From The Vault (2020)",
         "u": null,
-        "p": "mallgrab"
+        "p": "mallgrab",
+        "ap": [
+          "skinonskin"
+        ]
       },
       {
         "n": "Studio Barnhus",
@@ -17410,6 +17549,15 @@
         "u": null,
         "t": "weekly",
         "p": "eclecticist"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-03-13T07:00:00Z",
+        "e": "2026-03-13T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinsefr": [
@@ -17887,7 +18035,10 @@
         "d": null,
         "j": "Ehua b2b Flore",
         "u": null,
-        "p": "ehua"
+        "p": "ehua",
+        "ap": [
+          "polaar"
+        ]
       },
       {
         "n": "Unsho & Chris Sam",
@@ -17982,7 +18133,10 @@
         "d": null,
         "j": "invite Akumen",
         "u": null,
-        "p": "akumen"
+        "p": "akumen",
+        "ap": [
+          "mileyserious"
+        ]
       },
       {
         "n": "Playlist France",
@@ -18532,7 +18686,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "louiseptrouchka"
+        "p": "louiseptrouchka",
+        "ap": [
+          "naomi"
+        ]
       },
       {
         "n": "Artem",
