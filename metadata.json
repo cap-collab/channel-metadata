@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-13T04:04:26.092Z",
+  "updated": "2026-03-13T06:41:05.412Z",
   "stations": {
     "nts1": [
-      {
-        "n": "WORK OUT W/ SOFIE K",
-        "s": "2026-03-12T16:00:00Z",
-        "e": "2026-03-12T17:00:00Z",
-        "d": "Tune in, turn on, clock out. Sofie K brings sleazy synthpop, pumping proto-house and campy club cuts to the NTS studio once a month. ",
-        "j": "SOFIE K",
-        "u": "https://www.nts.live/api/v2/shows/sofie-k/episodes/sofie-k-12th-march-2026",
-        "t": "monthly",
-        "p": "sofiek"
-      },
       {
         "n": "Chicken Foot Soup w/ Goya Gumbani and Dom P",
         "s": "2026-03-12T17:00:00Z",
@@ -123,9 +113,9 @@
         "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
         "s": "2026-03-13T07:00:00Z",
         "e": "2026-03-13T09:00:00Z",
-        "d": null,
+        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
         "j": "JACK ROLLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-13th-march-2026",
         "t": "weekly"
       },
       {
@@ -258,27 +248,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "ONY (R)",
+        "s": "2026-03-14T05:00:00Z",
+        "e": "2026-03-14T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "NOT WAVING",
-        "s": "2026-03-12T16:00:00Z",
-        "e": "2026-03-12T17:00:00Z",
-        "d": "Alessio Natalizia is Not Waving. Take the plunge with his monthly hour of fucked-up left techno, leftfield electronics, brain-twisting oddball pop and post-punk, dub offshoots and other diversions. \necstaticrecordings.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/not-waving/episodes/not-waving-12th-march-2026",
-        "t": "monthly",
-        "p": "notwaving"
-      },
-      {
-        "n": "Maria BC",
-        "s": "2026-03-12T17:00:00Z",
-        "e": "2026-03-12T18:00:00Z",
-        "d": "Oakland songwriter Maria BC selects an hour of tracks serving as inspiration for their new LP “Marathon”, featuring lo-fi pop, folk, ambient and more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/maria-bc-12th-march-2026"
-      },
       {
         "n": "United In Flames w/ Malibu",
         "s": "2026-03-12T18:00:00Z",
@@ -383,9 +364,9 @@
         "n": "LXXXVIII W/ ACTRESS (R)",
         "s": "2026-03-13T06:00:00Z",
         "e": "2026-03-13T07:00:00Z",
-        "d": null,
+        "d": "Welcome to LXXXVIII – the ninth Actress album to be created by Darren Cunningham and the very first presentation of Actress’ voyage into luxury sonics.\nA lifetime in the making, LXXXVIII is the culmination of 25 years’ honing mind-shorting, soul-igniting audio\ninfusions for dance floors, rave dens, festivals, and concert hall, and the inaugural vessel for Actress’ cruise into novel strata of artistic influence: the executive suites, yacht decks and private jets of our planet’s ultimate power players.",
         "j": "ACTRESS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/actress/episodes/actress-13th-october-2023",
         "t": "restream",
         "p": "actress"
       },
@@ -393,9 +374,9 @@
         "n": "WHY BE (R)",
         "s": "2026-03-13T07:00:00Z",
         "e": "2026-03-13T08:00:00Z",
-        "d": null,
+        "d": "100% Yegorka material, selected by label founder Why Be.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/why-be/episodes/why-be-29th-july-2024",
         "t": "restream",
         "p": "whybe"
       },
@@ -520,26 +501,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Hostile Architecture w/ ODW",
-        "s": "2026-03-12T16:00:00Z",
-        "e": "2026-03-12T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
-        "n": "Subtle Selects",
-        "s": "2026-03-12T17:00:00Z",
-        "e": "2026-03-12T18:00:00Z",
+        "n": "TRAPDOOR W/ NEIL KRUG",
+        "s": "2026-03-13T23:00:00Z",
+        "e": "2026-03-14T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "p": "neilkrug"
       },
+      {
+        "n": "Luis Alvarado: Peru Post Punk (1985–1991) (R)",
+        "s": "2026-03-14T00:00:00Z",
+        "e": "2026-03-14T01:00:00Z",
+        "d": null,
+        "j": "Peru Post Punk (1985–1991)",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Say Less",
         "s": "2026-03-12T18:00:00Z",
@@ -623,6 +605,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-13T05:00:00Z",
+        "e": "2026-03-13T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Holy Crow w/ Isis Moray",
@@ -1674,33 +1665,6 @@
     ],
     "dublab": [
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-12T16:00:00Z",
-        "e": "2026-03-12T16:30:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "LARAAJI and OUT THERE",
-        "s": "2026-03-12T16:30:00Z",
-        "e": "2026-03-12T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Heavy Trip – Inner Ear",
-        "s": "2026-03-12T17:00:00Z",
-        "e": "2026-03-12T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "heavytrip"
-      },
-      {
         "n": "EDICA+ - Dub & Effection",
         "s": "2026-03-12T18:00:00Z",
         "e": "2026-03-12T20:00:00Z",
@@ -1762,6 +1726,15 @@
         "j": null,
         "u": null,
         "p": "alexpelly"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-13T08:00:00Z",
+        "e": "2026-03-13T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "EddyMac - Something Going On",
@@ -2262,29 +2235,19 @@
         "u": null,
         "t": "monthly",
         "p": "stareyes"
+      },
+      {
+        "n": "Spaceship Earth - Space Master",
+        "s": "2026-03-20T06:00:00Z",
+        "e": "2026-03-20T08:00:00Z",
+        "d": null,
+        "j": "Space Master",
+        "u": null,
+        "t": "monthly",
+        "p": "spacemaster"
       }
     ],
     "rinse": [
-      {
-        "n": "Tom Ravenscroft",
-        "s": "2026-03-12T15:00:00Z",
-        "e": "2026-03-12T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "tomravenscroft"
-      },
-      {
-        "n": "Talina",
-        "s": "2026-03-12T17:00:00Z",
-        "e": "2026-03-12T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "regular",
-        "p": "talina"
-      },
       {
         "n": "Maey",
         "s": "2026-03-12T18:00:00Z",
@@ -2584,23 +2547,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Fervo Fluxo",
-        "s": "2026-03-12T16:00:00Z",
-        "e": "2026-03-12T17:00:00Z",
-        "d": null,
-        "j": "Ant Fervo",
-        "u": null
-      },
-      {
-        "n": "Mystique",
-        "s": "2026-03-12T17:00:00Z",
-        "e": "2026-03-12T18:00:00Z",
-        "d": null,
-        "j": "invite CREAMY G",
-        "u": null,
-        "p": "mystique"
-      },
       {
         "n": "Machka",
         "s": "2026-03-12T18:00:00Z",
