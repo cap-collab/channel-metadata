@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-13T10:27:46.000Z",
+  "updated": "2026-03-13T12:37:46.377Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOESHA13",
-        "s": "2026-03-12T22:00:00Z",
-        "e": "2026-03-12T23:00:00Z",
-        "d": "Moesha 13 is an artist and curator of Malian origin based in Marseille. She was unanimously selected as artist of the year 2020 on SHAPE Platform (Sound, Heterogeneous Art and Performance in Europe).",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moesha13/episodes/moesha13-12th-march-2026",
-        "p": "moesha13"
-      },
-      {
-        "n": "WORD OF COMMAND (R)",
-        "s": "2026-03-12T23:00:00Z",
-        "e": "2026-03-13T00:00:00Z",
-        "d": "DJ, artist and techno impresario, Word of Command welds fevered collage and high-octane techno into a hallucinatory dreamscape. He is the founder of FIST (@funisstilltransgressive), a queer techno party that pays tribute to radical fun, while engaging the visibility of communities of otherness through techno in NYC. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/word-of-command/episodes/word-of-command-7th-january-2026",
-        "t": "restream"
-      },
       {
         "n": "PULLING THREADS W/ MI-EL",
         "s": "2026-03-13T00:00:00Z",
@@ -105,9 +87,10 @@
         "n": "RAJI RAGS b2b Batu",
         "s": "2026-03-13T13:00:00Z",
         "e": "2026-03-13T15:00:00Z",
-        "d": null,
+        "d": "Raj Chaudhuri - aka Raji Rags. NTS since day one. Always eclectic, never boring. Raj rustles up a seamless monthly mix that journeys through the BPMs.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/raji-rags/episodes/raji-rags-13th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "ADONIS w/ Marie Malarie",
@@ -240,27 +223,19 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Desire Paths w/ Laura Groves (R)",
+        "s": "2026-03-14T07:00:00Z",
+        "e": "2026-03-14T08:00:00Z",
+        "d": null,
+        "j": "Laura Groves",
+        "u": null,
+        "t": "restream",
+        "p": "desirepaths"
       }
     ],
     "nts2": [
-      {
-        "n": "Homeshake",
-        "s": "2026-03-12T22:00:00Z",
-        "e": "2026-03-12T23:00:00Z",
-        "d": "Cheeky slacker selections from everyone's favourite - Homeshake. Kick back. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/homeshake/episodes/homeshake-12th-march-2026",
-        "p": "homeshake"
-      },
-      {
-        "n": "NTS Guide to: Vietnamese Cloud Rap Vol. II (R)",
-        "s": "2026-03-12T23:00:00Z",
-        "e": "2026-03-13T00:00:00Z",
-        "d": "A deep dive into scenes, record labels and genres from around the world.",
-        "j": "Vietnamese Cloud Rap Vol. II",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-vietnamese-cloud-rap-vol-ii-12th-august-2025",
-        "t": "restream"
-      },
       {
         "n": "No Bells w/ Mano Sundaresan",
         "s": "2026-03-13T00:00:00Z",
@@ -357,18 +332,18 @@
         "n": "HE4RTBROKEN w/ 4TUNE",
         "s": "2026-03-13T12:00:00Z",
         "e": "2026-03-13T13:00:00Z",
-        "d": null,
+        "d": "Get in your feelings with Brussels party starters HE4RTBROKEN - the beloved Belgian collective that aren't scared of a few tears on the dance floor. Resident djs Liyo, Steff, Munix and ssaliva explore the full range of cathartic music listening together with some kindred-spirited emotive guests.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hea4rtbroken/episodes/hea4rtbroken-13th-march-2026",
         "p": "he4rtbroken"
       },
       {
         "n": "Lorea",
         "s": "2026-03-13T13:00:00Z",
         "e": "2026-03-13T14:00:00Z",
-        "d": null,
+        "d": "Spanish alt pop songwriter Lorea selects a deep hour of influences, including contemporary chamber compositions, Spanish folk, as well as unreleased original music.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/lorea-13th-march-2026"
       },
       {
         "n": "POSH ISOLATION'S COPENHAGEN REPORT",
@@ -491,27 +466,37 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Benteki",
-        "s": "2026-03-12T22:00:00Z",
-        "e": "2026-03-12T23:00:00Z",
+        "n": "Benedek b2b Knopha & Endy (R)",
+        "s": "2026-03-14T04:00:00Z",
+        "e": "2026-03-14T05:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "benteki"
+        "t": "restream"
       },
       {
-        "n": "Matt Frost ",
-        "s": "2026-03-12T23:00:00Z",
-        "e": "2026-03-13T00:00:00Z",
-        "d": "Potent Funk records’ Matt Frost - Well known for his technical abilities and Sleazy bass music style, Frost covers all angles from UK alt Rap to the LA beat scene.",
+        "n": "In Focus: Arvo Pärt (R)",
+        "s": "2026-03-14T05:00:00Z",
+        "e": "2026-03-14T07:00:00Z",
+        "d": null,
+        "j": "Arvo Pärt",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Phambinho (R)",
+        "s": "2026-03-14T07:00:00Z",
+        "e": "2026-03-14T08:00:00Z",
+        "d": null,
         "j": null,
         "u": null,
-        "p": "mattfrost"
-      },
+        "t": "restream",
+        "p": "phambinho"
+      }
+    ],
+    "subtle": [
       {
         "n": " Dubstar Records Show w/ Dubfreq",
         "s": "2026-03-13T00:00:00Z",
@@ -586,6 +571,15 @@
         "j": null,
         "u": null,
         "p": "electrolyteswithjoly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-13T13:00:00Z",
+        "e": "2026-03-13T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Sauce Collective ",
@@ -1608,18 +1602,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Hannah Rubin and Noelle Armstrong – MELLOW DRAMA",
-        "s": "2026-03-12T22:00:00Z",
-        "e": "2026-03-13T00:00:00Z",
+        "n": "Systema Naturae by lucii.",
+        "s": "2026-03-20T11:00:00Z",
+        "e": "2026-03-20T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "hannah"
+        "t": "monthly"
       },
+      {
+        "n": "Gwero b2b Nightshade",
+        "s": "2026-03-20T12:00:00Z",
+        "e": "2026-03-20T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Frankie Jax No Mad - Not Evil Radio",
         "s": "2026-03-13T00:00:00Z",
@@ -1677,6 +1680,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-13T12:00:00Z",
         "e": "2026-03-13T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-13T14:00:00Z",
+        "e": "2026-03-13T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2195,23 +2207,6 @@
     ],
     "rinse": [
       {
-        "n": "Jacques Greene",
-        "s": "2026-03-12T22:00:00Z",
-        "e": "2026-03-12T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "jacquesgreene"
-      },
-      {
-        "n": "YETI OUT with TOM YETI",
-        "s": "2026-03-12T23:00:00Z",
-        "e": "2026-03-13T00:00:00Z",
-        "d": null,
-        "j": "Live from Klymax Discotheque, Bali",
-        "u": null
-      },
-      {
         "n": "Ikke Sant with SUCHI",
         "s": "2026-03-13T00:00:00Z",
         "e": "2026-03-13T01:00:00Z",
@@ -2332,11 +2327,20 @@
       {
         "n": "UNFOLD",
         "s": "2026-03-13T23:00:00Z",
-        "e": "2026-03-14T01:00:00Z",
+        "e": "2026-03-14T00:00:00Z",
         "d": null,
         "j": "Alba Heidari B2B Manson X",
         "u": null,
         "p": "unfold"
+      },
+      {
+        "n": "Silva Bumpa",
+        "s": "2026-03-14T00:00:00Z",
+        "e": "2026-03-14T01:00:00Z",
+        "d": null,
+        "j": "R360 Live From Addict, Prague",
+        "u": null,
+        "p": "silvabumpa"
       },
       {
         "n": "ELOQ",
@@ -2415,7 +2419,7 @@
         "s": "2026-03-14T15:00:00Z",
         "e": "2026-03-14T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ms Mada",
         "u": null,
         "t": "monthly",
         "p": "paradise"
@@ -2434,7 +2438,7 @@
         "s": "2026-03-14T17:00:00Z",
         "e": "2026-03-14T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "TSVI",
         "u": null,
         "p": "lamsi"
       },
@@ -2443,7 +2447,7 @@
         "s": "2026-03-14T18:00:00Z",
         "e": "2026-03-14T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Izzy Demsky",
         "u": null,
         "p": "manpower"
       },
@@ -2466,15 +2470,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-12T21:00:00Z",
-        "e": "2026-03-12T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-12T23:00:00Z",
@@ -2506,7 +2501,7 @@
         "s": "2026-03-13T14:00:00Z",
         "e": "2026-03-13T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Presents Empty and Heavy",
         "u": null,
         "p": "flegon"
       },
@@ -2610,8 +2605,9 @@
         "s": "2026-03-14T16:00:00Z",
         "e": "2026-03-14T17:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "DMX KREW SPECIAL",
+        "u": null,
+        "p": "dmxkrew"
       },
       {
         "n": "Curses",
