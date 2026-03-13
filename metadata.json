@@ -1,24 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-13T12:37:46.377Z",
+  "updated": "2026-03-13T14:37:22.098Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PULLING THREADS W/ MI-EL",
-        "s": "2026-03-13T00:00:00Z",
-        "e": "2026-03-13T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "DEBT & REFUGE",
-        "s": "2026-03-13T01:00:00Z",
-        "e": "2026-03-13T02:00:00Z",
-        "d": "‘When we refuse… we create dissonance and more importantly, we allow dissonance to continue.’ - from Jack Halberstam’s introduction to the Undercommons.\nDisruptive music for broken times curated by Nymity. Queering, Unlearning, Fragments and Imaginings.\nArtwork by Harry King",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/debt-refuge/episodes/debt-refuge-13th-march-2026"
-      },
       {
         "n": "ONY (R)",
         "s": "2026-03-13T02:00:00Z",
@@ -96,9 +80,10 @@
         "n": "ADONIS w/ Marie Malarie",
         "s": "2026-03-13T15:00:00Z",
         "e": "2026-03-13T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Iconic queer party crew Adonis showcase their residents on a monthly rotation live from the London studio.",
+        "j": "Marie Malarie",
+        "u": "https://www.nts.live/api/v2/shows/adonis/episodes/adonis-13th-march-2026",
+        "t": "monthly",
         "p": "adonis"
       },
       {
@@ -233,27 +218,18 @@
         "u": null,
         "t": "restream",
         "p": "desirepaths"
-      }
-    ],
-    "nts2": [
+      },
       {
-        "n": "No Bells w/ Mano Sundaresan",
-        "s": "2026-03-13T00:00:00Z",
-        "e": "2026-03-13T01:00:00Z",
+        "n": "RAGA VIBRATIONS",
+        "s": "2026-03-14T08:00:00Z",
+        "e": "2026-03-14T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "nobells"
-      },
-      {
-        "n": "TeamSESH w/ HNRK",
-        "s": "2026-03-13T01:00:00Z",
-        "e": "2026-03-13T02:00:00Z",
-        "d": "The Bones-led independent hip hop collective and label TeamSESH take the NTS airwaves for a monthly one hour transmission live from our LA studio.\nFrom the host: \"As it has become somewhat of a tradition and a rite of my own for the  March episode of our TeamSesh NTS show: Here is my annual Airtaster Special, with its usual focus on all things ambient, calm, drone-y and drum-less. - HNRK\"",
-        "j": "HNRK",
-        "u": "https://www.nts.live/api/v2/shows/team-sesh/episodes/team-sesh-12th-march-2026",
-        "t": "monthly"
-      },
+        "p": "ragavibrations"
+      }
+    ],
+    "nts2": [
       {
         "n": "Rap Vacation",
         "s": "2026-03-13T02:00:00Z",
@@ -349,17 +325,18 @@
         "n": "POSH ISOLATION'S COPENHAGEN REPORT",
         "s": "2026-03-13T14:00:00Z",
         "e": "2026-03-13T15:00:00Z",
-        "d": null,
+        "d": "Danish label Posh Isolation join us for an hour a month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/posh-isolation/episodes/posh-isolation-13th-march-2026"
       },
       {
         "n": "THE ULINE CATALOG",
         "s": "2026-03-13T15:00:00Z",
         "e": "2026-03-13T16:00:00Z",
-        "d": null,
+        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-13th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "CREEP ZONE W/ JAMES PANTS & MARC SCHALLER",
@@ -494,25 +471,27 @@
         "u": null,
         "t": "restream",
         "p": "phambinho"
+      },
+      {
+        "n": "Merzbow (R)",
+        "s": "2026-03-14T08:00:00Z",
+        "e": "2026-03-14T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Enter The Portal (R)",
+        "s": "2026-03-14T09:00:00Z",
+        "e": "2026-03-14T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": " Dubstar Records Show w/ Dubfreq",
-        "s": "2026-03-13T00:00:00Z",
-        "e": "2026-03-13T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Insoundfromwayback",
-        "s": "2026-03-13T01:00:00Z",
-        "e": "2026-03-13T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Pete Shredz",
         "s": "2026-03-13T02:00:00Z",
@@ -1620,18 +1599,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Frankie Jax No Mad - Not Evil Radio",
-        "s": "2026-03-13T00:00:00Z",
-        "e": "2026-03-13T02:00:00Z",
+        "n": "Rebello",
+        "s": "2026-03-20T14:00:00Z",
+        "e": "2026-03-20T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "frankiejaxnomad"
-      },
+        "t": "monthly",
+        "p": "rebello"
+      }
+    ],
+    "dublab": [
       {
         "n": "Frosty - Celsius Drop",
         "s": "2026-03-13T02:00:00Z",
@@ -2207,24 +2187,6 @@
     ],
     "rinse": [
       {
-        "n": "Ikke Sant with SUCHI",
-        "s": "2026-03-13T00:00:00Z",
-        "e": "2026-03-13T01:00:00Z",
-        "d": null,
-        "j": "Efa O'Neill",
-        "u": null,
-        "p": "ikkesantwithsuchi"
-      },
-      {
-        "n": "ryota",
-        "s": "2026-03-13T01:00:00Z",
-        "e": "2026-03-13T02:00:00Z",
-        "d": null,
-        "j": "Back To Old School Jungle Mix",
-        "u": null,
-        "p": "ryota"
-      },
-      {
         "n": "Fracture",
         "s": "2026-03-13T02:00:00Z",
         "e": "2026-03-13T03:00:00Z",
@@ -2445,11 +2407,19 @@
       {
         "n": "Man Power",
         "s": "2026-03-14T18:00:00Z",
-        "e": "2026-03-14T22:00:00Z",
+        "e": "2026-03-14T20:00:00Z",
         "d": null,
         "j": "Izzy Demsky",
         "u": null,
         "p": "manpower"
+      },
+      {
+        "n": "Zenker Brothers",
+        "s": "2026-03-14T20:00:00Z",
+        "e": "2026-03-14T22:00:00Z",
+        "d": null,
+        "j": "From The Vault (2018)",
+        "u": null
       },
       {
         "n": "CONDUCTA",
@@ -2576,11 +2546,19 @@
       {
         "n": "Playlist France",
         "s": "2026-03-14T08:00:00Z",
-        "e": "2026-03-14T13:00:00Z",
+        "e": "2026-03-14T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Léonie Pernet",
+        "s": "2026-03-14T12:00:00Z",
+        "e": "2026-03-14T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Whitney Weiss",
