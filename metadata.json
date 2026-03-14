@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-14T16:20:52.042Z",
+  "updated": "2026-03-14T18:25:59.511Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Trilogy Tapes (R)",
-        "s": "2026-03-14T03:00:00Z",
-        "e": "2026-03-14T05:00:00Z",
-        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-6th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "ONY (R)",
-        "s": "2026-03-14T05:00:00Z",
-        "e": "2026-03-14T06:00:00Z",
-        "d": "Same shit, different month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ony/episodes/ony-4th-august-2021",
-        "t": "restream"
-      },
       {
         "n": "Uncanny Valley (R)",
         "s": "2026-03-14T06:00:00Z",
@@ -105,9 +87,9 @@
         "n": "AS I WAS MOVING AHEAD - A Quiet Place",
         "s": "2026-03-14T20:00:00Z",
         "e": "2026-03-14T21:00:00Z",
-        "d": null,
+        "d": "Regional missives from filmmaker Tania Feghali, whose work focuses on music, the poetry of journeying and documentary.\nFrom the host: \"Breathing instruments opening space for this moment - with glimpses of Bex Burch, Brìghde Chaimbeul, Josh Johnson, Max Roach, Dagmar Zuniga, Aaron Shaw, Duval Timothy, Solmaz Naraghi and others.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/tania-feghali/episodes/tania-feghali-14th-march-2026"
       },
       {
         "n": "MILK RADIO W/ KEIYAA",
@@ -241,18 +223,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
+        "s": "2026-03-15T13:00:00Z",
+        "e": "2026-03-15T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Benedek b2b Knopha & Endy (R)",
-        "s": "2026-03-14T04:00:00Z",
-        "e": "2026-03-14T05:00:00Z",
-        "d": "Los Angeles native & synth pioneer Benedek blends ambient, boogie, funk & more, once a month from our LA studio. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/benedek/episodes/benedek-28th-june-2019",
-        "t": "restream"
-      },
       {
         "n": "In Focus: Arvo Pärt (R)",
         "s": "2026-03-14T05:00:00Z",
@@ -356,17 +337,18 @@
         "n": "RACHEL GRACE ALMEIDA: LATIN EBM & WAVE SPECIAL",
         "s": "2026-03-14T18:00:00Z",
         "e": "2026-03-14T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Venezuelan writer Rachel Grace Almeida spends an hour dipping into the expansive universe of Latin music every month.\nFrom the host: \"Tropigoths! Bien darks! This is a deep dive into the freakzone of Latin EBM & wave of all forms, connecting Belgium to Buenos Aires, Germany to Guadalajara.\"",
+        "j": "LATIN EBM & WAVE SPECIAL",
+        "u": "https://www.nts.live/api/v2/shows/rachel-grace-almeida/episodes/rachel-grace-almeida-14th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "LABOUR w/ Momo Dieng",
         "s": "2026-03-14T19:00:00Z",
         "e": "2026-03-14T20:00:00Z",
-        "d": null,
+        "d": "LABOUR is the duo of Colin Hacklander and Farahnaz Hatam. Tune in each month for their hour-long show featuring rotating guests and friends from Dakar, Senegal. Expect a mixture of progressive electronic music with heavy sabar drum music, classic & current Mbalax, and timeless Sufi praises.\nFrom the host: \"This month’s show features the great Senegalese singer and bandleader, Momo Dieng, a popular mbalax artist on the Prince Arts label, featuring tracks spanning the last 10 years such as Saf Na Ba Nopi and Doom Gorel.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/labour/episodes/labour-14th-march-2026",
         "p": "labour"
       },
       {
@@ -497,6 +479,24 @@
         "n": "Claire Milbrath (R)",
         "s": "2026-03-15T14:00:00Z",
         "e": "2026-03-15T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Stereolab w/ Tim Gane - ITALIAN SPECIAL (R)",
+        "s": "2026-03-15T15:00:00Z",
+        "e": "2026-03-15T16:00:00Z",
+        "d": null,
+        "j": "Tim Gane",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "NTS x Strata-East Records Special (Mixed By Jean-Claude) (R)",
+        "s": "2026-03-15T16:00:00Z",
+        "e": "2026-03-15T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1652,18 +1652,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-14T04:00:00Z",
-        "e": "2026-03-14T06:00:00Z",
+        "n": "Hurst",
+        "s": "2026-03-21T17:00:00Z",
+        "e": "2026-03-21T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "hurst"
       },
+      {
+        "n": "Highlander",
+        "s": "2026-03-21T18:00:00Z",
+        "e": "2026-03-21T20:00:00Z",
+        "d": "Highlander brings you 2 hours of the freshest Jungle, Hardcore, Dubstep and Breaks. 3rd Saturday 7-9pm lock in!",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "88 - Club Paradise",
         "s": "2026-03-14T06:00:00Z",
@@ -1721,6 +1731,15 @@
         "j": null,
         "u": null,
         "p": "ryanleemoore"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-14T20:00:00Z",
+        "e": "2026-03-14T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Nia Michelle, Jordan Collins, Lewis Thompson – Channels",
@@ -2225,18 +2244,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "RERUN: JF Chen Radio",
+        "s": "2026-03-21T17:00:00Z",
+        "e": "2026-03-21T18:00:00Z",
+        "d": null,
+        "j": "JF Chen Radio",
+        "u": null,
+        "t": "restream"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-03-14T03:00:00Z",
-        "e": "2026-03-14T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Elle Clark",
         "s": "2026-03-14T06:00:00Z",
