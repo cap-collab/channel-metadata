@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-14T18:25:59.511Z",
+  "updated": "2026-03-14T20:18:21.447Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Uncanny Valley (R)",
-        "s": "2026-03-14T06:00:00Z",
-        "e": "2026-03-14T07:00:00Z",
-        "d": "Artist Peter J Doyle & friends enter the uncanny valley of their music collections, traversing folk, soul, psychedelia and much more…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/peter-doyle/episodes/peter-doyle-27th-june-2022",
-        "t": "restream"
-      },
-      {
-        "n": "Desire Paths w/ Laura Groves (R)",
-        "s": "2026-03-14T07:00:00Z",
-        "e": "2026-03-14T08:00:00Z",
-        "d": "Desire paths are formed by repeated deviation from official routes.\nArtist/producer Laura Groves explores private roads and dreamscapes with a series of mixtapes featuring demos, synth sketches, collaborations, pop classics, field recordings and soundtracks.",
-        "j": "Laura Groves",
-        "u": "https://www.nts.live/api/v2/shows/desire-paths/episodes/desire-paths-12th-september-2024",
-        "t": "restream",
-        "p": "desirepaths"
-      },
       {
         "n": "RAGA VIBRATIONS",
         "s": "2026-03-14T08:00:00Z",
@@ -95,9 +76,10 @@
         "n": "MILK RADIO W/ KEIYAA",
         "s": "2026-03-14T21:00:00Z",
         "e": "2026-03-14T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Entering the light spirit body with KeiyaA, once a month.\nFrom the host: \"as always, my fav tunes from now and whenever, plus some unreleased tunes and edits xo\"",
+        "j": "KEIYAA",
+        "u": "https://www.nts.live/api/v2/shows/keiyaa/episodes/keiyaa-14th-march-2026",
+        "t": "monthly",
         "p": "keiyaa"
       },
       {
@@ -231,28 +213,21 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SUNDAY CLUB w/ FINN",
+        "s": "2026-03-15T15:00:00Z",
+        "e": "2026-03-15T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "finn",
+        "ap": [
+          "sundayclub"
+        ]
       }
     ],
     "nts2": [
-      {
-        "n": "In Focus: Arvo Pärt (R)",
-        "s": "2026-03-14T05:00:00Z",
-        "e": "2026-03-14T07:00:00Z",
-        "d": "\"I could compare my music to white light which contains all colours. Only a prism can divide the colours and make them appear; this prism could be the spirit of the listener.\" - Arvo Pärt\nA figurehead in European minimalism, Arvo Pärt's compositions are slow and meditative, owing to the composer's own mystical experiences with chant music following a conversion to Orthodox Christianity. Now one of the world's most widely performed classical composers, immerse yourself in the output of Estonia's most celebrated musician in a three-hour In Focus special. ",
-        "j": "Arvo Pärt",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-arvo-part-10th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Phambinho (R)",
-        "s": "2026-03-14T07:00:00Z",
-        "e": "2026-03-14T08:00:00Z",
-        "d": "An pensive hour of music in translation from Bradfordian's finest export aka UNDERTHEJAGUAR. Spanning across time, geographic, and lexicon borders, this mix takes listeners on a linguistic adventure. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/phambinho/episodes/phambinho-16th-april-2024",
-        "t": "restream",
-        "p": "phambinho"
-      },
       {
         "n": "Merzbow (R)",
         "s": "2026-03-14T08:00:00Z",
@@ -355,9 +330,9 @@
         "n": "Dance Music Show w/ Bell Towers - Italo Disco Special (R)",
         "s": "2026-03-14T20:00:00Z",
         "e": "2026-03-14T21:00:00Z",
-        "d": null,
+        "d": "Prolific producer + DJ from Melbourne, Australia - Bell Towers presents his Dance Music Show.",
         "j": "Bell Towers",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bell-towers/episodes/dance-music-show-14th-july-2020",
         "t": "restream",
         "p": "belltowers"
       },
@@ -365,18 +340,19 @@
         "n": "JANA RUSH",
         "s": "2026-03-14T21:00:00Z",
         "e": "2026-03-14T22:00:00Z",
-        "d": null,
+        "d": "High speed electronics and dance soundtracks from the Chicago footwork auteur.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jana-rush/episodes/jana-rush-14th-march-2026",
         "p": "janarush"
       },
       {
-        "n": "SCRYING W/ KAVARI",
+        "n": "SCRYING W/ KAVARI (R)",
         "s": "2026-03-14T22:00:00Z",
         "e": "2026-03-14T23:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "KAVARI",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Halloween on NTS: Parallel Lines - Death Rock (R)",
@@ -501,18 +477,28 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Peking Spring presents: Danny Bushes 'Implicated' Mixtape (R)",
+        "s": "2026-03-15T22:00:00Z",
+        "e": "2026-03-16T00:00:00Z",
+        "d": null,
+        "j": "Danny Bushes 'Implicated' Mixtape",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Austral w/ AYLU: Chile Special (R)",
+        "s": "2026-03-16T00:00:00Z",
+        "e": "2026-03-16T01:00:00Z",
+        "d": null,
+        "j": "AYLU",
+        "u": null,
+        "t": "restream",
+        "p": "aylu"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-14T04:00:00Z",
-        "e": "2026-03-14T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "REFERENCES...w/ KPB",
         "s": "2026-03-14T08:00:00Z",
@@ -1671,21 +1657,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "88 - Club Paradise",
-        "s": "2026-03-14T06:00:00Z",
-        "e": "2026-03-14T08:00:00Z",
+        "n": "DNS",
+        "s": "2026-03-21T20:00:00Z",
+        "e": "2026-03-21T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "88",
-        "ap": [
-          "paradise"
-        ]
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-14T08:00:00Z",
@@ -2253,18 +2236,19 @@
         "j": "JF Chen Radio",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Elle Clark",
-        "s": "2026-03-14T06:00:00Z",
-        "e": "2026-03-14T07:00:00Z",
+        "n": "Elyn Kazarian – Her Vision Her Voice",
+        "s": "2026-03-21T20:00:00Z",
+        "e": "2026-03-21T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "elleclark"
-      },
+        "t": "monthly",
+        "p": "elynkazarian"
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-03-14T07:00:00Z",
@@ -2509,15 +2493,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-13T23:00:00Z",
-        "e": "2026-03-14T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-14T08:00:00Z",
