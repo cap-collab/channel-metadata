@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-14T06:36:05.157Z",
+  "updated": "2026-03-14T08:25:17.462Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MARTHA",
-        "s": "2026-03-13T18:00:00Z",
-        "e": "2026-03-13T19:00:00Z",
-        "d": "Martha is a DJ and broadcaster from South London with roots in community radio and documentary making. Each of Martha’s thoughtfully curated radio shows navigate the fringes of electronic music, with a clear narrative that is grounded in community and storytelling. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martha/episodes/martha-13th-march-2026",
-        "p": "martha"
-      },
-      {
-        "n": "Gold Star w/ flirty800",
-        "s": "2026-03-13T19:00:00Z",
-        "e": "2026-03-13T20:00:00Z",
-        "d": "House, techno, pop mutations and club kid rhythms from NYC-based DJ and producer Flirty800, going live from the London studio.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/gold-star-w-flirty800-13th-march-2026"
-      },
       {
         "n": "hopper1000 radio w/ Irene Lee",
         "s": "2026-03-13T20:00:00Z",
@@ -123,18 +106,19 @@
         "n": "RAGA VIBRATIONS",
         "s": "2026-03-14T08:00:00Z",
         "e": "2026-03-14T10:00:00Z",
-        "d": null,
+        "d": "\"Raga Vibrations\" is a monthly selection of Indian music curated by Greg Davis.\nFrom the host: \"Focus on the music of Noor Zehra Kazim\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/raga-vibrations/episodes/raga-vibrations-14th-march-2026",
+        "t": "monthly",
         "p": "ragavibrations"
       },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ Stu Clark",
         "s": "2026-03-14T10:00:00Z",
         "e": "2026-03-14T12:00:00Z",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-14th-march-2026"
       },
       {
         "n": "Alexander Nut",
@@ -259,27 +243,27 @@
         "u": null,
         "t": "restream",
         "p": "crisisacting"
+      },
+      {
+        "n": "YOSHIMIO (R)",
+        "s": "2026-03-15T06:00:00Z",
+        "e": "2026-03-15T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Alice Coltrane Special: Brandee Younger Live Performance (R)",
+        "s": "2026-03-15T07:00:00Z",
+        "e": "2026-03-15T07:30:00Z",
+        "d": null,
+        "j": "Brandee Younger Live Performance",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "James McNew (YO LA TENGO)",
-        "s": "2026-03-13T18:00:00Z",
-        "e": "2026-03-13T19:00:00Z",
-        "d": "James McNew of Hoboken indie rock royalty Yo La Tengo shares an hour of picks from his collection each month..",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yo-la-tengo/episodes/yo-la-tengo-13th-march-2026"
-      },
-      {
-        "n": "TRiNH (R)",
-        "s": "2026-03-13T19:00:00Z",
-        "e": "2026-03-13T20:00:00Z",
-        "d": "Leftfield Pop, Bedroom Z-sides and Music Box Covers…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/trinh/episodes/trinh-29th-august-2025",
-        "t": "restream",
-        "p": "trinh"
-      },
       {
         "n": "Wabi Sabi w/ Tana Yonas (R)",
         "s": "2026-03-13T20:00:00Z",
@@ -383,18 +367,18 @@
         "n": "Merzbow (R)",
         "s": "2026-03-14T08:00:00Z",
         "e": "2026-03-14T09:00:00Z",
-        "d": null,
+        "d": "The revered Japanese noise artist stops by for a regular NTS slot, playing some surprising selections from his diverse & deep record collection.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/merzbow/episodes/merzbow-12th-august-2025",
         "t": "restream"
       },
       {
         "n": "Enter The Portal (R)",
         "s": "2026-03-14T09:00:00Z",
         "e": "2026-03-14T10:00:00Z",
-        "d": null,
+        "d": "A mix of love songs spanning desert reggae, country, soul, rock n' roll & more from various Australian indigenous artists. This mix includes english & a handful of other indigenous languages.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/enter-the-portal/episodes/australian-indigenous-love-songs-7-oct-2020",
         "t": "restream"
       },
       {
@@ -519,26 +503,29 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "No Brakes",
-        "s": "2026-03-13T18:00:00Z",
-        "e": "2026-03-13T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
-        "n": "SYNES",
-        "s": "2026-03-13T19:00:00Z",
-        "e": "2026-03-13T20:00:00Z",
+        "n": "KIM LANA (R)",
+        "s": "2026-03-15T02:00:00Z",
+        "e": "2026-03-15T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "synes"
+        "t": "restream",
+        "p": "kimlana"
       },
+      {
+        "n": "AUNTIE-ISM W/ SHABAZZ (R)",
+        "s": "2026-03-15T04:00:00Z",
+        "e": "2026-03-15T05:00:00Z",
+        "d": null,
+        "j": "SHABAZZ",
+        "u": null,
+        "t": "restream",
+        "p": "shabazz"
+      }
+    ],
+    "subtle": [
       {
         "n": "Pent.1",
         "s": "2026-03-13T20:00:00Z",
@@ -614,6 +601,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-14T09:00:00Z",
+        "e": "2026-03-14T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": " SCOPE__EM",
@@ -1674,19 +1670,6 @@
     ],
     "dublab": [
       {
-        "n": "Daddy Differently and Dirty Dave - Things of Life",
-        "s": "2026-03-13T18:00:00Z",
-        "e": "2026-03-13T20:00:00Z",
-        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
-        "j": "Things of Life",
-        "u": null,
-        "t": "weekly",
-        "p": "daddydifferently",
-        "ap": [
-          "dirtydave"
-        ]
-      },
-      {
         "n": "Xica Soul - SoundProof",
         "s": "2026-03-13T20:00:00Z",
         "e": "2026-03-13T22:00:00Z",
@@ -1755,6 +1738,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-14T08:00:00Z",
         "e": "2026-03-14T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-14T10:00:00Z",
+        "e": "2026-03-14T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2273,18 +2265,18 @@
         "ap": [
           "victorrodriguez"
         ]
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-21T08:00:00Z",
+        "e": "2026-03-21T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Heras Records",
-        "s": "2026-03-13T18:00:00Z",
-        "e": "2026-03-13T20:00:00Z",
-        "d": null,
-        "j": "Klose One",
-        "u": null,
-        "p": "herasrecords"
-      },
       {
         "n": "p-rallel",
         "s": "2026-03-13T20:00:00Z",
@@ -2602,27 +2594,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Public System Recordings",
-        "s": "2026-03-13T18:00:00Z",
-        "e": "2026-03-13T19:00:00Z",
-        "d": null,
-        "j": "MYN invite ALL NICE RECORDS avec BOBBY DREAMS",
-        "u": null,
-        "p": "bobby",
-        "ap": [
-          "publicsystemrecordings"
-        ]
-      },
-      {
-        "n": "Amor Satyr B2B Ma Sha",
-        "s": "2026-03-13T19:00:00Z",
-        "e": "2026-03-13T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "amorsatyr"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-03-13T20:00:00Z",
         "e": "2026-03-13T23:00:00Z",
@@ -2643,7 +2614,99 @@
       {
         "n": "Playlist France",
         "s": "2026-03-14T08:00:00Z",
+        "e": "2026-03-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Léonie Pernet",
+        "s": "2026-03-14T12:00:00Z",
         "e": "2026-03-14T13:00:00Z",
+        "d": null,
+        "j": "Poèmes Pulvérisés",
+        "u": null
+      },
+      {
+        "n": "Whitney Weiss",
+        "s": "2026-03-14T13:00:00Z",
+        "e": "2026-03-14T15:00:00Z",
+        "d": null,
+        "j": "It's Whitney, Bitch with ORBIS9",
+        "u": null,
+        "p": "whitneyweiss"
+      },
+      {
+        "n": "D’Julz",
+        "s": "2026-03-14T15:00:00Z",
+        "e": "2026-03-14T16:00:00Z",
+        "d": null,
+        "j": "Home Diggin'",
+        "u": null,
+        "p": "djulz"
+      },
+      {
+        "n": "La Mamie's",
+        "s": "2026-03-14T16:00:00Z",
+        "e": "2026-03-14T17:00:00Z",
+        "d": null,
+        "j": "DMX KREW SPECIAL",
+        "u": null,
+        "p": "dmxkrew"
+      },
+      {
+        "n": "Curses",
+        "s": "2026-03-14T17:00:00Z",
+        "e": "2026-03-14T18:00:00Z",
+        "d": null,
+        "j": "TOGETHER ALONE",
+        "u": null,
+        "p": "curses"
+      },
+      {
+        "n": "Public System Recordings",
+        "s": "2026-03-14T18:00:00Z",
+        "e": "2026-03-14T19:00:00Z",
+        "d": null,
+        "j": "MYN invite ALL NICE RECORDS avec BOBBY DREAMS",
+        "u": null,
+        "p": "bobby",
+        "ap": [
+          "publicsystemrecordings"
+        ]
+      },
+      {
+        "n": "Amor Satyr B2B Ma Sha",
+        "s": "2026-03-14T19:00:00Z",
+        "e": "2026-03-14T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "amorsatyr"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-14T20:00:00Z",
+        "e": "2026-03-14T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-14T23:00:00Z",
+        "e": "2026-03-15T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-15T08:00:00Z",
+        "e": "2026-03-15T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2651,24 +2714,24 @@
       },
       {
         "n": "Stratasonic Records",
-        "s": "2026-03-14T13:00:00Z",
-        "e": "2026-03-14T14:00:00Z",
+        "s": "2026-03-15T13:00:00Z",
+        "e": "2026-03-15T14:00:00Z",
         "d": null,
         "j": "Bill Patrick",
         "u": null
       },
       {
         "n": "Theo Terev b2b Hugo LX",
-        "s": "2026-03-14T14:00:00Z",
-        "e": "2026-03-14T15:00:00Z",
+        "s": "2026-03-15T14:00:00Z",
+        "e": "2026-03-15T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Promesses",
-        "s": "2026-03-14T15:00:00Z",
-        "e": "2026-03-14T17:00:00Z",
+        "s": "2026-03-15T15:00:00Z",
+        "e": "2026-03-15T17:00:00Z",
         "d": null,
         "j": "invite DJ Ess",
         "u": null,
@@ -2676,8 +2739,8 @@
       },
       {
         "n": "Jokkoo Collective",
-        "s": "2026-03-14T17:00:00Z",
-        "e": "2026-03-14T18:00:00Z",
+        "s": "2026-03-15T17:00:00Z",
+        "e": "2026-03-15T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2688,8 +2751,8 @@
       },
       {
         "n": "MUTEK",
-        "s": "2026-03-14T18:00:00Z",
-        "e": "2026-03-14T19:00:00Z",
+        "s": "2026-03-15T18:00:00Z",
+        "e": "2026-03-15T19:00:00Z",
         "d": null,
         "j": "invite THE FEAR RATIO",
         "u": null,
@@ -2697,8 +2760,8 @@
       },
       {
         "n": "Eclipse Tribez",
-        "s": "2026-03-14T19:00:00Z",
-        "e": "2026-03-14T20:00:00Z",
+        "s": "2026-03-15T19:00:00Z",
+        "e": "2026-03-15T20:00:00Z",
         "d": null,
         "j": "invite Knurx",
         "u": null,
@@ -2706,8 +2769,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-03-14T20:00:00Z",
-        "e": "2026-03-14T21:00:00Z",
+        "s": "2026-03-15T20:00:00Z",
+        "e": "2026-03-15T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
