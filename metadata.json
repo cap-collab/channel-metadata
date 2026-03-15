@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-15T20:19:13.727Z",
+  "updated": "2026-03-15T22:18:40.816Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NTS Guide To: Pasillo Ecuatoriano (R)",
-        "s": "2026-03-15T08:00:00Z",
-        "e": "2026-03-15T09:00:00Z",
-        "d": "A national music and dance of Ecuador, characterised by heartbreak, romance and longing.",
-        "j": "Pasillo Ecuatoriano",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/pasillo-ecuatoriano-3rd-january-2023",
-        "t": "restream"
-      },
-      {
-        "n": "Telepathic Fish: Early 90s Ambient",
-        "s": "2026-03-15T09:00:00Z",
-        "e": "2026-03-15T10:00:00Z",
-        "d": "Essential ambient techno and chilloutl tracks from the seminal South London ambient music party Telepathic Fish, hosted by the late Chantal Passerman aka Mira Calix. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/telepathic-fish-early-90s-ambient-15th-march-2026"
-      },
       {
         "n": "LAUNETTE'S HOUR",
         "s": "2026-03-15T10:00:00Z",
@@ -95,9 +78,9 @@
         "n": "SLIME FM w/ Khadija Al Hanafi (R)",
         "s": "2026-03-16T00:00:00Z",
         "e": "2026-03-16T01:00:00Z",
-        "d": null,
+        "d": "Uncompromising footwork selections from Tunis-based producer Khadija Al Hanafi – ” sounds coming straight from her computer - classic Hanafi style”",
         "j": "Khadija Al Hanafi",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/slime-fm/episodes/slime-fm-4th-june-2025",
         "t": "restream",
         "p": "slimefm"
       },
@@ -239,31 +222,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FURNITURE WITHOUT MEMORIES W/ LIVWUTANG",
+        "s": "2026-03-16T23:00:00Z",
+        "e": "2026-03-17T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "livwutang"
       }
     ],
     "nts2": [
-      {
-        "n": "CS + KREME (R)",
-        "s": "2026-03-15T08:00:00Z",
-        "e": "2026-03-15T09:00:00Z",
-        "d": "Bi-monthly emissions from Conrad Standish and Sam Karmel, aka CS + Kreme - keeping it loose, deep and free.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/cs-kreme/episodes/cs-kreme-15th-august-2024",
-        "t": "restream"
-      },
-      {
-        "n": "NATALIA PANZER (R)",
-        "s": "2026-03-15T09:00:00Z",
-        "e": "2026-03-15T10:00:00Z",
-        "d": "Paulina and Janek Ufnal from Warsaw's Mondoj label share a guest mix guided by enigmatic storytelling, lightheartedness, and play. Sounds from Mondoj associates Olli Aarni, Patrick Shiroishi & Piotr Kurek, and Mike Cooper & Jason Kolàr interweave with recent finds and old favourites.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-19th-july-2025",
-        "t": "restream",
-        "p": "natalia",
-        "ap": [
-          "nataliapanzer"
-        ]
-      },
       {
         "n": "NTS Guide to: Italian Library, Soundtracks and OSTS (R)",
         "s": "2026-03-15T10:00:00Z",
@@ -324,9 +294,9 @@
         "n": "Austral w/ AYLU: Chile Special (R)",
         "s": "2026-03-16T00:00:00Z",
         "e": "2026-03-16T01:00:00Z",
-        "d": null,
+        "d": "Aylu shares an hour of Chilean protest music, and sounds of solidarity, marking 50 years since the country's violent military coup, which ousted democratic leader Salvador Allende. ",
         "j": "AYLU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/aylu/episodes/aylu-18th-september-2023",
         "t": "restream",
         "p": "aylu"
       },
@@ -464,25 +434,18 @@
         "j": "HD",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Get Grimy w/ Jamie 3:26",
+        "s": "2026-03-16T20:00:00Z",
+        "e": "2026-03-16T22:00:00Z",
+        "d": null,
+        "j": "Jamie 3",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "afters w/ little noises",
-        "s": "2026-03-15T08:00:00Z",
-        "e": "2026-03-15T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "ECHO CHAMBER",
-        "s": "2026-03-15T09:00:00Z",
-        "e": "2026-03-15T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-03-15T10:00:00Z",
@@ -586,6 +549,15 @@
         "j": null,
         "u": null,
         "p": "spotlight"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-15T23:00:00Z",
+        "e": "2026-03-16T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "DIANA DZJAMALDAEVA",
@@ -1666,17 +1638,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle.MIX_v4_FINAL w/ Celebrity Bitcrush & Guests",
+        "s": "2026-03-22T21:00:00Z",
+        "e": "2026-03-22T23:00:00Z",
+        "d": null,
+        "j": "Celebrity Bitcrush & Guests",
+        "u": null,
+        "t": "monthly",
+        "p": "guests"
       }
     ],
     "dublab": [
-      {
-        "n": "Ale Cohen - Elevation Through Sound",
-        "s": "2026-03-15T08:00:00Z",
-        "e": "2026-03-15T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-03-15T10:00:00Z",
@@ -2254,18 +2228,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-03-15T07:00:00Z",
-        "e": "2026-03-15T09:00:00Z",
+        "n": "Def Sound",
+        "s": "2026-03-22T22:00:00Z",
+        "e": "2026-03-23T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "defsound"
+      }
+    ],
+    "rinse": [
       {
         "n": "Phonica Records",
         "s": "2026-03-15T09:00:00Z",
