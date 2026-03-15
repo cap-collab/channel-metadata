@@ -1,34 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-15T18:27:26.260Z",
+  "updated": "2026-03-15T20:19:13.727Z",
   "stations": {
     "nts1": [
-      {
-        "n": "YOSHIMIO (R)",
-        "s": "2026-03-15T06:00:00Z",
-        "e": "2026-03-15T07:00:00Z",
-        "d": "YoshimiO, the Japanese multi-instrumentalist and member of Boredoms, OOIOO, and Free Kitten takes over the NTS signal in a monthly residency, sharing sounds from her record collection.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yoshimio/episodes/yoshimio-8th-february-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Alice Coltrane Special: Brandee Younger Live Performance (R)",
-        "s": "2026-03-15T07:00:00Z",
-        "e": "2026-03-15T07:30:00Z",
-        "d": "Jazz harpist and Alice Coltrane acolyte Brandee Younger pays tribute to her hero with a live harp performance. Featuring Brandee Younger on harp and Rashaan Carter on double bass, recorded at Younger’s home studio in New York, NY.\n\"I specifically chose these three pieces for NTS Radio to pay tribute to the groundbreaking work of Alice Coltrane and Dorothy Ashby, while also integrating my own voice. The set reflects their profound influence on my music and the continued evolution of harp music, which remains a significant source of inspiration for my work today.\"",
-        "j": "Brandee Younger Live Performance",
-        "u": "https://www.nts.live/api/v2/shows/alice-coltrane-special-2025/episodes/alice-coltrane-special-2025-brandee-younger-live-performance-9th-february-2025",
-        "t": "restream"
-      },
-      {
-        "n": "MARTIN NEWELL'S ODDCASTE",
-        "s": "2026-03-15T07:30:00Z",
-        "e": "2026-03-15T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "NTS Guide To: Pasillo Ecuatoriano (R)",
         "s": "2026-03-15T08:00:00Z",
@@ -113,9 +87,9 @@
         "n": "DEATH IS NOT THE END - Chutney, Tent Singing & Indo-Trinidadian Folk",
         "s": "2026-03-15T22:00:00Z",
         "e": "2026-03-16T00:00:00Z",
-        "d": null,
+        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-15th-march-2026"
       },
       {
         "n": "SLIME FM w/ Khadija Al Hanafi (R)",
@@ -257,18 +231,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "BEACH NOIR W/ NICK LEÓN",
+        "s": "2026-03-16T22:00:00Z",
+        "e": "2026-03-16T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "In Focus: Ween (R)",
-        "s": "2026-03-15T06:00:00Z",
-        "e": "2026-03-15T08:00:00Z",
-        "d": "Diving into the catalogues of Gene and Dean Ween.\nMix by Brian Coney.",
-        "j": "Ween",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-ween-28th-april-2023",
-        "t": "restream"
-      },
       {
         "n": "CS + KREME (R)",
         "s": "2026-03-15T08:00:00Z",
@@ -495,15 +468,6 @@
     ],
     "subtle": [
       {
-        "n": "Subtle Selects",
-        "s": "2026-03-15T04:00:00Z",
-        "e": "2026-03-15T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "afters w/ little noises",
         "s": "2026-03-15T08:00:00Z",
         "e": "2026-03-15T09:00:00Z",
@@ -596,6 +560,15 @@
         "j": null,
         "u": null,
         "p": "sofarsogood"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-15T20:00:00Z",
+        "e": "2026-03-15T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Off-Switch Audio",
@@ -1675,18 +1648,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Daedelus - Entropy Sessions",
-        "s": "2026-03-15T06:00:00Z",
-        "e": "2026-03-15T08:00:00Z",
+        "n": " The Process Show w/ EONE",
+        "s": "2026-03-22T19:00:00Z",
+        "e": "2026-03-22T20:00:00Z",
+        "d": null,
+        "j": "EONE",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "EBITDA",
+        "s": "2026-03-22T20:00:00Z",
+        "e": "2026-03-22T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "daedelus"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Ale Cohen - Elevation Through Sound",
         "s": "2026-03-15T08:00:00Z",
@@ -2263,18 +2245,18 @@
         "u": null,
         "t": "monthly",
         "p": "thomasklepper"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Maey",
-        "s": "2026-03-15T06:00:00Z",
-        "e": "2026-03-15T07:00:00Z",
+        "n": "Flight Club",
+        "s": "2026-03-22T20:00:00Z",
+        "e": "2026-03-22T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "maey"
-      },
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-03-15T07:00:00Z",
@@ -2349,7 +2331,7 @@
         "s": "2026-03-15T20:00:00Z",
         "e": "2026-03-15T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "7 Year Anniversary",
         "u": null,
         "t": "biweekly",
         "p": "oblig"
@@ -2547,15 +2529,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-14T23:00:00Z",
-        "e": "2026-03-15T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-15T08:00:00Z",
