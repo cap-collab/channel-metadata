@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-15T16:22:23.948Z",
+  "updated": "2026-03-15T18:27:26.260Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUNG DART (R)",
-        "s": "2026-03-15T04:00:00Z",
-        "e": "2026-03-15T05:00:00Z",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-1st-january-2024",
-        "t": "restream",
-        "p": "lungdart"
-      },
-      {
-        "n": "Blooming In Filth w/ CRISIS ACTING (R)",
-        "s": "2026-03-15T05:00:00Z",
-        "e": "2026-03-15T06:00:00Z",
-        "d": "Monthly transmissions from the eclectic world of CRISIS ACTING.",
-        "j": "CRISIS ACTING",
-        "u": "https://www.nts.live/api/v2/shows/crisis-acting/episodes/crisis-acting-26th-june-2024",
-        "t": "restream",
-        "p": "crisisacting"
-      },
       {
         "n": "YOSHIMIO (R)",
         "s": "2026-03-15T06:00:00Z",
@@ -115,18 +95,19 @@
         "n": "LUPINI",
         "s": "2026-03-15T18:00:00Z",
         "e": "2026-03-15T20:00:00Z",
-        "d": null,
+        "d": "A little bit sweet, a little bit sad, a little bit silly - Lupini keeps it (mainly) horizontal with a mix of dubwise sounds, psychedelic rock, synth-pop and new wave.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-15th-march-2026",
         "p": "lupini"
       },
       {
         "n": "AD 93 w/ Jasmine Wood",
         "s": "2026-03-15T20:00:00Z",
         "e": "2026-03-15T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests.\nOld 88 Transition shows available on the archive.",
+        "j": "Jasmine Wood",
+        "u": "https://www.nts.live/api/v2/shows/whities-w-tasker/episodes/whities-w-tasker-15th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "DEATH IS NOT THE END - Chutney, Tent Singing & Indo-Trinidadian Folk",
@@ -260,28 +241,25 @@
         "u": null,
         "t": "weekly",
         "p": "cocomaria"
+      },
+      {
+        "n": "Gabriel da Rosa",
+        "s": "2026-03-16T20:00:00Z",
+        "e": "2026-03-16T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Eno Inwang",
+        "s": "2026-03-16T21:00:00Z",
+        "e": "2026-03-16T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "AUNTIE-ISM W/ SHABAZZ (R)",
-        "s": "2026-03-15T04:00:00Z",
-        "e": "2026-03-15T05:00:00Z",
-        "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.",
-        "j": "SHABAZZ",
-        "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-24th-february-2025",
-        "t": "restream",
-        "p": "shabazz"
-      },
-      {
-        "n": "EDDIE FICTION (R)",
-        "s": "2026-03-15T05:00:00Z",
-        "e": "2026-03-15T06:00:00Z",
-        "d": "Musical peregrinations…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/its-nation-time/episodes/its-nation-time-7th-november-2022",
-        "t": "restream"
-      },
       {
         "n": "In Focus: Ween (R)",
         "s": "2026-03-15T06:00:00Z",
@@ -1688,18 +1666,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "2Step Selects ",
+        "s": "2026-03-22T17:00:00Z",
+        "e": "2026-03-22T19:00:00Z",
+        "d": "2Step Selects is a monthly show hosted by the Choki Biki Records crew. Founded in Dublin, Ireland, CBR consists of DJ Sharpson, 2step.png, Frame Shift, and MICK. The show consists of an all round breaks, electro, ukg and jungle hour, followed by an Irish showcase, demonstrating all the best Ireland has to offer collective/party/Dj & Producer wise!",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-15T04:00:00Z",
-        "e": "2026-03-15T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Daedelus - Entropy Sessions",
         "s": "2026-03-15T06:00:00Z",
@@ -2265,18 +2243,29 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-03-22T17:00:00Z",
+        "e": "2026-03-22T18:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
+      },
+      {
+        "n": "Thomas Klepper - Library of Sounds",
+        "s": "2026-03-22T18:00:00Z",
+        "e": "2026-03-22T20:00:00Z",
+        "d": null,
+        "j": "Library of Sounds",
+        "u": null,
+        "t": "monthly",
+        "p": "thomasklepper"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-03-15T03:00:00Z",
-        "e": "2026-03-15T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Maey",
         "s": "2026-03-15T06:00:00Z",
@@ -2465,7 +2454,7 @@
         "s": "2026-03-16T12:00:00Z",
         "e": "2026-03-16T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Stacy N.K.R",
         "u": null,
         "t": "monthly",
         "p": "niallsmith"
