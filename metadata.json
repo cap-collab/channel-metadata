@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-16T07:06:19.533Z",
+  "updated": "2026-03-16T08:45:42.641Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUPINI",
-        "s": "2026-03-15T18:00:00Z",
-        "e": "2026-03-15T20:00:00Z",
-        "d": "A little bit sweet, a little bit sad, a little bit silly - Lupini keeps it (mainly) horizontal with a mix of dubwise sounds, psychedelic rock, synth-pop and new wave.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-15th-march-2026",
-        "p": "lupini"
-      },
       {
         "n": "AD 93 w/ Jasmine Wood",
         "s": "2026-03-15T20:00:00Z",
@@ -342,9 +333,9 @@
         "n": "WEST COAST FOG - Into Infinity (R)",
         "s": "2026-03-16T09:00:00Z",
         "e": "2026-03-16T10:00:00Z",
-        "d": null,
+        "d": "The stage is set for a spiritual Spring sojourn in the foothills. We listen to devotional joy on cassettes from the '80s and '90s, Germany, India, and California.",
         "j": "Into Infinity",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/west-coast-fog/episodes/west-coast-fog-7th-february-2024",
         "t": "restream"
       },
       {
@@ -411,14 +402,13 @@
         "p": "nativesoundsystem"
       },
       {
-        "n": "1080P w/ HD",
+        "n": "Get Grimy w/ Jamie 3:26",
         "s": "2026-03-16T19:00:00Z",
-        "e": "2026-03-16T20:00:00Z",
+        "e": "2026-03-16T21:00:00Z",
         "d": null,
-        "j": "HD",
+        "j": "Jamie 3",
         "u": null,
-        "t": "monthly",
-        "p": "hd"
+        "t": "biweekly"
       },
       {
         "n": "Get Grimy w/ Jamie 3:26",
@@ -427,12 +417,12 @@
         "d": null,
         "j": "Jamie 3",
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Kristin Kontrol Presents: Out of Vogue",
-        "s": "2026-03-16T22:00:00Z",
-        "e": "2026-03-16T23:00:00Z",
+        "s": "2026-03-16T21:00:00Z",
+        "e": "2026-03-16T22:00:00Z",
         "d": null,
         "j": "Out of Vogue",
         "u": null,
@@ -441,16 +431,16 @@
       },
       {
         "n": "ASTRAL GARDEN W/ NAILAH HUNTER",
-        "s": "2026-03-16T23:00:00Z",
-        "e": "2026-03-17T00:00:00Z",
+        "s": "2026-03-16T22:00:00Z",
+        "e": "2026-03-16T23:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "HIT FACTORY",
-        "s": "2026-03-17T00:00:00Z",
-        "e": "2026-03-17T01:00:00Z",
+        "s": "2026-03-16T23:00:00Z",
+        "e": "2026-03-17T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -458,12 +448,22 @@
       },
       {
         "n": "Total Stasis",
-        "s": "2026-03-17T01:00:00Z",
-        "e": "2026-03-17T02:00:00Z",
+        "s": "2026-03-17T00:00:00Z",
+        "e": "2026-03-17T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "p": "totalstasis"
+      },
+      {
+        "n": "DELIVERY PRESENTS: HAAN",
+        "s": "2026-03-17T01:00:00Z",
+        "e": "2026-03-17T02:00:00Z",
+        "d": null,
+        "j": "HAAN",
+        "u": null,
+        "t": "biweekly",
+        "p": "delivery"
       },
       {
         "n": "DELIVERY PRESENTS: HAAN",
@@ -472,7 +472,7 @@
         "d": null,
         "j": "HAAN",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "delivery"
       },
       {
@@ -484,18 +484,36 @@
         "u": null,
         "t": "restream",
         "p": "akito"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "So Far So Good",
-        "s": "2026-03-15T19:00:00Z",
-        "e": "2026-03-15T20:00:00Z",
+        "n": "ALL STYLES ALL SMILES (R)",
+        "s": "2026-03-17T05:00:00Z",
+        "e": "2026-03-17T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "sofarsogood"
+        "t": "restream"
       },
+      {
+        "n": "MUSIQUE TOPS (R)",
+        "s": "2026-03-17T06:00:00Z",
+        "e": "2026-03-17T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "babyschön (R)",
+        "s": "2026-03-17T07:00:00Z",
+        "e": "2026-03-17T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-03-15T20:00:00Z",
@@ -1680,14 +1698,6 @@
     ],
     "dublab": [
       {
-        "n": "Burgers – DOSTI",
-        "s": "2026-03-15T18:00:00Z",
-        "e": "2026-03-15T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Barbarelle - Atlas",
         "s": "2026-03-15T20:00:00Z",
         "e": "2026-03-15T22:00:00Z",
@@ -2263,15 +2273,6 @@
     ],
     "rinse": [
       {
-        "n": "Night Slugs",
-        "s": "2026-03-15T19:00:00Z",
-        "e": "2026-03-15T20:00:00Z",
-        "d": null,
-        "j": "Girl Unit",
-        "u": null,
-        "p": "nightslugs"
-      },
-      {
         "n": "Oblig",
         "s": "2026-03-15T20:00:00Z",
         "e": "2026-03-15T21:00:00Z",
@@ -2644,14 +2645,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Weirdies Records",
-        "s": "2026-03-15T19:00:00Z",
-        "e": "2026-03-15T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2026-03-15T20:00:00Z",
         "e": "2026-03-15T23:00:00Z",
@@ -2679,9 +2672,97 @@
         "t": "playlist"
       },
       {
-        "n": "Charlie 3000",
+        "n": "O.Xander",
         "s": "2026-03-16T13:00:00Z",
+        "e": "2026-03-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "oxander"
+      },
+      {
+        "n": "Sébastien Forrester",
+        "s": "2026-03-16T14:00:00Z",
         "e": "2026-03-16T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sbastienforrester"
+      },
+      {
+        "n": "Music For Tourist",
+        "s": "2026-03-16T15:00:00Z",
+        "e": "2026-03-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "musicfortourist"
+      },
+      {
+        "n": "Tatie Dee",
+        "s": "2026-03-16T16:00:00Z",
+        "e": "2026-03-16T17:00:00Z",
+        "d": null,
+        "j": "Mew",
+        "u": null
+      },
+      {
+        "n": "FIONA",
+        "s": "2026-03-16T17:00:00Z",
+        "e": "2026-03-16T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "fiona"
+      },
+      {
+        "n": "Belaria",
+        "s": "2026-03-16T18:00:00Z",
+        "e": "2026-03-16T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "belaria"
+      },
+      {
+        "n": "Weirdies Records",
+        "s": "2026-03-16T19:00:00Z",
+        "e": "2026-03-16T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-16T20:00:00Z",
+        "e": "2026-03-16T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-16T23:00:00Z",
+        "e": "2026-03-17T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-17T08:00:00Z",
+        "e": "2026-03-17T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Charlie 3000",
+        "s": "2026-03-17T13:00:00Z",
+        "e": "2026-03-17T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2690,8 +2771,8 @@
       },
       {
         "n": "AB DOLLARS",
-        "s": "2026-03-16T15:00:00Z",
-        "e": "2026-03-16T16:00:00Z",
+        "s": "2026-03-17T15:00:00Z",
+        "e": "2026-03-17T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2699,8 +2780,8 @@
       },
       {
         "n": "Jeune à Jamais",
-        "s": "2026-03-16T16:00:00Z",
-        "e": "2026-03-16T17:00:00Z",
+        "s": "2026-03-17T16:00:00Z",
+        "e": "2026-03-17T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2709,16 +2790,16 @@
       },
       {
         "n": "AES",
-        "s": "2026-03-16T17:00:00Z",
-        "e": "2026-03-16T18:00:00Z",
+        "s": "2026-03-17T17:00:00Z",
+        "e": "2026-03-17T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Nyege Nyege",
-        "s": "2026-03-16T18:00:00Z",
-        "e": "2026-03-16T19:00:00Z",
+        "s": "2026-03-17T18:00:00Z",
+        "e": "2026-03-17T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2726,8 +2807,8 @@
       },
       {
         "n": "Zaltan",
-        "s": "2026-03-16T19:00:00Z",
-        "e": "2026-03-16T20:00:00Z",
+        "s": "2026-03-17T19:00:00Z",
+        "e": "2026-03-17T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2735,8 +2816,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-03-16T20:00:00Z",
-        "e": "2026-03-16T21:00:00Z",
+        "s": "2026-03-17T20:00:00Z",
+        "e": "2026-03-17T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
