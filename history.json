@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-03-16T01:27:19.167Z",
+  "updated": "2026-03-16T04:32:48.442Z",
   "stations": {
     "nts1": [
       {
@@ -950,7 +950,10 @@
         "d": "Odda Recordings label owner Thea HD unearths the lesser known common sounds. from old soundtracks, library music to experimental electronic music…",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/thea-hd/episodes/thea-hd-22nd-february-2026",
-        "p": "theahd"
+        "p": "hd",
+        "ap": [
+          "theahd"
+        ]
       },
       {
         "n": "SOPHIA ZHURAVKOVA W/ AIEL",
@@ -2405,7 +2408,10 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/thea-hd/episodes/thea-hd-8th-march-2026",
         "t": "biweekly",
-        "p": "theahd"
+        "p": "hd",
+        "ap": [
+          "theahd"
+        ]
       },
       {
         "n": "Ondas w/ Dubby",
@@ -3587,6 +3593,14 @@
         "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-15th-march-2026"
+      },
+      {
+        "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
+        "s": "2026-03-15T13:00:00Z",
+        "e": "2026-03-15T15:00:00Z",
+        "d": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.\nFrom the host: \"2 hrs of eclectic oldness and newness…\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/ifmusic/episodes/ifmusic-15th-march-2026"
       }
     ],
     "nts2": [
@@ -3696,7 +3710,8 @@
         "e": "2026-02-16T20:00:00Z",
         "d": "HD features a vast variety of guests spanning across hip hop, RnB and electronic music to talk about music, culture and life aswell as share their favorite selections of any genre.\nFrom the host: \"This episode is pure energy in the mix with HD including techno, guaracha, dembow, freestyle + more.\"",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hd/episodes/hd-16th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/hd/episodes/hd-16th-february-2026",
+        "p": "hd"
       },
       {
         "n": "Get Grimy w/ Jamie 3:26",
@@ -7949,6 +7964,35 @@
         "j": "Italian Library, Soundtracks and OSTS",
         "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-italian-library-soundtracks-and-osts-25th-february-2026",
         "t": "restream"
+      },
+      {
+        "n": "Tommasi - Italian Cinematic Summer Special (R)",
+        "s": "2026-03-15T12:00:00Z",
+        "e": "2026-03-15T14:00:00Z",
+        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
+        "j": "Italian Cinematic Summer Special",
+        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-15th-june-2025",
+        "t": "restream",
+        "p": "tommasi"
+      },
+      {
+        "n": "Claire Milbrath (R)",
+        "s": "2026-03-15T14:00:00Z",
+        "e": "2026-03-15T15:00:00Z",
+        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-25th-december-2022",
+        "t": "restream"
+      },
+      {
+        "n": "Stereolab w/ Tim Gane - ITALIAN SPECIAL (R)",
+        "s": "2026-03-15T15:00:00Z",
+        "e": "2026-03-15T16:00:00Z",
+        "d": "Stereolab co-founder Tim Gane pulls together a special episode of exclusively Italian library music from film soundtracks. ",
+        "j": "Tim Gane",
+        "u": "https://www.nts.live/api/v2/shows/stereolab/episodes/stereolab-tim-gane-29th-may-2025",
+        "t": "restream",
+        "p": "stereolab"
       }
     ],
     "subtle": [
@@ -12610,6 +12654,32 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ItsJermayne",
+        "s": "2026-03-15T13:00:00Z",
+        "e": "2026-03-15T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "itsjermayne"
+      },
+      {
+        "n": " What's The Weather, Selecta? w/ Megan Wroe",
+        "s": "2026-03-15T14:00:00Z",
+        "e": "2026-03-15T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Chaitu",
+        "s": "2026-03-15T15:00:00Z",
+        "e": "2026-03-15T16:00:00Z",
+        "d": "Hailing from Mumbai, now living in London, Chaitu is energised by the UK sound and scene.\r\n\r\nWith a love of all things weird, weighty and groovy; his mixes and productions bridge electro, techno, breaks, UKG and Jungle, with sprinklings of everything in between.\r\n\r\nChaitu champions provocative beats that break down the barriers of style, genre and expectation, all while keeping you moving.",
+        "j": null,
+        "u": null,
+        "p": "chaitu"
       }
     ],
     "dublab": [
@@ -15690,6 +15760,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-15T12:00:00Z",
         "e": "2026-03-15T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "djjs",
+        "s": "2026-03-15T13:00:00Z",
+        "e": "2026-03-15T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -19238,6 +19317,14 @@
         "j": "Sub Basics",
         "u": null,
         "p": "wisdomteeth"
+      },
+      {
+        "n": "CoOp Presents",
+        "s": "2026-03-15T13:00:00Z",
+        "e": "2026-03-15T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinsefr": [
@@ -19548,7 +19635,8 @@
         "e": "2026-02-19T18:00:00Z",
         "d": null,
         "j": "invite mAdvil",
-        "u": null
+        "u": null,
+        "p": "baleavecmaa"
       },
       {
         "n": "Exa-Terra",
@@ -21272,6 +21360,33 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "O.Xander",
+        "s": "2026-03-15T13:00:00Z",
+        "e": "2026-03-15T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "oxander"
+      },
+      {
+        "n": "Sébastien Forrester",
+        "s": "2026-03-15T14:00:00Z",
+        "e": "2026-03-15T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sbastienforrester"
+      },
+      {
+        "n": "Music For Tourist",
+        "s": "2026-03-15T15:00:00Z",
+        "e": "2026-03-15T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "musicfortourist"
       }
     ],
     "newtown": []

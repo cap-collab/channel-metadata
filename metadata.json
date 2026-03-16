@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-16T01:27:06.299Z",
+  "updated": "2026-03-16T04:32:37.647Z",
   "stations": {
     "nts1": [
-      {
-        "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
-        "s": "2026-03-15T13:00:00Z",
-        "e": "2026-03-15T15:00:00Z",
-        "d": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.\nFrom the host: \"2 hrs of eclectic oldness and newness…\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ifmusic/episodes/ifmusic-15th-march-2026"
-      },
       {
         "n": "SUNDAY CLUB w/ FINN",
         "s": "2026-03-15T15:00:00Z",
@@ -101,9 +93,9 @@
         "n": "TOMMASI (R)",
         "s": "2026-03-16T04:00:00Z",
         "e": "2026-03-16T06:00:00Z",
-        "d": null,
+        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-10th-august-2025",
         "t": "restream",
         "p": "tommasi"
       },
@@ -111,9 +103,9 @@
         "n": "FINE (R)",
         "s": "2026-03-16T06:00:00Z",
         "e": "2026-03-16T07:00:00Z",
-        "d": null,
+        "d": "Sonic diaries from Fine…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-18th-september-2025",
         "t": "restream"
       },
       {
@@ -233,38 +225,38 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "NEUE TANZ W/ JULES (R)",
+        "s": "2026-03-17T03:00:00Z",
+        "e": "2026-03-17T04:00:00Z",
+        "d": null,
+        "j": "JULES",
+        "u": null,
+        "t": "restream",
+        "p": "jules"
+      },
+      {
+        "n": "SKEE MASK PRESENTS: FEIERABEND (R)",
+        "s": "2026-03-17T04:00:00Z",
+        "e": "2026-03-17T05:00:00Z",
+        "d": null,
+        "j": "FEIERABEND",
+        "u": null,
+        "t": "restream",
+        "p": "skeemask"
+      },
+      {
+        "n": "SOFAY & RIBEKA (R)",
+        "s": "2026-03-17T05:00:00Z",
+        "e": "2026-03-17T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "Tommasi - Italian Cinematic Summer Special (R)",
-        "s": "2026-03-15T12:00:00Z",
-        "e": "2026-03-15T14:00:00Z",
-        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
-        "j": "Italian Cinematic Summer Special",
-        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-15th-june-2025",
-        "t": "restream",
-        "p": "tommasi"
-      },
-      {
-        "n": "Claire Milbrath (R)",
-        "s": "2026-03-15T14:00:00Z",
-        "e": "2026-03-15T15:00:00Z",
-        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-25th-december-2022",
-        "t": "restream"
-      },
-      {
-        "n": "Stereolab w/ Tim Gane - ITALIAN SPECIAL (R)",
-        "s": "2026-03-15T15:00:00Z",
-        "e": "2026-03-15T16:00:00Z",
-        "d": "Stereolab co-founder Tim Gane pulls together a special episode of exclusively Italian library music from film soundtracks. ",
-        "j": "Tim Gane",
-        "u": "https://www.nts.live/api/v2/shows/stereolab/episodes/stereolab-tim-gane-29th-may-2025",
-        "t": "restream",
-        "p": "stereolab"
-      },
       {
         "n": "NTS x Strata-East Records Special (Mixed By Jean-Claude) (R)",
         "s": "2026-03-15T16:00:00Z",
@@ -315,9 +307,9 @@
         "n": "Como La Flor (R)",
         "s": "2026-03-16T05:00:00Z",
         "e": "2026-03-16T06:00:00Z",
-        "d": null,
+        "d": "Música sentimental for all the sad girls and sad boys.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jazmin-garcia/episodes/como-la-flor-6th-june-2022",
         "t": "restream"
       },
       {
@@ -426,7 +418,8 @@
         "d": null,
         "j": "HD",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "hd"
       },
       {
         "n": "Get Grimy w/ Jamie 3:26",
@@ -438,17 +431,27 @@
         "t": "monthly"
       },
       {
-        "n": "ASTRAL GARDEN W/ NAILAH HUNTER",
+        "n": "Kristin Kontrol Presents: Out of Vogue",
         "s": "2026-03-16T22:00:00Z",
         "e": "2026-03-16T23:00:00Z",
+        "d": null,
+        "j": "Out of Vogue",
+        "u": null,
+        "t": "monthly",
+        "p": "kristinkontrol"
+      },
+      {
+        "n": "ASTRAL GARDEN W/ NAILAH HUNTER",
+        "s": "2026-03-16T23:00:00Z",
+        "e": "2026-03-17T00:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "HIT FACTORY",
-        "s": "2026-03-16T23:00:00Z",
-        "e": "2026-03-17T00:00:00Z",
+        "s": "2026-03-17T00:00:00Z",
+        "e": "2026-03-17T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -456,32 +459,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "ItsJermayne",
-        "s": "2026-03-15T13:00:00Z",
-        "e": "2026-03-15T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "itsjermayne"
-      },
-      {
-        "n": " What's The Weather, Selecta? w/ Megan Wroe",
-        "s": "2026-03-15T14:00:00Z",
-        "e": "2026-03-15T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Chaitu",
-        "s": "2026-03-15T15:00:00Z",
-        "e": "2026-03-15T16:00:00Z",
-        "d": "Hailing from Mumbai, now living in London, Chaitu is energised by the UK sound and scene.\r\n\r\nWith a love of all things weird, weighty and groovy; his mixes and productions bridge electro, techno, breaks, UKG and Jungle, with sprinklings of everything in between.\r\n\r\nChaitu champions provocative beats that break down the barriers of style, genre and expectation, all while keeping you moving.",
-        "j": null,
-        "u": null,
-        "p": "chaitu"
-      },
       {
         "n": "Dorian Day",
         "s": "2026-03-15T16:00:00Z",
@@ -581,6 +558,15 @@
         "j": "Low Frequencies",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-16T04:00:00Z",
+        "e": "2026-03-16T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Matthew Mas",
@@ -1660,18 +1646,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs",
-        "s": "2026-03-15T13:00:00Z",
-        "e": "2026-03-15T15:00:00Z",
+        "n": "Arma",
+        "s": "2026-03-23T02:00:00Z",
+        "e": "2026-03-23T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "arma"
+      }
+    ],
+    "dublab": [
       {
         "n": "djjs 2",
         "s": "2026-03-15T15:00:00Z",
@@ -2240,17 +2227,22 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Gabie Strong and Ian Wellman - Zone Mapping",
+        "s": "2026-03-23T04:00:00Z",
+        "e": "2026-03-23T06:00:00Z",
+        "d": null,
+        "j": "Zone Mapping",
+        "u": null,
+        "t": "monthly",
+        "p": "gabiestrong",
+        "ap": [
+          "ianwellman"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "CoOp Presents",
-        "s": "2026-03-15T13:00:00Z",
-        "e": "2026-03-15T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Supa D",
         "s": "2026-03-15T15:00:00Z",
@@ -2658,33 +2650,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "O.Xander",
-        "s": "2026-03-15T13:00:00Z",
-        "e": "2026-03-15T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "oxander"
-      },
-      {
-        "n": "Sébastien Forrester",
-        "s": "2026-03-15T14:00:00Z",
-        "e": "2026-03-15T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "sbastienforrester"
-      },
-      {
-        "n": "Music For Tourist",
-        "s": "2026-03-15T15:00:00Z",
-        "e": "2026-03-15T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "musicfortourist"
-      },
       {
         "n": "Tatie Dee",
         "s": "2026-03-15T16:00:00Z",
