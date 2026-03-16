@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-16T16:54:06.045Z",
+  "updated": "2026-03-16T18:50:37.687Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TOMMASI (R)",
-        "s": "2026-03-16T04:00:00Z",
-        "e": "2026-03-16T06:00:00Z",
-        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-10th-august-2025",
-        "t": "restream",
-        "p": "tommasi"
-      },
       {
         "n": "FINE (R)",
         "s": "2026-03-16T06:00:00Z",
@@ -78,9 +68,9 @@
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-03-16T18:00:00Z",
         "e": "2026-03-16T20:00:00Z",
-        "d": null,
+        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
         "j": "COCO MARIA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-16th-march-2026",
         "t": "weekly",
         "p": "cocomaria"
       },
@@ -88,9 +78,9 @@
         "n": "Gabriel da Rosa",
         "s": "2026-03-16T20:00:00Z",
         "e": "2026-03-16T21:00:00Z",
-        "d": null,
+        "d": "Rio Grande do Sul songwriter Gabriel da Rosa selects an hour of classic bossa nova and Brazilian pop music in a guest appearance.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/gabriel-da-rosa-16th-march-2026"
       },
       {
         "n": "Eno Inwang",
@@ -222,27 +212,25 @@
         "u": null,
         "t": "weekly",
         "p": "margeaux"
+      },
+      {
+        "n": "SNO",
+        "s": "2026-03-17T17:00:00Z",
+        "e": "2026-03-17T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Lovie",
+        "s": "2026-03-17T18:00:00Z",
+        "e": "2026-03-17T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "IN FOCUS: Yello (R)",
-        "s": "2026-03-16T03:00:00Z",
-        "e": "2026-03-16T05:00:00Z",
-        "d": "Music from absurdist Swiss electronic pioneers fills this month's In Focus slot. Selected and mixed by Alex Egan.",
-        "j": "Yello",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-yello-31st-july-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Como La Flor (R)",
-        "s": "2026-03-16T05:00:00Z",
-        "e": "2026-03-16T06:00:00Z",
-        "d": "Música sentimental for all the sad girls and sad boys.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jazmin-garcia/episodes/como-la-flor-6th-june-2022",
-        "t": "restream"
-      },
       {
         "n": "Sofie Birch - Spring Booze Mix (R)",
         "s": "2026-03-16T06:00:00Z",
@@ -344,9 +332,9 @@
         "n": "Native Soundsystem w/ Sholz",
         "s": "2026-03-16T18:00:00Z",
         "e": "2026-03-16T19:00:00Z",
-        "d": null,
+        "d": "Native Sound System join us once a month, breaking the latest sounds from Lagos",
         "j": "Sholz",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/native-soundsystem/episodes/native-soundsystem-16th-march-2026",
         "t": "monthly",
         "p": "nativesoundsystem"
       },
@@ -354,9 +342,9 @@
         "n": "Get Grimy w/ Jamie 3:26",
         "s": "2026-03-16T19:00:00Z",
         "e": "2026-03-16T21:00:00Z",
-        "d": null,
+        "d": "Head of Grimy Edits, Zernell Gillie's style can range from the heart of disco to the soul of Chicago house - he heads up a 2 hour slot once a month from our LA studio. ",
         "j": "Jamie 3",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zernell/episodes/zernell-16th-march-2026",
         "t": "biweekly"
       },
       {
@@ -387,7 +375,7 @@
         "u": null
       },
       {
-        "n": "HIT FACTORY",
+        "n": "Hit Factory w/ DJ Wawa",
         "s": "2026-03-16T23:00:00Z",
         "e": "2026-03-17T00:00:00Z",
         "d": null,
@@ -411,18 +399,26 @@
         "d": null,
         "j": "HAAN",
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "delivery"
       },
       {
-        "n": "DELIVERY PRESENTS: HAAN",
+        "n": "Heaven is in You w/ ADAB (R)",
         "s": "2026-03-17T02:00:00Z",
         "e": "2026-03-17T03:00:00Z",
         "d": null,
-        "j": "HAAN",
+        "j": "ADAB",
         "u": null,
-        "t": "biweekly",
-        "p": "delivery"
+        "t": "restream"
+      },
+      {
+        "n": "Foreign Hour (R)",
+        "s": "2026-03-17T03:00:00Z",
+        "e": "2026-03-17T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Akito (R)",
@@ -510,15 +506,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-16T04:00:00Z",
-        "e": "2026-03-16T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Matthew Mas",
         "s": "2026-03-16T06:00:00Z",
@@ -830,23 +817,13 @@
         "p": "deeperdnb"
       },
       {
-        "n": "ASH BASH - SHOWTIME",
+        "n": " ExtraSauce w/ eatmybeat",
         "s": "2026-03-17T21:00:00Z",
-        "e": "2026-03-17T22:00:00Z",
-        "d": null,
-        "j": "SHOWTIME",
-        "u": null,
-        "t": "monthly",
-        "p": "ash"
-      },
-      {
-        "n": " Bassfreight Sound",
-        "s": "2026-03-17T22:00:00Z",
         "e": "2026-03-17T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "eatmybeat",
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "The R.I.P Show",
@@ -1717,18 +1694,29 @@
         "u": null,
         "t": "monthly",
         "p": "garth"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Jackie Stewart - Fantastica",
-        "s": "2026-03-16T04:00:00Z",
-        "e": "2026-03-16T06:00:00Z",
+        "n": "Dunman",
+        "s": "2026-03-23T17:00:00Z",
+        "e": "2026-03-23T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "jackiestewart"
+        "t": "monthly",
+        "p": "dunman"
       },
+      {
+        "n": "Grigio",
+        "s": "2026-03-23T18:00:00Z",
+        "e": "2026-03-23T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "grigio"
+      }
+    ],
+    "dublab": [
       {
         "n": "Jess Fu - APEX",
         "s": "2026-03-16T06:00:00Z",
@@ -1796,6 +1784,15 @@
         "p": "renecontreras"
       },
       {
+        "n": "sounds of NOW",
+        "s": "2026-03-16T20:00:00Z",
+        "e": "2026-03-16T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
         "n": "Rani de Leon - Tizita Radio",
         "s": "2026-03-16T22:00:00Z",
         "e": "2026-03-17T00:00:00Z",
@@ -1804,6 +1801,15 @@
         "u": null,
         "t": "monthly",
         "p": "ranideleon"
+      },
+      {
+        "n": "RERUN: Butterfly Beat",
+        "s": "2026-03-17T00:00:00Z",
+        "e": "2026-03-17T02:00:00Z",
+        "d": null,
+        "j": "Butterfly Beat",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Encarnación - Lucid Hour",
@@ -2276,18 +2282,29 @@
         "ap": [
           "ianwellman"
         ]
+      },
+      {
+        "n": "christeeeene - cherry custard",
+        "s": "2026-03-23T17:00:00Z",
+        "e": "2026-03-23T18:00:00Z",
+        "d": null,
+        "j": "cherry custard",
+        "u": null,
+        "t": "monthly",
+        "p": "christeeeene"
+      },
+      {
+        "n": "Rene Contreras - Viva! Talks",
+        "s": "2026-03-23T18:00:00Z",
+        "e": "2026-03-23T20:00:00Z",
+        "d": null,
+        "j": "Viva! Talks",
+        "u": null,
+        "t": "weekly",
+        "p": "renecontreras"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-03-16T03:00:00Z",
-        "e": "2026-03-16T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Paradise",
         "s": "2026-03-16T06:00:00Z",
