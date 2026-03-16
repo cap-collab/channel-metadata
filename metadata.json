@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-16T18:50:37.687Z",
+  "updated": "2026-03-16T20:29:15.096Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FINE (R)",
-        "s": "2026-03-16T06:00:00Z",
-        "e": "2026-03-16T07:00:00Z",
-        "d": "Sonic diaries from Fine…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-18th-september-2025",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ CARLA DAL FORNO",
         "s": "2026-03-16T07:00:00Z",
@@ -86,9 +77,9 @@
         "n": "Eno Inwang",
         "s": "2026-03-16T21:00:00Z",
         "e": "2026-03-16T22:00:00Z",
-        "d": null,
+        "d": "A past favourite of our NTS Supporters series, Eno Inwang presents a guest show on NTS proper, playing Brazilian soul, free jazz, vintage J-pop and more.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/eno-inwang-16th-march-2026"
       },
       {
         "n": "BEACH NOIR W/ NICK LEÓN",
@@ -228,27 +219,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS Guide to: '80s Sophisti-Funk",
+        "s": "2026-03-17T19:00:00Z",
+        "e": "2026-03-17T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Sofie Birch - Spring Booze Mix (R)",
-        "s": "2026-03-16T06:00:00Z",
-        "e": "2026-03-16T07:00:00Z",
-        "d": null,
-        "j": "Spring Booze Mix",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "NTS Guide to: Women of 60s & 70s Folk (R)",
-        "s": "2026-03-16T07:00:00Z",
-        "e": "2026-03-16T08:00:00Z",
-        "d": "Anne Briggs, Sibylle Bayer, Karen Dalton and more shepherds of the folk revival in this hour long guide to.",
-        "j": "Women of 60s & 70s Folk",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-women-of-60s-70s-folk-4th-july-2023",
-        "t": "restream"
-      },
       {
         "n": "HIGH JAZZ* w/ ill Dubio (R)",
         "s": "2026-03-16T08:00:00Z",
@@ -360,9 +341,9 @@
         "n": "Kristin Kontrol Presents: Out of Vogue",
         "s": "2026-03-16T21:00:00Z",
         "e": "2026-03-16T22:00:00Z",
-        "d": null,
+        "d": "Former frontwoman of rock outfit Dum Dum Girls eschews the pseudonym with her new solo project, Kristin Kontrol. Newly relocated to LA, Kristin delivers a monthly mix of expansive and hypnotic sounds: one part Durutti Column to two parts Alice Coltrane.\nFrom the host: \"Tune in to hear the new Daughn Gibson song, \"Sacred Life.\"\"",
         "j": "Out of Vogue",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kristin-kontrol/episodes/kristin-kontrol-16th-march-2026",
         "t": "monthly",
         "p": "kristinkontrol"
       },
@@ -503,27 +484,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "LORAINE JAMES",
+        "s": "2026-03-17T14:00:00Z",
+        "e": "2026-03-17T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lorainejames"
       }
     ],
     "subtle": [
-      {
-        "n": "Matthew Mas",
-        "s": "2026-03-16T06:00:00Z",
-        "e": "2026-03-16T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-16T07:00:00Z",
-        "e": "2026-03-16T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Liquid Daybreak",
         "s": "2026-03-16T08:00:00Z",
@@ -1714,19 +1687,29 @@
         "u": null,
         "t": "monthly",
         "p": "grigio"
+      },
+      {
+        "n": "Deadly Unserious",
+        "s": "2026-03-23T19:00:00Z",
+        "e": "2026-03-23T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "deadlyunserious"
+      },
+      {
+        "n": "Scandal Sounds",
+        "s": "2026-03-23T20:00:00Z",
+        "e": "2026-03-23T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "scandalsounds"
       }
     ],
     "dublab": [
-      {
-        "n": "Jess Fu - APEX",
-        "s": "2026-03-16T06:00:00Z",
-        "e": "2026-03-16T08:00:00Z",
-        "d": null,
-        "j": "APEX",
-        "u": null,
-        "t": "monthly",
-        "p": "jessfu"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-03-16T08:00:00Z",
@@ -2302,19 +2285,18 @@
         "u": null,
         "t": "weekly",
         "p": "renecontreras"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Paradise",
-        "s": "2026-03-16T06:00:00Z",
-        "e": "2026-03-16T07:00:00Z",
+        "n": "Domenic Priore - '66 Sunset Strip",
+        "s": "2026-03-23T20:00:00Z",
+        "e": "2026-03-23T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "paradise"
-      },
+        "p": "domenicpriore"
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-03-16T07:00:00Z",
@@ -2613,15 +2595,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-15T23:00:00Z",
-        "e": "2026-03-16T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-16T08:00:00Z",
