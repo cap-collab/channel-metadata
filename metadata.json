@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-16T08:45:42.641Z",
+  "updated": "2026-03-16T10:46:13.456Z",
   "stations": {
     "nts1": [
-      {
-        "n": "AD 93 w/ Jasmine Wood",
-        "s": "2026-03-15T20:00:00Z",
-        "e": "2026-03-15T22:00:00Z",
-        "d": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests.\nOld 88 Transition shows available on the archive.",
-        "j": "Jasmine Wood",
-        "u": "https://www.nts.live/api/v2/shows/whities-w-tasker/episodes/whities-w-tasker-15th-march-2026",
-        "t": "monthly"
-      },
       {
         "n": "DEATH IS NOT THE END - Chutney, Tent Singing & Indo-Trinidadian Folk",
         "s": "2026-03-15T22:00:00Z",
@@ -100,9 +91,9 @@
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-03-16T11:00:00Z",
         "e": "2026-03-16T13:00:00Z",
-        "d": null,
+        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
         "j": "John Gómez",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-16th-march-2026",
         "t": "weekly"
       },
       {
@@ -244,18 +235,19 @@
         "u": null,
         "t": "weekly",
         "p": "martha"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-03-17T09:00:00Z",
+        "e": "2026-03-17T11:00:00Z",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "NTS x Strata-East Records Special (Mixed By Jean-Claude) (R)",
-        "s": "2026-03-15T16:00:00Z",
-        "e": "2026-03-15T22:00:00Z",
-        "d": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ifmusic/episodes/ifmusic-nts-x-strata-east-records-spesh-mixed-by-jean-claude-26th-december-2024",
-        "t": "restream"
-      },
       {
         "n": "Peking Spring presents: Danny Bushes 'Implicated' Mixtape (R)",
         "s": "2026-03-15T22:00:00Z",
@@ -342,18 +334,18 @@
         "n": "The Head Zone w/ Ripley Johnson (R)",
         "s": "2026-03-16T10:00:00Z",
         "e": "2026-03-16T11:00:00Z",
-        "d": null,
+        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
         "j": "Ripley Johnson",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/moon-duo-8th-january-2026",
         "t": "restream"
       },
       {
         "n": "THE WONDER CABINET",
         "s": "2026-03-16T11:00:00Z",
         "e": "2026-03-16T12:00:00Z",
-        "d": null,
+        "d": "Sounds and recordings from resident artists at the Wonder Cabinet space in Cremisan Valley, Bethlehem.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-wonder-cabinet/episodes/the-wonder-cabinet-16th-march-2026"
       },
       {
         "n": "SKYAPNEA - long tunes only",
@@ -365,13 +357,12 @@
         "p": "skyapnea"
       },
       {
-        "n": "MALA JUNTA",
+        "n": "AO RADIO PRESENTS NIGERIAN UNDERGROUND W/ RACHEL, ROBERTO, ONA & EBUBE",
         "s": "2026-03-16T14:00:00Z",
         "e": "2026-03-16T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "malajunta"
+        "u": null
       },
       {
         "n": "MALA JUNTA w/ Ananda",
@@ -511,26 +502,19 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Imagine Soundtracks w/ redkoffee: Michiko to Hatchin (R)",
+        "s": "2026-03-17T10:00:00Z",
+        "e": "2026-03-17T11:00:00Z",
+        "d": null,
+        "j": "redkoffee",
+        "u": null,
+        "t": "restream",
+        "p": "redkoffee"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-15T20:00:00Z",
-        "e": "2026-03-15T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Off-Switch Audio",
-        "s": "2026-03-15T21:00:00Z",
-        "e": "2026-03-15T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "SPOTLIGHT EVENTS ",
         "s": "2026-03-15T22:00:00Z",
@@ -713,13 +697,12 @@
         "p": "h3l3na"
       },
       {
-        "n": "LOOSE E",
+        "n": " ZEMA",
         "s": "2026-03-16T19:00:00Z",
         "e": "2026-03-16T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Rainbow Conspiracy",
@@ -1061,6 +1044,23 @@
         "t": "monthly"
       },
       {
+        "n": " Antisocial Records",
+        "s": "2026-03-18T18:00:00Z",
+        "e": "2026-03-18T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "antisocialrecords"
+      },
+      {
+        "n": "Rebekah Abdeen",
+        "s": "2026-03-18T19:00:00Z",
+        "e": "2026-03-18T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "Sumgii",
         "s": "2026-03-18T20:00:00Z",
         "e": "2026-03-18T22:00:00Z",
@@ -1200,6 +1200,14 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sharifa x Mountindew4000",
+        "s": "2026-03-19T18:00:00Z",
+        "e": "2026-03-19T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Pull up w/ Niceup",
@@ -1694,18 +1702,32 @@
         "u": null,
         "t": "monthly",
         "p": "arma"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Barbarelle - Atlas",
-        "s": "2026-03-15T20:00:00Z",
-        "e": "2026-03-15T22:00:00Z",
+        "n": "Casual P",
+        "s": "2026-03-23T09:00:00Z",
+        "e": "2026-03-23T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "barbarelle"
+        "t": "monthly",
+        "p": "casualp"
       },
+      {
+        "n": "Not a Baile Radio Show",
+        "s": "2026-03-23T10:00:00Z",
+        "e": "2026-03-23T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "notabaileradio",
+        "ap": [
+          "notabaileradioshow"
+        ]
+      }
+    ],
+    "dublab": [
       {
         "n": "body / negative - cloud music",
         "s": "2026-03-15T22:00:00Z",
@@ -1763,6 +1785,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-16T10:00:00Z",
         "e": "2026-03-16T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-16T12:00:00Z",
+        "e": "2026-03-16T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2272,16 +2303,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Oblig",
-        "s": "2026-03-15T20:00:00Z",
-        "e": "2026-03-15T21:00:00Z",
-        "d": null,
-        "j": "7 Year Anniversary",
-        "u": null,
-        "t": "biweekly",
-        "p": "oblig"
-      },
       {
         "n": "The Grime Show with Sir Spyro feat. P Money",
         "s": "2026-03-15T21:00:00Z",
