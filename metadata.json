@@ -1,29 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-16T04:32:37.647Z",
+  "updated": "2026-03-16T07:06:19.533Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SUNDAY CLUB w/ FINN",
-        "s": "2026-03-15T15:00:00Z",
-        "e": "2026-03-15T17:00:00Z",
-        "d": "Dance music with feeling, Sundays with Finn.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sunday-club/episodes/sunday-club-15th-march-2026",
-        "p": "finn",
-        "ap": [
-          "sundayclub"
-        ]
-      },
-      {
-        "n": "A Month of Sundays w/ Bill Spencer",
-        "s": "2026-03-15T17:00:00Z",
-        "e": "2026-03-15T18:00:00Z",
-        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-15th-march-2026",
-        "p": "billspencer"
-      },
       {
         "n": "LUPINI",
         "s": "2026-03-15T18:00:00Z",
@@ -112,17 +91,17 @@
         "n": "THE EARLY BIRD SHOW W/ CARLA DAL FORNO",
         "s": "2026-03-16T07:00:00Z",
         "e": "2026-03-16T09:00:00Z",
-        "d": null,
+        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-carla-dal-forno-16th-march-2026"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-03-16T09:00:00Z",
         "e": "2026-03-16T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-16th-march-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -254,6 +233,26 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "COLD PIZZA W/ STUD1NT (R)",
+        "s": "2026-03-17T06:00:00Z",
+        "e": "2026-03-17T07:00:00Z",
+        "d": null,
+        "j": "STUD1NT",
+        "u": null,
+        "t": "restream",
+        "p": "coldpizza"
+      },
+      {
+        "n": "The Early Bird Show w/ MARTHA SKYE MURPHY",
+        "s": "2026-03-17T07:00:00Z",
+        "e": "2026-03-17T09:00:00Z",
+        "d": null,
+        "j": "MARTHA SKYE MURPHY",
+        "u": null,
+        "t": "weekly",
+        "p": "martha"
       }
     ],
     "nts2": [
@@ -325,18 +324,18 @@
         "n": "NTS Guide to: Women of 60s & 70s Folk (R)",
         "s": "2026-03-16T07:00:00Z",
         "e": "2026-03-16T08:00:00Z",
-        "d": null,
+        "d": "Anne Briggs, Sibylle Bayer, Karen Dalton and more shepherds of the folk revival in this hour long guide to.",
         "j": "Women of 60s & 70s Folk",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-women-of-60s-70s-folk-4th-july-2023",
         "t": "restream"
       },
       {
         "n": "HIGH JAZZ* w/ ill Dubio (R)",
         "s": "2026-03-16T08:00:00Z",
         "e": "2026-03-16T09:00:00Z",
-        "d": null,
+        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
         "j": "ill Dubio",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-19th-june-2024",
         "t": "restream"
       },
       {
@@ -456,26 +455,38 @@
         "j": null,
         "u": null,
         "p": "hitfactory"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Dorian Day",
-        "s": "2026-03-15T16:00:00Z",
-        "e": "2026-03-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
-        "n": "SETTINGS",
-        "s": "2026-03-15T17:00:00Z",
-        "e": "2026-03-15T19:00:00Z",
+        "n": "Total Stasis",
+        "s": "2026-03-17T01:00:00Z",
+        "e": "2026-03-17T02:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "settings"
+        "p": "totalstasis"
       },
+      {
+        "n": "DELIVERY PRESENTS: HAAN",
+        "s": "2026-03-17T02:00:00Z",
+        "e": "2026-03-17T03:00:00Z",
+        "d": null,
+        "j": "HAAN",
+        "u": null,
+        "t": "monthly",
+        "p": "delivery"
+      },
+      {
+        "n": "Akito (R)",
+        "s": "2026-03-17T04:00:00Z",
+        "e": "2026-03-17T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "akito"
+      }
+    ],
+    "subtle": [
       {
         "n": "So Far So Good",
         "s": "2026-03-15T19:00:00Z",
@@ -576,6 +587,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-16T07:00:00Z",
+        "e": "2026-03-16T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Liquid Daybreak",
@@ -1660,25 +1680,6 @@
     ],
     "dublab": [
       {
-        "n": "djjs 2",
-        "s": "2026-03-15T15:00:00Z",
-        "e": "2026-03-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-03-15T17:00:00Z",
-        "e": "2026-03-15T18:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly",
-        "p": "kennethbager"
-      },
-      {
         "n": "Burgers – DOSTI",
         "s": "2026-03-15T18:00:00Z",
         "e": "2026-03-15T20:00:00Z",
@@ -1738,6 +1739,24 @@
         "u": null,
         "t": "monthly",
         "p": "jessfu"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-16T08:00:00Z",
+        "e": "2026-03-16T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-16T10:00:00Z",
+        "e": "2026-03-16T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Andrew Goldberg - Rainy Day Fund",
@@ -2244,32 +2263,6 @@
     ],
     "rinse": [
       {
-        "n": "Supa D",
-        "s": "2026-03-15T15:00:00Z",
-        "e": "2026-03-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "El Londo",
-        "s": "2026-03-15T17:00:00Z",
-        "e": "2026-03-15T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "ellondo"
-      },
-      {
-        "n": "Bok Bok",
-        "s": "2026-03-15T18:00:00Z",
-        "e": "2026-03-15T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "bokbok"
-      },
-      {
         "n": "Night Slugs",
         "s": "2026-03-15T19:00:00Z",
         "e": "2026-03-15T20:00:00Z",
@@ -2650,32 +2643,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Tatie Dee",
-        "s": "2026-03-15T16:00:00Z",
-        "e": "2026-03-15T17:00:00Z",
-        "d": null,
-        "j": "Mew",
-        "u": null
-      },
-      {
-        "n": "FIONA",
-        "s": "2026-03-15T17:00:00Z",
-        "e": "2026-03-15T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "fiona"
-      },
-      {
-        "n": "Belaria",
-        "s": "2026-03-15T18:00:00Z",
-        "e": "2026-03-15T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "belaria"
-      },
       {
         "n": "Weirdies Records",
         "s": "2026-03-15T19:00:00Z",
