@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-17T20:30:42.441Z",
+  "updated": "2026-03-17T22:24:29.139Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Early Bird Show w/ MARTHA SKYE MURPHY",
-        "s": "2026-03-17T07:00:00Z",
-        "e": "2026-03-17T09:00:00Z",
-        "d": "Experimental songwriter and vocalist Martha Skye Murphy takes the morning shift with ambient, folk, soft rock, classical and more.",
-        "j": "MARTHA SKYE MURPHY",
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-martha-skye-murphy-17th-march-2026",
-        "t": "weekly",
-        "p": "martha"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-03-17T09:00:00Z",
@@ -103,17 +93,18 @@
         "n": "5 GATE TEMPLE",
         "s": "2026-03-17T22:00:00Z",
         "e": "2026-03-18T00:00:00Z",
-        "d": null,
+        "d": "2 hour bi-monthly excursions into sound and dissonance. Music label with John T. Gast. Regular guest selections from friends and affiliates. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/5-gate-temple/episodes/5-gate-temple-17th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "BLUE TRIO RADIO W/ VERTI://FILTER",
         "s": "2026-03-18T00:00:00Z",
         "e": "2026-03-18T01:00:00Z",
-        "d": null,
+        "d": "A regular hour from Philly-based digital shoegazers, Full Body 2 - made up of Cassidy Rose Hammond, Dylan Vaisey, & Jack Chaffer.\nFrom the host: \"Our best friends Vera and Carrie (aka Vertigoaway and Purity://Filter) have graciously stepped in for us this month while we're on tour across North America. They've blessed us with 40 minutes of heavy hitting dance music and a glorious android ringtone review segment to close it out. thx love uu ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/full-body-2/episodes/full-body-2-18th-march-2026"
       },
       {
         "n": "BRIDGET SMALL w/ Nick Ure",
@@ -242,18 +233,25 @@
         "j": "The Apron Show",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DJ NIGGA FOX",
+        "s": "2026-03-18T20:00:00Z",
+        "e": "2026-03-18T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "WIGS W/ IMOGEN & THE ADVENT",
+        "s": "2026-03-18T21:00:00Z",
+        "e": "2026-03-18T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NTS GUIDE TO: BRAZILIAN JAZZ VOL. 2 (R)",
-        "s": "2026-03-17T08:00:00Z",
-        "e": "2026-03-17T10:00:00Z",
-        "d": "A further two hours of Brazilian jazz favourites, selected by NTS – featuring Baden Powell, Hermeto Pascoal, Azymuth and more.",
-        "j": "BRAZILIAN JAZZ VOL. 2",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-brazilian-jazz-vol-2-20th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "Imagine Soundtracks w/ redkoffee: Michiko to Hatchin (R)",
         "s": "2026-03-17T10:00:00Z",
@@ -361,18 +359,19 @@
         "n": "Fusion Batches w/ DJ Morse Code & XL Middleton",
         "s": "2026-03-17T22:00:00Z",
         "e": "2026-03-17T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "DJ / Producer Morse Code brings us a monthly all vinyl mix of jazz-funk, jazz fusion, and rare groove in the tradition of his Fusion Batches mixes from the mid 00's, which championed dollar bin heat as well as the rares, all in the name of the hunt for the best grooves!\nFrom the host: \"this episode features an exclusive guest mix from Pasadena's own XL MIddleton.  In addition to being a stellar and versatile modern funk musician, he is also a purveyor of incredible music from all over the world and owns Salt Box Records in LA.  He blessed us with an all Japanese jazz-funk mix!\"",
+        "j": "DJ Morse Code & XL Middleton",
+        "u": "https://www.nts.live/api/v2/shows/fusion-batches/episodes/fusion-batches-17th-march-2026",
+        "t": "monthly",
         "p": "fusionbatches"
       },
       {
         "n": "Programmin' w/ DJ Kita",
         "s": "2026-03-17T23:00:00Z",
         "e": "2026-03-18T00:00:00Z",
-        "d": null,
+        "d": "DJ Kita is a Los Angeles based DJ most known for her energetic sets and dynamic hip hop selections. Her sets are fun and unpredictable, and capture the youthful essence of hip hop culture. Kita is a resident DJ and co curator of LA’s premiere black and queer underground party called Hood Rave. She has toured both nationally and internationally. ",
         "j": "DJ Kita",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/programmin-dj-kita/episodes/programmin-dj-kita-17th-march-2026",
         "t": "monthly",
         "p": "djkita"
       },
@@ -505,27 +504,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE BADDIS SOUND W/ DANNIELLA DEE",
+        "s": "2026-03-18T16:00:00Z",
+        "e": "2026-03-18T17:00:00Z",
+        "d": null,
+        "j": "DANNIELLA DEE",
+        "u": null,
+        "t": "monthly",
+        "p": "dannielladee"
+      },
+      {
+        "n": "Martyn's Darkest Light - Mainstream Records special",
+        "s": "2026-03-18T17:00:00Z",
+        "e": "2026-03-18T18:00:00Z",
+        "d": null,
+        "j": "Mainstream Records special",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Ardishko",
-        "s": "2026-03-17T08:00:00Z",
-        "e": "2026-03-17T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-17T09:00:00Z",
-        "e": "2026-03-17T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Albert Moon",
         "s": "2026-03-17T10:00:00Z",
@@ -1717,18 +1717,29 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-17T08:00:00Z",
-        "e": "2026-03-17T10:00:00Z",
+        "n": "stuckinwaveforms",
+        "s": "2026-03-24T21:00:00Z",
+        "e": "2026-03-24T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "stuckinwaveforms"
       },
+      {
+        "n": "OVN",
+        "s": "2026-03-24T22:00:00Z",
+        "e": "2026-03-24T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ovn"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-17T10:00:00Z",
@@ -1889,6 +1900,16 @@
         "u": null,
         "t": "monthly",
         "p": "ghorba"
+      },
+      {
+        "n": "rerun: Aria Rostami – guest session",
+        "s": "2026-03-19T05:00:00Z",
+        "e": "2026-03-19T06:00:00Z",
+        "d": null,
+        "j": "Aria Rostami – guest session",
+        "u": null,
+        "t": "restream",
+        "p": "aria"
       },
       {
         "n": "Richard Chartier – between two points",
@@ -2313,18 +2334,19 @@
         "u": null,
         "t": "monthly",
         "p": "patrickshiroishi"
+      },
+      {
+        "n": "Photay - Extravagant Frequencies",
+        "s": "2026-03-24T22:00:00Z",
+        "e": "2026-03-25T00:00:00Z",
+        "d": null,
+        "j": "Extravagant Frequencies",
+        "u": null,
+        "t": "monthly",
+        "p": "photay"
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-03-17T07:00:00Z",
-        "e": "2026-03-17T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Papaoul",
         "s": "2026-03-17T09:00:00Z",
