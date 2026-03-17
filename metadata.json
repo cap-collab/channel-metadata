@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-16T22:24:21.250Z",
+  "updated": "2026-03-17T01:18:56.943Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-03-16T09:00:00Z",
-        "e": "2026-03-16T11:00:00Z",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-16th-march-2026",
-        "t": "regular",
-        "p": "flo"
-      },
-      {
-        "n": "Soup To Nuts w/ John Gómez",
-        "s": "2026-03-16T11:00:00Z",
-        "e": "2026-03-16T13:00:00Z",
-        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
-        "j": "John Gómez",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-16th-march-2026",
-        "t": "weekly"
-      },
       {
         "n": "HUMANITY AS AN ACT OF RESISTANCE - THE EPSTEIN CLASS EP1",
         "s": "2026-03-16T13:00:00Z",
@@ -103,18 +84,18 @@
         "n": "FRACTAL MEAT ON A SPONGY BONE",
         "s": "2026-03-17T01:00:00Z",
         "e": "2026-03-17T03:00:00Z",
-        "d": null,
+        "d": "An audio scrapbook compiled by sound artist and musician Graham Dunning, comprised of sonic art and experiments, improvised music, textures and rhythms, as well as selections from Dunning's archive of found home tape recordings, and a variety of regular features.\nFrom the host: \"A two hour mix of sound art, experimental music, live coding, noise, drone, field recordings and leftfield electronics.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/fractalmeat/episodes/fractalmeat-16th-march-2026",
         "t": "monthly"
       },
       {
         "n": "NEUE TANZ W/ JULES (R)",
         "s": "2026-03-17T03:00:00Z",
         "e": "2026-03-17T04:00:00Z",
-        "d": null,
+        "d": "Playing anything from ambient and experimental textures interwoven through eccentric new wave, forgotten b-sides and contemporary dance music; one can expect almost anything from the Neue Tanz show. Hosted monthly by Jules, with friends or on his own. \nhttps://soundcloud.com/jules-bethmann",
         "j": "JULES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jules/episodes/neue-tanz-2nd-october-2019",
         "t": "restream",
         "p": "jules"
       },
@@ -235,26 +216,35 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "BLUE TRIO RADIO W/ VERTI://FILTER",
+        "s": "2026-03-18T00:00:00Z",
+        "e": "2026-03-18T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "BRIDGET SMALL w/ Nick Ure",
+        "s": "2026-03-18T01:00:00Z",
+        "e": "2026-03-18T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Furniture without Memories w/ livwutang (R)",
+        "s": "2026-03-18T04:00:00Z",
+        "e": "2026-03-18T05:00:00Z",
+        "d": null,
+        "j": "livwutang",
+        "u": null,
+        "t": "restream",
+        "p": "livwutang"
       }
     ],
     "nts2": [
-      {
-        "n": "The Head Zone w/ Ripley Johnson (R)",
-        "s": "2026-03-16T10:00:00Z",
-        "e": "2026-03-16T11:00:00Z",
-        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
-        "j": "Ripley Johnson",
-        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/moon-duo-8th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "THE WONDER CABINET",
-        "s": "2026-03-16T11:00:00Z",
-        "e": "2026-03-16T12:00:00Z",
-        "d": "Sounds and recordings from resident artists at the Wonder Cabinet space in Cremisan Valley, Bethlehem.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-wonder-cabinet/episodes/the-wonder-cabinet-16th-march-2026"
-      },
       {
         "n": "SKYAPNEA - long tunes only",
         "s": "2026-03-16T12:00:00Z",
@@ -367,9 +357,9 @@
         "n": "DELIVERY PRESENTS: HAAN",
         "s": "2026-03-17T01:00:00Z",
         "e": "2026-03-17T02:00:00Z",
-        "d": null,
+        "d": "Delivery presents: 'HAAN', live for an hour a month, straight from our LA studio. ",
         "j": "HAAN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/delivery/episodes/delivery-17th-march-2026",
         "t": "monthly",
         "p": "delivery"
       },
@@ -377,9 +367,9 @@
         "n": "Heaven is in You w/ ADAB (R)",
         "s": "2026-03-17T02:00:00Z",
         "e": "2026-03-17T03:00:00Z",
-        "d": null,
+        "d": "Exploring the slower, tripped out side of percussive type beats for this months show. Made for reflections on intentional portal opening…",
         "j": "ADAB",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/adab/episodes/adab-6th-september-2025",
         "t": "restream"
       },
       {
@@ -501,41 +491,37 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "The PICKNMIX Show w/ Komanche",
-        "s": "2026-03-16T10:00:00Z",
-        "e": "2026-03-16T11:00:00Z",
-        "d": null,
-        "j": "Komanche",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Sweet Things w/ PXLTERGEIST",
-        "s": "2026-03-16T11:00:00Z",
-        "e": "2026-03-16T12:00:00Z",
-        "d": null,
-        "j": "PXLTERGEIST",
-        "u": null,
-        "t": "monthly",
-        "p": "sweetthings"
-      },
-      {
-        "n": "Lady Jules",
-        "s": "2026-03-16T12:00:00Z",
-        "e": "2026-03-16T13:00:00Z",
+        "n": "OPTIMO",
+        "s": "2026-03-17T17:00:00Z",
+        "e": "2026-03-17T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "jules",
-        "ap": [
-          "ladyjules"
-        ]
+        "p": "optimo"
       },
+      {
+        "n": "Cosmic Soundz w/ Salvatore: International Funk",
+        "s": "2026-03-17T19:00:00Z",
+        "e": "2026-03-17T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LOS HITTERS",
+        "s": "2026-03-17T20:00:00Z",
+        "e": "2026-03-17T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "loshitters"
+      }
+    ],
+    "subtle": [
       {
         "n": "Meech",
         "s": "2026-03-16T13:00:00Z",
@@ -1725,18 +1711,19 @@
         "u": null,
         "t": "monthly",
         "p": "chaz"
+      },
+      {
+        "n": "Lumeni",
+        "s": "2026-03-23T23:00:00Z",
+        "e": "2026-03-24T00:00:00Z",
+        "d": "London based DJ who enjoys exploring the darker, bassier corners of Jungle, Breaks, Techno and Drum & Bass, especially when it is laced with a bit of acid.",
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "lumeni"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-16T10:00:00Z",
-        "e": "2026-03-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-03-16T12:00:00Z",
@@ -2307,35 +2294,6 @@
     ],
     "rinse": [
       {
-        "n": "Tim Garcia",
-        "s": "2026-03-16T09:00:00Z",
-        "e": "2026-03-16T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Donsurf",
-        "s": "2026-03-16T11:00:00Z",
-        "e": "2026-03-16T12:00:00Z",
-        "d": null,
-        "j": "Tomi From Brockley",
-        "u": null,
-        "t": "monthly",
-        "p": "donsurf"
-      },
-      {
-        "n": "Niall Smith",
-        "s": "2026-03-16T12:00:00Z",
-        "e": "2026-03-16T13:00:00Z",
-        "d": null,
-        "j": "Stacy N.K.R",
-        "u": null,
-        "t": "monthly",
-        "p": "niallsmith"
-      },
-      {
         "n": "Nakeira",
         "s": "2026-03-16T13:00:00Z",
         "e": "2026-03-16T14:00:00Z",
@@ -2352,7 +2310,7 @@
         "d": null,
         "j": "Live from Rinse Summer Terrace Party 2025",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "tommygold"
       },
       {
@@ -2410,7 +2368,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "tasha"
       },
       {
@@ -2592,79 +2550,229 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinsefr": [
+      },
       {
-        "n": "Playlist France",
-        "s": "2026-03-16T08:00:00Z",
-        "e": "2026-03-16T13:00:00Z",
+        "n": "Aletha",
+        "s": "2026-03-18T00:00:00Z",
+        "e": "2026-03-18T01:00:00Z",
+        "d": null,
+        "j": "Skippy",
+        "u": null,
+        "t": "monthly",
+        "p": "aletha"
+      },
+      {
+        "n": "DJ RED",
+        "s": "2026-03-18T01:00:00Z",
+        "e": "2026-03-18T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Tasha",
+        "s": "2026-03-18T02:00:00Z",
+        "e": "2026-03-18T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "tasha"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-03-18T03:00:00Z",
+        "e": "2026-03-18T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "O.Xander",
-        "s": "2026-03-16T13:00:00Z",
-        "e": "2026-03-16T14:00:00Z",
+        "n": "Tommy Gold",
+        "s": "2026-03-18T06:00:00Z",
+        "e": "2026-03-18T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "oxander"
+        "t": "biweekly",
+        "p": "tommygold"
       },
       {
-        "n": "Sébastien Forrester",
-        "s": "2026-03-16T14:00:00Z",
+        "n": "Playlist",
+        "s": "2026-03-18T07:00:00Z",
+        "e": "2026-03-18T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Esk",
+        "s": "2026-03-18T09:00:00Z",
+        "e": "2026-03-18T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "esk"
+      },
+      {
+        "n": "Sticky Dub",
+        "s": "2026-03-18T11:00:00Z",
+        "e": "2026-03-18T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "stickydub"
+      },
+      {
+        "n": "Eclecticist",
+        "s": "2026-03-18T12:00:00Z",
+        "e": "2026-03-18T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "eclecticist"
+      },
+      {
+        "n": "Morf",
+        "s": "2026-03-18T13:00:00Z",
+        "e": "2026-03-18T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "morf"
+      },
+      {
+        "n": "Storm Mollison",
+        "s": "2026-03-18T14:00:00Z",
+        "e": "2026-03-18T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "stormmollison"
+      },
+      {
+        "n": "Utopia Presents",
+        "s": "2026-03-18T15:00:00Z",
+        "e": "2026-03-18T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "utopiapresents"
+      },
+      {
+        "n": "Talina",
+        "s": "2026-03-18T17:00:00Z",
+        "e": "2026-03-18T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular",
+        "p": "talina"
+      },
+      {
+        "n": "Just Jane",
+        "s": "2026-03-18T19:00:00Z",
+        "e": "2026-03-18T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "justjane"
+      },
+      {
+        "n": "Interplanetary Criminal",
+        "s": "2026-03-18T20:00:00Z",
+        "e": "2026-03-18T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "interplanetarycriminal"
+      },
+      {
+        "n": "Lukas Wigflex",
+        "s": "2026-03-18T22:00:00Z",
+        "e": "2026-03-18T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lukaswigflex"
+      },
+      {
+        "n": "96 Back",
+        "s": "2026-03-18T23:00:00Z",
+        "e": "2026-03-19T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "96back"
+      }
+    ],
+    "rinsefr": [
+      {
+        "n": "Charlie 3000",
+        "s": "2026-03-16T13:00:00Z",
         "e": "2026-03-16T15:00:00Z",
         "d": null,
-        "j": "Afraa avec João Pais Filipe",
+        "j": null,
         "u": null,
-        "p": "sbastienforrester"
+        "t": "monthly",
+        "p": "charlie3000"
       },
       {
-        "n": "Music For Tourist",
+        "n": "AB DOLLARS",
         "s": "2026-03-16T15:00:00Z",
         "e": "2026-03-16T16:00:00Z",
         "d": null,
-        "j": "Invite Tiago Caetano",
+        "j": null,
         "u": null,
-        "p": "musicfortourist"
+        "p": "abdollars"
       },
       {
-        "n": "Tatie Dee",
+        "n": "Jeune à Jamais",
         "s": "2026-03-16T16:00:00Z",
         "e": "2026-03-16T17:00:00Z",
         "d": null,
-        "j": "Mew",
-        "u": null
+        "j": "Carte blanche à KZCO",
+        "u": null,
+        "t": "monthly",
+        "p": "jeunejamais"
       },
       {
-        "n": "FIONA",
+        "n": "AES",
         "s": "2026-03-16T17:00:00Z",
         "e": "2026-03-16T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "fiona"
+        "u": null
       },
       {
-        "n": "Belaria",
+        "n": "Nyege Nyege",
         "s": "2026-03-16T18:00:00Z",
         "e": "2026-03-16T19:00:00Z",
         "d": null,
-        "j": "Seqta",
+        "j": "Takeover with Shaun D",
         "u": null,
-        "p": "belaria"
+        "t": "monthly"
       },
       {
-        "n": "Weirdies Records",
+        "n": "Zaltan",
         "s": "2026-03-16T19:00:00Z",
         "e": "2026-03-16T20:00:00Z",
         "d": null,
-        "j": "avec Violeta West b2b Jon Beige",
+        "j": null,
         "u": null,
-        "p": "jonbeige"
+        "p": "zaltan"
       },
       {
         "n": "Playlist France",
@@ -2694,59 +2802,65 @@
         "t": "playlist"
       },
       {
-        "n": "Charlie 3000",
+        "n": "Bob Marlich",
         "s": "2026-03-17T13:00:00Z",
+        "e": "2026-03-17T14:00:00Z",
+        "d": null,
+        "j": "présente \"WAG1\" Sound System",
+        "u": null
+      },
+      {
+        "n": "Le Cercle",
+        "s": "2026-03-17T14:00:00Z",
         "e": "2026-03-17T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "charlie3000"
-      },
-      {
-        "n": "AB DOLLARS",
-        "s": "2026-03-17T15:00:00Z",
-        "e": "2026-03-17T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "abdollars"
-      },
-      {
-        "n": "Jeune à Jamais",
-        "s": "2026-03-17T16:00:00Z",
-        "e": "2026-03-17T17:00:00Z",
-        "d": null,
-        "j": "Carte blanche à KZCO",
-        "u": null,
-        "t": "monthly",
-        "p": "jeunejamais"
-      },
-      {
-        "n": "AES",
-        "s": "2026-03-17T17:00:00Z",
-        "e": "2026-03-17T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Nyege Nyege",
-        "s": "2026-03-17T18:00:00Z",
-        "e": "2026-03-17T19:00:00Z",
+        "n": "La Passe D avec Armel Bizzman",
+        "s": "2026-03-17T15:00:00Z",
+        "e": "2026-03-17T16:00:00Z",
         "d": null,
-        "j": "Takeover with Shaun D",
+        "j": null,
+        "u": null,
+        "p": "lapassedavecarmelbizzman"
+      },
+      {
+        "n": "CHÔ!",
+        "s": "2026-03-17T16:00:00Z",
+        "e": "2026-03-17T17:00:00Z",
+        "d": null,
+        "j": "invite PAPI DA SILVA",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Zaltan",
+        "n": "Not Sorry",
+        "s": "2026-03-17T17:00:00Z",
+        "e": "2026-03-17T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Hyas",
+        "s": "2026-03-17T18:00:00Z",
+        "e": "2026-03-17T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "hyas"
+      },
+      {
+        "n": "Adam BFD B2B DJ Physical",
         "s": "2026-03-17T19:00:00Z",
         "e": "2026-03-17T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "zaltan"
+        "u": null
       },
       {
         "n": "Playlist France",
