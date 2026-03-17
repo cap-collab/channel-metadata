@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-03-17T01:19:08.135Z",
+  "updated": "2026-03-17T04:10:14.560Z",
   "stations": {
     "nts1": [
       {
@@ -3733,6 +3733,14 @@
         "j": "John Gómez",
         "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-16th-march-2026",
         "t": "weekly"
+      },
+      {
+        "n": "HUMANITY AS AN ACT OF RESISTANCE - THE EPSTEIN CLASS EP1",
+        "s": "2026-03-16T13:00:00Z",
+        "e": "2026-03-16T15:00:00Z",
+        "d": "God's Waiting Room: a round-about selection of the cinematic, library music, rock 'n' roll, psych, experimental, unclassifiable and independent. From the mind of DJ, producer and creator of original soundtracks, David Holmes. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/david-holmes/episodes/david-holmes-16th-march-2026"
       }
     ],
     "nts2": [
@@ -4016,7 +4024,8 @@
         "e": "2026-02-17T16:00:00Z",
         "d": "Loops, remixes, edits and reinterpretations from DJ and programmer miss sheitana, oscillating between post-club, rap, baltimore club, bass, ambient and remixes from the limbos of the internet.\nFrom the host: \"postclub ° stolen loops ° radical bass ° romantic sometimes ° classics ° collapsed tempo ° footwork ° misfit emotions ° emoraï ° remixs from internet limbos ° haunted rhythms ° magic mashups only\nhectic +++++++\"",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/miss-sheitana/episodes/miss-sheitana-17th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/miss-sheitana/episodes/miss-sheitana-17th-february-2026",
+        "p": "misssheitana"
       },
       {
         "n": "Unearth w/ Sgabe",
@@ -4684,7 +4693,8 @@
         "d": "Heaven is in You began as an intent based project in wide ranging exploration of the world and our own being. Now defunct, ADAB once curated the Cleveland based Heaven is In You parties alongside colleague Eric Sarley (Ghost Noises) for what became locally known as a labor of love in sonic variety. The sentiment finds itself resurrected here for ADAB's monthly transmissions.\nFrom the host: \"Assorted collection of black heroes and friends from my beloved Midwest and beyond for Black history month. Pursuing the drum through thick and thin…\"",
         "j": "ADAB",
         "u": "https://www.nts.live/api/v2/shows/adab/episodes/adab-21st-february-2026",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "adab"
       },
       {
         "n": "FLOATING POINTS (R)",
@@ -8233,6 +8243,33 @@
         "d": "Sounds and recordings from resident artists at the Wonder Cabinet space in Cremisan Valley, Bethlehem.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/the-wonder-cabinet/episodes/the-wonder-cabinet-16th-march-2026"
+      },
+      {
+        "n": "SKYAPNEA - long tunes only",
+        "s": "2026-03-16T12:00:00Z",
+        "e": "2026-03-16T14:00:00Z",
+        "d": "Broken club, dubbed out sounds, experimental electronics and atonal drifts: Gio’s monthly broadcasts are high contrast assemblages that move at a slow pace.\nFrom the host: \"Taking it slow: just twelve really long tunes in this episode, long blends and all. A pretty chilled vibe this Monday, enough stimuli already…\"",
+        "j": "long tunes only",
+        "u": "https://www.nts.live/api/v2/shows/skyapnea/episodes/skyapnea-16th-march-2026",
+        "t": "monthly",
+        "p": "skyapnea"
+      },
+      {
+        "n": "AO RADIO PRESENTS NIGERIAN UNDERGROUND W/ RACHEL, ROBERTO, ONA & EBUBE",
+        "s": "2026-03-16T14:00:00Z",
+        "e": "2026-03-16T15:00:00Z",
+        "d": "Paxslim's Africa Only Radio explores the Nigerian underground scene. The first episode features Rachel, Roberto, Ona and Ebube, each selecting tracks by emerging artists from across the scene. \nRachel runs The Process Africa documenting young African creatives, based in Lagos. Roberto runs Soundgasm, a Toronto-based platform covering music from Nigeria and the diaspora. Ona is an artist manager and A&R, whilst Ebube is a video creator and commentator. Mixed by Haram, Paxslim's longtime producer and collaborator.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ao-radio-presents-nigerian-underground-w-rachel-roberto-ona-ebube-16th-march-2026"
+      },
+      {
+        "n": "Mala Junta W / J.Catriel",
+        "s": "2026-03-16T15:00:00Z",
+        "e": "2026-03-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "malajunta"
       }
     ],
     "subtle": [
@@ -13088,6 +13125,33 @@
         "ap": [
           "ladyjules"
         ]
+      },
+      {
+        "n": "Meech",
+        "s": "2026-03-16T13:00:00Z",
+        "e": "2026-03-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "JO KIRA",
+        "s": "2026-03-16T14:00:00Z",
+        "e": "2026-03-16T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jokira"
+      },
+      {
+        "n": "Alive and Well",
+        "s": "2026-03-16T15:00:00Z",
+        "e": "2026-03-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
@@ -16275,6 +16339,24 @@
         "n": "sounds of NOW",
         "s": "2026-03-16T10:00:00Z",
         "e": "2026-03-16T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-16T12:00:00Z",
+        "e": "2026-03-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-16T14:00:00Z",
+        "e": "2026-03-16T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -19981,6 +20063,26 @@
         "u": null,
         "t": "monthly",
         "p": "niallsmith"
+      },
+      {
+        "n": "Nakeira",
+        "s": "2026-03-16T13:00:00Z",
+        "e": "2026-03-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "nakeira"
+      },
+      {
+        "n": "Tommy Gold",
+        "s": "2026-03-16T14:00:00Z",
+        "e": "2026-03-16T15:00:00Z",
+        "d": null,
+        "j": "Live from Rinse Summer Terrace Party 2025",
+        "u": null,
+        "t": "biweekly",
+        "p": "tommygold"
       }
     ],
     "rinsefr": [
@@ -21894,10 +21996,7 @@
         "d": null,
         "j": "MYN invite ALL NICE RECORDS avec BOBBY DREAMS",
         "u": null,
-        "p": "bobby",
-        "ap": [
-          "publicsystemrecordings"
-        ]
+        "p": "publicsystemrecordings"
       },
       {
         "n": "Amor Satyr B2B Ma Sha",
@@ -22104,6 +22203,25 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Charlie 3000",
+        "s": "2026-03-16T13:00:00Z",
+        "e": "2026-03-16T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "charlie3000"
+      },
+      {
+        "n": "AB DOLLARS",
+        "s": "2026-03-16T15:00:00Z",
+        "e": "2026-03-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "abdollars"
       }
     ],
     "newtown": []
