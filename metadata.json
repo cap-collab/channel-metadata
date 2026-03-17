@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-17T12:49:45.791Z",
+  "updated": "2026-03-17T14:49:26.092Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BODY MOTION - On hold 2 hell",
-        "s": "2026-03-17T00:00:00Z",
-        "e": "2026-03-17T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "bodymotion"
-      },
       {
         "n": "FRACTAL MEAT ON A SPONGY BONE",
         "s": "2026-03-17T01:00:00Z",
@@ -103,9 +94,24 @@
         "n": "Self Soothe w/ Margeaux & Isa",
         "s": "2026-03-17T15:00:00Z",
         "e": "2026-03-17T16:00:00Z",
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.\nFrom the host: _\"some of isa's favorite songs from artists taking part in no music for genocide !\ngo to nomusicforgenocide.org to learn more + join the movement < 3\"_",
+        "j": "Margeaux & Isa",
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-17th-march-2026",
+        "t": "weekly",
+        "p": "margeaux"
+      },
+      {
+        "n": "PANORAMA HEAVEN W/ BIANCA LEXIS (R)",
+        "s": "2026-03-17T16:00:00Z",
+        "e": "2026-03-17T17:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "BIANCA LEXIS",
+        "u": null,
+        "t": "restream",
+        "p": "biancalexis",
+        "ap": [
+          "panoramaheaven"
+        ]
       },
       {
         "n": "SNO - Ebo Taylor Celebration",
@@ -243,25 +249,6 @@
     ],
     "nts2": [
       {
-        "n": "Total Stasis",
-        "s": "2026-03-17T00:00:00Z",
-        "e": "2026-03-17T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "totalstasis"
-      },
-      {
-        "n": "DELIVERY PRESENTS: HAAN",
-        "s": "2026-03-17T01:00:00Z",
-        "e": "2026-03-17T02:00:00Z",
-        "d": "Delivery presents: 'HAAN', live for an hour a month, straight from our LA studio. ",
-        "j": "HAAN",
-        "u": "https://www.nts.live/api/v2/shows/delivery/episodes/delivery-17th-march-2026",
-        "t": "monthly",
-        "p": "delivery"
-      },
-      {
         "n": "Heaven is in You w/ ADAB (R)",
         "s": "2026-03-17T02:00:00Z",
         "e": "2026-03-17T03:00:00Z",
@@ -369,9 +356,9 @@
         "n": "LORAINE JAMES",
         "s": "2026-03-17T14:00:00Z",
         "e": "2026-03-17T15:00:00Z",
-        "d": null,
+        "d": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/loraine-james/episodes/loraine-james-17th-march-2026",
         "t": "monthly",
         "p": "lorainejames"
       },
@@ -379,9 +366,9 @@
         "n": "magic mashups w/ miss sheitana",
         "s": "2026-03-17T15:00:00Z",
         "e": "2026-03-17T16:00:00Z",
-        "d": null,
+        "d": "Loops, remixes, edits and reinterpretations from DJ and programmer miss sheitana, oscillating between post-club, rap, baltimore club, bass, ambient and remixes from the limbos of the internet.\nFrom the host: _\"just trying to make you listen to anything\n° layers of GTA ° perplex piano ° dissonant singeli ° miner's strike ° enhanced pretty boy swag ° old but gold °\npain music +++++++\nanybody want a drink before the war ?\"_",
         "j": "miss sheitana",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/miss-sheitana/episodes/miss-sheitana-17th-march-2026",
         "t": "monthly",
         "p": "misssheitana"
       },
@@ -514,18 +501,25 @@
         "u": null,
         "t": "restream",
         "p": "3xl"
+      },
+      {
+        "n": "Explorations w/ DIGGING IN INDIA",
+        "s": "2026-03-18T11:00:00Z",
+        "e": "2026-03-18T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Shabaka Hutchings",
+        "s": "2026-03-18T12:00:00Z",
+        "e": "2026-03-18T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Dan Dara",
-        "s": "2026-03-17T00:00:00Z",
-        "e": "2026-03-17T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Refractions Radio",
         "s": "2026-03-17T02:00:00Z",
@@ -1713,18 +1707,29 @@
         "u": null,
         "t": "monthly",
         "p": "localmovements"
+      },
+      {
+        "n": "Liquid Vault w/ Half-Life",
+        "s": "2026-03-24T13:00:00Z",
+        "e": "2026-03-24T14:00:00Z",
+        "d": null,
+        "j": "Half",
+        "u": null,
+        "t": "monthly",
+        "p": "half"
+      },
+      {
+        "n": "Silk Road Sessions w/ YVES",
+        "s": "2026-03-24T14:00:00Z",
+        "e": "2026-03-24T15:00:00Z",
+        "d": null,
+        "j": "YVES",
+        "u": null,
+        "t": "monthly",
+        "p": "yves"
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN: Butterfly Beat",
-        "s": "2026-03-17T00:00:00Z",
-        "e": "2026-03-17T02:00:00Z",
-        "d": null,
-        "j": "Butterfly Beat",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Encarnación - Lucid Hour",
         "s": "2026-03-17T02:00:00Z",
@@ -2285,24 +2290,6 @@
     ],
     "rinse": [
       {
-        "n": "Night Service",
-        "s": "2026-03-17T00:00:00Z",
-        "e": "2026-03-17T01:00:00Z",
-        "d": null,
-        "j": "Jared",
-        "u": null,
-        "p": "nightservice"
-      },
-      {
-        "n": "Loris",
-        "s": "2026-03-17T01:00:00Z",
-        "e": "2026-03-17T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "loris"
-      },
-      {
         "n": "Freshta",
         "s": "2026-03-17T02:00:00Z",
         "e": "2026-03-17T03:00:00Z",
@@ -2391,7 +2378,7 @@
         "s": "2026-03-17T15:00:00Z",
         "e": "2026-03-17T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "2Simila",
         "u": null,
         "t": "weekly",
         "p": "brighterdaysfamily"
@@ -2401,10 +2388,13 @@
         "s": "2026-03-17T17:00:00Z",
         "e": "2026-03-17T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Junior Simba",
         "u": null,
         "t": "regular",
-        "p": "talina"
+        "p": "junior",
+        "ap": [
+          "talina"
+        ]
       },
       {
         "n": "Papa Nugs",
@@ -2687,13 +2677,13 @@
         "t": "biweekly"
       },
       {
-        "n": "Zaltan",
+        "n": "Playlist France",
         "s": "2026-03-17T19:00:00Z",
         "e": "2026-03-17T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "zaltan"
+        "t": "playlist"
       },
       {
         "n": "Playlist France",
