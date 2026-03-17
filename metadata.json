@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-17T18:50:36.233Z",
+  "updated": "2026-03-17T20:30:42.441Z",
   "stations": {
     "nts1": [
-      {
-        "n": "COLD PIZZA W/ STUD1NT (R)",
-        "s": "2026-03-17T06:00:00Z",
-        "e": "2026-03-17T07:00:00Z",
-        "d": "for you and me",
-        "j": "STUD1NT",
-        "u": "https://www.nts.live/api/v2/shows/cold-pizza/episodes/cold-pizza-9th-november-2022",
-        "t": "restream",
-        "p": "coldpizza"
-      },
       {
         "n": "The Early Bird Show w/ MARTHA SKYE MURPHY",
         "s": "2026-03-17T07:00:00Z",
@@ -104,9 +94,9 @@
         "n": "Debonair",
         "s": "2026-03-17T21:00:00Z",
         "e": "2026-03-17T22:00:00Z",
-        "d": null,
+        "d": "Outsider sounds with one of the station OGs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/debonair/episodes/debonair-17th-march-2026",
         "p": "debonair"
       },
       {
@@ -243,27 +233,18 @@
         "j": null,
         "u": null,
         "p": "motive"
+      },
+      {
+        "n": "Steven Julien Presents: The Apron Show",
+        "s": "2026-03-18T19:00:00Z",
+        "e": "2026-03-18T20:00:00Z",
+        "d": null,
+        "j": "The Apron Show",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "MUSIQUE TOPS (R)",
-        "s": "2026-03-17T06:00:00Z",
-        "e": "2026-03-17T07:00:00Z",
-        "d": "Vinyl only selections from TOPS’ personal collections",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tops/episodes/tops-24th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "babyschön (R)",
-        "s": "2026-03-17T07:00:00Z",
-        "e": "2026-03-17T08:00:00Z",
-        "d": "Low, slow, and sleazy sounds for your Friday afternoon. Expect post-punk, synth pop, -wave and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/babyschon/episodes/babyschon-8th-november-2024",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: BRAZILIAN JAZZ VOL. 2 (R)",
         "s": "2026-03-17T08:00:00Z",
@@ -362,17 +343,17 @@
         "n": "Cosmic Soundz w/ Salvatore: International Funk",
         "s": "2026-03-17T20:00:00Z",
         "e": "2026-03-17T21:00:00Z",
-        "d": null,
+        "d": "Lima, Peru vinyl obsessive Salvatore Dellepiane shares selections from his treasure trove of rare and obscure boogie and funk from all across the world.\nFrom the host: \"A selection of funk, disco, and soul from across the globe, bringing together records from the US, Peru, Chile, Panama, Nigeria, Ghana, Italy, Brazil, and beyond. The mix moves through different rhythms and styles but stays rooted in groove, focusing mostly on obscure and lesser-known records.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/salvatore/episodes/salvatore-17th-march-2026"
       },
       {
         "n": "LOS HITTERS",
         "s": "2026-03-17T21:00:00Z",
         "e": "2026-03-17T22:00:00Z",
-        "d": null,
+        "d": "Los Hitters is the collective partnership of Joe Cristando (Couple Two T’ree) and Rene Lopez (Suavecito Souldies). A collaboration that links the two from Brooklyn, NY to Oakland, CA. Their mixes focus on soul sounds comprised of their vinyl collection.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/los-hitters/episodes/los-hitters-17th-march-2026",
         "t": "monthly",
         "p": "loshitters"
       },
@@ -516,27 +497,17 @@
         "u": null,
         "t": "monthly",
         "p": "keelher"
+      },
+      {
+        "n": "Ellie O'Neill",
+        "s": "2026-03-18T15:00:00Z",
+        "e": "2026-03-18T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-17T05:00:00Z",
-        "e": "2026-03-17T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "THE CULTURE HEAD w. SAINT VOX",
-        "s": "2026-03-17T07:00:00Z",
-        "e": "2026-03-17T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Ardishko",
         "s": "2026-03-17T08:00:00Z",
@@ -1727,19 +1698,28 @@
         "u": null,
         "t": "monthly",
         "p": "malibooselects"
+      },
+      {
+        "n": "Sika",
+        "s": "2026-03-24T19:00:00Z",
+        "e": "2026-03-24T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "sika"
+      },
+      {
+        "n": "es.kay & Megwan",
+        "s": "2026-03-24T20:00:00Z",
+        "e": "2026-03-24T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Brennan - Unresolved Dependencies",
-        "s": "2026-03-17T06:00:00Z",
-        "e": "2026-03-17T08:00:00Z",
-        "d": null,
-        "j": "Unresolved Dependencies",
-        "u": null,
-        "t": "monthly",
-        "p": "brennan"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-03-17T08:00:00Z",
@@ -2224,13 +2204,23 @@
         "u": null
       },
       {
-        "n": "Time Away with Maral: Persian Classical Music Live",
+        "n": "rerun: Absent One – IRAN",
+        "s": "2026-03-23T01:00:00Z",
+        "e": "2026-03-23T02:00:00Z",
+        "d": null,
+        "j": "Absent One – IRAN",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "rerun: Time Away with Maral: Persian Classical Music Live",
         "s": "2026-03-23T02:00:00Z",
         "e": "2026-03-23T04:00:00Z",
         "d": null,
-        "j": "Persian Classical Music Live",
+        "j": "Time Away with Maral: Persian Classical Music Live",
         "u": null,
-        "t": "biweekly"
+        "t": "restream",
+        "p": "maral"
       },
       {
         "n": "Gabie Strong and Ian Wellman - Zone Mapping",
@@ -2313,18 +2303,19 @@
         "u": null,
         "t": "monthly",
         "p": "discotchari"
+      },
+      {
+        "n": "Patrick Shiroishi - Tangled",
+        "s": "2026-03-24T20:00:00Z",
+        "e": "2026-03-24T22:00:00Z",
+        "d": null,
+        "j": "Tangled",
+        "u": null,
+        "t": "monthly",
+        "p": "patrickshiroishi"
       }
     ],
     "rinse": [
-      {
-        "n": "Lamsi",
-        "s": "2026-03-17T06:00:00Z",
-        "e": "2026-03-17T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "lamsi"
-      },
       {
         "n": "Playlist",
         "s": "2026-03-17T07:00:00Z",
@@ -2621,15 +2612,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-16T23:00:00Z",
-        "e": "2026-03-17T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-17T08:00:00Z",
