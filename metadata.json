@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-18T06:52:41.993Z",
+  "updated": "2026-03-18T08:38:13.712Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Lovie",
-        "s": "2026-03-17T18:00:00Z",
-        "e": "2026-03-17T19:00:00Z",
-        "d": "An hour of music from the sweet and soulful selector by way of Brooklyn, NY.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/lovie-17th-march-2026"
-      },
       {
         "n": "NTS Guide to: '80s Sophisti-Funk",
         "s": "2026-03-17T19:00:00Z",
@@ -105,9 +97,9 @@
         "n": "The NTS Breakfast Show w/ DARE BALOGUN",
         "s": "2026-03-18T09:00:00Z",
         "e": "2026-03-18T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-dare-balogun-18th-march-2026",
         "p": "darebalogun"
       },
       {
@@ -241,27 +233,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "UNITED IN FLAMES (R)",
+        "s": "2026-03-19T06:00:00Z",
+        "e": "2026-03-19T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "OPTIMO",
-        "s": "2026-03-17T17:00:00Z",
-        "e": "2026-03-17T19:00:00Z",
-        "d": "Optimo is JG Wilkes & JD Twitch; record label, and longstanding Glaswegian party. You can expect a lot from their new monthly slot, sure to dig up some obscurities from post-punk, new wave, EBM, house and techno. Bags of unreleased stuff, too.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/optimo/episodes/optimo-17th-march-2026",
-        "t": "monthly",
-        "p": "optimo"
-      },
-      {
-        "n": "THE LUNACY OF FLOWERS W/ Jonas Karsten",
-        "s": "2026-03-17T19:00:00Z",
-        "e": "2026-03-17T20:00:00Z",
-        "d": "Dave I.D takes us through industrial, and techno – melodic and dark. New and classic goth, his selection sets him apart from most, branching decades and scenes.\nFrom the host: \"Helsinki-born, Berlin-based producer and artist working across experimental electronics, ambient, metal and other extreme sounds. Guest hour for Hedges David (The Lunacy Of Flowers)\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/daveid/episodes/daveid-17th-march-2026"
-      },
       {
         "n": "Cosmic Soundz w/ Salvatore: International Funk",
         "s": "2026-03-17T20:00:00Z",
@@ -371,18 +354,18 @@
         "n": "OKONKOLE Y TROMPA - PAM B2B MINIATURE (R)",
         "s": "2026-03-18T08:00:00Z",
         "e": "2026-03-18T10:00:00Z",
-        "d": null,
+        "d": "This month PAM is joined by Miniature from Bruits de La Passion for a B2b recorded during the Parisian heat-wave",
         "j": "PAM B2B MINIATURE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/okonkole-y-trompa/episodes/okonkole-y-trompa-w-pam-b2b-miniature-16th-june-2021",
         "t": "restream"
       },
       {
         "n": "3XL (R)",
         "s": "2026-03-18T10:00:00Z",
         "e": "2026-03-18T11:00:00Z",
-        "d": null,
+        "d": "Transmissions from the Outer Rim/Inner Edge.\n“you know the gates themselves are made of flood.”\n-Nadia Marcus",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/3xl/episodes/3xl-21st-july-2025",
         "t": "restream",
         "p": "3xl"
       },
@@ -511,27 +494,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Ritmo Santanero w/ LX Ramirez (R)",
+        "s": "2026-03-19T02:00:00Z",
+        "e": "2026-03-19T03:00:00Z",
+        "d": null,
+        "j": "LX Ramirez",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Funk Freaks Radio w/ DJ Zee (R)",
+        "s": "2026-03-19T03:00:00Z",
+        "e": "2026-03-19T04:00:00Z",
+        "d": null,
+        "j": "DJ Zee",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Super Best w/ Mood Change",
-        "s": "2026-03-17T18:00:00Z",
-        "e": "2026-03-17T19:00:00Z",
-        "d": null,
-        "j": "Mood Change",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Skelecta presents: South London Dance Factory",
-        "s": "2026-03-17T19:00:00Z",
-        "e": "2026-03-17T20:00:00Z",
-        "d": null,
-        "j": "South London Dance Factory",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Deeper DnB",
         "s": "2026-03-17T20:00:00Z",
@@ -1708,19 +1691,28 @@
         "u": null,
         "t": "monthly",
         "p": "moreit"
+      },
+      {
+        "n": "Dip in w/Babaganoush",
+        "s": "2026-03-25T07:00:00Z",
+        "e": "2026-03-25T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Melange w/ Weak Spell",
+        "s": "2026-03-25T08:00:00Z",
+        "e": "2026-03-25T09:00:00Z",
+        "d": null,
+        "j": "Weak Spell",
+        "u": null,
+        "t": "monthly",
+        "p": "weakspell"
       }
     ],
     "dublab": [
-      {
-        "n": "Kohinoorgasm - People's Portal",
-        "s": "2026-03-17T18:00:00Z",
-        "e": "2026-03-17T20:00:00Z",
-        "d": null,
-        "j": "People's Portal",
-        "u": null,
-        "t": "monthly",
-        "p": "kohinoorgasm"
-      },
       {
         "n": "Cafe's Internet Lounge",
         "s": "2026-03-17T20:00:00Z",
@@ -1781,6 +1773,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-18T08:00:00Z",
         "e": "2026-03-18T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-18T10:00:00Z",
+        "e": "2026-03-18T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2343,26 +2344,6 @@
     ],
     "rinse": [
       {
-        "n": "Papa Nugs",
-        "s": "2026-03-17T18:00:00Z",
-        "e": "2026-03-17T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "papanugs"
-      },
-      {
-        "n": "bullet tooth",
-        "s": "2026-03-17T19:00:00Z",
-        "e": "2026-03-17T20:00:00Z",
-        "d": null,
-        "j": "FM From B",
-        "u": null,
-        "t": "monthly",
-        "p": "bullettooth"
-      },
-      {
         "n": "La La",
         "s": "2026-03-17T20:00:00Z",
         "e": "2026-03-17T22:00:00Z",
@@ -2730,24 +2711,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Hyas",
-        "s": "2026-03-17T18:00:00Z",
-        "e": "2026-03-17T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "hyas"
-      },
-      {
-        "n": "Adam BFD B2B DJ Physical",
-        "s": "2026-03-17T19:00:00Z",
-        "e": "2026-03-17T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2026-03-17T20:00:00Z",
         "e": "2026-03-17T23:00:00Z",
@@ -2775,9 +2738,97 @@
         "t": "playlist"
       },
       {
-        "n": "MABOUL BASMATI",
+        "n": "Bob Marlich",
         "s": "2026-03-18T13:00:00Z",
         "e": "2026-03-18T14:00:00Z",
+        "d": null,
+        "j": "présente \"WAG1\" Sound System",
+        "u": null
+      },
+      {
+        "n": "Le Cercle",
+        "s": "2026-03-18T14:00:00Z",
+        "e": "2026-03-18T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "La Passe D avec Armel Bizzman",
+        "s": "2026-03-18T15:00:00Z",
+        "e": "2026-03-18T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "lapassedavecarmelbizzman"
+      },
+      {
+        "n": "CHÔ!",
+        "s": "2026-03-18T16:00:00Z",
+        "e": "2026-03-18T17:00:00Z",
+        "d": null,
+        "j": "invite PAPI DA SILVA",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Not Sorry",
+        "s": "2026-03-18T17:00:00Z",
+        "e": "2026-03-18T18:00:00Z",
+        "d": null,
+        "j": "w/ Aasana",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Hyas",
+        "s": "2026-03-18T18:00:00Z",
+        "e": "2026-03-18T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "hyas"
+      },
+      {
+        "n": "Adam BFD B2B DJ Physical",
+        "s": "2026-03-18T19:00:00Z",
+        "e": "2026-03-18T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-18T20:00:00Z",
+        "e": "2026-03-18T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-18T23:00:00Z",
+        "e": "2026-03-19T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-19T08:00:00Z",
+        "e": "2026-03-19T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "MABOUL BASMATI",
+        "s": "2026-03-19T13:00:00Z",
+        "e": "2026-03-19T14:00:00Z",
         "d": null,
         "j": "mode FRENCH VORTEX #87 invite NAMAS \"NEW LP RELEASE\"",
         "u": null,
@@ -2785,8 +2836,8 @@
       },
       {
         "n": "Mattias Mimoun",
-        "s": "2026-03-18T14:00:00Z",
-        "e": "2026-03-18T15:00:00Z",
+        "s": "2026-03-19T14:00:00Z",
+        "e": "2026-03-19T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2795,8 +2846,8 @@
       },
       {
         "n": "Marge",
-        "s": "2026-03-18T15:00:00Z",
-        "e": "2026-03-18T16:00:00Z",
+        "s": "2026-03-19T15:00:00Z",
+        "e": "2026-03-19T16:00:00Z",
         "d": null,
         "j": "présente Bass Bloom",
         "u": null,
@@ -2804,8 +2855,8 @@
       },
       {
         "n": "ERNA",
-        "s": "2026-03-18T16:00:00Z",
-        "e": "2026-03-18T17:00:00Z",
+        "s": "2026-03-19T16:00:00Z",
+        "e": "2026-03-19T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2813,8 +2864,8 @@
       },
       {
         "n": "TTristana",
-        "s": "2026-03-18T17:00:00Z",
-        "e": "2026-03-18T18:00:00Z",
+        "s": "2026-03-19T17:00:00Z",
+        "e": "2026-03-19T18:00:00Z",
         "d": null,
         "j": "invite Claude Murder",
         "u": null,
@@ -2822,8 +2873,8 @@
       },
       {
         "n": "Soeurs Malsaines",
-        "s": "2026-03-18T18:00:00Z",
-        "e": "2026-03-18T19:00:00Z",
+        "s": "2026-03-19T18:00:00Z",
+        "e": "2026-03-19T19:00:00Z",
         "d": null,
         "j": "invite Harey izé",
         "u": null,
@@ -2831,8 +2882,8 @@
       },
       {
         "n": "LAZE",
-        "s": "2026-03-18T19:00:00Z",
-        "e": "2026-03-18T20:00:00Z",
+        "s": "2026-03-19T19:00:00Z",
+        "e": "2026-03-19T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2840,8 +2891,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-03-18T20:00:00Z",
-        "e": "2026-03-18T21:00:00Z",
+        "s": "2026-03-19T20:00:00Z",
+        "e": "2026-03-19T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
