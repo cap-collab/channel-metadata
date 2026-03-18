@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-18T01:22:29.196Z",
+  "updated": "2026-03-18T04:15:54.813Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PROSUMER",
-        "s": "2026-03-17T13:00:00Z",
-        "e": "2026-03-17T15:00:00Z",
-        "d": "Berlin techno aficionado Prosumer lays it out for all the wannabes. A harmonious lecture in house and soul, Prosumer’s here to share. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/prosumer/episodes/prosumer-17th-march-2026",
-        "p": "prosumer"
-      },
-      {
-        "n": "Self Soothe w/ Margeaux & Isa",
-        "s": "2026-03-17T15:00:00Z",
-        "e": "2026-03-17T16:00:00Z",
-        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.\nFrom the host: _\"some of isa's favorite songs from artists taking part in no music for genocide !\ngo to nomusicforgenocide.org to learn more + join the movement < 3\"_",
-        "j": "Margeaux & Isa",
-        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-17th-march-2026",
-        "t": "weekly",
-        "p": "margeaux"
-      },
       {
         "n": "PANORAMA HEAVEN W/ BIANCA LEXIS (R)",
         "s": "2026-03-17T16:00:00Z",
@@ -108,9 +89,9 @@
         "n": "Furniture without Memories w/ livwutang (R)",
         "s": "2026-03-18T04:00:00Z",
         "e": "2026-03-18T05:00:00Z",
-        "d": null,
+        "d": "Bimonthly excursions through memories, geographies and nostalgia from NYC-based livwutang.",
         "j": "livwutang",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/livwutang/episodes/livwutang-29th-september-2025",
         "t": "restream",
         "p": "livwutang"
       },
@@ -118,9 +99,9 @@
         "n": "YU SU (R)",
         "s": "2026-03-18T05:00:00Z",
         "e": "2026-03-18T06:00:00Z",
-        "d": null,
+        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-19th-november-2019",
         "t": "restream",
         "p": "yusu"
       },
@@ -247,37 +228,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ICQ BABY",
+        "s": "2026-03-19T00:00:00Z",
+        "e": "2026-03-19T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Slow Hand Clutches (R)",
+        "s": "2026-03-19T02:00:00Z",
+        "e": "2026-03-19T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "MARK LECKEY - Darkness Beyond Radiance",
-        "s": "2026-03-17T13:00:00Z",
-        "e": "2026-03-17T14:00:00Z",
-        "d": "Contemporary British AV artist, collagist, and NTS host Mark Leckey takes to the airwaves to play oddities from his collection. Everything from doo-wop to gabber. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mark-leckey/episodes/mark-leckey-17th-march-2026"
-      },
-      {
-        "n": "LORAINE JAMES",
-        "s": "2026-03-17T14:00:00Z",
-        "e": "2026-03-17T15:00:00Z",
-        "d": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/loraine-james/episodes/loraine-james-17th-march-2026",
-        "t": "monthly",
-        "p": "lorainejames"
-      },
-      {
-        "n": "magic mashups w/ miss sheitana",
-        "s": "2026-03-17T15:00:00Z",
-        "e": "2026-03-17T16:00:00Z",
-        "d": "Loops, remixes, edits and reinterpretations from DJ and programmer miss sheitana, oscillating between post-club, rap, baltimore club, bass, ambient and remixes from the limbos of the internet.\nFrom the host: _\"just trying to make you listen to anything\n° layers of GTA ° perplex piano ° dissonant singeli ° miner's strike ° enhanced pretty boy swag ° old but gold °\npain music +++++++\nanybody want a drink before the war ?\"_",
-        "j": "miss sheitana",
-        "u": "https://www.nts.live/api/v2/shows/miss-sheitana/episodes/miss-sheitana-17th-march-2026",
-        "t": "monthly",
-        "p": "misssheitana"
-      },
       {
         "n": "New Swing / medi-pop w/ kwes.",
         "s": "2026-03-17T16:00:00Z",
@@ -375,9 +345,9 @@
         "n": "CXEMA (R)",
         "s": "2026-03-18T04:00:00Z",
         "e": "2026-03-18T05:00:00Z",
-        "d": null,
+        "d": "The sound of Ukraine's independent music scene. Presented by Схема, a Kyiv-based collective that moves forward rave culture in Ukraine.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cxema/episodes/cxema-11th-august-2025",
         "t": "restream",
         "p": "cxema"
       },
@@ -385,9 +355,9 @@
         "n": "BREAKING PEOPLE W/ NOA KURZWEIL (R)",
         "s": "2026-03-18T05:00:00Z",
         "e": "2026-03-18T06:00:00Z",
-        "d": null,
+        "d": "Another mixtape, another mistake. Come get broken with Noa Kurzweil (from VOICE ACTOR).",
         "j": "NOA KURZWEIL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/voice-actor/episodes/voice-actor-19th-may-2025",
         "t": "restream"
       },
       {
@@ -442,7 +412,8 @@
         "e": "2026-03-18T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "shabakahutchings"
       },
       {
         "n": "Shakshouka w/ Cheb Mimo",
@@ -516,38 +487,27 @@
         "d": null,
         "j": "Diana Ratsamee",
         "u": null,
-        "t": "monthly"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "drisk",
-        "s": "2026-03-17T13:00:00Z",
-        "e": "2026-03-17T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
         "t": "monthly",
-        "p": "drisk"
+        "p": "dianaratsamee"
       },
       {
-        "n": "Launcher",
-        "s": "2026-03-17T14:00:00Z",
-        "e": "2026-03-17T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "launcher"
-      },
-      {
-        "n": "Seah",
-        "s": "2026-03-17T15:00:00Z",
-        "e": "2026-03-17T16:00:00Z",
+        "n": "GENA (Liv.e & Karriem Riggins)",
+        "s": "2026-03-18T21:00:00Z",
+        "e": "2026-03-18T22:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "Ela Minus",
+        "s": "2026-03-18T22:00:00Z",
+        "e": "2026-03-18T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Atiké",
         "s": "2026-03-17T16:00:00Z",
@@ -648,6 +608,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-18T04:00:00Z",
+        "e": "2026-03-18T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "SJH",
@@ -1741,27 +1710,19 @@
         "u": null,
         "t": "monthly",
         "p": "moontalk"
+      },
+      {
+        "n": "Trans Caribe Express w/ moreit",
+        "s": "2026-03-25T02:00:00Z",
+        "e": "2026-03-25T04:00:00Z",
+        "d": null,
+        "j": "moreit",
+        "u": null,
+        "t": "monthly",
+        "p": "moreit"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-17T12:00:00Z",
-        "e": "2026-03-17T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-17T14:00:00Z",
-        "e": "2026-03-17T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Benson Taylor - TUSCAN JUNK FOOD",
         "s": "2026-03-17T16:00:00Z",
@@ -1828,6 +1789,15 @@
         "u": null,
         "t": "weekly",
         "p": "echoparkfilmcenter"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-18T06:00:00Z",
+        "e": "2026-03-18T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Teen Daze - Easy Listening",
@@ -2349,30 +2319,29 @@
         "u": null,
         "t": "weekly",
         "p": "hoseh"
+      },
+      {
+        "n": "Maddy Maia - Future Frequencies",
+        "s": "2026-03-25T02:00:00Z",
+        "e": "2026-03-25T04:00:00Z",
+        "d": null,
+        "j": "Future Frequencies",
+        "u": null,
+        "t": "monthly",
+        "p": "maddymaia"
+      },
+      {
+        "n": "Echo Park Film Center - Optical Track",
+        "s": "2026-03-25T04:00:00Z",
+        "e": "2026-03-25T06:00:00Z",
+        "d": null,
+        "j": "Optical Track",
+        "u": null,
+        "t": "weekly",
+        "p": "echoparkfilmcenter"
       }
     ],
     "rinse": [
-      {
-        "n": "Suzie Bakos",
-        "s": "2026-03-17T13:00:00Z",
-        "e": "2026-03-17T14:00:00Z",
-        "d": null,
-        "j": "Rahel Stephanie",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Adventures In Paradise with Manuel Darquart",
-        "s": "2026-03-17T14:00:00Z",
-        "e": "2026-03-17T15:00:00Z",
-        "d": null,
-        "j": "Good Block",
-        "u": null,
-        "p": "manueldarquart",
-        "ap": [
-          "paradise"
-        ]
-      },
       {
         "n": "Brighter Days Family",
         "s": "2026-03-17T15:00:00Z",
@@ -2783,31 +2752,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Bob Marlich",
-        "s": "2026-03-17T13:00:00Z",
-        "e": "2026-03-17T14:00:00Z",
-        "d": null,
-        "j": "présente \"WAG1\" Sound System",
-        "u": null
-      },
-      {
-        "n": "Le Cercle",
-        "s": "2026-03-17T14:00:00Z",
-        "e": "2026-03-17T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "La Passe D avec Armel Bizzman",
-        "s": "2026-03-17T15:00:00Z",
-        "e": "2026-03-17T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "lapassedavecarmelbizzman"
-      },
       {
         "n": "CHÔ!",
         "s": "2026-03-17T16:00:00Z",
