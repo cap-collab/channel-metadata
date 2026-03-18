@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-18T20:27:22.798Z",
+  "updated": "2026-03-18T22:24:54.934Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
-        "s": "2026-03-18T07:00:00Z",
-        "e": "2026-03-18T09:00:00Z",
-        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
-        "j": "SPIRIT BLUE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-18th-march-2026",
-        "t": "weekly"
-      },
       {
         "n": "The NTS Breakfast Show w/ DARE BALOGUN",
         "s": "2026-03-18T09:00:00Z",
@@ -104,9 +95,9 @@
         "n": "THE NCA SHOW W/ BRASSFOOT",
         "s": "2026-03-18T22:00:00Z",
         "e": "2026-03-18T23:00:00Z",
-        "d": null,
+        "d": "NCA is a London tape label specialising in experimental, techno and hip-hop, co-run by Brassfoot. Tune in to his monthly NCA Show for exclusives and jams from across the range - techno, house, hip-hop and more…",
         "j": "BRASSFOOT",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/brassfoot/episodes/brassfoot-18th-march-2026",
         "t": "monthly",
         "p": "brassfoot"
       },
@@ -114,9 +105,10 @@
         "n": "INTEARNET RADIO w/ PASSION",
         "s": "2026-03-18T23:00:00Z",
         "e": "2026-03-19T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Intearnet Radio is a monthly show hosted and/or curated by LYZZA ; a DJ, Producer and Vocalist based in Amsterdam via Brazil. Showcasing you her favorite contemporary, underground and not so underground selections off the internet, beats so good they could make you cry.\nFrom the host: \"_A mix from Passion - a YouTube junk drawer of mementos from friends and radio memories of a neglected child _\"",
+        "j": "PASSION",
+        "u": "https://www.nts.live/api/v2/shows/lyzza/episodes/lyzza-18th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "ICQ BABY",
@@ -245,18 +237,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Archived w/ Rotational",
+        "s": "2026-03-19T19:00:00Z",
+        "e": "2026-03-19T20:00:00Z",
+        "d": null,
+        "j": "Rotational",
+        "u": null,
+        "t": "monthly",
+        "p": "rotational"
+      },
+      {
+        "n": "NILE TO BANK w/ NIHAL",
+        "s": "2026-03-19T20:00:00Z",
+        "e": "2026-03-19T21:00:00Z",
+        "d": null,
+        "j": "NIHAL",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "OKONKOLE Y TROMPA - PAM B2B MINIATURE (R)",
-        "s": "2026-03-18T08:00:00Z",
-        "e": "2026-03-18T10:00:00Z",
-        "d": "This month PAM is joined by Miniature from Bruits de La Passion for a B2b recorded during the Parisian heat-wave",
-        "j": "PAM B2B MINIATURE",
-        "u": "https://www.nts.live/api/v2/shows/okonkole-y-trompa/episodes/okonkole-y-trompa-w-pam-b2b-miniature-16th-june-2021",
-        "t": "restream"
-      },
       {
         "n": "3XL (R)",
         "s": "2026-03-18T10:00:00Z",
@@ -371,17 +373,17 @@
         "n": "Ela Minus",
         "s": "2026-03-18T22:00:00Z",
         "e": "2026-03-18T23:00:00Z",
-        "d": null,
+        "d": "Colombia-born, NYC based artist Ela Minus goes deep on the inspirations behind her new album DIA in a series of shows, exploring the project and its surrounding sonics from a spectrum of different angles. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/ela-minus/episodes/ela-minus-18th-march-2026"
       },
       {
         "n": "Mixed Fruit w/ Michael David (New Feelings) (R)",
         "s": "2026-03-18T23:00:00Z",
         "e": "2026-03-19T00:00:00Z",
-        "d": null,
+        "d": "Eddie Jr & friends trading sounds for 60 minutes monthly, committed to their own rhythm & tempo.",
         "j": "Michael David (New Feelings)",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mixed-fruit/episodes/mixed-fruit-19th-february-2026",
         "t": "restream",
         "p": "mixedfruit"
       },
@@ -507,18 +509,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "BLACK SHEEP RADIO by LEFTY",
-        "s": "2026-03-18T08:00:00Z",
-        "e": "2026-03-18T09:00:00Z",
+        "n": "LA VIDA ES UN MUS - FORWARD TO THE CAVES",
+        "s": "2026-03-19T15:00:00Z",
+        "e": "2026-03-19T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "FORWARD TO THE CAVES",
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Goblin Milk",
+        "s": "2026-03-19T16:00:00Z",
+        "e": "2026-03-19T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "TSZ INVITES FITS ME FUNNY",
         "s": "2026-03-18T09:00:00Z",
@@ -1740,13 +1750,32 @@
         "j": "c_h_l__o_e",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "INIT6",
+        "s": "2026-03-25T21:00:00Z",
+        "e": "2026-03-25T22:00:00Z",
+        "d": "Hailing from northern Italy, STANDARD is a collective of artists, DJs and producers that aims at the promotion of bass music: Garage, UK Funky, Breaks, Leftfield Bass, Leftfield Techno, Dubstep, everything in between and beyond. They focus on the Italian Bass scene, showcasing new up-and-coming artists as well as established talents from all over the peninsula.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "init6"
+      },
+      {
+        "n": "Judder Show ",
+        "s": "2026-03-25T22:00:00Z",
+        "e": "2026-03-25T23:00:00Z",
+        "d": "Oddkut is a producer & DJ hailing from Balakovo City, Russia. He's part of the Russian collective \"United Gang\" who are a Moscow-based community of local musicians, DJ's and promoters teamed up by their genuine love & interest in UK underground music, \"TAЭT VREMYA\" art group and the creator of the Moscow parties \"Judder\".",
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-03-18T08:00:00Z",
-        "e": "2026-03-18T10:00:00Z",
+        "s": "2026-03-18T09:00:00Z",
+        "e": "2026-03-18T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1754,8 +1783,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-03-18T10:00:00Z",
-        "e": "2026-03-18T12:00:00Z",
+        "s": "2026-03-18T11:00:00Z",
+        "e": "2026-03-18T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1763,17 +1792,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-03-18T12:00:00Z",
-        "e": "2026-03-18T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-18T14:00:00Z",
-        "e": "2026-03-18T16:00:00Z",
+        "s": "2026-03-18T13:00:00Z",
+        "e": "2026-03-18T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1781,8 +1801,8 @@
       },
       {
         "n": "Teen Daze - Easy Listening",
-        "s": "2026-03-18T16:00:00Z",
-        "e": "2026-03-18T18:00:00Z",
+        "s": "2026-03-18T15:00:00Z",
+        "e": "2026-03-18T17:00:00Z",
         "d": null,
         "j": "Easy Listening",
         "u": null,
@@ -1791,8 +1811,8 @@
       },
       {
         "n": "Juan Izguerra – Low Profile",
-        "s": "2026-03-18T18:00:00Z",
-        "e": "2026-03-18T20:00:00Z",
+        "s": "2026-03-18T17:00:00Z",
+        "e": "2026-03-18T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1800,8 +1820,8 @@
       },
       {
         "n": "Heidi Lawden – Magic Roundabout",
-        "s": "2026-03-18T20:00:00Z",
-        "e": "2026-03-18T22:00:00Z",
+        "s": "2026-03-18T19:00:00Z",
+        "e": "2026-03-18T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1810,8 +1830,8 @@
       },
       {
         "n": "Ashraf – (very rare)",
-        "s": "2026-03-18T22:00:00Z",
-        "e": "2026-03-19T00:00:00Z",
+        "s": "2026-03-18T21:00:00Z",
+        "e": "2026-03-18T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1819,8 +1839,8 @@
       },
       {
         "n": "Sam Hockley-Smith - New Environments",
-        "s": "2026-03-19T00:00:00Z",
-        "e": "2026-03-19T02:00:00Z",
+        "s": "2026-03-18T23:00:00Z",
+        "e": "2026-03-19T01:00:00Z",
         "d": null,
         "j": "New Environments",
         "u": null,
@@ -1828,8 +1848,8 @@
       },
       {
         "n": "Gay Felony - Connector",
-        "s": "2026-03-19T02:00:00Z",
-        "e": "2026-03-19T04:00:00Z",
+        "s": "2026-03-19T01:00:00Z",
+        "e": "2026-03-19T03:00:00Z",
         "d": null,
         "j": "Connector",
         "u": null,
@@ -1838,8 +1858,8 @@
       },
       {
         "n": "Ghorba Radio",
-        "s": "2026-03-19T04:00:00Z",
-        "e": "2026-03-19T05:00:00Z",
+        "s": "2026-03-19T03:00:00Z",
+        "e": "2026-03-19T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1848,8 +1868,8 @@
       },
       {
         "n": "rerun: Aria Rostami – guest session",
-        "s": "2026-03-19T05:00:00Z",
-        "e": "2026-03-19T06:00:00Z",
+        "s": "2026-03-19T04:00:00Z",
+        "e": "2026-03-19T05:00:00Z",
         "d": null,
         "j": "Aria Rostami – guest session",
         "u": null,
@@ -1858,8 +1878,8 @@
       },
       {
         "n": "Richard Chartier – between two points",
-        "s": "2026-03-19T06:00:00Z",
-        "e": "2026-03-19T08:00:00Z",
+        "s": "2026-03-19T05:00:00Z",
+        "e": "2026-03-19T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1868,8 +1888,8 @@
       },
       {
         "n": "LARAAJI and OUT THERE",
-        "s": "2026-03-19T16:30:00Z",
-        "e": "2026-03-19T17:00:00Z",
+        "s": "2026-03-19T15:30:00Z",
+        "e": "2026-03-19T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1877,8 +1897,8 @@
       },
       {
         "n": "rerun: Shared Frequencies presents: Blossoms of Iran w/ nohup",
-        "s": "2026-03-19T17:00:00Z",
-        "e": "2026-03-19T18:00:00Z",
+        "s": "2026-03-19T16:00:00Z",
+        "e": "2026-03-19T17:00:00Z",
         "d": null,
         "j": "nohup",
         "u": null,
@@ -1886,16 +1906,16 @@
       },
       {
         "n": "Lindsay Boogie – guest session",
-        "s": "2026-03-19T18:00:00Z",
-        "e": "2026-03-19T20:00:00Z",
+        "s": "2026-03-19T17:00:00Z",
+        "e": "2026-03-19T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Jimmy Tamborello - Dying Songs",
-        "s": "2026-03-19T20:00:00Z",
-        "e": "2026-03-19T22:00:00Z",
+        "s": "2026-03-19T19:00:00Z",
+        "e": "2026-03-19T21:00:00Z",
         "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
         "j": "Dying Songs",
         "u": null,
@@ -1904,8 +1924,8 @@
       },
       {
         "n": "Version Galore OR Pony Sweat",
-        "s": "2026-03-20T00:00:00Z",
-        "e": "2026-03-20T01:00:00Z",
+        "s": "2026-03-19T23:00:00Z",
+        "e": "2026-03-20T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1913,16 +1933,16 @@
       },
       {
         "n": "Digital Drums OR NO ONE TURNED AWAY",
-        "s": "2026-03-20T01:00:00Z",
-        "e": "2026-03-20T02:00:00Z",
+        "s": "2026-03-20T00:00:00Z",
+        "e": "2026-03-20T01:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Star Eyes - Chaos Clan",
-        "s": "2026-03-20T04:00:00Z",
-        "e": "2026-03-20T06:00:00Z",
+        "s": "2026-03-20T03:00:00Z",
+        "e": "2026-03-20T05:00:00Z",
         "d": null,
         "j": "Chaos Clan",
         "u": null,
@@ -1931,8 +1951,8 @@
       },
       {
         "n": "Spaceship Earth - Space Master",
-        "s": "2026-03-20T06:00:00Z",
-        "e": "2026-03-20T08:00:00Z",
+        "s": "2026-03-20T05:00:00Z",
+        "e": "2026-03-20T07:00:00Z",
         "d": null,
         "j": "Space Master",
         "u": null,
@@ -1941,8 +1961,8 @@
       },
       {
         "n": "Daddy Differently and Dirty Dave - Things of Life",
-        "s": "2026-03-20T18:00:00Z",
-        "e": "2026-03-20T20:00:00Z",
+        "s": "2026-03-20T17:00:00Z",
+        "e": "2026-03-20T19:00:00Z",
         "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
         "j": "Things of Life",
         "u": null,
@@ -1954,16 +1974,16 @@
       },
       {
         "n": "Hakim Tafari – Siddartha Soundsystem",
-        "s": "2026-03-20T20:00:00Z",
-        "e": "2026-03-20T22:00:00Z",
+        "s": "2026-03-20T19:00:00Z",
+        "e": "2026-03-20T21:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Zama Dube - The Witch's Flight",
-        "s": "2026-03-20T22:00:00Z",
-        "e": "2026-03-21T00:00:00Z",
+        "s": "2026-03-20T21:00:00Z",
+        "e": "2026-03-20T23:00:00Z",
         "d": null,
         "j": "The Witch's Flight",
         "u": null,
@@ -1972,8 +1992,8 @@
       },
       {
         "n": "Hymnal and Mixmaster Wolf - Psychedelic Stax",
-        "s": "2026-03-21T00:00:00Z",
-        "e": "2026-03-21T02:00:00Z",
+        "s": "2026-03-20T23:00:00Z",
+        "e": "2026-03-21T01:00:00Z",
         "d": null,
         "j": "Psychedelic Stax",
         "u": null,
@@ -1986,8 +2006,8 @@
       },
       {
         "n": "Desmond - Cool Spot Selections",
-        "s": "2026-03-21T02:00:00Z",
-        "e": "2026-03-21T04:00:00Z",
+        "s": "2026-03-21T01:00:00Z",
+        "e": "2026-03-21T03:00:00Z",
         "d": null,
         "j": "Cool Spot Selections",
         "u": null,
@@ -1996,8 +2016,8 @@
       },
       {
         "n": "Greg Belson - 45 live",
-        "s": "2026-03-21T04:00:00Z",
-        "e": "2026-03-21T06:00:00Z",
+        "s": "2026-03-21T03:00:00Z",
+        "e": "2026-03-21T05:00:00Z",
         "d": null,
         "j": "45 live",
         "u": null,
@@ -2009,8 +2029,8 @@
       },
       {
         "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
-        "s": "2026-03-21T06:00:00Z",
-        "e": "2026-03-21T08:00:00Z",
+        "s": "2026-03-21T05:00:00Z",
+        "e": "2026-03-21T07:00:00Z",
         "d": null,
         "j": "Bears in Space",
         "u": null,
@@ -2022,8 +2042,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-03-21T08:00:00Z",
-        "e": "2026-03-21T10:00:00Z",
+        "s": "2026-03-21T07:00:00Z",
+        "e": "2026-03-21T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2031,8 +2051,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-03-21T12:00:00Z",
-        "e": "2026-03-21T16:00:00Z",
+        "s": "2026-03-21T11:00:00Z",
+        "e": "2026-03-21T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2040,8 +2060,8 @@
       },
       {
         "n": "RERUN: JF Chen Radio",
-        "s": "2026-03-21T17:00:00Z",
-        "e": "2026-03-21T18:00:00Z",
+        "s": "2026-03-21T16:00:00Z",
+        "e": "2026-03-21T17:00:00Z",
         "d": null,
         "j": "JF Chen Radio",
         "u": null,
@@ -2049,8 +2069,8 @@
       },
       {
         "n": "Elyn Kazarian – Her Vision Her Voice",
-        "s": "2026-03-21T20:00:00Z",
-        "e": "2026-03-21T22:00:00Z",
+        "s": "2026-03-21T19:00:00Z",
+        "e": "2026-03-21T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2059,8 +2079,8 @@
       },
       {
         "n": "Beats of All-Nations",
-        "s": "2026-03-21T22:00:00Z",
-        "e": "2026-03-22T00:00:00Z",
+        "s": "2026-03-21T21:00:00Z",
+        "e": "2026-03-21T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2068,8 +2088,8 @@
       },
       {
         "n": "ANTHNY GBRIEL – Con Amor",
-        "s": "2026-03-22T00:00:00Z",
-        "e": "2026-03-22T02:00:00Z",
+        "s": "2026-03-21T23:00:00Z",
+        "e": "2026-03-22T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2078,8 +2098,8 @@
       },
       {
         "n": "2092 presents... Funk Radio",
-        "s": "2026-03-22T02:00:00Z",
-        "e": "2026-03-22T04:00:00Z",
+        "s": "2026-03-22T01:00:00Z",
+        "e": "2026-03-22T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2087,8 +2107,8 @@
       },
       {
         "n": "Discoteca 3ala Mars",
-        "s": "2026-03-22T04:00:00Z",
-        "e": "2026-03-22T06:00:00Z",
+        "s": "2026-03-22T03:00:00Z",
+        "e": "2026-03-22T05:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2096,8 +2116,8 @@
       },
       {
         "n": "Mark Maxwell - Sankofa Sound System",
-        "s": "2026-03-22T06:00:00Z",
-        "e": "2026-03-22T08:00:00Z",
+        "s": "2026-03-22T05:00:00Z",
+        "e": "2026-03-22T07:00:00Z",
         "d": null,
         "j": "Sankofa Sound System",
         "u": null,
@@ -2106,8 +2126,8 @@
       },
       {
         "n": "djjs",
-        "s": "2026-03-22T13:00:00Z",
-        "e": "2026-03-22T15:00:00Z",
+        "s": "2026-03-22T12:00:00Z",
+        "e": "2026-03-22T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2115,8 +2135,8 @@
       },
       {
         "n": "djjs 2",
-        "s": "2026-03-22T15:00:00Z",
-        "e": "2026-03-22T17:00:00Z",
+        "s": "2026-03-22T14:00:00Z",
+        "e": "2026-03-22T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2124,8 +2144,8 @@
       },
       {
         "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-03-22T17:00:00Z",
-        "e": "2026-03-22T18:00:00Z",
+        "s": "2026-03-22T16:00:00Z",
+        "e": "2026-03-22T17:00:00Z",
         "d": null,
         "j": "Music for Dreams",
         "u": null,
@@ -2134,8 +2154,8 @@
       },
       {
         "n": "Thomas Klepper - Library of Sounds",
-        "s": "2026-03-22T18:00:00Z",
-        "e": "2026-03-22T20:00:00Z",
+        "s": "2026-03-22T17:00:00Z",
+        "e": "2026-03-22T19:00:00Z",
         "d": null,
         "j": "Library of Sounds",
         "u": null,
@@ -2144,8 +2164,8 @@
       },
       {
         "n": "Flight Club",
-        "s": "2026-03-22T20:00:00Z",
-        "e": "2026-03-22T22:00:00Z",
+        "s": "2026-03-22T19:00:00Z",
+        "e": "2026-03-22T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2153,8 +2173,8 @@
       },
       {
         "n": "Def Sound",
-        "s": "2026-03-22T22:00:00Z",
-        "e": "2026-03-23T00:00:00Z",
+        "s": "2026-03-22T21:00:00Z",
+        "e": "2026-03-22T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2163,16 +2183,16 @@
       },
       {
         "n": "Dago Dags – guest session",
-        "s": "2026-03-23T00:00:00Z",
-        "e": "2026-03-23T01:00:00Z",
+        "s": "2026-03-22T23:00:00Z",
+        "e": "2026-03-23T00:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "rerun: Absent One – IRAN",
-        "s": "2026-03-23T01:00:00Z",
-        "e": "2026-03-23T02:00:00Z",
+        "s": "2026-03-23T00:00:00Z",
+        "e": "2026-03-23T01:00:00Z",
         "d": null,
         "j": "Absent One – IRAN",
         "u": null,
@@ -2180,8 +2200,8 @@
       },
       {
         "n": "rerun: Time Away with Maral: Persian Classical Music Live",
-        "s": "2026-03-23T02:00:00Z",
-        "e": "2026-03-23T04:00:00Z",
+        "s": "2026-03-23T01:00:00Z",
+        "e": "2026-03-23T03:00:00Z",
         "d": null,
         "j": "Time Away with Maral: Persian Classical Music Live",
         "u": null,
@@ -2190,8 +2210,8 @@
       },
       {
         "n": "Gabie Strong and Ian Wellman - Zone Mapping",
-        "s": "2026-03-23T04:00:00Z",
-        "e": "2026-03-23T06:00:00Z",
+        "s": "2026-03-23T03:00:00Z",
+        "e": "2026-03-23T05:00:00Z",
         "d": null,
         "j": "Zone Mapping",
         "u": null,
@@ -2203,8 +2223,8 @@
       },
       {
         "n": "christeeeene - cherry custard",
-        "s": "2026-03-23T17:00:00Z",
-        "e": "2026-03-23T18:00:00Z",
+        "s": "2026-03-23T16:00:00Z",
+        "e": "2026-03-23T17:00:00Z",
         "d": null,
         "j": "cherry custard",
         "u": null,
@@ -2213,8 +2233,8 @@
       },
       {
         "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-03-23T18:00:00Z",
-        "e": "2026-03-23T20:00:00Z",
+        "s": "2026-03-23T17:00:00Z",
+        "e": "2026-03-23T19:00:00Z",
         "d": null,
         "j": "Viva! Talks",
         "u": null,
@@ -2223,8 +2243,8 @@
       },
       {
         "n": "Domenic Priore - '66 Sunset Strip",
-        "s": "2026-03-23T20:00:00Z",
-        "e": "2026-03-23T22:00:00Z",
+        "s": "2026-03-23T19:00:00Z",
+        "e": "2026-03-23T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2232,8 +2252,8 @@
       },
       {
         "n": "El Cocodrilo – Tropisónico",
-        "s": "2026-03-24T02:00:00Z",
-        "e": "2026-03-24T04:00:00Z",
+        "s": "2026-03-24T01:00:00Z",
+        "e": "2026-03-24T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2242,8 +2262,8 @@
       },
       {
         "n": "Aaron Paar - Stomping Grounds",
-        "s": "2026-03-24T04:00:00Z",
-        "e": "2026-03-24T06:00:00Z",
+        "s": "2026-03-24T03:00:00Z",
+        "e": "2026-03-24T05:00:00Z",
         "d": null,
         "j": "Stomping Grounds",
         "u": null,
@@ -2252,8 +2272,8 @@
       },
       {
         "n": "Davina Two Bears - Indigenous Voice",
-        "s": "2026-03-24T16:00:00Z",
-        "e": "2026-03-24T18:00:00Z",
+        "s": "2026-03-24T15:00:00Z",
+        "e": "2026-03-24T17:00:00Z",
         "d": null,
         "j": "Indigenous Voice",
         "u": null,
@@ -2262,8 +2282,8 @@
       },
       {
         "n": "Discotchari - Silk Road Secret Agents",
-        "s": "2026-03-24T18:00:00Z",
-        "e": "2026-03-24T20:00:00Z",
+        "s": "2026-03-24T17:00:00Z",
+        "e": "2026-03-24T19:00:00Z",
         "d": null,
         "j": "Silk Road Secret Agents",
         "u": null,
@@ -2272,8 +2292,8 @@
       },
       {
         "n": "Patrick Shiroishi - Tangled",
-        "s": "2026-03-24T20:00:00Z",
-        "e": "2026-03-24T22:00:00Z",
+        "s": "2026-03-24T19:00:00Z",
+        "e": "2026-03-24T21:00:00Z",
         "d": null,
         "j": "Tangled",
         "u": null,
@@ -2282,8 +2302,8 @@
       },
       {
         "n": "Photay - Extravagant Frequencies",
-        "s": "2026-03-24T22:00:00Z",
-        "e": "2026-03-25T00:00:00Z",
+        "s": "2026-03-24T21:00:00Z",
+        "e": "2026-03-24T23:00:00Z",
         "d": null,
         "j": "Extravagant Frequencies",
         "u": null,
@@ -2292,8 +2312,8 @@
       },
       {
         "n": "Hoseh - Version Sounds",
-        "s": "2026-03-25T00:00:00Z",
-        "e": "2026-03-25T02:00:00Z",
+        "s": "2026-03-24T23:00:00Z",
+        "e": "2026-03-25T01:00:00Z",
         "d": null,
         "j": "Version Sounds",
         "u": null,
@@ -2302,8 +2322,8 @@
       },
       {
         "n": "Maddy Maia - Future Frequencies",
-        "s": "2026-03-25T02:00:00Z",
-        "e": "2026-03-25T04:00:00Z",
+        "s": "2026-03-25T01:00:00Z",
+        "e": "2026-03-25T03:00:00Z",
         "d": null,
         "j": "Future Frequencies",
         "u": null,
@@ -2312,8 +2332,8 @@
       },
       {
         "n": "Echo Park Film Center - Optical Track",
-        "s": "2026-03-25T04:00:00Z",
-        "e": "2026-03-25T06:00:00Z",
+        "s": "2026-03-25T03:00:00Z",
+        "e": "2026-03-25T05:00:00Z",
         "d": null,
         "j": "Optical Track",
         "u": null,
@@ -2322,8 +2342,8 @@
       },
       {
         "n": "Wyldeflower and PayRay - nueve",
-        "s": "2026-03-25T06:00:00Z",
-        "e": "2026-03-25T08:00:00Z",
+        "s": "2026-03-25T05:00:00Z",
+        "e": "2026-03-25T07:00:00Z",
         "d": null,
         "j": "nueve",
         "u": null,
@@ -2335,8 +2355,8 @@
       },
       {
         "n": "Seano - The Treehouse",
-        "s": "2026-03-25T16:00:00Z",
-        "e": "2026-03-25T18:00:00Z",
+        "s": "2026-03-25T15:00:00Z",
+        "e": "2026-03-25T17:00:00Z",
         "d": null,
         "j": "The Treehouse",
         "u": null,
@@ -2345,8 +2365,8 @@
       },
       {
         "n": "Jennifer Herrema and Kurt Midness - The Banana Question",
-        "s": "2026-03-25T20:00:00Z",
-        "e": "2026-03-25T22:00:00Z",
+        "s": "2026-03-25T19:00:00Z",
+        "e": "2026-03-25T21:00:00Z",
         "d": null,
         "j": "The Banana Question",
         "u": null,
@@ -2355,18 +2375,18 @@
         "ap": [
           "kurtmidness"
         ]
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-03-18T07:00:00Z",
-        "e": "2026-03-18T09:00:00Z",
+        "n": "Francis Inferno Orchestra - Hardcore Positive",
+        "s": "2026-03-25T21:00:00Z",
+        "e": "2026-03-25T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "p": "francisinfernoorchestra"
+      }
+    ],
+    "rinse": [
       {
         "n": "Esk",
         "s": "2026-03-18T09:00:00Z",
