@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-03-19T20:28:32.679Z",
+  "updated": "2026-03-19T22:19:27.629Z",
   "stations": {
     "nts1": [
       {
@@ -847,7 +847,8 @@
         "e": "2026-02-21T12:00:00Z",
         "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-21st-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-21st-february-2026",
+        "p": "macca"
       },
       {
         "n": "Ross Allen",
@@ -1572,7 +1573,8 @@
         "e": "2026-02-26T11:00:00Z",
         "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. Today Flo's looking ahead to St David's Day, and is joined by Welsh-language gothic avant-rock power-coven Tristwch Y Fenywod live in the studio. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-26th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-26th-february-2026",
+        "p": "flo"
       },
       {
         "n": "Soup To Nuts w/ Minus Kendal",
@@ -1957,7 +1959,8 @@
         "e": "2026-03-05T11:00:00Z",
         "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. Today, Irish musician Nashpaints is live in the studio to play 3 tracks in celebration of his brilliant album, Everyone Good is Called Molly.    ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-5th-march-2026"
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-5th-march-2026",
+        "p": "flo"
       },
       {
         "n": "SOUP TO NUTS W/ GABI",
@@ -2019,7 +2022,8 @@
         "e": "2026-03-05T22:00:00Z",
         "d": "Tune into Ghost Notes Worldwide for that post-twilight sound. Night time music of all strains, with blunted R&B and hip hop instrumentals, neo-downtempo productions, slow jams, and hazy dancefloor sounds.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/impey/episodes/impey-5th-march-2026"
+        "u": "https://www.nts.live/api/v2/shows/impey/episodes/impey-5th-march-2026",
+        "p": "mjk"
       },
       {
         "n": "@nickcheo",
@@ -2190,7 +2194,10 @@
         "d": "Ed Banger bringing the party to the London studio in a two hour session with the big wig Busy P and label stalwart Myd and Tatyana Jane. ",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/guests/episodes/ed-banger-6th-march-2026",
-        "p": "edbanger"
+        "p": "edbanger",
+        "ap": [
+          "tatyanajane"
+        ]
       },
       {
         "n": "LATE NIGHT BILLIARDS",
@@ -4188,6 +4195,14 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/malibu/episodes/malibu-3rd-october-2024",
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "s": "2026-03-19T07:00:00Z",
+        "e": "2026-03-19T09:00:00Z",
+        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-19th-march-2026"
       }
     ],
     "nts2": [
@@ -9266,6 +9281,24 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-18th-august-2025",
         "t": "restream"
+      },
+      {
+        "n": "WELSH FOLK SPECIAL (R)",
+        "s": "2026-03-19T08:00:00Z",
+        "e": "2026-03-19T09:00:00Z",
+        "d": "Dive into singles of the 60's and 70's from three of the best Welsh-language folk labels: Cambrian, Wren and Sain.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/welsh-folk-special-18th-august-2022",
+        "t": "restream"
+      },
+      {
+        "n": "A Scene In Between w/ Samuel Knee (R)",
+        "s": "2026-03-19T09:00:00Z",
+        "e": "2026-03-19T10:00:00Z",
+        "d": "Sam Knee navigates and curates lost underground countercultural sounds with deep dives into specific sub-scenes, regions, years, labels of the near mythical 80’s post punk DIY indie guitar era and beyond, back to its 60s basement punk genesis. ",
+        "j": "Samuel Knee",
+        "u": "https://www.nts.live/api/v2/shows/a-scene-in-between/episodes/a-scene-in-between-w-samuel-knee-15th-january-2025",
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -10400,7 +10433,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "celebritybitcrush"
+        "p": "guests",
+        "ap": [
+          "celebritybitcrush"
+        ]
       },
       {
         "n": "Drusbă",
@@ -14652,6 +14688,25 @@
         "u": null,
         "t": "monthly",
         "p": "psychogeography"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-19T08:00:00Z",
+        "e": "2026-03-19T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "source",
+        "s": "2026-03-19T09:00:00Z",
+        "e": "2026-03-19T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "source"
       }
     ],
     "dublab": [
@@ -18290,6 +18345,15 @@
         "u": null,
         "t": "monthly",
         "p": "richardchartier"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-19T07:00:00Z",
+        "e": "2026-03-19T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -22473,6 +22537,15 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-03-19T07:00:00Z",
+        "e": "2026-03-19T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinsefr": [

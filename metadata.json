@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-19T20:28:20.612Z",
+  "updated": "2026-03-19T22:19:13.571Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-03-19T07:00:00Z",
-        "e": "2026-03-19T09:00:00Z",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-19th-march-2026"
-      },
       {
         "n": "The NTS Breakfast Show w/ FERGUS CLARK",
         "s": "2026-03-19T09:00:00Z",
@@ -107,9 +99,9 @@
         "n": "BRAV (R)",
         "s": "2026-03-19T23:00:00Z",
         "e": "2026-03-20T00:00:00Z",
-        "d": null,
+        "d": "Long time NTS collaborator and This City Plays producer, Brav brings a monthly showcase of ambient, techno and experimental cuts…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/brav/episodes/brav-31st-may-2025",
         "t": "restream",
         "p": "brav"
       },
@@ -250,27 +242,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "RUF DUG",
+        "s": "2026-03-20T18:00:00Z",
+        "e": "2026-03-20T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "rufdug"
       }
     ],
     "nts2": [
-      {
-        "n": "WELSH FOLK SPECIAL (R)",
-        "s": "2026-03-19T08:00:00Z",
-        "e": "2026-03-19T09:00:00Z",
-        "d": "Dive into singles of the 60's and 70's from three of the best Welsh-language folk labels: Cambrian, Wren and Sain.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/welsh-folk-special-18th-august-2022",
-        "t": "restream"
-      },
-      {
-        "n": "A Scene In Between w/ Samuel Knee (R)",
-        "s": "2026-03-19T09:00:00Z",
-        "e": "2026-03-19T10:00:00Z",
-        "d": "Sam Knee navigates and curates lost underground countercultural sounds with deep dives into specific sub-scenes, regions, years, labels of the near mythical 80’s post punk DIY indie guitar era and beyond, back to its 60s basement punk genesis. ",
-        "j": "Samuel Knee",
-        "u": "https://www.nts.live/api/v2/shows/a-scene-in-between/episodes/a-scene-in-between-w-samuel-knee-15th-january-2025",
-        "t": "restream"
-      },
       {
         "n": "Just A Thought - Human Nature",
         "s": "2026-03-19T10:00:00Z",
@@ -383,18 +367,19 @@
         "n": "Sasha Crush w/ Fiction",
         "s": "2026-03-19T22:00:00Z",
         "e": "2026-03-19T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Monthly mixes by Sasha Crush (Sasha Alcocer), a NY native, her taste is influenced by the dancefloor, with an inclination toward disco, Chicago house, synth-pop, funk, freestyle + more. Photo Credit: Morgan Maher\nFrom the host: \"Sasha Crush invites Fiction aka Cassius Luber as the first guest of her monthly residency. New York-based DJ, health coach, and the friendliest face on any dancefloor, Fiction is an emerging selector with great taste and old school influence.\"",
+        "j": "Fiction",
+        "u": "https://www.nts.live/api/v2/shows/sasha-crush/episodes/sasha-crush-19th-march-2026",
+        "t": "monthly",
         "p": "sashacrush"
       },
       {
-        "n": "RAVE REPARATIONS RADIO",
+        "n": "Rave Reparations Radio w/ Leelee",
         "s": "2026-03-19T23:00:00Z",
-        "e": "2026-03-20T00:00:00Z",
+        "e": "2026-03-20T01:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/rave-reparations/episodes/rave-reparations-20th-march-2026"
       },
       {
         "n": "RAVE REPARATIONS RADIO",
@@ -414,12 +399,13 @@
         "p": "postgeography"
       },
       {
-        "n": "Kaitlyn Aurelia-Smith: TOUCHTHEPLANTS",
+        "n": "Kaitlyn Aurelia-Smith: TOUCHTHEPLANTS (R)",
         "s": "2026-03-20T02:00:00Z",
         "e": "2026-03-20T04:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "TOUCHTHEPLANTS",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Kampire (R)",
@@ -521,28 +507,36 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-19T08:00:00Z",
-        "e": "2026-03-19T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
       },
       {
-        "n": "source",
-        "s": "2026-03-19T09:00:00Z",
-        "e": "2026-03-19T10:00:00Z",
+        "n": "Finest Hour: L$P 'Black Ark' Special w/ Martine Rose & Marc Asekhame",
+        "s": "2026-03-20T17:00:00Z",
+        "e": "2026-03-20T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "JUNE MCDOOM",
+        "s": "2026-03-20T18:00:00Z",
+        "e": "2026-03-20T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "source"
+        "p": "junemcdoom"
       },
+      {
+        "n": "Crossed Wires w/ Amanda Siegel & Hazel Rigby",
+        "s": "2026-03-20T19:00:00Z",
+        "e": "2026-03-20T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "amandasiegel"
+      }
+    ],
+    "subtle": [
       {
         "n": "In The Rotation w/ Su",
         "s": "2026-03-19T10:00:00Z",
@@ -1787,18 +1781,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Cue:Rated",
+        "s": "2026-03-26T22:00:00Z",
+        "e": "2026-03-27T00:00:00Z",
+        "d": null,
+        "j": "Rated",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-19T07:00:00Z",
-        "e": "2026-03-19T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-03-19T09:00:00Z",
@@ -2422,18 +2416,19 @@
         "u": null,
         "t": "weekly",
         "p": "jimmytamborello"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-03-19T07:00:00Z",
-        "e": "2026-03-19T09:00:00Z",
+        "n": "Apiento’s New Age Dance Show",
+        "s": "2026-03-26T21:00:00Z",
+        "e": "2026-03-26T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "apiento"
+      }
+    ],
+    "rinse": [
       {
         "n": "Yazmin Lacey",
         "s": "2026-03-19T09:00:00Z",
