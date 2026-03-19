@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-19T01:22:56.541Z",
+  "updated": "2026-03-19T04:14:26.877Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Oscar Jerome",
-        "s": "2026-03-18T13:00:00Z",
-        "e": "2026-03-18T14:00:00Z",
-        "d": "South London based songwriter and guitarist Oscar Jerome presents an exploration of his tastes – fusion, jazz, soul, samba… ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/oscar-jerome-18th-march-2026"
-      },
-      {
-        "n": "BRADLEY ZERO PRESENTS: RHYTHM SECTION",
-        "s": "2026-03-18T14:00:00Z",
-        "e": "2026-03-18T15:00:00Z",
-        "d": "Rhythm Section Radio was founded in 2009 and moved to NTS in 2012, and has since pulled out the stops breaking new music, promoting independent labels and paying homage to the greatest music from the past, through a perhaps unhealthy obsession with record digging.",
-        "j": "RHYTHM SECTION",
-        "u": "https://www.nts.live/api/v2/shows/rhythmsection/episodes/rhythmsection-18th-march-2026",
-        "t": "biweekly"
-      },
       {
         "n": "MOXIE W/ DJ SPLIT",
         "s": "2026-03-18T15:00:00Z",
@@ -121,18 +104,18 @@
         "n": "NOISE IN MY HEAD (R)",
         "s": "2026-03-19T03:00:00Z",
         "e": "2026-03-19T05:00:00Z",
-        "d": null,
+        "d": "Noise In My Head is a freeform sonic excursion presented by Melbourne based host Michael Kucyk. Over the years the show has been responsible for displaying talent from around the globe, from artists to DJs, label heads, compilation selectors and record collectors. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/noise-in-my-head/episodes/noise-in-my-head-w-plo-man-13th-february-2018",
         "t": "restream"
       },
       {
         "n": "The Uline Catalog (R)",
         "s": "2026-03-19T05:00:00Z",
         "e": "2026-03-19T06:00:00Z",
-        "d": null,
+        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-31st-august-2024",
         "t": "restream"
       },
       {
@@ -236,7 +219,8 @@
         "d": null,
         "j": "NIHAL",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "nihal"
       },
       {
         "n": "PEKING SPRING w/ DJ Wiggles",
@@ -266,37 +250,28 @@
         "u": null,
         "t": "restream",
         "p": "slimefm"
+      },
+      {
+        "n": "DJ TOBZY IMOLE GIWA (R)",
+        "s": "2026-03-20T01:00:00Z",
+        "e": "2026-03-20T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "8ULENTINA (R)",
+        "s": "2026-03-20T02:00:00Z",
+        "e": "2026-03-20T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "8ulentina"
       }
     ],
     "nts2": [
-      {
-        "n": "Shakshouka w/ Cheb Mimo",
-        "s": "2026-03-18T13:00:00Z",
-        "e": "2026-03-18T14:00:00Z",
-        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.",
-        "j": "Cheb Mimo",
-        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-18th-march-2026",
-        "t": "monthly",
-        "p": "chebmimo"
-      },
-      {
-        "n": "KEEL HER",
-        "s": "2026-03-18T14:00:00Z",
-        "e": "2026-03-18T15:00:00Z",
-        "d": "Prolific London based DIY & lo-fi pop producer Keel Her heads to the studio for a show once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/keel-her/episodes/keel-her-18th-march-2026",
-        "t": "monthly",
-        "p": "keelher"
-      },
-      {
-        "n": "Ellie O'Neill",
-        "s": "2026-03-18T15:00:00Z",
-        "e": "2026-03-18T16:00:00Z",
-        "d": "Ellie O'Neill, singer-songwriter from Meath, Ireland, takes over the NTS airwaves with a mix to celebrate the release of Time of Fallow. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ellie-o-neill-18th-march-2026"
-      },
       {
         "n": "THE BADDIS SOUND W/ DANNIELLA DEE",
         "s": "2026-03-18T16:00:00Z",
@@ -358,7 +333,8 @@
         "e": "2026-03-18T23:00:00Z",
         "d": "Colombia-born, NYC based artist Ela Minus goes deep on the inspirations behind her new album DIA in a series of shows, exploring the project and its surrounding sonics from a spectrum of different angles. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ela-minus/episodes/ela-minus-18th-march-2026"
+        "u": "https://www.nts.live/api/v2/shows/ela-minus/episodes/ela-minus-18th-march-2026",
+        "p": "elaminus"
       },
       {
         "n": "Mixed Fruit w/ Michael David (New Feelings) (R)",
@@ -385,7 +361,8 @@
         "d": "Ritmo Santanero is an all-vinyl cumbia DJ Crew based out of Santa Ana, CA consisting of DJ’s Rigo Suave, Gary Ventura, LX Ramirez, and Kevin Hernandez. The revered cumbia connoisseurs locally dubbed “Los Reyes Cumbieros” are each seasoned vinyl collectors in their own right. Their highly-curated selection ranges from porros, gaitas, rebajadas, to rare tracks and beloved classics - all on 45s.\nRitmo Santanero stands out as an artistic contender in the Southern California sonidero scene as the trio expands out of Santa Ana and into Long Beach, and Los Angeles - bringing the best all-vinyl cumbia night to a town near you. Spinning a mix of cumbia genres from of all corners of the world, Ritmo Santanero is reviving the once-dormant sonidero culture of the 90’s, yet deviating from the announcement-heavy tradition by letting the music do the talking.",
         "j": "LX Ramirez",
         "u": "https://www.nts.live/api/v2/shows/ritmo-santanero/episodes/ritmo-santanero-13th-august-2024",
-        "t": "restream"
+        "t": "restream",
+        "p": "ritmosantanero"
       },
       {
         "n": "Funk Freaks Radio w/ DJ Zee (R)",
@@ -400,9 +377,9 @@
         "n": "Discostan w/ Peter Doolan (Monrakplengthai) (R)",
         "s": "2026-03-19T04:00:00Z",
         "e": "2026-03-19T05:00:00Z",
-        "d": null,
+        "d": "On today's Radio Discostan we present an hour of music from Bangkok's Arab-Malay scene assembled by Peter Doolan of Monrakplengthai. In these songs, we hear Thai pop/rock sounds layered among rhythms, melodies and textures from throughout the Muslim world. Influences from Malaysia, Indonesia, Egypt, Lebanon, and India are all discernable in the mix.\nThai Arab-Malay acts had their heyday in the '70s and '80s entertaining cosmopolitan visitors from the ummah on \"Soi Arab\" (Sukhumvit Lane 3/1), and popular nightlife bands of the era have remained a staple at mosque fairs and other cultural events around the central provinces ever since.\nThe selections in this set are primarily digitized from cassettes that were for sale at Phrakhanong's Yanavy Tape & Video or from various second-hand vendors around the capital.Peter Doolan covers the world of Thai music on cassette at monrakplengthai.blogspot.com.",
         "j": "Peter Doolan (Monrakplengthai)",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/discostan/episodes/discostan-26th-august-2020",
         "t": "restream",
         "p": "discostan"
       },
@@ -410,9 +387,9 @@
         "n": "Benedek (R)",
         "s": "2026-03-19T05:00:00Z",
         "e": "2026-03-19T06:00:00Z",
-        "d": null,
+        "d": "Los Angeles native & synth pioneer Benedek blends ambient, boogie, funk & more, once a month from our LA studio. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/benedek/episodes/benedek-13th-november-2020",
         "t": "restream"
       },
       {
@@ -474,7 +451,8 @@
         "e": "2026-03-19T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "dove"
       },
       {
         "n": "PACING THE PLATFORM W/ UPSAMMY",
@@ -508,7 +486,8 @@
         "e": "2026-03-19T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "goblinmilk"
       },
       {
         "n": "The Outsiders w/ Rich Tupica",
@@ -527,38 +506,36 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "0x54",
-        "s": "2026-03-18T13:00:00Z",
-        "e": "2026-03-18T14:00:00Z",
+        "n": "COSMIC PEEKABOO",
+        "s": "2026-03-19T19:00:00Z",
+        "e": "2026-03-19T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "0x54"
+        "p": "cosmicpeekaboo"
       },
       {
-        "n": "Nabes",
-        "s": "2026-03-18T14:00:00Z",
-        "e": "2026-03-18T15:00:00Z",
+        "n": "Straight Honey: Sentimental",
+        "s": "2026-03-19T20:00:00Z",
+        "e": "2026-03-19T21:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "nabes"
-      },
-      {
-        "n": "Lo5ive",
-        "s": "2026-03-18T15:00:00Z",
-        "e": "2026-03-18T16:00:00Z",
-        "d": null,
-        "j": null,
+        "j": "Sentimental",
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "UNDERGROUND & BLACK W/ Cry$Cross",
+        "s": "2026-03-19T21:00:00Z",
+        "e": "2026-03-19T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": " Gilbo",
         "s": "2026-03-18T16:00:00Z",
@@ -660,6 +637,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-19T06:00:00Z",
+        "e": "2026-03-19T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Psychogeography",
@@ -1770,18 +1756,27 @@
         "j": "KUMAA",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Vital Signs w/ Simge",
+        "s": "2026-03-26T02:00:00Z",
+        "e": "2026-03-26T03:00:00Z",
+        "d": null,
+        "j": "Simge",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Night Wanderings w/ Stourm",
+        "s": "2026-03-26T03:00:00Z",
+        "e": "2026-03-26T04:00:00Z",
+        "d": null,
+        "j": "Stourm",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-18T13:00:00Z",
-        "e": "2026-03-18T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Teen Daze - Easy Listening",
         "s": "2026-03-18T15:00:00Z",
@@ -2410,28 +2405,18 @@
         "u": null,
         "t": "monthly",
         "p": "addae"
+      },
+      {
+        "n": "Father/Daughter Funk Hour",
+        "s": "2026-03-26T03:00:00Z",
+        "e": "2026-03-26T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Morf",
-        "s": "2026-03-18T13:00:00Z",
-        "e": "2026-03-18T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "morf"
-      },
-      {
-        "n": "Storm Mollison",
-        "s": "2026-03-18T14:00:00Z",
-        "e": "2026-03-18T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "stormmollison"
-      },
       {
         "n": "Utopia Presents",
         "s": "2026-03-18T15:00:00Z",
@@ -2651,7 +2636,8 @@
         "e": "2026-03-19T22:00:00Z",
         "d": null,
         "j": "Bella",
-        "u": null
+        "u": null,
+        "p": "chlocaillet"
       },
       {
         "n": "Steel City Dance Discs",
@@ -2803,34 +2789,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "MABOUL BASMATI",
-        "s": "2026-03-18T13:00:00Z",
-        "e": "2026-03-18T14:00:00Z",
-        "d": null,
-        "j": "mode FRENCH VORTEX #87 invite NAMAS \"NEW LP RELEASE\"",
-        "u": null,
-        "p": "maboulbasmati"
-      },
-      {
-        "n": "Mattias Mimoun",
-        "s": "2026-03-18T14:00:00Z",
-        "e": "2026-03-18T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "mattiasmimoun"
-      },
-      {
-        "n": "Marge",
-        "s": "2026-03-18T15:00:00Z",
-        "e": "2026-03-18T16:00:00Z",
-        "d": null,
-        "j": "présente Bass Bloom",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "ERNA",
         "s": "2026-03-18T16:00:00Z",
