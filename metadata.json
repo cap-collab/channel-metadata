@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-19T04:14:26.877Z",
+  "updated": "2026-03-19T06:47:09.228Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOXIE W/ DJ SPLIT",
-        "s": "2026-03-18T15:00:00Z",
-        "e": "2026-03-18T16:59:00Z",
-        "d": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moxie/episodes/moxie-18th-march-2026",
-        "p": "moxie"
-      },
-      {
-        "n": "TASH LC",
-        "s": "2026-03-18T17:00:00Z",
-        "e": "2026-03-18T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "tashlc"
-      },
       {
         "n": "Jeshi",
         "s": "2026-03-18T18:00:00Z",
@@ -122,18 +104,18 @@
         "n": "UNITED IN FLAMES (R)",
         "s": "2026-03-19T06:00:00Z",
         "e": "2026-03-19T07:00:00Z",
-        "d": null,
+        "d": "Malibu is a French electronic musician whose work sails between ambient and ethereal music.\nForever inspired by soft reverbed vocals and melodious chord progressions, Malibu’s music is an immersive nostalgic journey in a sea of synthetic strings and choirs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/malibu/episodes/malibu-3rd-october-2024",
         "t": "restream"
       },
       {
         "n": "THE EARLY BIRD SHOW W/ PAM",
         "s": "2026-03-19T07:00:00Z",
         "e": "2026-03-19T09:00:00Z",
-        "d": null,
+        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-19th-march-2026"
       },
       {
         "n": "The NTS Breakfast Show w/ FERGUS CLARK",
@@ -269,28 +251,29 @@
         "u": null,
         "t": "restream",
         "p": "8ulentina"
+      },
+      {
+        "n": "SCORING MACHINE w/ AGATHE ROUSSELLE (R)",
+        "s": "2026-03-20T03:00:00Z",
+        "e": "2026-03-20T04:00:00Z",
+        "d": null,
+        "j": "AGATHE ROUSSELLE",
+        "u": null,
+        "t": "restream",
+        "p": "agatherousselle"
+      },
+      {
+        "n": "Last Resort (R)",
+        "s": "2026-03-20T04:00:00Z",
+        "e": "2026-03-20T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "lastresort"
       }
     ],
     "nts2": [
-      {
-        "n": "THE BADDIS SOUND W/ DANNIELLA DEE",
-        "s": "2026-03-18T16:00:00Z",
-        "e": "2026-03-18T17:00:00Z",
-        "d": "Inspired by the iconic reggae & ska sounds of her home, singer & producer Danniella Dee shares a monthly crate of dub-wise selections, soul-soothing rocksteady, and heavyweight roots to the studio. ",
-        "j": "DANNIELLA DEE",
-        "u": "https://www.nts.live/api/v2/shows/danniella-dee/episodes/danniella-dee-18th-march-2026",
-        "t": "monthly",
-        "p": "dannielladee"
-      },
-      {
-        "n": "Martyn's Darkest Light - Mainstream Records special",
-        "s": "2026-03-18T17:00:00Z",
-        "e": "2026-03-18T18:06:00Z",
-        "d": "Tune into Martyn's monthly show on 2 for some delectable jazz treats from over the Atlantic.\nFrom the host: \"A special selection of gems from the Mainstream Records catalog, including music by Harold Land, Roy Haynes and Blue Mitchell.\"",
-        "j": "Mainstream Records special",
-        "u": "https://www.nts.live/api/v2/shows/martyn/episodes/martyn-18th-march-2026",
-        "t": "monthly"
-      },
       {
         "n": "SUBJECT TO CHANGE W/ TIMMHOTEP",
         "s": "2026-03-18T18:00:00Z",
@@ -396,18 +379,18 @@
         "n": "MUSIC 4 LOVERS W/ JABU & ANDY PAYBACK (R)",
         "s": "2026-03-19T06:00:00Z",
         "e": "2026-03-19T07:00:00Z",
-        "d": null,
+        "d": "Jabu and Andy Payback bring us Music 4 Lovers once a month.",
         "j": "JABU & ANDY PAYBACK",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/music-4-lovers/episodes/music-4-lovers-19th-august-2023",
         "t": "restream"
       },
       {
         "n": "GHUNGHRU (R)",
         "s": "2026-03-19T07:00:00Z",
         "e": "2026-03-19T08:00:00Z",
-        "d": null,
+        "d": "All-genre NTS monthly by New York–based, New Delhi–born Arushi Jain fka modularprincess",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-18th-august-2025",
         "t": "restream"
       },
       {
@@ -533,28 +516,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Sasha Crush w/ Fiction",
+        "s": "2026-03-19T22:00:00Z",
+        "e": "2026-03-19T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sashacrush"
+      },
+      {
+        "n": "RAVE REPARATIONS RADIO",
+        "s": "2026-03-19T23:00:00Z",
+        "e": "2026-03-20T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": " Gilbo",
-        "s": "2026-03-18T16:00:00Z",
-        "e": "2026-03-18T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "gilbo"
-      },
-      {
-        "n": "MixRaw",
-        "s": "2026-03-18T17:00:00Z",
-        "e": "2026-03-18T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " Antisocial Records",
         "s": "2026-03-18T18:00:00Z",
@@ -1778,16 +1759,6 @@
     ],
     "dublab": [
       {
-        "n": "Teen Daze - Easy Listening",
-        "s": "2026-03-18T15:00:00Z",
-        "e": "2026-03-18T17:00:00Z",
-        "d": null,
-        "j": "Easy Listening",
-        "u": null,
-        "t": "monthly",
-        "p": "teendaze"
-      },
-      {
         "n": "Juan Izguerra – Low Profile",
         "s": "2026-03-18T17:00:00Z",
         "e": "2026-03-18T19:00:00Z",
@@ -1863,6 +1834,15 @@
         "u": null,
         "t": "monthly",
         "p": "richardchartier"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-19T07:00:00Z",
+        "e": "2026-03-19T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -2414,29 +2394,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Utopia Presents",
-        "s": "2026-03-18T15:00:00Z",
-        "e": "2026-03-18T17:00:00Z",
-        "d": null,
-        "j": "Oscillation",
-        "u": null,
-        "t": "weekly",
-        "p": "utopiapresents"
       },
       {
-        "n": "Talina",
-        "s": "2026-03-18T17:00:00Z",
-        "e": "2026-03-18T18:00:00Z",
+        "n": "Change of Heart",
+        "s": "2026-03-26T05:00:00Z",
+        "e": "2026-03-26T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "regular",
-        "p": "talina"
-      },
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "T.NO",
         "s": "2026-03-18T18:00:00Z",
@@ -2789,24 +2758,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "ERNA",
-        "s": "2026-03-18T16:00:00Z",
-        "e": "2026-03-18T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "TTristana",
-        "s": "2026-03-18T17:00:00Z",
-        "e": "2026-03-18T18:00:00Z",
-        "d": null,
-        "j": "invite Claude Murder",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Soeurs Malsaines",
         "s": "2026-03-18T18:00:00Z",
