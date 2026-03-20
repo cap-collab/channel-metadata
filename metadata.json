@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-20T14:38:18.458Z",
+  "updated": "2026-03-20T16:33:36.869Z",
   "stations": {
     "nts1": [
-      {
-        "n": "8ULENTINA (R)",
-        "s": "2026-03-20T02:00:00Z",
-        "e": "2026-03-20T03:00:00Z",
-        "d": "8ULENTINA is an interdisciplinary artist, music producer and DJ based in Brooklyn, New York. Known for his dynamic DJ sets and music composition synthesizing a range of genres, geographies and tempos. He co-founded CLUB CHAI (2016-2021), a record label and curatorial platform with Lara Sarkissian and currently runs a SILLAGE, a platform for contemporary sonic artifacts. His NTS show explores the sounds that inspire his production process, focusing on experimentation, percussive intensity, and non linear storytelling through sound.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/8ulentina/episodes/8ulentina-8th-may-2024",
-        "t": "restream",
-        "p": "8ulentina"
-      },
-      {
-        "n": "SCORING MACHINE w/ AGATHE ROUSSELLE (R)",
-        "s": "2026-03-20T03:00:00Z",
-        "e": "2026-03-20T04:00:00Z",
-        "d": null,
-        "j": "AGATHE ROUSSELLE",
-        "u": null,
-        "t": "restream",
-        "p": "agatherousselle"
-      },
       {
         "n": "Last Resort (R)",
         "s": "2026-03-20T04:00:00Z",
@@ -110,27 +90,26 @@
         "n": "STEPHANE",
         "s": "2026-03-20T16:00:00Z",
         "e": "2026-03-20T17:00:00Z",
-        "d": null,
+        "d": "contemporary french + international rap presented by Stephane.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gelato/episodes/gelato-20th-march-2026",
         "t": "monthly"
       },
       {
         "n": "In Focus: Dot Rotten",
         "s": "2026-03-20T17:00:00Z",
         "e": "2026-03-20T18:00:00Z",
-        "d": null,
+        "d": "A singular figure in grime who cut his own road through the scene, Dot Rotten had a brief dalliance with mainstream sounds, but was always committed to the underground. A multifaced talent, the artist born Joseph Daniel Ellis-Stevenson, could handle introspective and intricate storytelling, and tackle diss tracks with the fearlessness and sportsmanship that grime demanded. He was also an influential producer, making instrumentals under the name Zeph Ellis. \nNTS selects an hour of tracks from the sadly passed grime MC and producer Dot Rotten. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-dot-rotten-20th-march-2026"
       },
       {
-        "n": "RUF DUG",
+        "n": "RUF DUG b2b DANIEL JOHN WILLIS",
         "s": "2026-03-20T18:00:00Z",
         "e": "2026-03-20T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "rufdug"
       },
       {
@@ -206,12 +185,13 @@
         "p": "gigifm"
       },
       {
-        "n": "Japan Blues",
+        "n": "Japan Blues (R)",
         "s": "2026-03-21T05:00:00Z",
         "e": "2026-03-21T07:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Post-Geography (R)",
@@ -249,18 +229,27 @@
         "u": null,
         "t": "monthly",
         "p": "rossallen"
+      },
+      {
+        "n": "JAMES MASSIAH",
+        "s": "2026-03-21T14:00:00Z",
+        "e": "2026-03-21T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
+        "s": "2026-03-21T15:00:00Z",
+        "e": "2026-03-21T17:00:00Z",
+        "d": null,
+        "j": "MR PEDRO",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "Kaitlyn Aurelia-Smith: TOUCHTHEPLANTS (R)",
-        "s": "2026-03-20T02:00:00Z",
-        "e": "2026-03-20T04:00:00Z",
-        "d": "Composer and modular synth expert Kaitlyn Aurelia Smith presents her recent releases and musical inspiration. ",
-        "j": "TOUCHTHEPLANTS",
-        "u": "https://www.nts.live/api/v2/shows/kaitlyn-aurelia-smith/episodes/kaitlyn-aurelia-smith-3rd-october-2025",
-        "t": "restream"
-      },
       {
         "n": "Kampire (R)",
         "s": "2026-03-20T04:00:00Z",
@@ -359,17 +348,18 @@
         "n": "Sir Richard Bishop",
         "s": "2026-03-20T16:00:00Z",
         "e": "2026-03-20T17:00:00Z",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sir-richard-bishop-20th-march-2026"
       },
       {
         "n": "Finest Hour: L$P 'Black Ark' Special w/ Martine Rose & Marc Asekhame",
         "s": "2026-03-20T17:00:00Z",
         "e": "2026-03-20T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "A monthly broadcasts from London-based curator Cynthia, taking you through a selection of her ongoing music research and personal favourites, blending sounds that move across time and genre.",
+        "j": "Martine Rose & Marc Asekhame",
+        "u": "https://www.nts.live/api/v2/shows/cynthia/episodes/cynthia-20th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "JUNE MCDOOM",
@@ -504,27 +494,27 @@
         "j": "Real People Music",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Post Punk Britain: Primitive Painters - Jangle Pop & Indie Rock from the UK Post Punk Era (R)",
+        "s": "2026-03-21T10:00:00Z",
+        "e": "2026-03-21T12:00:00Z",
+        "d": null,
+        "j": "Primitive Painters - Jangle Pop & Indie Rock from the UK Post Punk Era",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "NTS Guide To: D-Roy Records Special (R)",
+        "s": "2026-03-21T12:00:00Z",
+        "e": "2026-03-21T13:00:00Z",
+        "d": null,
+        "j": "D-Roy Records Special",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "robbiethemook",
-        "s": "2026-03-20T02:00:00Z",
-        "e": "2026-03-20T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Empathy Audio Show",
-        "s": "2026-03-20T03:00:00Z",
-        "e": "2026-03-20T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-03-20T04:00:00Z",
@@ -1736,17 +1726,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Loker",
+        "s": "2026-03-27T15:00:00Z",
+        "e": "2026-03-27T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Rowan Ash B2B Louna",
+        "s": "2026-03-27T16:00:00Z",
+        "e": "2026-03-27T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ash"
       }
     ],
     "dublab": [
-      {
-        "n": "Psychic Skin OR Insula",
-        "s": "2026-03-20T01:00:00Z",
-        "e": "2026-03-20T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Star Eyes - Chaos Clan",
         "s": "2026-03-20T03:00:00Z",
@@ -2355,16 +2356,6 @@
     ],
     "rinse": [
       {
-        "n": "Just Jane",
-        "s": "2026-03-20T02:00:00Z",
-        "e": "2026-03-20T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "justjane"
-      },
-      {
         "n": "Electronic Playlist",
         "s": "2026-03-20T03:00:00Z",
         "e": "2026-03-20T06:00:00Z",
@@ -2430,7 +2421,7 @@
         "s": "2026-03-20T18:00:00Z",
         "e": "2026-03-20T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Zak Miller",
         "u": null,
         "t": "biweekly",
         "p": "ellaknight"
@@ -2566,7 +2557,7 @@
         "s": "2026-03-21T16:00:00Z",
         "e": "2026-03-21T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Azzi On The Beat",
         "u": null,
         "t": "monthly",
         "p": "juba"
@@ -2576,7 +2567,7 @@
         "s": "2026-03-21T17:00:00Z",
         "e": "2026-03-21T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live at Public Records",
         "u": null,
         "t": "weekly",
         "p": "oscarfarrell"
@@ -2586,7 +2577,7 @@
         "s": "2026-03-21T18:00:00Z",
         "e": "2026-03-21T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Weightless (For A While)",
         "u": null,
         "t": "monthly",
         "p": "cassy"
