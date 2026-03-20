@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-20T16:33:36.869Z",
+  "updated": "2026-03-20T18:36:00.499Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Last Resort (R)",
-        "s": "2026-03-20T04:00:00Z",
-        "e": "2026-03-20T05:00:00Z",
-        "d": "A swift hour long excursion into the unknown. Expect the unexpected from host Tom Cathcart as almost anything goes: techno, post-punk, minimal synth, dub and new wave. Don’t be a prude.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/last-resort/episodes/last-resort-30th-november-2024",
-        "t": "restream",
-        "p": "lastresort"
-      },
-      {
-        "n": "Mended Dreams w/ Claire Rousay (R)",
-        "s": "2026-03-20T05:00:00Z",
-        "e": "2026-03-20T06:00:00Z",
-        "d": "Los Angeles producer & sound artist claire rousay journeys through healing plaintive electronics, quotidian field recordings & minimalist compositions.",
-        "j": "Claire Rousay",
-        "u": "https://www.nts.live/api/v2/shows/claire-rousay/episodes/claire-rousay-14th-february-2022",
-        "t": "restream",
-        "p": "clairerousay"
-      },
       {
         "n": "Fifth World w/ Ian Kim Judd (R)",
         "s": "2026-03-20T06:00:00Z",
@@ -107,18 +87,18 @@
         "n": "RUF DUG b2b DANIEL JOHN WILLIS",
         "s": "2026-03-20T18:00:00Z",
         "e": "2026-03-20T19:00:00Z",
-        "d": null,
+        "d": "Ruf Dug brings the leftfield: old video game soundtracks, dusty analogue dreamers and poolside Balearic sounds. No nonsense from the original tropical cyberpunk.\nFrom the host: \"Recorded last night at the Rainy Heart x Loft party in central London. Ruffy was joined on the 1s and 2s by professional man-about-town DANIEL JOHN WILLIS for an all wax evening of high-end sound, Eames chairs and tacos\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ruf-dug/episodes/ruf-dug-20th-march-2026",
         "p": "rufdug"
       },
       {
         "n": "MINIMAL EFFORT",
         "s": "2026-03-20T19:00:00Z",
         "e": "2026-03-20T21:00:00Z",
-        "d": null,
+        "d": "Ira demonstrates how to do extra soulful with a masterclass in vibes. It's easy when you know how.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/minimal-effort/episodes/minimal-effort-20th-march-2026",
         "t": "monthly",
         "p": "minimaleffort"
       },
@@ -247,28 +227,28 @@
         "j": "MR PEDRO",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "LAST RESORT",
+        "s": "2026-03-21T17:00:00Z",
+        "e": "2026-03-21T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lastresort"
+      },
+      {
+        "n": "SWEET TOOTH W/ ALFIE WHITEMAN",
+        "s": "2026-03-21T18:00:00Z",
+        "e": "2026-03-21T19:00:00Z",
+        "d": null,
+        "j": "ALFIE WHITEMAN",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "Kampire (R)",
-        "s": "2026-03-20T04:00:00Z",
-        "e": "2026-03-20T05:00:00Z",
-        "d": "Cutting edge East African club sounds from Kampala's finest party starter.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kampire/episodes/kampire-8th-march-2022",
-        "t": "restream",
-        "p": "kampire"
-      },
-      {
-        "n": "EQUIKNOXX (R)",
-        "s": "2026-03-20T05:00:00Z",
-        "e": "2026-03-20T06:00:00Z",
-        "d": "Forward thinking music from the Jamaican collective, Equiknoxx, featuring Shanique Marie, Bobby Blackbird, Bubbler, Gavsborg, Kemikal Splash & Time Cow.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/equiknoxx/episodes/equiknoxx-15th-february-2024",
-        "t": "restream"
-      },
       {
         "n": "Ashley Mi Ki Mak (R)",
         "s": "2026-03-20T06:00:00Z",
@@ -365,9 +345,9 @@
         "n": "JUNE MCDOOM",
         "s": "2026-03-20T18:00:00Z",
         "e": "2026-03-20T19:00:00Z",
-        "d": null,
+        "d": "New York based neo-folk songwriter June McDoom takes over for regular trips into vintage folk, reggae, soul, experimental sounds and more.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/june-mcdoom/episodes/june-mcdoom-20th-march-2026",
         "t": "monthly",
         "p": "junemcdoom"
       },
@@ -375,10 +355,14 @@
         "n": "Crossed Wires w/ Amanda Siegel & Hazel Rigby",
         "s": "2026-03-20T19:00:00Z",
         "e": "2026-03-20T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "amandasiegel"
+        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.",
+        "j": "Amanda Siegel & Hazel Rigby",
+        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-20th-march-2026",
+        "t": "monthly",
+        "p": "amandasiegel",
+        "ap": [
+          "hazel"
+        ]
       },
       {
         "n": "All About Our Love w/ DJ NFS",
@@ -510,6 +494,24 @@
         "e": "2026-03-21T13:00:00Z",
         "d": null,
         "j": "D-Roy Records Special",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ANDY VOTEL'S RANDOMONIUM",
+        "s": "2026-03-21T13:00:00Z",
+        "e": "2026-03-21T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Chuquimamani-Condori - ILY Travis PT. 2 (Chuqi Chinchay Is God of America) (R)",
+        "s": "2026-03-21T14:00:00Z",
+        "e": "2026-03-21T15:00:00Z",
+        "d": null,
+        "j": "ILY Travis PT. 2 (Chuqi Chinchay Is God of America)",
         "u": null,
         "t": "restream"
       }
@@ -1745,19 +1747,28 @@
         "u": null,
         "t": "monthly",
         "p": "ash"
+      },
+      {
+        "n": "MILLETT",
+        "s": "2026-03-27T17:00:00Z",
+        "e": "2026-03-27T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "millett"
+      },
+      {
+        "n": "Sessions w/ Amy B",
+        "s": "2026-03-27T18:00:00Z",
+        "e": "2026-03-27T19:00:00Z",
+        "d": "Sessions w/ Amy B is an underground multi-genre music show, showcasing the most prolific guests from all corners of the music industry. ",
+        "j": "Amy B",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Star Eyes - Chaos Clan",
-        "s": "2026-03-20T03:00:00Z",
-        "e": "2026-03-20T05:00:00Z",
-        "d": null,
-        "j": "Chaos Clan",
-        "u": null,
-        "t": "monthly",
-        "p": "stareyes"
-      },
       {
         "n": "Spaceship Earth - Space Master",
         "s": "2026-03-20T05:00:00Z",
@@ -2352,18 +2363,22 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Daddy Differently and Dirty Dave - Things of Life",
+        "s": "2026-03-27T17:00:00Z",
+        "e": "2026-03-27T19:00:00Z",
+        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
+        "j": "Things of Life",
+        "u": null,
+        "t": "weekly",
+        "p": "daddydifferently",
+        "ap": [
+          "dirtydave"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-03-20T03:00:00Z",
-        "e": "2026-03-20T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Eclecticist",
         "s": "2026-03-20T06:00:00Z",
@@ -2587,7 +2602,7 @@
         "s": "2026-03-21T20:00:00Z",
         "e": "2026-03-21T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Adiel Club Series - Episode 2",
         "u": null,
         "t": "monthly",
         "p": "adiel"
@@ -2603,13 +2618,14 @@
         "p": "romanflgel"
       },
       {
-        "n": "Didi Han",
+        "n": "Bok Bok",
         "s": "2026-03-21T23:00:00Z",
         "e": "2026-03-22T00:00:00Z",
         "d": null,
-        "j": "Rinse HQ131",
+        "j": null,
         "u": null,
-        "p": "didihan"
+        "t": "weekly",
+        "p": "bokbok"
       }
     ],
     "rinsefr": [
