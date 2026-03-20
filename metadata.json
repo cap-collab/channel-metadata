@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-20T12:38:21.653Z",
+  "updated": "2026-03-20T14:38:18.458Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SLIME FM W/ KHADIJA AL HANAFI (R)",
-        "s": "2026-03-20T00:00:00Z",
-        "e": "2026-03-20T01:00:00Z",
-        "d": null,
-        "j": "KHADIJA AL HANAFI",
-        "u": null,
-        "t": "restream",
-        "p": "slimefm"
-      },
-      {
-        "n": "DJ TOBZY IMOLE GIWA (R)",
-        "s": "2026-03-20T01:00:00Z",
-        "e": "2026-03-20T02:00:00Z",
-        "d": "The best in Nigerian freebeat from Lagos-based champion of the sound, DJ Tobzy.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tobzy-imole-giwa/episodes/tobzy-imole-giwa-30th-june-2023",
-        "t": "restream"
-      },
       {
         "n": "8ULENTINA (R)",
         "s": "2026-03-20T02:00:00Z",
@@ -112,17 +93,18 @@
         "n": "TEARS IN THE CLUB W/ B4mba",
         "s": "2026-03-20T14:00:00Z",
         "e": "2026-03-20T15:00:00Z",
-        "d": null,
+        "d": "\"Tears in the Club\" presents a unique blend of structured and chaotic music, combining intense hip hop, drum and bass, footwork, jersey club, and sometimes Afro rhythms. This multi-genre musical show explores diverse musical landscapes, creating a striking contrast between genres, while also showcasing new artists.\nFrom the host: \"For this episode, I invited B4mba around a selection of afro-diasporic rap.\nBetween club and rap, the selection moves through afro-club and afro-influenced rap, alongside gqom, experimental club and percussive bass sounds. B4mba is a Senegalese-Hispanic producer, DJ and vocalist based in Barcelona.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/jeune-pouce/episodes/jeune-pouce-20th-march-2026"
       },
       {
-        "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW",
+        "n": "Maral: Iran Special (R)",
         "s": "2026-03-20T15:00:00Z",
         "e": "2026-03-20T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "A somber and experimental guest mix from produder and DJ Maral – featuring Iranian classics, early shellac recordings of Iranian classical Music, and field recordings of folk music from different regions of Iran.\nTapping into the liminal feelings of being in the diaspora, mixtures of sadness, anger, fear and nostalgia. A cathartic mix for anyone in the world.",
+        "j": "Iran Special",
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/maral---iran-special-25th-june-2025",
+        "t": "restream"
       },
       {
         "n": "STEPHANE",
@@ -249,34 +231,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Rave Reparations Radio w/ Leelee",
-        "s": "2026-03-19T23:00:00Z",
-        "e": "2026-03-20T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rave-reparations/episodes/rave-reparations-20th-march-2026"
       },
       {
-        "n": "RAVE REPARATIONS RADIO",
-        "s": "2026-03-20T00:00:00Z",
-        "e": "2026-03-20T01:00:00Z",
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ Soul System",
+        "s": "2026-03-21T10:00:00Z",
+        "e": "2026-03-21T12:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Post-Geography",
-        "s": "2026-03-20T01:00:00Z",
-        "e": "2026-03-20T02:00:00Z",
-        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
+        "n": "ROSS ALLEN",
+        "s": "2026-03-21T12:00:00Z",
+        "e": "2026-03-21T14:00:00Z",
+        "d": null,
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-20th-march-2026",
-        "p": "postgeography"
-      },
+        "u": null,
+        "t": "monthly",
+        "p": "rossallen"
+      }
+    ],
+    "nts2": [
       {
         "n": "Kaitlyn Aurelia-Smith: TOUCHTHEPLANTS (R)",
         "s": "2026-03-20T02:00:00Z",
@@ -365,18 +340,19 @@
         "n": "ANTINOTE",
         "s": "2026-03-20T14:00:00Z",
         "e": "2026-03-20T15:00:00Z",
-        "d": null,
+        "d": "Monthly sessions from Zaltan, the mind behind Paris-based leftfield dance, electronic & downtempo imprint Antinote, with occasional appearances from friends and artists on the label. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zaltan/episodes/zaltan-20th-march-2026",
         "t": "monthly"
       },
       {
         "n": "Image search",
         "s": "2026-03-20T15:00:00Z",
         "e": "2026-03-20T16:00:00Z",
-        "d": null,
+        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month.\nEmail: animalimagesearch@gmail.com",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-20th-march-2026",
+        "t": "monthly",
         "p": "imagesearch"
       },
       {
@@ -506,27 +482,31 @@
         "j": "ALL KIND MUSIC",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "SOPHIE THATCHER (R)",
+        "s": "2026-03-21T08:00:00Z",
+        "e": "2026-03-21T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "sophie",
+        "ap": [
+          "sophiethatcher"
+        ]
+      },
+      {
+        "n": "SÉANCE CENTRE w/ Real People Music (R)",
+        "s": "2026-03-21T09:00:00Z",
+        "e": "2026-03-21T10:00:00Z",
+        "d": null,
+        "j": "Real People Music",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": " Akira Knightley",
-        "s": "2026-03-20T00:00:00Z",
-        "e": "2026-03-20T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DELLUSION",
-        "s": "2026-03-20T01:00:00Z",
-        "e": "2026-03-20T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "robbiethemook",
         "s": "2026-03-20T02:00:00Z",
@@ -1738,17 +1718,27 @@
         "u": null,
         "t": "monthly",
         "p": "lakey"
+      },
+      {
+        "n": " Rav Fasi",
+        "s": "2026-03-27T13:00:00Z",
+        "e": "2026-03-27T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Cam Yates",
+        "s": "2026-03-27T14:00:00Z",
+        "e": "2026-03-27T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Digital Drums OR NO ONE TURNED AWAY",
-        "s": "2026-03-20T00:00:00Z",
-        "e": "2026-03-20T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Psychic Skin OR Insula",
         "s": "2026-03-20T01:00:00Z",
@@ -1808,6 +1798,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-20T13:00:00Z",
         "e": "2026-03-20T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-20T15:00:00Z",
+        "e": "2026-03-20T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2356,25 +2355,6 @@
     ],
     "rinse": [
       {
-        "n": "Alicia",
-        "s": "2026-03-20T00:00:00Z",
-        "e": "2026-03-20T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "alicia"
-      },
-      {
-        "n": "LIZZ",
-        "s": "2026-03-20T01:00:00Z",
-        "e": "2026-03-20T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Just Jane",
         "s": "2026-03-20T02:00:00Z",
         "e": "2026-03-20T03:00:00Z",
@@ -2438,9 +2418,12 @@
         "s": "2026-03-20T16:00:00Z",
         "e": "2026-03-20T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJ Perception",
         "u": null,
-        "p": "themoodswingshow"
+        "p": "djperception",
+        "ap": [
+          "themoodswingshow"
+        ]
       },
       {
         "n": "Ella Knight",
