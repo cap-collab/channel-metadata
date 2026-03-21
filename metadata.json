@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-21T01:13:11.617Z",
+  "updated": "2026-03-21T03:57:54.292Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PUM PUM POWER HOUR W/ LIL C",
-        "s": "2026-03-20T13:00:00Z",
-        "e": "2026-03-20T14:00:00Z",
-        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
-        "j": "LIL C",
-        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-20th-march-2026",
-        "t": "biweekly",
-        "p": "lilc"
-      },
-      {
-        "n": "TEARS IN THE CLUB W/ B4mba",
-        "s": "2026-03-20T14:00:00Z",
-        "e": "2026-03-20T15:00:00Z",
-        "d": "\"Tears in the Club\" presents a unique blend of structured and chaotic music, combining intense hip hop, drum and bass, footwork, jersey club, and sometimes Afro rhythms. This multi-genre musical show explores diverse musical landscapes, creating a striking contrast between genres, while also showcasing new artists.\nFrom the host: \"For this episode, I invited B4mba around a selection of afro-diasporic rap.\nBetween club and rap, the selection moves through afro-club and afro-influenced rap, alongside gqom, experimental club and percussive bass sounds. B4mba is a Senegalese-Hispanic producer, DJ and vocalist based in Barcelona.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jeune-pouce/episodes/jeune-pouce-20th-march-2026"
-      },
       {
         "n": "Maral: Iran Special (R)",
         "s": "2026-03-20T15:00:00Z",
@@ -124,9 +106,9 @@
         "n": "GiGi FM (R)",
         "s": "2026-03-21T04:00:00Z",
         "e": "2026-03-21T05:00:00Z",
-        "d": null,
+        "d": "For this month's episode I am super thrilled to welcome Fireground, a duo from Napoli. For the show they are presenting \"Marea Live\" ~ exclusive material recorded live with a full hardware live set that includes live keyboards (synths and electric piano) performed in real time.There are no official recordings or releases from this set available yet, so this is the first time it's shared publicly.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-16th-july-2025",
         "t": "restream",
         "p": "gigifm"
       },
@@ -211,7 +193,8 @@
         "d": null,
         "j": "ALFIE WHITEMAN",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "alfiewhiteman"
       },
       {
         "n": "HOT MESS",
@@ -237,7 +220,8 @@
         "e": "2026-03-22T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "beautifulswimmers"
       },
       {
         "n": "NTS Guide to: Alté (R)",
@@ -266,27 +250,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Precious Metals w/ EndgamE (R)",
+        "s": "2026-03-22T03:00:00Z",
+        "e": "2026-03-22T04:00:00Z",
+        "d": null,
+        "j": "EndgamE",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "Orpheu The Wizard",
-        "s": "2026-03-20T13:00:00Z",
-        "e": "2026-03-20T14:00:00Z",
-        "d": "Amsterdam selector Orpheu The Wizard connects oddball and straight forward jams from different decades and different record shelves in a monthly show. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/orpheu-the-wizard/episodes/orpheu-the-wizard-20th-march-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ANTINOTE",
-        "s": "2026-03-20T14:00:00Z",
-        "e": "2026-03-20T15:00:00Z",
-        "d": "Monthly sessions from Zaltan, the mind behind Paris-based leftfield dance, electronic & downtempo imprint Antinote, with occasional appearances from friends and artists on the label. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/zaltan/episodes/zaltan-20th-march-2026",
-        "t": "monthly"
-      },
       {
         "n": "Image search",
         "s": "2026-03-20T15:00:00Z",
@@ -395,9 +370,9 @@
         "n": "FLOATING POINTS (R)",
         "s": "2026-03-21T03:00:00Z",
         "e": "2026-03-21T05:00:00Z",
-        "d": null,
+        "d": "Sam Shepherd a.k.a Floating Points barely needs introduction. Cataloguing depths uncharted to expose some of the best jazz, soul, rare groove and disco around. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/floating-points/episodes/floating-points-10th-april-2023",
         "t": "restream",
         "p": "floatingpoints"
       },
@@ -405,9 +380,9 @@
         "n": "Popstar Benny (R)",
         "s": "2026-03-21T05:00:00Z",
         "e": "2026-03-21T06:00:00Z",
-        "d": null,
+        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-8th-october-2024",
         "t": "restream",
         "p": "popstarbenny"
       },
@@ -542,28 +517,27 @@
         "j": null,
         "u": null,
         "p": "bergsonist"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Gwero b2b Nightshade",
-        "s": "2026-03-20T12:00:00Z",
-        "e": "2026-03-20T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Rebello",
-        "s": "2026-03-20T14:00:00Z",
-        "e": "2026-03-20T15:00:00Z",
+        "n": "FAK AGZA2 W/ Zizi",
+        "s": "2026-03-21T23:00:00Z",
+        "e": "2026-03-22T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Ben Sims",
+        "s": "2026-03-22T00:00:00Z",
+        "e": "2026-03-22T02:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "rebello"
-      },
+        "p": "bensims"
+      }
+    ],
+    "subtle": [
       {
         "n": "Emma & Embla",
         "s": "2026-03-20T15:00:00Z",
@@ -667,6 +641,15 @@
         "u": null,
         "t": "monthly",
         "p": "carlos"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-21T04:00:00Z",
+        "e": "2026-03-21T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "call curtis",
@@ -1823,18 +1806,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-20T13:00:00Z",
-        "e": "2026-03-20T15:00:00Z",
+        "n": "YSL (Young Saucy Lovers)",
+        "s": "2026-03-28T02:00:00Z",
+        "e": "2026-03-28T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Kid Contra",
+        "s": "2026-03-28T03:00:00Z",
+        "e": "2026-03-28T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kidcontra"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-20T15:00:00Z",
@@ -2444,19 +2437,22 @@
         "u": null,
         "t": "monthly",
         "p": "morpho"
+      },
+      {
+        "n": "Mamabear - The Honey Pot",
+        "s": "2026-03-28T03:00:00Z",
+        "e": "2026-03-28T05:00:00Z",
+        "d": null,
+        "j": "The Honey Pot",
+        "u": null,
+        "t": "monthly",
+        "p": "honey",
+        "ap": [
+          "mamabear"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "Uncle Dugs",
-        "s": "2026-03-20T11:00:00Z",
-        "e": "2026-03-20T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "uncledugs"
-      },
       {
         "n": "Jeremy Sylvester",
         "s": "2026-03-20T14:00:00Z",
@@ -2826,23 +2822,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Yaël Ohayon",
-        "s": "2026-03-20T13:00:00Z",
-        "e": "2026-03-20T14:00:00Z",
-        "d": null,
-        "j": "aka Metallik Diskö Maschine",
-        "u": null
-      },
-      {
-        "n": "Human Disease Network",
-        "s": "2026-03-20T14:00:00Z",
-        "e": "2026-03-20T15:00:00Z",
-        "d": null,
-        "j": "présente ATOMK7",
-        "u": null,
-        "p": "humandiseasenetwork"
-      },
       {
         "n": "2-Steppers",
         "s": "2026-03-20T15:00:00Z",
