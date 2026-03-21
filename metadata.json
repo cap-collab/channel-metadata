@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-21T14:19:07.145Z",
+  "updated": "2026-03-21T16:19:20.842Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOBBS (R)",
-        "s": "2026-03-21T01:00:00Z",
-        "e": "2026-03-21T03:00:00Z",
-        "d": "MOBBS chopping up whatever he finds \nohm.mobbs@protonmail.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mobbs/episodes/mobbs-3rd-may-2025",
-        "t": "restream",
-        "p": "mobbs"
-      },
-      {
-        "n": "KHARTOUM ARRIVALS W/ BASMA (R)",
-        "s": "2026-03-21T03:00:00Z",
-        "e": "2026-03-21T04:00:00Z",
-        "d": "Nubian songs from northern Sudan and southern Egypt.",
-        "j": "BASMA",
-        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-13th-october-2024",
-        "t": "restream",
-        "p": "basma"
-      },
       {
         "n": "GiGi FM (R)",
         "s": "2026-03-21T04:00:00Z",
@@ -101,9 +81,9 @@
         "n": "LAST RESORT",
         "s": "2026-03-21T17:00:00Z",
         "e": "2026-03-21T18:00:00Z",
-        "d": null,
+        "d": "A swift hour long excursion into the unknown. Expect the unexpected from host Tom Cathcart as almost anything goes: techno, post-punk, minimal synth, dub and new wave. Don’t be a prude.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/last-resort/episodes/last-resort-21st-march-2026",
         "t": "monthly",
         "p": "lastresort"
       },
@@ -248,17 +228,19 @@
         "u": null,
         "t": "monthly",
         "p": "tommasi"
+      },
+      {
+        "n": "CORTICEPS W/ MINUS KENDAL",
+        "s": "2026-03-22T14:00:00Z",
+        "e": "2026-03-22T16:00:00Z",
+        "d": null,
+        "j": "MINUS KENDAL",
+        "u": null,
+        "t": "monthly",
+        "p": "corticeps"
       }
     ],
     "nts2": [
-      {
-        "n": "Hood Rave x Dweller w/ ZACK FOX",
-        "s": "2026-03-21T02:00:00Z",
-        "e": "2026-03-21T03:00:00Z",
-        "d": "Tender R&B, blistering breaks, and diasporic riddims with LA dj/producer BAE BAE.  ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/baexploitation/episodes/baexploitation-21st-march-2026"
-      },
       {
         "n": "FLOATING POINTS (R)",
         "s": "2026-03-21T03:00:00Z",
@@ -368,18 +350,18 @@
         "n": "In Focus: Mira Calix (R)",
         "s": "2026-03-21T16:00:00Z",
         "e": "2026-03-21T17:00:00Z",
-        "d": null,
+        "d": "Richard Greenan of Kit Records reflects on the career of the South Africa born, London-based composer and sound artist Mira Calix, who tragically passed away last week. The following hour traverses Calix's restlessly innovative soundscape - from the harsh breaks and unearthly prettiness of her Warp output, through field recordings of sound installations, theatre commissioned choral work, interviews and live performances.",
         "j": "Mira Calix",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/mira-calix-5th-april-2022",
         "t": "restream"
       },
       {
         "n": "ANNABEL FRASER",
         "s": "2026-03-21T17:00:00Z",
         "e": "2026-03-21T19:00:00Z",
-        "d": null,
+        "d": "Annabel Fraser is a lover of music first and foremost. Not genres. Tune in for her monthly 2 hour show…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/annabel-fraser/episodes/annabel-fraser-21st-march-2026",
         "t": "monthly",
         "p": "annabelfraser"
       },
@@ -514,29 +496,28 @@
         "u": null,
         "t": "restream",
         "p": "ouri"
+      },
+      {
+        "n": "CHILDREN OF ZEUS",
+        "s": "2026-03-22T14:00:00Z",
+        "e": "2026-03-22T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Abena",
+        "s": "2026-03-22T15:00:00Z",
+        "e": "2026-03-22T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "abena"
       }
     ],
     "subtle": [
-      {
-        "n": "Negative Pace",
-        "s": "2026-03-21T02:00:00Z",
-        "e": "2026-03-21T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "negativepace"
-      },
-      {
-        "n": "CARLOS!",
-        "s": "2026-03-21T03:00:00Z",
-        "e": "2026-03-21T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "carlos"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-03-21T04:00:00Z",
@@ -1785,19 +1766,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SPD",
+        "s": "2026-03-28T15:00:00Z",
+        "e": "2026-03-28T16:00:00Z",
+        "d": "Midlands born, London based producer and DJ influenced by UK funky, broken techno, garage and early dubstep. \r\n\r\nHas released on Keysound recordings, RKS, eatmybeat, ec2a, Durkle Disco and Dimsum records",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Tyrant",
+        "s": "2026-03-28T16:00:00Z",
+        "e": "2026-03-28T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Desmond - Cool Spot Selections",
-        "s": "2026-03-21T01:00:00Z",
-        "e": "2026-03-21T03:00:00Z",
-        "d": null,
-        "j": "Cool Spot Selections",
-        "u": null,
-        "t": "monthly",
-        "p": "desmond"
-      },
       {
         "n": "Greg Belson - 45 live",
         "s": "2026-03-21T03:00:00Z",
@@ -2402,19 +2391,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
+        "s": "2026-03-28T15:00:00Z",
+        "e": "2026-03-28T17:00:00Z",
+        "d": null,
+        "j": "The Sweeter the Juice",
+        "u": null,
+        "t": "biweekly",
+        "p": "illcamille"
       }
     ],
     "rinse": [
-      {
-        "n": "Soul Mass Transit System",
-        "s": "2026-03-21T02:00:00Z",
-        "e": "2026-03-21T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "soulmasstransitsystem"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-03-21T03:00:00Z",
