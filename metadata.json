@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-21T08:21:44.545Z",
+  "updated": "2026-03-21T10:18:06.971Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MINIMAL EFFORT",
-        "s": "2026-03-20T19:00:00Z",
-        "e": "2026-03-20T21:00:00Z",
-        "d": "Ira demonstrates how to do extra soulful with a masterclass in vibes. It's easy when you know how.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/minimal-effort/episodes/minimal-effort-20th-march-2026",
-        "t": "monthly",
-        "p": "minimaleffort"
-      },
-      {
-        "n": "DONIS",
-        "s": "2026-03-20T21:00:00Z",
-        "e": "2026-03-20T22:00:00Z",
-        "d": "Special guest shows from around the world.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/donis-20th-march-2026"
-      },
       {
         "n": "INNERVISIONS ÜBERALL W/ FRANKEY & SANDRINO",
         "s": "2026-03-20T22:00:00Z",
@@ -117,9 +99,9 @@
         "n": "ROSS ALLEN",
         "s": "2026-03-21T12:00:00Z",
         "e": "2026-03-21T14:00:00Z",
-        "d": null,
+        "d": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ross-allen/episodes/ross-allen-21st-march-2026",
         "t": "monthly",
         "p": "rossallen"
       },
@@ -264,31 +246,18 @@
         "ap": [
           "theahd"
         ]
+      },
+      {
+        "n": "SOPHIA ZHURAVKOVA",
+        "s": "2026-03-22T09:00:00Z",
+        "e": "2026-03-22T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sophiazhuravkova"
       }
     ],
     "nts2": [
-      {
-        "n": "Crossed Wires w/ Amanda Siegel & Hazel Rigby",
-        "s": "2026-03-20T19:00:00Z",
-        "e": "2026-03-20T21:00:00Z",
-        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.",
-        "j": "Amanda Siegel & Hazel Rigby",
-        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-20th-march-2026",
-        "t": "monthly",
-        "p": "amandasiegel",
-        "ap": [
-          "hazel"
-        ]
-      },
-      {
-        "n": "All About Our Love w/ DJ NFS",
-        "s": "2026-03-20T21:00:00Z",
-        "e": "2026-03-20T22:00:00Z",
-        "d": "Sit down, cool off and unwind with Harriet Brown's soothing monthly showcase, live from our LA studio.\nFrom the host: \"Co-founder of Cone Shape Top, a beloved record store and multi-purpose community space, today’s special guest, DJ NFS has long graced the world with their exploration of sound through ethereal textures and deep earth. We are blessed to have them take over this episode of All About Our Love ",
-        "j": "DJ NFS",
-        "u": "https://www.nts.live/api/v2/shows/harriet-brown/episodes/harriet-brown-20th-march-2026",
-        "t": "monthly"
-      },
       {
         "n": "East Never Loses: Sulky Spring w/ Angie QQ",
         "s": "2026-03-20T22:00:00Z",
@@ -398,18 +367,18 @@
         "n": "Post Punk Britain: Primitive Painters - Jangle Pop & Indie Rock from the UK Post Punk Era (R)",
         "s": "2026-03-21T10:00:00Z",
         "e": "2026-03-21T12:00:00Z",
-        "d": null,
+        "d": "Featuring melodic post punk bands from the \"C86\" wave - named after the famous NME Magazine compilation of the same name. The title of the compilation became shorthand for the sound, which would become the blueprint for contemporary \"indie\" as a genre: guitar-based music characterised by jangly tones and power pop song structures, taking healthy inspiration from sunny 1960s pop music.",
         "j": "Primitive Painters - Jangle Pop & Indie Rock from the UK Post Punk Era",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/post-punk-in-britain/episodes/post-punk-in-britain-primative-painters-12th-may-2023",
         "t": "restream"
       },
       {
         "n": "NTS Guide To: D-Roy Records Special (R)",
         "s": "2026-03-21T12:00:00Z",
         "e": "2026-03-21T13:00:00Z",
-        "d": null,
+        "d": "An hour long round up of D-Roy records, the London-based label founded in 1977, that played host to UK dub and reggae stars like Janet Kay, Cornell Campbell and others.",
         "j": "D-Roy Records Special",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/d-roy-records-6th-may-2022",
         "t": "restream"
       },
       {
@@ -542,19 +511,29 @@
         "u": null,
         "t": "restream",
         "p": "rahill"
+      },
+      {
+        "n": "A MONTH OF SUNDAYS W/ BILL SPENCER (R)",
+        "s": "2026-03-22T09:00:00Z",
+        "e": "2026-03-22T10:00:00Z",
+        "d": null,
+        "j": "BILL SPENCER",
+        "u": null,
+        "t": "restream",
+        "p": "billspencer"
+      },
+      {
+        "n": "MUSIC FOR A HEALING EARTH W/ THE COSMIC TONES RESEARCH TRIO (R)",
+        "s": "2026-03-22T10:00:00Z",
+        "e": "2026-03-22T11:00:00Z",
+        "d": null,
+        "j": "THE COSMIC TONES RESEARCH TRIO",
+        "u": null,
+        "t": "restream",
+        "p": "thecosmictonesresearchtrio"
       }
     ],
     "subtle": [
-      {
-        "n": "Machine Woman",
-        "s": "2026-03-20T20:00:00Z",
-        "e": "2026-03-20T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "machinewoman"
-      },
       {
         "n": "CICELY",
         "s": "2026-03-20T21:00:00Z",
@@ -1814,17 +1793,18 @@
         "u": null,
         "t": "weekly",
         "p": "afroasis"
+      },
+      {
+        "n": "Dun Roamin w/ Tomi From Brockley",
+        "s": "2026-03-28T10:00:00Z",
+        "e": "2026-03-28T11:00:00Z",
+        "d": null,
+        "j": "Tomi From Brockley",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Hakim Tafari – Siddartha Soundsystem",
-        "s": "2026-03-20T19:00:00Z",
-        "e": "2026-03-20T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Zama Dube - The Witch's Flight",
         "s": "2026-03-20T21:00:00Z",
@@ -2449,16 +2429,6 @@
     ],
     "rinse": [
       {
-        "n": "X CLUB. presents HIDE THE JUNK",
-        "s": "2026-03-20T20:00:00Z",
-        "e": "2026-03-20T22:00:00Z",
-        "d": null,
-        "j": "Juicy Romance",
-        "u": null,
-        "t": "monthly",
-        "p": "xclub"
-      },
-      {
         "n": "PXSSY PALACE",
         "s": "2026-03-20T22:00:00Z",
         "e": "2026-03-20T23:00:00Z",
@@ -2548,12 +2518,13 @@
         "p": "nancyjune"
       },
       {
-        "n": "Hi-Fidelity with Space Talk",
+        "n": "Hi-Fidelity with Cafe 1001",
         "s": "2026-03-21T11:00:00Z",
         "e": "2026-03-21T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Counter Culture with Inverted Audio Records",
