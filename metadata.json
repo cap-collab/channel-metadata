@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-22T18:25:02.778Z",
+  "updated": "2026-03-22T20:17:08.030Z",
   "stations": {
     "nts1": [
-      {
-        "n": "In Focus: Sade (R)",
-        "s": "2026-03-22T06:00:00Z",
-        "e": "2026-03-22T07:30:00Z",
-        "d": "Helen Folasade Adu CBE, known professionally as Sade Adu or simply Sade, is an English singer, songwriter, and actress. She is best known as the lead vocalist of the English band Sade. This episode of In Focus looks at her career.",
-        "j": "Sade",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-sade-18th-august-2018",
-        "t": "restream"
-      },
-      {
-        "n": "MARTIN NEWELL'S ODDCASTE",
-        "s": "2026-03-22T07:30:00Z",
-        "e": "2026-03-22T08:00:00Z",
-        "d": "The Cleaners From Venus frontman presents an eclectic mix of pop music, comedy, and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martin-newells-oddcaste/episodes/martin-newells-oddcaste-22nd-march-2026",
-        "t": "weekly"
-      },
       {
         "n": "THEA HD",
         "s": "2026-03-22T08:00:00Z",
@@ -101,22 +83,22 @@
         "p": "janiejones"
       },
       {
-        "n": "Perfect Lives w/ Bruno & Daniel",
+        "n": "Perfect Lives w/ Bruno & Daniel (R)",
         "s": "2026-03-22T20:00:00Z",
         "e": "2026-03-22T21:00:00Z",
-        "d": null,
+        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
         "j": "Bruno & Daniel",
-        "u": null,
-        "t": "monthly",
+        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-21st-april-2024",
+        "t": "restream",
         "p": "perfectlives"
       },
       {
         "n": "Aloha Got Soul",
         "s": "2026-03-22T21:00:00Z",
         "e": "2026-03-22T22:00:00Z",
-        "d": null,
+        "d": "An exploration into obscure, underground, and lesser known music from Hawaii, bound not by genre or generation but by a connection to the islands. Hosted by Roger Bong of Aloha Got Soul, a record label and record store in Honolulu.\nFrom the host: \"A soundtrack for leisurely drives along the coast, preferably Windward side.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/aloha-got-soul/episodes/aloha-got-soul-22nd-march-2026"
       },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
@@ -246,19 +228,28 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "ALL FRUITS RIPE W/ JACK SAPSED",
+        "s": "2026-03-23T21:00:00Z",
+        "e": "2026-03-23T22:00:00Z",
+        "d": null,
+        "j": "JACK SAPSED",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "LUNG DART",
+        "s": "2026-03-23T22:00:00Z",
+        "e": "2026-03-23T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lungdart"
       }
     ],
     "nts2": [
-      {
-        "n": "Rio Doce (R)",
-        "s": "2026-03-22T05:00:00Z",
-        "e": "2026-03-22T07:00:00Z",
-        "d": "July’s Rio Doce invites Cindy Sissokho to dive into her powerful family story — and the soul of African Salsa.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-16th-july-2025",
-        "t": "restream",
-        "p": "riodoce"
-      },
       {
         "n": "Rahill (R)",
         "s": "2026-03-22T07:00:00Z",
@@ -366,18 +357,18 @@
         "n": "Sonika (R)",
         "s": "2026-03-22T20:00:00Z",
         "e": "2026-03-22T21:00:00Z",
-        "d": null,
+        "d": "NY-based artist & DJ Sonika Misra shares a collection of sounds & music closest to her heart- from Indian classical and saharan blues, to free jazz, and hip-hop.\nImage Credit: the Atlantics by Mati Diop",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sonika/episodes/sonika-28th-june-2021",
         "t": "restream"
       },
       {
         "n": "ALL NIGHT FLIGHT",
         "s": "2026-03-22T21:00:00Z",
         "e": "2026-03-22T22:00:00Z",
-        "d": null,
+        "d": "A winding journey through the catalogue of All Night Flight's Stockport record store, spanning from modern classical and free-flowing jazz to a wide soundscape of dark ambient, folk and techno… with All Night Flight, anything goes!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/all-night-flight/episodes/all-night-flight-22nd-march-2026",
         "t": "monthly"
       },
       {
@@ -500,25 +491,35 @@
         "u": null
       },
       {
-        "n": "CXEMA",
+        "n": "CXEMA W/ Serge Jazzmate",
         "s": "2026-03-23T14:00:00Z",
         "e": "2026-03-23T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "p": "cxema"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-03-22T05:00:00Z",
-        "e": "2026-03-22T08:00:00Z",
+        "n": "ZULI",
+        "s": "2026-03-23T15:00:00Z",
+        "e": "2026-03-23T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "zuli"
       },
+      {
+        "n": "ANTHONY CHALMERS",
+        "s": "2026-03-23T17:00:00Z",
+        "e": "2026-03-23T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": " All Fitz",
         "s": "2026-03-22T08:00:00Z",
@@ -1682,16 +1683,6 @@
     ],
     "dublab": [
       {
-        "n": "Mark Maxwell - Sankofa Sound System",
-        "s": "2026-03-22T05:00:00Z",
-        "e": "2026-03-22T07:00:00Z",
-        "d": null,
-        "j": "Sankofa Sound System",
-        "u": null,
-        "t": "monthly",
-        "p": "markmaxwell"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-03-22T07:00:00Z",
         "e": "2026-03-22T09:00:00Z",
@@ -2285,16 +2276,6 @@
     ],
     "rinse": [
       {
-        "n": "VNEE",
-        "s": "2026-03-22T06:00:00Z",
-        "e": "2026-03-22T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "vnee"
-      },
-      {
         "n": "Playlist",
         "s": "2026-03-22T07:00:00Z",
         "e": "2026-03-22T09:00:00Z",
@@ -2569,15 +2550,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-21T23:00:00Z",
-        "e": "2026-03-22T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-22T08:00:00Z",
