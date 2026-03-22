@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-22T14:20:06.626Z",
+  "updated": "2026-03-22T16:20:34.736Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Beyond The Clouds (R)",
-        "s": "2026-03-22T02:00:00Z",
-        "e": "2026-03-22T03:00:00Z",
-        "d": "Slowed Down, sun kissed journeys through dub, synth, cosmic & balearic beats. Brought to you from LA each month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/masha/episodes/beyond-the-clouds-w-masha-15th-april-2020",
-        "t": "restream"
-      },
-      {
-        "n": "Precious Metals w/ EndgamE (R)",
-        "s": "2026-03-22T03:00:00Z",
-        "e": "2026-03-22T04:00:00Z",
-        "d": null,
-        "j": "EndgamE",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Kutmah Presents: Sketchbook Radio (R)",
         "s": "2026-03-22T04:00:00Z",
@@ -113,9 +95,9 @@
         "n": "ALL TRADES W/ CHUGGY",
         "s": "2026-03-22T17:00:00Z",
         "e": "2026-03-22T19:00:00Z",
-        "d": null,
+        "d": "The man behind the various Emotional labels jumps in the NTS cockpit for a chance to show off his expansive taste. ",
         "j": "CHUGGY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/emotional/episodes/emotional-22nd-march-2026",
         "t": "monthly"
       },
       {
@@ -254,18 +236,19 @@
         "j": "DRAKEFORD",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-03-23T18:00:00Z",
+        "e": "2026-03-23T20:00:00Z",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
       }
     ],
     "nts2": [
-      {
-        "n": "BFDM ZAHEF SHOW (R)",
-        "s": "2026-03-22T02:00:00Z",
-        "e": "2026-03-22T03:00:00Z",
-        "d": "BFDM, a.k.a Brothers From Different Mothers, are the snottiest techno label around. Non-stop crunch rollers, all the way from Lyon - tune in for an hour on 2, monthly Mondays.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/BFDM/episodes/bfdm-29th-october-2024",
-        "t": "restream"
-      },
       {
         "n": "Nosedrip (R)",
         "s": "2026-03-22T03:00:00Z",
@@ -367,18 +350,18 @@
         "n": "EDV3CTOR",
         "s": "2026-03-22T16:00:00Z",
         "e": "2026-03-22T17:00:00Z",
-        "d": null,
+        "d": "Leeds scene leader and DJ edv3ctor presents archival and contemporary selections from his personal archive, exploring rhythms, sounds, and moods past and present.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/edv3ctor/episodes/edv3ctor-22nd-march-2026",
         "p": "edv3ctor"
       },
       {
         "n": "RED LASER RECORDS",
         "s": "2026-03-22T17:00:00Z",
         "e": "2026-03-22T19:00:00Z",
-        "d": null,
+        "d": "Red Laser Records crew brings Manchester's own blend of Manctalo, Disco & Boogie. A high energy Sunday Buzz guaranteed.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-22nd-march-2026"
       },
       {
         "n": "1080P W/ HD & AMARJI KING",
@@ -508,27 +491,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS Guide to: Quán Văn",
+        "s": "2026-03-23T12:00:00Z",
+        "e": "2026-03-23T13:00:00Z",
+        "d": null,
+        "j": "Quán Văn",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL",
+        "s": "2026-03-23T13:00:00Z",
+        "e": "2026-03-23T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Bits Beats & Breaks w/ D.Mo",
-        "s": "2026-03-22T02:00:00Z",
-        "e": "2026-03-22T03:00:00Z",
-        "d": null,
-        "j": "D.Mo",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Evo",
-        "s": "2026-03-22T03:00:00Z",
-        "e": "2026-03-22T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Clairvoyage w/ Search Urchin",
         "s": "2026-03-22T04:00:00Z",
@@ -1702,15 +1684,6 @@
     ],
     "dublab": [
       {
-        "n": "2092 presents... Funk Radio",
-        "s": "2026-03-22T01:00:00Z",
-        "e": "2026-03-22T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Discoteca 3ala Mars",
         "s": "2026-03-22T03:00:00Z",
         "e": "2026-03-22T05:00:00Z",
@@ -2309,22 +2282,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-03-29T16:00:00Z",
+        "e": "2026-03-29T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "Mason Collective",
-        "s": "2026-03-22T02:00:00Z",
-        "e": "2026-03-22T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "collective",
-        "ap": [
-          "masoncollective"
-        ]
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-03-22T03:00:00Z",
