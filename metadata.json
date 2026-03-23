@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-23T06:59:38.290Z",
+  "updated": "2026-03-23T08:44:44.657Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ALL TRADES W/ CHUGGY",
-        "s": "2026-03-22T17:00:00Z",
-        "e": "2026-03-22T19:00:00Z",
-        "d": "The man behind the various Emotional labels jumps in the NTS cockpit for a chance to show off his expansive taste. ",
-        "j": "CHUGGY",
-        "u": "https://www.nts.live/api/v2/shows/emotional/episodes/emotional-22nd-march-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "JANIE JONES",
-        "s": "2026-03-22T19:00:00Z",
-        "e": "2026-03-22T20:00:00Z",
-        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-22nd-march-2026",
-        "p": "janiejones"
-      },
       {
         "n": "Perfect Lives w/ Bruno & Daniel (R)",
         "s": "2026-03-22T20:00:00Z",
@@ -107,9 +89,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-03-23T09:00:00Z",
         "e": "2026-03-23T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-23rd-march-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -245,26 +227,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "FINE (R)",
+        "s": "2026-03-24T05:00:00Z",
+        "e": "2026-03-24T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "RED LASER RECORDS",
-        "s": "2026-03-22T17:00:00Z",
-        "e": "2026-03-22T19:00:00Z",
-        "d": "Red Laser Records crew brings Manchester's own blend of Manctalo, Disco & Boogie. A high energy Sunday Buzz guaranteed.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-22nd-march-2026"
-      },
-      {
-        "n": "1080P W/ HD & AMARJI KING",
-        "s": "2026-03-22T19:00:00Z",
-        "e": "2026-03-22T20:00:00Z",
-        "d": "HD features a vast variety of guests spanning across hip hop, RnB and electronic music to talk about music, culture and life aswell as share their favorite selections of any genre.\nFrom the host: \"This edition of 1080P features a guest mix from club princess, Amarji King, brings an energetic and emotional mix of Club, Ballroom, Techno, Juke, and Footwork. From emotional ballads to back breaking blends this mix is a real club masterclass!\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hd/episodes/hd-22nd-march-2026",
-        "p": "hd"
-      },
       {
         "n": "Sonika (R)",
         "s": "2026-03-22T20:00:00Z",
@@ -362,9 +336,9 @@
         "n": "Homeshake (R)",
         "s": "2026-03-23T09:00:00Z",
         "e": "2026-03-23T10:00:00Z",
-        "d": null,
+        "d": "Cheeky slacker selections from everyone's favourite - Homeshake. Kick back. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/homeshake/episodes/homeshake-24th-november-2021",
         "t": "restream",
         "p": "homeshake"
       },
@@ -504,27 +478,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS Guide to: Drum & Bliss (R)",
+        "s": "2026-03-24T02:00:00Z",
+        "e": "2026-03-24T03:00:00Z",
+        "d": null,
+        "j": "Drum & Bliss",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "2Step Selects ",
-        "s": "2026-03-22T17:00:00Z",
-        "e": "2026-03-22T19:00:00Z",
-        "d": "2Step Selects is a monthly show hosted by the Choki Biki Records crew. Founded in Dublin, Ireland, CBR consists of DJ Sharpson, 2step.png, Frame Shift, and MICK. The show consists of an all round breaks, electro, ukg and jungle hour, followed by an Irish showcase, demonstrating all the best Ireland has to offer collective/party/Dj & Producer wise!",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " The Process Show w/ EONE",
-        "s": "2026-03-22T19:00:00Z",
-        "e": "2026-03-22T20:00:00Z",
-        "d": null,
-        "j": "EONE",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "EBITDA",
         "s": "2026-03-22T20:00:00Z",
@@ -1607,16 +1572,6 @@
     ],
     "dublab": [
       {
-        "n": "Thomas Klepper - Library of Sounds",
-        "s": "2026-03-22T17:00:00Z",
-        "e": "2026-03-22T19:00:00Z",
-        "d": null,
-        "j": "Library of Sounds",
-        "u": null,
-        "t": "monthly",
-        "p": "thomasklepper"
-      },
-      {
         "n": "Flight Club",
         "s": "2026-03-22T19:00:00Z",
         "e": "2026-03-22T21:00:00Z",
@@ -1688,6 +1643,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-23T07:00:00Z",
         "e": "2026-03-23T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-23T09:00:00Z",
+        "e": "2026-03-23T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2171,16 +2135,6 @@
     ],
     "rinse": [
       {
-        "n": "Plastician",
-        "s": "2026-03-22T18:00:00Z",
-        "e": "2026-03-22T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "plastician"
-      },
-      {
         "n": "Oblig",
         "s": "2026-03-22T20:00:00Z",
         "e": "2026-03-22T21:00:00Z",
@@ -2558,26 +2512,6 @@
     ],
     "rinsefr": [
       {
-        "n": "TEMƎT",
-        "s": "2026-03-22T18:00:00Z",
-        "e": "2026-03-22T19:00:00Z",
-        "d": null,
-        "j": "Less-O invite Slodki",
-        "u": null,
-        "t": "monthly",
-        "p": "temt"
-      },
-      {
-        "n": "Miley Serious",
-        "s": "2026-03-22T19:00:00Z",
-        "e": "2026-03-22T20:00:00Z",
-        "d": null,
-        "j": "invite BABY",
-        "u": null,
-        "t": "monthly",
-        "p": "mileyserious"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-03-22T20:00:00Z",
         "e": "2026-03-22T23:00:00Z",
@@ -2605,9 +2539,92 @@
         "t": "playlist"
       },
       {
-        "n": "Anna Majidson",
+        "n": "Zohar",
         "s": "2026-03-23T13:00:00Z",
-        "e": "2026-03-23T14:00:00Z",
+        "e": "2026-03-23T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Sentaku",
+        "s": "2026-03-23T15:00:00Z",
+        "e": "2026-03-23T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Soyoon",
+        "s": "2026-03-23T16:00:00Z",
+        "e": "2026-03-23T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "soyoon"
+      },
+      {
+        "n": "HORS-SOL",
+        "s": "2026-03-23T17:00:00Z",
+        "e": "2026-03-23T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "horssol"
+      },
+      {
+        "n": "TEMƎT",
+        "s": "2026-03-23T18:00:00Z",
+        "e": "2026-03-23T19:00:00Z",
+        "d": null,
+        "j": "Less-O invite Slodki",
+        "u": null,
+        "t": "biweekly",
+        "p": "temt"
+      },
+      {
+        "n": "Miley Serious",
+        "s": "2026-03-23T19:00:00Z",
+        "e": "2026-03-23T20:00:00Z",
+        "d": null,
+        "j": "invite BABY",
+        "u": null,
+        "t": "biweekly",
+        "p": "mileyserious"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-23T20:00:00Z",
+        "e": "2026-03-23T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-23T23:00:00Z",
+        "e": "2026-03-24T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-24T08:00:00Z",
+        "e": "2026-03-24T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Anna Majidson",
+        "s": "2026-03-24T13:00:00Z",
+        "e": "2026-03-24T14:00:00Z",
         "d": null,
         "j": "Behind the Curtain",
         "u": null,
@@ -2615,8 +2632,8 @@
       },
       {
         "n": "honeymel",
-        "s": "2026-03-23T14:00:00Z",
-        "e": "2026-03-23T15:00:00Z",
+        "s": "2026-03-24T14:00:00Z",
+        "e": "2026-03-24T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2625,8 +2642,8 @@
       },
       {
         "n": "Louis Roméo",
-        "s": "2026-03-23T15:00:00Z",
-        "e": "2026-03-23T16:00:00Z",
+        "s": "2026-03-24T15:00:00Z",
+        "e": "2026-03-24T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2634,8 +2651,8 @@
       },
       {
         "n": "Lorkestra",
-        "s": "2026-03-23T16:00:00Z",
-        "e": "2026-03-23T17:00:00Z",
+        "s": "2026-03-24T16:00:00Z",
+        "e": "2026-03-24T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2644,8 +2661,8 @@
       },
       {
         "n": "Rebequita",
-        "s": "2026-03-23T17:00:00Z",
-        "e": "2026-03-23T18:00:00Z",
+        "s": "2026-03-24T17:00:00Z",
+        "e": "2026-03-24T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2653,8 +2670,8 @@
       },
       {
         "n": "Kokoprisci",
-        "s": "2026-03-23T18:00:00Z",
-        "e": "2026-03-23T19:00:00Z",
+        "s": "2026-03-24T18:00:00Z",
+        "e": "2026-03-24T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2663,8 +2680,8 @@
       },
       {
         "n": "NVST",
-        "s": "2026-03-23T19:00:00Z",
-        "e": "2026-03-23T20:00:00Z",
+        "s": "2026-03-24T19:00:00Z",
+        "e": "2026-03-24T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2672,8 +2689,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-03-23T20:00:00Z",
-        "e": "2026-03-23T21:00:00Z",
+        "s": "2026-03-24T20:00:00Z",
+        "e": "2026-03-24T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
