@@ -1,28 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-24T10:42:33.958Z",
+  "updated": "2026-03-24T12:51:38.683Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUNG DART",
-        "s": "2026-03-23T22:00:00Z",
-        "e": "2026-03-23T23:00:00Z",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-23rd-march-2026",
-        "t": "monthly",
-        "p": "lungdart"
-      },
-      {
-        "n": "TORN HAWK",
-        "s": "2026-03-23T23:00:00Z",
-        "e": "2026-03-24T00:00:00Z",
-        "d": "Torn Hawk, also known as Luke Wyatt, brings his comedy talk show to the NTS airwaves. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/torn-hawk/episodes/torn-hawk-23rd-march-2026",
-        "t": "monthly",
-        "p": "tornhawk"
-      },
       {
         "n": "DROWNED BY LOCALS w/ Cheree True",
         "s": "2026-03-24T00:00:00Z",
@@ -123,9 +103,9 @@
         "n": "NABIHAH IQBAL",
         "s": "2026-03-24T13:00:00Z",
         "e": "2026-03-24T15:00:00Z",
-        "d": null,
+        "d": "London-based DJ and producer Nabihah Iqbal (formerly known as Throwing Shade) brings you an ethnomusicological perspective on weird and wonderful music from around the world. Expect regular themed special episode; a good dose of history, and above all, good music to broaden your horizons. Every other Tuesday, midday-1pm. You can listen back to previous Throwing Shade episodes here\nFrom the host: \"2 hours, all vinyl, sharing recent finds from digging in record shops all around the world, from Melbourne to Miami…!\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nabihah-iqbal/episodes/nabihah-iqbal-24th-march-2026",
         "p": "nabihahiqbal"
       },
       {
@@ -277,29 +257,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "LOUISE CHEN",
+        "s": "2026-03-25T15:00:00Z",
+        "e": "2026-03-25T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "louisechen"
       }
     ],
     "nts2": [
-      {
-        "n": "DEBBIESTHUGLIFE",
-        "s": "2026-03-23T22:00:00Z",
-        "e": "2026-03-23T23:00:00Z",
-        "d": "London DJ and producer debbiesthuglife gets the crowd going with electronic, dance, rap and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/debbiesthuglife/episodes/debbiesthuglife-23rd-march-2026",
-        "t": "monthly",
-        "p": "debbiesthuglife"
-      },
-      {
-        "n": "POPSTAR BENNY",
-        "s": "2026-03-23T23:00:00Z",
-        "e": "2026-03-24T00:00:00Z",
-        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-23rd-march-2026",
-        "t": "monthly",
-        "p": "popstarbenny"
-      },
       {
         "n": "btwn Earth+Sky: Lara Sarkissian (R)",
         "s": "2026-03-24T00:00:00Z",
@@ -405,18 +375,18 @@
         "n": "MOIN",
         "s": "2026-03-24T12:00:00Z",
         "e": "2026-03-24T13:00:00Z",
-        "d": null,
+        "d": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moin/episodes/moin-24th-march-2026",
         "p": "moin"
       },
       {
         "n": "SOFAY AND RIBEKA",
         "s": "2026-03-24T13:00:00Z",
         "e": "2026-03-24T14:00:00Z",
-        "d": null,
+        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-24th-march-2026",
         "t": "monthly"
       },
       {
@@ -547,29 +517,28 @@
         "u": null,
         "t": "restream",
         "p": "upsammy"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Chaz",
-        "s": "2026-03-23T22:00:00Z",
-        "e": "2026-03-23T23:00:00Z",
+        "n": "True As Few w/ Mark (R)",
+        "s": "2026-03-25T08:00:00Z",
+        "e": "2026-03-25T09:00:00Z",
+        "d": null,
+        "j": "Mark",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "RAGA VIBRATIONS (R)",
+        "s": "2026-03-25T09:00:00Z",
+        "e": "2026-03-25T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "chaz"
-      },
-      {
-        "n": "Lumeni",
-        "s": "2026-03-23T23:00:00Z",
-        "e": "2026-03-24T00:00:00Z",
-        "d": "London based DJ who enjoys exploring the darker, bassier corners of Jungle, Breaks, Techno and Drum & Bass, especially when it is laced with a bit of acid.",
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "lumeni"
-      },
+        "t": "restream",
+        "p": "ragavibrations"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-03-24T00:00:00Z",
@@ -667,6 +636,15 @@
         "u": null,
         "t": "monthly",
         "p": "localmovements"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-24T12:00:00Z",
+        "e": "2026-03-24T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Liquid Vault w/ Half-Life",
@@ -1486,15 +1464,6 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-03-23T21:00:00Z",
-        "e": "2026-03-23T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
         "s": "2026-03-23T23:00:00Z",
         "e": "2026-03-24T01:00:00Z",
         "d": null,
@@ -1553,6 +1522,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-24T11:00:00Z",
         "e": "2026-03-24T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-24T13:00:00Z",
+        "e": "2026-03-24T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2003,26 +1981,6 @@
     ],
     "rinse": [
       {
-        "n": "Roman Flügel",
-        "s": "2026-03-23T22:00:00Z",
-        "e": "2026-03-23T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "romanflgel"
-      },
-      {
-        "n": "HalfPint presents Roundabout",
-        "s": "2026-03-23T23:00:00Z",
-        "e": "2026-03-24T00:00:00Z",
-        "d": null,
-        "j": "B2B Dukwa: Live from Veniceberg",
-        "u": null,
-        "t": "monthly",
-        "p": "halfpint"
-      },
-      {
         "n": "Left, Right & Centre",
         "s": "2026-03-24T00:00:00Z",
         "e": "2026-03-24T01:00:00Z",
@@ -2120,7 +2078,7 @@
         "s": "2026-03-24T14:00:00Z",
         "e": "2026-03-24T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Coflo",
         "u": null,
         "t": "monthly",
         "p": "kojay"
@@ -2130,7 +2088,7 @@
         "s": "2026-03-24T15:00:00Z",
         "e": "2026-03-24T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Samtheman & Cyril Djembe",
         "u": null,
         "t": "weekly",
         "p": "brighterdaysfamily"
@@ -2374,15 +2332,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-03-23T20:00:00Z",
-        "e": "2026-03-23T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-03-23T23:00:00Z",
         "e": "2026-03-24T08:00:00Z",
         "d": null,
@@ -2400,14 +2349,12 @@
         "t": "playlist"
       },
       {
-        "n": "Queer Cult",
+        "n": "In The Studio",
         "s": "2026-03-24T11:50:00Z",
         "e": "2026-03-24T13:00:00Z",
         "d": null,
-        "j": "DJ Monique invite Akinola",
-        "u": null,
-        "t": "weekly",
-        "p": "queercult"
+        "j": "DJ Monique avec Akinola Davies",
+        "u": null
       },
       {
         "n": "Anna Majidson",
