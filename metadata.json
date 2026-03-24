@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-24T06:54:23.878Z",
+  "updated": "2026-03-24T08:41:01.312Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-03-23T18:00:00Z",
-        "e": "2026-03-23T20:00:00Z",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": "COCO MARIA",
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-23rd-march-2026",
-        "t": "weekly",
-        "p": "cocomaria"
-      },
       {
         "n": "SUNCUT",
         "s": "2026-03-23T20:00:00Z",
@@ -133,9 +123,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-03-24T09:00:00Z",
         "e": "2026-03-24T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-24th-march-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -277,27 +267,19 @@
         "j": "SPIRIT BLUE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-03-25T09:00:00Z",
+        "e": "2026-03-25T11:00:00Z",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "ALDOUS RH",
-        "s": "2026-03-23T18:00:00Z",
-        "e": "2026-03-23T19:00:00Z",
-        "d": "Old psych jams, soul, folk-rock and generally all-round pleasant radio sounds from Aldous RH. Once a month from our Manchester studio - tune in…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/aldous-rh/episodes/aldous-rh-23rd-march-2026",
-        "t": "monthly",
-        "p": "aldousrh"
-      },
-      {
-        "n": "THE LAVENDER KITE AUDIO RESEARCH HOUR",
-        "s": "2026-03-23T19:00:00Z",
-        "e": "2026-03-23T20:00:00Z",
-        "d": "Barnaby Bennett presents the Lavender Kite Audio Research Hour.\nFrom the host: \"Some newer releases I've been listening to lately. Perhaps it's because the world feels quite strange, but this year I've been more interested in focusing on art being created now than anything archival. As all things music can be, I'm sure this is cyclical… so please enjoy some recent faves! :) \"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lavender-kite-audio-research-hour/episodes/lavender-kite-audio-research-hour-23rd-march-2026"
-      },
       {
         "n": "BO NINGEN w/ Josephine Moriko & Sofftronic",
         "s": "2026-03-23T20:00:00Z",
@@ -405,18 +387,18 @@
         "n": "Lamin Fofana (R)",
         "s": "2026-03-24T08:00:00Z",
         "e": "2026-03-24T09:00:00Z",
-        "d": null,
+        "d": "Lamin Fofana is an artist and musician currently located in New York. His music contrasts the reality of our world with what’s beyond, and explores questions of movement, migration, alienation and belonging. His releases include Works In Metal, Here Lies Universality, Unsettling Scores, and The Open Boat. Fofana is the founder of the imprint Black Studies and phase4.zip",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lamin-fofana/episodes/lamin-fofana-9th-july-2025",
         "t": "restream"
       },
       {
         "n": "The Head Zone (R)",
         "s": "2026-03-24T09:00:00Z",
         "e": "2026-03-24T10:00:00Z",
-        "d": null,
+        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/moon-duo-22nd-august-2024",
         "t": "restream"
       },
       {
@@ -543,29 +525,31 @@
         "j": "Ashtrejinkins",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "No Earth Tones w/ Ben Block (R)",
+        "s": "2026-03-25T02:00:00Z",
+        "e": "2026-03-25T04:00:00Z",
+        "d": null,
+        "j": "Ben Block",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "UNDERGROUND & BLACK W/ ASH LAURYN (R)",
+        "s": "2026-03-25T04:00:00Z",
+        "e": "2026-03-25T05:00:00Z",
+        "d": null,
+        "j": "ASH LAURYN",
+        "u": null,
+        "t": "restream",
+        "p": "ash",
+        "ap": [
+          "ashlauryn"
+        ]
       }
     ],
     "subtle": [
-      {
-        "n": "Grigio",
-        "s": "2026-03-23T18:00:00Z",
-        "e": "2026-03-23T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "grigio"
-      },
-      {
-        "n": "Deadly Unserious",
-        "s": "2026-03-23T19:00:00Z",
-        "e": "2026-03-23T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "deadlyunserious"
-      },
       {
         "n": "Scandal Sounds",
         "s": "2026-03-23T20:00:00Z",
@@ -1521,16 +1505,6 @@
     ],
     "dublab": [
       {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-03-23T17:00:00Z",
-        "e": "2026-03-23T19:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
-      {
         "n": "Domenic Priore - '66 Sunset Strip",
         "s": "2026-03-23T19:00:00Z",
         "e": "2026-03-23T21:00:00Z",
@@ -1590,6 +1564,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-24T07:00:00Z",
         "e": "2026-03-24T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-24T09:00:00Z",
+        "e": "2026-03-24T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2040,26 +2023,6 @@
     ],
     "rinse": [
       {
-        "n": "GHOULISH",
-        "s": "2026-03-23T18:00:00Z",
-        "e": "2026-03-23T19:00:00Z",
-        "d": null,
-        "j": "Live from Subclub (2024)",
-        "u": null,
-        "t": "monthly",
-        "p": "ghoulish"
-      },
-      {
-        "n": "COIDO",
-        "s": "2026-03-23T19:00:00Z",
-        "e": "2026-03-23T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "coido"
-      },
-      {
         "n": "Fold",
         "s": "2026-03-23T20:00:00Z",
         "e": "2026-03-23T21:00:00Z",
@@ -2449,25 +2412,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Kokoprisci",
-        "s": "2026-03-23T18:00:00Z",
-        "e": "2026-03-23T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "kokoprisci"
-      },
-      {
-        "n": "NVST",
-        "s": "2026-03-23T19:00:00Z",
-        "e": "2026-03-23T20:00:00Z",
-        "d": null,
-        "j": "Easy Life w/ NVST",
-        "u": null,
-        "p": "nvst"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-03-23T20:00:00Z",
         "e": "2026-03-23T23:00:00Z",
@@ -2488,7 +2432,110 @@
       {
         "n": "Playlist France",
         "s": "2026-03-24T08:00:00Z",
+        "e": "2026-03-24T11:50:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Queer Cult",
+        "s": "2026-03-24T11:50:00Z",
         "e": "2026-03-24T13:00:00Z",
+        "d": null,
+        "j": "DJ Monique invite Akinola",
+        "u": null,
+        "t": "weekly",
+        "p": "queercult"
+      },
+      {
+        "n": "Anna Majidson",
+        "s": "2026-03-24T13:00:00Z",
+        "e": "2026-03-24T14:00:00Z",
+        "d": null,
+        "j": "Behind the Curtain",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "honeymel",
+        "s": "2026-03-24T14:00:00Z",
+        "e": "2026-03-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "honeymel"
+      },
+      {
+        "n": "Louis Roméo",
+        "s": "2026-03-24T15:00:00Z",
+        "e": "2026-03-24T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Lorkestra",
+        "s": "2026-03-24T16:00:00Z",
+        "e": "2026-03-24T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "lorkestra"
+      },
+      {
+        "n": "Rebequita",
+        "s": "2026-03-24T17:00:00Z",
+        "e": "2026-03-24T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "rebequita"
+      },
+      {
+        "n": "Kokoprisci",
+        "s": "2026-03-24T18:00:00Z",
+        "e": "2026-03-24T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "kokoprisci"
+      },
+      {
+        "n": "NVST",
+        "s": "2026-03-24T19:00:00Z",
+        "e": "2026-03-24T20:00:00Z",
+        "d": null,
+        "j": "Easy Life w/ NVST",
+        "u": null,
+        "p": "nvst"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-24T20:00:00Z",
+        "e": "2026-03-24T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-24T23:00:00Z",
+        "e": "2026-03-25T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-25T08:00:00Z",
+        "e": "2026-03-25T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2496,8 +2543,8 @@
       },
       {
         "n": "MENTAL HEALTH RADIO par Stencia",
-        "s": "2026-03-24T13:00:00Z",
-        "e": "2026-03-24T14:00:00Z",
+        "s": "2026-03-25T13:00:00Z",
+        "e": "2026-03-25T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2505,8 +2552,8 @@
       },
       {
         "n": "WEDOMiEL",
-        "s": "2026-03-24T14:00:00Z",
-        "e": "2026-03-24T15:00:00Z",
+        "s": "2026-03-25T14:00:00Z",
+        "e": "2026-03-25T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2515,16 +2562,16 @@
       },
       {
         "n": "NegoO",
-        "s": "2026-03-24T15:00:00Z",
-        "e": "2026-03-24T16:00:00Z",
+        "s": "2026-03-25T15:00:00Z",
+        "e": "2026-03-25T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Lola Ondikwa",
-        "s": "2026-03-24T16:00:00Z",
-        "e": "2026-03-24T17:00:00Z",
+        "s": "2026-03-25T16:00:00Z",
+        "e": "2026-03-25T17:00:00Z",
         "d": null,
         "j": "Ondi Kwa Show invite : Bialy - Kel9da - Twizzy Cinco - Dibby",
         "u": null,
@@ -2532,8 +2579,8 @@
       },
       {
         "n": "Feadz",
-        "s": "2026-03-24T17:00:00Z",
-        "e": "2026-03-24T18:00:00Z",
+        "s": "2026-03-25T17:00:00Z",
+        "e": "2026-03-25T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2542,24 +2589,24 @@
       },
       {
         "n": "GЯEG",
-        "s": "2026-03-24T18:00:00Z",
-        "e": "2026-03-24T19:00:00Z",
+        "s": "2026-03-25T18:00:00Z",
+        "e": "2026-03-25T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "De Grandi",
-        "s": "2026-03-24T19:00:00Z",
-        "e": "2026-03-24T20:00:00Z",
+        "s": "2026-03-25T19:00:00Z",
+        "e": "2026-03-25T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-03-24T20:00:00Z",
-        "e": "2026-03-24T21:00:00Z",
+        "s": "2026-03-25T20:00:00Z",
+        "e": "2026-03-25T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
