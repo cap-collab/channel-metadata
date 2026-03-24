@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-24T08:41:01.312Z",
+  "updated": "2026-03-24T10:42:33.958Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SUNCUT",
-        "s": "2026-03-23T20:00:00Z",
-        "e": "2026-03-23T21:00:00Z",
-        "d": "Tune in to the sound of SUNCUT, boasting a heartfelt selection of some favourite 45’s through to classic bonafide soulful jams.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sun-cut/episodes/sun-cut-23rd-march-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "ALL FRUITS RIPE W/ JACK SAPSED",
-        "s": "2026-03-23T21:00:00Z",
-        "e": "2026-03-23T22:00:00Z",
-        "d": "Ease in to delectations from our host, Jack Sapsed. A sea of sideways sounds: ambient tranquility and psychedelic folk; experimental dub to techno… ALL FRUITS RIPE",
-        "j": "JACK SAPSED",
-        "u": "https://www.nts.live/api/v2/shows/all-fruits-ripe/episodes/all-fruits-ripe-23rd-march-2026",
-        "t": "monthly"
-      },
       {
         "n": "LUNG DART",
         "s": "2026-03-23T22:00:00Z",
@@ -133,9 +115,9 @@
         "n": "Soup To Nuts w/ PAM",
         "s": "2026-03-24T11:00:00Z",
         "e": "2026-03-24T13:00:00Z",
-        "d": null,
+        "d": "Let NTS brighten up your lunchtime hours.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-pam-24th-march-2026"
       },
       {
         "n": "NABIHAH IQBAL",
@@ -205,7 +187,7 @@
         "p": "circuits"
       },
       {
-        "n": "MIDNITE MADNESS",
+        "n": "MIDNITE MADNESS CCX—Beyond Reality",
         "s": "2026-03-25T00:00:00Z",
         "e": "2026-03-25T01:00:00Z",
         "d": null,
@@ -277,28 +259,27 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-03-25T11:00:00Z",
+        "e": "2026-03-25T13:00:00Z",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
+      },
+      {
+        "n": "Sounds on Screen: Paul Thomas Anderson",
+        "s": "2026-03-25T13:00:00Z",
+        "e": "2026-03-25T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "BO NINGEN w/ Josephine Moriko & Sofftronic",
-        "s": "2026-03-23T20:00:00Z",
-        "e": "2026-03-23T21:00:00Z",
-        "d": "London's infamous psychedelic outfit Bo Ningen takes over the NTS airwaves. Expect anything from video game sounds to noise rock.\nFrom the host: \"Bo Ningen March episode by Yuki with special guests Josephine Moriko & Sofftronic from Stockholm\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bo-ningen/episodes/bo-ningen-23rd-march-2026",
-        "p": "boningen"
-      },
-      {
-        "n": "FUNK FREAKS",
-        "s": "2026-03-23T21:00:00Z",
-        "e": "2026-03-23T22:00:00Z",
-        "d": "The notorious Orange County Funk Freaks crew take over the LA studio once a month with their signature brand of boogie, italo, and lowrider funk.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/funk-freaks/episodes/funk-freaks-23rd-march-2026",
-        "t": "monthly",
-        "p": "funkfreaks"
-      },
       {
         "n": "DEBBIESTHUGLIFE",
         "s": "2026-03-23T22:00:00Z",
@@ -405,9 +386,9 @@
         "n": "PLAY IT AS IT LATHES W/ ZACH COWIE (R)",
         "s": "2026-03-24T10:00:00Z",
         "e": "2026-03-24T11:00:00Z",
-        "d": null,
+        "d": "Zach Cowie - former record label guy & DJ turned music supervisor. Every month Zach lays down a vinyl-only one hour mix of ambient, experimental, folk, psych and jazz records with Play It As It Lathes.",
         "j": "ZACH COWIE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zach-cowie/episodes/play-it-as-it-lathes-zach-cowie-23rd-march-2018",
         "t": "restream",
         "p": "zachcowie"
       },
@@ -415,9 +396,9 @@
         "n": "NTS Guide to: TRUCKER COUNTRY",
         "s": "2026-03-24T11:00:00Z",
         "e": "2026-03-24T12:00:00Z",
-        "d": null,
+        "d": "Pulling up to the truckstop for an hour of trucker country classics – expect heartbreak, loneliness CB radios, stimulants, and long highways. ",
         "j": "TRUCKER COUNTRY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-trucker-country-24th-march-2026",
         "t": "weekly"
       },
       {
@@ -547,29 +528,28 @@
         "ap": [
           "ashlauryn"
         ]
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Scandal Sounds",
-        "s": "2026-03-23T20:00:00Z",
-        "e": "2026-03-23T21:00:00Z",
+        "n": "Ectotherm (R)",
+        "s": "2026-03-25T05:00:00Z",
+        "e": "2026-03-25T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "scandalsounds"
+        "t": "restream"
       },
       {
-        "n": "Saraphim",
-        "s": "2026-03-23T21:00:00Z",
-        "e": "2026-03-23T22:00:00Z",
-        "d": "Saraphim (aka RNS & RDubz) are two Essex based Producer/DJ’s currently focused on Dubstep & the 140 spectrum, mixing ethnical and grime influences into their music. You can expect anything from deep and melodic meditative vibes to high energy driven music.",
-        "j": null,
+        "n": "Pacing The Platform w/ upsammy (R)",
+        "s": "2026-03-25T07:00:00Z",
+        "e": "2026-03-25T08:00:00Z",
+        "d": null,
+        "j": "upsammy",
         "u": null,
-        "t": "monthly",
-        "p": "saraphim"
-      },
+        "t": "restream",
+        "p": "upsammy"
+      }
+    ],
+    "subtle": [
       {
         "n": "Chaz",
         "s": "2026-03-23T22:00:00Z",
@@ -1505,15 +1485,6 @@
     ],
     "dublab": [
       {
-        "n": "Domenic Priore - '66 Sunset Strip",
-        "s": "2026-03-23T19:00:00Z",
-        "e": "2026-03-23T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "domenicpriore"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-03-23T21:00:00Z",
         "e": "2026-03-23T23:00:00Z",
@@ -1573,6 +1544,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-24T09:00:00Z",
         "e": "2026-03-24T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-24T11:00:00Z",
+        "e": "2026-03-24T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2022,25 +2002,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Fold",
-        "s": "2026-03-23T20:00:00Z",
-        "e": "2026-03-23T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "fold"
-      },
-      {
-        "n": "DJ Stingray presents Zone 313",
-        "s": "2026-03-23T21:00:00Z",
-        "e": "2026-03-23T22:00:00Z",
-        "d": null,
-        "j": "6SISS",
-        "u": null,
-        "p": "djstingray"
-      },
       {
         "n": "Roman Flügel",
         "s": "2026-03-23T22:00:00Z",
