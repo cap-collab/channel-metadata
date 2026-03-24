@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-24T20:33:18.678Z",
+  "updated": "2026-03-24T22:22:20.870Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Early Bird Show w/ TROTH",
-        "s": "2026-03-24T07:00:00Z",
-        "e": "2026-03-24T09:00:00Z",
-        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-troth-24th-march-2026",
-        "p": "troth"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-03-24T09:00:00Z",
@@ -100,9 +91,9 @@
         "n": "MIDNITE MADNESS CCX—Beyond Reality",
         "s": "2026-03-25T00:00:00Z",
         "e": "2026-03-25T01:00:00Z",
-        "d": null,
+        "d": "Midnite Madness endeavours to unearth the spirit of the ancient metal gods as well as the genre's new flesh, taking in most styles—heavy, thrash, black, speed, death, punk, doom, etc. There will be some exclusion: no nu-metal, no triggered drums, no posers and no requests. Only metal is real!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/midnite-madness/episodes/midnite-madness-25th-march-2026",
         "p": "midnitemadness"
       },
       {
@@ -243,27 +234,18 @@
         "j": null,
         "u": null,
         "p": "gigifm"
+      },
+      {
+        "n": "A LONG STRANGE DREAM W/ BATU",
+        "s": "2026-03-25T23:00:00Z",
+        "e": "2026-03-26T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "batu"
       }
     ],
     "nts2": [
-      {
-        "n": "Lamin Fofana (R)",
-        "s": "2026-03-24T08:00:00Z",
-        "e": "2026-03-24T09:00:00Z",
-        "d": "Lamin Fofana is an artist and musician currently located in New York. His music contrasts the reality of our world with what’s beyond, and explores questions of movement, migration, alienation and belonging. His releases include Works In Metal, Here Lies Universality, Unsettling Scores, and The Open Boat. Fofana is the founder of the imprint Black Studies and phase4.zip",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lamin-fofana/episodes/lamin-fofana-9th-july-2025",
-        "t": "restream"
-      },
-      {
-        "n": "The Head Zone (R)",
-        "s": "2026-03-24T09:00:00Z",
-        "e": "2026-03-24T10:00:00Z",
-        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/moon-duo-22nd-august-2024",
-        "t": "restream"
-      },
       {
         "n": "PLAY IT AS IT LATHES W/ ZACH COWIE (R)",
         "s": "2026-03-24T10:00:00Z",
@@ -379,17 +361,17 @@
         "n": "WNOADIARWB RADIO w/ Otto Benson",
         "s": "2026-03-24T22:00:00Z",
         "e": "2026-03-24T23:00:00Z",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/otto-benson-24th-march-2026"
       },
       {
         "n": "Green-House",
         "s": "2026-03-24T23:00:00Z",
         "e": "2026-03-25T00:00:00Z",
-        "d": null,
+        "d": "LA duo Green-House dream of a better world on their new album “Hinterlands”, a project brimming with diverse influences – they share some of these influences including Joe Hisaishi, Harry Case and more, including some original tracks in a special guest show.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/green-house-24th-march-2026"
       },
       {
         "n": "THE MONOLITH W/ PBDY",
@@ -525,29 +507,28 @@
         "j": null,
         "u": null,
         "p": "zelzele"
+      },
+      {
+        "n": "Rio Doce",
+        "s": "2026-03-25T17:00:00Z",
+        "e": "2026-03-25T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "riodoce"
+      },
+      {
+        "n": "Amarillo on Everything w/ Hayden Pedigo",
+        "s": "2026-03-25T19:00:00Z",
+        "e": "2026-03-25T20:00:00Z",
+        "d": null,
+        "j": "Hayden Pedigo",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Azadi Sound",
-        "s": "2026-03-24T08:00:00Z",
-        "e": "2026-03-24T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "azadisound"
-      },
-      {
-        "n": "Scampi",
-        "s": "2026-03-24T09:00:00Z",
-        "e": "2026-03-24T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "scampi"
-      },
       {
         "n": "Posh Mornings",
         "s": "2026-03-24T10:00:00Z",
@@ -1404,15 +1385,6 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-03-24T07:00:00Z",
-        "e": "2026-03-24T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
         "s": "2026-03-24T09:00:00Z",
         "e": "2026-03-24T11:00:00Z",
         "d": null,
@@ -1898,15 +1870,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-03-24T07:00:00Z",
-        "e": "2026-03-24T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Papaoul",
         "s": "2026-03-24T09:00:00Z",
