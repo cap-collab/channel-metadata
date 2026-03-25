@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-25T08:39:31.659Z",
+  "updated": "2026-03-25T10:40:14.929Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Minimal Wave w/ VERONICA VASICKA",
-        "s": "2026-03-24T20:00:00Z",
-        "e": "2026-03-24T22:00:00Z",
-        "d": "Veronica Vasicka presents a monthly 2-hour show featuring the lost synth-wave treasures she has archived from the late 70s and early 80s, along with other iconic underground electronic music drawn from over four decades. Expect to hear exclusive tracks from releases on her seminal Minimal Wave and Cititrax labels plus cassette-only and private press rarities.",
-        "j": "VERONICA VASICKA",
-        "u": "https://www.nts.live/api/v2/shows/veronica-vasicka/episodes/veronica-vasicka-24th-march-2026",
-        "t": "monthly",
-        "p": "veronicavasicka"
-      },
       {
         "n": "Circuits w/ Olly Chubb",
         "s": "2026-03-24T22:00:00Z",
@@ -100,9 +90,9 @@
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-03-25T11:00:00Z",
         "e": "2026-03-25T13:00:00Z",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-25th-march-2026",
         "t": "weekly",
         "p": "shyone"
       },
@@ -239,27 +229,18 @@
         "u": null,
         "t": "restream",
         "p": "doingtime"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "s": "2026-03-26T07:00:00Z",
+        "e": "2026-03-26T09:00:00Z",
+        "d": null,
+        "j": "PAM",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "HELLOTONES: EL HIJO DE PUEBLAYORK (R)",
-        "s": "2026-03-24T20:00:00Z",
-        "e": "2026-03-24T21:00:00Z",
-        "d": "Kumbias mezcladas como nunca antes by hellotones.. direct from the Poblano Mexicano diaspora in New York City and stamping the moment that is the PueblaYork renaissance. Paying homage with mixes blending the sounds of yesteryears’ cumbia labels and the sounds of the future in cumbia happening now.",
-        "j": "EL HIJO DE PUEBLAYORK",
-        "u": "https://www.nts.live/api/v2/shows/hellotones/episodes/hellotones-24th-february-2026",
-        "t": "restream"
-      },
-      {
-        "n": "Como La Flor w/ Jazmin - PURO SENTIMENTAL (R)",
-        "s": "2026-03-24T21:00:00Z",
-        "e": "2026-03-24T22:00:00Z",
-        "d": "Música sentimental for all the sad girls and sad boys.\nFrom the host: \"SOÑANDO DE UN MUNDO DONDE TODOS TIENEN EL DERECHO DE VIVIR EN PAZ.\"",
-        "j": "Jazmin",
-        "u": "https://www.nts.live/api/v2/shows/jazmin-garcia/episodes/jazmin-garcia-9th-march-2026",
-        "t": "restream"
-      },
       {
         "n": "WNOADIARWB RADIO w/ Otto Benson",
         "s": "2026-03-24T22:00:00Z",
@@ -361,9 +342,9 @@
         "n": "Natalia Panzer",
         "s": "2026-03-25T11:00:00Z",
         "e": "2026-03-25T12:00:00Z",
-        "d": null,
+        "d": "Curio earworms and other obsessions from Krakow's Natalia Panzer.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-25th-march-2026",
         "t": "monthly",
         "p": "natalia",
         "ap": [
@@ -504,28 +485,18 @@
         "u": null,
         "t": "restream",
         "p": "timetable"
+      },
+      {
+        "n": "Otaku: Neon Genesis Evangelion (R)",
+        "s": "2026-03-26T05:00:00Z",
+        "e": "2026-03-26T06:00:00Z",
+        "d": null,
+        "j": "Neon Genesis Evangelion",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "es.kay & Megwan",
-        "s": "2026-03-24T20:00:00Z",
-        "e": "2026-03-24T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "stuckinwaveforms",
-        "s": "2026-03-24T21:00:00Z",
-        "e": "2026-03-24T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "stuckinwaveforms"
-      },
       {
         "n": "OVN",
         "s": "2026-03-24T22:00:00Z",
@@ -613,6 +584,15 @@
         "u": null,
         "t": "monthly",
         "p": "sportmode"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-25T10:00:00Z",
+        "e": "2026-03-25T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Touching Bass w/ timfromsales",
@@ -1334,19 +1314,28 @@
         "j": "Paul Hertmann",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Music that Moves",
+        "s": "2026-04-01T09:00:00Z",
+        "e": "2026-04-01T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Nikki O",
+        "s": "2026-04-01T10:00:00Z",
+        "e": "2026-04-01T11:00:00Z",
+        "d": "Hailing from Belfast but making moves in Nottingham, Nikki O is a DJ and radio presenter whose sets blend 4/4 rhythms, breakbeats, and the bassier side of techno. ",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nikkio"
       }
     ],
     "dublab": [
-      {
-        "n": "Patrick Shiroishi - Tangled",
-        "s": "2026-03-24T19:00:00Z",
-        "e": "2026-03-24T21:00:00Z",
-        "d": null,
-        "j": "Tangled",
-        "u": null,
-        "t": "monthly",
-        "p": "patrickshiroishi"
-      },
       {
         "n": "Photay - Extravagant Frequencies",
         "s": "2026-03-24T21:00:00Z",
@@ -1416,6 +1405,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-25T09:00:00Z",
         "e": "2026-03-25T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-25T11:00:00Z",
+        "e": "2026-03-25T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1813,16 +1811,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Apollonia",
-        "s": "2026-03-24T20:00:00Z",
-        "e": "2026-03-24T22:00:00Z",
-        "d": null,
-        "j": "Dan Ghenacia invites m.O.N.R.O.E.",
-        "u": null,
-        "t": "monthly",
-        "p": "apollonia"
-      },
       {
         "n": "Silencer",
         "s": "2026-03-24T22:00:00Z",
