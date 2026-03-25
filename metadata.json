@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-25T20:30:20.033Z",
+  "updated": "2026-03-25T22:27:10.956Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
-        "s": "2026-03-25T07:00:00Z",
-        "e": "2026-03-25T09:00:00Z",
-        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
-        "j": "SPIRIT BLUE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-25th-march-2026",
-        "t": "weekly"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-03-25T09:00:00Z",
@@ -100,18 +91,19 @@
         "n": "GIGI FM presents Shoal",
         "s": "2026-03-25T22:00:00Z",
         "e": "2026-03-25T23:00:00Z",
-        "d": null,
+        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM.\nFrom the host: \"This month GiGi FM welcomes Shoal. A full production ambient journey through motion, growth and tension from the Dutch sound artist and ISOTOOP core member ~ sculptural sound design and inner movement for Aries season’s shifting skies.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-25th-march-2026",
+        "t": "monthly",
         "p": "gigifm"
       },
       {
         "n": "A LONG STRANGE DREAM W/ BATU",
         "s": "2026-03-25T23:00:00Z",
         "e": "2026-03-26T00:00:00Z",
-        "d": null,
+        "d": "A Long Strange Dream is Batu's latest series which allows him to showcase a selection of music not limited to peak time dancefloors. Expect a deep dive into the crates for an eclectic mix of influences and oddities as you transcend into a collective long strange dream.\nFrom the host: \"loads of new tracks this month! shouts to everyone sending me dubs!\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/a-long-strange-dream-w-batu/episodes/a-long-strange-dream-w-batu-25th-march-2026",
         "p": "batu"
       },
       {
@@ -237,18 +229,26 @@
         "u": null,
         "t": "monthly",
         "p": "okwilliams"
+      },
+      {
+        "n": "CHICO BLANCO w/ Juguete",
+        "s": "2026-03-26T17:00:00Z",
+        "e": "2026-03-26T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "chicoblanco"
+      },
+      {
+        "n": "The Andrew Thomson Experience",
+        "s": "2026-03-26T18:00:00Z",
+        "e": "2026-03-26T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "True As Few w/ Mark (R)",
-        "s": "2026-03-25T08:00:00Z",
-        "e": "2026-03-25T09:00:00Z",
-        "d": "The beginning of what will be an extended look into the works of Valentin Silvestrov, here showcasing both his pianistic and orchestral styles in two large-scale pieces. ",
-        "j": "Mark",
-        "u": "https://www.nts.live/api/v2/shows/true-as-few/episodes/true-as-few-27th-june-2023",
-        "t": "restream"
-      },
       {
         "n": "RAGA VIBRATIONS (R)",
         "s": "2026-03-25T09:00:00Z",
@@ -360,9 +360,10 @@
         "n": "No ID Radio: 100% Unreleased w/ Anysia Kym",
         "s": "2026-03-25T23:00:00Z",
         "e": "2026-03-26T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "NYC-based producer, songwriter, and multi-instrumentalist Anysia Kym shares a monthly compilation of her favourite tracks, right now and of all time; she flips a song of her choice at the start of each hour-long episode.\nFrom the host: \"As a way to celebrate the return of NO ID RADIO, this episode is made up entirely of submitted unreleased tracks from listeners of the show, as well as unreleased tracks from my guest picks: duendita and DORIS (Frank Dorrey). Thanks to everyone who submitted, and for trusting me with your music.\"",
+        "j": "Anysia Kym",
+        "u": "https://www.nts.live/api/v2/shows/anysia-kym/episodes/anysia-kym-25th-march-2026",
+        "t": "monthly",
         "p": "anysiakym"
       },
       {
@@ -500,29 +501,17 @@
         "j": null,
         "u": null,
         "p": "desirepaths"
+      },
+      {
+        "n": "SMITHSONIAN FOLKWAYS - The Metal Show",
+        "s": "2026-03-26T18:00:00Z",
+        "e": "2026-03-26T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Melange w/ Weak Spell",
-        "s": "2026-03-25T08:00:00Z",
-        "e": "2026-03-25T09:00:00Z",
-        "d": null,
-        "j": "Weak Spell",
-        "u": null,
-        "t": "monthly",
-        "p": "weakspell"
-      },
-      {
-        "n": "Sport Mode",
-        "s": "2026-03-25T09:00:00Z",
-        "e": "2026-03-25T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sportmode"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-03-25T10:00:00Z",
@@ -1398,18 +1387,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-25T07:00:00Z",
-        "e": "2026-03-25T09:00:00Z",
+        "n": "PANACEA",
+        "s": "2026-04-01T22:00:00Z",
+        "e": "2026-04-01T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "panacea"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-25T09:00:00Z",
@@ -1855,18 +1845,17 @@
         "u": null,
         "t": "monthly",
         "p": "lanamiller"
+      },
+      {
+        "n": "Billy Creature – Framework",
+        "s": "2026-04-01T21:00:00Z",
+        "e": "2026-04-01T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-03-25T07:00:00Z",
-        "e": "2026-03-25T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Esk",
         "s": "2026-03-25T09:00:00Z",
