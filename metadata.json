@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-25T16:55:00.298Z",
+  "updated": "2026-03-25T18:44:27.740Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Extended Play Sessions (R)",
-        "s": "2026-03-25T04:02:00Z",
-        "e": "2026-03-25T06:00:00Z",
-        "d": "Long time record collector and purveyor of fine musical flavours Mr. Pedro cooks up a banquet of aural delights every other week: afrobeat to disco and more, time to liven up. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-extended-play-sessions/episodes/the-extended-play-sessions-20th-september-2025",
-        "t": "restream"
-      },
       {
         "n": "ORGANIC MUSIC TOKYO W/ CHEE SHIMIZU",
         "s": "2026-03-25T06:00:00Z",
@@ -82,17 +73,18 @@
         "n": "Josh Tweek",
         "s": "2026-03-25T18:00:00Z",
         "e": "2026-03-25T19:00:00Z",
-        "d": null,
+        "d": "The snack enthusiast and London based producer and DJ takes on the NTS airwaves. Stay tuned for mixes spanning the breadth of dance and club music.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/peach/episodes/peach-25th-march-2026"
       },
       {
         "n": "MINA w/ Maganda Shakul",
         "s": "2026-03-25T19:00:00Z",
         "e": "2026-03-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "All the biggest bangers from around the world with Mina and guests every month.\nFrom the host: \"This month I've got lots of new and unreleased music from myself + Styn, Bryte, Roska, L-Vis 1990 & Surreal Sessions. Plus a guestmix from Maganda Shakul, a producer and percussionist from Uganda, who is pioneering his own Bakisimbatronics sound.\"",
+        "j": "Maganda Shakul",
+        "u": "https://www.nts.live/api/v2/shows/mina/episodes/mina-25th-march-2026",
+        "t": "monthly",
         "p": "mina"
       },
       {
@@ -173,6 +165,15 @@
         "u": null
       },
       {
+        "n": "In Focus: Sarah Records (R)",
+        "s": "2026-03-26T02:30:00Z",
+        "e": "2026-03-26T04:00:00Z",
+        "d": null,
+        "j": "Sarah Records",
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "Maria Somerville (R)",
         "s": "2026-03-26T04:00:00Z",
         "e": "2026-03-26T05:00:00Z",
@@ -219,22 +220,17 @@
         "j": "BABYSCHÖN",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "SHANTI CELESTE",
+        "s": "2026-03-26T13:00:00Z",
+        "e": "2026-03-26T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "UNDERGROUND & BLACK W/ ASH LAURYN (R)",
-        "s": "2026-03-25T04:00:00Z",
-        "e": "2026-03-25T05:00:00Z",
-        "d": "Self proclaimed “Underground and Black”, Detroit native Ash Lauryn leads her musical charge with a candid love for the historical roots of dance music, and the power of reclamation in modern day America. ",
-        "j": "ASH LAURYN",
-        "u": "https://www.nts.live/api/v2/shows/ash-lauryn/episodes/ash-lauryn-7th-august-2025",
-        "t": "restream",
-        "p": "ash",
-        "ap": [
-          "ashlauryn"
-        ]
-      },
       {
         "n": "Ectotherm (R)",
         "s": "2026-03-25T05:00:00Z",
@@ -346,9 +342,9 @@
         "n": "Amarillo on Everything w/ Hayden Pedigo",
         "s": "2026-03-25T19:00:00Z",
         "e": "2026-03-25T20:00:00Z",
-        "d": null,
+        "d": "Guitarist and Amarillo native Hayden Pedigo takes you on a roadtrip through the Texas panhandle, sharing prog, country, and instrumental guitar favorites.",
         "j": "Hayden Pedigo",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hayden-pedigo/episodes/hayden-pedigo-25th-march-2026",
         "t": "monthly",
         "p": "haydenpedigo"
       },
@@ -486,6 +482,14 @@
         "j": "Space Jams",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "RUM PUNCH W/ DANNY FITZGERALD",
+        "s": "2026-03-26T14:00:00Z",
+        "e": "2026-03-26T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -1364,19 +1368,28 @@
         "j": "B4B",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Ellen",
+        "s": "2026-04-01T17:00:00Z",
+        "e": "2026-04-01T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ellen"
+      },
+      {
+        "n": "Murky Sonics",
+        "s": "2026-04-01T18:00:00Z",
+        "e": "2026-04-01T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Echo Park Film Center - Optical Track",
-        "s": "2026-03-25T03:00:00Z",
-        "e": "2026-03-25T05:00:00Z",
-        "d": null,
-        "j": "Optical Track",
-        "u": null,
-        "t": "weekly",
-        "p": "echoparkfilmcenter"
-      },
       {
         "n": "Wyldeflower and PayRay - nueve",
         "s": "2026-03-25T05:00:00Z",
@@ -1824,18 +1837,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Andres Renteria - Shining Spirit Sound",
+        "s": "2026-04-01T17:00:00Z",
+        "e": "2026-04-01T19:00:00Z",
+        "d": null,
+        "j": "Shining Spirit Sound",
+        "u": null,
+        "t": "monthly",
+        "p": "andresrenteria"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-03-25T03:00:00Z",
-        "e": "2026-03-25T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Delilah",
         "s": "2026-03-25T06:00:00Z",
