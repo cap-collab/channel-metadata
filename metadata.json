@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-25T10:40:14.929Z",
+  "updated": "2026-03-25T12:46:44.920Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Circuits w/ Olly Chubb",
-        "s": "2026-03-24T22:00:00Z",
-        "e": "2026-03-25T00:00:00Z",
-        "d": "Connections in electronic music: the history of house and techno as presented to you by the wonderful Olly Chubb.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/circuits/episodes/circuits-24th-march-2026",
-        "p": "circuits"
-      },
       {
         "n": "MIDNITE MADNESS CCX—Beyond Reality",
         "s": "2026-03-25T00:00:00Z",
@@ -97,12 +88,12 @@
         "p": "shyone"
       },
       {
-        "n": "Sounds on Screen: Paul Thomas Anderson",
+        "n": "Radio Jiro",
         "s": "2026-03-25T13:00:00Z",
         "e": "2026-03-25T15:00:00Z",
-        "d": null,
+        "d": "Radio Jiro is the two hour show of artist Jiro Bevis, every 4 weeks, Monday 2-4pm. The show features a wide variety of sounds from across the globe with previous specials covering themes such as Meditation, Italian, UK punk, Japanese Techno-Pop, Library and French.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/radio-jiro/episodes/radio-jiro-25th-march-2026"
       },
       {
         "n": "LOUISE CHEN",
@@ -152,7 +143,7 @@
         "u": null
       },
       {
-        "n": "GIGI FM",
+        "n": "GIGI FM presents Shoal",
         "s": "2026-03-25T22:00:00Z",
         "e": "2026-03-25T23:00:00Z",
         "d": null,
@@ -238,26 +229,19 @@
         "j": "PAM",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-03-26T09:00:00Z",
+        "e": "2026-03-26T11:00:00Z",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "WNOADIARWB RADIO w/ Otto Benson",
-        "s": "2026-03-24T22:00:00Z",
-        "e": "2026-03-24T23:00:00Z",
-        "d": "Special guest shows from around the world.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/otto-benson-24th-march-2026"
-      },
-      {
-        "n": "Green-House",
-        "s": "2026-03-24T23:00:00Z",
-        "e": "2026-03-25T00:00:00Z",
-        "d": "LA duo Green-House dream of a better world on their new album “Hinterlands”, a project brimming with diverse influences – they share some of these influences including Joe Hisaishi, Harry Case and more, including some original tracks in a special guest show.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/green-house-24th-march-2026",
-        "p": "greenhouse"
-      },
       {
         "n": "THE MONOLITH W/ PBDY",
         "s": "2026-03-25T00:00:00Z",
@@ -355,17 +339,18 @@
         "n": "Tara Clerkin Trio w/ more eaze",
         "s": "2026-03-25T12:00:00Z",
         "e": "2026-03-25T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Off-centre rhythms, muted electronics & slick modern compositions in a monthly missive from the Bristolian psych-rock jammers…",
+        "j": "more eaze",
+        "u": "https://www.nts.live/api/v2/shows/tara-clerkin-trio/episodes/tara-clerkin-trio-25th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "Mil Townley",
         "s": "2026-03-25T13:00:00Z",
         "e": "2026-03-25T14:00:00Z",
-        "d": null,
+        "d": "Bimonthly radio hour taking you down various musical rabbit holes. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/no-one-radio/episodes/no-one-radio-25th-march-2026",
         "t": "monthly"
       },
       {
@@ -378,11 +363,11 @@
         "t": "monthly"
       },
       {
-        "n": "ARUSHI JAIN",
+        "n": "ARUSHI JAIN - Live at Nowadays (Technowruz)",
         "s": "2026-03-25T15:00:00Z",
         "e": "2026-03-25T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live at Nowadays (Technowruz)",
         "u": null,
         "t": "monthly"
       },
@@ -494,29 +479,27 @@
         "j": "Neon Genesis Evangelion",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "King Britt Presents: Transmissions (R)",
+        "s": "2026-03-26T06:00:00Z",
+        "e": "2026-03-26T07:00:00Z",
+        "d": null,
+        "j": "Transmissions",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "NTS Guide to: Albarika Records (R)",
+        "s": "2026-03-26T07:00:00Z",
+        "e": "2026-03-26T09:00:00Z",
+        "d": null,
+        "j": "Albarika Records",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "OVN",
-        "s": "2026-03-24T22:00:00Z",
-        "e": "2026-03-24T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "ovn"
-      },
-      {
-        "n": "ATKINS",
-        "s": "2026-03-24T23:00:00Z",
-        "e": "2026-03-25T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "atkins"
-      },
       {
         "n": "GFTV w/ Neon Beats",
         "s": "2026-03-25T00:00:00Z",
@@ -839,6 +822,15 @@
         "u": null,
         "t": "monthly",
         "p": "mmmarsh"
+      },
+      {
+        "n": "Strange Signals",
+        "s": "2026-03-26T16:00:00Z",
+        "e": "2026-03-26T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "Locked On Records",
@@ -1227,6 +1219,14 @@
         "u": null
       },
       {
+        "n": "La Vie Sauvage",
+        "s": "2026-03-29T19:00:00Z",
+        "e": "2026-03-29T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "Ricco",
         "s": "2026-03-30T14:00:00Z",
         "e": "2026-03-30T15:00:00Z",
@@ -1246,6 +1246,23 @@
         "n": "Sinecko steps in London",
         "s": "2026-03-30T19:00:00Z",
         "e": "2026-03-30T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "The Watercourse Way/ Jamie Nu",
+        "s": "2026-03-31T09:00:00Z",
+        "e": "2026-03-31T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "thewatercourseway"
+      },
+      {
+        "n": "STEPFWD w/ Masot  ",
+        "s": "2026-03-31T15:00:00Z",
+        "e": "2026-03-31T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1333,22 +1350,28 @@
         "u": null,
         "t": "monthly",
         "p": "nikkio"
+      },
+      {
+        "n": "PAVZKY",
+        "s": "2026-04-01T11:00:00Z",
+        "e": "2026-04-01T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "pavzky"
+      },
+      {
+        "n": "Live Laugh Layla",
+        "s": "2026-04-01T12:00:00Z",
+        "e": "2026-04-01T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Photay - Extravagant Frequencies",
-        "s": "2026-03-24T21:00:00Z",
-        "e": "2026-03-24T23:00:00Z",
-        "d": null,
-        "j": "Extravagant Frequencies",
-        "u": null,
-        "t": "monthly",
-        "p": "photay",
-        "ap": [
-          "extravagantfrequencies"
-        ]
-      },
       {
         "n": "Hoseh - Version Sounds",
         "s": "2026-03-24T23:00:00Z",
@@ -1414,6 +1437,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-25T11:00:00Z",
         "e": "2026-03-25T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-25T13:00:00Z",
+        "e": "2026-03-25T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1812,26 +1844,6 @@
     ],
     "rinse": [
       {
-        "n": "Silencer",
-        "s": "2026-03-24T22:00:00Z",
-        "e": "2026-03-24T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "silencer"
-      },
-      {
-        "n": "Sarra Wild",
-        "s": "2026-03-24T23:00:00Z",
-        "e": "2026-03-25T00:00:00Z",
-        "d": null,
-        "j": "Worldwide Underground Show presents 100% Rai",
-        "u": null,
-        "t": "monthly",
-        "p": "sarrawild"
-      },
-      {
         "n": "Swimful",
         "s": "2026-03-25T00:00:00Z",
         "e": "2026-03-25T01:00:00Z",
@@ -1933,7 +1945,7 @@
         "s": "2026-03-25T14:00:00Z",
         "e": "2026-03-25T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Kairogen",
         "u": null,
         "t": "monthly",
         "p": "jasperjames"
@@ -2025,7 +2037,7 @@
         "s": "2026-03-26T01:00:00Z",
         "e": "2026-03-26T02:00:00Z",
         "d": null,
-        "j": null,
+        "j": "'009",
         "u": null,
         "t": "biweekly",
         "p": "momaready"
@@ -2102,7 +2114,7 @@
         "s": "2026-03-26T13:00:00Z",
         "e": "2026-03-26T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Mike Will Made-It Mix",
         "u": null,
         "t": "weekly",
         "p": "skvibemaker"
@@ -2190,15 +2202,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-03-24T20:00:00Z",
-        "e": "2026-03-24T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-03-24T23:00:00Z",
         "e": "2026-03-25T08:00:00Z",
         "d": null,
@@ -2229,7 +2232,7 @@
         "s": "2026-03-25T14:00:00Z",
         "e": "2026-03-25T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite OMZO",
         "u": null,
         "t": "biweekly",
         "p": "wedomiel"
