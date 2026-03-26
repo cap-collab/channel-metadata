@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-26T20:28:39.417Z",
+  "updated": "2026-03-26T22:20:08.575Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-03-26T07:00:00Z",
-        "e": "2026-03-26T09:00:00Z",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": "PAM",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-26th-march-2026",
-        "t": "weekly"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-03-26T09:00:00Z",
@@ -107,9 +98,9 @@
         "n": "GABRIELLE KWARTENG",
         "s": "2026-03-26T23:00:00Z",
         "e": "2026-03-27T00:00:00Z",
-        "d": null,
+        "d": "In an era of everything at once, Gabrielle Kwarteng is a DJ who weaves stories that often look to the past, while always focusing on possible futures. Dip in to hear a range of dance music from downtempo to deep house to techno rollers - and everything in between. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/gabrielle-kwarteng/episodes/gabrielle-kwarteng-26th-march-2026"
       },
       {
         "n": "MOBBS",
@@ -249,28 +240,17 @@
         "u": null,
         "t": "biweekly",
         "p": "martha"
+      },
+      {
+        "n": "PLATOS COMBINADOS W/ JOE COTCH",
+        "s": "2026-03-27T19:00:00Z",
+        "e": "2026-03-27T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NTS Guide to: Albarika Records (R)",
-        "s": "2026-03-26T07:00:00Z",
-        "e": "2026-03-26T09:00:00Z",
-        "d": "Based in Cotonou, Benin, which at the time was referred to as Dahomey, Albarika Records was founded by the French-born, Benin-based producer and entrepreneur, Emmanuel \"Manu\" Dibango, who had a significant influence on the local music scene. The label was instrumental in releasing records from some of the region's most prominent musicians during the golden age of African music.\nMany of the artists signed to Albarika Records were known for blending indigenous African rhythms with Western jazz, funk, and soul influences. This made their sound distinctive and part of a broader movement across West Africa during the 60s and 70s, as music became a form of social and political expression.",
-        "j": "Albarika Records",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-albarika-store-1st-february-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Shukai (R)",
-        "s": "2026-03-26T09:00:00Z",
-        "e": "2026-03-26T10:00:00Z",
-        "d": "A unique dip into the musical history of Ukraine with archival label Shukai, journeying back to the ‘90s, playing music from documentaries, sci-fi films, obscure cartoons and late-night music programming, curated by Dmytro Nikolaienko, Dmytro Prutkin and Alec Tsapenko.\nFrom the host: \"Step inside the sonic laboratory of Soviet Ukraine’s Kyivnaukfilm (Eng: Kyiv Science Film, active years 1941-1993) studio — a workshop where composers and sound designers crafted scores for documentary, science, education, and animation films. From eerie synth textures to inventive tape collages, these rare recordings (1967–1990) reveal a secret world of avant-garde music created under censorship yet brimming with experiments.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/shukai/episodes/shukai-24th-september-2025",
-        "t": "restream",
-        "p": "shukai"
-      },
       {
         "n": "The Uline Catalog w/ Calvin LeCompte (R)",
         "s": "2026-03-26T10:00:00Z",
@@ -384,17 +364,18 @@
         "n": "Brown Acid Trippin' w/ Lance Barresi & DJ Tara Dactyl",
         "s": "2026-03-26T22:00:00Z",
         "e": "2026-03-26T23:00:00Z",
-        "d": null,
+        "d": "Life is short, have more fun. Lance Barresi of Permanent Records goes for all vinyl 45's, live and direct from the Los Angeles studio.\nFrom the host: \"An alphabetical journey through the Brown Acid Archives. All of these tracks come from real, vintage vinyl 45s from Hard Rock, Heavy Psych, and Proto-Metal artists beginning with the letter P!”",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/brown-acid-journey/episodes/brown-acid-journey-26th-march-2026"
       },
       {
         "n": "Mishka w/ OHYUNG",
         "s": "2026-03-26T23:00:00Z",
         "e": "2026-03-27T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "An auditory exploration with SF native Mishka ranging from synth pop and balearic to softrock and global dance gems. One hour, once a month, with love.\nFrom the host: \"OHYUNG is the solo project of musician and film composer Lia Ouyang Rusli. She brings together disparate sounds and influences in her music, drawing on ambient soundscapes, harsh noise and euphoric pop into a singular sound. Her newest record IOWA is an atmospheric ode to the vast beauty of the Midwest, and was described by Pitchfork as a \"chilling, starkly beautiful ambient album.\" As a film composer she recently scored A24’s Sorry Baby (dir. Eva Victor), Happyend (dir. Neo Sora), A24's Problemista and HBO's Fantasmas (dir. Julio Torres)\"",
+        "j": "OHYUNG",
+        "u": "https://www.nts.live/api/v2/shows/mishka/episodes/mishka-27th-march-2026",
+        "t": "monthly",
         "p": "mishka"
       },
       {
@@ -520,27 +501,26 @@
         "j": null,
         "u": null,
         "p": "andybutler"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "On Wax w/ Samuel Alexander",
-        "s": "2026-03-26T08:00:00Z",
-        "e": "2026-03-26T09:00:00Z",
-        "d": null,
-        "j": "Samuel Alexander",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "POSER",
-        "s": "2026-03-26T09:00:00Z",
-        "e": "2026-03-26T10:00:00Z",
+        "n": "Futuro Ancestral w/ Antropoceno",
+        "s": "2026-03-27T18:00:00Z",
+        "e": "2026-03-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CONFUSING MIX W/ JOSH DA COSTA",
+        "s": "2026-03-27T19:00:00Z",
+        "e": "2026-03-27T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "p": "confusingmix"
+      }
+    ],
+    "subtle": [
       {
         "n": "TRANSISTOR RHYTHMS",
         "s": "2026-03-26T10:00:00Z",
@@ -657,6 +637,15 @@
         "j": "Rated",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-27T00:00:00Z",
+        "e": "2026-03-27T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": " Out of the Dark",
@@ -1394,15 +1383,6 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-03-26T08:00:00Z",
-        "e": "2026-03-26T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
         "s": "2026-03-26T10:00:00Z",
         "e": "2026-03-26T12:00:00Z",
         "d": null,
@@ -1712,21 +1692,30 @@
         "p": "kennethbager"
       },
       {
-        "n": "RERUN CLM",
+        "n": "CHULAS FRONTERAS",
         "s": "2026-03-29T17:00:00Z",
-        "e": "2026-03-29T18:00:00Z",
+        "e": "2026-03-29T19:20:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "RERUN DEBIT",
+        "s": "2026-03-29T19:20:00Z",
+        "e": "2026-03-29T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "restream"
       },
       {
-        "n": "CHULAS FRONTERAS",
-        "s": "2026-03-29T18:00:00Z",
-        "e": "2026-03-29T19:20:00Z",
+        "n": "RERUN CLM",
+        "s": "2026-03-29T20:00:00Z",
+        "e": "2026-03-29T21:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Henry Sugar – Saccharine Sundays",
@@ -1886,18 +1875,19 @@
         "u": null,
         "t": "weekly",
         "p": "jimmytamborello"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-03-26T07:00:00Z",
-        "e": "2026-03-26T09:00:00Z",
+        "n": "Deepbody – Digi Drift",
+        "s": "2026-04-02T21:00:00Z",
+        "e": "2026-04-02T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "deepbody"
+      }
+    ],
+    "rinse": [
       {
         "n": "Yazmin Lacey",
         "s": "2026-03-26T09:00:00Z",
