@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-26T10:44:13.188Z",
+  "updated": "2026-03-26T12:54:25.750Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GIGI FM presents Shoal",
-        "s": "2026-03-25T22:00:00Z",
-        "e": "2026-03-25T23:00:00Z",
-        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM.\nFrom the host: \"This month GiGi FM welcomes Shoal. A full production ambient journey through motion, growth and tension from the Dutch sound artist and ISOTOOP core member ~ sculptural sound design and inner movement for Aries season’s shifting skies.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-25th-march-2026",
-        "t": "monthly",
-        "p": "gigifm"
-      },
-      {
-        "n": "A LONG STRANGE DREAM W/ BATU",
-        "s": "2026-03-25T23:00:00Z",
-        "e": "2026-03-26T00:00:00Z",
-        "d": "A Long Strange Dream is Batu's latest series which allows him to showcase a selection of music not limited to peak time dancefloors. Expect a deep dive into the crates for an eclectic mix of influences and oddities as you transcend into a collective long strange dream.\nFrom the host: \"loads of new tracks this month! shouts to everyone sending me dubs!\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/a-long-strange-dream-w-batu/episodes/a-long-strange-dream-w-batu-25th-march-2026",
-        "p": "batu"
-      },
       {
         "n": "MOTOR SYSTEM",
         "s": "2026-03-26T00:00:00Z",
@@ -124,9 +105,10 @@
         "n": "SHANTI CELESTE",
         "s": "2026-03-26T13:00:00Z",
         "e": "2026-03-26T15:00:00Z",
-        "d": null,
+        "d": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanticeleste-26th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "SITUATIONSHIP W/ JENNY CARA & BELLA",
@@ -264,29 +246,19 @@
         "j": null,
         "u": null,
         "p": "tashlc"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SCARY THINGS",
+        "s": "2026-03-27T11:00:00Z",
+        "e": "2026-03-27T13:00:00Z",
+        "d": null,
+        "j": "SCARY THINGS",
+        "u": null,
+        "t": "weekly",
+        "p": "scarythings"
       }
     ],
     "nts2": [
-      {
-        "n": "RAHILL",
-        "s": "2026-03-25T21:00:00Z",
-        "e": "2026-03-25T23:00:00Z",
-        "d": "New York based artist and musician Rahill selects a monthly medley of picks from her record collection, rooted in US jazz, with soul, folk and international sounds.\nFrom the host: \"the people united will never be defeated ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rahill/episodes/rahill-25th-march-2026",
-        "t": "monthly",
-        "p": "rahill"
-      },
-      {
-        "n": "No ID Radio: 100% Unreleased w/ Anysia Kym",
-        "s": "2026-03-25T23:00:00Z",
-        "e": "2026-03-26T00:00:00Z",
-        "d": "NYC-based producer, songwriter, and multi-instrumentalist Anysia Kym shares a monthly compilation of her favourite tracks, right now and of all time; she flips a song of her choice at the start of each hour-long episode.\nFrom the host: \"As a way to celebrate the return of NO ID RADIO, this episode is made up entirely of submitted unreleased tracks from listeners of the show, as well as unreleased tracks from my guest picks: duendita and DORIS (Frank Dorrey). Thanks to everyone who submitted, and for trusting me with your music.\"",
-        "j": "Anysia Kym",
-        "u": "https://www.nts.live/api/v2/shows/anysia-kym/episodes/anysia-kym-25th-march-2026",
-        "t": "monthly",
-        "p": "anysiakym"
-      },
       {
         "n": "SIC RECORDS",
         "s": "2026-03-26T00:00:00Z",
@@ -389,12 +361,21 @@
         "p": "ashleywales"
       },
       {
+        "n": "DIMENSION DOOR: FAARHAEVEN (R)",
+        "s": "2026-03-26T12:00:00Z",
+        "e": "2026-03-26T13:00:00Z",
+        "d": "Occult tapes plundered by two low level scavengers: the finest dungeon synth, medieval dark ambient & black metal.",
+        "j": "FAARHAEVEN",
+        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-24th-april-2025",
+        "t": "restream"
+      },
+      {
         "n": "THE NUMERO GROUP - Space Jams",
         "s": "2026-03-26T13:00:00Z",
         "e": "2026-03-26T14:00:00Z",
-        "d": null,
+        "d": "Chicago-based archival record label, The Numero Group, host a deep-digging once a month show. Expect comprehensive round ups from their crates, picking out the best old music and reissues, as well as some jubilant nerdy record chat.",
         "j": "Space Jams",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/radio-free-numero/episodes/radio-free-numero-26th-march-2026",
         "t": "monthly"
       },
       {
@@ -423,6 +404,16 @@
         "j": null,
         "u": null,
         "p": "desirepaths"
+      },
+      {
+        "n": "HEAVEN AND EARTH MAGIC W/ JOCELYN ROMO (R)",
+        "s": "2026-03-26T17:00:00Z",
+        "e": "2026-03-26T18:00:00Z",
+        "d": null,
+        "j": "JOCELYN ROMO",
+        "u": null,
+        "t": "restream",
+        "p": "jocelynromo"
       },
       {
         "n": "SMITHSONIAN FOLKWAYS - The Metal Show",
@@ -531,25 +522,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Judder Show ",
-        "s": "2026-03-25T22:00:00Z",
-        "e": "2026-03-25T23:00:00Z",
-        "d": "Oddkut is a producer & DJ hailing from Balakovo City, Russia. He's part of the Russian collective \"United Gang\" who are a Moscow-based community of local musicians, DJ's and promoters teamed up by their genuine love & interest in UK underground music, \"TAЭT VREMYA\" art group and the creator of the Moscow parties \"Judder\".",
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Riska",
-        "s": "2026-03-25T23:00:00Z",
-        "e": "2026-03-26T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "riska"
-      },
       {
         "n": "Saga Sonica 22 w/ Ununu",
         "s": "2026-03-26T00:00:00Z",
@@ -1380,18 +1352,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Francis Inferno Orchestra - Hardcore Positive",
-        "s": "2026-03-25T21:00:00Z",
-        "e": "2026-03-25T23:00:00Z",
+        "n": "Arriba",
+        "s": "2026-04-02T11:00:00Z",
+        "e": "2026-04-02T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "francisinfernoorchestra"
+        "t": "monthly"
       },
+      {
+        "n": "QUIN-B",
+        "s": "2026-04-02T12:00:00Z",
+        "e": "2026-04-02T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Tottie - Across the Pond",
         "s": "2026-03-25T23:00:00Z",
@@ -1461,6 +1442,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-26T12:00:00Z",
         "e": "2026-03-26T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-26T14:00:00Z",
+        "e": "2026-03-26T15:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1882,29 +1872,6 @@
     ],
     "rinse": [
       {
-        "n": "1985 Music",
-        "s": "2026-03-25T22:00:00Z",
-        "e": "2026-03-25T23:00:00Z",
-        "d": null,
-        "j": "Submarine",
-        "u": null,
-        "t": "biweekly",
-        "p": "1985music",
-        "ap": [
-          "submarine"
-        ]
-      },
-      {
-        "n": "The North Quarter",
-        "s": "2026-03-25T23:00:00Z",
-        "e": "2026-03-26T00:00:00Z",
-        "d": null,
-        "j": "Meme Gold",
-        "u": null,
-        "t": "biweekly",
-        "p": "thenorthquarter"
-      },
-      {
         "n": "unknown - untitled",
         "s": "2026-03-26T00:00:00Z",
         "e": "2026-03-26T01:00:00Z",
@@ -2220,15 +2187,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-25T20:00:00Z",
-        "e": "2026-03-25T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-03-25T23:00:00Z",
