@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-26T06:58:55.823Z",
+  "updated": "2026-03-26T08:43:50.807Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Josh Tweek",
-        "s": "2026-03-25T18:00:00Z",
-        "e": "2026-03-25T19:00:00Z",
-        "d": "The snack enthusiast and London based producer and DJ takes on the NTS airwaves. Stay tuned for mixes spanning the breadth of dance and club music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/peach/episodes/peach-25th-march-2026"
-      },
-      {
-        "n": "MINA w/ Maganda Shakul",
-        "s": "2026-03-25T19:00:00Z",
-        "e": "2026-03-25T20:00:00Z",
-        "d": "All the biggest bangers from around the world with Mina and guests every month.\nFrom the host: \"This month I've got lots of new and unreleased music from myself + Styn, Bryte, Roska, L-Vis 1990 & Surreal Sessions. Plus a guestmix from Maganda Shakul, a producer and percussionist from Uganda, who is pioneering his own Bakisimbatronics sound.\"",
-        "j": "Maganda Shakul",
-        "u": "https://www.nts.live/api/v2/shows/mina/episodes/mina-25th-march-2026",
-        "t": "monthly",
-        "p": "mina"
-      },
       {
         "n": "MARTELO",
         "s": "2026-03-25T20:00:00Z",
@@ -71,7 +53,7 @@
         "n": "La Mano w/ Lechuga Zafiro",
         "s": "2026-03-26T01:00:00Z",
         "e": "2026-03-26T02:00:00Z",
-        "d": "Uruguay DJ, producer and sound designer Lechuga Zafiro presents “La Mano” (The Hand). It is an ode to the creative hands of the world. Hands that translate ideas and modify sound: hit the drum, touch the knobs, excite the strings. “La Mano” is always recorded live on CDJS and DJMs. Five fingers for rhythm, texture, weirdness, acoustic phenomena and sabor. Five fingers for each stroke of “La Clave”.\nFrom the host: \"La Mano comes back to club music. Heavy intervention on the 3 decks and the mixer. Sabrosa dance music with a pinch of weirdness. Unreleased stuff and upcoming releases from friends + some not so oldies.\"",
+        "d": "Uruguay DJ, producer and sound designer Lechuga Zafiro presents “La Mano” (The Hand). It is an ode to the creative hands of the world. Hands that translate ideas and modify sound: hit the drum, touch the knobs, excite the strings. ��La Mano” is always recorded live on CDJS and DJMs. Five fingers for rhythm, texture, weirdness, acoustic phenomena and sabor. Five fingers for each stroke of “La Clave”.\nFrom the host: \"La Mano comes back to club music. Heavy intervention on the 3 decks and the mixer. Sabrosa dance music with a pinch of weirdness. Unreleased stuff and upcoming releases from friends + some not so oldies.\"",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/lechuga-zafiro/episodes/lechuga-zafiro-26th-march-2026"
       },
@@ -141,9 +123,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-03-26T09:00:00Z",
         "e": "2026-03-26T11:00:00Z",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-26th-march-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -282,29 +264,18 @@
         "u": null,
         "t": "restream",
         "p": "sophiazhuravkova"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "s": "2026-03-27T07:00:00Z",
+        "e": "2026-03-27T09:00:00Z",
+        "d": null,
+        "j": "JACK ROLLO",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "Rio Doce",
-        "s": "2026-03-25T17:00:00Z",
-        "e": "2026-03-25T19:00:00Z",
-        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.\nFrom the host: \"Episode produced in the interior of Chapada Diamantina, a sacred land within the state of Bahia. A deep immersion in rivers rich in iron and crystals.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-25th-march-2026",
-        "t": "monthly",
-        "p": "riodoce"
-      },
-      {
-        "n": "Amarillo on Everything w/ Hayden Pedigo",
-        "s": "2026-03-25T19:00:00Z",
-        "e": "2026-03-25T20:00:00Z",
-        "d": "Guitarist and Amarillo native Hayden Pedigo takes you on a roadtrip through the Texas panhandle, sharing prog, country, and instrumental guitar favorites.",
-        "j": "Hayden Pedigo",
-        "u": "https://www.nts.live/api/v2/shows/hayden-pedigo/episodes/hayden-pedigo-25th-march-2026",
-        "t": "monthly",
-        "p": "haydenpedigo"
-      },
       {
         "n": "SÉANCE CENTRE w/ Fantasy in Orbit",
         "s": "2026-03-25T20:00:00Z",
@@ -409,9 +380,9 @@
         "n": "Shukai (R)",
         "s": "2026-03-26T09:00:00Z",
         "e": "2026-03-26T10:00:00Z",
-        "d": null,
+        "d": "A unique dip into the musical history of Ukraine with archival label Shukai, journeying back to the ‘90s, playing music from documentaries, sci-fi films, obscure cartoons and late-night music programming, curated by Dmytro Nikolaienko, Dmytro Prutkin and Alec Tsapenko.\nFrom the host: \"Step inside the sonic laboratory of Soviet Ukraine’s Kyivnaukfilm (Eng: Kyiv Science Film, active years 1941-1993) studio — a workshop where composers and sound designers crafted scores for documentary, science, education, and animation films. From eerie synth textures to inventive tape collages, these rare recordings (1967–1990) reveal a secret world of avant-garde music created under censorship yet brimming with experiments.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/shukai/episodes/shukai-24th-september-2025",
         "t": "restream",
         "p": "shukai"
       },
@@ -547,28 +518,17 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "CDMX Tapes w/ BRVVS & BASY TROPIKALNE",
+        "s": "2026-03-27T03:00:00Z",
+        "e": "2026-03-27T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "PCKRNG & THT GRL",
-        "s": "2026-03-25T18:00:00Z",
-        "e": "2026-03-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Ezra",
-        "s": "2026-03-25T19:00:00Z",
-        "e": "2026-03-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "ezra"
-      },
       {
         "n": "inner; Outer w/ c_h_l__o_e",
         "s": "2026-03-25T20:00:00Z",
@@ -1410,17 +1370,18 @@
         "u": null,
         "t": "monthly",
         "p": "lauden"
+      },
+      {
+        "n": " In The Rotation w/ Su",
+        "s": "2026-04-02T08:00:00Z",
+        "e": "2026-04-02T09:00:00Z",
+        "d": null,
+        "j": "Su",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "dublab": [
-      {
-        "n": "Jerry Paper – guest session",
-        "s": "2026-03-25T17:00:00Z",
-        "e": "2026-03-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Jennifer Herrema and Kurt Midness - The Banana Question",
         "s": "2026-03-25T19:00:00Z",
@@ -1494,6 +1455,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-26T08:00:00Z",
         "e": "2026-03-26T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-26T10:00:00Z",
+        "e": "2026-03-26T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1915,26 +1885,6 @@
     ],
     "rinse": [
       {
-        "n": "Buckley",
-        "s": "2026-03-25T18:00:00Z",
-        "e": "2026-03-25T19:00:00Z",
-        "d": null,
-        "j": "D&B Special",
-        "u": null,
-        "t": "monthly",
-        "p": "buckley"
-      },
-      {
-        "n": "Saint Ludo",
-        "s": "2026-03-25T19:00:00Z",
-        "e": "2026-03-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "saintludo"
-      },
-      {
         "n": "Taiki Nulight",
         "s": "2026-03-25T20:00:00Z",
         "e": "2026-03-25T22:00:00Z",
@@ -2283,25 +2233,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Roulita",
-        "s": "2026-03-25T18:00:00Z",
-        "e": "2026-03-25T19:00:00Z",
-        "d": null,
-        "j": "invite KEROSENE",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "To Van Kao",
-        "s": "2026-03-25T19:00:00Z",
-        "e": "2026-03-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "tovankao"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-03-25T20:00:00Z",
         "e": "2026-03-25T23:00:00Z",
@@ -2329,9 +2260,92 @@
         "t": "playlist"
       },
       {
-        "n": "Playlist France",
+        "n": "TONAK.fm",
         "s": "2026-03-26T13:00:00Z",
-        "e": "2026-03-26T14:00:00Z",
+        "e": "2026-03-26T15:00:00Z",
+        "d": null,
+        "j": ": Music For The Soul #16 (Better Days w/ Matteo)",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Naomi",
+        "s": "2026-03-26T15:00:00Z",
+        "e": "2026-03-26T16:00:00Z",
+        "d": null,
+        "j": "invite 15 15",
+        "u": null,
+        "t": "weekly",
+        "p": "naomi"
+      },
+      {
+        "n": "Kaïlys",
+        "s": "2026-03-26T16:00:00Z",
+        "e": "2026-03-26T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Scarlett",
+        "s": "2026-03-26T17:00:00Z",
+        "e": "2026-03-26T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Roulita",
+        "s": "2026-03-26T18:00:00Z",
+        "e": "2026-03-26T19:00:00Z",
+        "d": null,
+        "j": "invite KEROSENE",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "To Van Kao",
+        "s": "2026-03-26T19:00:00Z",
+        "e": "2026-03-26T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "tovankao"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-26T20:00:00Z",
+        "e": "2026-03-26T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-26T23:00:00Z",
+        "e": "2026-03-27T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-27T08:00:00Z",
+        "e": "2026-03-27T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-27T13:00:00Z",
+        "e": "2026-03-27T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2339,16 +2353,16 @@
       },
       {
         "n": "Mohamedream",
-        "s": "2026-03-26T14:00:00Z",
-        "e": "2026-03-26T15:00:00Z",
+        "s": "2026-03-27T14:00:00Z",
+        "e": "2026-03-27T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Dann SSV",
-        "s": "2026-03-26T15:00:00Z",
-        "e": "2026-03-26T16:00:00Z",
+        "s": "2026-03-27T15:00:00Z",
+        "e": "2026-03-27T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2356,8 +2370,8 @@
       },
       {
         "n": "Boukan Records",
-        "s": "2026-03-26T16:00:00Z",
-        "e": "2026-03-26T17:00:00Z",
+        "s": "2026-03-27T16:00:00Z",
+        "e": "2026-03-27T17:00:00Z",
         "d": null,
         "j": "Bamao Yendé B2B Ange Paradiz",
         "u": null,
@@ -2366,8 +2380,8 @@
       },
       {
         "n": "Ohjeelo",
-        "s": "2026-03-26T17:00:00Z",
-        "e": "2026-03-26T18:00:00Z",
+        "s": "2026-03-27T17:00:00Z",
+        "e": "2026-03-27T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2375,8 +2389,8 @@
       },
       {
         "n": "rougail space program",
-        "s": "2026-03-26T18:00:00Z",
-        "e": "2026-03-26T19:00:00Z",
+        "s": "2026-03-27T18:00:00Z",
+        "e": "2026-03-27T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2384,8 +2398,8 @@
       },
       {
         "n": "ASIAN CORE",
-        "s": "2026-03-26T19:00:00Z",
-        "e": "2026-03-26T20:00:00Z",
+        "s": "2026-03-27T19:00:00Z",
+        "e": "2026-03-27T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2393,8 +2407,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-03-26T20:00:00Z",
-        "e": "2026-03-26T21:00:00Z",
+        "s": "2026-03-27T20:00:00Z",
+        "e": "2026-03-27T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
