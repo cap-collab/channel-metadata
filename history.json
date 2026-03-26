@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-03-26T01:26:36.573Z",
+  "updated": "2026-03-26T04:26:36.269Z",
   "stations": {
     "nts1": [
       {
@@ -4401,7 +4401,8 @@
         "d": "Radio Jiro is the two hour show of artist Jiro Bevis, every 4 weeks, Monday 2-4pm. The show features a wide variety of sounds from across the globe with previous specials covering themes such as Meditation, Italian, UK punk, Japanese Techno-Pop, Library and French.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/radio-jiro/episodes/radio-jiro-7th-november-2025",
-        "t": "restream"
+        "t": "restream",
+        "p": "radiojiro"
       },
       {
         "n": "PUM PUM POWER HOUR W/ LIL C",
@@ -5204,6 +5205,15 @@
         "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-25th-march-2026",
         "t": "weekly",
         "p": "shyone"
+      },
+      {
+        "n": "Radio Jiro",
+        "s": "2026-03-25T13:00:00Z",
+        "e": "2026-03-25T15:00:00Z",
+        "d": "Radio Jiro is the two hour show of artist Jiro Bevis, every 4 weeks, Monday 2-4pm. The show features a wide variety of sounds from across the globe with previous specials covering themes such as Meditation, Italian, UK punk, Japanese Techno-Pop, Library and French.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/radio-jiro/episodes/radio-jiro-25th-march-2026",
+        "p": "radiojiro"
       }
     ],
     "nts2": [
@@ -7186,7 +7196,8 @@
         "e": "2026-02-26T12:00:00Z",
         "d": "Westward Ho! - Ashley Wales playing all things classical with a special focus on music from the 20th and 21st century.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ashley-wales/episodes/ashley-wales-26th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/ashley-wales/episodes/ashley-wales-26th-february-2026",
+        "p": "ashleywales"
       },
       {
         "n": "Conrad Standish",
@@ -11481,6 +11492,33 @@
         "d": "Off-centre rhythms, muted electronics & slick modern compositions in a monthly missive from the Bristolian psych-rock jammers…",
         "j": "more eaze",
         "u": "https://www.nts.live/api/v2/shows/tara-clerkin-trio/episodes/tara-clerkin-trio-25th-march-2026",
+        "t": "monthly"
+      },
+      {
+        "n": "Mil Townley",
+        "s": "2026-03-25T13:00:00Z",
+        "e": "2026-03-25T14:00:00Z",
+        "d": "Bimonthly radio hour taking you down various musical rabbit holes. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/no-one-radio/episodes/no-one-radio-25th-march-2026",
+        "t": "monthly"
+      },
+      {
+        "n": "HIGH JAZZ* W/ ILL DUBIO",
+        "s": "2026-03-25T14:00:00Z",
+        "e": "2026-03-25T15:00:00Z",
+        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.\nFrom the host: \"Harvest for the World\"",
+        "j": "ILL DUBIO",
+        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-25th-march-2026",
+        "t": "monthly"
+      },
+      {
+        "n": "ARUSHI JAIN - Live at Nowadays (Technowruz)",
+        "s": "2026-03-25T15:00:00Z",
+        "e": "2026-03-25T16:00:00Z",
+        "d": "All-genre NTS monthly by New York–based, New Delhi–born Arushi Jain fka modularprincess\nFrom the host: \"I recorded this DJ set live at Nowadays in NYC for the celebration of Nowruz, the ancient Persian New Year. I explored Persian classical strings, devotional voices (Hossein Alizadeh, Mahsa Vahdat, Hossein Omoumi), Armenian duduk, Indian raga, and Egyptian song with club-adjacent texture & bass.\"",
+        "j": "Live at Nowadays (Technowruz)",
+        "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-25th-march-2026",
         "t": "monthly"
       }
     ],
@@ -17984,6 +18022,36 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Kon Radd",
+        "s": "2026-03-25T13:00:00Z",
+        "e": "2026-03-25T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "konradd"
+      },
+      {
+        "n": "bin",
+        "s": "2026-03-25T14:00:00Z",
+        "e": "2026-03-25T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bin"
+      },
+      {
+        "n": "Baked Biscuit",
+        "s": "2026-03-25T15:00:00Z",
+        "e": "2026-03-25T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bakedbiscuit"
       }
     ],
     "dublab": [
@@ -22406,6 +22474,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-25T11:00:00Z",
         "e": "2026-03-25T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-25T13:00:00Z",
+        "e": "2026-03-25T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -27585,6 +27662,25 @@
         "u": null,
         "t": "weekly",
         "p": "eclecticist"
+      },
+      {
+        "n": "DJ Neptizzle",
+        "s": "2026-03-25T13:00:00Z",
+        "e": "2026-03-25T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "neptizzle"
+      },
+      {
+        "n": "Jasper James",
+        "s": "2026-03-25T14:00:00Z",
+        "e": "2026-03-25T15:00:00Z",
+        "d": null,
+        "j": "Kairogen",
+        "u": null,
+        "t": "monthly",
+        "p": "jasperjames"
       }
     ],
     "rinsefr": [
@@ -30491,6 +30587,25 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "TONAK.fm",
+        "s": "2026-03-25T13:00:00Z",
+        "e": "2026-03-25T15:00:00Z",
+        "d": null,
+        "j": ": Music For The Soul #16 (Better Days w/ Matteo)",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Naomi",
+        "s": "2026-03-25T15:00:00Z",
+        "e": "2026-03-25T16:00:00Z",
+        "d": null,
+        "j": "invite 15 15",
+        "u": null,
+        "t": "biweekly",
+        "p": "naomi"
       }
     ],
     "newtown": []
