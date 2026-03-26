@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-26T16:53:41.861Z",
+  "updated": "2026-03-26T18:54:39.169Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Maria Somerville (R)",
-        "s": "2026-03-26T04:00:00Z",
-        "e": "2026-03-26T05:00:00Z",
-        "d": "Irish avant pop artist Maria Somerville traverses heady concepts through classic pop, ambient, experimental, spoken word, & field recordings - now hosted ever morning for the NTS Breakfast Show here.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/maria-somerville/episodes/maria-somerville-26th-august-2020",
-        "t": "restream",
-        "p": "mariasomerville"
-      },
       {
         "n": "Doing Time (R)",
         "s": "2026-03-26T05:00:00Z",
@@ -92,17 +82,17 @@
         "n": "The Andrew Thomson Experience",
         "s": "2026-03-26T18:00:00Z",
         "e": "2026-03-26T19:00:00Z",
-        "d": null,
+        "d": "International party starters from Huntleys + Palmers label head.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/andrew-thomson-26th-march-2026"
       },
       {
         "n": "TED DRAWS",
         "s": "2026-03-26T19:00:00Z",
         "e": "2026-03-26T20:00:00Z",
-        "d": null,
+        "d": "Hip-hop scholar, esteemed illustrator and all round head Ted Draws holds down a killer 2 hour monthly slot on Thursday afternoons.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/TED-DRAWS/episodes/ted-draws-26th-march-2026",
         "t": "monthly",
         "p": "teddraws"
       },
@@ -149,6 +139,15 @@
         "j": null,
         "u": null,
         "p": "kampire"
+      },
+      {
+        "n": "PRÍNCIPE W/ DJ LYCOX (R)",
+        "s": "2026-03-27T03:00:00Z",
+        "e": "2026-03-27T04:00:00Z",
+        "d": null,
+        "j": "DJ LYCOX",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "ASHER G'S CARIBBEAN MEMORIES (R)",
@@ -232,28 +231,18 @@
         "j": null,
         "u": null,
         "p": "courtesy"
+      },
+      {
+        "n": "SKEE MASK",
+        "s": "2026-03-27T16:00:00Z",
+        "e": "2026-03-27T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "skeemask"
       }
     ],
     "nts2": [
-      {
-        "n": "Timetable w/ Nosaj Thing (R)",
-        "s": "2026-03-26T04:00:00Z",
-        "e": "2026-03-26T05:00:00Z",
-        "d": "Timetable Records - LA based label founded by Nosaj Thing releasing left field movements in dance, experimental, and electronic music.",
-        "j": "Nosaj Thing",
-        "u": "https://www.nts.live/api/v2/shows/timetable/episodes/timetable-25th-february-2026",
-        "t": "restream",
-        "p": "timetable"
-      },
-      {
-        "n": "Otaku: Neon Genesis Evangelion (R)",
-        "s": "2026-03-26T05:00:00Z",
-        "e": "2026-03-26T06:00:00Z",
-        "d": "Soundtrack moments from Hidetaki Anno's anime masterwork Neon Genesis Evangelion.",
-        "j": "Neon Genesis Evangelion",
-        "u": "https://www.nts.live/api/v2/shows/otaku/episodes/otaku-neon-genesis-evangelion-12th-august-2025",
-        "t": "restream"
-      },
       {
         "n": "King Britt Presents: Transmissions (R)",
         "s": "2026-03-26T06:00:00Z",
@@ -360,17 +349,17 @@
         "n": "SMITHSONIAN FOLKWAYS - The Metal Show",
         "s": "2026-03-26T18:00:00Z",
         "e": "2026-03-26T19:00:00Z",
-        "d": null,
+        "d": "Regular hours from the D.C. archivists and record label, famed for uncovering + documenting folk and global traditional music. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/smithsonian-folkways/episodes/smithsonian-folkways-26th-march-2026"
       },
       {
         "n": "Temporal Cove w/ Model/Actriz",
         "s": "2026-03-26T19:00:00Z",
         "e": "2026-03-26T20:00:00Z",
-        "d": null,
+        "d": "Where the wall meets the floor, Temporal Cove is a body of sound exploring the ethereal and ephemeral. Smilegoth dives into shoegaze, post-rock, house and more to articulate a flow of reverberations that can be felt on every surface.\nFrom the host: \"smilegoth invites one of her favorite bands, Model/Actriz for a 1 hour guest mix on Temporal Cove. Ruben and Jack from Model/Actriz dig through their favorite live(ish) drum recordings.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/temporal-cove/episodes/temporal-cove-26th-march-2026",
         "p": "temporalcove"
       },
       {
@@ -490,6 +479,15 @@
         "p": "clairerousay"
       },
       {
+        "n": "In Focus: Juana Molina",
+        "s": "2026-03-27T11:00:00Z",
+        "e": "2026-03-27T13:00:00Z",
+        "d": null,
+        "j": "Juana Molina",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
         "n": "FERVENT MOON",
         "s": "2026-03-27T13:00:00Z",
         "e": "2026-03-27T14:00:00Z",
@@ -497,6 +495,14 @@
         "j": null,
         "u": null,
         "p": "ferventmoon"
+      },
+      {
+        "n": "RUSIA-IDK",
+        "s": "2026-03-27T14:00:00Z",
+        "e": "2026-03-27T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -1347,27 +1353,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Darz (Percy Digs)",
+        "s": "2026-04-02T17:00:00Z",
+        "e": "2026-04-02T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "B-Say",
+        "s": "2026-04-02T18:00:00Z",
+        "e": "2026-04-02T19:00:00Z",
+        "d": "DJ & Producer, B-Say has been a Subtle resident DJ for over 3 years.\r\n\r\nHis radio shows tend to focus on the 140 bass music scene and aims to showcase unreleased/forthcoming music from upcoming artists, as well as premiering his own unreleased material. \r\n\r\nMore recently B-Say has ventured out from solely DJ'ing Dubstep, with his bi-monthly 'Dub & Steppers Show' which he uses to premier his own productions.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Father/Daughter Funk Hour",
-        "s": "2026-03-26T03:00:00Z",
-        "e": "2026-03-26T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Change of Heart",
-        "s": "2026-03-26T05:00:00Z",
-        "e": "2026-03-26T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-03-26T06:00:00Z",
@@ -1834,18 +1840,19 @@
         "j": null,
         "u": null,
         "t": "weekly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Electronic Playlist",
-        "s": "2026-03-26T03:00:00Z",
-        "e": "2026-03-26T06:00:00Z",
+        "n": "Dustin Wong – Why Did Why Did Why Did",
+        "s": "2026-04-02T17:00:00Z",
+        "e": "2026-04-02T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "dustinwong"
+      }
+    ],
+    "rinse": [
       {
         "n": "Jumbi",
         "s": "2026-03-26T06:00:00Z",
@@ -2077,28 +2084,18 @@
       {
         "n": "Shuffle 'n' Swing",
         "s": "2026-03-27T16:00:00Z",
-        "e": "2026-03-27T18:00:00Z",
+        "e": "2026-03-27T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "Heras Records",
-        "s": "2026-03-27T18:00:00Z",
-        "e": "2026-03-27T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "herasrecords"
-      },
-      {
         "n": "Biianco",
         "s": "2026-03-27T20:00:00Z",
         "e": "2026-03-27T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "SILICA [SiO₂]",
         "u": null,
         "t": "monthly",
         "p": "biianco"
@@ -2108,7 +2105,7 @@
         "s": "2026-03-27T22:00:00Z",
         "e": "2026-03-27T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "PROPER SILLY TUNES",
         "u": null,
         "t": "biweekly",
         "p": "ijordan"
