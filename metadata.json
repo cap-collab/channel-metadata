@@ -1,25 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-27T01:26:14.113Z",
+  "updated": "2026-03-27T04:27:15.740Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SHANTI CELESTE",
-        "s": "2026-03-26T13:00:00Z",
-        "e": "2026-03-26T15:00:00Z",
-        "d": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanticeleste-26th-march-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "SITUATIONSHIP W/ JENNY CARA & BELLA",
-        "s": "2026-03-26T15:00:00Z",
-        "e": "2026-03-26T16:00:00Z",
-        "d": "Zurich-based Jenny Cara brings the heat with a blend of cheerful and hard-hitting house, creating a space that celebrates community, history, and pure energy.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jenny-cara/episodes/jenny-cara-26th-march-2026"
-      },
       {
         "n": "OK WILLIAMS",
         "s": "2026-03-26T16:00:00Z",
@@ -81,7 +64,8 @@
         "e": "2026-03-27T00:00:00Z",
         "d": "In an era of everything at once, Gabrielle Kwarteng is a DJ who weaves stories that often look to the past, while always focusing on possible futures. Dip in to hear a range of dance music from downtempo to deep house to techno rollers - and everything in between. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gabrielle-kwarteng/episodes/gabrielle-kwarteng-26th-march-2026"
+        "u": "https://www.nts.live/api/v2/shows/gabrielle-kwarteng/episodes/gabrielle-kwarteng-26th-march-2026",
+        "p": "gabriellekwarteng"
       },
       {
         "n": "MOBBS",
@@ -115,18 +99,18 @@
         "n": "ASHER G'S CARIBBEAN MEMORIES (R)",
         "s": "2026-03-27T04:00:00Z",
         "e": "2026-03-27T05:00:00Z",
-        "d": null,
+        "d": "Classic Jamaican records from the \"Rocksteady Daddy\" Asher G.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/asher-g/episodes/asher-g-9th-march-2025",
         "t": "restream"
       },
       {
         "n": "ZEL ZELE W Ecevit & Jengiz (R)",
         "s": "2026-03-27T05:00:00Z",
         "e": "2026-03-27T06:00:00Z",
-        "d": null,
+        "d": "London & Istanbul based record label Zel Zele takes us on a monthly ride to earthly wonders and cosmic adventures. Bite the lip take the trip!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zel-zele/episodes/zel-zele-3rd-january-2024",
         "t": "restream",
         "p": "zelzele"
       },
@@ -247,36 +231,38 @@
         "j": null,
         "u": null,
         "p": "brbko"
+      },
+      {
+        "n": "Spaces In Between w/ Introspekt",
+        "s": "2026-03-27T23:00:00Z",
+        "e": "2026-03-28T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "introspekt"
+      },
+      {
+        "n": "COOKING W/ PALMS TRAX (R)",
+        "s": "2026-03-28T02:00:00Z",
+        "e": "2026-03-28T04:00:00Z",
+        "d": null,
+        "j": "PALMS TRAX",
+        "u": null,
+        "t": "restream",
+        "p": "palmstrax"
+      },
+      {
+        "n": "Lee Gamble (R)",
+        "s": "2026-03-28T04:00:00Z",
+        "e": "2026-03-28T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "leegamble"
       }
     ],
     "nts2": [
-      {
-        "n": "THE NUMERO GROUP - Space Jams",
-        "s": "2026-03-26T13:00:00Z",
-        "e": "2026-03-26T14:00:00Z",
-        "d": "Chicago-based archival record label, The Numero Group, host a deep-digging once a month show. Expect comprehensive round ups from their crates, picking out the best old music and reissues, as well as some jubilant nerdy record chat.",
-        "j": "Space Jams",
-        "u": "https://www.nts.live/api/v2/shows/radio-free-numero/episodes/radio-free-numero-26th-march-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "RUM PUNCH W/ DANNY FITZGERALD",
-        "s": "2026-03-26T14:00:00Z",
-        "e": "2026-03-26T15:00:00Z",
-        "d": "Danny Fitzgerald joins us for an hour of tropical oldies from the Caribbean, Latin America, West Africa, and beyond.\nFrom the host: \"Includes special listener requests to commemorate the final edition of the Rum Punch show.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rum-punch-w-danny-fitzgerald/episodes/rum-punch-w-danny-fitzgerald-19th-march-2026"
-      },
-      {
-        "n": "TOM FURSE",
-        "s": "2026-03-26T15:00:00Z",
-        "e": "2026-03-26T16:00:00Z",
-        "d": "Tom Furse is a musician and compiler - searching out the spaces in between genres - tune in for all things wonky; an education in spacious sound and dusted soul.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tom-furse/episodes/tom-furse-26th-march-2026",
-        "t": "monthly",
-        "p": "tomfurse"
-      },
       {
         "n": "DESIRE PATHS W/ LAURA GROVES",
         "s": "2026-03-26T16:00:00Z",
@@ -378,17 +364,17 @@
         "n": "CDMX Tapes w/ BRVVS & BASY TROPIKALNE",
         "s": "2026-03-27T03:00:00Z",
         "e": "2026-03-27T05:00:00Z",
-        "d": null,
+        "d": "Mexican record label, Naafi, settle in at NTS for a showcase of the weirdest experimentations in club culture that have bubbled to the surface of Soundcloud. Dazed rhythms converging into Jersey stutters, and tumblr-era trap for two straight hours on a Monday.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/naafi/episodes/naafi-26th-march-2026"
       },
       {
         "n": "Word of Command (R)",
         "s": "2026-03-27T05:00:00Z",
         "e": "2026-03-27T06:00:00Z",
-        "d": null,
+        "d": "DJ, artist and techno impresario, Word of Command welds fevered collage and high-octane techno into a hallucinatory dreamscape. He is the founder of FIST (@funisstilltransgressive), a queer techno party that pays tribute to radical fun, while engaging the visibility of communities of otherness through techno in NYC. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/word-of-command/episodes/word-of-command-17th-september-2025",
         "t": "restream"
       },
       {
@@ -454,7 +440,8 @@
         "e": "2026-03-27T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "rusiaidk"
       },
       {
         "n": "GOOD SONGS w/ THE FEMCELS",
@@ -514,37 +501,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Sacred Space: Spring Special w/ Radha",
+        "s": "2026-03-27T23:00:00Z",
+        "e": "2026-03-28T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Luke Mele (R)",
+        "s": "2026-03-28T00:00:00Z",
+        "e": "2026-03-28T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "lukemele"
       }
     ],
     "subtle": [
-      {
-        "n": "UNTZ",
-        "s": "2026-03-26T13:00:00Z",
-        "e": "2026-03-26T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "ZERO Dijits",
-        "s": "2026-03-26T14:00:00Z",
-        "e": "2026-03-26T15:00:00Z",
-        "d": "\"The calm before summer\"",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "mmmarsh",
-        "s": "2026-03-26T15:00:00Z",
-        "e": "2026-03-26T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "mmmarsh"
-      },
       {
         "n": "Strange Signals",
         "s": "2026-03-26T16:00:00Z",
@@ -642,6 +619,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-27T05:00:00Z",
+        "e": "2026-03-27T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Out of Phase With Sam Ling",
@@ -1367,36 +1353,27 @@
         "u": null,
         "t": "monthly",
         "p": "madilickk"
+      },
+      {
+        "n": "Eclipse w D.N.S",
+        "s": "2026-04-03T02:00:00Z",
+        "e": "2026-04-03T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Pattern Recognition w/ R A L L Y ",
+        "s": "2026-04-03T03:00:00Z",
+        "e": "2026-04-03T04:00:00Z",
+        "d": null,
+        "j": "R A L L Y",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-26T12:00:00Z",
-        "e": "2026-03-26T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-03-26T14:00:00Z",
-        "e": "2026-03-26T15:30:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "LARAAJI and OUT THERE",
-        "s": "2026-03-26T15:30:00Z",
-        "e": "2026-03-26T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Ariella – CryBaby Hour",
         "s": "2026-03-26T16:00:00Z",
@@ -1883,29 +1860,19 @@
         "u": null,
         "t": "monthly",
         "p": "jelly"
+      },
+      {
+        "n": "Moniquea - Jammin' Croquettes",
+        "s": "2026-04-03T03:00:00Z",
+        "e": "2026-04-03T05:00:00Z",
+        "d": null,
+        "j": "Jammin' Croquettes",
+        "u": null,
+        "t": "monthly",
+        "p": "moniquea"
       }
     ],
     "rinse": [
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-03-26T13:00:00Z",
-        "e": "2026-03-26T14:00:00Z",
-        "d": null,
-        "j": "Mike Will Made-It Mix",
-        "u": null,
-        "t": "weekly",
-        "p": "skvibemaker"
-      },
-      {
-        "n": "Keyrah",
-        "s": "2026-03-26T14:00:00Z",
-        "e": "2026-03-26T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "keyrah"
-      },
       {
         "n": "Tom Ravenscroft",
         "s": "2026-03-26T15:00:00Z",
@@ -2237,32 +2204,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Baselitz",
-        "s": "2026-03-26T13:00:00Z",
-        "e": "2026-03-26T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Mohamedream",
-        "s": "2026-03-26T14:00:00Z",
-        "e": "2026-03-26T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Dann SSV",
-        "s": "2026-03-26T15:00:00Z",
-        "e": "2026-03-26T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Boukan Records",
         "s": "2026-03-26T16:00:00Z",
