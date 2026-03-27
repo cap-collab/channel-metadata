@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-27T06:57:56.903Z",
+  "updated": "2026-03-27T08:42:08.389Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Andrew Thomson Experience",
-        "s": "2026-03-26T18:00:00Z",
-        "e": "2026-03-26T19:00:00Z",
-        "d": "International party starters from Huntleys + Palmers label head.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/andrew-thomson-26th-march-2026"
-      },
-      {
-        "n": "TED DRAWS",
-        "s": "2026-03-26T19:00:00Z",
-        "e": "2026-03-26T20:00:00Z",
-        "d": "Hip-hop scholar, esteemed illustrator and all round head Ted Draws holds down a killer 2 hour monthly slot on Thursday afternoons.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/TED-DRAWS/episodes/ted-draws-26th-march-2026",
-        "t": "monthly",
-        "p": "teddraws"
-      },
       {
         "n": "THE TIM & BARRY SHOW w/ Tim b2b DJ spinn & Traxman",
         "s": "2026-03-26T20:00:00Z",
@@ -105,21 +87,20 @@
         "p": "sophiazhuravkova"
       },
       {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & PADDY JAZZ",
         "s": "2026-03-27T07:00:00Z",
         "e": "2026-03-27T09:00:00Z",
         "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": "JACK ROLLO",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-27th-march-2026",
-        "t": "biweekly"
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-27th-march-2026"
       },
       {
         "n": "The NTS Breakfast Show w/ TASH LC",
         "s": "2026-03-27T09:00:00Z",
         "e": "2026-03-27T11:00:00Z",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-tash-lc-27th-march-2026",
         "p": "tashlc"
       },
       {
@@ -259,26 +240,19 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "LUNG DART (R)",
+        "s": "2026-03-28T07:00:00Z",
+        "e": "2026-03-28T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "lungdart"
       }
     ],
     "nts2": [
-      {
-        "n": "SMITHSONIAN FOLKWAYS - The Metal Show",
-        "s": "2026-03-26T18:00:00Z",
-        "e": "2026-03-26T19:00:00Z",
-        "d": "Regular hours from the D.C. archivists and record label, famed for uncovering + documenting folk and global traditional music. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/smithsonian-folkways/episodes/smithsonian-folkways-26th-march-2026"
-      },
-      {
-        "n": "Temporal Cove w/ Model/Actriz",
-        "s": "2026-03-26T19:00:00Z",
-        "e": "2026-03-26T20:00:00Z",
-        "d": "Where the wall meets the floor, Temporal Cove is a body of sound exploring the ethereal and ephemeral. Smilegoth dives into shoegaze, post-rock, house and more to articulate a flow of reverberations that can be felt on every surface.\nFrom the host: \"smilegoth invites one of her favorite bands, Model/Actriz for a 1 hour guest mix on Temporal Cove. Ruben and Jack from Model/Actriz dig through their favorite live(ish) drum recordings.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/temporal-cove/episodes/temporal-cove-26th-march-2026",
-        "p": "temporalcove"
-      },
       {
         "n": "Geologist Presents: The O'Brien System",
         "s": "2026-03-26T20:00:00Z",
@@ -380,9 +354,9 @@
         "n": "LYRA PRAMUK PRESENTS: POP.SOIL (R)",
         "s": "2026-03-27T09:00:00Z",
         "e": "2026-03-27T10:00:00Z",
-        "d": null,
+        "d": "pop.soil is Lyra Pramuk’s bimonthly series exploring catharsis, transformation, and healing through sonic storytelling.\nFrom the host: \"Starting in 1968, Opałka began to supplement the project with recordings of his voice uttering the numbers he was painting at that moment. (…) Opałka planned that at the end of his life, he would reach the number 7777777. He died in 2011, having reached around 5,604,000.\"",
         "j": "POP.SOIL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lyra-pramuk/episodes/lyra-pramuk-16th-december-2025",
         "t": "restream",
         "p": "lyrapramuk"
       },
@@ -517,28 +491,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Kishan",
-        "s": "2026-03-26T18:00:00Z",
-        "e": "2026-03-26T19:00:00Z",
-        "d": "Kishan is a DJ and Producer currently based in London. Actively involved in the music scene already, he produces and mixes a wide range of genres including UK Garage, Drum & Bass, House, Disco and Afrobeat. ",
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Gabriella",
-        "s": "2026-03-26T19:00:00Z",
-        "e": "2026-03-26T20:00:00Z",
+        "n": "EL SABOR DE LA CIUDAD W/ REGAL86",
+        "s": "2026-03-28T04:00:00Z",
+        "e": "2026-03-28T05:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "gabriella"
-      },
+        "p": "regal86"
+      }
+    ],
+    "subtle": [
       {
         "n": "Dub Mantra",
         "s": "2026-03-26T20:00:00Z",
@@ -1364,14 +1328,6 @@
     ],
     "dublab": [
       {
-        "n": "Mobius Acoustics – guest session",
-        "s": "2026-03-26T17:00:00Z",
-        "e": "2026-03-26T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Jimmy Tamborello - Dying Songs",
         "s": "2026-03-26T19:00:00Z",
         "e": "2026-03-26T21:00:00Z",
@@ -1874,24 +1830,6 @@
     ],
     "rinse": [
       {
-        "n": "Maey",
-        "s": "2026-03-26T18:00:00Z",
-        "e": "2026-03-26T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "maey"
-      },
-      {
-        "n": "Chamber45",
-        "s": "2026-03-26T19:00:00Z",
-        "e": "2026-03-26T20:00:00Z",
-        "d": null,
-        "j": "B2B Shiverz",
-        "u": null
-      },
-      {
         "n": "JAEL",
         "s": "2026-03-26T20:00:00Z",
         "e": "2026-03-26T22:00:00Z",
@@ -2185,24 +2123,6 @@
     ],
     "rinsefr": [
       {
-        "n": "rougail space program",
-        "s": "2026-03-26T18:00:00Z",
-        "e": "2026-03-26T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "ASIAN CORE",
-        "s": "2026-03-26T19:00:00Z",
-        "e": "2026-03-26T20:00:00Z",
-        "d": null,
-        "j": "INVITE NESA AZADIKHAH",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-03-26T20:00:00Z",
         "e": "2026-03-26T23:00:00Z",
@@ -2223,7 +2143,97 @@
       {
         "n": "Playlist France",
         "s": "2026-03-27T08:00:00Z",
-        "e": "2026-03-27T11:00:00Z",
+        "e": "2026-03-27T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Baselitz",
+        "s": "2026-03-27T13:00:00Z",
+        "e": "2026-03-27T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Mohamedream",
+        "s": "2026-03-27T14:00:00Z",
+        "e": "2026-03-27T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Dann SSV",
+        "s": "2026-03-27T15:00:00Z",
+        "e": "2026-03-27T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Boukan Records",
+        "s": "2026-03-27T16:00:00Z",
+        "e": "2026-03-27T17:00:00Z",
+        "d": null,
+        "j": "Bamao Yendé B2B Ange Paradiz",
+        "u": null,
+        "t": "biweekly",
+        "p": "boukanrecords"
+      },
+      {
+        "n": "Ohjeelo",
+        "s": "2026-03-27T17:00:00Z",
+        "e": "2026-03-27T18:00:00Z",
+        "d": null,
+        "j": "Bougé Slow",
+        "u": null,
+        "p": "ohjeelo"
+      },
+      {
+        "n": "rougail space program",
+        "s": "2026-03-27T18:00:00Z",
+        "e": "2026-03-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "ASIAN CORE",
+        "s": "2026-03-27T19:00:00Z",
+        "e": "2026-03-27T20:00:00Z",
+        "d": null,
+        "j": "INVITE NESA AZADIKHAH",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-27T20:00:00Z",
+        "e": "2026-03-27T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-27T23:00:00Z",
+        "e": "2026-03-28T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-28T08:00:00Z",
+        "e": "2026-03-28T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2231,8 +2241,8 @@
       },
       {
         "n": "MumBeats",
-        "s": "2026-03-27T11:00:00Z",
-        "e": "2026-03-27T12:00:00Z",
+        "s": "2026-03-28T11:00:00Z",
+        "e": "2026-03-28T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2240,8 +2250,8 @@
       },
       {
         "n": "Sabor A Mi",
-        "s": "2026-03-27T12:00:00Z",
-        "e": "2026-03-27T13:00:00Z",
+        "s": "2026-03-28T12:00:00Z",
+        "e": "2026-03-28T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2250,18 +2260,17 @@
       },
       {
         "n": "To Van Kao",
-        "s": "2026-03-27T13:00:00Z",
-        "e": "2026-03-27T14:00:00Z",
+        "s": "2026-03-28T13:00:00Z",
+        "e": "2026-03-28T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
         "p": "tovankao"
       },
       {
         "n": "Kali Kalité",
-        "s": "2026-03-27T14:00:00Z",
-        "e": "2026-03-27T15:00:00Z",
+        "s": "2026-03-28T14:00:00Z",
+        "e": "2026-03-28T15:00:00Z",
         "d": null,
         "j": "Les femmes noirs dans l’industrie de la musique: Héritages, vols et résistance",
         "u": null,
@@ -2269,8 +2278,8 @@
       },
       {
         "n": "Queer Cult",
-        "s": "2026-03-27T15:00:00Z",
-        "e": "2026-03-27T16:00:00Z",
+        "s": "2026-03-28T15:00:00Z",
+        "e": "2026-03-28T16:00:00Z",
         "d": null,
         "j": "DJ Monique présente Les boss Lady de la musique",
         "u": null,
@@ -2279,8 +2288,8 @@
       },
       {
         "n": "MOMENTUM Highlight",
-        "s": "2026-03-27T16:00:00Z",
-        "e": "2026-03-27T17:00:00Z",
+        "s": "2026-03-28T16:00:00Z",
+        "e": "2026-03-28T17:00:00Z",
         "d": null,
         "j": "International Women's Day Takeover with Shinobihana, Malaureins, Izis, 3msi, Sugar Tantine & 3msi",
         "u": null,
@@ -2288,8 +2297,8 @@
       },
       {
         "n": "Technopol",
-        "s": "2026-03-27T17:00:00Z",
-        "e": "2026-03-27T18:00:00Z",
+        "s": "2026-03-28T17:00:00Z",
+        "e": "2026-03-28T18:00:00Z",
         "d": null,
         "j": "#25 La représentation des FLINTA dans les musiques électroniques",
         "u": null,
@@ -2298,8 +2307,8 @@
       },
       {
         "n": "LeZduA",
-        "s": "2026-03-27T18:00:00Z",
-        "e": "2026-03-27T19:00:00Z",
+        "s": "2026-03-28T18:00:00Z",
+        "e": "2026-03-28T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2307,8 +2316,8 @@
       },
       {
         "n": "renoiterrible",
-        "s": "2026-03-27T19:00:00Z",
-        "e": "2026-03-27T20:00:00Z",
+        "s": "2026-03-28T19:00:00Z",
+        "e": "2026-03-28T20:00:00Z",
         "d": null,
         "j": "& Miss Sheitana invitent Tatiaumiel",
         "u": null,
@@ -2316,8 +2325,8 @@
       },
       {
         "n": "Vanille b2b Tatyana Jane",
-        "s": "2026-03-27T20:00:00Z",
-        "e": "2026-03-27T21:00:00Z",
+        "s": "2026-03-28T20:00:00Z",
+        "e": "2026-03-28T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2328,17 +2337,18 @@
       },
       {
         "n": "Imer6ia",
-        "s": "2026-03-27T21:00:00Z",
-        "e": "2026-03-27T22:00:00Z",
+        "s": "2026-03-28T21:00:00Z",
+        "e": "2026-03-28T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
+        "t": "monthly",
         "p": "imer6ia"
       },
       {
         "n": "Kiala Ogawa",
-        "s": "2026-03-27T22:00:00Z",
-        "e": "2026-03-27T23:00:00Z",
+        "s": "2026-03-28T22:00:00Z",
+        "e": "2026-03-28T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
