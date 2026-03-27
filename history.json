@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-03-26T22:20:25.646Z",
+  "updated": "2026-03-27T01:26:30.346Z",
   "stations": {
     "nts1": [
       {
@@ -5368,6 +5368,25 @@
         "j": "PAM",
         "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-26th-march-2026",
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-03-26T09:00:00Z",
+        "e": "2026-03-26T11:00:00Z",
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
+        "j": "FLO",
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-26th-march-2026",
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-03-26T11:00:00Z",
+        "e": "2026-03-26T13:00:00Z",
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
+        "j": "BABYSCHÖN",
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-26th-march-2026",
+        "t": "biweekly"
       }
     ],
     "nts2": [
@@ -11814,6 +11833,34 @@
         "u": "https://www.nts.live/api/v2/shows/shukai/episodes/shukai-24th-september-2025",
         "t": "restream",
         "p": "shukai"
+      },
+      {
+        "n": "The Uline Catalog w/ Calvin LeCompte (R)",
+        "s": "2026-03-26T10:00:00Z",
+        "e": "2026-03-26T11:00:00Z",
+        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog��",
+        "j": "Calvin LeCompte",
+        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-15th-march-2024",
+        "t": "restream"
+      },
+      {
+        "n": "Westward Ho! w/ Ashley Wales",
+        "s": "2026-03-26T11:00:00Z",
+        "e": "2026-03-26T12:00:00Z",
+        "d": "Westward Ho! - Ashley Wales playing all things classical with a special focus on music from the 20th and 21st century.",
+        "j": "Ashley Wales",
+        "u": "https://www.nts.live/api/v2/shows/ashley-wales/episodes/ashley-wales-26th-march-2026",
+        "t": "monthly",
+        "p": "ashleywales"
+      },
+      {
+        "n": "DIMENSION DOOR: FAARHAEVEN (R)",
+        "s": "2026-03-26T12:00:00Z",
+        "e": "2026-03-26T13:00:00Z",
+        "d": "Occult tapes plundered by two low level scavengers: the finest dungeon synth, medieval dark ambient & black metal.",
+        "j": "FAARHAEVEN",
+        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-24th-april-2025",
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -18495,6 +18542,32 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TRANSISTOR RHYTHMS",
+        "s": "2026-03-26T10:00:00Z",
+        "e": "2026-03-26T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Jordan Scudder",
+        "s": "2026-03-26T11:00:00Z",
+        "e": "2026-03-26T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Brooklyn Loves UKG",
+        "s": "2026-03-26T12:00:00Z",
+        "e": "2026-03-26T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
@@ -23022,6 +23095,15 @@
         "n": "sounds of NOW",
         "s": "2026-03-26T08:00:00Z",
         "e": "2026-03-26T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-26T10:00:00Z",
+        "e": "2026-03-26T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -28349,6 +28431,39 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Yazmin Lacey",
+        "s": "2026-03-26T09:00:00Z",
+        "e": "2026-03-26T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "yazminlacey"
+      },
+      {
+        "n": "Chunky",
+        "s": "2026-03-26T11:00:00Z",
+        "e": "2026-03-26T12:00:00Z",
+        "d": null,
+        "j": "Owen Osapien, Bakey, Hakeem Jr.",
+        "u": null,
+        "t": "biweekly",
+        "p": "bakey",
+        "ap": [
+          "chunky"
+        ]
+      },
+      {
+        "n": "Rollo Jackson",
+        "s": "2026-03-26T12:00:00Z",
+        "e": "2026-03-26T13:00:00Z",
+        "d": null,
+        "j": "Q1 Review",
+        "u": null,
+        "t": "biweekly",
+        "p": "rollojackson"
       }
     ],
     "rinsefr": [
@@ -31325,6 +31440,15 @@
         "n": "Playlist France",
         "s": "2026-03-25T23:00:00Z",
         "e": "2026-03-26T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-03-26T08:00:00Z",
+        "e": "2026-03-26T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
