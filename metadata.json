@@ -1,43 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-03-28T16:23:32.279Z",
+  "updated": "2026-03-28T18:28:35.172Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CHARLIE DARK W/ MOTION",
-        "s": "2026-03-28T16:00:00Z",
-        "e": "2026-03-28T17:00:00Z",
-        "d": "DJ, Run Dem Crew Founder, and community builder Charlie Dark MBE spins gems from his record collection once a month. ",
-        "j": "MOTION",
-        "u": "https://www.nts.live/api/v2/shows/charlie-dark/episodes/charlie-dark-28th-march-2026",
-        "t": "monthly",
-        "p": "charliedark"
-      },
-      {
-        "n": "BAHAMIAN MOOR w/ Reject All",
-        "s": "2026-03-28T17:00:00Z",
-        "e": "2026-03-28T18:00:00Z",
-        "d": "Music will be played once a month.",
-        "j": "Reject All",
-        "u": "https://www.nts.live/api/v2/shows/bahamian-moor/episodes/bahamian-moor-28th-march-2026",
-        "t": "monthly",
-        "p": "bahamianmoor"
-      },
       {
         "n": "MUSIC 4 LOVERS",
         "s": "2026-03-28T18:00:00Z",
         "e": "2026-03-28T19:00:00Z",
-        "d": null,
+        "d": "Jabu and Andy Payback bring us Music 4 Lovers once a month.\nFrom the host: \"A.Childs and guest of Jabu bring you dream-pop, ambient and left field spring equinox type selections\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/music-4-lovers/episodes/music-4-lovers-28th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "Autonomy w/ Serpuline",
         "s": "2026-03-28T19:00:00Z",
         "e": "2026-03-28T20:00:00Z",
-        "d": null,
+        "d": "Prolific new producer Serpuline shares an hour of sounds from themselves, and precious music from friends. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/autonomy-w-serpuline-28th-march-2026"
       },
       {
         "n": "FIELD WORK",
@@ -162,43 +143,45 @@
         "j": null,
         "u": null,
         "p": "basma"
+      },
+      {
+        "n": "A Month of Sundays w/ Bill Spencer",
+        "s": "2026-03-29T17:00:00+01:00",
+        "e": "2026-03-29T18:00:00+01:00",
+        "d": null,
+        "j": "Bill Spencer",
+        "u": null,
+        "t": "biweekly",
+        "p": "billspencer"
+      },
+      {
+        "n": "M00DTAPES (R)",
+        "s": "2026-03-29T18:00:00+01:00",
+        "e": "2026-03-29T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "m00dtapes"
       }
     ],
     "nts2": [
       {
-        "n": "Sounds on Screen: Paul Thomas Anderson",
-        "s": "2026-03-28T15:00:00Z",
-        "e": "2026-03-28T17:00:00Z",
-        "d": "A trip through the sonic worlds of Paul Thomas Anderson – one of the greatest living American film directors. Anderson's films feel unique in the modern day, being relatively high budget stories about adult American lives. The breadth of humanity Anderson depicts spans 19th Century oil prospectors, cult leaders, pornstars, and a miscellany of lost and broken souls – all of their stories suffused with the subtly supernatural and the gravity of fate.",
-        "j": "Paul Thomas Anderson",
-        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-paul-thomas-anderson-25th-march-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "REIMAGINING COUNTRY W/ JAMAL KHADAR",
-        "s": "2026-03-28T17:00:00Z",
-        "e": "2026-03-28T18:00:00Z",
-        "d": "Culture journalist Jamal Khadar takes a trip through country music’s hidden roots and surprising global connections—in search of a more personal, nuanced view of what it means to be a country fan. From African-Country crossovers to Jamaica’s country connection, and the continuous role of Southern Soul in remaking country.\nFrom the host: \"We're back! With Japanese Bluegrass, Bela Fleck's global banjo and  pacific choral polyphony.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/reimagining-country/episodes/reimagining-country-28th-march-2026",
-        "p": "reimaginingcountry"
-      },
-      {
         "n": "BEAU BEAUMONT",
         "s": "2026-03-28T18:00:00Z",
         "e": "2026-03-28T19:00:00Z",
-        "d": null,
+        "d": "Era-spanning techno & experimental sonics from Beau Beaumont",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/beau-beaumont/episodes/beau-beaumont-28th-march-2026",
         "p": "beaubeaumont"
       },
       {
         "n": "DRIZLE.FM W/ PLO MAN & KUDZU AUDIO (R)",
         "s": "2026-03-28T19:00:00Z",
         "e": "2026-03-28T21:00:00Z",
-        "d": null,
+        "d": "forwards and backwards through bits of a [mostly] electronic music timeline. reverence for BCR. records i’ve played forever and new records i’ve just found. boil it down. one z in drizle.",
         "j": "PLO MAN & KUDZU AUDIO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/drizlefm-w-plo-man/episodes/drizlefm-w-plo-man-21st-august-2025",
         "t": "restream"
       },
       {
@@ -332,26 +315,28 @@
         "u": null,
         "t": "restream",
         "p": "saraa"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Tyrant",
-        "s": "2026-03-28T16:00:00Z",
-        "e": "2026-03-28T17:00:00Z",
+        "n": "MARIA SOMERVILLE (R)",
+        "s": "2026-03-29T18:00:00+01:00",
+        "e": "2026-03-29T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream",
+        "p": "mariasomerville"
       },
       {
-        "n": " Panix",
-        "s": "2026-03-28T17:00:00Z",
-        "e": "2026-03-28T18:00:00Z",
+        "n": "SOUNDS OF THE DAWN (R)",
+        "s": "2026-03-29T19:00:00+01:00",
+        "e": "2026-03-29T21:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
-      },
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "DJ SK",
         "s": "2026-03-28T18:00:00Z",
@@ -360,6 +345,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-28T19:00:00Z",
+        "e": "2026-03-28T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Danny Scrilla",
@@ -1040,19 +1034,18 @@
         "u": null,
         "t": "monthly",
         "p": "jon1st"
+      },
+      {
+        "n": "BAGGA BADNIS w/ Joe Joiner",
+        "s": "2026-04-04T17:00:00Z",
+        "e": "2026-04-04T19:00:00Z",
+        "d": null,
+        "j": "Joe Joiner",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
-        "s": "2026-03-28T15:00:00Z",
-        "e": "2026-03-28T17:00:00Z",
-        "d": null,
-        "j": "The Sweeter the Juice",
-        "u": null,
-        "t": "biweekly",
-        "p": "illcamille"
-      },
       {
         "n": "Greg Belson - Divine Chord Gospel Show",
         "s": "2026-03-28T17:00:00Z",
@@ -1518,27 +1511,18 @@
         "j": "JF Chen Radio",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "T-Kay - The Archive of Feelings",
+        "s": "2026-04-04T17:00:00Z",
+        "e": "2026-04-04T19:00:00Z",
+        "d": null,
+        "j": "The Archive of Feelings",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "FIFI",
-        "s": "2026-03-28T16:00:00Z",
-        "e": "2026-03-28T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "fifi"
-      },
-      {
-        "n": "Douvelle19",
-        "s": "2026-03-28T17:00:00Z",
-        "e": "2026-03-28T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "douvelle19"
-      },
       {
         "n": "Cinthie",
         "s": "2026-03-28T18:00:00Z",
@@ -1696,25 +1680,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "MOMENTUM Highlight",
-        "s": "2026-03-28T16:00:00Z",
-        "e": "2026-03-28T17:00:00Z",
-        "d": null,
-        "j": "International Women's Day Takeover with Shinobihana, Malaureins, Izis, 3msi, Sugar Tantine & 3msi",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Technopol",
-        "s": "2026-03-28T17:00:00Z",
-        "e": "2026-03-28T18:00:00Z",
-        "d": null,
-        "j": "#25 La représentation des FLINTA dans les musiques électroniques",
-        "u": null,
-        "t": "biweekly",
-        "p": "technopol"
-      },
       {
         "n": "Le Z du A, Sêhe, S2G & Sanpadre",
         "s": "2026-03-28T18:00:00Z",
