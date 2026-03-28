@@ -1,40 +1,26 @@
 {
   "v": 2,
-  "updated": "2026-03-28T14:24:40.803Z",
+  "updated": "2026-03-28T16:23:32.279Z",
   "stations": {
     "nts1": [
       {
-        "n": "Ali & Charif Megarban",
-        "s": "2026-03-28T14:00:00Z",
-        "e": "2026-03-28T15:00:00Z",
-        "d": "Jakarta trio Ali and Lebanese multi-instrumentalist Charif Megarbane present a medley of music representing the longstanding cultural exchange between Indonesia and the Arab world. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ali-charif-megarban-28th-march-2026"
-      },
-      {
-        "n": "Highlife & Sunshine Show w/ Tryb & ZENA",
-        "s": "2026-03-28T15:00:00Z",
-        "e": "2026-03-28T16:00:00Z",
-        "d": "Music of the sun, a.k.a the tracks your dad used to play on a Saturday afternoon… \nJoin TrYb as she explores West African pop, high life, soukous and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/highlife-sunshine/episodes/highlife-sunshine-28th-march-2026"
-      },
-      {
-        "n": "CHARLIE DARK",
+        "n": "CHARLIE DARK W/ MOTION",
         "s": "2026-03-28T16:00:00Z",
         "e": "2026-03-28T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "DJ, Run Dem Crew Founder, and community builder Charlie Dark MBE spins gems from his record collection once a month. ",
+        "j": "MOTION",
+        "u": "https://www.nts.live/api/v2/shows/charlie-dark/episodes/charlie-dark-28th-march-2026",
+        "t": "monthly",
         "p": "charliedark"
       },
       {
         "n": "BAHAMIAN MOOR w/ Reject All",
         "s": "2026-03-28T17:00:00Z",
         "e": "2026-03-28T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Music will be played once a month.",
+        "j": "Reject All",
+        "u": "https://www.nts.live/api/v2/shows/bahamian-moor/episodes/bahamian-moor-28th-march-2026",
+        "t": "monthly",
         "p": "bahamianmoor"
       },
       {
@@ -155,19 +141,30 @@
         "j": null,
         "u": null,
         "p": "doingtime"
+      },
+      {
+        "n": "PARADISE BANGKOK",
+        "s": "2026-03-29T15:00:00+01:00",
+        "e": "2026-03-29T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "paradise",
+        "ap": [
+          "paradisebangkok"
+        ]
+      },
+      {
+        "n": "KHARTOUM ARRIVALS W/ BASMA",
+        "s": "2026-03-29T16:00:00+01:00",
+        "e": "2026-03-29T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "basma"
       }
     ],
     "nts2": [
-      {
-        "n": "CHARLIE SATSUMAS",
-        "s": "2026-03-28T14:00:00Z",
-        "e": "2026-03-28T15:00:00Z",
-        "d": "Sheffield DJ and NTS regular Charlie Satsumas gets his own slot - an hour of easy peelers every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/charlie-satsumas/episodes/charlie-satsumas-28th-march-2026",
-        "t": "monthly",
-        "p": "charliesatsumas"
-      },
       {
         "n": "Sounds on Screen: Paul Thomas Anderson",
         "s": "2026-03-28T15:00:00Z",
@@ -181,9 +178,9 @@
         "n": "REIMAGINING COUNTRY W/ JAMAL KHADAR",
         "s": "2026-03-28T17:00:00Z",
         "e": "2026-03-28T18:00:00Z",
-        "d": null,
+        "d": "Culture journalist Jamal Khadar takes a trip through country music’s hidden roots and surprising global connections—in search of a more personal, nuanced view of what it means to be a country fan. From African-Country crossovers to Jamaica’s country connection, and the continuous role of Southern Soul in remaking country.\nFrom the host: \"We're back! With Japanese Bluegrass, Bela Fleck's global banjo and  pacific choral polyphony.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/reimagining-country/episodes/reimagining-country-28th-march-2026",
         "p": "reimaginingcountry"
       },
       {
@@ -325,27 +322,19 @@
         "j": "POST PUNK IN DUB",
         "u": null,
         "t": "weekly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Collectors' Cuts",
-        "s": "2026-03-28T14:00:00Z",
-        "e": "2026-03-28T15:00:00Z",
+        "n": "SARA A (R)",
+        "s": "2026-03-29T17:00:00+01:00",
+        "e": "2026-03-29T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "SPD",
-        "s": "2026-03-28T15:00:00Z",
-        "e": "2026-03-28T16:00:00Z",
-        "d": "Midlands born, London based producer and DJ influenced by UK funky, broken techno, garage and early dubstep. \r\n\r\nHas released on Keysound recordings, RKS, eatmybeat, ec2a, Durkle Disco and Dimsum records",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
+        "t": "restream",
+        "p": "saraa"
+      }
+    ],
+    "subtle": [
       {
         "n": "Tyrant",
         "s": "2026-03-28T16:00:00Z",
@@ -1032,18 +1021,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-28T11:00:00Z",
-        "e": "2026-03-28T15:00:00Z",
+        "n": "Big Kani presents Large Language",
+        "s": "2026-04-04T15:00:00Z",
+        "e": "2026-04-04T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Jon1st",
+        "s": "2026-04-04T16:00:00Z",
+        "e": "2026-04-04T17:00:00Z",
+        "d": "Following his widely acclaimed breakout moment winning the 2013 DMC World Online Championships, Jon1st quickly built an international reputation as a ‘DJ’s DJ’. Not only proving himself as one of the world’s most diverse and musical turntablists, Jon also established himself as an on the pulse club DJ mixing across the alternative bass music spectrum and as an in demand live performer around the world, as well as recording acclaimed guest mixes for everyone from DJ Mag to Boiler Room to Ninja Tune’s Solid Steel to Mary Anne Hobbs to Keep Hush.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jon1st"
+      }
+    ],
+    "dublab": [
       {
         "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
         "s": "2026-03-28T15:00:00Z",
@@ -1510,27 +1509,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "RERUN: JF Chen Radio",
+        "s": "2026-04-04T16:00:00Z",
+        "e": "2026-04-04T17:00:00Z",
+        "d": null,
+        "j": "JF Chen Radio",
+        "u": null,
+        "t": "restream"
       }
     ],
     "rinse": [
-      {
-        "n": "Counter Culture with Lion Vibes",
-        "s": "2026-03-28T13:00:00Z",
-        "e": "2026-03-28T15:00:00Z",
-        "d": null,
-        "j": "Frank Black & Jake Miller",
-        "u": null,
-        "p": "counterculture"
-      },
-      {
-        "n": "Lupe Fuentes presents In The Loop",
-        "s": "2026-03-28T15:00:00Z",
-        "e": "2026-03-28T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "lupefuentes"
-      },
       {
         "n": "FIFI",
         "s": "2026-03-28T16:00:00Z",
@@ -1706,25 +1696,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Kali Kalité",
-        "s": "2026-03-28T14:00:00Z",
-        "e": "2026-03-28T15:00:00Z",
-        "d": null,
-        "j": "Les femmes noirs dans l’industrie de la musique: Héritages, vols et résistance",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Queer Cult",
-        "s": "2026-03-28T15:00:00Z",
-        "e": "2026-03-28T16:00:00Z",
-        "d": null,
-        "j": "DJ Monique présente Les boss Lady de la musique",
-        "u": null,
-        "t": "weekly",
-        "p": "queercult"
-      },
       {
         "n": "MOMENTUM Highlight",
         "s": "2026-03-28T16:00:00Z",
