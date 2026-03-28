@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-28T20:20:06.603Z",
+  "updated": "2026-03-28T22:19:52.027Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FIELD WORK",
-        "s": "2026-03-28T20:00:00Z",
-        "e": "2026-03-28T22:00:00Z",
-        "d": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com.\nFrom the host: \"Field Work feel a chill in the March air. Two hours of dub techno, pop ambient, click+cuts, and contemporary electronic music.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fieldwork/episodes/fieldwork-28th-march-2026",
-        "t": "monthly"
-      },
       {
         "n": "MUSIC TO EASE YOUR DISEASE",
         "s": "2026-03-28T22:00:00Z",
@@ -24,9 +15,10 @@
         "n": "NITETRAX",
         "s": "2026-03-29T00:00:00Z",
         "e": "2026-03-29T02:00:00+01:00",
-        "d": null,
+        "d": "Nitetrax presents a monthly exploration of classic and contemporary club and experimental music.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nitetrax",
+        "t": "monthly",
         "p": "nitetrax"
       },
       {
@@ -165,44 +157,33 @@
         "j": "JAZMIN",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "A COLOURFUL STORM - Heavenly Creatures",
+        "s": "2026-03-29T21:00:00+01:00",
+        "e": "2026-03-29T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "DRIZLE.FM W/ PLO MAN & KUDZU AUDIO (R)",
-        "s": "2026-03-28T19:00:00Z",
-        "e": "2026-03-28T21:00:00Z",
-        "d": "forwards and backwards through bits of a [mostly] electronic music timeline. reverence for BCR. records i’ve played forever and new records i’ve just found. boil it down. one z in drizle.",
-        "j": "PLO MAN & KUDZU AUDIO",
-        "u": "https://www.nts.live/api/v2/shows/drizlefm-w-plo-man/episodes/drizlefm-w-plo-man-21st-august-2025",
-        "t": "restream"
-      },
-      {
-        "n": "DANCE MUSIC SHOW W/ BELL TOWERS (R)",
-        "s": "2026-03-28T21:00:00Z",
-        "e": "2026-03-28T22:00:00Z",
-        "d": "Prolific producer + DJ from Melbourne, Australia - Bell Towers presents his Dance Music Show.",
-        "j": "BELL TOWERS",
-        "u": "https://www.nts.live/api/v2/shows/bell-towers/episodes/bell-towers-21st-march-2023",
-        "t": "restream",
-        "p": "belltowers"
-      },
-      {
         "n": "THC (R)",
         "s": "2026-03-28T22:00:00Z",
         "e": "2026-03-29T00:00:00Z",
-        "d": null,
+        "d": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanticeleste-31st-march-2022",
         "t": "restream"
       },
       {
         "n": "IN FOCUS: STEVIE WONDER (R)",
         "s": "2026-03-29T00:00:00Z",
         "e": "2026-03-29T02:00:00+01:00",
-        "d": null,
+        "d": "From his very first hit as barely a teenager – the energetic, improvised \"Fingertips (Part. 2)\" to his classic run in the mid-70s, winning three Best Album Grammys in almost as many years, to his status today as a living giant of popular music, there is perhaps no better ambassador for the life-changing joy of music alive today than Stevie Wonder. \nSuncut picks out two hours of classics and deep cuts from the storied career of a soul, R&B, and pop icon. ",
         "j": "STEVIE WONDER",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-stevie-wonder-19th-december-2025",
         "t": "restream"
       },
       {
@@ -337,29 +318,28 @@
         "u": null,
         "t": "restream",
         "p": "theoparrish"
+      },
+      {
+        "n": "ABBY IMPERIAL (R)",
+        "s": "2026-03-30T01:00:00+01:00",
+        "e": "2026-03-30T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "abbyimperial"
+      },
+      {
+        "n": "Sameed (R)",
+        "s": "2026-03-30T02:00:00+01:00",
+        "e": "2026-03-30T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Danny Scrilla",
-        "s": "2026-03-28T20:00:00Z",
-        "e": "2026-03-28T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "dannyscrilla"
-      },
-      {
-        "n": "Biscuit Boy",
-        "s": "2026-03-28T21:00:00Z",
-        "e": "2026-03-28T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "biscuitboy"
-      },
       {
         "n": "Undercurrent / .CO.UK",
         "s": "2026-03-28T22:00:00Z",
@@ -367,6 +347,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-29T00:00:00Z",
+        "e": "2026-03-29T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Yami",
@@ -1037,18 +1026,18 @@
         "j": "Flow State",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "seiko",
+        "s": "2026-04-04T22:00:00Z",
+        "e": "2026-04-04T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Xandao - Sound Study",
-        "s": "2026-03-28T19:00:00Z",
-        "e": "2026-03-28T21:00:00Z",
-        "d": null,
-        "j": "Sound Study",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Derelict - Damage Control",
         "s": "2026-03-28T21:00:00Z",
@@ -1514,18 +1503,19 @@
         "u": null,
         "t": "monthly",
         "p": "maral"
+      },
+      {
+        "n": "mmarz",
+        "s": "2026-04-04T21:00:00Z",
+        "e": "2026-04-04T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "mmarz"
       }
     ],
     "rinse": [
-      {
-        "n": "Mall Grab with IN2STELLAR",
-        "s": "2026-03-28T20:00:00Z",
-        "e": "2026-03-28T22:00:00Z",
-        "d": null,
-        "j": "From The Vault (2021)",
-        "u": null,
-        "p": "mallgrab"
-      },
       {
         "n": "Angel D'lite",
         "s": "2026-03-28T22:00:00Z",
@@ -1665,28 +1655,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Vanille b2b Tatyana Jane",
-        "s": "2026-03-28T20:00:00Z",
-        "e": "2026-03-28T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "tatyanajane",
-        "ap": [
-          "vanille"
-        ]
-      },
-      {
-        "n": "Imer6ia",
-        "s": "2026-03-28T21:00:00Z",
-        "e": "2026-03-28T22:00:00Z",
-        "d": null,
-        "j": "WOMANS DAY",
-        "u": null,
-        "t": "biweekly",
-        "p": "imer6ia"
-      },
       {
         "n": "Kiala Ogawa",
         "s": "2026-03-28T22:00:00Z",
