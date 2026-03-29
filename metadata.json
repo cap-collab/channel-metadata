@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-03-28T22:19:52.027Z",
+  "updated": "2026-03-29T01:29:51.304Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MUSIC TO EASE YOUR DISEASE",
-        "s": "2026-03-28T22:00:00Z",
-        "e": "2026-03-29T00:00:00Z",
-        "d": "Music to dent the canister",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/musictoeaseyourdisease/episodes/musictoeaseyourdisease-28th-march-2026"
-      },
-      {
-        "n": "NITETRAX",
-        "s": "2026-03-29T00:00:00Z",
-        "e": "2026-03-29T02:00:00+01:00",
-        "d": "Nitetrax presents a monthly exploration of classic and contemporary club and experimental music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nitetrax",
-        "t": "monthly",
-        "p": "nitetrax"
-      },
       {
         "n": "Foodman w/ PGGLVŸ",
         "s": "2026-03-29T02:00:00+01:00",
         "e": "2026-03-29T03:00:00+01:00",
-        "d": null,
+        "d": "食品まつり a.k.a foodman a.k.a Takahide Higuchi is a footwork scholar of far-ranging and extensive tastes. Enter at your own peril. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/foodman/episodes/foodman-29th-march-2026",
         "p": "foodman"
       },
       {
         "n": "PATRICK FORGE (R)",
         "s": "2026-03-29T05:00:00+01:00",
         "e": "2026-03-29T07:00:00+01:00",
-        "d": null,
+        "d": "Tropical rhythms, devotional boogie and soulful shenanigans with a heavy jazz undertone, Patrick Forge gathers it all up for your listening pleasure. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/patrickforge/episodes/patrickforge-14th-july-2025",
         "t": "restream"
       },
       {
@@ -165,27 +147,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NOSEDRIP",
+        "s": "2026-03-29T22:00:00+01:00",
+        "e": "2026-03-30T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "nosedrip"
+      },
+      {
+        "n": "Otologic (R)",
+        "s": "2026-03-30T00:00:00+01:00",
+        "e": "2026-03-30T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "otologic"
       }
     ],
     "nts2": [
-      {
-        "n": "THC (R)",
-        "s": "2026-03-28T22:00:00Z",
-        "e": "2026-03-29T00:00:00Z",
-        "d": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanticeleste-31st-march-2022",
-        "t": "restream"
-      },
-      {
-        "n": "IN FOCUS: STEVIE WONDER (R)",
-        "s": "2026-03-29T00:00:00Z",
-        "e": "2026-03-29T02:00:00+01:00",
-        "d": "From his very first hit as barely a teenager – the energetic, improvised \"Fingertips (Part. 2)\" to his classic run in the mid-70s, winning three Best Album Grammys in almost as many years, to his status today as a living giant of popular music, there is perhaps no better ambassador for the life-changing joy of music alive today than Stevie Wonder. \nSuncut picks out two hours of classics and deep cuts from the storied career of a soul, R&B, and pop icon. ",
-        "j": "STEVIE WONDER",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-stevie-wonder-19th-december-2025",
-        "t": "restream"
-      },
       {
         "n": "GABRIELLE KWARTENG (R)",
         "s": "2026-03-29T02:00:00+01:00",
@@ -195,6 +178,25 @@
         "u": null,
         "t": "restream",
         "p": "gabriellekwarteng"
+      },
+      {
+        "n": "Gabrielle Kwarteng (R)",
+        "s": "2026-03-29T03:00:00+01:00",
+        "e": "2026-03-29T04:00:00+01:00",
+        "d": "In an era of everything at once, Gabrielle Kwarteng is a DJ who weaves stories that often look to the past, while always focusing on possible futures. Dip in to hear a range of dance music from downtempo to deep house to techno rollers - and everything in between. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/gabrielle-kwarteng/episodes/gabrielle-kwarteng-16th-may-2025",
+        "t": "restream",
+        "p": "gabriellekwarteng"
+      },
+      {
+        "n": "KISS CAFE W/ MARASCHINO (R)",
+        "s": "2026-03-29T04:00:00+01:00",
+        "e": "2026-03-29T05:00:00+01:00",
+        "d": "Piper Durabo AKA Maraschino serves up an assortment of hyperdelic jams from her NYC HQ",
+        "j": "MARASCHINO",
+        "u": "https://www.nts.live/api/v2/shows/piper-durabo/episodes/piper-durabo-8th-january-2026",
+        "t": "restream"
       },
       {
         "n": "The NCA Show w/ Brassfoot (R)",
@@ -337,21 +339,31 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "The Big Happy Show (R)",
+        "s": "2026-03-30T03:00:00+01:00",
+        "e": "2026-03-30T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
       {
-        "n": "Undercurrent / .CO.UK",
-        "s": "2026-03-28T22:00:00Z",
-        "e": "2026-03-29T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Subtle Selects",
         "s": "2026-03-29T00:00:00Z",
         "e": "2026-03-29T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-03-29T13:00:00Z",
+        "e": "2026-03-29T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1035,29 +1047,37 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Dread or Dead Records",
+        "s": "2026-04-04T23:00:00Z",
+        "e": "2026-04-05T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Phoebe's Playlist",
+        "s": "2026-04-05T00:00:00Z",
+        "e": "2026-04-05T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Polar Dance w/Winter Games",
+        "s": "2026-04-05T01:00:00Z",
+        "e": "2026-04-05T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "polardance"
       }
     ],
     "dublab": [
-      {
-        "n": "Derelict - Damage Control",
-        "s": "2026-03-28T21:00:00Z",
-        "e": "2026-03-28T23:00:00Z",
-        "d": null,
-        "j": "Damage Control",
-        "u": null,
-        "t": "monthly",
-        "p": "derelict"
-      },
-      {
-        "n": "Jenn Zelmer - Thread the Needle",
-        "s": "2026-03-28T23:00:00Z",
-        "e": "2026-03-29T01:00:00Z",
-        "d": null,
-        "j": "Thread the Needle",
-        "u": null,
-        "t": "monthly",
-        "p": "jennzelmer"
-      },
       {
         "n": "Motorist – Continuum",
         "s": "2026-03-29T01:00:00Z",
@@ -1513,35 +1533,33 @@
         "u": null,
         "t": "monthly",
         "p": "mmarz"
+      },
+      {
+        "n": "Callie Ryan - Storage Container",
+        "s": "2026-04-04T23:00:00Z",
+        "e": "2026-04-05T01:00:00Z",
+        "d": null,
+        "j": "Storage Container",
+        "u": null,
+        "t": "biweekly",
+        "p": "callieryan"
+      },
+      {
+        "n": "Andy Oro and Akumen - Made to Move",
+        "s": "2026-04-05T01:00:00Z",
+        "e": "2026-04-05T03:00:00Z",
+        "d": null,
+        "j": "Made to Move",
+        "u": null,
+        "t": "monthly",
+        "p": "akumen",
+        "ap": [
+          "andyoro",
+          "madetomove"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "Angel D'lite",
-        "s": "2026-03-28T22:00:00Z",
-        "e": "2026-03-28T23:00:00Z",
-        "d": null,
-        "j": "Luca Lozano",
-        "u": null
-      },
-      {
-        "n": "Carl Craig",
-        "s": "2026-03-28T23:00:00Z",
-        "e": "2026-03-29T00:00:00Z",
-        "d": null,
-        "j": "Rinse HQ109",
-        "u": null,
-        "p": "carlcraig"
-      },
-      {
-        "n": "IsGwan",
-        "s": "2026-03-29T00:00:00Z",
-        "e": "2026-03-29T01:00:00Z",
-        "d": null,
-        "j": "B2B Juni",
-        "u": null,
-        "p": "isgwan"
-      },
       {
         "n": "Nyra",
         "s": "2026-03-29T01:00:00Z",
@@ -1647,27 +1665,99 @@
       {
         "n": "Baalti",
         "s": "2026-03-29T22:00:00Z",
-        "e": "2026-03-29T23:00:00Z",
+        "e": "2026-03-30T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "p": "baalti"
-      }
-    ],
-    "rinsefr": [
+      },
       {
-        "n": "Kiala Ogawa",
-        "s": "2026-03-28T22:00:00Z",
-        "e": "2026-03-28T23:00:00Z",
+        "n": "Kush Jones",
+        "s": "2026-03-30T01:00:00Z",
+        "e": "2026-03-30T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "kushjones"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-03-30T02:00:00Z",
+        "e": "2026-03-30T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Douvelle19",
+        "s": "2026-03-30T05:00:00Z",
+        "e": "2026-03-30T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "douvelle19"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-03-30T06:00:00Z",
+        "e": "2026-03-30T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Tim Garcia",
+        "s": "2026-03-30T08:00:00Z",
+        "e": "2026-03-30T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Nakeira",
+        "s": "2026-03-30T12:00:00Z",
+        "e": "2026-03-30T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly",
-        "p": "kialaogawa"
+        "p": "nakeira"
       },
       {
+        "n": "Talina",
+        "s": "2026-03-30T16:00:00Z",
+        "e": "2026-03-30T19:00:00Z",
+        "d": null,
+        "j": "Morf",
+        "u": null,
+        "t": "regular",
+        "p": "morf",
+        "ap": [
+          "talina"
+        ]
+      },
+      {
+        "n": "Hessle Audio",
+        "s": "2026-03-30T19:00:00Z",
+        "e": "2026-03-30T20:00:00Z",
+        "d": null,
+        "j": "Pangaea",
+        "u": null,
+        "t": "biweekly",
+        "p": "hessleaudio",
+        "ap": [
+          "pangaea"
+        ]
+      }
+    ],
+    "rinsefr": [
+      {
         "n": "Playlist France",
-        "s": "2026-03-28T23:00:00Z",
+        "s": "2026-03-28T22:00:00Z",
         "e": "2026-03-29T07:00:00Z",
         "d": null,
         "j": null,
@@ -1677,87 +1767,98 @@
       {
         "n": "Playlist France",
         "s": "2026-03-29T07:00:00Z",
-        "e": "2026-03-29T10:00:00Z",
+        "e": "2026-03-29T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "Scarlett",
-        "s": "2026-03-29T10:00:00Z",
-        "e": "2026-03-29T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Whitney Weiss x Community Takeover FLINTA",
-        "s": "2026-03-29T11:00:00Z",
-        "e": "2026-03-29T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "whitneyweiss"
-      },
-      {
-        "n": "Em Barrett",
+        "n": "Sevenbeatz",
         "s": "2026-03-29T12:00:00Z",
         "e": "2026-03-29T13:00:00Z",
         "d": null,
-        "j": "présente : La Joie Trans Comme Outil de Résistance",
-        "u": null
+        "j": "invite Anacaona & Lean Chihiro",
+        "u": null,
+        "p": "sevenbeatz"
       },
       {
-        "n": "Zepequenaï b2b Mayou Picchu",
+        "n": "King Doudou",
         "s": "2026-03-29T13:00:00Z",
         "e": "2026-03-29T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "kingdoudou"
       },
       {
-        "n": "Stencia invite Mariana Benenge",
+        "n": "Menace Progressive",
         "s": "2026-03-29T14:00:00Z",
         "e": "2026-03-29T15:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Compilation Takeover",
+        "u": null,
+        "p": "menace",
+        "ap": [
+          "menaceprogressive"
+        ]
       },
       {
-        "n": "Izzy Lindqwister",
+        "n": "Menace Progressive",
         "s": "2026-03-29T15:00:00Z",
         "e": "2026-03-29T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Compilation Takeover",
         "u": null,
-        "p": "izzylindqwister"
+        "p": "menace",
+        "ap": [
+          "menaceprogressive"
+        ]
       },
       {
-        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
+        "n": "Menace Progressive",
         "s": "2026-03-29T16:00:00Z",
         "e": "2026-03-29T17:00:00Z",
         "d": null,
-        "j": "LE PODCAST",
+        "j": "Compilation Takeover",
         "u": null,
-        "t": "biweekly"
+        "p": "menace",
+        "ap": [
+          "menaceprogressive"
+        ]
       },
       {
-        "n": "Élise Massoni",
+        "n": "Menace Progressive",
         "s": "2026-03-29T17:00:00Z",
+        "e": "2026-03-29T18:00:00Z",
+        "d": null,
+        "j": "Compilation Takeover",
+        "u": null,
+        "p": "menace",
+        "ap": [
+          "menaceprogressive"
+        ]
+      },
+      {
+        "n": "Menace Progressive",
+        "s": "2026-03-29T18:00:00Z",
         "e": "2026-03-29T19:00:00Z",
         "d": null,
-        "j": "Invite Alyson Sillon : Techno Status quo à travers (le projet) Before/After",
+        "j": "Compilation Takeover",
         "u": null,
-        "t": "biweekly"
+        "p": "menace",
+        "ap": [
+          "menaceprogressive"
+        ]
       },
       {
-        "n": "ARTEM B2B Mariad B2B encoreuneautre",
+        "n": "Playlist France",
         "s": "2026-03-29T19:00:00Z",
         "e": "2026-03-29T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Agnès Aokky",
