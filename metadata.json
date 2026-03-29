@@ -1,44 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-03-29T16:25:38.765Z",
+  "updated": "2026-03-29T18:29:41.113Z",
   "stations": {
     "nts1": [
-      {
-        "n": "A Month of Sundays w/ Bill Spencer",
-        "s": "2026-03-29T17:00:00+01:00",
-        "e": "2026-03-29T18:00:00+01:00",
-        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.",
-        "j": "Bill Spencer",
-        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-29th-march-2026",
-        "t": "biweekly",
-        "p": "billspencer"
-      },
-      {
-        "n": "M00DTAPES (R)",
-        "s": "2026-03-29T18:00:00+01:00",
-        "e": "2026-03-29T19:00:00+01:00",
-        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-15th-september-2024",
-        "t": "restream",
-        "p": "m00dtapes"
-      },
       {
         "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE",
         "s": "2026-03-29T19:00:00+01:00",
         "e": "2026-03-29T20:00:00+01:00",
-        "d": null,
+        "d": "Lagos based collector and DJ Temi Kogbe traces connections in African popular culture through vinyl. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/temi-kogbe/episodes/temi-kogbe-29th-march-2026",
         "p": "temikogbe"
       },
       {
         "n": "COMO LA FLOR W/ JAZMIN (R)",
         "s": "2026-03-29T20:00:00+01:00",
         "e": "2026-03-29T21:00:00+01:00",
-        "d": null,
+        "d": "\"A show dedicated to the L.A. sunsets and all the hard working people who keep this city going & who defend it against pinches culeros…u know who.\" ",
         "j": "JAZMIN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jazmin-garcia/episodes/jazmin-garcia-22nd-september-2025",
         "t": "restream"
       },
       {
@@ -168,45 +148,44 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NAOMI ASA",
+        "s": "2026-03-30T17:00:00+01:00",
+        "e": "2026-03-30T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "naomi"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-03-30T18:00:00+01:00",
+        "e": "2026-03-30T20:00:00+01:00",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
       }
     ],
     "nts2": [
       {
-        "n": "SARA A (R)",
-        "s": "2026-03-29T17:00:00+01:00",
-        "e": "2026-03-29T18:00:00+01:00",
-        "d": "Lesser heard sounds with a focus on femmes in punk from artist and musician Sara A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-5th-may-2023",
-        "t": "restream",
-        "p": "saraa"
-      },
-      {
-        "n": "MARIA SOMERVILLE (R)",
-        "s": "2026-03-29T18:00:00+01:00",
-        "e": "2026-03-29T19:00:00+01:00",
-        "d": "Irish avant pop artist Maria Somerville traverses heady concepts through classic pop, ambient, experimental, spoken word, & field recordings - now hosted ever morning for the NTS Breakfast Show here.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/maria-somerville/episodes/maria-somerville-1st-july-2020",
-        "t": "restream",
-        "p": "mariasomerville"
-      },
-      {
         "n": "SOUNDS OF THE DAWN (R)",
         "s": "2026-03-29T19:00:00+01:00",
         "e": "2026-03-29T21:00:00+01:00",
-        "d": null,
+        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-30th-november-2024",
         "t": "restream"
       },
       {
         "n": "THEO PARRISH (R)",
         "s": "2026-03-29T21:00:00+01:00",
         "e": "2026-03-30T01:00:00+01:00",
-        "d": null,
+        "d": "Semi-regular feature length sessions from one of the greatest to ever grace the decks. Theo Parrish on NTS: you know it makes sense. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/theo-parrish/episodes/theo-parrish-30th-october-2022",
         "t": "restream",
         "p": "theoparrish"
       },
@@ -333,18 +312,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "GASSY",
+        "s": "2026-03-30T16:00:00+01:00",
+        "e": "2026-03-30T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "THE TRILOGY TAPES",
+        "s": "2026-03-30T17:00:00+01:00",
+        "e": "2026-03-30T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-29T15:00:00Z",
-        "e": "2026-03-29T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Yari Mostaccioli",
         "s": "2026-03-29T18:00:00Z",
@@ -1139,16 +1125,6 @@
     ],
     "dublab": [
       {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-03-29T16:00:00Z",
-        "e": "2026-03-29T17:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly",
-        "p": "kennethbager"
-      },
-      {
         "n": "CHULAS FRONTERAS",
         "s": "2026-03-29T17:00:00Z",
         "e": "2026-03-29T19:20:00Z",
@@ -1629,18 +1605,19 @@
         "u": null,
         "t": "weekly",
         "p": "kennethbager"
+      },
+      {
+        "n": "Chris Kissel and Chuck Soo-Hoo - Contact Wave",
+        "s": "2026-04-05T17:00:00Z",
+        "e": "2026-04-05T19:00:00Z",
+        "d": null,
+        "j": "Contact Wave",
+        "u": null,
+        "t": "monthly",
+        "p": "chriskissel"
       }
     ],
     "rinse": [
-      {
-        "n": "Jamo Beatz",
-        "s": "2026-03-29T16:00:00Z",
-        "e": "2026-03-29T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "jamobeatz"
-      },
       {
         "n": "RIZ LA TEEF",
         "s": "2026-03-29T17:00:00Z",
@@ -1655,7 +1632,7 @@
         "s": "2026-03-29T19:00:00Z",
         "e": "2026-03-29T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Trim",
         "u": null,
         "t": "biweekly",
         "p": "oblig"
@@ -1733,7 +1710,7 @@
         "s": "2026-03-30T10:00:00Z",
         "e": "2026-03-30T11:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Tomi From Brockley",
         "u": null,
         "t": "biweekly",
         "p": "donsurf"
@@ -1743,7 +1720,7 @@
         "s": "2026-03-30T11:00:00Z",
         "e": "2026-03-30T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Loose Tracks feat. Sarah Farina",
         "u": null
       },
       {
@@ -1852,14 +1829,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
-        "s": "2026-03-29T16:00:00Z",
-        "e": "2026-03-29T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Élise Massoni",
         "s": "2026-03-29T17:00:00Z",
