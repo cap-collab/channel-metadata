@@ -1,36 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-03-29T14:26:53.413Z",
+  "updated": "2026-03-29T16:25:38.765Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PARADISE BANGKOK",
-        "s": "2026-03-29T15:00:00+01:00",
-        "e": "2026-03-29T16:00:00+01:00",
-        "d": "Chris Menist’s Paradise Bangkok label hits the NTS airwaves for a rundown of the best folk music from Africa, Indonesia and more. Reggae and Jazz rub shoulders with Gamalan as Menist uncovers classics; folk music without borders.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/paradise-bangkok/episodes/paradise-bangkok-29th-march-2026",
-        "p": "paradise",
-        "ap": [
-          "paradisebangkok"
-        ]
-      },
-      {
-        "n": "KHARTOUM ARRIVALS W/ BASMA",
-        "s": "2026-03-29T16:00:00+01:00",
-        "e": "2026-03-29T17:00:00+01:00",
-        "d": "Basma shares songs and stories from passings through Khartoum and beyond.\nFrom the host: \"Still buzzing from Barranquilla Carnaval earlier this year, so this month we listen to career-defining international performances from Jairo Varela in NYC and Mohammed Wardi in Addis Ababa, tunes lamenting the plight of man at the hands of animal (and vice versa!) and, obviously, Shakira.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-29th-march-2026",
-        "p": "basma"
-      },
       {
         "n": "A Month of Sundays w/ Bill Spencer",
         "s": "2026-03-29T17:00:00+01:00",
         "e": "2026-03-29T18:00:00+01:00",
-        "d": null,
+        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.",
         "j": "Bill Spencer",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-29th-march-2026",
         "t": "biweekly",
         "p": "billspencer"
       },
@@ -38,9 +17,9 @@
         "n": "M00DTAPES (R)",
         "s": "2026-03-29T18:00:00+01:00",
         "e": "2026-03-29T19:00:00+01:00",
-        "d": null,
+        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-15th-september-2024",
         "t": "restream",
         "p": "m00dtapes"
       },
@@ -71,12 +50,13 @@
         "u": null
       },
       {
-        "n": "NOSEDRIP",
+        "n": "NOSEDRIP (R)",
         "s": "2026-03-29T22:00:00+01:00",
         "e": "2026-03-30T00:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
+        "t": "restream",
         "p": "nosedrip"
       },
       {
@@ -172,18 +152,25 @@
         "j": null,
         "u": null,
         "p": "tilly"
+      },
+      {
+        "n": "CHANEL BEADS",
+        "s": "2026-03-30T15:00:00+01:00",
+        "e": "2026-03-30T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "WATHÉČA RADIO W/ JUSTIS BROKENROPE",
+        "s": "2026-03-30T16:00:00+01:00",
+        "e": "2026-03-30T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NTS GUIDE TO: POST PUNK IN DUB",
-        "s": "2026-03-29T14:30:00+01:00",
-        "e": "2026-03-29T17:00:00+01:00",
-        "d": "Exploring the fruitful period of cross-contamination between the world of dub & post-punk…",
-        "j": "POST PUNK IN DUB",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-2nd-march-2022",
-        "t": "weekly"
-      },
       {
         "n": "SARA A (R)",
         "s": "2026-03-29T17:00:00+01:00",
@@ -198,9 +185,9 @@
         "n": "MARIA SOMERVILLE (R)",
         "s": "2026-03-29T18:00:00+01:00",
         "e": "2026-03-29T19:00:00+01:00",
-        "d": null,
+        "d": "Irish avant pop artist Maria Somerville traverses heady concepts through classic pop, ambient, experimental, spoken word, & field recordings - now hosted ever morning for the NTS Breakfast Show here.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/maria-somerville/episodes/maria-somerville-1st-july-2020",
         "t": "restream",
         "p": "mariasomerville"
       },
@@ -338,17 +325,17 @@
         "j": null,
         "u": null,
         "p": "cobysey"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Yami",
-        "s": "2026-03-29T14:00:00Z",
-        "e": "2026-03-29T15:00:00Z",
+        "n": "BED",
+        "s": "2026-03-30T15:00:00+01:00",
+        "e": "2026-03-30T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-03-29T15:00:00Z",
@@ -1140,18 +1127,17 @@
         "j": "eatmybeat",
         "u": "https://www.subtleradio.com/artists/extrasaus-w-eatmybeat/",
         "t": "biweekly"
+      },
+      {
+        "n": "THEODORE",
+        "s": "2026-04-05T16:00:00Z",
+        "e": "2026-04-05T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "djjs 2",
-        "s": "2026-03-29T14:00:00Z",
-        "e": "2026-03-29T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Kenneth Bager - Music for Dreams",
         "s": "2026-03-29T16:00:00Z",
@@ -1633,19 +1619,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-04-05T16:00:00Z",
+        "e": "2026-04-05T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "Kitty Amor",
-        "s": "2026-03-29T14:00:00Z",
-        "e": "2026-03-29T16:00:00Z",
-        "d": null,
-        "j": "Meedy (Descendants)",
-        "u": null,
-        "t": "biweekly",
-        "p": "kittyamor"
-      },
       {
         "n": "Jamo Beatz",
         "s": "2026-03-29T16:00:00Z",
@@ -1866,23 +1852,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Stencia invite Mariana Benenge",
-        "s": "2026-03-29T14:00:00Z",
-        "e": "2026-03-29T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Izzy Lindqwister",
-        "s": "2026-03-29T15:00:00Z",
-        "e": "2026-03-29T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "izzylindqwister"
-      },
       {
         "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
         "s": "2026-03-29T16:00:00Z",
