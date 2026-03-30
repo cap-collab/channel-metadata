@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-30T16:47:37.624Z",
+  "updated": "2026-03-30T18:48:07.938Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Speciwomen Presents: Ming Smith",
-        "s": "2026-03-30T17:00:00+01:00",
-        "e": "2026-03-30T18:00:00+01:00",
-        "d": "Naomi Asa on the NTS airwaves, delivering soothing soul and spiritual jazz.\nFrom the host: \"Ming Smith is a foundational figure in American photography whose work surveys Black interiority, spiritual presence, and formal experimentation. In 1972, she joined Kamoinge as its only woman member, and in 1979 became the first Black woman photographer whose work was acquired by MoMA.\"",
-        "j": "Ming Smith",
-        "u": "https://www.nts.live/api/v2/shows/naomi-asaturyan/episodes/naomi-asaturyan-30th-march-2026",
-        "t": "biweekly"
-      },
       {
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-03-30T18:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "NTS GUIDE TO: INDIAN CLASSICAL INFLUENCE ON JAZZ (R)",
         "s": "2026-03-30T20:00:00+01:00",
         "e": "2026-03-30T22:00:00+01:00",
-        "d": null,
+        "d": "In the mid-1950s musicians such as Yusuf Lateef and John Coltrane started to use instruments, structure and patterns based on traditional Indian music.  Artists sought to expand the boundaries of jazz by incorporating the modal structures, improvisational depth, and spiritual ethos of Indian music. Listen to two hours of Jazz inspired by Indian Classical.",
         "j": "INDIAN CLASSICAL INFLUENCE ON JAZZ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-indian-classical-influence-on-jazz-26th-may-2025",
         "t": "restream"
       },
       {
@@ -178,18 +169,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SURF GANG RADIO",
+        "s": "2026-03-31T19:00:00+01:00",
+        "e": "2026-03-31T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "THE TRILOGY TAPES",
-        "s": "2026-03-30T17:00:00+01:00",
-        "e": "2026-03-30T19:00:00+01:00",
-        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-30th-march-2026",
-        "t": "monthly"
-      },
       {
         "n": "DRAWING DOORS w/ OURI & NINA KEITH",
         "s": "2026-03-30T19:00:00+01:00",
@@ -203,9 +193,9 @@
         "n": "VALENCIA HOUSE W/ YEEK",
         "s": "2026-03-30T20:00:00+01:00",
         "e": "2026-03-30T21:00:00+01:00",
-        "d": null,
+        "d": "\"Valencia House Radio, formerly known as The Yeek Show, is an extension of a creative studio led by multidisciplinary artists Yeek and Kevin Halasan.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/yeek/episodes/yeek-30th-march-2026"
       },
       {
         "n": "Alba Radio: Sounds In Film - Wong Kar Wai",
@@ -340,17 +330,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "ARTI FM W/ ARTISOMA",
-        "s": "2026-03-30T16:00:00Z",
-        "e": "2026-03-30T17:00:00Z",
+        "n": "Bby Eco Plays Sky (i)",
+        "s": "2026-03-31T13:00:00+01:00",
+        "e": "2026-03-31T14:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-03-30T17:00:00Z",
@@ -1314,26 +1304,28 @@
         "u": null,
         "t": "monthly",
         "p": "drumphill"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-30T16:00:00Z",
-        "e": "2026-03-30T17:00:00Z",
+        "n": "Underground Credentials",
+        "s": "2026-04-06T17:00:00Z",
+        "e": "2026-04-06T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
       {
-        "n": "If You Know You Know – guest session",
-        "s": "2026-03-30T17:00:00Z",
-        "e": "2026-03-30T18:00:00Z",
+        "n": "glosssd",
+        "s": "2026-04-06T18:00:00Z",
+        "e": "2026-04-06T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null
-      },
+        "u": null,
+        "t": "monthly",
+        "p": "glosssd"
+      }
+    ],
+    "dublab": [
       {
         "n": "DJ ATTN – guest session",
         "s": "2026-03-30T18:00:00Z",
@@ -1842,32 +1834,19 @@
         "u": null,
         "t": "monthly",
         "p": "thalmadefreitas"
+      },
+      {
+        "n": "Rene Contreras - Viva! Talks",
+        "s": "2026-04-06T17:00:00Z",
+        "e": "2026-04-06T19:00:00Z",
+        "d": null,
+        "j": "Viva! Talks",
+        "u": null,
+        "t": "weekly",
+        "p": "renecontreras"
       }
     ],
     "rinse": [
-      {
-        "n": "Talina",
-        "s": "2026-03-30T16:00:00Z",
-        "e": "2026-03-30T17:00:00Z",
-        "d": null,
-        "j": "Morf",
-        "u": null,
-        "t": "regular",
-        "p": "morf",
-        "ap": [
-          "talina"
-        ]
-      },
-      {
-        "n": "Sharnie",
-        "s": "2026-03-30T17:00:00Z",
-        "e": "2026-03-30T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "sharnie"
-      },
       {
         "n": "Borne Fruits with Amaliah",
         "s": "2026-03-30T18:00:00Z",
@@ -2084,56 +2063,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Menace Progressive Takeover",
-        "s": "2026-03-30T16:30:00Z",
-        "e": "2026-03-30T17:00:00Z",
-        "d": null,
-        "j": "To Van Kao",
-        "u": null,
-        "p": "menace",
-        "ap": [
-          "menaceprogressive",
-          "tovankao"
-        ]
-      },
-      {
-        "n": "Menace Progressive Takeover",
-        "s": "2026-03-30T17:00:00Z",
-        "e": "2026-03-30T17:30:00Z",
-        "d": null,
-        "j": "DJ GAP",
-        "u": null,
-        "p": "menace",
-        "ap": [
-          "menaceprogressive"
-        ]
-      },
-      {
-        "n": "Menace Progressive Takeover",
-        "s": "2026-03-30T17:30:00Z",
-        "e": "2026-03-30T18:00:00Z",
-        "d": null,
-        "j": "Qoso",
-        "u": null,
-        "p": "menace",
-        "ap": [
-          "menaceprogressive"
-        ]
-      },
-      {
-        "n": "Menace Progressive Takeover",
-        "s": "2026-03-30T18:00:00Z",
-        "e": "2026-03-30T18:30:00Z",
-        "d": null,
-        "j": "Brodinski",
-        "u": null,
-        "p": "brodinski",
-        "ap": [
-          "menace",
-          "menaceprogressive"
-        ]
-      },
       {
         "n": "Menace Progressive Takeover",
         "s": "2026-03-30T18:30:00Z",
