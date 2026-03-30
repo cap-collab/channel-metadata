@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-30T09:03:42.416Z",
+  "updated": "2026-03-30T10:55:24.548Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-03-30T09:00:00+01:00",
-        "e": "2026-03-30T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-30th-march-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-03-30T11:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "Raisa K",
         "s": "2026-03-30T13:00:00+01:00",
         "e": "2026-03-30T14:00:00+01:00",
-        "d": null,
+        "d": "The London songwriter, producer and musician shares a selection of favourites, influences, newly discovered music, and some of her own tunes, joined occasionally by friends and guests.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/raisa-k/episodes/raisa-k-30th-march-2026",
         "p": "raisak"
       },
       {
@@ -58,13 +48,13 @@
         "u": null
       },
       {
-        "n": "NAOMI ASA",
+        "n": "Speciwomen Presents: Ming Smith",
         "s": "2026-03-30T17:00:00+01:00",
         "e": "2026-03-30T18:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Ming Smith",
         "u": null,
-        "p": "naomi"
+        "t": "biweekly"
       },
       {
         "n": "CLUB COCO w/ COCO MARIA",
@@ -86,7 +76,7 @@
         "p": "calmroots"
       },
       {
-        "n": "CHERRYSTONES",
+        "n": "CHERRYSTONES - STYLES UPON STYLES",
         "s": "2026-03-30T22:00:00+01:00",
         "e": "2026-03-31T00:00:00+01:00",
         "d": null,
@@ -178,18 +168,27 @@
         "j": null,
         "u": null,
         "p": "anu"
+      },
+      {
+        "n": "Low Life Loves You w/ Bill Brewster",
+        "s": "2026-03-31T13:00:00+01:00",
+        "e": "2026-03-31T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "billbrewster"
+      },
+      {
+        "n": "Self Soothe w/ Margeaux",
+        "s": "2026-03-31T14:00:00+01:00",
+        "e": "2026-03-31T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "margeaux"
       }
     ],
     "nts2": [
-      {
-        "n": "SOS Radio (R)",
-        "s": "2026-03-30T09:00:00+01:00",
-        "e": "2026-03-30T11:00:00+01:00",
-        "d": "Stones Throw's Sofie presents SOS Radio - Everywhere Music 4 Every 1. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sos-radio/episodes/sos-radio-w-sofie-27th-march-2018",
-        "t": "restream"
-      },
       {
         "n": "3XL",
         "s": "2026-03-30T11:00:00+01:00",
@@ -203,9 +202,10 @@
         "n": "C.A.R. : ON THE SLIP ROAD",
         "s": "2026-03-30T12:00:00+01:00",
         "e": "2026-03-30T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "A monthly, eclectic road-trip exploring old landmarks and new terrain.",
+        "j": "ON THE SLIP ROAD",
+        "u": "https://www.nts.live/api/v2/shows/c-a-r/episodes/c-a-r-30th-march-2026",
+        "t": "monthly"
       },
       {
         "n": "WEAPONISE YOUR SOUND W/ DIET CLINIC",
@@ -216,13 +216,12 @@
         "u": null
       },
       {
-        "n": "COBY SEY",
+        "n": "Coby Sey & Chicoco Collective presents First World Problems: Part 2",
         "s": "2026-03-30T14:00:00+01:00",
         "e": "2026-03-30T15:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "cobysey"
+        "u": null
       },
       {
         "n": "BED",
@@ -233,7 +232,7 @@
         "u": null
       },
       {
-        "n": "GASSY",
+        "n": "GASSY  - Lifeforms",
         "s": "2026-03-30T16:00:00+01:00",
         "e": "2026-03-30T17:00:00+01:00",
         "d": null,
@@ -344,6 +343,16 @@
         "u": null,
         "t": "restream",
         "p": "jeunepouce"
+      },
+      {
+        "n": "Mishka  (R)",
+        "s": "2026-03-31T06:00:00+01:00",
+        "e": "2026-03-31T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "mishka"
       }
     ],
     "subtle": [
@@ -368,6 +377,14 @@
         "n": "ARTI FM W/ ARTISOMA",
         "s": "2026-03-30T16:00:00Z",
         "e": "2026-03-30T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "EBITDA presents Bangersgalore",
+        "s": "2026-03-30T17:00:00Z",
+        "e": "2026-03-30T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1248,8 +1265,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-03-30T08:00:00Z",
-        "e": "2026-03-30T10:00:00Z",
+        "s": "2026-03-30T10:00:00Z",
+        "e": "2026-03-30T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1257,8 +1274,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-03-30T10:00:00Z",
-        "e": "2026-03-30T12:00:00Z",
+        "s": "2026-03-30T12:00:00Z",
+        "e": "2026-03-30T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1774,15 +1791,6 @@
     ],
     "rinse": [
       {
-        "n": "Tim Garcia",
-        "s": "2026-03-30T08:00:00Z",
-        "e": "2026-03-30T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Donsurf",
         "s": "2026-03-30T10:00:00Z",
         "e": "2026-03-30T11:00:00Z",
@@ -1825,7 +1833,7 @@
         "s": "2026-03-30T14:00:00Z",
         "e": "2026-03-30T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Toya Delazy",
         "u": null,
         "t": "weekly"
       },
@@ -1853,12 +1861,13 @@
         "p": "sharnie"
       },
       {
-        "n": "Amaliah",
+        "n": "Borne Fruits with Amaliah",
         "s": "2026-03-30T18:00:00Z",
         "e": "2026-03-30T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
+        "t": "biweekly",
         "p": "amaliah"
       },
       {
@@ -1879,7 +1888,7 @@
         "s": "2026-03-30T20:00:00Z",
         "e": "2026-03-30T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "AFRA",
         "u": null,
         "t": "monthly",
         "p": "djstingray"
@@ -1899,7 +1908,7 @@
         "s": "2026-03-30T22:00:00Z",
         "e": "2026-03-30T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJ JM",
         "u": null,
         "t": "biweekly",
         "p": "nervoushorizon"
@@ -1909,7 +1918,7 @@
         "s": "2026-03-30T23:00:00Z",
         "e": "2026-03-31T01:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Destrata",
         "u": null,
         "t": "biweekly",
         "p": "scuffedrecordings"
@@ -1919,7 +1928,7 @@
         "s": "2026-03-31T01:00:00Z",
         "e": "2026-03-31T02:00:00Z",
         "d": null,
-        "j": null,
+        "j": "\"Foglore\"",
         "u": null,
         "t": "biweekly",
         "p": "stonestaro"
