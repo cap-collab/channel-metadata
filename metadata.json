@@ -1,35 +1,27 @@
 {
   "v": 2,
-  "updated": "2026-03-31T07:02:54.009Z",
+  "updated": "2026-03-31T08:47:41.977Z",
   "stations": {
     "nts1": [
       {
-        "n": "The Early Bird Show w/ TROTH",
-        "s": "2026-03-31T07:00:00+01:00",
-        "e": "2026-03-31T09:00:00+01:00",
-        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
-        "j": "TROTH",
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-troth-31st-march-2026",
-        "t": "weekly",
-        "p": "troth"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "n": "The NTS Breakfast Show w/ Flo & OK Williams",
         "s": "2026-03-31T09:00:00+01:00",
         "e": "2026-03-31T11:00:00+01:00",
         "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. Bestie of the show OK Williams is in the studio today to provide her unique world views and elite music taste as well as assisting with Ultimate DJ. ",
-        "j": "FLO",
+        "j": null,
         "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-31st-march-2026",
-        "t": "regular",
-        "p": "flo"
+        "p": "flo",
+        "ap": [
+          "okwilliams"
+        ]
       },
       {
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-03-31T11:00:00+01:00",
         "e": "2026-03-31T13:00:00+01:00",
-        "d": null,
+        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-31st-march-2026",
         "p": "anu"
       },
       {
@@ -173,6 +165,15 @@
         "j": "SPIRIT BLUE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO & Cam Picton",
+        "s": "2026-04-01T09:00:00+01:00",
+        "e": "2026-04-01T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "flo"
       }
     ],
     "nts2": [
@@ -1391,6 +1392,15 @@
         "j": "Indiescotheque",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TorbM",
+        "s": "2026-04-07T08:00:00Z",
+        "e": "2026-04-07T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1942,15 +1952,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-03-31T06:00:00Z",
-        "e": "2026-03-31T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Papaoul",
         "s": "2026-03-31T08:00:00Z",
