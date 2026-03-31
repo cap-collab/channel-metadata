@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-31T10:45:44.941Z",
+  "updated": "2026-03-31T12:56:45.801Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ ANU: ongaku kissa w/ century in sound",
-        "s": "2026-03-31T11:00:00+01:00",
-        "e": "2026-03-31T13:00:00+01:00",
-        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-31st-march-2026",
-        "p": "anu"
-      },
       {
         "n": "Low Life Loves You w/ Bill Brewster",
         "s": "2026-03-31T13:00:00+01:00",
@@ -35,9 +26,9 @@
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-03-31T15:00:00+01:00",
         "e": "2026-03-31T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-31st-march-2026",
         "t": "weekly",
         "p": "margeaux"
       },
@@ -181,41 +172,44 @@
         "j": "Barber Beats",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "BRADLEY ZERO PRESENTS: RHYTHM SECTION",
+        "s": "2026-04-01T14:00:00+01:00",
+        "e": "2026-04-01T15:00:00+01:00",
+        "d": null,
+        "j": "RHYTHM SECTION",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "TRUE AS FEW W/ MARK",
-        "s": "2026-03-31T11:00:00+01:00",
-        "e": "2026-03-31T12:00:00+01:00",
-        "d": "Diving into classical composition with Mark aka Klon Dump…\nFrom the host: \"This month we look at solo piano and orchestral works of Polish composer Witold Lutoslawski.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/true-as-few/episodes/true-as-few-31st-march-2026"
-      },
-      {
-        "n": "GREAT SOUTHERN LANDS W/ JAMES W",
-        "s": "2026-03-31T12:00:00+01:00",
-        "e": "2026-03-31T13:00:00+01:00",
-        "d": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/great-southern-lands/episodes/great-southern-lands-31st-march-2026"
-      },
-      {
         "n": "Bby Eco Plays Sky (i)",
         "s": "2026-03-31T13:00:00+01:00",
         "e": "2026-03-31T14:00:00+01:00",
-        "d": null,
+        "d": "Amsterdam producer and DJ Bby Eco stops by the studio to perform tracks from his new album Sky (i) live, alongside other personal favourites and inspirations to his own music.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/bby-eco-plays-sky-i-31st-march-2026"
       },
       {
         "n": "ARRHYTHMIA",
         "s": "2026-03-31T14:00:00+01:00",
         "e": "2026-03-31T16:00:00+01:00",
-        "d": null,
+        "d": "Broadcasting out of Birmingham, Arrhythmia is a monthly exploration of interesting new audio and abnormal rhythms. Expect irregular, dark or heavy - but not always.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ARRHYTHMIA/episodes/ARRHYTHMIA-31st-march-2026",
+        "t": "monthly",
         "p": "arrhythmia"
+      },
+      {
+        "n": "NTS GUIDE TO: DD RECORDS (R)",
+        "s": "2026-03-31T16:00:00+01:00",
+        "e": "2026-03-31T17:00:00+01:00",
+        "d": null,
+        "j": "DD RECORDS",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "YU SU",
@@ -340,18 +334,18 @@
         "u": null,
         "t": "restream",
         "p": "foragerrecords"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "The Watercourse Way/ Jamie Nu",
-        "s": "2026-03-31T09:00:00Z",
-        "e": "2026-03-31T11:00:00Z",
+        "n": "A Colourful Storm (R)",
+        "s": "2026-04-01T09:00:00+01:00",
+        "e": "2026-04-01T10:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "p": "thewatercourseway"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-03-31T11:00:00Z",
@@ -1427,13 +1421,32 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Jakesy",
+        "s": "2026-04-07T11:00:00Z",
+        "e": "2026-04-07T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Bass Exchange",
+        "s": "2026-04-07T12:00:00Z",
+        "e": "2026-04-07T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bassexchange"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-03-31T09:00:00Z",
-        "e": "2026-03-31T11:00:00Z",
+        "s": "2026-03-31T11:00:00Z",
+        "e": "2026-03-31T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1441,8 +1454,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-03-31T11:00:00Z",
-        "e": "2026-03-31T13:00:00Z",
+        "s": "2026-03-31T13:00:00Z",
+        "e": "2026-03-31T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1979,24 +1992,6 @@
     ],
     "rinse": [
       {
-        "n": "Cara Crosby",
-        "s": "2026-03-31T10:00:00Z",
-        "e": "2026-03-31T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Patrick Hinton",
-        "s": "2026-03-31T11:00:00Z",
-        "e": "2026-03-31T12:00:00Z",
-        "d": null,
-        "j": "Tanya Voytko",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Suzie Bakos",
         "s": "2026-03-31T12:00:00Z",
         "e": "2026-03-31T13:00:00Z",
@@ -2249,15 +2244,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-03-31T07:00:00Z",
-        "e": "2026-03-31T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Giorgi Pipia",
         "s": "2026-03-31T12:00:00Z",
