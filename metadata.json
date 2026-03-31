@@ -1,33 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-03-31T01:27:33.853Z",
+  "updated": "2026-03-31T04:29:30.547Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SNZ (R)",
-        "s": "2026-03-31T02:00:00+01:00",
-        "e": "2026-03-31T03:00:00+01:00",
-        "d": "Plug in and zone out. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/snz/episodes/snz-2nd-march-2017",
-        "t": "restream"
-      },
-      {
-        "n": "5 GATE TEMPLE (R)",
-        "s": "2026-03-31T03:00:00+01:00",
-        "e": "2026-03-31T05:00:00+01:00",
-        "d": "2 hour bi-monthly excursions into sound and dissonance. Music label with John T. Gast. Regular guest selections from friends and affiliates. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/5-gate-temple/episodes/5-gate-temple-3rd-october-2023",
-        "t": "restream"
-      },
       {
         "n": "WAVE FORM W/ AURÉLIEN ARBET & PIERRE ROUSSEAU (R)",
         "s": "2026-03-31T05:00:00+01:00",
         "e": "2026-03-31T06:00:00+01:00",
-        "d": null,
+        "d": "During 'Wave Form', Aurélien Arbet and Pierre Rousseau explore an interpolation of various recordings, often at the margins of traditional formats and conventional styles of music. During an hour, a long oscillation is formed out of a selection of interviews, spoken word, poetry, music for dance or art, marginal pop attempts and various field recordings.\nAurélien Arbet is an art director, co-founder of the clothing brand and publishing house Études. Pierre Rousseau is a composer, producer and sound designer, crafting sounds for records, films, and art projects.",
         "j": "AURÉLIEN ARBET & PIERRE ROUSSEAU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/wave-form/episodes/wave-form-1st-june-2024",
         "t": "restream",
         "p": "waveform"
       },
@@ -35,9 +17,9 @@
         "n": "SOPHIA ZHURAVKOVA (R)",
         "s": "2026-03-31T06:00:00+01:00",
         "e": "2026-03-31T07:00:00+01:00",
-        "d": null,
+        "d": "Organic soundscapes, field recordings and melodic ambience from composer Sophia Zhuravkova.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sophia-zhuravkova/episodes/sophia-zhuravkova-20th-april-2025",
         "t": "restream",
         "p": "sophiazhuravkova"
       },
@@ -174,43 +156,35 @@
         "j": "DJ AMIR",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Minimal Effort (R)",
+        "s": "2026-04-01T01:00:00+01:00",
+        "e": "2026-04-01T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "minimaleffort"
+      },
+      {
+        "n": "We Are… w/ Paul Camo (R)",
+        "s": "2026-04-01T03:00:00+01:00",
+        "e": "2026-04-01T05:00:00+01:00",
+        "d": null,
+        "j": "Paul Camo",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "Touch and Feel w/ Brian Vidal (R)",
-        "s": "2026-03-31T02:00:00+01:00",
-        "e": "2026-03-31T03:00:00+01:00",
-        "d": "A one-hour journey of Club music, R&B, Jungle, and Jazz. Enjoy.",
-        "j": "Brian Vidal",
-        "u": "https://www.nts.live/api/v2/shows/touch-n-feel-w-brian-vidal/episodes/touch-n-feel-w-brian-vidal-29th-april-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Akito W/ ABOPF",
-        "s": "2026-03-31T03:00:00+01:00",
-        "e": "2026-03-31T04:00:00+01:00",
-        "d": "Get to know Akito Hearnshaw - chief of the minimal club tracks. Tune in for his selections of burnt out, distorted, rhythmic movers. Bitcrushed, resonant snares clap and kicks punch…\nFrom the host: \"Seoul-based DJ & producer ABOPF joins this month’s show with a special guest mix.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/akito/episodes/akito-31st-march-2026",
-        "p": "akito"
-      },
-      {
-        "n": "deadAir - Transmissions w/ Jane Remover (R)",
-        "s": "2026-03-31T04:00:00+01:00",
-        "e": "2026-03-31T05:00:00+01:00",
-        "d": null,
-        "j": "Jane Remover",
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "Tears in the Club w/ Jeune Pouce (R)",
         "s": "2026-03-31T05:00:00+01:00",
         "e": "2026-03-31T06:00:00+01:00",
-        "d": null,
+        "d": "\"Tears in the Club\" presents a unique blend of structured and chaotic music, combining intense hip hop, drum and bass, footwork, jersey club, and sometimes Afro rhythms. This multi-genre musical show explores diverse musical landscapes, creating a striking contrast between genres, while also showcasing new artists.",
         "j": "Jeune Pouce",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jeune-pouce/episodes/jeune-pouce-13th-may-2025",
         "t": "restream",
         "p": "jeunepouce"
       },
@@ -218,9 +192,9 @@
         "n": "Mishka  (R)",
         "s": "2026-03-31T06:00:00+01:00",
         "e": "2026-03-31T07:00:00+01:00",
-        "d": null,
+        "d": "An auditory exploration with SF native Mishka ranging from synth pop and balearic to softrock and global dance gems. One hour, once a month, with love. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mishka/episodes/mishka-11th-october-2024",
         "t": "restream",
         "p": "mishka"
       },
@@ -337,6 +311,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "FREEDOM TO SPEND",
+        "s": "2026-04-01T01:00:00+01:00",
+        "e": "2026-04-01T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Blooming In Filth w/ Theodore Cale Schafer",
+        "s": "2026-04-01T02:00:00+01:00",
+        "e": "2026-04-01T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "EDITS w/ Kelman Duran (R)",
+        "s": "2026-04-01T03:00:00+01:00",
+        "e": "2026-04-01T04:00:00+01:00",
+        "d": null,
+        "j": "Kelman Duran",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -1378,18 +1377,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Sophie Fan – Sonic Shoreline",
-        "s": "2026-03-31T01:00:00Z",
-        "e": "2026-03-31T03:00:00Z",
+        "n": "Cartwright ",
+        "s": "2026-04-07T04:00:00Z",
+        "e": "2026-04-07T05:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "sophie"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Jess Chixa – The Maté Corner",
         "s": "2026-03-31T03:00:00Z",
@@ -1397,6 +1396,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-03-31T05:00:00Z",
+        "e": "2026-03-31T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "populous – guest session",
@@ -1895,19 +1903,29 @@
         "u": null,
         "t": "monthly",
         "p": "ellawarren"
+      },
+      {
+        "n": "Trovarsi - Signal",
+        "s": "2026-04-07T02:00:00Z",
+        "e": "2026-04-07T03:00:00Z",
+        "d": null,
+        "j": "Signal",
+        "u": null,
+        "t": "monthly",
+        "p": "trovarsi"
+      },
+      {
+        "n": "Monalisa Murray - Paths of Rhythm",
+        "s": "2026-04-07T03:00:00Z",
+        "e": "2026-04-07T05:00:00Z",
+        "d": null,
+        "j": "Paths of Rhythm",
+        "u": null,
+        "t": "monthly",
+        "p": "monalisa"
       }
     ],
     "rinse": [
-      {
-        "n": "Stones Taro",
-        "s": "2026-03-31T01:00:00Z",
-        "e": "2026-03-31T02:00:00Z",
-        "d": null,
-        "j": "\"Foglore\"",
-        "u": null,
-        "t": "biweekly",
-        "p": "stonestaro"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-03-31T02:00:00Z",
