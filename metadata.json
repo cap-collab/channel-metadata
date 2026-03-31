@@ -1,39 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-03-31T16:50:07.442Z",
+  "updated": "2026-03-31T18:49:18.499Z",
   "stations": {
     "nts1": [
-      {
-        "n": "QUEST NO MORE W/ ELHEIST & Bianca Saunders",
-        "s": "2026-03-31T17:00:00+01:00",
-        "e": "2026-03-31T18:00:00+01:00",
-        "d": "Elheist steers deep‑cuts, left‑field electronica, obscure grooves and sounds from the fam into the fold, where worlds collide, textures shift and surprises hit. check your quest, leave the rest.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/quest-no-more/episodes/quest-no-more-31st-march-2026"
-      },
-      {
-        "n": "Leicester's Finest w/ Mohammad Five",
-        "s": "2026-03-31T18:00:00+01:00",
-        "e": "2026-03-31T19:00:00+01:00",
-        "d": "Mohammad Five records presents Leicester's Finest. \n\"Soul sonics 2 abolish the demonics. REP UR ENDS DON'T WRECK UR ENDS. Specialising in pure UK Asian Flavaz and the truth. WALK WITH ME. From the dark. Dil diyan Gallan from Leicester and beyond. Real Star players.\"\n\"this zindagi is fading but our sins are multiplying\" - MISA (M5)",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mohammad-adam/episodes/mohammad-adam-31st-march-2026"
-      },
       {
         "n": "SURF GANG RADIO",
         "s": "2026-03-31T19:00:00+01:00",
         "e": "2026-03-31T20:00:00+01:00",
-        "d": null,
+        "d": "A radio show curated by Surf Gang Records. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-31st-march-2026"
       },
       {
         "n": "RUPTURE W/ MANTRA & DOUBLE O",
         "s": "2026-03-31T20:00:00+01:00",
         "e": "2026-03-31T21:00:00+01:00",
-        "d": null,
+        "d": "Sounds from the grass roots of jungle and drum & bass with London scene heroes Rupture - featuring selections from residents Mantra & Double O.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rupture/episodes/rupture-31st-march-2026",
         "p": "rupture"
       },
       {
@@ -63,13 +47,13 @@
         "p": "elenacolombi"
       },
       {
-        "n": "THE KRONICLES W/ DJ AMIR",
+        "n": "EMPTY W/ LOWDY (R)",
         "s": "2026-04-01T00:00:00+01:00",
         "e": "2026-04-01T01:00:00+01:00",
         "d": null,
-        "j": "DJ AMIR",
+        "j": "LOWDY",
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
       {
         "n": "Minimal Effort (R)",
@@ -174,19 +158,19 @@
         "u": null,
         "t": "monthly",
         "p": "touchingbass"
+      },
+      {
+        "n": "GIULIA TESS",
+        "s": "2026-04-01T20:00:00+01:00",
+        "e": "2026-04-01T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "giuliatess"
       }
     ],
     "nts2": [
-      {
-        "n": "YU SU",
-        "s": "2026-03-31T17:00:00+01:00",
-        "e": "2026-03-31T18:00:00+01:00",
-        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-31st-march-2026",
-        "t": "monthly",
-        "p": "yusu"
-      },
       {
         "n": "PENDER STREET STEPPERS",
         "s": "2026-03-31T18:00:00+01:00",
@@ -199,9 +183,9 @@
         "n": "Nick Hakim",
         "s": "2026-03-31T20:00:00+01:00",
         "e": "2026-03-31T21:00:00+01:00",
-        "d": null,
+        "d": "Brooklyn musician Nick Hakim takes over the NTS airwaves.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nick-hakim/episodes/nick-hakim-31st-march-2026",
         "p": "nickhakim"
       },
       {
@@ -339,26 +323,18 @@
         "u": null,
         "t": "monthly",
         "p": "htrk"
+      },
+      {
+        "n": "Through the Ground Floor Window w/ Abdullah Miniawy",
+        "s": "2026-04-01T13:00:00+01:00",
+        "e": "2026-04-01T14:00:00+01:00",
+        "d": null,
+        "j": "Abdullah Miniawy",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-03-31T16:00:00Z",
-        "e": "2026-03-31T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "EBITDA presents Bangersgalore",
-        "s": "2026-03-31T17:00:00Z",
-        "e": "2026-03-31T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "es.kay & Megwan",
         "s": "2026-03-31T18:00:00Z",
@@ -1467,25 +1443,45 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Karishma",
+        "s": "2026-04-07T17:00:00Z",
+        "e": "2026-04-07T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "karishma"
+      },
+      {
+        "n": "Ro-Motion",
+        "s": "2026-04-07T18:00:00Z",
+        "e": "2026-04-07T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-03-31T15:00:00Z",
-        "e": "2026-03-31T17:00:00Z",
+        "s": "2026-03-31T18:00:00Z",
+        "e": "2026-03-31T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "populous – guest session",
-        "s": "2026-03-31T17:00:00Z",
-        "e": "2026-03-31T18:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-03-31T20:00:00Z",
+        "e": "2026-03-31T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "CENTURY IN SOUND",
@@ -2025,27 +2021,19 @@
         "u": null,
         "t": "monthly",
         "p": "chandlerpoling"
+      },
+      {
+        "n": "Jonathan Kornman - Discoteca Imaginaria",
+        "s": "2026-04-07T17:00:00Z",
+        "e": "2026-04-07T19:00:00Z",
+        "d": null,
+        "j": "Discoteca Imaginaria",
+        "u": null,
+        "t": "monthly",
+        "p": "jonathankornman"
       }
     ],
     "rinse": [
-      {
-        "n": "Talina",
-        "s": "2026-03-31T16:00:00Z",
-        "e": "2026-03-31T17:00:00Z",
-        "d": null,
-        "j": "Punjabi Hit Squad",
-        "u": null,
-        "t": "regular",
-        "p": "talina"
-      },
-      {
-        "n": "Small Crab",
-        "s": "2026-03-31T17:00:00Z",
-        "e": "2026-03-31T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Kindergarten Records",
         "s": "2026-03-31T18:00:00Z",
@@ -2151,7 +2139,7 @@
         "s": "2026-04-01T08:00:00Z",
         "e": "2026-04-01T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Saba",
         "u": null,
         "t": "weekly",
         "p": "esk"
@@ -2170,7 +2158,7 @@
         "s": "2026-04-01T11:00:00Z",
         "e": "2026-04-01T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "An Alter-Ego & Anonymity Special",
         "u": null,
         "t": "weekly",
         "p": "eclecticist"
@@ -2194,14 +2182,12 @@
         "p": "fredp"
       },
       {
-        "n": "Utopia Presents",
+        "n": "Utopia Presents Ralf Gum",
         "s": "2026-04-01T14:00:00Z",
         "e": "2026-04-01T16:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "utopiapresents"
+        "j": "Live from Corsica Studios",
+        "u": null
       },
       {
         "n": "Talina",
@@ -2252,23 +2238,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Délé",
-        "s": "2026-03-31T16:00:00Z",
-        "e": "2026-03-31T17:00:00Z",
-        "d": null,
-        "j": "Your Favorite DJ's Favorite DJ",
-        "u": null
-      },
-      {
-        "n": "Tomás Urquieta",
-        "s": "2026-03-31T17:00:00Z",
-        "e": "2026-03-31T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "tomsurquieta"
-      },
       {
         "n": "Coffintexts",
         "s": "2026-03-31T18:00:00Z",
