@@ -1,41 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-03-31T14:54:50.367Z",
+  "updated": "2026-03-31T16:50:07.442Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Self Soothe w/ Margeaux",
-        "s": "2026-03-31T15:00:00+01:00",
-        "e": "2026-03-31T16:00:00+01:00",
-        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
-        "j": "Margeaux",
-        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-31st-march-2026",
-        "t": "weekly",
-        "p": "margeaux"
-      },
-      {
-        "n": "Sade Olutola",
-        "s": "2026-03-31T16:00:00+01:00",
-        "e": "2026-03-31T17:00:00+01:00",
-        "d": "New star on the London pop scene Sade Olutola stops by the studio, sharing original music and personal faves, from A Tribe Called Quest to Rihanna. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sade-olutola-31st-march-2026"
-      },
       {
         "n": "QUEST NO MORE W/ ELHEIST & Bianca Saunders",
         "s": "2026-03-31T17:00:00+01:00",
         "e": "2026-03-31T18:00:00+01:00",
-        "d": null,
+        "d": "Elheist steers deep‑cuts, left‑field electronica, obscure grooves and sounds from the fam into the fold, where worlds collide, textures shift and surprises hit. check your quest, leave the rest.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/quest-no-more/episodes/quest-no-more-31st-march-2026"
       },
       {
         "n": "Leicester's Finest w/ Mohammad Five",
         "s": "2026-03-31T18:00:00+01:00",
         "e": "2026-03-31T19:00:00+01:00",
-        "d": null,
+        "d": "Mohammad Five records presents Leicester's Finest. \n\"Soul sonics 2 abolish the demonics. REP UR ENDS DON'T WRECK UR ENDS. Specialising in pure UK Asian Flavaz and the truth. WALK WITH ME. From the dark. Dil diyan Gallan from Leicester and beyond. Real Star players.\"\n\"this zindagi is fading but our sins are multiplying\" - MISA (M5)",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/mohammad-adam/episodes/mohammad-adam-31st-march-2026"
       },
       {
         "n": "SURF GANG RADIO",
@@ -172,53 +154,54 @@
         "u": null,
         "t": "biweekly",
         "p": "moxie"
+      },
+      {
+        "n": "TASH LC",
+        "s": "2026-04-01T17:00:00+01:00",
+        "e": "2026-04-01T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "tashlc"
+      },
+      {
+        "n": "TOUCHING BASS W/ ERROL & ALEX RITA",
+        "s": "2026-04-01T18:00:00+01:00",
+        "e": "2026-04-01T20:00:00+01:00",
+        "d": null,
+        "j": "ERROL & ALEX RITA",
+        "u": null,
+        "t": "monthly",
+        "p": "touchingbass"
       }
     ],
     "nts2": [
       {
-        "n": "ARRHYTHMIA",
-        "s": "2026-03-31T14:00:00+01:00",
-        "e": "2026-03-31T16:00:00+01:00",
-        "d": "Broadcasting out of Birmingham, Arrhythmia is a monthly exploration of interesting new audio and abnormal rhythms. Expect irregular, dark or heavy - but not always.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ARRHYTHMIA/episodes/ARRHYTHMIA-31st-march-2026",
-        "t": "monthly",
-        "p": "arrhythmia"
-      },
-      {
-        "n": "NTS GUIDE TO: DD RECORDS (R)",
-        "s": "2026-03-31T16:00:00+01:00",
-        "e": "2026-03-31T17:00:00+01:00",
-        "d": "Plunging into the mysterious and creatively-free world of Japanese record label DD Records. Founded by Kamada Tadashi in the early 1980s. The collective produced hundreds of cassette releases from their wider social and creative circle, like-minded in their disregard for genre restrictions and commerciality. \nSelected and mixed by NTS, featuring tracks from Phantom Limb's forthcoming reissue, Disk Musik: A DD. Records Compilation.",
-        "j": "DD RECORDS",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-9th-april-2025",
-        "t": "restream"
-      },
-      {
         "n": "YU SU",
         "s": "2026-03-31T17:00:00+01:00",
         "e": "2026-03-31T18:00:00+01:00",
-        "d": null,
+        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-31st-march-2026",
+        "t": "monthly",
         "p": "yusu"
       },
       {
         "n": "PENDER STREET STEPPERS",
         "s": "2026-03-31T18:00:00+01:00",
         "e": "2026-03-31T20:00:00+01:00",
-        "d": null,
+        "d": "The breezy sound of the Canadian Riviera, from Mood Hut's Pender Street Steppers. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/pender-street-steppers/episodes/pender-street-steppers-31st-march-2026"
       },
       {
-        "n": "Nick Hakim (R)",
+        "n": "Nick Hakim",
         "s": "2026-03-31T20:00:00+01:00",
         "e": "2026-03-31T21:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "restream",
         "p": "nickhakim"
       },
       {
@@ -250,7 +233,7 @@
         "t": "monthly"
       },
       {
-        "n": "FREEDOM TO SPEND",
+        "n": "Freedom To Spend w/ Larrison",
         "s": "2026-04-01T01:00:00+01:00",
         "e": "2026-04-01T02:00:00+01:00",
         "d": null,
@@ -337,25 +320,36 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Still Light w/ Shida Shahabi",
+        "s": "2026-04-01T11:00:00+01:00",
+        "e": "2026-04-01T12:00:00+01:00",
+        "d": null,
+        "j": "Shida Shahabi",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "HTRK",
+        "s": "2026-04-01T12:00:00+01:00",
+        "e": "2026-04-01T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "htrk"
       }
     ],
     "subtle": [
       {
         "n": "Subtle Selects",
-        "s": "2026-03-31T11:00:00Z",
-        "e": "2026-03-31T15:00:00Z",
+        "s": "2026-03-31T16:00:00Z",
+        "e": "2026-03-31T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "STEPFWD w/ Masot  ",
-        "s": "2026-03-31T15:00:00Z",
-        "e": "2026-03-31T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
         "n": "EBITDA presents Bangersgalore",
@@ -1454,18 +1448,28 @@
         "u": null,
         "t": "monthly",
         "p": "nickedfawlty"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-03-31T13:00:00Z",
-        "e": "2026-03-31T15:00:00Z",
+        "n": "Get On festival ",
+        "s": "2026-04-07T15:00:00Z",
+        "e": "2026-04-07T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "getonfestival"
       },
+      {
+        "n": "SECH",
+        "s": "2026-04-07T16:00:00Z",
+        "e": "2026-04-07T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-03-31T15:00:00Z",
@@ -2002,19 +2006,28 @@
         "u": null,
         "t": "monthly",
         "p": "jennynono"
+      },
+      {
+        "n": "Gulniyal - gtalks! radio",
+        "s": "2026-04-07T15:00:00Z",
+        "e": "2026-04-07T16:00:00Z",
+        "d": null,
+        "j": "gtalks! radio",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Chandler Poling - Studio Soundtracks",
+        "s": "2026-04-07T16:00:00Z",
+        "e": "2026-04-07T17:00:00Z",
+        "d": null,
+        "j": "Studio Soundtracks",
+        "u": null,
+        "t": "monthly",
+        "p": "chandlerpoling"
       }
     ],
     "rinse": [
-      {
-        "n": "Brighter Days Family",
-        "s": "2026-03-31T14:00:00Z",
-        "e": "2026-03-31T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "brighterdaysfamily"
-      },
       {
         "n": "Talina",
         "s": "2026-03-31T16:00:00Z",
@@ -2240,24 +2253,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Vie Garantie",
-        "s": "2026-03-31T14:00:00Z",
-        "e": "2026-03-31T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "viegarantie"
-      },
-      {
-        "n": "Jaxx TMS",
-        "s": "2026-03-31T15:00:00Z",
-        "e": "2026-03-31T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Délé",
         "s": "2026-03-31T16:00:00Z",
         "e": "2026-03-31T17:00:00Z",
@@ -2358,7 +2353,7 @@
         "s": "2026-04-01T17:00:00Z",
         "e": "2026-04-01T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "INVITES MEG WARD",
         "u": null
       },
       {
