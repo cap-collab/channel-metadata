@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-03-31T12:56:45.801Z",
+  "updated": "2026-03-31T14:54:50.367Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Low Life Loves You w/ Bill Brewster",
-        "s": "2026-03-31T13:00:00+01:00",
-        "e": "2026-03-31T15:00:00+01:00",
-        "d": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bill-brewster/episodes/bill-brewster-31st-march-2026",
-        "p": "billbrewster"
-      },
-      {
-        "n": "Self Soothe w/ Margeaux",
-        "s": "2026-03-31T14:00:00+01:00",
-        "e": "2026-03-31T15:00:00+01:00",
-        "d": null,
-        "j": "Margeaux",
-        "u": null,
-        "p": "margeaux",
-        "t": "weekly"
-      },
       {
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-03-31T15:00:00+01:00",
@@ -36,9 +17,9 @@
         "n": "Sade Olutola",
         "s": "2026-03-31T16:00:00+01:00",
         "e": "2026-03-31T17:00:00+01:00",
-        "d": null,
+        "d": "New star on the London pop scene Sade Olutola stops by the studio, sharing original music and personal faves, from A Tribe Called Quest to Rihanna. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sade-olutola-31st-march-2026"
       },
       {
         "n": "QUEST NO MORE W/ ELHEIST & Bianca Saunders",
@@ -181,17 +162,19 @@
         "j": "RHYTHM SECTION",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "MOXIE",
+        "s": "2026-04-01T15:00:00+01:00",
+        "e": "2026-04-01T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "moxie"
       }
     ],
     "nts2": [
-      {
-        "n": "Bby Eco Plays Sky (i)",
-        "s": "2026-03-31T13:00:00+01:00",
-        "e": "2026-03-31T14:00:00+01:00",
-        "d": "Amsterdam producer and DJ Bby Eco stops by the studio to perform tracks from his new album Sky (i) live, alongside other personal favourites and inspirations to his own music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/bby-eco-plays-sky-i-31st-march-2026"
-      },
       {
         "n": "ARRHYTHMIA",
         "s": "2026-03-31T14:00:00+01:00",
@@ -206,9 +189,9 @@
         "n": "NTS GUIDE TO: DD RECORDS (R)",
         "s": "2026-03-31T16:00:00+01:00",
         "e": "2026-03-31T17:00:00+01:00",
-        "d": null,
+        "d": "Plunging into the mysterious and creatively-free world of Japanese record label DD Records. Founded by Kamada Tadashi in the early 1980s. The collective produced hundreds of cassette releases from their wider social and creative circle, like-minded in their disregard for genre restrictions and commerciality. \nSelected and mixed by NTS, featuring tracks from Phantom Limb's forthcoming reissue, Disk Musik: A DD. Records Compilation.",
         "j": "DD RECORDS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-9th-april-2025",
         "t": "restream"
       },
       {
@@ -229,21 +212,23 @@
         "u": null
       },
       {
-        "n": "Nick Hakim",
+        "n": "Nick Hakim (R)",
         "s": "2026-03-31T20:00:00+01:00",
         "e": "2026-03-31T21:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
+        "t": "restream",
         "p": "nickhakim"
       },
       {
-        "n": "Cosmic Soundz",
+        "n": "Sam Wilkes (R)",
         "s": "2026-03-31T21:00:00+01:00",
         "e": "2026-03-31T22:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "BRWN W/ AHWLEE & PINK SIIFU",
@@ -339,6 +324,15 @@
         "n": "A Colourful Storm (R)",
         "s": "2026-04-01T09:00:00+01:00",
         "e": "2026-04-01T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "JIM O'ROURKE (R)",
+        "s": "2026-04-01T10:00:00+01:00",
+        "e": "2026-04-01T11:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
@@ -1440,13 +1434,33 @@
         "u": null,
         "t": "monthly",
         "p": "bassexchange"
+      },
+      {
+        "n": "Solly",
+        "s": "2026-04-07T13:00:00Z",
+        "e": "2026-04-07T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "solly"
+      },
+      {
+        "n": "Nicked Fawlty",
+        "s": "2026-04-07T14:00:00Z",
+        "e": "2026-04-07T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nickedfawlty"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-03-31T11:00:00Z",
-        "e": "2026-03-31T13:00:00Z",
+        "s": "2026-03-31T13:00:00Z",
+        "e": "2026-03-31T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1454,8 +1468,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-03-31T13:00:00Z",
-        "e": "2026-03-31T15:00:00Z",
+        "s": "2026-03-31T15:00:00Z",
+        "e": "2026-03-31T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1992,25 +2006,6 @@
     ],
     "rinse": [
       {
-        "n": "Suzie Bakos",
-        "s": "2026-03-31T12:00:00Z",
-        "e": "2026-03-31T13:00:00Z",
-        "d": null,
-        "j": "Ella Wills",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Anastazja",
-        "s": "2026-03-31T13:00:00Z",
-        "e": "2026-03-31T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "anastazja"
-      },
-      {
         "n": "Brighter Days Family",
         "s": "2026-03-31T14:00:00Z",
         "e": "2026-03-31T16:00:00Z",
@@ -2245,15 +2240,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Giorgi Pipia",
-        "s": "2026-03-31T12:00:00Z",
-        "e": "2026-03-31T14:00:00Z",
-        "d": null,
-        "j": "Crisco",
-        "u": null,
-        "p": "giorgipipia"
-      },
-      {
         "n": "Vie Garantie",
         "s": "2026-03-31T14:00:00Z",
         "e": "2026-03-31T15:00:00Z",
@@ -2272,8 +2258,16 @@
         "u": null
       },
       {
-        "n": "Tomás Urquieta",
+        "n": "Délé",
         "s": "2026-03-31T16:00:00Z",
+        "e": "2026-03-31T17:00:00Z",
+        "d": null,
+        "j": "Your Favorite DJ's Favorite DJ",
+        "u": null
+      },
+      {
+        "n": "Tomás Urquieta",
+        "s": "2026-03-31T17:00:00Z",
         "e": "2026-03-31T18:00:00Z",
         "d": null,
         "j": null,
