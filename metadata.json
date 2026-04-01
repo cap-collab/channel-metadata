@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-01T16:44:49.478Z",
+  "updated": "2026-04-01T18:49:07.442Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TASH LC w/ Tomas Bigno",
-        "s": "2026-04-01T17:00:00+01:00",
-        "e": "2026-04-01T18:00:00+01:00",
-        "d": "After work fun and global tunes with Tash LC and guests every other Wednesday ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tash-lc/episodes/tash-lc-1st-april-2026",
-        "p": "tashlc"
-      },
       {
         "n": "TOUCHING BASS W/ ERROL & ALEX RITA",
         "s": "2026-04-01T18:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "GIULIA TESS",
         "s": "2026-04-01T20:00:00+01:00",
         "e": "2026-04-01T21:00:00+01:00",
-        "d": null,
+        "d": "NTS's own Giulia Tess pulls us leftfield once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/giulia-tess/episodes/giulia-tess-1st-april-2026",
         "t": "monthly",
         "p": "giuliatess"
       },
@@ -176,31 +167,12 @@
     ],
     "nts2": [
       {
-        "n": "ASTRID SONNE w/ Vanessa Bedoret",
-        "s": "2026-04-01T17:00:00+01:00",
-        "e": "2026-04-01T18:00:00+01:00",
-        "d": "1-hour monthly show with composer and musician Astrid Sonne. Sharing everything from rock to dub to classical to pop. ",
-        "j": "Vanessa Bedoret",
-        "u": "https://www.nts.live/api/v2/shows/astrid-sonne/episodes/astrid-sonne-1st-april-2026",
-        "t": "monthly",
-        "p": "astridsonne"
-      },
-      {
-        "n": "Se Queman CDs w/ weed420: Estoy Viviendo",
-        "s": "2026-04-01T18:00:00+01:00",
-        "e": "2026-04-01T19:00:00+01:00",
-        "d": "Played live on Sundays at Juan's house in Naguanagua, Venezuela, the weed420 crew invite you into their world of mind-melting \"epic collages\" of Latin club and pop sounds.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/weed420/episodes/weed420-1st-april-2026",
-        "p": "weed420"
-      },
-      {
         "n": "BLUE SCREEN w/ AMAR",
         "s": "2026-04-01T19:00:00+01:00",
         "e": "2026-04-01T20:00:00+01:00",
-        "d": null,
+        "d": "Hosted by @amarediriwira, Blue Screen is a show experimenting with the concept of ‘audio screenings’, presenting extracts of films and visual artefacts along with commentary or within mixtapes.\nFrom the host: \"A mixtape found in missing film student Joshua Leonard's car stereo.\"",
         "j": "AMAR",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/blue-screen/episodes/blue-screen-1st-april-2026",
         "t": "monthly",
         "p": "bluescreen"
       },
@@ -208,9 +180,9 @@
         "n": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
         "s": "2026-04-01T20:00:00+01:00",
         "e": "2026-04-01T21:00:00+01:00",
-        "d": null,
+        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures. ",
         "j": "Taylor Rowley",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-1st-april-2026",
         "t": "biweekly"
       },
       {
@@ -349,28 +321,27 @@
         "u": null,
         "t": "restream",
         "p": "pure"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Groundwrk w/ B4B",
-        "s": "2026-04-01T16:00:00Z",
-        "e": "2026-04-01T17:00:00Z",
-        "d": null,
-        "j": "B4B",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": " Ellen",
-        "s": "2026-04-01T17:00:00Z",
-        "e": "2026-04-01T18:00:00Z",
+        "n": "YL HOOI",
+        "s": "2026-04-02T11:00:00+01:00",
+        "e": "2026-04-02T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "ellen"
+        "p": "ylhooi"
       },
+      {
+        "n": "Happy Death",
+        "s": "2026-04-02T12:00:00+01:00",
+        "e": "2026-04-02T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "happydeath"
+      }
+    ],
+    "subtle": [
       {
         "n": "Murky Sonics",
         "s": "2026-04-01T18:00:00Z",
@@ -1469,18 +1440,28 @@
         "j": "AIREDARCHIVE",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "in plain sight radio",
-        "s": "2026-04-01T15:00:00Z",
-        "e": "2026-04-01T17:00:00Z",
+        "n": "SQUARED: STARKEYE",
+        "s": "2026-04-08T17:00:00Z",
+        "e": "2026-04-08T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "STARKEYE",
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": " We Kill Culture",
+        "s": "2026-04-08T18:00:00Z",
+        "e": "2026-04-08T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "wekillculture"
+      }
+    ],
+    "dublab": [
       {
         "n": "Andres Renteria - Shining Spirit Sound",
         "s": "2026-04-01T17:00:00Z",
@@ -1490,6 +1471,15 @@
         "u": null,
         "t": "monthly",
         "p": "andresrenteria"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-01T19:00:00Z",
+        "e": "2026-04-01T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Lana Miller – Soft Focus",
@@ -1557,6 +1547,14 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "MT Gemini – guest sessions",
+        "s": "2026-04-02T16:00:00Z",
+        "e": "2026-04-02T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Dustin Wong – Why Did Why Did Why Did",
@@ -2084,27 +2082,30 @@
         "u": null,
         "t": "monthly",
         "p": "theurxed"
+      },
+      {
+        "n": "The Programme with Larry G",
+        "s": "2026-04-08T17:00:00Z",
+        "e": "2026-04-08T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "larryg"
       }
     ],
     "rinse": [
-      {
-        "n": "Talina",
-        "s": "2026-04-01T16:00:00Z",
-        "e": "2026-04-01T17:00:00Z",
-        "d": null,
-        "j": "Rebekah Abdeen",
-        "u": null,
-        "t": "regular",
-        "p": "talina"
-      },
       {
         "n": "DaMetalMessiah",
         "s": "2026-04-01T17:00:00Z",
         "e": "2026-04-01T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Pinch",
         "u": null,
-        "p": "dametalmessiah"
+        "p": "dametalmessiah",
+        "ap": [
+          "pinch"
+        ]
       },
       {
         "n": "Rupture with Double O & Forest Drive West",
@@ -2137,7 +2138,7 @@
       {
         "n": "Allecto",
         "s": "2026-04-01T23:00:00Z",
-        "e": "2026-04-02T01:00:00Z",
+        "e": "2026-04-02T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2145,12 +2146,20 @@
       },
       {
         "n": "Doctor Jeep",
-        "s": "2026-04-02T01:00:00Z",
-        "e": "2026-04-02T02:00:00Z",
+        "s": "2026-04-02T00:00:00Z",
+        "e": "2026-04-02T01:00:00Z",
         "d": null,
         "j": "140 Special",
         "u": null,
         "p": "doctorjeep"
+      },
+      {
+        "n": "Kindergarten Records",
+        "s": "2026-04-02T01:00:00Z",
+        "e": "2026-04-02T02:00:00Z",
+        "d": null,
+        "j": "Ma Sha",
+        "u": null
       },
       {
         "n": "Electronic Playlist",
@@ -2280,22 +2289,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Lil Rosy & Zepequenai",
-        "s": "2026-04-01T16:00:00Z",
-        "e": "2026-04-01T17:00:00Z",
-        "d": null,
-        "j": "B3B avec Othélie",
-        "u": null
-      },
-      {
-        "n": "Triple G Records",
-        "s": "2026-04-01T17:00:00Z",
-        "e": "2026-04-01T18:00:00Z",
-        "d": null,
-        "j": "INVITES MEG WARD",
-        "u": null
-      },
-      {
         "n": "Lisa More",
         "s": "2026-04-01T18:00:00Z",
         "e": "2026-04-01T19:00:00Z",
@@ -2364,7 +2357,7 @@
         "s": "2026-04-02T15:00:00Z",
         "e": "2026-04-02T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Radio Romansa",
         "u": null,
         "t": "monthly"
       },
