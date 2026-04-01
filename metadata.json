@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-01T07:09:45.852Z",
+  "updated": "2026-04-01T08:55:11.532Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Early Bird Show w/ Spirit Blue & SHAUWDII",
-        "s": "2026-04-01T07:00:00+01:00",
-        "e": "2026-04-01T09:00:00+01:00",
-        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-1st-april-2026"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO & Cam Picton",
         "s": "2026-04-01T09:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-04-01T11:00:00+01:00",
         "e": "2026-04-01T13:00:00+01:00",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-1st-april-2026",
         "t": "weekly",
         "p": "shyone"
       },
@@ -165,19 +157,19 @@
         "j": "PAM",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-04-02T09:00:00+01:00",
+        "e": "2026-04-02T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "Forager Records (R)",
-        "s": "2026-04-01T08:00:00+01:00",
-        "e": "2026-04-01T09:00:00+01:00",
-        "d": "Forager Records is a Los Angeles based record label, committed to unearthing and breathing new life into rare and under appreciated sounds from the past. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/forager-records/episodes/forager-records-11th-september-2025",
-        "t": "restream",
-        "p": "foragerrecords"
-      },
       {
         "n": "A Colourful Storm (R)",
         "s": "2026-04-01T09:00:00+01:00",
@@ -191,9 +183,9 @@
         "n": "JIM O'ROURKE (R)",
         "s": "2026-04-01T10:00:00+01:00",
         "e": "2026-04-01T11:00:00+01:00",
-        "d": null,
+        "d": "Avant-garde musician and composer Jim O'Rourke pulls stops by once a month, pulling an hour of picks from his extensive record collection.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jim-o-rourke/episodes/jim-o-rourke-4th-september-2025",
         "t": "restream"
       },
       {
@@ -332,18 +324,19 @@
         "u": null,
         "t": "restream",
         "p": "postgeography"
+      },
+      {
+        "n": "Troth",
+        "s": "2026-04-02T02:00:00+01:00",
+        "e": "2026-04-02T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "troth"
       }
     ],
     "subtle": [
-      {
-        "n": "Sing/Say w/ Paul Hertmann",
-        "s": "2026-04-01T07:00:00Z",
-        "e": "2026-04-01T08:00:00Z",
-        "d": null,
-        "j": "Paul Hertmann",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-04-01T08:00:00Z",
@@ -1461,6 +1454,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "AR1AH ",
+        "s": "2026-04-08T08:00:00Z",
+        "e": "2026-04-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2087,15 +2089,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-04-01T06:00:00Z",
-        "e": "2026-04-01T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Esk",
         "s": "2026-04-01T08:00:00Z",
