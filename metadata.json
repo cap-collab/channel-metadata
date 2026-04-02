@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-02T08:45:45.954Z",
+  "updated": "2026-04-02T10:43:27.752Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-04-02T09:00:00+01:00",
-        "e": "2026-04-02T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-2nd-april-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-04-02T11:00:00+01:00",
@@ -25,9 +15,9 @@
         "n": "GABI",
         "s": "2026-04-02T13:00:00+01:00",
         "e": "2026-04-02T14:00:00+01:00",
-        "d": null,
+        "d": "Musical peregrinations from Gabi, guiding listeners through new wave, post punk and synth. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gabi/episodes/gabi-2nd-april-2026",
         "t": "biweekly",
         "p": "gabi"
       },
@@ -53,7 +43,7 @@
       {
         "n": "ANZ",
         "s": "2026-04-02T17:00:00+01:00",
-        "e": "2026-04-02T18:00:00+01:00",
+        "e": "2026-04-02T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
@@ -167,45 +157,36 @@
         "j": null,
         "u": null,
         "p": "freewater"
+      },
+      {
+        "n": "SLAP CITY W/ ARCHITECT",
+        "s": "2026-04-03T15:00:00+01:00",
+        "e": "2026-04-03T16:00:00+01:00",
+        "d": null,
+        "j": "ARCHITECT",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Gribs (R)",
-        "s": "2026-04-02T09:00:00+01:00",
-        "e": "2026-04-02T10:00:00+01:00",
-        "d": "Life on wide mode.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gribs/episodes/gribs-2nd-april-2024",
-        "t": "restream",
-        "p": "gribs"
-      },
-      {
-        "n": "PURE AT CAFE DEL MAR (R)",
-        "s": "2026-04-02T10:00:00+01:00",
-        "e": "2026-04-02T11:00:00+01:00",
-        "d": "El sol desapareciendo en el horizonte.\nPURE at Café Del Mar, Ibiza. Music for sunsets, directed by Evian Christ and Slam Jam.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/pure/episodes/pure-torus-31st-august-2025",
-        "t": "restream",
-        "p": "pure"
-      },
-      {
         "n": "YL HOOI",
         "s": "2026-04-02T11:00:00+01:00",
         "e": "2026-04-02T12:00:00+01:00",
-        "d": null,
+        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-2nd-april-2026",
+        "t": "monthly",
         "p": "ylhooi"
       },
       {
         "n": "Happy Death",
         "s": "2026-04-02T12:00:00+01:00",
         "e": "2026-04-02T13:00:00+01:00",
-        "d": null,
+        "d": "Ed Horrox, the creative director and A&R from 4AD joins NTS once a month for an hour of his personal favourites, which can be pretty much anything: hip-hop, house, found ‘classics’, esoteric century-old jazz recordings, and then occasionally some of those unreleased leftfield pop bangers that 4AD seem to be so good at finding. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/happy-death/episodes/happy-death-2nd-april-2026",
+        "t": "monthly",
         "p": "happydeath"
       },
       {
@@ -235,13 +216,12 @@
         "p": "georgia"
       },
       {
-        "n": "AUTOTUNE THE WORLD W/ CHRISTOPHER KIRKLEY",
+        "n": "Autotune the World w/ Azzi On The Beat",
         "s": "2026-04-02T16:00:00+01:00",
         "e": "2026-04-02T17:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "christopherkirkley"
+        "u": null
       },
       {
         "n": "RICH & JONNY PRESENT INZANE MICHIGAN: Early Motown Special",
@@ -338,27 +318,26 @@
         "ap": [
           "screwbossradio"
         ]
-      }
-    ],
-    "subtle": [
-      {
-        "n": " In The Rotation w/ Su",
-        "s": "2026-04-02T08:00:00Z",
-        "e": "2026-04-02T09:00:00Z",
-        "d": null,
-        "j": "Su",
-        "u": null,
-        "t": "biweekly"
       },
       {
-        "n": "Adele Tondu",
-        "s": "2026-04-02T09:00:00Z",
-        "e": "2026-04-02T10:00:00Z",
+        "n": "626COMPANY RADIO W/ DJ GONORRHEA & DJ诸葛亮 & MC蒙古包",
+        "s": "2026-04-03T04:00:00+01:00",
+        "e": "2026-04-03T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LIV.E (R)",
+        "s": "2026-04-03T05:00:00+01:00",
+        "e": "2026-04-03T06:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "DIASPORA with Ben Fitzperc",
         "s": "2026-04-02T10:00:00Z",
@@ -1458,13 +1437,22 @@
         "u": null,
         "t": "monthly",
         "p": "deepawakebysemaj"
+      },
+      {
+        "n": "Emanuel",
+        "s": "2026-04-09T09:00:00Z",
+        "e": "2026-04-09T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-02T07:40:00Z",
-        "e": "2026-04-02T10:00:00Z",
+        "s": "2026-04-02T10:00:00Z",
+        "e": "2026-04-02T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1472,8 +1460,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-02T10:00:00Z",
-        "e": "2026-04-02T12:00:00Z",
+        "s": "2026-04-02T12:00:00Z",
+        "e": "2026-04-02T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2089,16 +2077,6 @@
     ],
     "rinse": [
       {
-        "n": "Yazmin Lacey",
-        "s": "2026-04-02T08:00:00Z",
-        "e": "2026-04-02T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
         "n": "Jordan Mae",
         "s": "2026-04-02T10:00:00Z",
         "e": "2026-04-02T11:00:00Z",
@@ -2113,7 +2091,7 @@
         "s": "2026-04-02T11:00:00Z",
         "e": "2026-04-02T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "UK Garage's Baltimore Club Connection",
         "u": null,
         "p": "nathanevans"
       },
@@ -2170,7 +2148,7 @@
       {
         "n": "Arthi",
         "s": "2026-04-02T18:00:00Z",
-        "e": "2026-04-02T21:00:00Z",
+        "e": "2026-04-02T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2178,12 +2156,25 @@
         "p": "arthi"
       },
       {
-        "n": "Pariah preesents Voam",
+        "n": "Om Unit with Fracture",
+        "s": "2026-04-02T19:00:00Z",
+        "e": "2026-04-02T21:00:00Z",
+        "d": null,
+        "j": "From The Vault (2018)",
+        "u": null,
+        "p": "fracture",
+        "ap": [
+          "omunit"
+        ]
+      },
+      {
+        "n": "Pariah presents Voam",
         "s": "2026-04-02T21:00:00Z",
         "e": "2026-04-02T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Ormside Projects",
         "u": null,
+        "t": "weekly",
         "p": "pariah"
       },
       {
@@ -2191,7 +2182,7 @@
         "s": "2026-04-02T22:00:00Z",
         "e": "2026-04-02T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B DJ Mum",
         "u": null,
         "t": "weekly",
         "p": "djplead"
@@ -2211,7 +2202,7 @@
         "s": "2026-04-03T00:00:00Z",
         "e": "2026-04-03T01:00:00Z",
         "d": null,
-        "j": null,
+        "j": "NAIVE SUPREME",
         "u": null,
         "t": "weekly"
       },
