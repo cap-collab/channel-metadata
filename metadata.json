@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-02T10:43:27.752Z",
+  "updated": "2026-04-02T12:52:44.889Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ BABYSCHÖN",
-        "s": "2026-04-02T11:00:00+01:00",
-        "e": "2026-04-02T13:00:00+01:00",
-        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-2nd-april-2026"
-      },
       {
         "n": "GABI",
         "s": "2026-04-02T13:00:00+01:00",
@@ -25,9 +17,9 @@
         "n": "Fauzia",
         "s": "2026-04-02T14:00:00+01:00",
         "e": "2026-04-02T15:00:00+01:00",
-        "d": null,
+        "d": "Longtime NTS resident, producer, vocalist and DJ Fauzia guides us through the multiplicity of her influences and tastes for an hour each month. Expect everything from frenetic club productions to classical composition, experimental electronics and beyond. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/fauzia/episodes/fauzia-2nd-april-2026",
         "t": "monthly",
         "p": "fauzia"
       },
@@ -166,44 +158,33 @@
         "j": "ARCHITECT",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SELASSIE TBC",
+        "s": "2026-04-03T16:00:00+01:00",
+        "e": "2026-04-03T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "selassietbc"
       }
     ],
     "nts2": [
       {
-        "n": "YL HOOI",
-        "s": "2026-04-02T11:00:00+01:00",
-        "e": "2026-04-02T12:00:00+01:00",
-        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-2nd-april-2026",
-        "t": "monthly",
-        "p": "ylhooi"
-      },
-      {
-        "n": "Happy Death",
-        "s": "2026-04-02T12:00:00+01:00",
-        "e": "2026-04-02T13:00:00+01:00",
-        "d": "Ed Horrox, the creative director and A&R from 4AD joins NTS once a month for an hour of his personal favourites, which can be pretty much anything: hip-hop, house, found ‘classics’, esoteric century-old jazz recordings, and then occasionally some of those unreleased leftfield pop bangers that 4AD seem to be so good at finding. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/happy-death/episodes/happy-death-2nd-april-2026",
-        "t": "monthly",
-        "p": "happydeath"
-      },
-      {
         "n": "FRAGRANT SACRIFICE w/ NAIMA Nefertari",
         "s": "2026-04-02T13:00:00+01:00",
         "e": "2026-04-02T14:00:00+01:00",
-        "d": null,
+        "d": "Artist & composer Naima Karlsson explores esoteric themes through the mediums of spiritual & free jazz, idiosyncratic folk music, spoken word, improvisation and more.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/naima/episodes/naima-2nd-april-2026"
       },
       {
         "n": "Nusantara Beat",
         "s": "2026-04-02T14:00:00+01:00",
         "e": "2026-04-02T15:00:00+01:00",
-        "d": null,
+        "d": "Hyped Indonesian psych outfit Nusantara Beat share their musical heritage and inspirations, playing original tracks alongside vintage Indonesian pop records.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nusantara-beat-2nd-april-2026"
       },
       {
         "n": "GEORGIA",
@@ -335,27 +316,25 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Footwork Vortex w/ OOMBOI LAUW",
+        "s": "2026-04-03T06:00:00+01:00",
+        "e": "2026-04-03T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SHAH RUKH KHAN W/ OJASVANI",
+        "s": "2026-04-03T07:00:00+01:00",
+        "e": "2026-04-03T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "DIASPORA with Ben Fitzperc",
-        "s": "2026-04-02T10:00:00Z",
-        "e": "2026-04-02T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Arriba",
-        "s": "2026-04-02T11:00:00Z",
-        "e": "2026-04-02T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "QUIN-B",
         "s": "2026-04-02T12:00:00Z",
@@ -1446,13 +1425,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Con Artist",
+        "s": "2026-04-09T11:00:00Z",
+        "e": "2026-04-09T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Into The Lion's Den w/ Restrikt",
+        "s": "2026-04-09T12:00:00Z",
+        "e": "2026-04-09T13:00:00Z",
+        "d": null,
+        "j": "Restrikt",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-02T10:00:00Z",
-        "e": "2026-04-02T12:00:00Z",
+        "s": "2026-04-02T12:00:00Z",
+        "e": "2026-04-02T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1460,8 +1457,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-02T12:00:00Z",
-        "e": "2026-04-02T14:00:00Z",
+        "s": "2026-04-02T14:00:00Z",
+        "e": "2026-04-02T15:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2077,25 +2074,6 @@
     ],
     "rinse": [
       {
-        "n": "Jordan Mae",
-        "s": "2026-04-02T10:00:00Z",
-        "e": "2026-04-02T11:00:00Z",
-        "d": null,
-        "j": "Soul Selections - Astral Cruisin",
-        "u": null,
-        "t": "weekly",
-        "p": "jordanmae"
-      },
-      {
-        "n": "Nathan Evans",
-        "s": "2026-04-02T11:00:00Z",
-        "e": "2026-04-02T12:00:00Z",
-        "d": null,
-        "j": "UK Garage's Baltimore Club Connection",
-        "u": null,
-        "p": "nathanevans"
-      },
-      {
         "n": "SK Vibemaker",
         "s": "2026-04-02T12:00:00Z",
         "e": "2026-04-02T13:00:00Z",
@@ -2328,15 +2306,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-02T07:00:00Z",
-        "e": "2026-04-02T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-02T12:00:00Z",
         "e": "2026-04-02T13:00:00Z",
         "d": null,
@@ -2453,7 +2422,7 @@
         "s": "2026-04-03T14:00:00Z",
         "e": "2026-04-03T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Everybody hates Monique",
         "u": null,
         "t": "weekly",
         "p": "queercult"
@@ -2483,7 +2452,7 @@
         "s": "2026-04-03T17:00:00Z",
         "e": "2026-04-03T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DORMIR DEBOUT : A TURNTABLE IS A PORTAL",
         "u": null,
         "t": "monthly"
       },
