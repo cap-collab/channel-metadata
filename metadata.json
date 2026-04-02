@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-02T20:26:40.932Z",
+  "updated": "2026-04-02T22:23:57.598Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GHOST NOTES WORLDWIDE w/ Nicky Soft Touch & ELDON",
-        "s": "2026-04-02T20:00:00+01:00",
-        "e": "2026-04-02T22:00:00+01:00",
-        "d": "Tune into Ghost Notes Worldwide for that post-twilight sound. Night time music of all strains, with blunted R&B and hip hop instrumentals, neo-downtempo productions, slow jams, and hazy dancefloor sounds.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/impey/episodes/impey-2nd-april-2026"
-      },
       {
         "n": "drizle.FM w/ PLO MAN",
         "s": "2026-04-02T22:00:00+01:00",
@@ -23,9 +15,9 @@
         "n": "DON'T TRIP W/ MARGARITA",
         "s": "2026-04-03T00:00:00+01:00",
         "e": "2026-04-03T02:00:00+01:00",
-        "d": null,
+        "d": "Somewhere between banging your head against a brick wall and holding your breath under water.",
         "j": "MARGARITA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dont-trip/episodes/dont-trip-3rd-april-2026",
         "t": "monthly"
       },
       {
@@ -164,43 +156,34 @@
         "j": "DAZEGXD",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DVL6 w/ Medis ft Guttr",
+        "s": "2026-04-03T21:00:00+01:00",
+        "e": "2026-04-03T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "KISS CAFE W/ Maraschino",
-        "s": "2026-04-02T21:00:00+01:00",
-        "e": "2026-04-02T22:00:00+01:00",
-        "d": "Piper Durabo AKA Maraschino serves up an assortment of hyperdelic jams from her NYC HQ\nFrom the host: \"one 4 the Candy Perfume Gurlz\"",
-        "j": "Maraschino",
-        "u": "https://www.nts.live/api/v2/shows/piper-durabo/episodes/piper-durabo-2nd-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Carlos René: Fumarola",
-        "s": "2026-04-02T22:00:00+01:00",
-        "e": "2026-04-02T23:00:00+01:00",
-        "d": "Join us for monthly sessions with Carlos René, co-founder of Casa Calypso record shop in Mexico City. Carlos specializes in uncovering rare Latin American recordings and has a passion for a diverse range of genres, including cumbia, Latin funk, Mexican garage rock & psych, boogaloo, and other rare grooves. Let Carlos take you on a captivating musical journey through the vibrant sounds of Latin America that will keep you grooving any time of the day.\nFrom the host: \"Tropical psychedelia with a latin soul directly from the vinyl grooves\"",
-        "j": "Fumarola",
-        "u": "https://www.nts.live/api/v2/shows/carlos-rene/episodes/carlos-rene-2nd-april-2026",
-        "t": "monthly"
-      },
-      {
         "n": "BUDGIE",
         "s": "2026-04-02T23:00:00+01:00",
         "e": "2026-04-03T00:00:00+01:00",
-        "d": null,
+        "d": "BUDGIE – serving up jazz, hip-hop, soul, beats & more from his sprawling record collection, once a month from our LA studio.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/budgie/episodes/budgie-2nd-april-2026",
+        "t": "monthly",
         "p": "budgie"
       },
       {
         "n": "Casual Play w/ De Alma (R)",
         "s": "2026-04-03T00:00:00+01:00",
         "e": "2026-04-03T01:00:00+01:00",
-        "d": null,
+        "d": "Casual Play was launched in 2010 by DJ Spiñorita to serve the people fresh, new music from diverse styles and genres. Handpicked by Spiñorita, you can expect to hear music ranging from Broken Beat, Hip Hop, Latin, Disco and then some – monthly on NTS Radio LA.",
         "j": "De Alma",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/casual-play/episodes/casual-play-19th-september-2025",
         "t": "restream",
         "p": "casualplay"
       },
@@ -323,18 +306,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SARA A",
+        "s": "2026-04-03T18:00:00+01:00",
+        "e": "2026-04-03T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "saraa"
+      },
+      {
+        "n": "Ginkgo Records",
+        "s": "2026-04-03T19:00:00+01:00",
+        "e": "2026-04-03T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "J:Kenzo ",
-        "s": "2026-04-02T20:00:00Z",
-        "e": "2026-04-02T22:00:00Z",
-        "d": "J:KENZO is a producer and record label owner (Artikal Music & Lion Charge) from the UK. Known for his minimalistic dark tribal sound in the both the dubstep and drum and bass scenes since 2006. ",
-        "j": "Kenzo",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-04-02T22:00:00Z",
@@ -1424,19 +1417,29 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Benteki",
+        "s": "2026-04-09T21:00:00Z",
+        "e": "2026-04-09T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "benteki"
+      },
+      {
+        "n": "Matt Frost ",
+        "s": "2026-04-09T22:00:00Z",
+        "e": "2026-04-09T23:00:00Z",
+        "d": "Potent Funk records’ Matt Frost - Well known for his technical abilities and Sleazy bass music style, Frost covers all angles from UK alt Rap to the LA beat scene.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "mattfrost"
       }
     ],
     "dublab": [
-      {
-        "n": "Jimmy Tamborello - Dying Songs",
-        "s": "2026-04-02T19:00:00Z",
-        "e": "2026-04-02T21:00:00Z",
-        "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
-        "j": "Dying Songs",
-        "u": null,
-        "t": "weekly",
-        "p": "jimmytamborello"
-      },
       {
         "n": "Deepbody – Digi Drift",
         "s": "2026-04-02T21:00:00Z",
@@ -1446,6 +1449,15 @@
         "u": null,
         "t": "monthly",
         "p": "deepbody"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-02T23:00:00Z",
+        "e": "2026-04-03T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "JELLY – Blended Beats",
@@ -2045,31 +2057,23 @@
         "u": null,
         "t": "weekly",
         "p": "jimmytamborello"
+      },
+      {
+        "n": "Hannah Rubin and Noelle Armstrong – MELLOW DRAMA",
+        "s": "2026-04-09T21:00:00Z",
+        "e": "2026-04-09T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "hannah",
+        "ap": [
+          "hannahrubin",
+          "noellearmstrong"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "Om Unit with Fracture",
-        "s": "2026-04-02T19:00:00Z",
-        "e": "2026-04-02T21:00:00Z",
-        "d": null,
-        "j": "From The Vault (2018)",
-        "u": null,
-        "p": "fracture",
-        "ap": [
-          "omunit"
-        ]
-      },
-      {
-        "n": "Pariah presents Voam",
-        "s": "2026-04-02T21:00:00Z",
-        "e": "2026-04-02T22:00:00Z",
-        "d": null,
-        "j": "Live from Ormside Projects",
-        "u": null,
-        "t": "weekly",
-        "p": "pariah"
-      },
       {
         "n": "DJ Plead",
         "s": "2026-04-02T22:00:00Z",
@@ -2218,15 +2222,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-04-02T19:00:00Z",
-        "e": "2026-04-02T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-04-02T22:00:00Z",
