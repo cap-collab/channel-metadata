@@ -1,23 +1,14 @@
 {
   "v": 2,
-  "updated": "2026-04-02T14:48:32.633Z",
+  "updated": "2026-04-02T16:47:40.994Z",
   "stations": {
     "nts1": [
       {
-        "n": "Secretsundaze",
-        "s": "2026-04-02T15:00:00+01:00",
-        "e": "2026-04-02T17:00:00+01:00",
-        "d": "London based DJ, producer, curator, band-leader and 9FINITY label boss Secretsundaze live from the studio for a bi-monthly exploration of carefully filtered house music through the lens of the rave continuum. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/secret-sundaze/episodes/secret-sundaze-2nd-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ANZ",
+        "n": "ANZ W/ COMMODO",
         "s": "2026-04-02T17:00:00+01:00",
         "e": "2026-04-02T19:00:00+01:00",
         "d": "Anz runs the spectrum of bass music and club sounds every month from the Manchester studio - expect high energy bangers, big blends aplenty with lots of soul to boot.",
-        "j": null,
+        "j": "COMMODO",
         "u": "https://www.nts.live/api/v2/shows/anz/episodes/anz-2nd-april-2026",
         "t": "monthly",
         "p": "anz"
@@ -26,12 +17,12 @@
         "n": "Dinamarca",
         "s": "2026-04-02T19:00:00+01:00",
         "e": "2026-04-02T20:00:00+01:00",
-        "d": null,
+        "d": "The Swedish-Chilean DJ and producer stops by the London studio with an hour of floating reggaeton jams and futurist Latin flavours. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dinamarca-2nd-april-2026"
       },
       {
-        "n": "GHOST NOTES WORLDWIDE",
+        "n": "GHOST NOTES WORLDWIDE w/ Nicky Soft Touch & ELDON",
         "s": "2026-04-02T20:00:00+01:00",
         "e": "2026-04-02T22:00:00+01:00",
         "d": null,
@@ -66,6 +57,15 @@
         "p": "leegamble"
       },
       {
+        "n": "CARMEN VILLAIN (R)",
+        "s": "2026-04-03T03:00:00+01:00",
+        "e": "2026-04-03T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS (R)",
         "s": "2026-04-03T04:00:00+01:00",
         "e": "2026-04-03T06:00:00+01:00",
@@ -85,13 +85,12 @@
         "t": "restream"
       },
       {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "n": "NTS Guide To Spring Classical",
         "s": "2026-04-03T07:00:00+01:00",
         "e": "2026-04-03T09:00:00+01:00",
         "d": null,
-        "j": "JACK ROLLO",
-        "u": null,
-        "t": "biweekly"
+        "j": null,
+        "u": null
       },
       {
         "n": "The NTS Breakfast Show w/ Leon Vynehall",
@@ -169,39 +168,21 @@
     ],
     "nts2": [
       {
-        "n": "GEORGIA",
-        "s": "2026-04-02T15:00:00+01:00",
-        "e": "2026-04-02T16:00:00+01:00",
-        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-2nd-april-2026",
-        "t": "monthly",
-        "p": "georgia"
-      },
-      {
-        "n": "Autotune the World w/ Azzi On The Beat",
-        "s": "2026-04-02T16:00:00+01:00",
-        "e": "2026-04-02T17:00:00+01:00",
-        "d": "International portal for contemporary pop, leaning into the autotuned future… from the mind of Christopher Kirkley, the mastermind behind record label Sahel Sounds.\nFrom the host: \"Lagos based Azzi On The Beat is one of the standout producers of the Mara scene, with a one hour mix of high energy experimental electronic dance from Nigeria.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/christopher-kirkley/episodes/christopher-kirkley-2nd-april-2026"
-      },
-      {
         "n": "RICH & JONNY PRESENT INZANE MICHIGAN: Early Motown Special",
         "s": "2026-04-02T17:00:00+01:00",
         "e": "2026-04-02T18:00:00+01:00",
-        "d": null,
+        "d": "Join John Olson (aka Inzane Johnny, of Wolf Eyes) and music writer Rich Tupica as they mine deep into Michigan's wilderness of sounds. No private press rarity is off limits: soul, gospel, oddities, punk, experimental, rockabilly, and garage rock. It's all unearthed. Strap in for an insanely bizarre ride across the Great Lakes State. ",
         "j": "Early Motown Special",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/inzane-michigan/episodes/inzane-michigan-2nd-april-2026",
         "t": "monthly"
       },
       {
         "n": "Prison Divorce Bombshell w/ Karly Hartzman",
         "s": "2026-04-02T18:00:00+01:00",
         "e": "2026-04-02T19:00:00+01:00",
-        "d": null,
+        "d": "Music for surviving the many unending divorces of life. From Wednesday's Karly Hartzman. ",
         "j": "Karly Hartzman",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/karly-hartzman/episodes/karly-hartzman-2nd-april-2026",
         "t": "monthly",
         "p": "karlyhartzman"
       },
@@ -233,13 +214,13 @@
         "t": "monthly"
       },
       {
-        "n": "CARLOS RENE",
+        "n": "Carlos René: Fumarola",
         "s": "2026-04-02T22:00:00+01:00",
         "e": "2026-04-02T23:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Fumarola",
         "u": null,
-        "p": "carlos"
+        "t": "monthly"
       },
       {
         "n": "BUDGIE",
@@ -270,17 +251,13 @@
         "p": "thelarge"
       },
       {
-        "n": "Screwboss Radio w/ Marcy Mane",
+        "n": "SCREWBOSS RADIO W/ Marcy Mane & SENSEi TRE",
         "s": "2026-04-03T02:00:00+01:00",
         "e": "2026-04-03T04:00:00+01:00",
         "d": null,
-        "j": "Marcy Mane",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "marcy",
-        "ap": [
-          "screwbossradio"
-        ]
+        "p": "screwbossradio"
       },
       {
         "n": "626COMPANY RADIO W/ DJ GONORRHEA & DJ诸葛亮 & MC蒙古包",
@@ -330,26 +307,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-02T14:00:00Z",
-        "e": "2026-04-02T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
       },
       {
-        "n": "Resonant Sound",
-        "s": "2026-04-02T15:00:00Z",
-        "e": "2026-04-02T16:00:00Z",
+        "n": "Estação Primeira de Mangueira w/ Montif Clare",
+        "s": "2026-04-03T10:00:00+01:00",
+        "e": "2026-04-03T11:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "In Focus: King Sunny Ade",
+        "s": "2026-04-03T11:00:00+01:00",
+        "e": "2026-04-03T13:00:00+01:00",
+        "d": null,
+        "j": "King Sunny Ade",
+        "u": null,
+        "t": "weekly"
+      }
+    ],
+    "subtle": [
       {
         "n": "Lily London",
         "s": "2026-04-02T16:00:00Z",
@@ -1440,27 +1417,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Hostile Architecture w/ ODW",
+        "s": "2026-04-09T15:00:00Z",
+        "e": "2026-04-09T16:00:00Z",
+        "d": null,
+        "j": "ODW",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Lemtom",
+        "s": "2026-04-09T16:00:00Z",
+        "e": "2026-04-09T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "lemtom"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-02T14:00:00Z",
-        "e": "2026-04-02T15:30:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "LARAAJI and OUT THERE",
-        "s": "2026-04-02T15:30:00Z",
-        "e": "2026-04-02T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "MT Gemini – guest sessions",
         "s": "2026-04-02T16:00:00Z",
@@ -2058,19 +2035,28 @@
         "u": null,
         "t": "monthly",
         "p": "laurashumate"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Tom Ravenscroft",
-        "s": "2026-04-02T14:00:00Z",
-        "e": "2026-04-02T16:00:00Z",
+        "n": "LARAAJI and OUT THERE",
+        "s": "2026-04-09T15:30:00Z",
+        "e": "2026-04-09T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "tomravenscroft"
+        "t": "weekly"
       },
+      {
+        "n": "Heavy Trip – Inner Ear",
+        "s": "2026-04-09T16:00:00Z",
+        "e": "2026-04-09T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "heavytrip"
+      }
+    ],
+    "rinse": [
       {
         "n": "Talina",
         "s": "2026-04-02T16:00:00Z",
@@ -2096,7 +2082,7 @@
         "s": "2026-04-02T18:00:00Z",
         "e": "2026-04-02T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "b2b Sammy Virji",
         "u": null,
         "t": "weekly",
         "p": "arthi"
@@ -2191,14 +2177,13 @@
         "t": "playlist"
       },
       {
-        "n": "Breakfast with Mr. Redley",
+        "n": "Breakfast with RIZ LA TEEF",
         "s": "2026-04-03T08:00:00Z",
         "e": "2026-04-03T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "2-STEP SPECIAL",
         "u": null,
-        "t": "weekly",
-        "p": "mrredley"
+        "p": "rizlateef"
       },
       {
         "n": "Uncle Dugs",
@@ -2272,24 +2257,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Louise Pétrouchka",
-        "s": "2026-04-02T14:00:00Z",
-        "e": "2026-04-02T15:00:00Z",
-        "d": null,
-        "j": "Double Tap avec GOTIS",
-        "u": null,
-        "p": "louiseptrouchka"
-      },
-      {
-        "n": "Artem",
-        "s": "2026-04-02T15:00:00Z",
-        "e": "2026-04-02T16:00:00Z",
-        "d": null,
-        "j": "Radio Romansa",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "carin kelly",
         "s": "2026-04-02T16:00:00Z",
