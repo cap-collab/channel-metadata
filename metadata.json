@@ -1,34 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-03T12:42:06.995Z",
+  "updated": "2026-04-03T14:36:49.587Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PUM PUM POWER HOUR W/ LIL C",
-        "s": "2026-04-03T13:00:00+01:00",
-        "e": "2026-04-03T14:00:00+01:00",
-        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
-        "j": "LIL C",
-        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-3rd-april-2026",
-        "t": "biweekly",
-        "p": "lilc"
-      },
-      {
-        "n": "FREEWATER W/ YOSA",
-        "s": "2026-04-03T14:00:00+01:00",
-        "e": "2026-04-03T15:00:00+01:00",
-        "d": "Founders of Lagos’ new-age underground festival, FREEWATER, join NTS for a 6-show residency, diving deep into the next wave of Nigerian music. Each hour-long show explores our favorite jams from the city’s bubbling alternative scene, covering alt-afro, indie, electronic, and trap sounds shaping the future of Lagos’ underground.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/freewater/episodes/freewater-3rd-april-2026",
-        "p": "freewater"
-      },
       {
         "n": "SLAP CITY W/ ARCHITECT",
         "s": "2026-04-03T15:00:00+01:00",
         "e": "2026-04-03T16:00:00+01:00",
-        "d": null,
+        "d": "DJ and producer, Architect, blends Rap music of all flavours and forms. Connecting classic and contemporary sounds from the UK, US, Caribbean and beyond. ",
         "j": "ARCHITECT",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/architect/episodes/architect-3rd-april-2026",
         "t": "monthly",
         "p": "architect"
       },
@@ -36,9 +17,10 @@
         "n": "SELASSIE TBC",
         "s": "2026-04-03T16:00:00+01:00",
         "e": "2026-04-03T17:00:00+01:00",
-        "d": null,
+        "d": "Pattern Sounds co-founder Selassie TBC delivers an hour of straight jams every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/selassie-tbc/episodes/selassie-tbc-3rd-april-2026",
+        "t": "monthly",
         "p": "selassietbc"
       },
       {
@@ -167,18 +149,29 @@
         "j": null,
         "u": null,
         "p": "macca"
+      },
+      {
+        "n": "ROSS ALLEN",
+        "s": "2026-04-04T12:00:00+01:00",
+        "e": "2026-04-04T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "rossallen"
+      },
+      {
+        "n": "TARZSA",
+        "s": "2026-04-04T14:00:00+01:00",
+        "e": "2026-04-04T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "tarzsa"
       }
     ],
     "nts2": [
-      {
-        "n": "CAROLINA SOUL: Soul Jazz Vibrations",
-        "s": "2026-04-03T13:00:00+01:00",
-        "e": "2026-04-03T15:00:00+01:00",
-        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
-        "j": "Soul Jazz Vibrations",
-        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-3rd-april-2026",
-        "t": "monthly"
-      },
       {
         "n": "Tezez Tapes: Sounds from the Archive",
         "s": "2026-04-03T15:00:00+01:00",
@@ -191,9 +184,9 @@
         "n": "DISCO PICKLES W/ DRY CLEANING",
         "s": "2026-04-03T16:00:00+01:00",
         "e": "2026-04-03T17:00:00+01:00",
-        "d": null,
+        "d": "The South London postpunk crew take control sharing an hour of selections every month.",
         "j": "DRY CLEANING",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dry-cleaning/episodes/dry-cleaning-3rd-april-2026",
         "t": "monthly",
         "p": "drycleaning"
       },
@@ -324,28 +317,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "The Hybrid House Show",
-        "s": "2026-04-03T12:00:00Z",
-        "e": "2026-04-03T13:00:00Z",
+        "n": "Rough Version w/ Tino SEHGAL",
+        "s": "2026-04-04T11:00:00+01:00",
+        "e": "2026-04-04T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "thehybridhouseshow"
-      },
-      {
-        "n": "Taking the Peel w/ Badly Drawn Banana",
-        "s": "2026-04-03T13:00:00Z",
-        "e": "2026-04-03T14:00:00Z",
-        "d": null,
-        "j": "Badly Drawn Banana",
-        "u": null,
-        "t": "monthly"
-      },
+        "p": "roughversion"
+      }
+    ],
+    "subtle": [
       {
         "n": " Collider",
         "s": "2026-04-03T14:00:00Z",
@@ -364,6 +347,14 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "ZENG SOUNDS ",
+        "s": "2026-04-03T16:00:00Z",
+        "e": "2026-04-03T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "TILDA",
@@ -1426,13 +1417,33 @@
         "u": null,
         "t": "monthly",
         "p": "electrolyteswithjoly"
+      },
+      {
+        "n": "Sauce Collective ",
+        "s": "2026-04-10T13:00:00Z",
+        "e": "2026-04-10T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "collective"
+      },
+      {
+        "n": "Kamzuqi",
+        "s": "2026-04-10T14:00:00Z",
+        "e": "2026-04-10T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kamzuqi"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-03T11:00:00Z",
-        "e": "2026-04-03T13:00:00Z",
+        "s": "2026-04-03T13:00:00Z",
+        "e": "2026-04-03T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1440,8 +1451,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-03T13:00:00Z",
-        "e": "2026-04-03T15:00:00Z",
+        "s": "2026-04-03T15:00:00Z",
+        "e": "2026-04-03T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2071,16 +2082,6 @@
     ],
     "rinse": [
       {
-        "n": "Uncle Dugs",
-        "s": "2026-04-03T10:00:00Z",
-        "e": "2026-04-03T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "uncledugs"
-      },
-      {
         "n": "Continental GT",
         "s": "2026-04-03T13:00:00Z",
         "e": "2026-04-03T15:00:00Z",
@@ -2266,12 +2267,22 @@
       {
         "n": "CASE",
         "s": "2026-04-04T18:00:00Z",
-        "e": "2026-04-04T21:00:00Z",
+        "e": "2026-04-04T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly",
         "p": "case"
+      },
+      {
+        "n": "ADIEL",
+        "s": "2026-04-04T19:00:00Z",
+        "e": "2026-04-04T21:00:00Z",
+        "d": null,
+        "j": "Club Series - Episode 3",
+        "u": null,
+        "t": "biweekly",
+        "p": "adiel"
       },
       {
         "n": "AMMARA",
@@ -2296,28 +2307,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Technopol",
-        "s": "2026-04-03T12:00:00Z",
-        "e": "2026-04-03T13:00:00Z",
-        "d": null,
-        "j": "#52 Démocratisation du DJing : peut-on vraiment tous·tes devenir artistes ? avec Margaux Gleizes (OVERTONE Artists), Constance Bidaut (La Boule Noire), Bernadette (LEGS)",
-        "u": null,
-        "t": "weekly",
-        "p": "noire",
-        "ap": [
-          "technopol"
-        ]
-      },
-      {
-        "n": "Tigersushi",
-        "s": "2026-04-03T13:00:00Z",
-        "e": "2026-04-03T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "tigersushi"
-      },
       {
         "n": "Queer Cult",
         "s": "2026-04-03T14:00:00Z",
