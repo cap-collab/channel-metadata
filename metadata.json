@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-04T10:25:11.024Z",
+  "updated": "2026-04-04T12:35:18.806Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA & Bel Cobain",
-        "s": "2026-04-04T10:00:00+01:00",
-        "e": "2026-04-04T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-4th-april-2026",
-        "p": "macca"
-      },
       {
         "n": "ROSS ALLEN",
         "s": "2026-04-04T12:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "TARZSA",
         "s": "2026-04-04T14:00:00+01:00",
         "e": "2026-04-04T15:00:00+01:00",
-        "d": null,
+        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-4th-april-2026",
         "t": "monthly",
         "p": "tarzsa"
       },
@@ -170,18 +161,18 @@
         "j": "Dubby",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THE SLIP",
+        "s": "2026-04-05T10:00:00+01:00",
+        "e": "2026-04-05T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "Rough Version w/ Tino SEHGAL",
-        "s": "2026-04-04T11:00:00+01:00",
-        "e": "2026-04-04T12:00:00+01:00",
-        "d": "Francesca Gavin talks to contemporary artists about their work, music, and the relationships between. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rough-version/episodes/rough-version-4th-april-2026",
-        "p": "roughversion"
-      },
       {
         "n": "NTS GUIDE TO: MODERN CLASSICAL PIANO (R)",
         "s": "2026-04-04T12:00:00+01:00",
@@ -192,14 +183,14 @@
         "t": "restream"
       },
       {
-        "n": "YOUTH",
+        "n": "AWE W/ LAUREL HALO (R)",
         "s": "2026-04-04T14:00:00+01:00",
         "e": "2026-04-04T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "youth"
+        "d": "Awe is something you feel when confronted with forces beyond your control: nature, the cosmos, chaos, human error, hallucinations.",
+        "j": "LAUREL HALO",
+        "u": "https://www.nts.live/api/v2/shows/laurel-halo/episodes/laurel-halo-5th-november-2024",
+        "t": "restream",
+        "p": "laurelhalo"
       },
       {
         "n": "Wave Form",
@@ -327,26 +318,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Matty Banton - Roots & Dubs",
-        "s": "2026-04-04T10:00:00Z",
-        "e": "2026-04-04T11:00:00Z",
-        "d": null,
-        "j": "Roots & Dubs",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": " VIOLENTLYILL'S WAX HEAVY w/ GILLY MAN GIRO",
-        "s": "2026-04-04T11:00:00Z",
-        "e": "2026-04-04T12:00:00Z",
+        "n": "SEYYAN AMONG OTHERS W/ MINA BARUT",
+        "s": "2026-04-05T07:00:00+01:00",
+        "e": "2026-04-05T08:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Live & Direct w/ Hannah",
         "s": "2026-04-04T12:00:00Z",
@@ -1436,13 +1418,23 @@
         "j": "Gabe",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Cam Christie",
+        "s": "2026-04-11T11:00:00Z",
+        "e": "2026-04-11T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "camchristie"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-04T09:00:00Z",
-        "e": "2026-04-04T11:00:00Z",
+        "s": "2026-04-04T11:00:00Z",
+        "e": "2026-04-04T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1450,8 +1442,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-04T11:00:00Z",
-        "e": "2026-04-04T15:00:00Z",
+        "s": "2026-04-04T15:00:00Z",
+        "e": "2026-04-04T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2080,17 +2072,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-11T11:00:00Z",
+        "e": "2026-04-11T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Hi-Fidelity with Mad Cats",
-        "s": "2026-04-04T10:00:00Z",
-        "e": "2026-04-04T12:00:00Z",
-        "d": null,
-        "j": "Sean Innit & Ed",
-        "u": null
-      },
       {
         "n": "Counter Culture with Next Door Records",
         "s": "2026-04-04T12:00:00Z",
@@ -2172,12 +2165,21 @@
         ]
       },
       {
-        "n": "Claire O'Brien",
+        "n": "Dennis Quin",
         "s": "2026-04-04T22:00:00Z",
+        "e": "2026-04-04T23:00:00Z",
+        "d": null,
+        "j": "Rinse HQ144",
+        "u": null
+      },
+      {
+        "n": "unknown - untitled",
+        "s": "2026-04-04T23:00:00Z",
         "e": "2026-04-05T00:00:00Z",
         "d": null,
-        "j": "Rinse HQ137",
-        "u": null
+        "j": "untitled",
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Bae Blade presents BAEDDIES",
@@ -2230,7 +2232,7 @@
         "s": "2026-04-05T08:00:00Z",
         "e": "2026-04-05T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Aiste Regina",
         "u": null,
         "p": "harripepper"
       },
@@ -2256,7 +2258,7 @@
         "s": "2026-04-05T14:00:00Z",
         "e": "2026-04-05T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJEFF",
         "u": null,
         "p": "tribalbrothers"
       },
@@ -2300,21 +2302,12 @@
         "s": "2026-04-05T22:00:00Z",
         "e": "2026-04-05T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B Bubski",
         "u": null,
         "p": "nancyjune"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-04-04T07:00:00Z",
-        "e": "2026-04-04T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Sharkki",
         "s": "2026-04-04T12:00:00Z",
