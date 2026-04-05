@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-05T16:27:12.329Z",
+  "updated": "2026-04-05T18:31:23.093Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LOOSE BONES",
-        "s": "2026-04-05T17:00:00+01:00",
-        "e": "2026-04-05T19:00:00+01:00",
-        "d": "NTS hosts since early doors, Loose Bones take you on a freewheeling trip through filmic soundscapes, psychedelia, vintage experimentalism, fuzzed out rock and other esoteric surprises. Every single month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/loose-bones/episodes/loose-bones-5th-april-2026",
-        "t": "monthly",
-        "p": "loosebones"
-      },
       {
         "n": "THE REIGN SET",
         "s": "2026-04-05T19:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
         "s": "2026-04-05T20:00:00+01:00",
         "e": "2026-04-05T22:00:00+01:00",
-        "d": null,
+        "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
         "j": "ERNESTO CHAHOUD",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ernesto-chahoud/episodes/ernesto-chahoud-5th-april-2026",
         "t": "monthly",
         "p": "ernestochahoud"
       },
@@ -168,40 +158,33 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "WOODGRAIN w/ DENNIS.EXP",
+        "s": "2026-04-06T21:00:00+01:00",
+        "e": "2026-04-06T22:00:00+01:00",
+        "d": null,
+        "j": "DENNIS.EXP",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "tennessee roadtrip w/ nla",
-        "s": "2026-04-05T17:00:00+01:00",
-        "e": "2026-04-05T18:00:00+01:00",
-        "d": "From the Mississippi River blues of Memphis, to the bright lights of Nashville honky tonkin’ and the Grand Ole Opry, to the Smoky Mountain folk and bluegrass – Tennessee isn't just a place, but an idea, a collective dream that is comprised of and has influenced the most uniquely American genres.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-tennessee-roadtrip-w-nla-5th-april-2026"
-      },
-      {
-        "n": "Midnight Shibuya",
-        "s": "2026-04-05T18:00:00+01:00",
-        "e": "2026-04-05T19:00:00+01:00",
-        "d": "Flip phones flipping, neon lights buzzing and compact discs spinning. The era of Japanese hip-hop & R&B from the late 90s to mid 2000s is a time that holds near and dear to my heart. So here is a mix that captures a piece of that era and hopefully transports you back into a different time.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-midnight-shibuya-5th-april-2026"
-      },
-      {
         "n": "HEXAGON SUN W/ JAKOB DROZD",
         "s": "2026-04-05T19:00:00+01:00",
         "e": "2026-04-05T20:00:00+01:00",
-        "d": null,
+        "d": "Rarities, bootlegs, and deep cuts from the enigmatic Scottish duo Boards of Canada.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-hexagon-sun-w-jakob-drozd-5th-april-2026"
       },
       {
         "n": "SUNDAY'S BEST W/ SUZIE MAEZ",
         "s": "2026-04-05T20:00:00+01:00",
         "e": "2026-04-05T21:00:00+01:00",
-        "d": null,
+        "d": "A collage of spiritual sound–sacred pop, folks hymns, maritime storytelling, and gentle instrumentals for quiet Sunday's.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-sunday-s-best-w-suzie-maez-5th-april-2026"
       },
       {
         "n": "Soundscapes w/ lenalikes",
@@ -314,17 +297,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "BLOODZ BOI",
+        "s": "2026-04-06T11:00:00+01:00",
+        "e": "2026-04-06T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bloodzboi"
+      },
+      {
+        "n": "WHY BE",
+        "s": "2026-04-06T12:00:00+01:00",
+        "e": "2026-04-06T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "whybe"
       }
     ],
     "subtle": [
-      {
-        "n": "THEODORE",
-        "s": "2026-04-05T16:00:00Z",
-        "e": "2026-04-05T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-04-05T18:00:00Z",
@@ -1472,19 +1466,28 @@
         "u": null,
         "t": "monthly",
         "p": "nullify"
+      },
+      {
+        "n": "Marchborn",
+        "s": "2026-04-12T17:00:00Z",
+        "e": "2026-04-12T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Break Check",
+        "s": "2026-04-12T18:00:00Z",
+        "e": "2026-04-12T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "breakcheck"
       }
     ],
     "dublab": [
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-04-05T16:00:00Z",
-        "e": "2026-04-05T17:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly",
-        "p": "kennethbager"
-      },
       {
         "n": "Chris Kissel and Chuck Soo-Hoo - Contact Wave",
         "s": "2026-04-05T17:00:00Z",
@@ -2109,17 +2112,18 @@
         "u": null,
         "t": "weekly",
         "p": "kennethbager"
+      },
+      {
+        "n": "Bob Baker Marionette Theater – Puppetphonic",
+        "s": "2026-04-12T17:00:00Z",
+        "e": "2026-04-12T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Flashy Sillah",
-        "s": "2026-04-05T16:00:00Z",
-        "e": "2026-04-05T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Oneman",
         "s": "2026-04-05T17:00:00Z",
@@ -2317,25 +2321,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Bait",
-        "s": "2026-04-05T16:00:00Z",
-        "e": "2026-04-05T17:00:00Z",
-        "d": null,
-        "j": "présente: Slimy Ape (100% unreleased production mix)",
-        "u": null,
-        "p": "bait"
-      },
-      {
-        "n": "Imer6ia",
-        "s": "2026-04-05T17:00:00Z",
-        "e": "2026-04-05T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "imer6ia"
-      },
       {
         "n": "Playlist France",
         "s": "2026-04-05T18:00:00Z",
