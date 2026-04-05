@@ -1,46 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-05T06:55:52.816Z",
+  "updated": "2026-04-05T08:34:26.156Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MARTIN NEWELL'S ODDCASTE",
-        "s": "2026-04-05T07:30:00+01:00",
-        "e": "2026-04-05T08:00:00+01:00",
-        "d": "The Cleaners From Venus frontman presents an eclectic mix of pop music, comedy, and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martin-newells-oddcaste/episodes/martin-newells-oddcaste-5th-april-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "THEA HD",
-        "s": "2026-04-05T08:00:00+01:00",
-        "e": "2026-04-05T09:00:00+01:00",
-        "d": "Odda Recordings label owner Thea HD unearths the lesser known common sounds. from old soundtracks, library music to experimental electronic music…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/thea-hd/episodes/thea-hd-5th-april-2026",
-        "t": "biweekly",
-        "p": "hd",
-        "ap": [
-          "theahd"
-        ]
-      },
       {
         "n": "Ondas w/ Dubby",
         "s": "2026-04-05T09:00:00+01:00",
         "e": "2026-04-05T10:00:00+01:00",
-        "d": null,
+        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
         "j": "Dubby",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-5th-april-2026",
         "t": "monthly"
       },
       {
         "n": "THE SLIP",
         "s": "2026-04-05T10:00:00+01:00",
         "e": "2026-04-05T12:00:00+01:00",
-        "d": null,
+        "d": "Rory Bowens heads The Slip on Sunday mornings every other week - squeezing an hour of hazy dub off-shoots, pupil-dilating shoegaze and uncanny dream music.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/theslip/episodes/theslip-5th-april-2026",
         "t": "biweekly"
       },
       {
@@ -171,40 +149,42 @@
         "j": "WIRE",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ CARLA DAL FORNO",
+        "s": "2026-04-06T07:00:00+01:00",
+        "e": "2026-04-06T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "carladalforno"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ Gabi",
+        "s": "2026-04-06T09:00:00+01:00",
+        "e": "2026-04-06T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "gabi"
       }
     ],
     "nts2": [
       {
-        "n": "SEYYAN AMONG OTHERS W/ MINA BARUT",
-        "s": "2026-04-05T07:00:00+01:00",
-        "e": "2026-04-05T08:00:00+01:00",
-        "d": "Inspired by the title of Seyyan Hanım ve Diğerleri by Toktamış Ateş, this mix centres Seyyan Oskay, the first woman to sing tango in Turkey. Rising in 1930s Istanbul, she recorded iconic works before leaving music at its peak to devote her life to her family. The selection places her alongside other women artists, tracing memory, absence and devotion.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-seyyan-among-others-w-mina-barut-5th-april-2026"
-      },
-      {
-        "n": "DANISH JAZZ W/ SHESPOKE2ME",
-        "s": "2026-04-05T08:00:00+01:00",
-        "e": "2026-04-05T09:00:00+01:00",
-        "d": "Take a dive into the quiet but extremely rich Danish jazz scene. From collaborations with giants to intimate searches for new improvised sounds, creating dialogue between eras, with a particularly Danish deep care and focus on listening and leaving room for each other.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-danish-jazz-w-shespoke2me-5th-april-2026"
-      },
-      {
         "n": "YU Special Education W/ DJ Bringiton",
         "s": "2026-04-05T09:00:00+01:00",
         "e": "2026-04-05T10:00:00+01:00",
-        "d": null,
+        "d": "We present you with a mix that brings together the best of sounds from across former Yugoslavia.\nRather than looking back nostalgically, this piece is a living conversation with tracks speaking to each other across cities, decades and styles.\nGroove support provided by Milanche and Suhi.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-yu-special-education-w-dj-bringiton-5th-april-2026"
       },
       {
         "n": "DUB & FUNK POST-PUNK W/ ALICE3000",
         "s": "2026-04-05T10:00:00+01:00",
         "e": "2026-04-05T11:00:00+01:00",
-        "d": null,
+        "d": "Exploring the exciting period when the early 80's post-punk scene met dub and funk music.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-dub-funk-post-punk-w-alice3000-5th-april-2026"
       },
       {
         "n": "Super Soft Synthetics w/ w1nrare",
@@ -317,28 +297,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "BENEATH THE VEIL W/ MIKEY G",
+        "s": "2026-04-06T01:00:00+01:00",
+        "e": "2026-04-06T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Nutmeg Underground 1986-1994 w/ Meg",
+        "s": "2026-04-06T02:00:00+01:00",
+        "e": "2026-04-06T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-05T05:00:00Z",
-        "e": "2026-04-05T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Cold Hippie",
-        "s": "2026-04-05T07:00:00Z",
-        "e": "2026-04-05T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "coldhippie"
-      },
       {
         "n": "First Press w/ Passo Passo",
         "s": "2026-04-05T08:00:00Z",
@@ -1464,23 +1441,32 @@
         "u": null,
         "t": "monthly",
         "p": "kikib"
+      },
+      {
+        "n": "Kakuna",
+        "s": "2026-04-12T08:00:00Z",
+        "e": "2026-04-12T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kakuna"
       }
     ],
     "dublab": [
       {
-        "n": "Richard Fearless - Metal Box",
-        "s": "2026-04-05T05:00:00Z",
-        "e": "2026-04-05T07:00:00Z",
-        "d": null,
-        "j": "Metal Box",
-        "u": null,
-        "t": "monthly",
-        "p": "richardfearless"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-04-05T07:00:00Z",
         "e": "2026-04-05T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-05T09:00:00Z",
+        "e": "2026-04-05T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2114,15 +2100,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-04-05T06:00:00Z",
-        "e": "2026-04-05T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Harri Pepper",
         "s": "2026-04-05T08:00:00Z",
         "e": "2026-04-05T10:00:00Z",
@@ -2364,15 +2341,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-04T22:00:00Z",
-        "e": "2026-04-05T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-05T07:00:00Z",
         "e": "2026-04-05T12:00:00Z",
         "d": null,
@@ -2381,17 +2349,96 @@
         "t": "playlist"
       },
       {
-        "n": "Aho Ssan",
+        "n": "Bé.",
         "s": "2026-04-05T12:00:00Z",
         "e": "2026-04-05T13:00:00Z",
+        "d": null,
+        "j": "Invites Abdel Benakki",
+        "u": null
+      },
+      {
+        "n": "Hadj Sameer",
+        "s": "2026-04-05T13:00:00Z",
+        "e": "2026-04-05T14:00:00Z",
+        "d": null,
+        "j": "invite Greg De Villanova (Diaspora Records)",
+        "u": null,
+        "p": "hadjsameer"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-04-05T14:00:00Z",
+        "e": "2026-04-05T15:00:00Z",
+        "d": null,
+        "j": "Retro Cassetta pour Banlieues Bleues !",
+        "u": null
+      },
+      {
+        "n": "kIM0 presents POV",
+        "s": "2026-04-05T15:00:00Z",
+        "e": "2026-04-05T16:00:00Z",
+        "d": null,
+        "j": "The Virgin Suicides",
+        "u": null
+      },
+      {
+        "n": "Bait",
+        "s": "2026-04-05T16:00:00Z",
+        "e": "2026-04-05T17:00:00Z",
+        "d": null,
+        "j": "présente: Slimy Ape (100% unreleased production mix)",
+        "u": null,
+        "p": "bait"
+      },
+      {
+        "n": "Imer6ia",
+        "s": "2026-04-05T17:00:00Z",
+        "e": "2026-04-05T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "imer6ia"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-05T18:00:00Z",
+        "e": "2026-04-05T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-05T22:00:00Z",
+        "e": "2026-04-06T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-06T07:00:00Z",
+        "e": "2026-04-06T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Aho Ssan",
+        "s": "2026-04-06T12:00:00Z",
+        "e": "2026-04-06T13:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Roman Delore",
-        "s": "2026-04-05T13:00:00Z",
-        "e": "2026-04-05T14:00:00Z",
+        "s": "2026-04-06T13:00:00Z",
+        "e": "2026-04-06T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2399,24 +2446,24 @@
       },
       {
         "n": "Glitter55",
-        "s": "2026-04-05T14:00:00Z",
-        "e": "2026-04-05T15:00:00Z",
+        "s": "2026-04-06T14:00:00Z",
+        "e": "2026-04-06T15:00:00Z",
         "d": null,
         "j": "PRÉSENTE ATAY TIME AVEC BEIRUT & BEYOND, TURRAB, THE WRONG SIDE, KHAJOOLA",
         "u": null
       },
       {
         "n": "Rythme Brisé",
-        "s": "2026-04-05T15:00:00Z",
-        "e": "2026-04-05T16:00:00Z",
+        "s": "2026-04-06T15:00:00Z",
+        "e": "2026-04-06T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Bambi",
-        "s": "2026-04-05T16:00:00Z",
-        "e": "2026-04-05T17:00:00Z",
+        "s": "2026-04-06T16:00:00Z",
+        "e": "2026-04-06T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2424,8 +2471,8 @@
       },
       {
         "n": "GЯEG",
-        "s": "2026-04-05T17:00:00Z",
-        "e": "2026-04-05T18:00:00Z",
+        "s": "2026-04-06T17:00:00Z",
+        "e": "2026-04-06T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2433,16 +2480,16 @@
       },
       {
         "n": "HALFPIPE RECORDS",
-        "s": "2026-04-05T18:00:00Z",
-        "e": "2026-04-05T19:00:00Z",
+        "s": "2026-04-06T18:00:00Z",
+        "e": "2026-04-06T19:00:00Z",
         "d": null,
         "j": "invite Me & George",
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-04-05T19:00:00Z",
-        "e": "2026-04-05T20:00:00Z",
+        "s": "2026-04-06T19:00:00Z",
+        "e": "2026-04-06T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
