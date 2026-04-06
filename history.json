@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-04-06T01:45:23.185Z",
+  "updated": "2026-04-06T04:38:35.391Z",
   "stations": {
     "nts1": [
       {
@@ -7101,6 +7101,33 @@
         "u": "https://www.nts.live/api/v2/shows/otologic/episodes/otologic-6th-april-2026",
         "t": "monthly",
         "p": "otologic"
+      },
+      {
+        "n": "Down At The End Of The Garden w/ Office Dog",
+        "s": "2026-04-06T02:00:00+01:00",
+        "e": "2026-04-06T03:00:00+01:00",
+        "d": "Vera and Lochie are joined by Kane Strang of Office Dog at the Flying Nun record shop for a chat about their new single, upcoming UK tour and some of their favourite NZ selections.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/flying-nun-records/episodes/flying-nun-records-6th-april-2026"
+      },
+      {
+        "n": "TRIP LICK W/ JAMES K (R)",
+        "s": "2026-04-06T03:00:00+01:00",
+        "e": "2026-04-06T04:00:00+01:00",
+        "d": "Enter the mythology of NYC artist James K - her sound, equally organic and electronic, is a combination of odd dreams, hybridizing enchanted samples, ripped, broken and morphed rhythms, and vocals, both incomprehensible and appealing.",
+        "j": "JAMES K",
+        "u": "https://www.nts.live/api/v2/shows/james-k/episodes/james-k-19th-january-2026",
+        "t": "restream",
+        "p": "jamesk"
+      },
+      {
+        "n": "Music 4 Lovers w/ Jabu & Andy Payback (R)",
+        "s": "2026-04-06T04:00:00+01:00",
+        "e": "2026-04-06T05:00:00+01:00",
+        "d": null,
+        "j": "Jabu & Andy Payback",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
@@ -10372,7 +10399,8 @@
         "e": "2026-03-09T19:00:00Z",
         "d": "Relaxing & spiritual sounds with Copenhagen-based composer & producer Sofie Birch.\nFrom the host: \"Spring is here, flowers are coming up making space for longing and lightness at the same time.\"",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofie-birch/episodes/sofie-birch-9th-march-2026"
+        "u": "https://www.nts.live/api/v2/shows/sofie-birch/episodes/sofie-birch-9th-march-2026",
+        "p": "sofiebirch"
       },
       {
         "n": "COMO LA FLOR W/ JAZMIN - PURO SENTIMENTAL",
@@ -11570,7 +11598,8 @@
         "d": null,
         "j": "Spring Booze Mix",
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "sofiebirch"
       },
       {
         "n": "NTS Guide to: Women of 60s & 70s Folk (R)",
@@ -14266,7 +14295,8 @@
         "d": "Relaxing & spiritual sounds with Copenhagen-based composer & producer Sofie Birch.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/sofie-birch/episodes/sofie-birch-11th-april-2022",
-        "t": "restream"
+        "t": "restream",
+        "p": "sofiebirch"
       },
       {
         "n": "SOS Radio (R)",
@@ -15570,6 +15600,30 @@
         "n": "BENEATH THE VEIL W/ MIKEY G",
         "s": "2026-04-06T01:00:00+01:00",
         "e": "2026-04-06T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Nutmeg Underground 1986-1994 w/ Meg",
+        "s": "2026-04-06T02:00:00+01:00",
+        "e": "2026-04-06T03:00:00+01:00",
+        "d": "A left-of-the-dial drive through Connecticut’s underground sound.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-nutmeg-underground-1986-1994-w-meg-6th-april-2026"
+      },
+      {
+        "n": "BUZZY BRATTY KEYBOARD w/ NO PRESSURE SELECTIONS",
+        "s": "2026-04-06T03:00:00+01:00",
+        "e": "2026-04-06T04:00:00+01:00",
+        "d": "Music from 2002 to 2008 featuring a certain lo-fi synth sound. Serves as a parallel history of the \"indie sleaze\" moment. Casiotone features prominently, while other melodies honk louder and bite harder. Styles from the jocular, insouciant, and twee to ponderous, moody, and strange.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-buzzy-bratty-keyboard-w-no-pressure-selections-6th-april-2026"
+      },
+      {
+        "n": "Miami-Cuban Ex-Pat Funk, Rock, & Soul w/ DJ Blacksmith",
+        "s": "2026-04-06T04:00:00+01:00",
+        "e": "2026-04-06T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
@@ -23910,6 +23964,25 @@
         "u": null,
         "t": "monthly",
         "p": "fome"
+      },
+      {
+        "n": "kstrobez",
+        "s": "2026-04-06T01:00:00Z",
+        "e": "2026-04-06T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kstrobez"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-04-06T02:00:00Z",
+        "e": "2026-04-06T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "dublab": [
@@ -29711,6 +29784,16 @@
         "u": null,
         "t": "monthly",
         "p": "jukebouncewerk"
+      },
+      {
+        "n": "DJ TY - The Long Decay",
+        "s": "2026-04-06T01:00:00Z",
+        "e": "2026-04-06T03:00:00Z",
+        "d": null,
+        "j": "The Long Decay",
+        "u": null,
+        "t": "monthly",
+        "p": "djty"
       }
     ],
     "rinse": [
@@ -32158,7 +32241,8 @@
         "e": "2026-03-08T14:00:00Z",
         "d": null,
         "j": "IWD Special",
-        "u": null
+        "u": null,
+        "p": "olivef"
       },
       {
         "n": "Delilah",
@@ -36710,6 +36794,16 @@
         "j": null,
         "u": null,
         "p": "pugilist"
+      },
+      {
+        "n": "CASE",
+        "s": "2026-04-06T01:00:00Z",
+        "e": "2026-04-06T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "case"
       }
     ],
     "rinsefr": [
