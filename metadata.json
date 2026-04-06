@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-06T09:00:59.588Z",
+  "updated": "2026-04-06T10:49:05.509Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ Gabi",
-        "s": "2026-04-06T09:00:00+01:00",
-        "e": "2026-04-06T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-gabi-6th-april-2026",
-        "p": "gabi"
-      },
       {
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-04-06T11:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "Melodies International - Lovers Rock Special",
         "s": "2026-04-06T13:00:00+01:00",
         "e": "2026-04-06T15:00:00+01:00",
-        "d": null,
+        "d": "From dusty crates and dingy basements to the NTS airwaves - reissue label Melodies International bring special, undiscovered, and beautiful records from across the world their show, every month. ",
         "j": "Lovers Rock Special",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/melodies-international/episodes/melodies-international-seiji-ono-6th-april-2026",
         "t": "monthly",
         "p": "melodiesinternational"
       },
@@ -167,17 +158,19 @@
         "j": null,
         "u": null,
         "p": "tommasi"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-04-07T09:00:00+01:00",
+        "e": "2026-04-07T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "Just add water w/ 89.1 LEVI",
-        "s": "2026-04-06T10:00:00+01:00",
-        "e": "2026-04-06T11:00:00+01:00",
-        "d": "House mixed with live FM radio? You heard that right! I sample live radio while mixing multiple genres of House. Doing so pays homage to my roots: I fell in love with House listening to radio out of Tucson, Arizona and shows streamed over NTS, such as Steel City Dance Discs. The result are sets imbued with audio-terroir, improvised and meta in a new way.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-just-add-water-w-891-levi-6th-april-2026"
-      },
       {
         "n": "BLOODZ BOI",
         "s": "2026-04-06T11:00:00+01:00",
@@ -192,9 +185,10 @@
         "n": "WHY BE",
         "s": "2026-04-06T12:00:00+01:00",
         "e": "2026-04-06T13:00:00+01:00",
-        "d": null,
+        "d": "Bi-monthly random fandom.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/why-be/episodes/why-be-6th-april-2026",
+        "t": "monthly",
         "p": "whybe"
       },
       {
@@ -332,6 +326,16 @@
         "j": "ILL DUBIO",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "NYA (R)",
+        "s": "2026-04-07T05:00:00+01:00",
+        "e": "2026-04-07T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "nya"
       }
     ],
     "subtle": [
@@ -1473,6 +1477,15 @@
         "u": null,
         "t": "monthly",
         "p": "tribalismo"
+      },
+      {
+        "n": "syncop8",
+        "s": "2026-04-13T10:00:00Z",
+        "e": "2026-04-13T11:00:00Z",
+        "d": "ixxi and Fei take you on a percussive journey with their show syncop8, moving from downtempo ambient to breaks, polyrhythms, and high energy beats, exploring every rhythmic and textural nuance in between.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1480,6 +1493,15 @@
         "n": "sounds of NOW",
         "s": "2026-04-06T09:00:00Z",
         "e": "2026-04-06T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-06T11:00:00Z",
+        "e": "2026-04-06T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2104,15 +2126,6 @@
     ],
     "rinse": [
       {
-        "n": "Tim Garcia",
-        "s": "2026-04-06T08:00:00Z",
-        "e": "2026-04-06T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Donsurf",
         "s": "2026-04-06T10:00:00Z",
         "e": "2026-04-06T11:00:00Z",
@@ -2147,7 +2160,7 @@
         "s": "2026-04-06T13:00:00Z",
         "e": "2026-04-06T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Phase O’Matic",
         "u": null,
         "p": "charlesgreen"
       },
@@ -2174,7 +2187,7 @@
         "s": "2026-04-06T17:00:00Z",
         "e": "2026-04-06T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "re:ni & Laksa",
         "u": null
       },
       {
@@ -2402,7 +2415,7 @@
         "s": "2026-04-06T15:00:00Z",
         "e": "2026-04-06T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "ATN SOUL: DAD & SON",
         "u": null
       },
       {
