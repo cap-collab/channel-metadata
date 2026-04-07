@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-07T07:05:29.398Z",
+  "updated": "2026-04-07T08:53:42.174Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ TOMMASI",
-        "s": "2026-04-07T07:00:00+01:00",
-        "e": "2026-04-07T09:00:00+01:00",
-        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-7th-april-2026",
-        "p": "tommasi"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-04-07T09:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-04-07T11:00:00+01:00",
         "e": "2026-04-07T13:00:00+01:00",
-        "d": null,
+        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
         "j": "ANU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-7th-april-2026",
         "t": "biweekly",
         "p": "anu"
       },
@@ -171,17 +162,19 @@
         "j": "SPIRIT BLUE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-04-08T09:00:00+01:00",
+        "e": "2026-04-08T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "Saudades de Verao w/ Mr. Chong",
-        "s": "2026-04-07T08:00:00+01:00",
-        "e": "2026-04-07T09:00:00+01:00",
-        "d": "This mix contains cd only tracks from most Lusophone (PALOP) countries, mainly the focus is Zouk & Kizomba from Angola & Cabo Verde, with a few oddballs from Mozambique and São Tomé \nplease enjoy this mix while longing for sunnier times !",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-luso-w-mr-chong-saudades-de-verao-7th-april-2026"
-      },
       {
         "n": "Suck Meh Soucouyant w/ Blood Hags",
         "s": "2026-04-07T09:00:00+01:00",
@@ -194,9 +187,9 @@
         "n": "Coming Home w/ St Winston",
         "s": "2026-04-07T10:00:00+01:00",
         "e": "2026-04-07T11:00:00+01:00",
-        "d": null,
+        "d": "A dusk-lit journey through South African jazz, bridging elders and contemporary voices. From Abdullah Ibrahim to today’s torchbearers, this mix is less about nostalgia and more about continuity — music as memory, resistance and return. Press play, exhale, come home.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-coming-home-w-st-winston-7th-april-2026"
       },
       {
         "n": "pop.soil: Islam El-Ghazouly",
@@ -333,18 +326,17 @@
         "u": null,
         "t": "restream",
         "p": "billbrewster"
+      },
+      {
+        "n": "Thai Tom Yum Covers w/ 242 Records Store",
+        "s": "2026-04-08T06:00:00+01:00",
+        "e": "2026-04-08T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-07T07:00:00Z",
-        "e": "2026-04-07T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "TorbM",
         "s": "2026-04-07T08:00:00Z",
@@ -1486,6 +1478,15 @@
         "j": "Boruch",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Gingerly",
+        "s": "2026-04-14T08:00:00Z",
+        "e": "2026-04-14T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2096,15 +2097,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-04-07T06:00:00Z",
-        "e": "2026-04-07T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Papaoul",
         "s": "2026-04-07T08:00:00Z",
         "e": "2026-04-07T10:00:00Z",
@@ -2414,26 +2406,27 @@
         "s": "2026-04-07T13:00:00Z",
         "e": "2026-04-07T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Licence To Weed with ESAIA",
         "u": null,
         "t": "weekly",
         "p": "izzylindqwister"
       },
       {
-        "n": "Roi Luis",
+        "n": "Roi Luis - Spiiiiicy!",
         "s": "2026-04-07T14:00:00Z",
         "e": "2026-04-07T15:00:00Z",
         "d": null,
-        "j": "Spiiiiicy! Hoje : de volta ao Brasil",
+        "j": "Hoje : de volta ao Brasil",
         "u": null
       },
       {
-        "n": "restonsflex",
+        "n": "GЯEG",
         "s": "2026-04-07T15:00:00Z",
         "e": "2026-04-07T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "renoiterrible",
