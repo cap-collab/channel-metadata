@@ -1,42 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-04-07T20:37:59.447Z",
+  "updated": "2026-04-07T22:30:10.382Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Trevor Jackson",
-        "s": "2026-04-07T20:00:00+01:00",
-        "e": "2026-04-07T22:00:00+01:00",
-        "d": "Audio-visual adventurer Trevor Jackson presents a broad spectrum of brand new experimental music, along with ancient oddities of every perceivable genre. A fortnightly uncompromising journey into the unexpected.\nMusic for sick minds and warm hearts",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/trevorjackson/episodes/trevorjackson-7th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "CRYSTALLMESS",
-        "s": "2026-04-07T22:00:00+01:00",
-        "e": "2026-04-07T23:00:00+01:00",
-        "d": "The French producer, DJ & Work In Progress 2019 alumna Crystallmess is Unleashed - bleeding edge club sounds & emotional content every month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/crystallmess/episodes/crystallmess-7th-april-2026",
-        "t": "monthly",
-        "p": "crystallmess"
-      },
       {
         "n": "Oak9000",
         "s": "2026-04-07T23:00:00+01:00",
         "e": "2026-04-08T00:00:00+01:00",
-        "d": null,
+        "d": "Milan based selector oak9000 brings the heat.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/oak9000-7th-april-2026"
       },
       {
         "n": "After dark w/ HELM",
         "s": "2026-04-08T00:00:00+01:00",
         "e": "2026-04-08T02:00:00+01:00",
-        "d": null,
+        "d": "Luke Younger heads up 2 hours of weirdo music, experiments and recordings once a month. ",
         "j": "HELM",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/helm/episodes/helm-8th-april-2026",
         "t": "monthly",
         "p": "helm"
       },
@@ -174,19 +155,28 @@
         "ap": [
           "sherelle"
         ]
+      },
+      {
+        "n": "NKISI",
+        "s": "2026-04-08T22:00:00+01:00",
+        "e": "2026-04-08T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nkisi"
+      },
+      {
+        "n": "SLIME FM W/ KHADIJA AL HANAFI",
+        "s": "2026-04-08T23:00:00+01:00",
+        "e": "2026-04-09T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "slimefm"
       }
     ],
     "nts2": [
-      {
-        "n": "TUFF SHED",
-        "s": "2026-04-07T21:00:00+01:00",
-        "e": "2026-04-07T23:00:00+01:00",
-        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-7th-april-2026",
-        "t": "monthly",
-        "p": "tuffshed"
-      },
       {
         "n": "ABBY IMPERIAL w/ The Grouch DJ",
         "s": "2026-04-07T23:00:00+01:00",
@@ -200,9 +190,9 @@
         "n": "NTS Guide to: Soulful Séga & Electric Maloya from the Indian Ocean (R)",
         "s": "2026-04-08T00:00:00+01:00",
         "e": "2026-04-08T01:00:00+01:00",
-        "d": null,
+        "d": "In the 1970s, artists from Réunion and Mauritius began fusing island styles - Maloya and Séga - with psychedelic rock, funk, and soul. \nSéga, rooted in Afro-Creole rhythms and often sung in Mauritian Creole, developed as a celebratory dance music drawing from European, African, and Indian influences. Maloya, native to Réunion, originated in enslaved Malagasy and African communities - a slower, percussive style traditionally performed with vocals, kayamb and roulér, and associated with ritual, resistance, and later, political activism.",
         "j": "Soulful Séga & Electric Maloya from the Indian Ocean",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-soulful-sega-electric-maloya-from-the-indian-ocean-4th-august-2025",
         "t": "restream"
       },
       {
@@ -335,27 +325,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Jake Plisken",
-        "s": "2026-04-07T19:00:00Z",
-        "e": "2026-04-07T21:00:00Z",
+        "n": "HOMESHAKE w/ ps goner",
+        "s": "2026-04-08T19:00:00+01:00",
+        "e": "2026-04-08T20:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Slow Process w/ Ufaze",
-        "s": "2026-04-07T21:00:00Z",
-        "e": "2026-04-07T22:00:00Z",
-        "d": null,
-        "j": "Ufaze",
-        "u": null,
-        "t": "monthly"
-      },
+        "p": "homeshake"
+      }
+    ],
+    "subtle": [
       {
         "n": "Minuscule Music Show with Bondy",
         "s": "2026-04-07T22:00:00Z",
@@ -1476,18 +1457,27 @@
         "u": null,
         "t": "monthly",
         "p": "rodney"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "OPEN SLOT",
-        "s": "2026-04-07T19:00:00Z",
-        "e": "2026-04-07T21:00:00Z",
+        "n": "The Wheel Up Show w/ Tripta",
+        "s": "2026-04-14T21:00:00Z",
+        "e": "2026-04-14T22:00:00Z",
+        "d": "Tripta is a Toronto based producer/DJ focusing on the darker sounds of Grime. Also blending elements of Drill, Dubstep and even Jungle all together for a unique sound you won't hear anywhere else. Signed to Slimzee's 'Slimzo's Recordings' and ‘Rotpot Records’.",
+        "j": "Tripta",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Jonny Z",
+        "s": "2026-04-14T22:00:00Z",
+        "e": "2026-04-14T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "Protect Me – PROPRO’s HIP-HOP PUNK HOUSE",
         "s": "2026-04-07T21:00:00Z",
@@ -2072,24 +2062,6 @@
     ],
     "rinse": [
       {
-        "n": "DJ Lag",
-        "s": "2026-04-07T19:00:00Z",
-        "e": "2026-04-07T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "djlag"
-      },
-      {
-        "n": "Paranoid London",
-        "s": "2026-04-07T21:00:00Z",
-        "e": "2026-04-07T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "paranoidlondon"
-      },
-      {
         "n": "Kassian",
         "s": "2026-04-07T22:00:00Z",
         "e": "2026-04-07T23:00:00Z",
@@ -2276,15 +2248,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-04-07T19:00:00Z",
-        "e": "2026-04-07T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-04-07T22:00:00Z",
