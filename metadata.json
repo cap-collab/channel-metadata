@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-07T15:00:06.061Z",
+  "updated": "2026-04-07T16:46:43.918Z",
   "stations": {
     "nts1": [
-      {
-        "n": "AWE W/ LAUREL HALO & Ruggero Pietromarchi",
-        "s": "2026-04-07T16:00:00+01:00",
-        "e": "2026-04-07T17:00:00+01:00",
-        "d": "Awe is something you feel when confronted with forces beyond your control: nature, the cosmos, chaos, human error, hallucinations.\nFrom the host: \"A selection of music played by Ruggero Pietromarchi & Laurel Halo for JIL SANDER at the launch of Cisco Records in their flagship store in Ginza, Tokyo on March 27, 2026. Images from SOUND ZINE VOL. 1 courtesy of Takashi Homma & JIL SANDER.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/laurel-halo/episodes/laurel-halo-7th-april-2026",
-        "p": "laurelhalo"
-      },
       {
         "n": "FERGUS CLARK",
         "s": "2026-04-07T17:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
         "s": "2026-04-07T18:00:00+01:00",
         "e": "2026-04-07T20:00:00+01:00",
-        "d": null,
+        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
         "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-7th-april-2026",
         "t": "biweekly",
         "p": "channeling"
       },
@@ -169,18 +160,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "TIM REAPER",
+        "s": "2026-04-08T19:00:00+01:00",
+        "e": "2026-04-08T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "timreaper"
       }
     ],
     "nts2": [
-      {
-        "n": "UNITED IDENTITIES w/ CARISTA",
-        "s": "2026-04-07T16:00:00+01:00",
-        "e": "2026-04-07T17:00:00+01:00",
-        "d": "The Utrecht native from the Netherlands Carista, joins us to share music of all kinds going from Soul, Jazz, House and everything in between.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/carista/episodes/carista-7th-april-2026",
-        "p": "carista"
-      },
       {
         "n": "The Big Happy Show",
         "s": "2026-04-07T17:00:00+01:00",
@@ -193,9 +185,9 @@
         "n": "NTS GUIDE TO: MEXICAN DISCOTECA (70S-90S) (R)",
         "s": "2026-04-07T18:00:00+01:00",
         "e": "2026-04-07T19:00:00+01:00",
-        "d": null,
+        "d": "1 hour of disco and italo from Mexico.\nMade by Coco Maria. ",
         "j": "MEXICAN DISCOTECA (70S-90S)",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-mexican-discoteca-70s-90s-20th-may-2025",
         "t": "restream"
       },
       {
@@ -328,19 +320,19 @@
         "u": null,
         "t": "monthly",
         "p": "acidmemories"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Get On festival ",
-        "s": "2026-04-07T15:00:00Z",
-        "e": "2026-04-07T16:00:00Z",
+        "n": "SHUKAI",
+        "s": "2026-04-08T13:00:00+01:00",
+        "e": "2026-04-08T14:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "getonfestival"
-      },
+        "p": "shukai"
+      }
+    ],
+    "subtle": [
       {
         "n": "SECH",
         "s": "2026-04-07T16:00:00Z",
@@ -1470,18 +1462,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Captain Lew",
+        "s": "2026-04-14T16:00:00Z",
+        "e": "2026-04-14T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Gulniyal - gtalks! radio",
-        "s": "2026-04-07T15:00:00Z",
-        "e": "2026-04-07T16:00:00Z",
-        "d": null,
-        "j": "gtalks! radio",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Chandler Poling - Studio Soundtracks",
         "s": "2026-04-07T16:00:00Z",
@@ -2075,19 +2067,6 @@
     ],
     "rinse": [
       {
-        "n": "Brighter Days Family",
-        "s": "2026-04-07T14:00:00Z",
-        "e": "2026-04-07T16:00:00Z",
-        "d": null,
-        "j": "Reek0",
-        "u": null,
-        "t": "weekly",
-        "p": "brighterdaysfamily",
-        "ap": [
-          "reek0"
-        ]
-      },
-      {
         "n": "Jasper James",
         "s": "2026-04-07T16:00:00Z",
         "e": "2026-04-07T17:00:00Z",
@@ -2148,7 +2127,7 @@
         "s": "2026-04-07T23:00:00Z",
         "e": "2026-04-08T00:00:00Z",
         "d": null,
-        "j": "Mason Cooper",
+        "j": "SLAPITINSPORT",
         "u": null,
         "t": "monthly"
       },
@@ -2321,20 +2300,11 @@
     ],
     "rinsefr": [
       {
-        "n": "GЯEG",
-        "s": "2026-04-07T15:00:00Z",
-        "e": "2026-04-07T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "restonsflex",
         "s": "2026-04-07T16:00:00Z",
         "e": "2026-04-07T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Back From Asia Tour",
         "u": null
       },
       {
