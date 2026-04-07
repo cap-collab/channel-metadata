@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-07T08:53:42.174Z",
+  "updated": "2026-04-07T10:48:10.800Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-04-07T09:00:00+01:00",
-        "e": "2026-04-07T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-7th-april-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-04-07T11:00:00+01:00",
@@ -24,12 +14,12 @@
         "p": "anu"
       },
       {
-        "n": "Roadkill Ikebana Jon Hassell Special",
+        "n": "Roadkill Ikebana - Jon Hassell Special",
         "s": "2026-04-07T13:00:00+01:00",
         "e": "2026-04-07T14:00:00+01:00",
-        "d": null,
+        "d": "Been away travelling and spent a lot of my time walking around places and listening to Jon Hassell, so I decided to put together a special. \nI love how his music seemingly slows down time - hope you enjoy ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/roadkill-ikebana/episodes/roadkill-ikebana-7th-april-2026",
         "p": "roadkillikebana"
       },
       {
@@ -118,11 +108,11 @@
         "p": "helm"
       },
       {
-        "n": "OPEN HAND REAL FLAMES",
+        "n": "OPEN HAND REAL FLAMES - 100% Fuji music",
         "s": "2026-04-08T02:00:00+01:00",
         "e": "2026-04-08T03:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "100% Fuji music",
         "u": null,
         "t": "monthly"
       },
@@ -172,40 +162,34 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-04-08T11:00:00+01:00",
+        "e": "2026-04-08T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
       }
     ],
     "nts2": [
       {
-        "n": "Suck Meh Soucouyant w/ Blood Hags",
-        "s": "2026-04-07T09:00:00+01:00",
-        "e": "2026-04-07T10:00:00+01:00",
-        "d": "\"She’ll suck your whole world dry!\" This sharp-fanged session traces bloodthirsty desire and vampiric terror in the Caribbean. Political critiques pierce ‘70’s soca rhythms. Soucouyants and duppy haunt ‘80s calypso and ‘90s dub. Hear ghostly forewarnings preserved in percussion.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-suck-meh-soucouyant-w-blood-hags-7th-april-2026"
-      },
-      {
-        "n": "Coming Home w/ St Winston",
-        "s": "2026-04-07T10:00:00+01:00",
-        "e": "2026-04-07T11:00:00+01:00",
-        "d": "A dusk-lit journey through South African jazz, bridging elders and contemporary voices. From Abdullah Ibrahim to today’s torchbearers, this mix is less about nostalgia and more about continuity — music as memory, resistance and return. Press play, exhale, come home.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-coming-home-w-st-winston-7th-april-2026"
-      },
-      {
         "n": "pop.soil: Islam El-Ghazouly",
         "s": "2026-04-07T11:00:00+01:00",
         "e": "2026-04-07T12:00:00+01:00",
-        "d": null,
+        "d": "pop.soil is Lyra Pramuk’s bimonthly series exploring catharsis, transformation, and healing through sonic storytelling.\nFrom the host: _\"From the host: _\"This mixtape is a tribute to my late grandfather, honoring my heritage and Sufi practices across Morocco, Egypt, Tunisia, Sudan, and Turkey. I named the set “Taking Off My Shoes” to echo the ritual of going barefoot when entering sacred space, inviting listeners to hear this with the same intention.\"_",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/lyra-pramuk/episodes/lyra-pramuk-7th-april-2026"
       },
       {
         "n": "LUKID",
         "s": "2026-04-07T12:00:00+01:00",
         "e": "2026-04-07T13:00:00+01:00",
-        "d": null,
+        "d": "A monthly sonic journey from Lukid a.k.a Luke Blair. Expect a slow-burning, cinematic hour of hip-hop, epic psych, dub and synth soundscapes. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lukid/episodes/lukid-7th-april-2026",
         "t": "monthly",
         "p": "lukid"
       },
@@ -334,28 +318,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Sinophone Reworks of Cold War Global Hits w/ Loquat Covers",
+        "s": "2026-04-08T07:00:00+01:00",
+        "e": "2026-04-08T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Wait it's all Neil Young? W/ Anatomy of Melancholy",
+        "s": "2026-04-08T08:00:00+01:00",
+        "e": "2026-04-08T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "TorbM",
-        "s": "2026-04-07T08:00:00Z",
-        "e": "2026-04-07T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Leiiila",
-        "s": "2026-04-07T09:00:00Z",
-        "e": "2026-04-07T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "leiiila"
-      },
       {
         "n": "Octoroots",
         "s": "2026-04-07T10:00:00Z",
@@ -1487,13 +1468,22 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Lucidik ",
+        "s": "2026-04-14T10:00:00Z",
+        "e": "2026-04-14T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-07T07:00:00Z",
-        "e": "2026-04-07T09:00:00Z",
+        "s": "2026-04-07T09:00:00Z",
+        "e": "2026-04-07T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1501,8 +1491,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-07T09:00:00Z",
-        "e": "2026-04-07T11:00:00Z",
+        "s": "2026-04-07T11:00:00Z",
+        "e": "2026-04-07T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2097,15 +2087,6 @@
     ],
     "rinse": [
       {
-        "n": "Papaoul",
-        "s": "2026-04-07T08:00:00Z",
-        "e": "2026-04-07T10:00:00Z",
-        "d": null,
-        "j": "Records For Palestine",
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Bel Cobain",
         "s": "2026-04-07T10:00:00Z",
         "e": "2026-04-07T11:00:00Z",
@@ -2128,7 +2109,7 @@
         "s": "2026-04-07T12:00:00Z",
         "e": "2026-04-07T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Justin Tsang",
         "u": null,
         "t": "biweekly"
       },
@@ -2406,7 +2387,7 @@
         "s": "2026-04-07T13:00:00Z",
         "e": "2026-04-07T14:00:00Z",
         "d": null,
-        "j": "Licence To Weed with ESAIA",
+        "j": "Licence To Weed with ESAÏA",
         "u": null,
         "t": "weekly",
         "p": "izzylindqwister"
@@ -2429,13 +2410,12 @@
         "t": "weekly"
       },
       {
-        "n": "renoiterrible",
+        "n": "restonsflex",
         "s": "2026-04-07T16:00:00Z",
         "e": "2026-04-07T17:00:00Z",
         "d": null,
-        "j": "& Miss Sheitana",
-        "u": null,
-        "p": "misssheitana"
+        "j": null,
+        "u": null
       },
       {
         "n": "Amor Satyr",
