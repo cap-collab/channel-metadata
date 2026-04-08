@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-08T08:52:31.361Z",
+  "updated": "2026-04-08T10:49:52.908Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO & POLLYFROMTHEDIRT",
-        "s": "2026-04-08T09:00:00+01:00",
-        "e": "2026-04-08T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. In the second half of today's show Flo is joined by Darlington musician Pollyfromthedirt to play three tracks live in the studio. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-8th-april-2026",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-04-08T11:00:00+01:00",
@@ -26,9 +17,10 @@
         "n": "Tropic of Love w/ Mafalda",
         "s": "2026-04-08T13:00:00+01:00",
         "e": "2026-04-08T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Vibrant eclecticism from Portuguese selector Mafalda, for two hours every month. ",
+        "j": "Mafalda",
+        "u": "https://www.nts.live/api/v2/shows/mafalda/episodes/mafalda-8th-april-2026",
+        "t": "monthly",
         "p": "mafalda"
       },
       {
@@ -45,6 +37,14 @@
         "n": "Physical Therapy - Original & Unreleased",
         "s": "2026-04-08T17:00:00+01:00",
         "e": "2026-04-08T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Sounds of Cyber Aztlán (Past, Present, and Future) w/ Turbo Sonidero",
+        "s": "2026-04-08T18:00:00+01:00",
+        "e": "2026-04-08T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
@@ -83,14 +83,12 @@
         ]
       },
       {
-        "n": "NKISI",
+        "n": "Crystallmess: Unleashed",
         "s": "2026-04-08T22:00:00+01:00",
         "e": "2026-04-08T23:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "nkisi"
+        "u": null
       },
       {
         "n": "SLIME FM W/ KHADIJA AL HANAFI",
@@ -178,37 +176,21 @@
     ],
     "nts2": [
       {
-        "n": "DANCEHALL VERSIONS 1997-2006 W/ SUPER FABULOUS",
-        "s": "2026-04-08T09:00:00+01:00",
-        "e": "2026-04-08T10:00:00+01:00",
-        "d": "During the first lockdown I became obsessed with finding and collecting Jamaican Dancehall 7\"s. It seems like the late 90's and early 00's was a fertile period for experimentation, and I love the anything goes attitude to the productions of this era. Here is an hour of some B-sides - enjoy!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-dancehall-versions-1997-2006-w-super-fabulous-8th-april-2026"
-      },
-      {
-        "n": "DUNEDIN SOUND W/ ANA WEBB",
-        "s": "2026-04-08T10:00:00+01:00",
-        "e": "2026-04-08T11:00:00+01:00",
-        "d": "Songs by bands from the cultural movement formed in Dunedin, Otago, New Zealand, in the early 1980s and onwards. The Dunedin sound was marked by jangly guitars, reverb, and influenced by The Velvet Underground and the Stooges, with most of the music released through Flying Nun Records. One of the first lo-fi movements out there!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-dunedin-sound-w-ana-webb-8th-april-2026"
-      },
-      {
         "n": "80's RAMPWALK",
         "s": "2026-04-08T11:00:00+01:00",
         "e": "2026-04-08T12:00:00+01:00",
-        "d": null,
+        "d": "80's Rampwalk delivers an hour of cold wave, minimal synth, industrial, post-punk and music made in Berlin basements.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/80srampwalk/episodes/80srampwalk-8th-april-2026",
         "t": "monthly"
       },
       {
         "n": "ACID MEMORIES W/ ASTRAL VIBES",
         "s": "2026-04-08T12:00:00+01:00",
         "e": "2026-04-08T13:00:00+01:00",
-        "d": null,
+        "d": "Rose-tinted hallucinogenic sounds from Astral Vibes' Acid Memories. Illicit dealings in psychedelia of all persuasions. Sit back and enjoy…",
         "j": "ASTRAL VIBES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/acid-memories/episodes/acid-memories-8th-april-2026",
         "t": "monthly",
         "p": "acidmemories"
       },
@@ -346,27 +328,27 @@
         "u": null,
         "t": "restream",
         "p": "systemolympia"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "AR1AH ",
-        "s": "2026-04-08T08:00:00Z",
-        "e": "2026-04-08T09:00:00Z",
+        "n": "In Focus: Soo Young Park (R)",
+        "s": "2026-04-09T05:00:00+01:00",
+        "e": "2026-04-09T06:00:00+01:00",
+        "d": null,
+        "j": "Soo Young Park",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "LOST PSYCHEDELIA W/ EMERALD",
+        "s": "2026-04-09T06:00:00+01:00",
+        "e": "2026-04-09T07:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DAT_URA w/ KOSO",
-        "s": "2026-04-08T09:00:00Z",
-        "e": "2026-04-08T10:00:00Z",
-        "d": null,
-        "j": "KOSO",
-        "u": null,
-        "t": "monthly"
-      },
+        "p": "emerald"
+      }
+    ],
+    "subtle": [
       {
         "n": "Domestic Fred",
         "s": "2026-04-08T10:00:00Z",
@@ -1509,8 +1491,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-08T07:00:00Z",
-        "e": "2026-04-08T09:00:00Z",
+        "s": "2026-04-08T09:00:00Z",
+        "e": "2026-04-08T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1518,8 +1500,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-08T09:00:00Z",
-        "e": "2026-04-08T11:00:00Z",
+        "s": "2026-04-08T11:00:00Z",
+        "e": "2026-04-08T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2095,16 +2077,6 @@
     ],
     "rinse": [
       {
-        "n": "Esk",
-        "s": "2026-04-08T08:00:00Z",
-        "e": "2026-04-08T10:00:00Z",
-        "d": null,
-        "j": "w/ Saintè",
-        "u": null,
-        "t": "weekly",
-        "p": "esk"
-      },
-      {
         "n": "Cuppa Sounds",
         "s": "2026-04-08T10:00:00Z",
         "e": "2026-04-08T11:00:00Z",
@@ -2149,7 +2121,7 @@
         "s": "2026-04-08T14:00:00Z",
         "e": "2026-04-08T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Atjazz",
         "u": null,
         "t": "weekly",
         "p": "utopiapresents"
