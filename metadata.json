@@ -1,34 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-08T07:07:27.420Z",
+  "updated": "2026-04-08T08:52:31.361Z",
   "stations": {
     "nts1": [
       {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
-        "s": "2026-04-08T07:00:00+01:00",
-        "e": "2026-04-08T09:00:00+01:00",
-        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
-        "j": "SPIRIT BLUE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-8th-april-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "n": "THE NTS BREAKFAST SHOW W/ FLO & POLLYFROMTHEDIRT",
         "s": "2026-04-08T09:00:00+01:00",
         "e": "2026-04-08T11:00:00+01:00",
         "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. In the second half of today's show Flo is joined by Darlington musician Pollyfromthedirt to play three tracks live in the studio. ",
-        "j": "FLO",
+        "j": null,
         "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-8th-april-2026",
-        "t": "regular",
         "p": "flo"
       },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-04-08T11:00:00+01:00",
         "e": "2026-04-08T13:00:00+01:00",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-8th-april-2026",
         "t": "weekly",
         "p": "shyone"
       },
@@ -174,17 +164,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-04-09T09:00:00+01:00",
+        "e": "2026-04-09T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
-      {
-        "n": "Wait it's all Neil Young? W/ Anatomy of Melancholy",
-        "s": "2026-04-08T08:00:00+01:00",
-        "e": "2026-04-08T09:00:00+01:00",
-        "d": "Despair, heartbreak and open-road loneliness — 60 minutes of textural catharsis. Tracing Neil Young’s influence across slowcore, countrygaze and distorted Americana, where fragile songwriting meets blown-out amps and the beach is never far from the feedback.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-wait-it-s-all-neil-young-w-anatomy-of-melancholy-8th-april-2026"
-      },
       {
         "n": "DANCEHALL VERSIONS 1997-2006 W/ SUPER FABULOUS",
         "s": "2026-04-08T09:00:00+01:00",
@@ -197,9 +189,9 @@
         "n": "DUNEDIN SOUND W/ ANA WEBB",
         "s": "2026-04-08T10:00:00+01:00",
         "e": "2026-04-08T11:00:00+01:00",
-        "d": null,
+        "d": "Songs by bands from the cultural movement formed in Dunedin, Otago, New Zealand, in the early 1980s and onwards. The Dunedin sound was marked by jangly guitars, reverb, and influenced by The Velvet Underground and the Stooges, with most of the music released through Flying Nun Records. One of the first lo-fi movements out there!",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-dunedin-sound-w-ana-webb-8th-april-2026"
       },
       {
         "n": "80's RAMPWALK",
@@ -344,18 +336,19 @@
         "ap": [
           "clubaerobics"
         ]
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-04-08T03:00:00Z",
-        "e": "2026-04-08T08:00:00Z",
+        "n": "System Olympia (R)",
+        "s": "2026-04-09T04:00:00+01:00",
+        "e": "2026-04-09T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "restream",
+        "p": "systemolympia"
+      }
+    ],
+    "subtle": [
       {
         "n": "AR1AH ",
         "s": "2026-04-08T08:00:00Z",
@@ -1502,6 +1495,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TSZ INVITES FITS ME FUNNY",
+        "s": "2026-04-15T08:00:00Z",
+        "e": "2026-04-15T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1509,6 +1511,15 @@
         "n": "sounds of NOW",
         "s": "2026-04-08T07:00:00Z",
         "e": "2026-04-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-08T09:00:00Z",
+        "e": "2026-04-08T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2084,123 +2095,133 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-04-08T06:00:00Z",
-        "e": "2026-04-08T08:00:00Z",
+        "n": "Esk",
+        "s": "2026-04-08T08:00:00Z",
+        "e": "2026-04-08T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "w/ Saintè",
         "u": null,
-        "t": "playlist"
+        "t": "weekly",
+        "p": "esk"
       },
       {
-        "n": "Yazmin Lacey",
-        "s": "2026-04-08T08:00:00Z",
+        "n": "Cuppa Sounds",
+        "s": "2026-04-08T10:00:00Z",
         "e": "2026-04-08T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
+        "t": "biweekly",
+        "p": "cuppasounds"
       },
       {
-        "n": "Elle Clark",
+        "n": "Eclecticist",
         "s": "2026-04-08T11:00:00Z",
         "e": "2026-04-08T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly",
-        "p": "elleclark"
+        "p": "eclecticist"
       },
       {
-        "n": "SK Vibemaker",
+        "n": "Neptizzle",
         "s": "2026-04-08T12:00:00Z",
         "e": "2026-04-08T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "skvibemaker"
+        "t": "biweekly",
+        "p": "neptizzle"
       },
       {
-        "n": "Omar+",
+        "n": "Anastazja",
         "s": "2026-04-08T13:00:00Z",
         "e": "2026-04-08T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "weekly",
+        "p": "anastazja"
       },
       {
-        "n": "Tom Ravenscroft",
+        "n": "Utopia Presents",
         "s": "2026-04-08T14:00:00Z",
         "e": "2026-04-08T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly",
-        "p": "tomravenscroft"
+        "p": "utopiapresents"
       },
       {
-        "n": "Adventures In Paradise with Manuel Darquart",
+        "n": "Delilah",
         "s": "2026-04-08T16:00:00Z",
         "e": "2026-04-08T17:00:00Z",
         "d": null,
-        "j": "Good Block",
+        "j": "Spring set list",
         "u": null,
-        "t": "biweekly",
-        "p": "manueldarquart",
-        "ap": [
-          "paradise"
-        ]
+        "t": "weekly",
+        "p": "delilah"
       },
       {
-        "n": "Maey",
+        "n": "DJ Love",
         "s": "2026-04-08T17:00:00Z",
         "e": "2026-04-08T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "maey"
+        "p": "djlove"
       },
       {
-        "n": "RUTHLSS",
+        "n": "MJK",
         "s": "2026-04-08T18:00:00Z",
         "e": "2026-04-08T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "ruthlss"
+        "p": "mjk"
       },
       {
-        "n": "KILIMANJARO",
+        "n": "Machinedrum",
         "s": "2026-04-08T19:00:00Z",
+        "e": "2026-04-08T20:00:00Z",
+        "d": null,
+        "j": "DBridge, Om Unit & Fracture: From The Vault (2015)",
+        "u": null,
+        "p": "fracture",
+        "ap": [
+          "machinedrum",
+          "omunit"
+        ]
+      },
+      {
+        "n": "Planet V",
+        "s": "2026-04-08T20:00:00Z",
         "e": "2026-04-08T21:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "kilimanjaro"
+        "u": null
       },
       {
-        "n": "Jacques Greene",
+        "n": "Studio Barnhus",
         "s": "2026-04-08T21:00:00Z",
         "e": "2026-04-08T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "FaltyDL",
         "u": null,
-        "t": "weekly",
-        "p": "jacquesgreene"
+        "t": "biweekly",
+        "p": "studiobarnhus"
       },
       {
-        "n": "YETI OUT",
+        "n": "Fracture",
         "s": "2026-04-08T22:00:00Z",
         "e": "2026-04-08T23:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "weekly",
+        "p": "fracture"
       },
       {
         "n": "EMA",
@@ -2227,7 +2248,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "biweekly"
       },
       {
         "n": "Playlist",
@@ -2281,7 +2302,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "elleclark"
       },
       {
@@ -2301,7 +2322,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Tom Ravenscroft",
@@ -2320,7 +2341,7 @@
         "d": null,
         "j": "Good Block",
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "manueldarquart",
         "ap": [
           "paradise"
@@ -2343,7 +2364,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "ruthlss"
       },
       {
@@ -2353,7 +2374,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "kilimanjaro"
       },
       {
@@ -2363,7 +2384,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
+        "t": "biweekly",
         "p": "jacquesgreene"
       },
       {
