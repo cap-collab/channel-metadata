@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-08T13:01:35.697Z",
+  "updated": "2026-04-08T15:02:13.076Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Tropic of Love w/ Mafalda",
-        "s": "2026-04-08T13:00:00+01:00",
-        "e": "2026-04-08T15:00:00+01:00",
-        "d": "Vibrant eclecticism from Portuguese selector Mafalda, for two hours every month. ",
-        "j": "Mafalda",
-        "u": "https://www.nts.live/api/v2/shows/mafalda/episodes/mafalda-8th-april-2026",
-        "t": "monthly",
-        "p": "mafalda"
-      },
       {
         "n": "LOUISE CHEN",
         "s": "2026-04-08T15:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "Physical Therapy - Original & Unreleased",
         "s": "2026-04-08T17:00:00+01:00",
         "e": "2026-04-08T18:00:00+01:00",
-        "d": null,
+        "d": "Prescribe yourself a genre-free, highly emotional course of Physical Therapy.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/physical-therapy/episodes/physical-therapy-8th-april-2026"
       },
       {
         "n": "Sounds of Cyber Aztlán (Past, Present, and Future) w/ Turbo Sonidero",
@@ -171,17 +161,18 @@
         "j": "BABYSCHÖN",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "DANCE MUSIC SHOW W/ BELL TOWERS - FM lite hits",
+        "s": "2026-04-09T13:00:00+01:00",
+        "e": "2026-04-09T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "belltowers"
       }
     ],
     "nts2": [
-      {
-        "n": "Sunn O))) w/ Stephen O’ Malley",
-        "s": "2026-04-08T14:00:00+01:00",
-        "e": "2026-04-08T16:00:00+01:00",
-        "d": "Legendary Seattle drone summoners Sunn O))) grace the NTS airwaves in a special three part takeover.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sunn-o/episodes/sunn-o-8th-april-2026"
-      },
       {
         "n": "FIFTH WORLD W/ IAN KIM JUDD",
         "s": "2026-04-08T16:00:00+01:00",
@@ -196,9 +187,9 @@
         "n": "GETTING WARMER W/ JEN MONROE",
         "s": "2026-04-08T17:00:00+01:00",
         "e": "2026-04-08T18:00:00+01:00",
-        "d": null,
+        "d": "Jen Monroe writes the album download blog Listen To This!, which focuses on Japanese and new age records: Listen to This",
         "j": "JEN MONROE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jen-monroe/episodes/jen-monroe-8th-april-2026",
         "t": "monthly",
         "p": "jenmonroe"
       },
@@ -340,28 +331,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "My Eyes Glaze Over: Mego's first phase - 1994-2005",
+        "s": "2026-04-09T10:00:00+01:00",
+        "e": "2026-04-09T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Endri",
-        "s": "2026-04-08T13:00:00Z",
-        "e": "2026-04-08T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Bleached Club",
-        "s": "2026-04-08T14:00:00Z",
-        "e": "2026-04-08T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "bleachedclub"
-      },
       {
         "n": "TKAMA",
         "s": "2026-04-08T15:00:00Z",
@@ -484,13 +464,12 @@
         "p": "deepawakebysemaj"
       },
       {
-        "n": "Emanuel",
+        "n": "Sublevel",
         "s": "2026-04-09T09:00:00Z",
-        "e": "2026-04-09T10:00:00Z",
+        "e": "2026-04-09T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Con Artist",
@@ -1500,18 +1479,28 @@
         "u": null,
         "t": "monthly",
         "p": "nabes"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-04-08T13:00:00Z",
-        "e": "2026-04-08T15:00:00Z",
+        "n": "Lo5ive",
+        "s": "2026-04-15T14:00:00Z",
+        "e": "2026-04-15T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": " Gilbo",
+        "s": "2026-04-15T15:00:00Z",
+        "e": "2026-04-15T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "gilbo"
+      }
+    ],
+    "dublab": [
       {
         "n": "The Urxed - Seeing It As You Really Are",
         "s": "2026-04-08T15:00:00Z",
@@ -2078,19 +2067,19 @@
         "j": "DWELL TIME",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Teen Daze - Easy Listening",
+        "s": "2026-04-15T15:00:00Z",
+        "e": "2026-04-15T17:00:00Z",
+        "d": null,
+        "j": "Easy Listening",
+        "u": null,
+        "t": "monthly",
+        "p": "teendaze"
       }
     ],
     "rinse": [
-      {
-        "n": "Anastazja",
-        "s": "2026-04-08T13:00:00Z",
-        "e": "2026-04-08T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "anastazja"
-      },
       {
         "n": "Utopia Presents",
         "s": "2026-04-08T14:00:00Z",
@@ -2355,28 +2344,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Black Square Club",
-        "s": "2026-04-08T12:00:00Z",
-        "e": "2026-04-08T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "ShayBySchai",
-        "s": "2026-04-08T14:00:00Z",
-        "e": "2026-04-08T15:00:00Z",
-        "d": null,
-        "j": "Invite Carla Genus",
-        "u": null,
-        "t": "biweekly",
-        "p": "carlagenus",
-        "ap": [
-          "shaybyschai"
-        ]
-      },
-      {
         "n": "Andy4000",
         "s": "2026-04-08T15:00:00Z",
         "e": "2026-04-08T16:00:00Z",
@@ -2509,15 +2476,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "TELEMETRY",
-        "s": "2026-04-08T12:00:00Z",
-        "e": "2026-04-08T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "FLOCK RADIO",
         "s": "2026-04-08T14:00:00Z",
