@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-09T08:59:21.265Z",
+  "updated": "2026-04-09T10:52:55.431Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-04-09T09:00:00+01:00",
-        "e": "2026-04-09T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-9th-april-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-04-09T11:00:00+01:00",
@@ -26,27 +16,28 @@
         "n": "DANCE MUSIC SHOW W/ BELL TOWERS - FM lite hits",
         "s": "2026-04-09T13:00:00+01:00",
         "e": "2026-04-09T14:00:00+01:00",
-        "d": null,
+        "d": "Prolific producer + DJ from Melbourne, Australia - Bell Towers presents his Dance Music Show.\nFrom the host: \"This month's show is dedicated to the lite FM muzak I prefer to listen to while cruising in my Nissan. Observe the speed limit, wind down the window, pop the sunroof and enjoy the ride.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bell-towers/episodes/bell-towers-9th-april-2026",
         "p": "belltowers"
       },
       {
-        "n": "RHYTHM CONNECTION",
+        "n": "RHYTHM CONNECTION w/ Zoë Garbett",
         "s": "2026-04-09T14:00:00+01:00",
         "e": "2026-04-09T16:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
-        "n": "RHYTHM CONNECTION w/ Zoe Garbett",
+        "n": "Work Out w/ Sofie K",
         "s": "2026-04-09T16:00:00+01:00",
         "e": "2026-04-09T17:00:00+01:00",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Sofie K",
+        "u": null,
+        "t": "monthly",
+        "p": "sofiek"
       },
       {
         "n": "Chicken Foot Soup w/ Goya Gumbani and Dom P",
@@ -162,41 +153,33 @@
         "j": null,
         "u": null,
         "p": "scarythings"
+      },
+      {
+        "n": "RAJI RAGS",
+        "s": "2026-04-10T13:00:00+01:00",
+        "e": "2026-04-10T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "LA RUTA DEL BAKALAO W/ CAFÉ RIOT",
-        "s": "2026-04-09T09:00:00+01:00",
-        "e": "2026-04-09T10:00:00+01:00",
-        "d": "'La Ruta del Bakalao' was a massive clubbing and cultural movement centred in Valencia, Spain that flourished in the 80's and early 1990s. It pioneered marathon raving between clubs, and witnessed an exciting blend of club music, from industrial techno, to the early stages of Mákina, euro dance, and hardcore. This show looks at some of the music that spanned the 80s into the 90s that would have been played out on 'La Ruta', as well as other modern tracks that channel the energy of that era.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-la-ruta-del-bakalao-w-cafe-riot-9th-april-2026"
-      },
-      {
-        "n": "My Eyes Glaze Over: Mego's first phase - 1994-2005",
-        "s": "2026-04-09T10:00:00+01:00",
-        "e": "2026-04-09T11:00:00+01:00",
-        "d": "A dive into the often beautiful, often abrasive (and frequently both) computer music of the influential Austrian label, Mego.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-my-eyes-glaze-over-mego-s-first-phase---1994-2005-9th-april-2026"
-      },
-      {
         "n": "Sounds on Screen: HK Crime Movies",
         "s": "2026-04-09T11:00:00+01:00",
         "e": "2026-04-09T12:00:00+01:00",
-        "d": null,
+        "d": "Gunfights, brotherhood and betrayal: this edition of Sounds on Screen traces threads through the soundtracks of Hong Kong’s golden age of crime film. From A Better Tomorrow to The Killer and Infernal Affairs, immerse yourself in a musical universe that sits alongside louche tailoring, faded colonial dives and bursts of stylised violence. ",
         "j": "HK Crime Movies",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-hk-crime-movies-9th-april-2026",
         "t": "biweekly"
       },
       {
         "n": "On the Road w/ Adelina S - Welcome to Hamarabr Pt. 2",
         "s": "2026-04-09T12:00:00+01:00",
         "e": "2026-04-09T13:00:00+01:00",
-        "d": null,
+        "d": "This episode delves into my love story with Fulani griot music and recounts my first encounters with different griot groups in Fouta-Toro.\nFrom the host: \"This episode delves into my love story with Fulani griot music and recounts my first encounters with different griot groups in Fouta-Toro.\"",
         "j": "Adelina S",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/blind-in-1-eye/episodes/blind-in-1-eye-9th-april-2026",
         "t": "monthly"
       },
       {
@@ -246,7 +229,7 @@
         "t": "monthly"
       },
       {
-        "n": "HE4RTBROKEN",
+        "n": "HE4RTBROKEN w/ DV-i",
         "s": "2026-04-09T18:00:00+01:00",
         "e": "2026-04-09T19:00:00+01:00",
         "d": null,
@@ -255,13 +238,12 @@
         "p": "he4rtbroken"
       },
       {
-        "n": "UNITED IN FLAMES W/ MALIBU",
+        "n": "UNITED IN FLAMES W/ ESP & MALIBU",
         "s": "2026-04-09T19:00:00+01:00",
         "e": "2026-04-09T20:00:00+01:00",
         "d": null,
-        "j": "MALIBU",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "malibu"
       },
       {
@@ -330,19 +312,27 @@
         "j": null,
         "u": null,
         "p": "rapvacation"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Deep Awake by Semaj",
-        "s": "2026-04-09T08:00:00Z",
-        "e": "2026-04-09T09:00:00Z",
+        "n": "FIXED ABODE (R)",
+        "s": "2026-04-10T04:00:00+01:00",
+        "e": "2026-04-10T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "deepawakebysemaj"
+        "t": "restream"
       },
+      {
+        "n": "THEY ARE GUTTING A BODY OF WATER (R)",
+        "s": "2026-04-10T05:00:00+01:00",
+        "e": "2026-04-10T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Sublevel",
         "s": "2026-04-09T09:00:00Z",
@@ -1492,13 +1482,32 @@
         "u": null,
         "t": "monthly",
         "p": "source"
+      },
+      {
+        "n": "In The Rotation w/ Su",
+        "s": "2026-04-16T09:00:00Z",
+        "e": "2026-04-16T10:00:00Z",
+        "d": null,
+        "j": "Su",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Housekeeping",
+        "s": "2026-04-16T10:00:00Z",
+        "e": "2026-04-16T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "housekeeping"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-09T07:00:00Z",
-        "e": "2026-04-09T09:00:00Z",
+        "s": "2026-04-09T09:00:00Z",
+        "e": "2026-04-09T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1506,8 +1515,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-09T09:00:00Z",
-        "e": "2026-04-09T11:00:00Z",
+        "s": "2026-04-09T11:00:00Z",
+        "e": "2026-04-09T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2078,16 +2087,6 @@
     ],
     "rinse": [
       {
-        "n": "Yazmin Lacey",
-        "s": "2026-04-09T08:00:00Z",
-        "e": "2026-04-09T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
         "n": "Chunky",
         "s": "2026-04-09T10:00:00Z",
         "e": "2026-04-09T11:00:00Z",
@@ -2105,7 +2104,7 @@
         "s": "2026-04-09T11:00:00Z",
         "e": "2026-04-09T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "The Quiet Storm: Melvin Lindsey, Cathy Hughes & Radio Legacy of 1976",
         "u": null,
         "t": "biweekly",
         "p": "elleclark"
@@ -2340,7 +2339,7 @@
         "s": "2026-04-09T14:00:00Z",
         "e": "2026-04-09T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "WAH GWAAN",
         "u": null,
         "t": "biweekly",
         "p": "tyshacee"
@@ -2350,7 +2349,7 @@
         "s": "2026-04-09T15:00:00Z",
         "e": "2026-04-09T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite Laissonsluciefaire",
         "u": null
       },
       {
@@ -2411,7 +2410,7 @@
         "s": "2026-04-10T12:00:00Z",
         "e": "2026-04-10T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Venus Club takeover - Sorun B2B Clo (DJ set)",
         "u": null,
         "t": "monthly"
       },
