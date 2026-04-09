@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-09T16:58:02.306Z",
+  "updated": "2026-04-09T18:52:33.207Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Chicken Foot Soup w/ Goya Gumbani and Dom P",
-        "s": "2026-04-09T17:00:00+01:00",
-        "e": "2026-04-09T19:00:00+01:00",
-        "d": "London-based jazz artist Goya Gumbani stops by to share heartfelt picks from his collection.",
-        "j": "Goya Gumbani and Dom P",
-        "u": "https://www.nts.live/api/v2/shows/goya-gumbani/episodes/goya-gumbani-9th-april-2026",
-        "t": "monthly"
-      },
       {
         "n": "A. K. PAUL  - LANDCRUISIN' 10Y AND THE DAWN OF ORGANIC SYSTEMS",
         "s": "2026-04-09T19:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "Armand Hammer",
         "s": "2026-04-09T20:00:00+01:00",
         "e": "2026-04-09T21:00:00+01:00",
-        "d": null,
+        "d": "Esteemed NYC rap duo Armand Hammer aka Billy Woods and E L U C I D post up at the London studio, sharing original material and inspirations.  ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/armand-hammer-9th-april-2026",
         "p": "hammer"
       },
       {
@@ -163,43 +154,34 @@
         "j": "PRIESTE$$ TELZZZZZZ",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "BASHMENT SOUND W/ SILENT ADDY & DISCO NEIL",
+        "s": "2026-04-10T17:00:00+01:00",
+        "e": "2026-04-10T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "bashmentsound"
       }
     ],
     "nts2": [
       {
-        "n": "POSH ISOLATION'S COPENHAGEN REPORT",
-        "s": "2026-04-09T17:00:00+01:00",
-        "e": "2026-04-09T18:00:00+01:00",
-        "d": "Danish label Posh Isolation join us for an hour a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/posh-isolation/episodes/posh-isolation-9th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "HE4RTBROKEN w/ DV-i",
-        "s": "2026-04-09T18:00:00+01:00",
-        "e": "2026-04-09T19:00:00+01:00",
-        "d": "Get in your feelings with Brussels party starters HE4RTBROKEN - the beloved Belgian collective that aren't scared of a few tears on the dance floor. Resident djs Liyo, Steff, Munix and ssaliva explore the full range of cathartic music listening together with some kindred-spirited emotive guests.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hea4rtbroken/episodes/hea4rtbroken-9th-april-2026",
-        "p": "he4rtbroken"
-      },
-      {
         "n": "UNITED IN FLAMES W/ ESP & MALIBU",
         "s": "2026-04-09T19:00:00+01:00",
         "e": "2026-04-09T20:00:00+01:00",
-        "d": null,
+        "d": "Malibu is a French electronic musician whose work sails between ambient and ethereal music.\nForever inspired by soft reverbed vocals and melodious chord progressions, Malibu’s music is an immersive nostalgic journey in a sea of synthetic strings and choirs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/malibu/episodes/malibu-9th-april-2026",
         "p": "malibu"
       },
       {
         "n": "TEMPORAL COVE W/ SMILEGOTH",
         "s": "2026-04-09T20:00:00+01:00",
         "e": "2026-04-09T21:00:00+01:00",
-        "d": null,
+        "d": "Where the wall meets the floor, Temporal Cove is a body of sound exploring the ethereal and ephemeral. Smilegoth dives into shoegaze, post-rock, house and more to articulate a flow of reverberations that can be felt on every surface.\nFrom the host: \"smilegoth mix featuring Robert Lester Folsom, xaviersobased, Mogwai and more ཐི༏ཋྀ󠀮\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/temporal-cove/episodes/temporal-cove-9th-april-2026",
         "p": "smilegoth",
         "ap": [
           "temporalcove"
@@ -324,18 +306,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Lemtom",
-        "s": "2026-04-09T16:00:00Z",
-        "e": "2026-04-09T17:00:00Z",
+        "n": "DIMENSION DOOR w/ Hellenic Synth",
+        "s": "2026-04-10T14:00:00+01:00",
+        "e": "2026-04-10T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "p": "lemtom"
+        "p": "dimensiondoor"
       },
+      {
+        "n": "The Uline Catalog w/ Calvin LeCompte",
+        "s": "2026-04-10T15:00:00+01:00",
+        "e": "2026-04-10T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Say Less",
         "s": "2026-04-09T17:00:00Z",
@@ -1496,19 +1486,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Pull up w/ Niceup",
+        "s": "2026-04-16T18:00:00Z",
+        "e": "2026-04-16T19:00:00Z",
+        "d": "With a monthly show on Subtle, Niceup is a London based DJ with a unique style. Pushing UKG, Breakbeat, Bass, Electro and 140. Weaving through genres showcasing new releases and older cuts.\r\n",
+        "j": "Niceup",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Heavy Trip – Inner Ear",
-        "s": "2026-04-09T16:00:00Z",
-        "e": "2026-04-09T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "heavytrip"
-      },
       {
         "n": "EDICA+ - Dub & Effection",
         "s": "2026-04-09T17:00:00Z",
@@ -2064,29 +2053,6 @@
     ],
     "rinse": [
       {
-        "n": "Adventures In Paradise with Manuel Darquart",
-        "s": "2026-04-09T16:00:00Z",
-        "e": "2026-04-09T17:00:00Z",
-        "d": null,
-        "j": "Good Block",
-        "u": null,
-        "t": "monthly",
-        "p": "manueldarquart",
-        "ap": [
-          "paradise"
-        ]
-      },
-      {
-        "n": "Maey",
-        "s": "2026-04-09T17:00:00Z",
-        "e": "2026-04-09T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "maey"
-      },
-      {
         "n": "RUTHLSS",
         "s": "2026-04-09T18:00:00Z",
         "e": "2026-04-09T19:00:00Z",
@@ -2203,12 +2169,22 @@
       {
         "n": "The MoodSwing Show",
         "s": "2026-04-10T13:00:00Z",
-        "e": "2026-04-10T17:00:00Z",
+        "e": "2026-04-10T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
         "p": "themoodswingshow"
+      },
+      {
+        "n": "Dance Regular",
+        "s": "2026-04-10T15:00:00Z",
+        "e": "2026-04-10T17:00:00Z",
+        "d": null,
+        "j": "x CoOop Presents",
+        "u": null,
+        "t": "monthly",
+        "p": "danceregular"
       },
       {
         "n": "Heras Records",
@@ -2241,23 +2217,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Bad Tips",
-        "s": "2026-04-09T16:00:00Z",
-        "e": "2026-04-09T17:00:00Z",
-        "d": null,
-        "j": "Yenkov",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Vitaline b2b Camporeale",
-        "s": "2026-04-09T17:00:00Z",
-        "e": "2026-04-09T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "XX LAB avec François X",
         "s": "2026-04-09T18:00:00Z",
@@ -2368,15 +2327,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "1000 LTR SHOW",
-        "s": "2026-04-09T15:00:00Z",
-        "e": "2026-04-09T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "LET'S TALK HIP HOP",
         "s": "2026-04-09T17:00:00Z",
