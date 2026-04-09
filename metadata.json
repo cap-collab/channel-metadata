@@ -1,33 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-09T01:21:43.304Z",
+  "updated": "2026-04-09T04:26:47.491Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Lunacy of Flowers w/ Dave ID (R)",
-        "s": "2026-04-09T02:00:00+01:00",
-        "e": "2026-04-09T03:00:00+01:00",
-        "d": "Dave I.D takes us through industrial, and techno – melodic and dark. New and classic goth, his selection sets him apart from most, branching decades and scenes.",
-        "j": "Dave ID",
-        "u": "https://www.nts.live/api/v2/shows/daveid/episodes/daveid-16th-april-2024",
-        "t": "restream"
-      },
-      {
-        "n": "DON'T TRIP W/ MARGARITA (R)",
-        "s": "2026-04-09T03:00:00+01:00",
-        "e": "2026-04-09T05:00:00+01:00",
-        "d": "Somewhere between banging your head against a brick wall and holding your breath under water.",
-        "j": "MARGARITA",
-        "u": "https://www.nts.live/api/v2/shows/dont-trip/episodes/dont-trip-25th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "SARA A (R)",
         "s": "2026-04-09T05:00:00+01:00",
         "e": "2026-04-09T06:00:00+01:00",
-        "d": null,
+        "d": "Lesser heard sounds with a focus on femmes in punk from artist and musician Sara A.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-13th-december-2024",
         "t": "restream",
         "p": "saraa"
       },
@@ -35,9 +17,9 @@
         "n": "KRANKY (R)",
         "s": "2026-04-09T06:00:00+01:00",
         "e": "2026-04-09T07:00:00+01:00",
-        "d": null,
+        "d": "The inimitable Kranky Ltd, live from LA once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kranky/episodes/kranky-24th-august-2022",
         "t": "restream",
         "p": "kranky"
       },
@@ -162,57 +144,45 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "COLD PIZZA W/ STUD1NT",
-        "s": "2026-04-09T02:00:00+01:00",
-        "e": "2026-04-09T03:00:00+01:00",
-        "d": "for you and me\nFrom the host: \"all for nothing\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/cold-pizza/episodes/cold-pizza-9th-april-2026",
-        "p": "coldpizza"
       },
       {
-        "n": "Club Aerobics w/ Bianca Oblivion & Meg10",
-        "s": "2026-04-09T03:00:00+01:00",
-        "e": "2026-04-09T04:00:00+01:00",
-        "d": "LA-based DJ and producer Bianca Oblivion highlights dance floor gems from artists worldwide. Featuring special guests every month. Make ‘em sweat.\nFrom the host: \"In anticipation of their massive b2b for Hoemies at Berlin's Oxi Club, Bianca and Meg10 go in with some deep selections, sick blends, and of course, cute cunty club tracks.\"_",
-        "j": "Bianca Oblivion & Meg10",
-        "u": "https://www.nts.live/api/v2/shows/club-aerobics/episodes/club-aerobics-9th-april-2026",
-        "t": "monthly",
-        "p": "biancaoblivion",
-        "ap": [
-          "clubaerobics"
-        ]
-      },
-      {
-        "n": "System Olympia (R)",
-        "s": "2026-04-09T04:00:00+01:00",
-        "e": "2026-04-09T05:00:00+01:00",
+        "n": "Alicia Matthews (R)",
+        "s": "2026-04-10T04:00:00+01:00",
+        "e": "2026-04-10T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "restream",
-        "p": "systemolympia"
+        "p": "alicia"
       },
+      {
+        "n": "Crossed Wires w/ Amanda Siegel (R)",
+        "s": "2026-04-10T05:00:00+01:00",
+        "e": "2026-04-10T07:00:00+01:00",
+        "d": null,
+        "j": "Amanda Siegel",
+        "u": null,
+        "t": "restream",
+        "p": "amandasiegel"
+      }
+    ],
+    "nts2": [
       {
         "n": "In Focus: Soo Young Park (R)",
         "s": "2026-04-09T05:00:00+01:00",
         "e": "2026-04-09T06:00:00+01:00",
-        "d": null,
+        "d": "An exploration of sounds from an expanse of US and east Asian independent rock, all connected by Seam and Bitch Magnet founder, Korean-American musician Soo Young Park.\nSelected by Smilegoth",
         "j": "Soo Young Park",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-soo-young-park-6th-december-2024",
         "t": "restream"
       },
       {
         "n": "LOST PSYCHEDELIA W/ EMERALD",
         "s": "2026-04-09T06:00:00+01:00",
         "e": "2026-04-09T07:00:00+01:00",
-        "d": null,
+        "d": "For a late afternoon stroll, a mix of my favourite lost psychedelic treasures from the 60s",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-lost-psychedelia-w-emerald-9th-april-2026",
         "p": "emerald"
       },
       {
@@ -329,36 +299,47 @@
         "u": null,
         "t": "monthly",
         "p": "malibu"
+      },
+      {
+        "n": "TEMPORAL COVE W/ SMILEGOTH",
+        "s": "2026-04-09T20:00:00+01:00",
+        "e": "2026-04-09T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "smilegoth",
+        "ap": [
+          "temporalcove"
+        ]
+      },
+      {
+        "n": "SEMATARY",
+        "s": "2026-04-09T21:00:00+01:00",
+        "e": "2026-04-09T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Energy Reserve Systems w/ Kitty Ca$h (R)",
+        "s": "2026-04-09T22:00:00+01:00",
+        "e": "2026-04-09T23:00:00+01:00",
+        "d": null,
+        "j": "Kitty Ca$h",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
       {
-        "n": "The Dubversified Show",
-        "s": "2026-04-09T00:00:00Z",
-        "e": "2026-04-09T02:00:00Z",
-        "d": "Dubversified showcases Canadian West Coast DJ talent specializing in Bass Music. Hosted by Mirage, founder of Dubversified Culture, a community-led organization focusing on music, art, and events. Mirage, originally from Québec, blends house and hip-hop since 2010, now exploring 140bpm and Deep D&B.",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "rowthedecks",
-        "s": "2026-04-09T02:00:00Z",
-        "e": "2026-04-09T03:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-04-09T04:00:00Z",
+        "e": "2026-04-09T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "rowthedecks"
-      },
-      {
-        "n": "kikitza",
-        "s": "2026-04-09T03:00:00Z",
-        "e": "2026-04-09T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "Making Hay w/ natdav",
@@ -1489,18 +1470,28 @@
         "j": "JV & Rula Bula",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-04-09T01:00:00Z",
-        "e": "2026-04-09T03:00:00Z",
+        "n": "Synthesis by Synestesia",
+        "s": "2026-04-16T02:00:00Z",
+        "e": "2026-04-16T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "synestesia"
       },
+      {
+        "n": "Sasha Rome Presents Eclipse",
+        "s": "2026-04-16T03:00:00Z",
+        "e": "2026-04-16T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Rusty Santos - Microworlds",
         "s": "2026-04-09T03:00:00Z",
@@ -1829,7 +1820,7 @@
       {
         "n": "Becky Ebenkamp – Bubblegum & Other Delights",
         "s": "2026-04-12T19:00:00Z",
-        "e": "2026-04-12T21:00:00Z",
+        "e": "2026-04-12T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2062,18 +2053,19 @@
         "u": null,
         "t": "monthly",
         "p": "gayfelony"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "DJ RED",
-        "s": "2026-04-09T01:00:00Z",
-        "e": "2026-04-09T02:00:00Z",
+        "n": "Ghorba Radio",
+        "s": "2026-04-16T03:00:00Z",
+        "e": "2026-04-16T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
-      },
+        "t": "monthly",
+        "p": "ghorba"
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-04-09T02:00:00Z",
@@ -2433,24 +2425,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "CHUNKS",
-        "s": "2026-04-09T00:00:00Z",
-        "e": "2026-04-09T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "ORGANIZED DISORDER",
-        "s": "2026-04-09T02:00:00Z",
-        "e": "2026-04-09T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "OPEN",
         "s": "2026-04-09T04:00:00Z",
