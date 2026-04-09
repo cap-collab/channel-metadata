@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-09T07:11:47.617Z",
+  "updated": "2026-04-09T08:59:21.265Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-04-09T07:00:00+01:00",
-        "e": "2026-04-09T09:00:00+01:00",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-9th-april-2026"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-04-09T09:00:00+01:00",
@@ -25,9 +17,9 @@
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-04-09T11:00:00+01:00",
         "e": "2026-04-09T13:00:00+01:00",
-        "d": null,
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
         "j": "BABYSCHÖN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-9th-april-2026",
         "t": "weekly"
       },
       {
@@ -161,17 +153,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SOUP TO NUTS W/ SCARY THINGS & JULIE ADENUGA",
+        "s": "2026-04-10T11:00:00+01:00",
+        "e": "2026-04-10T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "scarythings"
       }
     ],
     "nts2": [
-      {
-        "n": "Relief Records Mix w/ RICMAYHEM",
-        "s": "2026-04-09T08:00:00+01:00",
-        "e": "2026-04-09T09:00:00+01:00",
-        "d": "I remember the thrill of experiencing my first Relief Records release. It was Paul Johnson’s ‘The Other Side of Me’ at Birmingham’s Hard To Find Records. Thirty years on, and Green Velvet’s Chicago-born label is still putting out jacking techno & house. This mix is a collection of largely seldom heard tracks with some pieces of well known bangers dropped in.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-relief-records-mix-w-ricmayhem-9th-april-2026"
-      },
       {
         "n": "LA RUTA DEL BAKALAO W/ CAFÉ RIOT",
         "s": "2026-04-09T09:00:00+01:00",
@@ -184,9 +177,9 @@
         "n": "My Eyes Glaze Over: Mego's first phase - 1994-2005",
         "s": "2026-04-09T10:00:00+01:00",
         "e": "2026-04-09T11:00:00+01:00",
-        "d": null,
+        "d": "A dive into the often beautiful, often abrasive (and frequently both) computer music of the influential Austrian label, Mego.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-my-eyes-glaze-over-mego-s-first-phase---1994-2005-9th-april-2026"
       },
       {
         "n": "Sounds on Screen: HK Crime Movies",
@@ -328,18 +321,18 @@
         "j": "HNRK",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Rap Vacation w/ Soundsent",
+        "s": "2026-04-10T02:00:00+01:00",
+        "e": "2026-04-10T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "rapvacation"
       }
     ],
     "subtle": [
-      {
-        "n": "Making Hay w/ natdav",
-        "s": "2026-04-09T07:00:00Z",
-        "e": "2026-04-09T08:00:00Z",
-        "d": null,
-        "j": "natdav",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Deep Awake by Semaj",
         "s": "2026-04-09T08:00:00Z",
@@ -1489,6 +1482,16 @@
         "u": null,
         "t": "monthly",
         "p": "psychogeography"
+      },
+      {
+        "n": "source",
+        "s": "2026-04-16T08:00:00Z",
+        "e": "2026-04-16T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "source"
       }
     ],
     "dublab": [
@@ -2074,15 +2077,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-04-09T06:00:00Z",
-        "e": "2026-04-09T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Yazmin Lacey",
         "s": "2026-04-09T08:00:00Z",
