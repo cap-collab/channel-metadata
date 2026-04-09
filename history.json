@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-04-08T22:31:23.703Z",
+  "updated": "2026-04-09T01:22:04.551Z",
   "stations": {
     "nts1": [
       {
@@ -7579,6 +7579,33 @@
         "j": "Unleashed",
         "u": "https://www.nts.live/api/v2/shows/crystallmess/episodes/crystallmess-8th-april-2026",
         "t": "monthly"
+      },
+      {
+        "n": "SLIME FM W/ KHADIJA AL HANAFI",
+        "s": "2026-04-08T23:00:00+01:00",
+        "e": "2026-04-09T00:00:00+01:00",
+        "d": "Uncompromising footwork selections from Tunis-based producer Khadija Al Hanafi – ” sounds coming straight from her computer - classic Hanafi style”",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/slime-fm/episodes/slime-fm-8th-april-2026",
+        "p": "slimefm"
+      },
+      {
+        "n": "GRRL",
+        "s": "2026-04-09T00:00:00+01:00",
+        "e": "2026-04-09T01:00:00+01:00",
+        "d": "Soundcloud curator-turned-DJ, Grrl, handles the wheel one Thursday each month between two and three in the early morning. Neoprene muffled helium vocals bounce over chrome-addled club soundtracks - an extremely broad spectrum of the internet-born club sound. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/grrl/episodes/grrl-9th-april-2026",
+        "t": "monthly",
+        "p": "grrl"
+      },
+      {
+        "n": "Can You Feel The Sun W/ Katiusha",
+        "s": "2026-04-09T01:00:00+01:00",
+        "e": "2026-04-09T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
@@ -16626,6 +16653,24 @@
         "u": "https://www.nts.live/api/v2/shows/luke-mele/episodes/luke-mele-8th-april-2026",
         "t": "monthly",
         "p": "lukemele"
+      },
+      {
+        "n": "Beyond The Clouds w/ Masha Mar",
+        "s": "2026-04-08T23:00:00+01:00",
+        "e": "2026-04-09T00:00:00+01:00",
+        "d": "Slowed Down, sun kissed journeys through dub, synth, cosmic & balearic beats. Brought to you from LA each month.\nFrom the host: \"feeling spiritual\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/masha/episodes/masha-8th-april-2026",
+        "p": "mashamar"
+      },
+      {
+        "n": "THE ATHENIAN MARKETPLACE",
+        "s": "2026-04-09T00:00:00+01:00",
+        "e": "2026-04-09T02:00:00+01:00",
+        "d": "Athenian Marketplace takes the reigns of a 2 hour monthly slot from our LA studio. \nSoundcloud\nYoutube",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/yayayi/episodes/yayayi-9th-april-2026",
+        "t": "monthly"
       }
     ],
     "subtle": [
@@ -25521,6 +25566,25 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Psyked ",
+        "s": "2026-04-08T22:00:00Z",
+        "e": "2026-04-08T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "psyked"
+      },
+      {
+        "n": "WOODWORK ",
+        "s": "2026-04-08T23:00:00Z",
+        "e": "2026-04-09T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -31668,6 +31732,29 @@
         "u": null,
         "t": "monthly",
         "p": "jeffweiss"
+      },
+      {
+        "n": "Danny Holloway - Heads Up",
+        "s": "2026-04-08T21:00:00Z",
+        "e": "2026-04-08T23:00:00Z",
+        "d": null,
+        "j": "Heads Up",
+        "u": null,
+        "t": "monthly",
+        "p": "dannyholloway",
+        "ap": [
+          "holloway"
+        ]
+      },
+      {
+        "n": "Byron Westbrook - Chromatic Fields",
+        "s": "2026-04-08T23:00:00Z",
+        "e": "2026-04-09T01:00:00Z",
+        "d": null,
+        "j": "Chromatic Fields",
+        "u": null,
+        "t": "monthly",
+        "p": "byronwestbrook"
       }
     ],
     "rinse": [
@@ -39155,6 +39242,35 @@
         "u": null,
         "t": "biweekly",
         "p": "studiobarnhus"
+      },
+      {
+        "n": "Fracture",
+        "s": "2026-04-08T22:00:00Z",
+        "e": "2026-04-08T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "fracture"
+      },
+      {
+        "n": "EMA",
+        "s": "2026-04-08T23:00:00Z",
+        "e": "2026-04-09T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ema"
+      },
+      {
+        "n": "MoMA Ready",
+        "s": "2026-04-09T00:00:00Z",
+        "e": "2026-04-09T01:00:00Z",
+        "d": null,
+        "j": "011",
+        "u": null,
+        "p": "momaready",
+        "t": "weekly"
       }
     ],
     "rinsefr": [
@@ -43535,67 +43651,57 @@
         "t": "playlist"
       },
       {
-        "n": "Black Square Club",
+        "n": "JP MANO",
         "s": "2026-04-08T12:00:00Z",
         "e": "2026-04-08T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "On Parle Musique",
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "ShayBySchai",
+        "n": "Tysha Cee",
         "s": "2026-04-08T14:00:00Z",
         "e": "2026-04-08T15:00:00Z",
         "d": null,
-        "j": "Invite Carla Genus",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "carlagenus",
-        "ap": [
-          "shaybyschai"
-        ]
+        "t": "monthly",
+        "p": "tyshacee"
       },
       {
-        "n": "Andy4000",
+        "n": "Maquis Sale",
         "s": "2026-04-08T15:00:00Z",
         "e": "2026-04-08T16:00:00Z",
         "d": null,
-        "j": "Talk2Andy with Tatyana Jane",
-        "u": null,
-        "t": "biweekly",
-        "p": "tatyanajane"
+        "j": null,
+        "u": null
       },
       {
-        "n": "Menace Progressive",
+        "n": "Bad Tips",
         "s": "2026-04-08T16:00:00Z",
         "e": "2026-04-08T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Yenkov",
         "u": null,
-        "p": "menace",
-        "ap": [
-          "menaceprogressive"
-        ]
+        "t": "monthly"
       },
       {
-        "n": "Maoupa Mazzocchetti",
+        "n": "Vitaline b2b Camporeale",
         "s": "2026-04-08T17:00:00Z",
         "e": "2026-04-08T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "maoupamazzocchetti"
+        "u": null
       },
       {
-        "n": "RONI",
+        "n": "XX LAB avec François X",
         "s": "2026-04-08T18:00:00Z",
         "e": "2026-04-08T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "roni"
+        "p": "xxlabavecfranoisx"
       },
       {
         "n": "Playlist France",
@@ -46757,6 +46863,15 @@
         "e": "2026-04-08T22:00:00Z",
         "d": null,
         "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "KNOWLEDGE W/ Young link",
+        "s": "2026-04-08T22:00:00Z",
+        "e": "2026-04-09T00:00:00Z",
+        "d": null,
+        "j": "Young link",
         "u": null,
         "t": "biweekly"
       }
