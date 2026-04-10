@@ -1,40 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-10T18:40:29.197Z",
+  "updated": "2026-04-10T20:26:10.254Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Katie Baxter",
-        "s": "2026-04-10T19:00:00+01:00",
-        "e": "2026-04-10T20:00:00+01:00",
-        "d": "Special guest shows from around the world.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/katie-baxter-10th-april-2026"
-      },
-      {
-        "n": "HOPPER1000 RADIO",
-        "s": "2026-04-10T20:00:00+01:00",
-        "e": "2026-04-10T21:00:00+01:00",
-        "d": "Oldies, jungle, hip hop, bass music, and more from legendary Florida DJ hopper1000.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hopper1000/episodes/hopper1000-10th-april-2026"
-      },
       {
         "n": "NTS Guide to: Jerk",
         "s": "2026-04-10T21:00:00+01:00",
         "e": "2026-04-10T22:00:00+01:00",
-        "d": null,
+        "d": "Sounds from the new wave of jerk rap in NYC and the UK. While taking partial inspiration from the original wave of Californian jerk rap and dance culture pioneered by artists like the City Boyz, the new wave of jerk artist pull from a broad spectrum of sonic infleunces, including current regional trends like Milwaukee lowend, plugg, and internet-native genres like digicore and hyperpop. ",
         "j": "Jerk",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-jerk-10th-april-2026",
         "t": "biweekly"
       },
       {
         "n": "DEEP MEDI",
         "s": "2026-04-10T22:00:00+01:00",
         "e": "2026-04-10T23:00:00+01:00",
-        "d": null,
+        "d": "Bass weight and sound system musik from DEEP MEDi - sharing styles from the label's new crop of producers, and picking out gems from their 150+ releases back catalogue. KEEP YOUR MEDi DEEP\nFrom the host: _\"Kahn\n'Past Life' LP\nDigital & Vinyl \n9th May 2026\nCelebrating \"all things Kahn\" ahead of his MEDi debut album 🎵\"_",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/deep-medi/episodes/deep-medi-10th-april-2026",
         "p": "deepmedi"
       },
       {
@@ -170,43 +154,43 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS Guide to: 90s Spanish Indie",
+        "s": "2026-04-11T18:00:00+01:00",
+        "e": "2026-04-11T19:00:00+01:00",
+        "d": null,
+        "j": "90s Spanish Indie",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "AS I WAS MOVING AHEAD - Thread Leads to Heaven",
+        "s": "2026-04-11T19:00:00+01:00",
+        "e": "2026-04-11T20:00:00+01:00",
+        "d": null,
+        "j": "Thread Leads to Heaven",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "James Mcnew (YO LA TENGO)",
-        "s": "2026-04-10T19:00:00+01:00",
-        "e": "2026-04-10T20:00:00+01:00",
-        "d": "James McNew of Hoboken indie rock royalty Yo La Tengo shares an hour of picks from his collection each month..",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yo-la-tengo/episodes/yo-la-tengo-10th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Trinh",
-        "s": "2026-04-10T20:00:00+01:00",
-        "e": "2026-04-10T21:00:00+01:00",
-        "d": "TRiNH - an hour of covers and nostalgic feels, playing a wide range of genres with a focus on L-O-V-E. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/trinh/episodes/trinh-10th-april-2026",
-        "p": "trinh"
-      },
-      {
         "n": "Mild Animals",
         "s": "2026-04-10T21:00:00+01:00",
         "e": "2026-04-10T22:00:00+01:00",
-        "d": null,
+        "d": "Stick jazz, psych, and hip-hop in a pot and give it a whirl. Mild Animals ease in the weekend. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mild-animals/episodes/mild-animals-10th-april-2026",
         "p": "mildanimals"
       },
       {
         "n": "AXCESS AMNESIA W/ JENNY SAYAKA NONO",
         "s": "2026-04-10T22:00:00+01:00",
         "e": "2026-04-10T23:00:00+01:00",
-        "d": null,
+        "d": "Filmmaker Jenny Sayaka Nono brings her manic VHS hued style to the audio airwaves, with steely coldwave, industrial, synth pop & more. ",
         "j": "JENNY SAYAKA NONO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/axcess-amnesia/episodes/axcess-amnesia-10th-april-2026",
         "t": "monthly",
         "p": "axcessamnesia"
       },
@@ -328,28 +312,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "SYNES",
-        "s": "2026-04-10T18:00:00Z",
-        "e": "2026-04-10T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "synes"
       },
       {
-        "n": "Pent.1",
-        "s": "2026-04-10T19:00:00Z",
-        "e": "2026-04-10T20:00:00Z",
+        "n": "150 session",
+        "s": "2026-04-11T15:00:00+01:00",
+        "e": "2026-04-11T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Panorama Yerevan w/ Lucia Kagramanyan - Armenian Songs of Spring",
+        "s": "2026-04-11T16:00:00+01:00",
+        "e": "2026-04-11T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "panoramayerevan"
+      }
+    ],
+    "subtle": [
       {
         "n": " Dorian Day b2b Dunman",
         "s": "2026-04-10T20:00:00Z",
@@ -358,6 +341,15 @@
         "j": null,
         "u": null,
         "p": "dunman"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-04-10T21:00:00Z",
+        "e": "2026-04-10T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "1V & Broken Boxes",
@@ -1416,6 +1408,14 @@
         "t": "monthly"
       },
       {
+        "n": "Ozzy",
+        "s": "2026-04-17T09:00:00Z",
+        "e": "2026-04-17T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "Systema Naturae by lucii.",
         "s": "2026-04-17T10:00:00Z",
         "e": "2026-04-17T11:00:00Z",
@@ -1479,22 +1479,29 @@
         "u": null,
         "t": "monthly",
         "p": "sempra"
+      },
+      {
+        "n": "Machine Woman",
+        "s": "2026-04-17T19:00:00Z",
+        "e": "2026-04-17T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "machinewoman"
+      },
+      {
+        "n": "CICELY",
+        "s": "2026-04-17T20:00:00Z",
+        "e": "2026-04-17T22:00:00Z",
+        "d": "Cicely is a northern raised London based music photographer and DJ. From learning to mix during lockdown, she has since played at clubs across the country in venues such as Fabric, Corsica and Fold.\r\n\r\nCicely runs a collective and events night under the name NRG CRU which focus heavily on the high energy rave sound. She is highly influenced by the northern sound she grew up with, and you can hear this within her sets. Expect heavy blends of techno and hardcore while she shines the light on her favourite northern artists.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "cicely"
       }
     ],
     "dublab": [
-      {
-        "n": "Daddy Differently and Dirty Dave - Things of Life",
-        "s": "2026-04-10T17:00:00Z",
-        "e": "2026-04-10T19:00:00Z",
-        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
-        "j": "Things of Life",
-        "u": null,
-        "t": "weekly",
-        "p": "daddydifferently",
-        "ap": [
-          "dirtydave"
-        ]
-      },
       {
         "n": "Xica Soul - SoundProof",
         "s": "2026-04-10T19:00:00Z",
@@ -2037,19 +2044,18 @@
         "ap": [
           "dirtydave"
         ]
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Heras Records",
-        "s": "2026-04-10T17:00:00Z",
-        "e": "2026-04-10T19:00:00Z",
+        "n": "Swami Sound – Crash Course",
+        "s": "2026-04-17T19:00:00Z",
+        "e": "2026-04-17T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "herasrecords"
-      },
+        "p": "swamisound"
+      }
+    ],
+    "rinse": [
       {
         "n": "p-rallel with Phina",
         "s": "2026-04-10T19:00:00Z",
@@ -2231,15 +2237,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Trois-Quarts Taxi System",
-        "s": "2026-04-10T18:00:00Z",
-        "e": "2026-04-10T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-04-10T19:00:00Z",
         "e": "2026-04-10T22:00:00Z",
@@ -2338,15 +2335,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "TARZAN CITY",
-        "s": "2026-04-10T17:00:00Z",
-        "e": "2026-04-10T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "SLIGHT OF HAND",
         "s": "2026-04-10T19:00:00Z",
