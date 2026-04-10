@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-10T10:44:14.858Z",
+  "updated": "2026-04-10T12:50:04.630Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ SCARY THINGS & JULIE ADENUGA",
-        "s": "2026-04-10T11:00:00+01:00",
-        "e": "2026-04-10T13:00:00+01:00",
-        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-10th-april-2026",
-        "p": "scarythings"
-      },
       {
         "n": "Lora S",
         "s": "2026-04-10T13:00:00+01:00",
@@ -25,9 +16,10 @@
         "n": "ADONIS w/ Seb Odyssey",
         "s": "2026-04-10T15:00:00+01:00",
         "e": "2026-04-10T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Iconic queer party crew Adonis showcase their residents on a monthly rotation live from the London studio.",
+        "j": "Seb Odyssey",
+        "u": "https://www.nts.live/api/v2/shows/adonis/episodes/adonis-10th-april-2026",
+        "t": "monthly",
         "p": "adonis"
       },
       {
@@ -167,18 +159,19 @@
         "u": null,
         "t": "restream",
         "p": "desirepaths"
+      },
+      {
+        "n": "RAGA VIBRATIONS",
+        "s": "2026-04-11T08:00:00+01:00",
+        "e": "2026-04-11T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ragavibrations"
       }
     ],
     "nts2": [
-      {
-        "n": "In Focus - Edda Dell'Orso",
-        "s": "2026-04-10T11:00:00+01:00",
-        "e": "2026-04-10T13:00:00+01:00",
-        "d": "Edda Sabatini, better known as Edda Dell’Orso, was an Italian singer whose wordless voice became a defining feature of Ennio Morricone’s most iconic scores. Her soprano, simultaneously intimate and cinematic, runs through the sound of Italian film in the 1960s and ’70s.\nThis In Focus traces her solo work and collaborations across the wider world of Italian soundtrack and library music, with selections from Piero Piccioni, Bruno Battisti D’Amario, Temme Di Giuditta, and Armando Trovajoli.",
-        "j": "Edda Dell'Orso",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-edda-dell-orso-9th-april-2026",
-        "t": "weekly"
-      },
       {
         "n": "GOD COLONY & ADAM CURTIS",
         "s": "2026-04-10T13:00:00+01:00",
@@ -191,9 +184,9 @@
         "n": "DIMENSION DOOR w/ Hellenic Synth",
         "s": "2026-04-10T14:00:00+01:00",
         "e": "2026-04-10T15:00:00+01:00",
-        "d": null,
+        "d": "Occult tapes plundered by two low level scavengers: the finest dungeon synth, medieval dark ambient & black metal.\nFrom the host: \"Stricly Hellenic dungeon synth: cassettes and demo tapes from the fringes of the Greek & Cypriot metal scene, from 1994-1999.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-10th-april-2026",
         "p": "dimensiondoor"
       },
       {
@@ -326,27 +319,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Midwest Fantasy Quest W/ Moral Compass",
+        "s": "2026-04-11T07:00:00+01:00",
+        "e": "2026-04-11T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
       {
-        "n": "Tom Ferrare",
-        "s": "2026-04-10T10:00:00Z",
-        "e": "2026-04-10T11:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-04-10T12:00:00Z",
+        "e": "2026-04-10T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Electrolytes with Joly",
-        "s": "2026-04-10T11:00:00Z",
-        "e": "2026-04-10T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "electrolyteswithjoly"
+        "t": "playlist"
       },
       {
         "n": "Sauce Collective ",
@@ -1469,13 +1460,22 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Gwero b2b Nightshade",
+        "s": "2026-04-17T11:00:00Z",
+        "e": "2026-04-17T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-10T09:00:00Z",
-        "e": "2026-04-10T11:00:00Z",
+        "s": "2026-04-10T11:00:00Z",
+        "e": "2026-04-10T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1483,8 +1483,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-10T11:00:00Z",
-        "e": "2026-04-10T13:00:00Z",
+        "s": "2026-04-10T13:00:00Z",
+        "e": "2026-04-10T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2121,12 +2121,31 @@
       {
         "n": "ryota",
         "s": "2026-04-11T01:00:00Z",
-        "e": "2026-04-11T08:00:00Z",
+        "e": "2026-04-11T02:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
         "p": "ryota"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-04-11T02:00:00Z",
+        "e": "2026-04-11T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Jacques Greene",
+        "s": "2026-04-11T05:00:00Z",
+        "e": "2026-04-11T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "jacquesgreene"
       },
       {
         "n": "Breakfast with IG Culture",
@@ -2206,15 +2225,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-04-10T07:00:00Z",
-        "e": "2026-04-10T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Club Mycélium",
         "s": "2026-04-10T12:00:00Z",
         "e": "2026-04-10T13:00:00Z",
@@ -2254,7 +2264,7 @@
         "s": "2026-04-10T16:00:00Z",
         "e": "2026-04-10T17:00:00Z",
         "d": null,
-        "j": "invite AZIZA",
+        "j": "invite AZIZA, HANIMAMI & RITA L'OUJDIA",
         "u": null,
         "t": "biweekly",
         "p": "mystique"
@@ -2376,15 +2386,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-04-10T05:00:00Z",
-        "e": "2026-04-10T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "GRAVITATION",
         "s": "2026-04-10T12:00:00Z",
