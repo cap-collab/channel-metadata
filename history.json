@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-04-10T01:45:57.131Z",
+  "updated": "2026-04-10T04:40:42.949Z",
   "stations": {
     "nts1": [
       {
@@ -18,7 +18,8 @@
         "e": "2026-02-16T09:00:00Z",
         "d": "Introducing The Early Bird Show - our radio offering for morning people, hosted by Maria Somerville (Mondays and Tuesdays), Spirit Blue (Wednesdays and Thursdays) and Jack Rollo (Fridays). Weekday mornings, 7-9am.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-braden-wells-16th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-braden-wells-16th-february-2026",
+        "p": "bradenwells"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -163,7 +164,8 @@
         "e": "2026-02-17T09:00:00Z",
         "d": "Introducing The Early Bird Show - our radio offering for morning people, hosted by Maria Somerville (Mondays and Tuesdays), Spirit Blue (Wednesdays and Thursdays) and Jack Rollo (Fridays). Weekday mornings, 7-9am.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-braden-wells-17th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-braden-wells-17th-february-2026",
+        "p": "bradenwells"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -3258,7 +3260,10 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/raji-rags/episodes/raji-rags-13th-march-2026",
         "t": "monthly",
-        "p": "batu"
+        "p": "batu",
+        "ap": [
+          "rajirags"
+        ]
       },
       {
         "n": "ADONIS w/ Marie Malarie",
@@ -7770,6 +7775,34 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SOFAY & RIBEKA (R)",
+        "s": "2026-04-10T02:00:00+01:00",
+        "e": "2026-04-10T03:00:00+01:00",
+        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-22nd-april-2025",
+        "t": "restream"
+      },
+      {
+        "n": "OMICHIVE’S BOOKSHELF (R)",
+        "s": "2026-04-10T03:00:00+01:00",
+        "e": "2026-04-10T04:00:00+01:00",
+        "d": "Blogger and playlister Omichive picks out some highlights from the East Asian indie and alternative scene. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/omichive-s-bookshelf-27th-august-2025",
+        "t": "restream"
+      },
+      {
+        "n": "Alicia Matthews (R)",
+        "s": "2026-04-10T04:00:00+01:00",
+        "e": "2026-04-10T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "alicia"
       }
     ],
     "nts2": [
@@ -17049,6 +17082,24 @@
         "j": "HNRK",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Rap Vacation w/ Soundsent",
+        "s": "2026-04-10T02:00:00+01:00",
+        "e": "2026-04-10T04:00:00+01:00",
+        "d": "Label head Michael Lundy explores Rap Vacation’s experimental influences, with guests and exclusive cuts from the thriving LA beat scene.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/rap-vacation/episodes/rap-vacation-10th-april-2026",
+        "p": "rapvacation"
+      },
+      {
+        "n": "FIXED ABODE (R)",
+        "s": "2026-04-10T04:00:00+01:00",
+        "e": "2026-04-10T05:00:00+01:00",
+        "d": "Prestonian singer songwriter Rainy Miller presents the progress check, a bi-monthly show playing an hour of archived experiments and influences.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/rainy-miller/episodes/rainy-miller-13th-july-2025",
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -26145,6 +26196,34 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Pete Shredz",
+        "s": "2026-04-10T01:00:00Z",
+        "e": "2026-04-10T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "peteshredz"
+      },
+      {
+        "n": "Macks",
+        "s": "2026-04-10T02:00:00Z",
+        "e": "2026-04-10T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Lava Recordings with 99 ranch",
+        "s": "2026-04-10T03:00:00Z",
+        "e": "2026-04-10T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -32452,6 +32531,16 @@
         "u": null,
         "t": "monthly",
         "p": "frankiejaxnomad"
+      },
+      {
+        "n": "Frosty - Celsius Drop",
+        "s": "2026-04-10T01:00:00Z",
+        "e": "2026-04-10T03:00:00Z",
+        "d": null,
+        "j": "Celsius Drop",
+        "u": null,
+        "t": "monthly",
+        "p": "frosty"
       }
     ],
     "rinse": [
@@ -40147,6 +40236,16 @@
         "u": null,
         "t": "biweekly",
         "p": "ryota"
+      },
+      {
+        "n": "MoMA Ready",
+        "s": "2026-04-10T01:00:00Z",
+        "e": "2026-04-10T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "momaready"
       }
     ],
     "rinsefr": [
@@ -47940,6 +48039,15 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "2012 AFTERLIFE",
+        "s": "2026-04-10T01:00:00Z",
+        "e": "2026-04-10T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
       }
     ]
   }

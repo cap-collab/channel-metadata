@@ -1,43 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-10T01:45:34.272Z",
+  "updated": "2026-04-10T04:40:21.511Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOFAY & RIBEKA (R)",
-        "s": "2026-04-10T02:00:00+01:00",
-        "e": "2026-04-10T03:00:00+01:00",
-        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-22nd-april-2025",
-        "t": "restream"
-      },
-      {
-        "n": "OMICHIVE’S BOOKSHELF (R)",
-        "s": "2026-04-10T03:00:00+01:00",
-        "e": "2026-04-10T04:00:00+01:00",
-        "d": "Blogger and playlister Omichive picks out some highlights from the East Asian indie and alternative scene. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/omichive-s-bookshelf-27th-august-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Alicia Matthews (R)",
-        "s": "2026-04-10T04:00:00+01:00",
-        "e": "2026-04-10T05:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "alicia"
-      },
       {
         "n": "Crossed Wires w/ Amanda Siegel (R)",
         "s": "2026-04-10T05:00:00+01:00",
         "e": "2026-04-10T07:00:00+01:00",
-        "d": null,
+        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.",
         "j": "Amanda Siegel",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-21st-march-2025",
         "t": "restream",
         "p": "amandasiegel"
       },
@@ -45,9 +17,9 @@
         "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
         "s": "2026-04-10T07:00:00+01:00",
         "e": "2026-04-10T09:00:00+01:00",
-        "d": null,
+        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
         "j": "JACK ROLLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-10th-april-2026",
         "t": "biweekly"
       },
       {
@@ -73,7 +45,8 @@
         "e": "2026-04-10T15:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "rajirags"
       },
       {
         "n": "ADONIS w/ Seb Odyssey",
@@ -165,43 +138,52 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Rap Vacation w/ Soundsent",
-        "s": "2026-04-10T02:00:00+01:00",
-        "e": "2026-04-10T04:00:00+01:00",
-        "d": "Label head Michael Lundy explores Rap Vacation’s experimental influences, with guests and exclusive cuts from the thriving LA beat scene.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rap-vacation/episodes/rap-vacation-10th-april-2026",
-        "p": "rapvacation"
       },
       {
-        "n": "FIXED ABODE (R)",
-        "s": "2026-04-10T04:00:00+01:00",
-        "e": "2026-04-10T05:00:00+01:00",
-        "d": "Prestonian singer songwriter Rainy Miller presents the progress check, a bi-monthly show playing an hour of archived experiments and influences.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rainy-miller/episodes/rainy-miller-13th-july-2025",
-        "t": "restream"
-      },
-      {
-        "n": "THEY ARE GUTTING A BODY OF WATER (R)",
-        "s": "2026-04-10T05:00:00+01:00",
-        "e": "2026-04-10T06:00:00+01:00",
+        "n": "The Trilogy Tapes (R)",
+        "s": "2026-04-11T03:00:00+01:00",
+        "e": "2026-04-11T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "restream"
       },
       {
+        "n": "ONY (R)",
+        "s": "2026-04-11T05:00:00+01:00",
+        "e": "2026-04-11T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Uncanny Valley (R)",
+        "s": "2026-04-11T06:00:00+01:00",
+        "e": "2026-04-11T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "nts2": [
+      {
+        "n": "THEY ARE GUTTING A BODY OF WATER (R)",
+        "s": "2026-04-10T05:00:00+01:00",
+        "e": "2026-04-10T06:00:00+01:00",
+        "d": "Philadelphia cult property and experimental shoegazers They Are Gutting A Body Of Water bring their hazy sound to NTS once a month.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/they-are-gutting-a-body-of-water/episodes/they-are-gutting-a-body-of-water-12th-june-2025",
+        "t": "restream"
+      },
+      {
         "n": "Oizo Compilation W/ Flat Esoteric",
         "s": "2026-04-10T06:00:00+01:00",
         "e": "2026-04-10T07:00:00+01:00",
-        "d": null,
+        "d": "I’m a huge Mr Oizo fan and have been listening to his music and growing with it since I was a teenager. I continue to fall in love with his music as I age. Some of his work that wasn’t really accessible to me as a young girl, because it sounded too obscure at the time, I’m now able to connect with as an adult, and it feels like I’ve discovered his music all over again.\nI received my Flat Eric doll as a gift from a close friend when I was young, and he has been a huge part of my life ever since. Flat Eric has gone on many adventures with me - he’s been recognised from afar by strangers who are now good friends, they asked if they could take a photo with him. He has gone to festivals, had his portrait painted, sat on a very tall stack of milk crates, but most importantly, he has grown with me for the past 14 years.\nFlat Eric aside, the Oizo/Ed Banger Records sound really shapes who I am musically. It marks the start of my musical journey, and while I don’t strictly play French Electronic today, it most definitely seeps through in the sounds I’m drawn to and play.\nI love Mr Oizo’s entire artistic essence - from his album art, to his track titles, to the whole absurdist thing he has going on. There is something about his expression and work that truly resonates with me. My artist/DJ name is Flat Esoteric, a direct reference to Flat Eric. It only made sense for me to put together a mix that is an ode to Mr Oizo.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-oizo-compilation-w-flat-esoteric-10th-april-2026"
       },
       {
         "n": "For Driving w/ Young Children",
@@ -284,7 +266,8 @@
         "e": "2026-04-10T18:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "bradenwells"
       },
       {
         "n": "world of pain w/ ian collins",
@@ -320,36 +303,35 @@
         "j": null,
         "u": null,
         "p": "mildanimals"
+      },
+      {
+        "n": "AXCESS AMNESIA W/ JENNY SAYAKA NONO",
+        "s": "2026-04-10T22:00:00+01:00",
+        "e": "2026-04-10T23:00:00+01:00",
+        "d": null,
+        "j": "JENNY SAYAKA NONO",
+        "u": null,
+        "t": "monthly",
+        "p": "axcessamnesia"
+      },
+      {
+        "n": "Yesterday's News w/ Angel Du$t",
+        "s": "2026-04-10T23:00:00+01:00",
+        "e": "2026-04-11T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
       {
-        "n": "Pete Shredz",
-        "s": "2026-04-10T01:00:00Z",
-        "e": "2026-04-10T02:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-04-10T04:00:00Z",
+        "e": "2026-04-10T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "peteshredz"
-      },
-      {
-        "n": "Macks",
-        "s": "2026-04-10T02:00:00Z",
-        "e": "2026-04-10T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Lava Recordings with 99 ranch",
-        "s": "2026-04-10T03:00:00Z",
-        "e": "2026-04-10T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "Holy Crow w/ Isis Moray",
@@ -1482,19 +1464,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Empathy Audio Show",
+        "s": "2026-04-17T02:00:00Z",
+        "e": "2026-04-17T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Frosty - Celsius Drop",
-        "s": "2026-04-10T01:00:00Z",
-        "e": "2026-04-10T03:00:00Z",
-        "d": null,
-        "j": "Celsius Drop",
-        "u": null,
-        "t": "monthly",
-        "p": "frosty"
-      },
       {
         "n": "Grotto",
         "s": "2026-04-10T03:00:00Z",
@@ -2037,19 +2018,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Star Eyes - Chaos Clan",
+        "s": "2026-04-17T03:00:00Z",
+        "e": "2026-04-17T05:00:00Z",
+        "d": null,
+        "j": "Chaos Clan",
+        "u": null,
+        "t": "monthly",
+        "p": "stareyes"
       }
     ],
     "rinse": [
-      {
-        "n": "MoMA Ready",
-        "s": "2026-04-10T01:00:00Z",
-        "e": "2026-04-10T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "momaready"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-04-10T02:00:00Z",
@@ -2332,15 +2313,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "2012 AFTERLIFE",
-        "s": "2026-04-10T01:00:00Z",
-        "e": "2026-04-10T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "HEADCRACK",
         "s": "2026-04-10T03:00:00Z",
