@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-10T07:16:33.682Z",
+  "updated": "2026-04-10T09:00:08.531Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
-        "s": "2026-04-10T07:00:00+01:00",
-        "e": "2026-04-10T09:00:00+01:00",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": "JACK ROLLO",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-10th-april-2026",
-        "t": "biweekly"
-      },
       {
         "n": "The NTS Breakfast Show w/ Minus Kendal",
         "s": "2026-04-10T09:00:00+01:00",
@@ -24,19 +15,18 @@
         "n": "SOUP TO NUTS W/ SCARY THINGS & JULIE ADENUGA",
         "s": "2026-04-10T11:00:00+01:00",
         "e": "2026-04-10T13:00:00+01:00",
-        "d": null,
+        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-10th-april-2026",
         "p": "scarythings"
       },
       {
-        "n": "RAJI RAGS",
+        "n": "Lora S",
         "s": "2026-04-10T13:00:00+01:00",
         "e": "2026-04-10T15:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "rajirags"
+        "u": null
       },
       {
         "n": "ADONIS w/ Seb Odyssey",
@@ -103,12 +93,22 @@
       {
         "n": "EL SABOR DE LA CIUDAD W/ REGAL86",
         "s": "2026-04-10T23:00:00+01:00",
-        "e": "2026-04-11T00:00:00+01:00",
+        "e": "2026-04-11T00:01:00+01:00",
         "d": null,
         "j": "REGAL86",
         "u": null,
         "t": "monthly",
         "p": "regal86"
+      },
+      {
+        "n": "WHY BE (R)",
+        "s": "2026-04-11T00:01:00+01:00",
+        "e": "2026-04-11T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "whybe"
       },
       {
         "n": "OHBLIV (R)",
@@ -169,36 +169,20 @@
     ],
     "nts2": [
       {
-        "n": "Gathering Moss W/ Zarate",
-        "s": "2026-04-10T08:00:00+01:00",
-        "e": "2026-04-10T09:00:00+01:00",
-        "d": "Inspired by moss, quiet, resilient, interconnected. this show weaves ambient textures, soft folk, and field recordings into a musical pause. No rush, no competition; just space to slow down, listen deeply, and embrace a gentler rhythm. Like moss, it grows, not advances. A moment to breathe.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-gathering-moss-w-zarate-10th-april-2026"
-      },
-      {
-        "n": "On that 12 inch shyt w/ DJ Indulgence",
-        "s": "2026-04-10T09:00:00+01:00",
-        "e": "2026-04-10T10:00:00+01:00",
-        "d": "collection of memphis rap classics released on vinyl, all killer no filler\nmy dearest style of hip-hop on my dearest medium",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-on-that-12-inch-shyt-w-dj-indulgence-10th-april-2026"
-      },
-      {
         "n": "AMBIENT MUSIC FROM THE METROID PRIME TRILOGY W/ WUSKETTI",
         "s": "2026-04-10T10:00:00+01:00",
         "e": "2026-04-10T11:00:00+01:00",
-        "d": null,
+        "d": "From ambient drones to hybrid electronic-orchestral textures, Kenji Yamamoto reshaped Metroid’s sound for 3D worlds. Blending classic motifs with synth atmospheres and subtle rhythms, his music captures solitude, tension and alien exploration, redefining unease in game soundtracks.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-ambient-music-from-the-metroid-prime-trilogy-w-wusketti-10th-april-2026"
       },
       {
         "n": "In Focus - Edda Dell'Orso",
         "s": "2026-04-10T11:00:00+01:00",
         "e": "2026-04-10T13:00:00+01:00",
-        "d": null,
+        "d": "Edda Sabatini, better known as Edda Dell’Orso, was an Italian singer whose wordless voice became a defining feature of Ennio Morricone’s most iconic scores. Her soprano, simultaneously intimate and cinematic, runs through the sound of Italian film in the 1960s and ’70s.\nThis In Focus traces her solo work and collaborations across the wider world of Italian soundtrack and library music, with selections from Piero Piccioni, Bruno Battisti D’Amario, Temme Di Giuditta, and Armando Trovajoli.",
         "j": "Edda Dell'Orso",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-edda-dell-orso-9th-april-2026",
         "t": "weekly"
       },
       {
@@ -321,18 +305,27 @@
         "j": "PAINKILLER KIM",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-04-10T04:00:00Z",
-        "e": "2026-04-10T09:00:00Z",
+        "n": "Boom Bip (R)",
+        "s": "2026-04-11T03:00:00+01:00",
+        "e": "2026-04-11T04:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream",
+        "p": "boombip"
       },
+      {
+        "n": "All Squares In There w/ Oscurita",
+        "s": "2026-04-11T06:00:00+01:00",
+        "e": "2026-04-11T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Holy Crow w/ Isis Moray",
         "s": "2026-04-10T09:00:00Z",
@@ -1478,15 +1471,6 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-10T07:00:00Z",
-        "e": "2026-04-10T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
         "s": "2026-04-10T09:00:00Z",
         "e": "2026-04-10T11:00:00Z",
         "d": null,
@@ -2041,15 +2025,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-04-10T06:00:00Z",
-        "e": "2026-04-10T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Breakfast with Joe Innes",
         "s": "2026-04-10T08:00:00Z",
