@@ -1,33 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-11T04:12:55.674Z",
+  "updated": "2026-04-11T06:51:50.395Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ONY (R)",
-        "s": "2026-04-11T05:00:00+01:00",
-        "e": "2026-04-11T06:00:00+01:00",
-        "d": "Same shit, different month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ony/episodes/ony-28th-october-2021",
-        "t": "restream"
-      },
-      {
-        "n": "Uncanny Valley (R)",
-        "s": "2026-04-11T06:00:00+01:00",
-        "e": "2026-04-11T07:00:00+01:00",
-        "d": "Artist Peter J Doyle & friends enter the uncanny valley of their music collections, traversing folk, soul, psychedelia and much more…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/peter-doyle/episodes/peter-doyle-4th-april-2022",
-        "t": "restream"
-      },
       {
         "n": "Desire Paths w/ Laura Groves (R)",
         "s": "2026-04-11T07:00:00+01:00",
         "e": "2026-04-11T08:00:00+01:00",
-        "d": null,
+        "d": "Desire paths are formed by repeated deviation from official routes.\nArtist/producer Laura Groves explores private roads and dreamscapes with a series of mixtapes featuring demos, synth sketches, collaborations, pop classics, field recordings and soundtracks.",
         "j": "Laura Groves",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/desire-paths/episodes/desire-paths-23rd-may-2024",
         "t": "restream",
         "p": "desirepaths"
       },
@@ -35,9 +17,9 @@
         "n": "RAGA VIBRATIONS",
         "s": "2026-04-11T08:00:00+01:00",
         "e": "2026-04-11T10:00:00+01:00",
-        "d": null,
+        "d": "\"Raga Vibrations\" is a monthly selection of Indian music curated by Greg Davis.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/raga-vibrations/episodes/raga-vibrations-11th-april-2026",
         "t": "monthly",
         "p": "ragavibrations"
       },
@@ -170,41 +152,44 @@
         "u": null,
         "t": "restream",
         "p": "mobbs"
+      },
+      {
+        "n": "LUNG DART (R)",
+        "s": "2026-04-12T04:00:00+01:00",
+        "e": "2026-04-12T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "lungdart"
+      },
+      {
+        "n": "Blooming In Filth w/ CRISIS ACTING (R)",
+        "s": "2026-04-12T05:00:00+01:00",
+        "e": "2026-04-12T06:00:00+01:00",
+        "d": null,
+        "j": "CRISIS ACTING",
+        "u": null,
+        "t": "restream",
+        "p": "crisisacting"
       }
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: 60 YEARS OF PSYCHEDELIC POP - A BRIEF HISTORY (1963-2025) VOL II (R)",
-        "s": "2026-04-11T04:00:00+01:00",
-        "e": "2026-04-11T06:00:00+01:00",
-        "d": "From the first budding of flower power to the present day – part two of NTS' journey through the history of psychedelic pop. ",
-        "j": "60 YEARS OF PSYCHEDELIC POP - A BRIEF HISTORY (1963-2025) VOL II",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-psychedelic-pop-vol-2-27th-november-2025",
-        "t": "restream"
-      },
-      {
-        "n": "All Squares In There w/ Oscurita",
-        "s": "2026-04-11T06:00:00+01:00",
-        "e": "2026-04-11T07:00:00+01:00",
-        "d": "A (far) leftfield disco voyage of woozy synths, cosmic chug, and dubbed‑out grooves. Inspired by voyages outside of linear time, in the milky ether.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-all-squares-in-there-w-oscurita-11th-april-2026"
-      },
-      {
         "n": "Midwest Fantasy Quest W/ Moral Compass",
         "s": "2026-04-11T07:00:00+01:00",
         "e": "2026-04-11T08:00:00+01:00",
-        "d": null,
+        "d": "Some of the greatest hidden folklore can be found lurking throughout the Great Lakes where fantastical Midwestern tales are conjured by mystics who are subverting the modern mind. Evade your contemporary woes with tales of forgotten worlds and embark on a mythical journey of spellbinding sorcery.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-midwest-fantasy-quest-w-moral-compass-11th-april-2026"
       },
       {
         "n": "Indonesia mix 70-80s w/ TM",
         "s": "2026-04-11T08:00:00+01:00",
         "e": "2026-04-11T09:00:00+01:00",
-        "d": null,
+        "d": "It amazed me how good music Indonesia from the 70s and 80s. So around the year 2014-2015 I visited some vinyl shops in Jakarta, Bandung and Jogjakarta and bought around 40-50 records from that era.\nThis mix is me selecting my favourite tracks of that collection, recorded in my bedroom in Lichtenberg, Berlin.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-indonesia-mix-70-80s-w-tm-11th-april-2026"
       },
       {
         "n": "Shashmaqom After Empires w/ Viner",
@@ -325,6 +310,22 @@
         "n": "The Mellow Sounds of Bolivian Folklore and Film Music",
         "s": "2026-04-12T00:00:00+01:00",
         "e": "2026-04-12T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SWITCHED-ON TROPICAL ANDINO w/ Fierecita",
+        "s": "2026-04-12T01:00:00+01:00",
+        "e": "2026-04-12T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "From Hill and Holler W/ Ben Adams",
+        "s": "2026-04-12T02:00:00+01:00",
+        "e": "2026-04-12T03:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
@@ -1493,15 +1494,6 @@
     ],
     "dublab": [
       {
-        "n": "AAMH rerun2",
-        "s": "2026-04-11T04:00:00Z",
-        "e": "2026-04-11T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "88 - Club Paradise",
         "s": "2026-04-11T05:00:00Z",
         "e": "2026-04-11T07:00:00Z",
@@ -2059,28 +2051,22 @@
         "ap": [
           "gregbelson"
         ]
+      },
+      {
+        "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
+        "s": "2026-04-18T05:00:00Z",
+        "e": "2026-04-18T07:00:00Z",
+        "d": null,
+        "j": "Bears in Space",
+        "u": null,
+        "t": "monthly",
+        "p": "chrisbowen",
+        "ap": [
+          "victorrodriguez"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-04-11T02:00:00Z",
-        "e": "2026-04-11T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Jacques Greene",
-        "s": "2026-04-11T05:00:00Z",
-        "e": "2026-04-11T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "jacquesgreene"
-      },
       {
         "n": "Playlist",
         "s": "2026-04-11T06:00:00Z",
