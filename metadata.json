@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-11T10:25:09.561Z",
+  "updated": "2026-04-11T12:37:30.566Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
-        "s": "2026-04-11T10:00:00+01:00",
-        "e": "2026-04-11T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": "MACCA",
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-11th-april-2026",
-        "t": "biweekly",
-        "p": "macca"
-      },
       {
         "n": "Alexander Nut",
         "s": "2026-04-11T12:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "SYSTEM OLYMPIA",
         "s": "2026-04-11T14:00:00+01:00",
         "e": "2026-04-11T15:00:00+01:00",
-        "d": null,
+        "d": "System Olympia joins us for an hour a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-11th-april-2026",
         "t": "monthly",
         "p": "systemolympia"
       },
@@ -170,18 +160,18 @@
         "j": "CZECH TEAROOM AMBIENT",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "IN FOCUS: BEACH HOUSE (R)",
+        "s": "2026-04-12T08:00:00+01:00",
+        "e": "2026-04-12T09:30:00+01:00",
+        "d": null,
+        "j": "BEACH HOUSE",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "MIKEY YOUNG (R)",
-        "s": "2026-04-11T11:00:00+01:00",
-        "e": "2026-04-11T12:00:00+01:00",
-        "d": "Mikey Young of Total Control and Eddie Current Suppression Ring plays a selection of 60's and 70's soft rock…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mikey-young/episodes/mikey-young-9th-september-2019",
-        "t": "restream"
-      },
       {
         "n": "TAFELMUSIK W/ FRANCESCO FUSARO - HYPERTURANDOT",
         "s": "2026-04-11T12:00:00+01:00",
@@ -196,9 +186,9 @@
         "n": "THE OPERA SHOW w/ Bones Tan Jones",
         "s": "2026-04-11T14:00:00+01:00",
         "e": "2026-04-11T15:00:00+01:00",
-        "d": null,
+        "d": "Hannah Catherine Jones splits things open for the Opera Show: an exploration of the best in opera old and new, as well as an unearthing of the operatic in other records from soul, jazz or further afield. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-opera-show/episodes/the-opera-show-11th-april-2026"
       },
       {
         "n": "150 session",
@@ -327,18 +317,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Head Of Household w/ CIG MOM",
+        "s": "2026-04-12T07:00:00+01:00",
+        "e": "2026-04-12T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Poolside Convo w/ Gabe",
-        "s": "2026-04-11T10:00:00Z",
-        "e": "2026-04-11T11:00:00Z",
-        "d": null,
-        "j": "Gabe",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Cam Christie",
         "s": "2026-04-11T11:00:00Z",
@@ -1480,18 +1469,28 @@
         "j": "Cable",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-04-11T09:00:00Z",
-        "e": "2026-04-11T11:00:00Z",
+        "n": "Dean Lyon",
+        "s": "2026-04-18T11:00:00Z",
+        "e": "2026-04-18T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Live & Direct w/ Hannah",
+        "s": "2026-04-18T12:00:00Z",
+        "e": "2026-04-18T13:00:00Z",
+        "d": "Live & Direct is the show that promises to make you dance and make you laugh, with your fave tunes that make you go 'Rahhh ain't hear this in time' and all the cheesy jokes from me, Hannah :) Lock in for the sickest guests and the most relatable stories about daily slips and hilarious situations I find myself in.",
+        "j": "Hannah",
+        "u": null,
+        "t": "biweekly",
+        "p": "hannah"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-04-11T11:00:00Z",
@@ -2050,17 +2049,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-18T11:00:00Z",
+        "e": "2026-04-18T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Hi-Fidelity with New Forms",
-        "s": "2026-04-11T10:00:00Z",
-        "e": "2026-04-11T12:00:00Z",
-        "d": null,
-        "j": "Jiminy Watts",
-        "u": null
-      },
       {
         "n": "Counter Culture with BBE Records",
         "s": "2026-04-11T12:00:00Z",
@@ -2291,15 +2291,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-04-11T07:00:00Z",
-        "e": "2026-04-11T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Whitney Weiss",
         "s": "2026-04-11T12:00:00Z",
         "e": "2026-04-11T14:00:00Z",
@@ -2459,15 +2450,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-04-11T04:00:00Z",
-        "e": "2026-04-11T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "DON BOY 718 SPORTS",
         "s": "2026-04-11T12:00:00Z",
