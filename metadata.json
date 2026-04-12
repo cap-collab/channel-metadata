@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-12T07:04:30.829Z",
+  "updated": "2026-04-12T08:38:23.981Z",
   "stations": {
     "nts1": [
-      {
-        "n": "IN FOCUS: BEACH HOUSE (R)",
-        "s": "2026-04-12T08:00:00+01:00",
-        "e": "2026-04-12T09:30:00+01:00",
-        "d": "Since first meeting in 2004 in Baltimore's independent rock scene, Victoria Legrand and Alex Scally's interplay as Beach House has explored and expanded the sonic possibilities of dream pop, from the charming lo-fi moods of their early releases to the expansive orchestration and electronic flourishes of later projects.",
-        "j": "BEACH HOUSE",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-beach-house-5th-march-2026",
-        "t": "restream"
-      },
       {
         "n": "MARTIN NEWELL'S ODDCASTE",
         "s": "2026-04-12T09:30:00+01:00",
@@ -25,9 +16,9 @@
         "n": "LAUNETTE'S HOUR",
         "s": "2026-04-12T10:00:00+01:00",
         "e": "2026-04-12T12:00:00+01:00",
-        "d": null,
+        "d": "Up with the Lark! Launette takes time out from her day job as a chocolatier to play from her treasured vinyl collection. She will also be joined from time to time by carefully chosen guests. Happy Sunday.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/launette/episodes/launette-12th-april-2026",
         "t": "monthly"
       },
       {
@@ -169,17 +160,18 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-04-13T11:00:00+01:00",
+        "e": "2026-04-13T13:00:00+01:00",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "DUST2DUST W/ JUAN FALIBENE",
-        "s": "2026-04-12T08:00:00+01:00",
-        "e": "2026-04-12T09:00:00+01:00",
-        "d": "This mix explores the raw and emotionally driven side of soul and funk recorded between 1969 and 1977. Bringing together some well-known cuts and others less familiar, it reflects the pure essence of the 1970s, where youthful harmonies, early group formations and heartfelt performances blend with grooves that evolve from rustic immediacy into growing sophistication.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-dust2dust-w-juan-falibene-12th-april-2026"
-      },
       {
         "n": "Disco's Revenge w/ Gus De Silva",
         "s": "2026-04-12T09:00:00+01:00",
@@ -192,9 +184,9 @@
         "n": "yumemiru kikai (dream machine) w/ Finn den Hertog",
         "s": "2026-04-12T10:00:00+01:00",
         "e": "2026-04-12T11:00:00+01:00",
-        "d": null,
+        "d": "Moving through hazy lullabies, cosmic dirges and intimate ephemera, this is a pilgrimage through Japan’s indie, psych, weird folk and experimental scenes; spanning several decades yet suspended outside of time. Merely skimming the surface of an imaginal sphere I would happily immerse myself in time and time again. A sonic dream machine.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-yumemiru-kikai-dream-machine-w-finn-den-hertog-12th-april-2026"
       },
       {
         "n": "MOSELEY SOUNDS W/ JOE DENT",
@@ -316,18 +308,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "HIDDEN FLESHLITE MUSAK w/ DRONE FOREVER",
+        "s": "2026-04-13T02:00:00+01:00",
+        "e": "2026-04-13T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-12T07:00:00Z",
-        "e": "2026-04-12T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Kakuna",
         "s": "2026-04-12T08:00:00Z",
@@ -1460,6 +1451,15 @@
         "j": "little noises",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "ECHO CHAMBER",
+        "s": "2026-04-19T08:00:00Z",
+        "e": "2026-04-19T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1467,6 +1467,15 @@
         "n": "sounds of NOW",
         "s": "2026-04-12T07:00:00Z",
         "e": "2026-04-12T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-12T09:00:00Z",
+        "e": "2026-04-12T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2024,15 +2033,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-04-12T06:00:00Z",
-        "e": "2026-04-12T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Wisdom Teeth presents Control Freak",
         "s": "2026-04-12T08:00:00Z",
