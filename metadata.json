@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-12T18:35:19.674Z",
+  "updated": "2026-04-12T20:25:47.563Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUPINI - ALL COVERS SPECIAL",
-        "s": "2026-04-12T18:00:00+01:00",
-        "e": "2026-04-12T20:00:00+01:00",
-        "d": "A little bit sweet, a little bit sad, a little bit silly - Lupini keeps it (mainly) horizontal with a mix of dubwise sounds, psychedelic rock, synth-pop and new wave.",
-        "j": "ALL COVERS SPECIAL",
-        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-12th-april-2026",
-        "t": "monthly",
-        "p": "lupini"
-      },
       {
         "n": "AD 93 w/ SUPERFAN",
         "s": "2026-04-12T20:00:00+01:00",
@@ -25,9 +15,9 @@
         "n": "DEATH IS NOT THE END - Enid's Tea Dance",
         "s": "2026-04-12T22:00:00+01:00",
         "e": "2026-04-13T00:00:00+01:00",
-        "d": null,
+        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-12th-april-2026"
       },
       {
         "n": "NTS GUIDE TO: LAO KHENE (R)",
@@ -168,40 +158,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "LEE GAMBLE",
+        "s": "2026-04-13T22:00:00+01:00",
+        "e": "2026-04-13T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "leegamble"
       }
     ],
     "nts2": [
       {
-        "n": "CERATI WEED W/ DJ CAMBUMBO",
-        "s": "2026-04-12T19:00:00+01:00",
-        "e": "2026-04-12T20:00:00+01:00",
-        "d": "A collection of songs taken from Gustavo Cerati's (RIP) entire catalogue including solo, side projects, & collaborations; curated by many friends through many years to be enjoyed under the blissful effects of cannabis.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-cerati-weed-w-dj-cambumbo-12th-april-2026"
-      },
-      {
-        "n": "The Sun Rises in the East w/ The Propaganda Site",
-        "s": "2026-04-12T20:00:00+01:00",
-        "e": "2026-04-12T21:00:00+01:00",
-        "d": "Western Asia meets Eastern Europe in the mix of songs that underscore the profound, the absurd, the joyous, and the mournful, sometimes in slightly mind altering ways.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-the-sun-rises-in-the-east-w-the-propaganda-site-12th-april-2026"
-      },
-      {
         "n": "Songs for Ham the Astrochimp w/ Edie Le Blancq",
         "s": "2026-04-12T21:00:00+01:00",
         "e": "2026-04-12T22:00:00+01:00",
-        "d": null,
+        "d": "Songs dedicated to Ham the Astrochimp (1957-1983)\nMiss you big man x",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-songs-for-ham-the-astrochimp-w-edie-le-blancq-12th-april-2026"
       },
       {
         "n": "AT THE BRITRONICA FESTIVAL w/ DJ LOOSE",
         "s": "2026-04-12T22:00:00+01:00",
         "e": "2026-04-12T23:00:00+01:00",
-        "d": null,
+        "d": "In the wake of Perestroika, the British underground descended upon Moscow, hungry and penniless. Only some even got the chance to perform in this confused clash of cultures, but fueled by paranoia and pent-up rage, 1994’s Britronica Festival let some lucky few dance away into their brave new world.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-at-the-britronica-festival-w-dj-loose-12th-april-2026"
       },
       {
         "n": "Sonido Panzón w/ dj panamami",
@@ -316,19 +299,26 @@
         "j": null,
         "u": null,
         "p": "skyapnea"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Break Check",
-        "s": "2026-04-12T18:00:00Z",
-        "e": "2026-04-12T19:00:00Z",
+        "n": "SILVIA KASTEL",
+        "s": "2026-04-13T14:00:00+01:00",
+        "e": "2026-04-13T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MALA JUNTA",
+        "s": "2026-04-13T15:00:00+01:00",
+        "e": "2026-04-13T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "breakcheck"
-      },
+        "p": "malajunta"
+      }
+    ],
+    "subtle": [
       {
         "n": "FKOF",
         "s": "2026-04-12T19:00:00Z",
@@ -1442,28 +1432,18 @@
         "u": null,
         "t": "monthly",
         "p": "sofarsogood"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Bob Baker Marionette Theater – Puppetphonic",
-        "s": "2026-04-12T17:00:00Z",
-        "e": "2026-04-12T19:00:00Z",
+        "n": "Off-Switch Audio",
+        "s": "2026-04-19T20:00:00Z",
+        "e": "2026-04-19T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
-      {
-        "n": "Becky Ebenkamp – Bubblegum & Other Delights",
-        "s": "2026-04-12T19:00:00Z",
-        "e": "2026-04-12T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "beckyebenkamp"
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "RERUN: Bob Baker Marionette Theater and dublab present: The Music of Fiesta",
         "s": "2026-04-12T20:00:00Z",
@@ -2003,29 +1983,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Barbarelle - Atlas",
+        "s": "2026-04-19T19:00:00Z",
+        "e": "2026-04-19T21:00:00Z",
+        "d": null,
+        "j": "Atlas",
+        "u": null,
+        "t": "monthly",
+        "p": "barbarelle"
       }
     ],
     "rinse": [
-      {
-        "n": "RIZ LA TEEF",
-        "s": "2026-04-12T17:00:00Z",
-        "e": "2026-04-12T19:00:00Z",
-        "d": null,
-        "j": "B2B\tALI VELMI",
-        "u": null,
-        "t": "biweekly",
-        "p": "rizlateef"
-      },
-      {
-        "n": "Oblig",
-        "s": "2026-04-12T19:00:00Z",
-        "e": "2026-04-12T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "oblig"
-      },
       {
         "n": "Ineffekt",
         "s": "2026-04-12T20:00:00Z",
@@ -2331,16 +2301,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "MILLENNIUM STONE CIRCLE",
-        "s": "2026-04-12T18:00:00Z",
-        "e": "2026-04-12T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "circle"
-      },
       {
         "n": "GIMME TINNITUS RADIO TIME",
         "s": "2026-04-12T20:00:00Z",
