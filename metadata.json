@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-12T10:31:19.249Z",
+  "updated": "2026-04-12T12:41:06.510Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LAUNETTE'S HOUR",
-        "s": "2026-04-12T10:00:00+01:00",
-        "e": "2026-04-12T12:00:00+01:00",
-        "d": "Up with the Lark! Launette takes time out from her day job as a chocolatier to play from her treasured vinyl collection. She will also be joined from time to time by carefully chosen guests. Happy Sunday.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/launette/episodes/launette-12th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "HOUSE CALL",
-        "s": "2026-04-12T12:00:00+01:00",
-        "e": "2026-04-12T13:00:00+01:00",
-        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-12th-april-2026",
-        "t": "monthly"
-      },
       {
         "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
         "s": "2026-04-12T13:00:00+01:00",
         "e": "2026-04-12T15:00:00+01:00",
-        "d": null,
+        "d": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.",
         "j": "JEAN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ifmusic/episodes/ifmusic-12th-april-2026",
         "t": "monthly"
       },
       {
         "n": "THE LAST SUNDAY CLUB w/ FINN",
         "s": "2026-04-12T15:00:00+01:00",
         "e": "2026-04-12T17:00:00+01:00",
-        "d": null,
+        "d": "Dance music with feeling; the last Sunday Club with Finn.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sunday-club/episodes/sunday-club-12th-april-2026",
         "p": "finn"
       },
       {
@@ -169,41 +151,44 @@
         "j": null,
         "u": null,
         "p": "davidholmes"
+      },
+      {
+        "n": "DONNA LEAKE",
+        "s": "2026-04-13T15:00:00+01:00",
+        "e": "2026-04-13T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "donnaleake"
+      },
+      {
+        "n": "NAOMI ASA",
+        "s": "2026-04-13T17:00:00+01:00",
+        "e": "2026-04-13T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "naomi"
       }
     ],
     "nts2": [
       {
-        "n": "MOSELEY SOUNDS W/ JOE DENT",
-        "s": "2026-04-12T11:00:00+01:00",
-        "e": "2026-04-12T12:00:00+01:00",
-        "d": "Britain's best indietronica came from Brum. South Birmingham to be exact. This mix provides a glimpse into the wonderful melting pot of experimental art that was occuring in Moseley from the mid 90's and onwards.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-moseley-sounds-w-joe-dent-12th-april-2026"
-      },
-      {
-        "n": "GAUR W/ BAXUA",
-        "s": "2026-04-12T12:00:00+01:00",
-        "e": "2026-04-12T13:00:00+01:00",
-        "d": "« Gaur » means « today » in euskara. This mix aims to showcase a diversity of contemporary Basque artists, representing different genres and mainly based in Hegoalde (the southern part of Euskal Herria). Let yourselves be carried away by the musicality of a region and a language that are dear to me.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-gaur-w-baxua-12th-april-2026"
-      },
-      {
         "n": "Contemporary Sounds of the Trautonium w/ Zar",
         "s": "2026-04-12T13:00:00+01:00",
         "e": "2026-04-12T14:00:00+01:00",
-        "d": null,
+        "d": "It’s rare: an instrument where the number of composers who use it barely reach double digits. The Trautonium. Somewhat forgotten, but eternally ethereal, this mix represents the 1930’s synth’s incredible expressive capabilities across experimental electronic and contemporary classical music.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-contemporary-sounds-of-the-trautonium-w-zar-12th-april-2026",
         "p": "zar"
       },
       {
         "n": "Folklore of North & West Africa w/ Afrodesi",
         "s": "2026-04-12T14:00:00+01:00",
         "e": "2026-04-12T15:00:00+01:00",
-        "d": null,
+        "d": "A musical journey from Morocco to Nigeria through a selection of Folk and Traditional music of North and West Africa. We start in Morocco, travel to Mali via Algeria and Mauritania. From Mali we go to Burkina Faso via Guniea and Cte d'ivoire. Finally from Burkina Faso we go to Nigeria, our final stop via Benin.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-folklore-of-north-west-africa-w-afrodesi-12th-april-2026"
       },
       {
         "n": "Netrunner Fantasies",
@@ -316,27 +301,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "METAL INTERLUDES W/ JASON TODD",
+        "s": "2026-04-13T05:00:00+01:00",
+        "e": "2026-04-13T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Torch Songs and Aftermath Ballads w/ Sinziana Velicescu",
+        "s": "2026-04-13T06:00:00+01:00",
+        "e": "2026-04-13T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Chameleon: Liminal Bleeps",
-        "s": "2026-04-12T10:00:00Z",
-        "e": "2026-04-12T11:00:00Z",
-        "d": null,
-        "j": "Liminal Bleeps",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "COPYPASTE w/ KLS.RDR ",
-        "s": "2026-04-12T11:00:00Z",
-        "e": "2026-04-12T12:00:00Z",
-        "d": null,
-        "j": "KLS.RDR",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "5 Decades of Dub w/ Joe Vincent",
         "s": "2026-04-12T12:00:00Z",
@@ -1450,27 +1433,28 @@
         "u": null,
         "t": "monthly",
         "p": "tabs"
+      },
+      {
+        "n": "The SoundLab Series",
+        "s": "2026-04-19T11:00:00Z",
+        "e": "2026-04-19T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ItsJermayne",
+        "s": "2026-04-19T12:00:00Z",
+        "e": "2026-04-19T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "itsjermayne"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-12T09:00:00Z",
-        "e": "2026-04-12T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-12T11:00:00Z",
-        "e": "2026-04-12T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "djjs",
         "s": "2026-04-12T12:00:00Z",
@@ -2020,18 +2004,18 @@
         "j": "Elevation Through Sound",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "djjs",
+        "s": "2026-04-19T12:00:00Z",
+        "e": "2026-04-19T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Dean Bryce presents Don't Sleep",
-        "s": "2026-04-12T10:00:00Z",
-        "e": "2026-04-12T12:00:00Z",
-        "d": null,
-        "j": "80's + 90's Pirate Radio Club Classics",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Shuffle 'n' Swing",
         "s": "2026-04-12T12:00:00Z",
@@ -2066,7 +2050,7 @@
         "s": "2026-04-12T17:00:00Z",
         "e": "2026-04-12T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B\tALI VELMI",
         "u": null,
         "t": "biweekly",
         "p": "rizlateef"
@@ -2255,15 +2239,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-04-12T07:00:00Z",
-        "e": "2026-04-12T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "La Sunday Abidjan",
         "s": "2026-04-12T12:00:00Z",
         "e": "2026-04-12T13:00:00Z",
@@ -2428,15 +2403,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-04-12T05:00:00Z",
-        "e": "2026-04-12T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "TEN TOES DOWN",
         "s": "2026-04-12T12:00:00Z",
