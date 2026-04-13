@@ -1,33 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-13T11:09:53.531Z",
+  "updated": "2026-04-13T13:03:57.515Z",
   "stations": {
     "nts1": [
       {
-        "n": "Soup To Nuts w/ John Gómez",
-        "s": "2026-04-13T11:00:00+01:00",
-        "e": "2026-04-13T13:00:00+01:00",
-        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
-        "j": "John Gómez",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-13th-april-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "GOD'S WAITING ROOM W/ DAVID HOLMES",
+        "n": "Humanity as an act of Resistance - EPSTEIN CLASS EP2",
         "s": "2026-04-13T13:00:00+01:00",
         "e": "2026-04-13T15:00:00+01:00",
         "d": "God's Waiting Room: a round-about selection of the cinematic, library music, rock 'n' roll, psych, experimental, unclassifiable and independent. From the mind of DJ, producer and creator of original soundtracks, David Holmes. ",
-        "j": null,
+        "j": "EPSTEIN CLASS EP2",
         "u": "https://www.nts.live/api/v2/shows/david-holmes/episodes/david-holmes-13th-april-2026",
-        "p": "davidholmes"
+        "t": "monthly"
       },
       {
         "n": "DONNA LEAKE",
         "s": "2026-04-13T15:00:00+01:00",
         "e": "2026-04-13T17:00:00+01:00",
-        "d": null,
+        "d": "Dive into Donna Leake's ever developing taste, drawing sounds from all over the globe and all over the clock including jazz, reggae and psych. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/donna-leake/episodes/donna-leake-13th-april-2026",
         "t": "monthly",
         "p": "donnaleake"
       },
@@ -171,19 +162,19 @@
         "u": null,
         "t": "monthly",
         "p": "prosumer"
+      },
+      {
+        "n": "Self Soothe w/ Margeaux",
+        "s": "2026-04-14T15:00:00+01:00",
+        "e": "2026-04-14T16:00:00+01:00",
+        "d": null,
+        "j": "Margeaux",
+        "u": null,
+        "t": "weekly",
+        "p": "margeaux"
       }
     ],
     "nts2": [
-      {
-        "n": "SKYAPNEA w/ Maya Dhondt",
-        "s": "2026-04-13T12:00:00+01:00",
-        "e": "2026-04-13T14:00:00+01:00",
-        "d": "Broken club, dubbed out sounds, experimental electronics and atonal drifts: Gio’s monthly broadcasts are high contrast assemblages that move at a slow pace.\nFrom the host: 'This month's show features a guest mix in the second half by Brusselles based artist maya dhondt, who's put together an hour of music featuring pianos used in interesting ways. The file she sent me is called \"what to do with the piano mix\" and I find it to be the most appropriate title for it.'",
-        "j": "Maya Dhondt",
-        "u": "https://www.nts.live/api/v2/shows/skyapnea/episodes/skyapnea-13th-april-2026",
-        "t": "monthly",
-        "p": "skyapnea"
-      },
       {
         "n": "Wounder & Isaac Maxwell",
         "s": "2026-04-13T14:00:00+01:00",
@@ -193,12 +184,13 @@
         "u": "https://www.nts.live/api/v2/shows/guests/episodes/wounder-13th-april-2026"
       },
       {
-        "n": "MALA JUNTA",
+        "n": "MALA JUNTA W/ EVEHIVE",
         "s": "2026-04-13T15:00:00+01:00",
         "e": "2026-04-13T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Monthly mixes and \"Bad behaviour\" from the crew behind Berlin's acclaimed Mala Junta parties. Expect throwback trance, souped up '90s basslines and party music of a high tempo flavour.\nFrom the host: \"EVEHIVE kicks off spring  fever with a mix full of percussions and explosions of rhythm.\"",
+        "j": "EVEHIVE",
+        "u": "https://www.nts.live/api/v2/shows/mala-junta/episodes/mala-junta-13th-april-2026",
+        "t": "monthly",
         "p": "malajunta"
       },
       {
@@ -245,6 +237,15 @@
         "u": null,
         "t": "restream",
         "p": "malibu"
+      },
+      {
+        "n": "Claire Milbrath",
+        "s": "2026-04-13T21:00:00+01:00",
+        "e": "2026-04-13T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE",
@@ -340,25 +341,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "lot five two",
-        "s": "2026-04-13T11:00:00Z",
-        "e": "2026-04-13T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lotfivetwo"
-      },
-      {
-        "n": "Bittersweet Sounds w/ Mass Hysteria",
-        "s": "2026-04-13T12:00:00Z",
-        "e": "2026-04-13T13:00:00Z",
-        "d": null,
-        "j": "Mass Hysteria",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Louis Selwyn",
         "s": "2026-04-13T13:00:00Z",
@@ -547,6 +529,14 @@
         "u": null,
         "t": "monthly",
         "p": "hyrah"
+      },
+      {
+        "n": "Fantasy Snack",
+        "s": "2026-04-14T14:00:00Z",
+        "e": "2026-04-14T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Jimmy2Shoes",
@@ -1467,18 +1457,28 @@
         "ap": [
           "ladyjules"
         ]
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-04-13T11:00:00Z",
-        "e": "2026-04-13T13:00:00Z",
+        "n": "Meech",
+        "s": "2026-04-20T12:00:00Z",
+        "e": "2026-04-20T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "JO KIRA",
+        "s": "2026-04-20T13:00:00Z",
+        "e": "2026-04-20T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jokira"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-04-13T13:00:00Z",
@@ -2032,25 +2032,6 @@
     ],
     "rinse": [
       {
-        "n": "Christine Kakaire",
-        "s": "2026-04-13T11:00:00Z",
-        "e": "2026-04-13T12:00:00Z",
-        "d": null,
-        "j": "Loose Tracks feat. Sarah Farina",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Nakeira",
-        "s": "2026-04-13T12:00:00Z",
-        "e": "2026-04-13T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "nakeira"
-      },
-      {
         "n": "Braga Circuit",
         "s": "2026-04-13T13:00:00Z",
         "e": "2026-04-13T14:00:00Z",
@@ -2305,25 +2286,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-04-13T07:00:00Z",
-        "e": "2026-04-13T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "LES YEUX FERMÉS",
-        "s": "2026-04-13T12:00:00Z",
-        "e": "2026-04-13T13:00:00Z",
-        "d": null,
-        "j": "UGNÉ UMA",
-        "u": null,
-        "t": "biweekly",
-        "p": "lesyeuxferms"
-      },
-      {
         "n": "FULLM3TAL",
         "s": "2026-04-13T13:00:00Z",
         "e": "2026-04-13T14:00:00Z",
@@ -2484,15 +2446,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-04-13T05:00:00Z",
-        "e": "2026-04-13T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "WHOLE MILK",
         "s": "2026-04-13T13:00:00Z",
