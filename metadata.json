@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-13T09:28:10.202Z",
+  "updated": "2026-04-13T11:09:53.531Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-04-13T09:00:00+01:00",
-        "e": "2026-04-13T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-13th-april-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-04-13T11:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "GOD'S WAITING ROOM W/ DAVID HOLMES",
         "s": "2026-04-13T13:00:00+01:00",
         "e": "2026-04-13T15:00:00+01:00",
-        "d": null,
+        "d": "God's Waiting Room: a round-about selection of the cinematic, library music, rock 'n' roll, psych, experimental, unclassifiable and independent. From the mind of DJ, producer and creator of original soundtracks, David Holmes. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/david-holmes/episodes/david-holmes-13th-april-2026",
         "p": "davidholmes"
       },
       {
@@ -171,26 +161,19 @@
         "u": null,
         "t": "biweekly",
         "p": "anu"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Spoken Music Concert",
-        "s": "2026-04-13T10:00:00+01:00",
-        "e": "2026-04-13T11:00:00+01:00",
-        "d": "I've always been an avid reader and keen on wordplay so I would like to pay homage to spoken music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-spoken-music-concert-13th-april-2026"
       },
       {
-        "n": "THE WONDER CABINET",
-        "s": "2026-04-13T11:00:00+01:00",
-        "e": "2026-04-13T12:00:00+01:00",
+        "n": "PROSUMER",
+        "s": "2026-04-14T13:00:00+01:00",
+        "e": "2026-04-14T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "monthly",
+        "p": "prosumer"
+      }
+    ],
+    "nts2": [
       {
         "n": "SKYAPNEA w/ Maya Dhondt",
         "s": "2026-04-13T12:00:00+01:00",
@@ -205,9 +188,9 @@
         "n": "Wounder & Isaac Maxwell",
         "s": "2026-04-13T14:00:00+01:00",
         "e": "2026-04-13T15:00:00+01:00",
-        "d": null,
+        "d": "Ahead of Wounder’s NTS15 live show, where he will be joined by Isaac Maxwell on improvised electronics. The two present a selection of Metal, Ambient, and Electronic that have shaped their upcoming performance. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/wounder-13th-april-2026"
       },
       {
         "n": "MALA JUNTA",
@@ -217,6 +200,14 @@
         "j": null,
         "u": null,
         "p": "malajunta"
+      },
+      {
+        "n": "AO Radio presents South African Underground w/ mfanatouchline, kae.woe, rrapid444, thandrich888",
+        "s": "2026-04-13T16:00:00+01:00",
+        "e": "2026-04-13T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "HIT A LICK RADIO",
@@ -349,24 +340,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-13T09:00:00Z",
-        "e": "2026-04-13T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "syncop8",
-        "s": "2026-04-13T10:00:00Z",
-        "e": "2026-04-13T11:00:00Z",
-        "d": "ixxi and Fei take you on a percussive journey with their show syncop8, moving from downtempo ambient to breaks, polyrhythms, and high energy beats, exploring every rhythmic and textural nuance in between.",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "lot five two",
         "s": "2026-04-13T11:00:00Z",
@@ -1471,13 +1444,36 @@
         "j": "Komanche",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sweet Things w/ PXLTERGEIST",
+        "s": "2026-04-20T10:00:00Z",
+        "e": "2026-04-20T11:00:00Z",
+        "d": null,
+        "j": "PXLTERGEIST",
+        "u": null,
+        "t": "monthly",
+        "p": "sweetthings"
+      },
+      {
+        "n": "Lady Jules",
+        "s": "2026-04-20T11:00:00Z",
+        "e": "2026-04-20T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jules",
+        "ap": [
+          "ladyjules"
+        ]
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-13T09:00:00Z",
-        "e": "2026-04-13T11:00:00Z",
+        "s": "2026-04-13T11:00:00Z",
+        "e": "2026-04-13T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1485,8 +1481,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-13T11:00:00Z",
-        "e": "2026-04-13T13:00:00Z",
+        "s": "2026-04-13T13:00:00Z",
+        "e": "2026-04-13T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2036,25 +2032,6 @@
     ],
     "rinse": [
       {
-        "n": "Tim Garcia",
-        "s": "2026-04-13T08:00:00Z",
-        "e": "2026-04-13T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Camille Munn",
-        "s": "2026-04-13T10:00:00Z",
-        "e": "2026-04-13T11:00:00Z",
-        "d": null,
-        "j": "Tori x AMVN",
-        "u": null,
-        "t": "biweekly",
-        "p": "camillemunn"
-      },
-      {
         "n": "Christine Kakaire",
         "s": "2026-04-13T11:00:00Z",
         "e": "2026-04-13T12:00:00Z",
@@ -2088,7 +2065,7 @@
         "s": "2026-04-13T14:00:00Z",
         "e": "2026-04-13T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "M.I.O",
         "u": null,
         "t": "weekly"
       },
@@ -2097,7 +2074,7 @@
         "s": "2026-04-13T16:00:00Z",
         "e": "2026-04-13T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Subclub (2024)",
         "u": null,
         "t": "monthly",
         "p": "ghoulish"
@@ -2359,7 +2336,7 @@
         "s": "2026-04-13T14:00:00Z",
         "e": "2026-04-13T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Musica del Alma",
         "u": null,
         "t": "biweekly",
         "p": "saborami"
@@ -2369,7 +2346,7 @@
         "s": "2026-04-13T15:00:00Z",
         "e": "2026-04-13T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "20",
         "u": null,
         "t": "biweekly",
         "p": "dvde"
@@ -2449,13 +2426,12 @@
         "p": "kialaogawa"
       },
       {
-        "n": "RONY",
+        "n": "RONY B2B UNSHO",
         "s": "2026-04-14T14:00:00Z",
         "e": "2026-04-14T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Hey Bony B2B Lorkestra",
@@ -2474,7 +2450,7 @@
         "s": "2026-04-14T16:00:00Z",
         "e": "2026-04-14T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Kunt Kill'ha invites DJ KILIMI (AUZ)",
         "u": null,
         "t": "monthly"
       },
