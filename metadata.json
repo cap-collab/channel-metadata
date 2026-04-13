@@ -1,42 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-04-13T20:43:45.038Z",
+  "updated": "2026-04-13T22:36:22.923Z",
   "stations": {
     "nts1": [
-      {
-        "n": "300SkullsAndCounting",
-        "s": "2026-04-13T21:00:00+01:00",
-        "e": "2026-04-13T22:00:00+01:00",
-        "d": "300SkullsAndCounting, the solo moniker of artist Hal Hewetson, is known for his own blend of bitcrushed bedroom experiments, described online as ‘Aural Happy Tree Friends’ and ‘Undertale on fent’. This mix catalogues some of his influences and inspirations, alongside a preview of his forthcoming EP. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/300skullsandcounting-13th-april-2026"
-      },
-      {
-        "n": "LEE GAMBLE",
-        "s": "2026-04-13T22:00:00+01:00",
-        "e": "2026-04-13T23:00:00+01:00",
-        "d": "Artist, producer, label owner and DJ Lee Gamble bringing an oneiric bi-monthly show of current sound and music from his hallucinated musical continuum. Expect anything from Drill to Dream pop, Conceptual Sound and Jazz to bleached out rave memories.. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lee-gamble/episodes/lee-gamble-13th-april-2026",
-        "t": "monthly",
-        "p": "leegamble"
-      },
       {
         "n": "MAKE-BELIEVE W/ OBJECT BLUE",
         "s": "2026-04-13T23:00:00+01:00",
         "e": "2026-04-14T00:00:00+01:00",
-        "d": null,
+        "d": "A bimonthly assemblage of moving sounds from London-based producer object blue.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/object-blue/episodes/object-blue-13th-april-2026",
         "p": "objectblue"
       },
       {
         "n": "Body Motion w/ Bossman Wines",
         "s": "2026-04-14T00:00:00+01:00",
         "e": "2026-04-14T01:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "The signal is strong. Body Motion monthly on NTS1.",
+        "j": "Bossman Wines",
+        "u": "https://www.nts.live/api/v2/shows/body-motion/episodes/body-motion-14th-april-2026",
+        "t": "monthly",
         "p": "bodymotion"
       },
       {
@@ -170,43 +153,42 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Claire Milbrath",
-        "s": "2026-04-13T21:00:00+01:00",
-        "e": "2026-04-13T22:00:00+01:00",
-        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-13th-april-2026",
-        "t": "monthly"
       },
       {
-        "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE",
-        "s": "2026-04-13T22:00:00+01:00",
-        "e": "2026-04-13T23:00:00+01:00",
-        "d": "Former frontwoman of rock outfit Dum Dum Girls eschews the pseudonym with her new solo project, Kristin Kontrol. Newly relocated to LA, Kristin delivers a monthly mix of expansive and hypnotic sounds: one part Durutti Column to two parts Alice Coltrane.\nFrom the host: 'Gentle Spring Musing Music + closing out with the debut of new single \"Cocoa Beach\" by Daughn Gibson' ",
-        "j": "OUT OF VOGUE",
-        "u": "https://www.nts.live/api/v2/shows/kristin-kontrol/episodes/kristin-kontrol-13th-april-2026",
-        "t": "monthly",
-        "p": "kristinkontrol"
-      },
-      {
-        "n": "WEEKEND READ w/ JONAH RABB",
-        "s": "2026-04-13T23:00:00+01:00",
-        "e": "2026-04-14T00:00:00+01:00",
+        "n": "Undone w/ Ophir Admony",
+        "s": "2026-04-14T21:00:00+01:00",
+        "e": "2026-04-14T22:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
+        "n": "Space Afrika",
+        "s": "2026-04-14T22:00:00+01:00",
+        "e": "2026-04-15T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "spaceafrika"
+      }
+    ],
+    "nts2": [
+      {
+        "n": "WEEKEND READ w/ JONAH RABB",
+        "s": "2026-04-13T23:00:00+01:00",
+        "e": "2026-04-14T00:00:00+01:00",
+        "d": "Every month Jonah Rabb brings you Weekend Read, an hour of funk, house, contemporary R&B, and more.",
+        "j": "JONAH RABB",
+        "u": "https://www.nts.live/api/v2/shows/jonah/episodes/jonah-13th-april-2026",
+        "t": "monthly"
+      },
+      {
         "n": "Auntie-ism w/ SHABAZZ (R)",
         "s": "2026-04-14T00:00:00+01:00",
         "e": "2026-04-14T01:00:00+01:00",
-        "d": null,
+        "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.",
         "j": "SHABAZZ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-26th-march-2025",
         "t": "restream",
         "p": "shabazz"
       },
@@ -332,28 +314,28 @@
         "u": null,
         "t": "monthly",
         "p": "lorainejames"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Zubz Dubz",
-        "s": "2026-04-13T20:00:00Z",
-        "e": "2026-04-13T21:00:00Z",
+        "n": "magic mashups w/ miss sheitana",
+        "s": "2026-04-14T15:00:00+01:00",
+        "e": "2026-04-14T16:00:00+01:00",
+        "d": null,
+        "j": "miss sheitana",
+        "u": null,
+        "t": "monthly",
+        "p": "misssheitana"
+      },
+      {
+        "n": "WES BAGGALEY",
+        "s": "2026-04-14T16:00:00+01:00",
+        "e": "2026-04-14T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "zubzdubz"
-      },
-      {
-        "n": " Subtext w/ Preet",
-        "s": "2026-04-13T21:00:00Z",
-        "e": "2026-04-13T22:00:00Z",
-        "d": null,
-        "j": "Preet",
-        "u": null,
-        "t": "monthly"
-      },
+        "p": "wesbaggaley"
+      }
+    ],
+    "subtle": [
       {
         "n": "Factory Floor ",
         "s": "2026-04-13T22:00:00Z",
@@ -1497,23 +1479,40 @@
         "j": "flux Audio",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "tighe",
+        "s": "2026-04-20T21:00:00Z",
+        "e": "2026-04-20T22:00:00Z",
+        "d": "I’m a 19 year old DJ and producer from Newcastle upon Tyne, mainly playing and producing music around the 140bpm mark. I started out playing old 2-step and jungle records, before moving my focus to mainly dubstep and grime. Along with my friends Pirata and White Label, I run Newcastle’s only current 140 night, Well Irie. ",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Marcus Phillippe",
+        "s": "2026-04-20T22:00:00Z",
+        "e": "2026-04-20T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Colloboh - Everything Inbetween",
-        "s": "2026-04-13T19:00:00Z",
-        "e": "2026-04-13T21:00:00Z",
-        "d": null,
-        "j": "Everything Inbetween",
-        "u": null,
-        "t": "monthly",
-        "p": "colloboh"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-04-13T21:00:00Z",
         "e": "2026-04-13T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-13T23:00:00Z",
+        "e": "2026-04-14T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1615,11 +1614,19 @@
       {
         "n": "J.TRIPP - DWELL TIME",
         "s": "2026-04-15T05:00:00Z",
-        "e": "2026-04-15T07:00:00Z",
+        "e": "2026-04-15T05:30:00Z",
         "d": null,
         "j": "DWELL TIME",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "J.TRIPP guest mix",
+        "s": "2026-04-15T05:30:00Z",
+        "e": "2026-04-15T06:30:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Teen Daze - Easy Listening",
@@ -2050,29 +2057,19 @@
         "u": null,
         "t": "weekly",
         "p": "renecontreras"
+      },
+      {
+        "n": "Rani de Leon - Tizita Radio",
+        "s": "2026-04-20T21:00:00Z",
+        "e": "2026-04-20T23:00:00Z",
+        "d": null,
+        "j": "Tizita Radio",
+        "u": null,
+        "t": "biweekly",
+        "p": "ranideleon"
       }
     ],
     "rinse": [
-      {
-        "n": "Main Phase",
-        "s": "2026-04-13T19:00:00Z",
-        "e": "2026-04-13T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "mainphase"
-      },
-      {
-        "n": "Jossy Mitsu",
-        "s": "2026-04-13T21:00:00Z",
-        "e": "2026-04-13T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "jossymitsu"
-      },
       {
         "n": "Nervous Horizon with TSVI",
         "s": "2026-04-13T22:00:00Z",
@@ -2263,15 +2260,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-13T19:00:00Z",
-        "e": "2026-04-13T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-13T22:00:00Z",
         "e": "2026-04-14T07:00:00Z",
         "d": null,
@@ -2366,15 +2354,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "SCRATCH ACADEMY",
-        "s": "2026-04-13T19:00:00Z",
-        "e": "2026-04-13T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "CUMBIA SABROSURA",
         "s": "2026-04-13T21:00:00Z",
