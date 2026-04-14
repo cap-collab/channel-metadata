@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-04-14T01:48:39.648Z",
+  "updated": "2026-04-14T04:39:53.372Z",
   "stations": {
     "nts1": [
       {
@@ -8435,6 +8435,35 @@
         "u": "https://www.nts.live/api/v2/shows/body-motion/episodes/body-motion-14th-april-2026",
         "t": "monthly",
         "p": "bodymotion"
+      },
+      {
+        "n": "FRACTAL MEAT ON A SPONGY BONE",
+        "s": "2026-04-14T01:00:00+01:00",
+        "e": "2026-04-14T03:00:00+01:00",
+        "d": "An audio scrapbook compiled by sound artist and musician Graham Dunning, comprised of sonic art and experiments, improvised music, textures and rhythms, as well as selections from Dunning's archive of found home tape recordings, and a variety of regular features.\nFrom the host: \"Another two hour mixture of experimental music, extreme computer music, improvisation, contemporary composition, turntable experiments and noise.\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/fractalmeat/episodes/fractalmeat-14th-april-2026",
+        "t": "monthly"
+      },
+      {
+        "n": "NEUE TANZ W/ JULES (R)",
+        "s": "2026-04-14T03:00:00+01:00",
+        "e": "2026-04-14T04:00:00+01:00",
+        "d": "Playing anything from ambient and experimental textures interwoven through eccentric new wave, forgotten b-sides and contemporary dance music; one can expect almost anything from the Neue Tanz show. Hosted monthly by Jules, with friends or on his own. \nhttps://soundcloud.com/jules-bethmann",
+        "j": "JULES",
+        "u": "https://www.nts.live/api/v2/shows/jules/episodes/neue-tanz-w-jules-13th-september-2017",
+        "t": "restream",
+        "p": "jules"
+      },
+      {
+        "n": "SKEE MASK PRESENTS: FEIERABEND (R)",
+        "s": "2026-04-14T04:00:00+01:00",
+        "e": "2026-04-14T05:00:00+01:00",
+        "d": null,
+        "j": "FEIERABEND",
+        "u": null,
+        "t": "restream",
+        "p": "skeemask"
       }
     ],
     "nts2": [
@@ -18483,6 +18512,36 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Total Stasis",
+        "s": "2026-04-14T02:00:00+01:00",
+        "e": "2026-04-14T03:00:00+01:00",
+        "d": "An hour a month from LA label Total Stasis, responsible for releases by Ramzi, Aquarian Foundation, Anom Vitruv, Elysia Crampton, Bobo Eyes & Plush Throw, CS + Kreme, Fmvee, Second Language, Regularfantasy, Private Lesson, Alexi Baris, Laila Sakini, and Sebastiano Carghini.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/total-stasis/episodes/total-stasis-14th-april-2026",
+        "t": "monthly",
+        "p": "totalstasis"
+      },
+      {
+        "n": "DELIVERY PRESENTS: HAAN",
+        "s": "2026-04-14T03:00:00+01:00",
+        "e": "2026-04-14T04:00:00+01:00",
+        "d": "Delivery presents: 'HAAN', live for an hour a month, straight from our LA studio. ",
+        "j": "HAAN",
+        "u": "https://www.nts.live/api/v2/shows/delivery/episodes/delivery-14th-april-2026",
+        "t": "monthly",
+        "p": "delivery"
+      },
+      {
+        "n": "Akito (R)",
+        "s": "2026-04-14T04:00:00+01:00",
+        "e": "2026-04-14T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "akito"
       }
     ],
     "subtle": [
@@ -28326,6 +28385,33 @@
         "u": null,
         "t": "monthly",
         "p": "skeesunday"
+      },
+      {
+        "n": "dbeater",
+        "s": "2026-04-14T01:00:00Z",
+        "e": "2026-04-14T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "dbeater"
+      },
+      {
+        "n": "Ethereal DJ",
+        "s": "2026-04-14T02:00:00Z",
+        "e": "2026-04-14T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-04-14T03:00:00Z",
+        "e": "2026-04-14T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "dublab": [
@@ -35142,6 +35228,16 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Terrell Brooke – TheyHouse",
+        "s": "2026-04-14T01:00:00Z",
+        "e": "2026-04-14T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "terrellbrooke"
       }
     ],
     "rinse": [
@@ -36075,7 +36171,8 @@
         "e": "2026-02-22T23:00:00Z",
         "d": null,
         "j": "BLUPRNT",
-        "u": null
+        "u": null,
+        "p": "styn"
       },
       {
         "n": "Nala Brown",
@@ -36281,7 +36378,8 @@
         "e": "2026-02-24T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "styn"
       },
       {
         "n": "Playlist",
@@ -43295,14 +43393,14 @@
         "t": "playlist"
       },
       {
-        "n": "Paradise",
+        "n": "Manami",
         "s": "2026-04-13T05:00:00Z",
         "e": "2026-04-13T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "paradise"
+        "p": "manami"
       },
       {
         "n": "Playlist",
@@ -43314,140 +43412,153 @@
         "t": "playlist"
       },
       {
-        "n": "Tim Garcia",
+        "n": "Papaoul",
         "s": "2026-04-13T08:00:00Z",
         "e": "2026-04-13T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Eerf Evil",
         "u": null,
         "t": "weekly"
       },
       {
-        "n": "Camille Munn",
+        "n": "Jumbi",
         "s": "2026-04-13T10:00:00Z",
         "e": "2026-04-13T11:00:00Z",
         "d": null,
-        "j": "Tori x AMVN",
-        "u": null,
-        "t": "biweekly",
-        "p": "camillemunn"
-      },
-      {
-        "n": "Christine Kakaire",
-        "s": "2026-04-13T11:00:00Z",
-        "e": "2026-04-13T12:00:00Z",
-        "d": null,
-        "j": "Loose Tracks feat. Sarah Farina",
+        "j": null,
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "Nakeira",
+        "n": "Patrick Hinton",
+        "s": "2026-04-13T11:00:00Z",
+        "e": "2026-04-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Savannah Blake",
         "s": "2026-04-13T12:00:00Z",
         "e": "2026-04-13T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "nakeira"
+        "t": "biweekly",
+        "p": "savannahblake"
       },
       {
-        "n": "Braga Circuit",
+        "n": "HABITAT",
         "s": "2026-04-13T13:00:00Z",
         "e": "2026-04-13T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "TONE RARRI & AK GRAMM",
         "u": null,
         "t": "biweekly",
-        "p": "bragacircuit"
+        "p": "habitat",
+        "ap": [
+          "tone"
+        ]
       },
       {
-        "n": "Scratcha",
+        "n": "Brighter Days Family",
         "s": "2026-04-13T14:00:00Z",
         "e": "2026-04-13T16:00:00Z",
         "d": null,
-        "j": "M.I.O",
+        "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "weekly",
+        "p": "brighterdaysfamily"
       },
       {
-        "n": "GHOULISH",
+        "n": "The OONTS Show with Kojay",
         "s": "2026-04-13T16:00:00Z",
         "e": "2026-04-13T17:00:00Z",
         "d": null,
-        "j": "Live from Subclub (2024)",
+        "j": null,
         "u": null,
         "t": "monthly",
-        "p": "ghoulish"
+        "p": "kojay"
       },
       {
-        "n": "Sharnie",
+        "n": "riria",
         "s": "2026-04-13T17:00:00Z",
         "e": "2026-04-13T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "sharnie"
+        "p": "riria"
       },
       {
-        "n": "Fold",
+        "n": "G33",
         "s": "2026-04-13T18:00:00Z",
         "e": "2026-04-13T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "fold"
+        "t": "monthly",
+        "p": "g33"
       },
       {
-        "n": "Main Phase",
+        "n": "Silva Bumpa",
         "s": "2026-04-13T19:00:00Z",
         "e": "2026-04-13T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "mainphase"
+        "p": "silvabumpa"
       },
       {
-        "n": "Jossy Mitsu",
+        "n": "Y U QT",
         "s": "2026-04-13T21:00:00Z",
         "e": "2026-04-13T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "jossymitsu"
+        "t": "monthly",
+        "p": "yuqt"
       },
       {
-        "n": "Nervous Horizon with TSVI",
+        "n": "Jay Carder",
         "s": "2026-04-13T22:00:00Z",
         "e": "2026-04-13T23:00:00Z",
         "d": null,
-        "j": "DANCE TRIPPING EP SPECIAL",
+        "j": null,
         "u": null,
-        "p": "nervoushorizon"
+        "t": "monthly",
+        "p": "jaycarder"
       },
       {
-        "n": "Scuffed Recordings",
+        "n": "Earful of Wax",
         "s": "2026-04-13T23:00:00Z",
         "e": "2026-04-14T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "scuffedrecordings"
+        "p": "earfulofwax"
       },
       {
-        "n": "Stones Taro",
+        "n": "Noirnor",
         "s": "2026-04-14T00:00:00Z",
         "e": "2026-04-14T01:00:00Z",
         "d": null,
-        "j": "Ryogo",
+        "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "stonestaro"
+        "p": "noirnor"
+      },
+      {
+        "n": "Nervous Horizon",
+        "s": "2026-04-14T01:00:00Z",
+        "e": "2026-04-14T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "nervoushorizon"
       }
     ],
     "rinsefr": [
@@ -51959,6 +52070,15 @@
         "n": "RECESS",
         "s": "2026-04-13T23:00:00Z",
         "e": "2026-04-14T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "TENSION/RELEASE",
+        "s": "2026-04-14T01:00:00Z",
+        "e": "2026-04-14T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
