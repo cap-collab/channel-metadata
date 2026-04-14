@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-04-14T16:56:46.781Z",
+  "updated": "2026-04-14T19:01:09.955Z",
   "stations": {
     "nts1": [
       {
@@ -8542,6 +8542,34 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/liana-flores/episodes/liana-flores-14th-april-2026",
         "p": "lianaflores"
+      },
+      {
+        "n": "SNO - Ebo Taylor Special - Pt 2",
+        "s": "2026-04-14T17:00:00+01:00",
+        "e": "2026-04-14T18:00:00+01:00",
+        "d": "Presenting music from all across the African continent and beyond, Manchester based, South African DJ SNO plays music to excite and delight your senses an hour every month.",
+        "j": "Ebo Taylor Special - Pt 2",
+        "u": "https://www.nts.live/api/v2/shows/sno/episodes/sno-14th-april-2026",
+        "t": "monthly",
+        "p": "sno"
+      },
+      {
+        "n": "DISCOSTAN (R)",
+        "s": "2026-04-14T18:00:00+01:00",
+        "e": "2026-04-14T19:00:00+01:00",
+        "d": "Past, present and future soundtracks from Beirut to Bangkok via Bombay. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/discostan/episodes/discostan-5th-march-2026",
+        "t": "restream",
+        "p": "discostan"
+      },
+      {
+        "n": "NTS x DistroKid: City Signal w/ Sayle",
+        "s": "2026-04-14T19:00:00+01:00",
+        "e": "2026-04-14T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
@@ -18724,6 +18752,24 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/wes-baggaley/episodes/wes-baggaley-14th-april-2026",
         "p": "wesbaggaley"
+      },
+      {
+        "n": "OPTIMO w/ Richii",
+        "s": "2026-04-14T17:00:00+01:00",
+        "e": "2026-04-14T19:00:00+01:00",
+        "d": "Optimo is JG Wilkes & JD Twitch; record label, and longstanding Glaswegian party. You can expect a lot from their new monthly slot, sure to dig up some obscurities from post-punk, new wave, EBM, house and techno. Bags of unreleased stuff, too.",
+        "j": "Richii",
+        "u": "https://www.nts.live/api/v2/shows/optimo/episodes/optimo-14th-april-2026",
+        "t": "monthly",
+        "p": "optimo"
+      },
+      {
+        "n": "THE LUNACY OF FLOWERS W/ DAVE ID",
+        "s": "2026-04-14T19:00:00+01:00",
+        "e": "2026-04-14T20:00:00+01:00",
+        "d": "Dave I.D takes us through industrial, and techno – melodic and dark. New and classic goth, his selection sets him apart from most, branching decades and scenes.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/daveid/episodes/daveid-14th-april-2026"
       }
     ],
     "subtle": [
@@ -18993,7 +19039,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "albertmoon"
+        "p": "albertmoon",
+        "ap": [
+          "albert"
+        ]
       },
       {
         "n": " Ovrtic",
@@ -23768,7 +23817,10 @@
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "albertmoon"
+        "p": "albertmoon",
+        "ap": [
+          "albert"
+        ]
       },
       {
         "n": " Ovrtic",
@@ -28703,6 +28755,33 @@
         "e": "2026-04-14T16:00:00Z",
         "d": "Rolling through varied tempo's and genres, Jimmy 2 Shoes brings dance floor orientated vibes and flows to wriggle your toes to. Expect eclectic selections and the freshest sounds from the UK underground. ",
         "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Captain Lew",
+        "s": "2026-04-14T16:00:00Z",
+        "e": "2026-04-14T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Bardusco",
+        "s": "2026-04-14T17:00:00Z",
+        "e": "2026-04-14T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Gasp w/ Gabreal",
+        "s": "2026-04-14T18:00:00Z",
+        "e": "2026-04-14T19:00:00Z",
+        "d": null,
+        "j": "Gabreal",
         "u": null,
         "t": "monthly"
       }
@@ -35587,6 +35666,29 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Mike Harding and Bana Haffar - Long Wave",
+        "s": "2026-04-14T15:00:00Z",
+        "e": "2026-04-14T17:00:00Z",
+        "d": null,
+        "j": "Long Wave",
+        "u": null,
+        "t": "monthly",
+        "p": "banahaffar",
+        "ap": [
+          "mikeharding"
+        ]
+      },
+      {
+        "n": "Jeremiah Chiu – Some All None",
+        "s": "2026-04-14T17:00:00Z",
+        "e": "2026-04-14T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jeremiahchiu"
       }
     ],
     "rinse": [
@@ -43996,6 +44098,40 @@
         "u": null,
         "t": "weekly",
         "p": "brighterdaysfamily"
+      },
+      {
+        "n": "The OONTS Show with Kojay",
+        "s": "2026-04-14T16:00:00Z",
+        "e": "2026-04-14T17:00:00Z",
+        "d": null,
+        "j": "Coflo",
+        "u": null,
+        "t": "biweekly",
+        "p": "kojay"
+      },
+      {
+        "n": "riria",
+        "s": "2026-04-14T17:00:00Z",
+        "e": "2026-04-14T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "riria"
+      },
+      {
+        "n": "G33",
+        "s": "2026-04-14T18:00:00Z",
+        "e": "2026-04-14T19:00:00Z",
+        "d": null,
+        "j": "Rinse Live From Antidoto Club",
+        "u": null,
+        "t": "biweekly",
+        "p": "antidoto",
+        "ap": [
+          "g33",
+          "rinselivefromantidotoclub"
+        ]
       }
     ],
     "rinsefr": [
@@ -48963,6 +49099,34 @@
         "ap": [
           "lorkestra"
         ]
+      },
+      {
+        "n": "Missy Da Kunt",
+        "s": "2026-04-14T16:00:00Z",
+        "e": "2026-04-14T17:00:00Z",
+        "d": null,
+        "j": "Kunt Kill'ha invites DJ KILIMI (AUZ)",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Broodoo Ramses",
+        "s": "2026-04-14T17:00:00Z",
+        "e": "2026-04-14T18:00:00Z",
+        "d": null,
+        "j": "Bobby Beethoven",
+        "u": null,
+        "t": "biweekly",
+        "p": "broodooramses"
+      },
+      {
+        "n": "Bambi-S",
+        "s": "2026-04-14T18:00:00Z",
+        "e": "2026-04-14T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "bambi"
       }
     ],
     "newtown": [
@@ -52612,6 +52776,15 @@
         "n": "STIMULANT TUESDAYS",
         "s": "2026-04-14T14:00:00Z",
         "e": "2026-04-14T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "CHUNKS",
+        "s": "2026-04-14T16:00:00Z",
+        "e": "2026-04-14T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
