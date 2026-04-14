@@ -1,45 +1,36 @@
 {
   "v": 2,
-  "updated": "2026-04-14T13:05:24.114Z",
+  "updated": "2026-04-14T15:07:04.509Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PROSUMER",
-        "s": "2026-04-14T13:00:00+01:00",
-        "e": "2026-04-14T15:00:00+01:00",
-        "d": "Berlin techno aficionado Prosumer lays it out for all the wannabes. A harmonious lecture in house and soul, Prosumer’s here to share. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/prosumer/episodes/prosumer-14th-april-2026",
-        "t": "monthly",
-        "p": "prosumer"
-      },
-      {
-        "n": "Self Soothe w/ Margeaux",
-        "s": "2026-04-14T15:00:00+01:00",
-        "e": "2026-04-14T16:00:00+01:00",
-        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
-        "j": "Margeaux",
-        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-14th-april-2026",
-        "t": "weekly",
-        "p": "margeaux"
-      },
       {
         "n": "BASKET OF LIGHT W/ LIANA FLORES",
         "s": "2026-04-14T16:00:00+01:00",
         "e": "2026-04-14T17:00:00+01:00",
-        "d": null,
+        "d": "Jazz-folk singer-songwriter Liana Flores brings a blend of global psych folk and bossa nova. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/liana-flores/episodes/liana-flores-14th-april-2026",
         "p": "lianaflores"
       },
       {
         "n": "SNO - Ebo Taylor Special - Pt 2",
         "s": "2026-04-14T17:00:00+01:00",
         "e": "2026-04-14T18:00:00+01:00",
+        "d": "Presenting music from all across the African continent and beyond, Manchester based, South African DJ SNO plays music to excite and delight your senses an hour every month.",
+        "j": "Ebo Taylor Special - Pt 2",
+        "u": "https://www.nts.live/api/v2/shows/sno/episodes/sno-14th-april-2026",
+        "t": "monthly",
+        "p": "sno"
+      },
+      {
+        "n": "DISCOSTAN (R)",
+        "s": "2026-04-14T18:00:00+01:00",
+        "e": "2026-04-14T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "p": "sno"
+        "t": "restream",
+        "p": "discostan"
       },
       {
         "n": "NTS x DistroKid: City Signal w/ Sayle",
@@ -164,45 +155,36 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "TASH LC",
+        "s": "2026-04-15T17:00:00+01:00",
+        "e": "2026-04-15T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "tashlc"
       }
     ],
     "nts2": [
       {
-        "n": "LORAINE JAMES",
-        "s": "2026-04-14T14:00:00+01:00",
-        "e": "2026-04-14T15:00:00+01:00",
-        "d": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/loraine-james/episodes/loraine-james-14th-april-2026",
-        "t": "monthly",
-        "p": "lorainejames"
-      },
-      {
-        "n": "magic mashups w/ miss sheitana",
-        "s": "2026-04-14T15:00:00+01:00",
-        "e": "2026-04-14T16:00:00+01:00",
-        "d": "Loops, remixes, edits and reinterpretations from DJ and programmer miss sheitana, oscillating between post-club, rap, baltimore club, bass, ambient and remixes from the limbos of the internet.\nFrom the host: \"just recovered a part of my teens / early twenties music library from an old usb….\n° you wanna be one of them ° F#m ° nostalgic spring ° guilty indie ° smells like ghettoteck ° s/o asmara s/o totalfreedom ° rip bella ° 100% coming of age\"",
-        "j": "miss sheitana",
-        "u": "https://www.nts.live/api/v2/shows/miss-sheitana/episodes/miss-sheitana-14th-april-2026",
-        "t": "monthly",
-        "p": "misssheitana"
-      },
-      {
         "n": "WES BAGGALEY",
         "s": "2026-04-14T16:00:00+01:00",
         "e": "2026-04-14T17:00:00+01:00",
-        "d": null,
+        "d": "Deep-cut house and techno sessions from vet club selector Wes Baggaley. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/wes-baggaley/episodes/wes-baggaley-14th-april-2026",
         "p": "wesbaggaley"
       },
       {
         "n": "OPTIMO w/ Richii",
         "s": "2026-04-14T17:00:00+01:00",
         "e": "2026-04-14T19:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Optimo is JG Wilkes & JD Twitch; record label, and longstanding Glaswegian party. You can expect a lot from their new monthly slot, sure to dig up some obscurities from post-punk, new wave, EBM, house and techno. Bags of unreleased stuff, too.",
+        "j": "Richii",
+        "u": "https://www.nts.live/api/v2/shows/optimo/episodes/optimo-14th-april-2026",
+        "t": "monthly",
         "p": "optimo"
       },
       {
@@ -214,14 +196,12 @@
         "u": null
       },
       {
-        "n": "Liquid Mirror w/ Olive Kimoto (R)",
+        "n": "Murlo: Something Beautiful Special",
         "s": "2026-04-14T20:00:00+01:00",
         "e": "2026-04-14T21:00:00+01:00",
         "d": null,
-        "j": "Olive Kimoto",
-        "u": null,
-        "t": "restream",
-        "p": "liquidmirror"
+        "j": null,
+        "u": null
       },
       {
         "n": "Cosmic Soundz - Bolivian Garage & Psych Rock ’60s–’70s",
@@ -330,27 +310,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Hyrah ",
-        "s": "2026-04-14T13:00:00Z",
-        "e": "2026-04-14T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "hyrah"
       },
       {
-        "n": "Fantasy Snack",
-        "s": "2026-04-14T14:00:00Z",
-        "e": "2026-04-14T15:00:00Z",
+        "n": "NUESTRO LUGAR W/ FROM AND CARLOS BARREDO",
+        "s": "2026-04-15T09:00:00+01:00",
+        "e": "2026-04-15T10:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "SICHUAN TEA HOUSE w/ JORDAN PAUL ROUSSEAU",
+        "s": "2026-04-15T10:00:00+01:00",
+        "e": "2026-04-15T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Jimmy2Shoes",
         "s": "2026-04-14T15:00:00Z",
@@ -1487,18 +1465,28 @@
         "u": null,
         "t": "monthly",
         "p": "launcher"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-04-14T13:00:00Z",
-        "e": "2026-04-14T15:00:00Z",
+        "n": "Seah",
+        "s": "2026-04-21T14:00:00Z",
+        "e": "2026-04-21T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Atiké",
+        "s": "2026-04-21T15:00:00Z",
+        "e": "2026-04-21T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "atik"
+      }
+    ],
+    "dublab": [
       {
         "n": "Mike Harding and Bana Haffar - Long Wave",
         "s": "2026-04-14T15:00:00Z",
@@ -2047,22 +2035,19 @@
         "u": null,
         "t": "biweekly",
         "p": "brennan"
+      },
+      {
+        "n": "Benson Taylor - TUSCAN JUNK FOOD",
+        "s": "2026-04-21T15:00:00Z",
+        "e": "2026-04-21T17:00:00Z",
+        "d": null,
+        "j": "TUSCAN JUNK FOOD",
+        "u": null,
+        "t": "biweekly",
+        "p": "bensontaylor"
       }
     ],
     "rinse": [
-      {
-        "n": "HABITAT",
-        "s": "2026-04-14T13:00:00Z",
-        "e": "2026-04-14T14:00:00Z",
-        "d": null,
-        "j": "TONE RARRI & AK GRAMM",
-        "u": null,
-        "t": "biweekly",
-        "p": "habitat",
-        "ap": [
-          "tone"
-        ]
-      },
       {
         "n": "Brighter Days Family",
         "s": "2026-04-14T14:00:00Z",
@@ -2316,24 +2301,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Kiala Ogawa",
-        "s": "2026-04-14T13:00:00Z",
-        "e": "2026-04-14T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "kialaogawa"
-      },
-      {
-        "n": "RONY B2B UNSHO",
-        "s": "2026-04-14T14:00:00Z",
-        "e": "2026-04-14T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Hey Bony B2B Lorkestra",
         "s": "2026-04-14T15:00:00Z",
         "e": "2026-04-14T16:00:00Z",
@@ -2472,15 +2439,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "BUSS UP SHUT",
-        "s": "2026-04-14T12:00:00Z",
-        "e": "2026-04-14T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "STIMULANT TUESDAYS",
         "s": "2026-04-14T14:00:00Z",
@@ -2678,8 +2636,7 @@
         "e": "2026-04-16T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "weekly"
+        "u": null
       },
       {
         "n": "ESTAR RADIO",
@@ -2778,7 +2735,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "biweekly"
       },
       {
         "n": "THE HIGHER FIDELITY",
@@ -2957,7 +2914,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "biweekly"
       },
       {
         "n": "DEAR JENNY PERTH",
