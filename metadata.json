@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-15T19:02:32.002Z",
+  "updated": "2026-04-15T20:39:38.100Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MAXIMUM EXPOSURE POWER HOUR W/ TONY PRICE",
-        "s": "2026-04-15T20:00:00+01:00",
-        "e": "2026-04-15T21:00:00+01:00",
-        "d": "Producer, DJ, L.I.E.S. Records recording artist and head of Maximum Exposure Inc.- Tony Price presents an action-packed mix of raw house, funk and freestyle recorded live in Greektown, Toronto..",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/maximum-exposure-power-hour-w-tony-price/episodes/maximum-exposure-power-hour-w-tony-price-15th-april-2026"
-      },
       {
         "n": "WIGS W/ IMOGEN",
         "s": "2026-04-15T21:00:00+01:00",
@@ -23,9 +15,9 @@
         "n": "THE NCA SHOW W/ BRASSFOOT",
         "s": "2026-04-15T22:00:00+01:00",
         "e": "2026-04-15T23:00:00+01:00",
-        "d": null,
+        "d": "NCA is a London tape label specialising in experimental, techno and hip-hop, co-run by Brassfoot. Tune in to his monthly NCA Show for exclusives and jams from across the range - techno, house, hip-hop and more…",
         "j": "BRASSFOOT",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/brassfoot/episodes/brassfoot-15th-april-2026",
         "t": "monthly",
         "p": "brassfoot"
       },
@@ -167,18 +159,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NILE TO BANK w/ NIHAL",
+        "s": "2026-04-16T20:00:00+01:00",
+        "e": "2026-04-16T21:00:00+01:00",
+        "d": null,
+        "j": "NIHAL",
+        "u": null,
+        "t": "monthly",
+        "p": "nihal"
       }
     ],
     "nts2": [
-      {
-        "n": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
-        "s": "2026-04-15T20:00:00+01:00",
-        "e": "2026-04-15T21:00:00+01:00",
-        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures. ",
-        "j": "Taylor Rowley",
-        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-15th-april-2026",
-        "t": "biweekly"
-      },
       {
         "n": "SEA TO SEA w/ Diana Ratsamee",
         "s": "2026-04-15T21:00:00+01:00",
@@ -193,9 +186,9 @@
         "n": "Mount Analog w/ Mahssa",
         "s": "2026-04-15T22:00:00+01:00",
         "e": "2026-04-15T23:00:00+01:00",
-        "d": null,
+        "d": "The narrative is bursting with color and impossible to fit into a 60 minute timespan - but here is an effort to both timehop a personal story and nod to a timeless musical vignette of influences and inspiration that spans intensely amongst all corners of the artistic globe: shining bright into film + design + literature + circumstance as much as the sonic palette itself presents. Here’s a little exploration and adventure celebrating both the underbelly of the unknown with all that is beautifully pop.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mount-analog/episodes/mount-analog-15th-april-2026",
         "p": "mountanalog"
       },
       {
@@ -325,6 +318,15 @@
         "j": "XEROXMUSIK SPECIAL",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Goblin Milk w/ Medievalistic & Banana Gotika",
+        "s": "2026-04-16T16:00:00+01:00",
+        "e": "2026-04-16T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "goblinmilk"
       }
     ],
     "subtle": [
@@ -1493,6 +1495,16 @@
         "j": "c_h_l__o_e",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "INIT6",
+        "s": "2026-04-22T20:00:00Z",
+        "e": "2026-04-22T21:00:00Z",
+        "d": "Hailing from northern Italy, STANDARD is a collective of artists, DJs and producers that aims at the promotion of bass music: Garage, UK Funky, Breaks, Leftfield Bass, Leftfield Techno, Dubstep, everything in between and beyond. They focus on the Italian Bass scene, showcasing new up-and-coming artists as well as established talents from all over the peninsula.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "init6"
       }
     ],
     "dublab": [
@@ -1571,6 +1583,15 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "RERUN: Melanie Wilson – guest session (02.27.26)",
+        "s": "2026-04-16T16:00:00Z",
+        "e": "2026-04-16T17:00:00Z",
+        "d": null,
+        "j": "Melanie Wilson – guest session (02.27.26)",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Jimmy Tamborello - Dying Songs",
@@ -2373,15 +2394,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "OPEN",
-        "s": "2026-04-15T18:00:00Z",
-        "e": "2026-04-15T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "120 RIOT WRRRLD",
         "s": "2026-04-15T20:00:00Z",
