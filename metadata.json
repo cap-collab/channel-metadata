@@ -1,34 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-04-15T15:00:06.008Z",
+  "updated": "2026-04-15T16:53:54.247Z",
   "stations": {
     "nts1": [
       {
-        "n": "Leon Vynehall",
-        "s": "2026-04-15T15:00:00+01:00",
-        "e": "2026-04-15T17:00:00+01:00",
-        "d": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moxie/episodes/moxie-15th-april-2026",
-        "p": "leonvynehall"
-      },
-      {
-        "n": "TASH LC",
+        "n": "TASH LC w/ Scratcha DVA",
         "s": "2026-04-15T17:00:00+01:00",
         "e": "2026-04-15T18:00:00+01:00",
         "d": "After work fun and global tunes with Tash LC and guests every other Wednesday ",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/tash-lc/episodes/tash-lc-15th-april-2026",
-        "t": "monthly",
         "p": "tashlc"
       },
       {
         "n": "MOTIVE",
         "s": "2026-04-15T18:00:00+01:00",
         "e": "2026-04-15T19:00:00+01:00",
-        "d": null,
+        "d": "Theo Motive takes you on a monthly journey through upfront Hip Hop, Beats, Grime, Bass & everything in between.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/motive/episodes/motive-15th-april-2026",
+        "t": "monthly",
         "p": "motive"
       },
       {
@@ -73,6 +64,16 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "TOMMASI (R)",
+        "s": "2026-04-16T00:00:00+01:00",
+        "e": "2026-04-16T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "tommasi"
       },
       {
         "n": "Slow Hand Clutches: only a shared world can rest (R)",
@@ -173,16 +174,6 @@
     ],
     "nts2": [
       {
-        "n": "THE BADDIS SOUND W/ DANNIELLA DEE - Dee's Version Excursion",
-        "s": "2026-04-15T16:00:00+01:00",
-        "e": "2026-04-15T17:00:00+01:00",
-        "d": "Inspired by the iconic reggae & ska sounds of her home, singer & producer Danniella Dee shares a monthly crate of dub-wise selections, soul-soothing rocksteady, and heavyweight roots to the studio.\nFrom the host: \"An exploration into some of my favourite sounds from the B side. Rocksteady, Reggae, Steppers & Roots.\"",
-        "j": "DANNIELLA DEE",
-        "u": "https://www.nts.live/api/v2/shows/danniella-dee/episodes/danniella-dee-15th-april-2026",
-        "t": "monthly",
-        "p": "dannielladee"
-      },
-      {
         "n": "Martyn's Darkest Light",
         "s": "2026-04-15T17:00:00+01:00",
         "e": "2026-04-15T18:00:00+01:00",
@@ -195,9 +186,9 @@
         "n": "SUBJECT TO CHANGE W/ TIMMHOTEP & Yaya Bey in High Fidelity",
         "s": "2026-04-15T18:00:00+01:00",
         "e": "2026-04-15T19:00:00+01:00",
-        "d": null,
+        "d": "Cultural critic and curator Timmhotep Aku explores the intersections of black music, life, metaphor, and meaning through songs and found audio footage.\nFrom the host: \"In this special episode Timmhotep is joined by singer-songwriter and performer Yaya Bey to discuss their album 'Fidelity' and its themes of diaspora, devotion, and love.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/subject-to-change-w-timmhotep/episodes/subject-to-change-w-timmhotep-15th-april-2026"
       },
       {
         "n": "Aloha Got Soul",
@@ -327,19 +318,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " Gilbo",
-        "s": "2026-04-15T15:00:00Z",
-        "e": "2026-04-15T16:00:00Z",
+        "n": "Jim O'Rourke",
+        "s": "2026-04-16T11:00:00+01:00",
+        "e": "2026-04-16T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "gilbo"
-      },
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": "MixRaw",
         "s": "2026-04-15T16:00:00Z",
@@ -1495,6 +1485,16 @@
         "u": null,
         "t": "monthly",
         "p": "rushmoor"
+      },
+      {
+        "n": "baeker",
+        "s": "2026-04-22T16:00:00Z",
+        "e": "2026-04-22T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "baeker"
       }
     ],
     "dublab": [
@@ -1507,6 +1507,15 @@
         "u": null,
         "t": "monthly",
         "p": "teendaze"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-15T17:00:00Z",
+        "e": "2026-04-15T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Heidi Lawden – Magic Roundabout",
@@ -2065,16 +2074,6 @@
     ],
     "rinse": [
       {
-        "n": "Utopia Presents",
-        "s": "2026-04-15T14:00:00Z",
-        "e": "2026-04-15T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "utopiapresents"
-      },
-      {
         "n": "Anastazja",
         "s": "2026-04-15T16:00:00Z",
         "e": "2026-04-15T17:00:00Z",
@@ -2225,7 +2224,7 @@
         "s": "2026-04-16T12:00:00Z",
         "e": "2026-04-16T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ms Banks",
         "u": null,
         "t": "weekly",
         "p": "skvibemaker"
@@ -2235,7 +2234,7 @@
         "s": "2026-04-16T13:00:00Z",
         "e": "2026-04-16T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "The Black Wine Club Show",
         "u": null,
         "t": "biweekly",
         "p": "mrredley"
@@ -2279,12 +2278,13 @@
         "p": "katyb"
       },
       {
-        "n": "Chloé Caillet",
+        "n": "Chloé Caillet presents SMIILE",
         "s": "2026-04-16T19:00:00Z",
         "e": "2026-04-16T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Jen Cardini",
         "u": null,
+        "t": "monthly",
         "p": "chlocaillet"
       },
       {
@@ -2292,7 +2292,7 @@
         "s": "2026-04-16T21:00:00Z",
         "e": "2026-04-16T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Mui Mui",
         "u": null,
         "p": "steelcitydancediscs"
       },
@@ -2308,15 +2308,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "CHÔ!",
-        "s": "2026-04-15T15:00:00Z",
-        "e": "2026-04-15T16:00:00Z",
-        "d": null,
-        "j": "invite Mabrada",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Not Sorry",
         "s": "2026-04-15T16:00:00Z",
@@ -2446,15 +2437,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "BIG CITY LIFE",
-        "s": "2026-04-15T14:00:00Z",
-        "e": "2026-04-15T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "OPEN",
         "s": "2026-04-15T16:00:00Z",
