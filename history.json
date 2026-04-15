@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-04-15T01:30:32.726Z",
+  "updated": "2026-04-15T04:40:12.416Z",
   "stations": {
     "nts1": [
       {
@@ -6668,7 +6668,8 @@
         "e": "2026-04-03T11:00:00+01:00",
         "d": "Wake up with NTS…",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-leon-vynehall-3rd-april-2026"
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-leon-vynehall-3rd-april-2026",
+        "p": "leonvynehall"
       },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS & BAO G",
@@ -8614,6 +8615,25 @@
         "j": null,
         "u": null,
         "p": "plasticlanguage"
+      },
+      {
+        "n": "IN FOCUS: GRATEFUL DEAD (R)",
+        "s": "2026-04-15T02:00:00+01:00",
+        "e": "2026-04-15T04:00:00+01:00",
+        "d": "For a band whose identity in pop culture is often subject to oversimplified definitions and reductive jokes, The Grateful Dead's music frequently evades concise pigeonholing. Formed in California during the high watermark of post-war US counterculture, the Dead weave a psychedelic tapestry of folk, jazz, bluegrass, country, gospel, reggae, rock and blues, where the beginnings and ends of each influence disappear. \nTheir trademark marathon live performances, loose improvisational style and famously loyal fans make The Grateful Dead arguably a one of a kind phenomenon in popular music. \nSelected and mixed by Jennifer Walton.",
+        "j": "GRATEFUL DEAD",
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-grateful-dead-6th-october-2023",
+        "t": "restream"
+      },
+      {
+        "n": "Furniture without Memories w/ livwutang (R)",
+        "s": "2026-04-15T04:00:00+01:00",
+        "e": "2026-04-15T05:00:00+01:00",
+        "d": "Bimonthly excursions through memories, geographies and nostalgia from NYC-based livwutang.",
+        "j": "livwutang",
+        "u": "https://www.nts.live/api/v2/shows/livwutang/episodes/livwutang-17th-february-2025",
+        "t": "restream",
+        "p": "livwutang"
       }
     ],
     "nts2": [
@@ -18869,6 +18889,35 @@
         "u": null,
         "t": "restream",
         "p": "introspekt"
+      },
+      {
+        "n": "BOOM BIP",
+        "s": "2026-04-15T02:00:00+01:00",
+        "e": "2026-04-15T03:00:00+01:00",
+        "d": "Lex Records artist Boom Bip scrapes beneath the surface of the status quo by loosely basing his mixes on electronics and the new waves they produce.\nFrom the host: \"Ambient Textures, Drum and Bass and Early Electronics\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/boom-bip/episodes/boom-bip-15th-april-2026",
+        "t": "monthly",
+        "p": "boombip"
+      },
+      {
+        "n": "The Last Playlist: Iranian Special w/ Luis Felipe Farfán",
+        "s": "2026-04-15T03:00:00+01:00",
+        "e": "2026-04-15T04:00:00+01:00",
+        "d": "\"The Last Playlist\" explores mortality via songs people want at their funerals. Guests share stories ranging from hilarious to heartbreaking, discussing their musical choices while exploring death, grief, and what makes life worth living. Each episode weaves together music and conversation to celebrate life's complexities and honor its inevitable end.\nFrom the host: \"This is a guide to Iranian bangers from the 60's - a special episode, dedicated to all the Iranian friends.\" ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/the-last-playlist/episodes/the-last-playlist-15th-april-2026",
+        "t": "playlist"
+      },
+      {
+        "n": "CXEMA (R)",
+        "s": "2026-04-15T04:00:00+01:00",
+        "e": "2026-04-15T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "cxema"
       }
     ],
     "subtle": [
@@ -28937,6 +28986,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Sub Archives",
+        "s": "2026-04-15T01:00:00Z",
+        "e": "2026-04-15T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "subarchives"
+      },
+      {
+        "n": "Baghead",
+        "s": "2026-04-15T02:00:00Z",
+        "e": "2026-04-15T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -35888,6 +35956,16 @@
         "u": null,
         "t": "weekly",
         "p": "hoseh"
+      },
+      {
+        "n": "Universe Brain - Dream Fantasy Nightmare",
+        "s": "2026-04-15T01:00:00Z",
+        "e": "2026-04-15T03:00:00Z",
+        "d": null,
+        "j": "Dream Fantasy Nightmare",
+        "u": null,
+        "t": "monthly",
+        "p": "universebrain"
       }
     ],
     "rinse": [
@@ -44381,6 +44459,15 @@
         "u": null,
         "t": "biweekly",
         "p": "noirnor"
+      },
+      {
+        "n": "Nervous Horizon",
+        "s": "2026-04-15T01:00:00Z",
+        "e": "2026-04-15T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "nervoushorizon"
       }
     ],
     "rinsefr": [
@@ -53069,6 +53156,24 @@
         "u": null,
         "t": "weekly",
         "p": "transmission"
+      },
+      {
+        "n": "THRESHOLD_",
+        "s": "2026-04-15T00:00:00Z",
+        "e": "2026-04-15T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "DOSVU",
+        "s": "2026-04-15T02:00:00Z",
+        "e": "2026-04-15T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ]
   }
