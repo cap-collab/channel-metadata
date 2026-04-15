@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-15T07:19:41.264Z",
+  "updated": "2026-04-15T09:10:44.704Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
-        "s": "2026-04-15T07:00:00+01:00",
-        "e": "2026-04-15T09:00:00+01:00",
-        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
-        "j": "SPIRIT BLUE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-15th-april-2026",
-        "t": "weekly"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-04-15T09:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "Soup To Nuts w/ Marshmello",
         "s": "2026-04-15T11:00:00+01:00",
         "e": "2026-04-15T13:00:00+01:00",
-        "d": null,
+        "d": "Let NTS brighten up your lunchtime hours.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-marshmello-15th-april-2026"
       },
       {
         "n": "JENNIFER LOVELESS",
@@ -164,40 +155,34 @@
         "j": "PAM",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-04-16T09:00:00+01:00",
+        "e": "2026-04-16T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
       {
-        "n": "Cambodian Voicenotes w/ Matt",
-        "s": "2026-04-15T08:00:00+01:00",
-        "e": "2026-04-15T09:00:00+01:00",
-        "d": "Our friend Matt has been sending us field recordings from Cambodia made on his first ever, begrudgingly accepted phone for a year and a half while he's been based in the casino border town of Poipet. Along with the youtube links he's sent to music heard on busses and out of shops and bars, we've made this mix, because he wouldn't have the first clue how to.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-cambodian-voicenotes-w-matt-15th-april-2026"
-      },
-      {
-        "n": "NUESTRO LUGAR W/ FROM AND CARLOS BARREDO",
-        "s": "2026-04-15T09:00:00+01:00",
-        "e": "2026-04-15T10:00:00+01:00",
-        "d": "Nuestro Lugar is a careful selection of hidden gems from Spain ranging from as early as 1952 to the present. With both of us living abroad, the mix gave us a chance to dig into lesser-known tracks, reminding us of home in different ways.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-nuestro-lugar-w-from-and-carlos-barredo-15th-april-2026"
-      },
-      {
         "n": "SICHUAN TEA HOUSE w/ JORDAN PAUL ROUSSEAU",
         "s": "2026-04-15T10:00:00+01:00",
         "e": "2026-04-15T11:00:00+01:00",
-        "d": null,
+        "d": "An hour of guqin music by Wang Hua-de, tracing sounds born in Chengdu’s Sichuan teahouses. Sparse, intimate, and unhurried—this mixtape sits with tradition, daily ritual, and the quiet power of strings resonating through time.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-sichuan-tea-house-w-jordan-paul-rousseau-15th-april-2026"
       },
       {
         "n": "Explorations w/ Axel Moon",
         "s": "2026-04-15T11:00:00+01:00",
         "e": "2026-04-15T12:00:00+01:00",
-        "d": null,
+        "d": "“Explorations” is an attempt to shed light on offbeat music from India and around the world. Digging In India aka Nishant Mittal is a music archivist, DJ and record store owner based in New Delhi.\nFrom the host: \"A journey through hypnotic corners of global music, from Balkan and mediterranean sounds to French medieval drone, Turkish disco, Indian film music and beyond present by Axel Moon from Ko Shin Moon\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/digging-in-india/episodes/digging-in-india-15th-april-2026"
       },
       {
         "n": "Hegoa ERTZ Archive vol.1",
@@ -324,18 +309,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "BLACK SHEEP RADIO by LEFTY",
-        "s": "2026-04-15T07:00:00Z",
-        "e": "2026-04-15T08:00:00Z",
+        "n": "Funk Freaks Radio: T Funk (R)",
+        "s": "2026-04-16T03:00:00+01:00",
+        "e": "2026-04-16T04:00:00+01:00",
+        "d": null,
+        "j": "T Funk",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "GANGA BLUES W/ SYMRIN",
+        "s": "2026-04-16T04:00:00+01:00",
+        "e": "2026-04-16T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "p": "gangablues"
+      }
+    ],
+    "subtle": [
       {
         "n": "TSZ INVITES FITS ME FUNNY",
         "s": "2026-04-15T08:00:00Z",
@@ -344,6 +338,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-04-15T10:00:00Z",
+        "e": "2026-04-15T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Stroke of Sound by Tia",
@@ -1478,13 +1481,23 @@
         "u": null,
         "t": "monthly",
         "p": "weakspell"
+      },
+      {
+        "n": "Sport Mode",
+        "s": "2026-04-22T08:00:00Z",
+        "e": "2026-04-22T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "sportmode"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-15T06:30:00Z",
-        "e": "2026-04-15T09:00:00Z",
+        "s": "2026-04-15T09:00:00Z",
+        "e": "2026-04-15T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1492,8 +1505,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-15T09:00:00Z",
-        "e": "2026-04-15T11:00:00Z",
+        "s": "2026-04-15T11:00:00Z",
+        "e": "2026-04-15T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2056,15 +2069,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-04-15T06:00:00Z",
-        "e": "2026-04-15T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Esk",
         "s": "2026-04-15T08:00:00Z",
         "e": "2026-04-15T10:00:00Z",
@@ -2384,13 +2388,12 @@
         "t": "biweekly"
       },
       {
-        "n": "ADRIXXX",
+        "n": "ADRIXXX B2B RESTONSFLEX",
         "s": "2026-04-15T14:00:00Z",
         "e": "2026-04-15T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "CHÔ!",
