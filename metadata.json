@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-15T09:10:44.704Z",
+  "updated": "2026-04-15T10:52:58.939Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-04-15T09:00:00+01:00",
-        "e": "2026-04-15T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-15th-april-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "Soup To Nuts w/ Marshmello",
         "s": "2026-04-15T11:00:00+01:00",
@@ -25,9 +15,9 @@
         "n": "JENNIFER LOVELESS",
         "s": "2026-04-15T13:00:00+01:00",
         "e": "2026-04-15T14:00:00+01:00",
-        "d": null,
+        "d": "Regular journeys with Australia via Berlin DJ and producer Jennifer Loveless, channeling the dialogue between new and old dance music, oscillating between introspection and joy, with the occasional surprise and left turn.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jennifer-loveless/episodes/jennifer-loveless-15th-april-2026",
         "p": "jenniferloveless"
       },
       {
@@ -165,17 +155,18 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-04-16T11:00:00+01:00",
+        "e": "2026-04-16T13:00:00+01:00",
+        "d": null,
+        "j": "BABYSCHÖN",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "SICHUAN TEA HOUSE w/ JORDAN PAUL ROUSSEAU",
-        "s": "2026-04-15T10:00:00+01:00",
-        "e": "2026-04-15T11:00:00+01:00",
-        "d": "An hour of guqin music by Wang Hua-de, tracing sounds born in Chengdu’s Sichuan teahouses. Sparse, intimate, and unhurried—this mixtape sits with tradition, daily ritual, and the quiet power of strings resonating through time.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-sichuan-tea-house-w-jordan-paul-rousseau-15th-april-2026"
-      },
       {
         "n": "Explorations w/ Axel Moon",
         "s": "2026-04-15T11:00:00+01:00",
@@ -188,9 +179,9 @@
         "n": "Hegoa ERTZ Archive vol.1",
         "s": "2026-04-15T12:00:00+01:00",
         "e": "2026-04-15T13:00:00+01:00",
-        "d": null,
+        "d": "Special thanks to Xabier Erkizia for facilitating all the materials on this episode, which are unreleased.\nFirst episode in a series going through ERTZ: Other Music Festival’s archive.\nFormative and unparalleled curatorial events & publishing house merging sound art, video art, experimental music, dance and performance that happened in the Basque Country (mostly in Bera Navarre) between 2000-2018.\nSome of the international artists that visited the small town throughout the years include Amy Denio, Mark Cunningham, Charlemagne Palestine, AMM, Stan Brakhage, Ken Jacobs, Oren Ambarchi, Toshimaru Nakamura or Phil Niblock, amongst many others, as well as the local scene including Cafe Teatro, Voodoo Muzak, Xabier Erkizia, Iñigo Telletxea, Alex Mendizabal or Mattin.\nMilesker entzuteagatik!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hegoa/episodes/hegoa-15th-april-2026",
         "p": "hegoa"
       },
       {
@@ -204,13 +195,12 @@
         "p": "chebmimo"
       },
       {
-        "n": "KEEL HER",
+        "n": "KEEL HER w/ Daniel O'Sullivan, Frank Maston & Greg Foat",
         "s": "2026-04-15T14:00:00+01:00",
         "e": "2026-04-15T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "keelher"
       },
       {
@@ -222,7 +212,7 @@
         "u": null
       },
       {
-        "n": "THE BADDIS SOUND W/ DANNIELLA DEE",
+        "n": "THE BADDIS SOUND W/ DANNIELLA DEE - Dee's Version Excursion",
         "s": "2026-04-15T16:00:00+01:00",
         "e": "2026-04-15T17:00:00+01:00",
         "d": null,
@@ -241,13 +231,12 @@
         "t": "monthly"
       },
       {
-        "n": "SUBJECT TO CHANGE W/ TIMMHOTEP",
+        "n": "SUBJECT TO CHANGE W/ TIMMHOTEP & Yaya Bey in High Fidelity",
         "s": "2026-04-15T18:00:00+01:00",
         "e": "2026-04-15T19:00:00+01:00",
         "d": null,
-        "j": "TIMMHOTEP",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Aloha Got Soul",
@@ -327,18 +316,19 @@
         "j": null,
         "u": null,
         "p": "gangablues"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "TSZ INVITES FITS ME FUNNY",
-        "s": "2026-04-15T08:00:00Z",
-        "e": "2026-04-15T10:00:00Z",
+        "n": "Discostan (R)",
+        "s": "2026-04-16T05:00:00+01:00",
+        "e": "2026-04-16T06:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "restream",
+        "p": "discostan"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-04-15T10:00:00Z",
@@ -1491,6 +1481,19 @@
         "u": null,
         "t": "monthly",
         "p": "sportmode"
+      },
+      {
+        "n": "Touching Bass w/ timfromsales",
+        "s": "2026-04-22T10:00:00Z",
+        "e": "2026-04-22T11:00:00Z",
+        "d": null,
+        "j": "timfromsales",
+        "u": null,
+        "t": "monthly",
+        "p": "timfromsales",
+        "ap": [
+          "touchingbass"
+        ]
       }
     ],
     "dublab": [
@@ -2069,16 +2072,6 @@
     ],
     "rinse": [
       {
-        "n": "Esk",
-        "s": "2026-04-15T08:00:00Z",
-        "e": "2026-04-15T10:00:00Z",
-        "d": null,
-        "j": "Laalls",
-        "u": null,
-        "t": "weekly",
-        "p": "esk"
-      },
-      {
         "n": "Sticky Dub",
         "s": "2026-04-15T10:00:00Z",
         "e": "2026-04-15T11:00:00Z",
@@ -2099,12 +2092,13 @@
         "p": "eclecticist"
       },
       {
-        "n": "In Amongst It with Morf",
+        "n": "Morf",
         "s": "2026-04-15T12:00:00Z",
         "e": "2026-04-15T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
+        "t": "monthly",
         "p": "morf"
       },
       {
