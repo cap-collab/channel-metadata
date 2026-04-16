@@ -1,33 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-16T10:55:55.516Z",
+  "updated": "2026-04-16T13:10:17.334Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ BABYSCHÖN",
-        "s": "2026-04-16T11:00:00+01:00",
-        "e": "2026-04-16T13:00:00+01:00",
-        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
-        "j": "BABYSCHÖN",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-16th-april-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "GABI w/ Winter",
-        "s": "2026-04-16T13:00:00+01:00",
-        "e": "2026-04-16T14:00:00+01:00",
-        "d": "Musical peregrinations from Gabi, guiding listeners through new wave, post punk and synth. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gabi/episodes/gabi-16th-april-2026",
-        "p": "gabi"
-      },
       {
         "n": "MAÏ-LINH",
         "s": "2026-04-16T14:00:00+01:00",
         "e": "2026-04-16T15:00:00+01:00",
-        "d": null,
+        "d": "With an ear for the timeless and the undiscovered, Maï-Linh—head of CTW Podcasts—brings a rich selection blending rare finds, overlooked classics, and tracks that span decades. Tune in for a blend of deep cuts and fresh gems that bridge the familiar and the forgotten.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mai-linh/episodes/mai-linh-16th-april-2026",
         "t": "monthly",
         "p": "malinh"
       },
@@ -35,9 +17,9 @@
         "n": "ECLAIR FIFI",
         "s": "2026-04-16T15:00:00+01:00",
         "e": "2026-04-16T17:00:00+01:00",
-        "d": null,
+        "d": "Expert selections all round: encompassing everything you know and love from Eclair Fifi. That's techno, electro, hip-hop, Latin Freestyle, early Warp Records material, and then a bunch of other stuff that's bound to surprise you.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/eclair-fifi/episodes/eclair-fifi-16th-april-2026",
         "p": "eclairfifi",
         "ap": [
           "fifi"
@@ -171,42 +153,43 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Jim O'Rourke",
-        "s": "2026-04-16T11:00:00+01:00",
-        "e": "2026-04-16T12:00:00+01:00",
-        "d": "Avant-garde musician and composer Jim O'Rourke pulls stops by once a month, pulling an hour of picks from his extensive record collection.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jim-o-rourke/episodes/jim-o-rourke-16th-april-2026",
-        "t": "monthly"
       },
       {
-        "n": "DOVE - Car Crash",
-        "s": "2026-04-16T12:00:00+01:00",
-        "e": "2026-04-16T13:00:00+01:00",
-        "d": "Osaka / Berlin musician Dove shares music that captures romance in everyday life. \"Sheltering from the rain and stumbling into the best club experience. Staying up all night talking with friends at the end of summer. The moment I looked into your eyes and wanted to know everything about you.\"\nFrom the host: \"Car Crash was formed accidentally by its members shared a small car crash in Tokyo, including Andri, Rei, and sometimes people around by chance. The project is spontaneous and based on DIY, car films, happenings, and accidents, with a heart of popness to remember to have fun in unexpecte\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dove/episodes/dove-16th-april-2026",
-        "p": "dove"
-      },
-      {
-        "n": "Shadow Dance w/ Salamanda",
-        "s": "2026-04-16T13:00:00+01:00",
-        "e": "2026-04-16T14:00:00+01:00",
+        "n": "SOUP TO NUTS W/ Pawa Speed Sports & DJ DNDY",
+        "s": "2026-04-17T11:00:00+01:00",
+        "e": "2026-04-17T13:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
+        "n": "PUM PUM POWER HOUR W/ LIL C",
+        "s": "2026-04-17T13:00:00+01:00",
+        "e": "2026-04-17T14:00:00+01:00",
+        "d": null,
+        "j": "LIL C",
+        "u": null,
+        "t": "biweekly",
+        "p": "lilc"
+      }
+    ],
+    "nts2": [
+      {
+        "n": "IN FOCUS: JESSICA BAILIFF (R)",
+        "s": "2026-04-16T14:00:00+01:00",
+        "e": "2026-04-16T15:00:00+01:00",
+        "d": "An hour-long trip through the spacious and melodic guitar sounds of slowcore and rock experimentalist songwriter Jessica Bailiff. Featuring solo material and work with Red Morning Chorus, Eau Claire and others. ",
+        "j": "JESSICA BAILIFF",
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-jessica-bailiff-9th-june-2023",
+        "t": "restream"
+      },
+      {
         "n": "LA VIDA ES UN MUS - XEROXMUSIK SPECIAL",
         "s": "2026-04-16T15:00:00+01:00",
         "e": "2026-04-16T16:00:00+01:00",
-        "d": null,
+        "d": "Primative World Musik.\nFrom the host: \"Special show with the bands playing XEROXMUSIK 56/57 this weekend.\"",
         "j": "XEROXMUSIK SPECIAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/la-vida-es-un-mus/episodes/la-vida-es-un-mus-16th-april-2026",
         "t": "monthly"
       },
       {
@@ -339,37 +322,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Those 80's snare drums w/ Dr.Vtol",
+        "s": "2026-04-17T07:00:00+01:00",
+        "e": "2026-04-17T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "hydromancy w/ eliloux",
+        "s": "2026-04-17T08:00:00+01:00",
+        "e": "2026-04-17T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Housekeeping",
-        "s": "2026-04-16T10:00:00Z",
-        "e": "2026-04-16T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "housekeeping"
-      },
-      {
-        "n": "Exit Portal + J.Low",
-        "s": "2026-04-16T11:00:00Z",
-        "e": "2026-04-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "BICHETTE",
-        "s": "2026-04-16T12:00:00Z",
-        "e": "2026-04-16T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Jenn Gunn",
         "s": "2026-04-16T13:00:00Z",
@@ -1522,13 +1493,40 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Brooklyn Loves UKG",
+        "s": "2026-04-23T11:00:00Z",
+        "e": "2026-04-23T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "UNTZ",
+        "s": "2026-04-23T12:00:00Z",
+        "e": "2026-04-23T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ZERO Dijits",
+        "s": "2026-04-23T13:00:00Z",
+        "e": "2026-04-23T14:00:00Z",
+        "d": "\"The calm before summer\"",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-16T09:00:00Z",
-        "e": "2026-04-16T11:00:00Z",
+        "s": "2026-04-16T13:00:00Z",
+        "e": "2026-04-16T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1536,8 +1534,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-16T11:00:00Z",
-        "e": "2026-04-16T13:00:00Z",
+        "s": "2026-04-16T15:00:00Z",
+        "e": "2026-04-16T15:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2103,34 +2101,6 @@
     ],
     "rinse": [
       {
-        "n": "Joe Armon-Jones",
-        "s": "2026-04-16T10:00:00Z",
-        "e": "2026-04-16T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "joearmonjones"
-      },
-      {
-        "n": "Meena Sears",
-        "s": "2026-04-16T11:00:00Z",
-        "e": "2026-04-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-04-16T12:00:00Z",
-        "e": "2026-04-16T13:00:00Z",
-        "d": null,
-        "j": "Ms Banks",
-        "u": null,
-        "t": "weekly",
-        "p": "skvibemaker"
-      },
-      {
         "n": "Mr. Redley",
         "s": "2026-04-16T13:00:00Z",
         "e": "2026-04-16T14:00:00Z",
@@ -2330,25 +2300,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-04-16T07:00:00Z",
-        "e": "2026-04-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Vie Garantie",
-        "s": "2026-04-16T12:00:00Z",
-        "e": "2026-04-16T13:00:00Z",
-        "d": null,
-        "j": "w/ Grégoire Perrier",
-        "u": null,
-        "t": "biweekly",
-        "p": "viegarantie"
-      },
-      {
         "n": "Mattias Mimoun",
         "s": "2026-04-16T13:00:00Z",
         "e": "2026-04-16T14:00:00Z",
@@ -2507,24 +2458,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-04-16T06:00:00Z",
-        "e": "2026-04-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "OPEN",
-        "s": "2026-04-16T12:00:00Z",
-        "e": "2026-04-16T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "TELEMETRY",
         "s": "2026-04-16T13:00:00Z",
