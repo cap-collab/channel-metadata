@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-16T07:20:08.878Z",
+  "updated": "2026-04-16T09:10:06.535Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-04-16T07:00:00+01:00",
-        "e": "2026-04-16T09:00:00+01:00",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": "PAM",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-16th-april-2026",
-        "t": "weekly"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-04-16T09:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-04-16T11:00:00+01:00",
         "e": "2026-04-16T13:00:00+01:00",
-        "d": null,
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
         "j": "BABYSCHÖN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-16th-april-2026",
         "t": "weekly"
       },
       {
@@ -173,40 +164,33 @@
         "u": null,
         "t": "restream",
         "p": "fifthworld"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "s": "2026-04-17T07:00:00+01:00",
+        "e": "2026-04-17T09:00:00+01:00",
+        "d": null,
+        "j": "JACK ROLLO",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "Early Hamra Project W/ Milan Rivet Biennès",
-        "s": "2026-04-16T08:00:00+01:00",
-        "e": "2026-04-16T09:00:00+01:00",
-        "d": "This mix is about Lebanese kids growing up at the same time as i did. It focuses on early 2000s Lebanese pop music and was made exclusively for dancing at the dawn of the millennium.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-le-rap-et-la-fourmi-w-milan-rivet-biennes-16th-april-2026"
-      },
-      {
-        "n": "C'ERA UNA VOLTA W/ DAYDREAM",
-        "s": "2026-04-16T09:00:00+01:00",
-        "e": "2026-04-16T10:00:00+01:00",
-        "d": "Seductive and suspicious, these Italian b-film scores provide the soundtrack to your wildest daydreams.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-c-era-una-volta-w-daydream-16th-april-2026"
-      },
-      {
         "n": "Momentary Sanctuary w/ pirouette",
         "s": "2026-04-16T10:00:00+01:00",
         "e": "2026-04-16T11:00:00+01:00",
-        "d": null,
+        "d": "Another journey through the spectrums of emotional ambient music. Thank you for sharing this space with me. I hope these sounds hold you gently and help you feel whatever needs to be felt. \nDeep gratitude to the incredible artists in the mix - and to you for listening. Lots of love, Lloyd (pirouette) ✨",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-momentary-sanctuary-w-pirouette-16th-april-2026"
       },
       {
         "n": "Jim O'Rourke",
         "s": "2026-04-16T11:00:00+01:00",
         "e": "2026-04-16T12:00:00+01:00",
-        "d": null,
+        "d": "Avant-garde musician and composer Jim O'Rourke pulls stops by once a month, pulling an hour of picks from his extensive record collection.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jim-o-rourke/episodes/jim-o-rourke-16th-april-2026",
         "t": "monthly"
       },
       {
@@ -338,28 +322,28 @@
         "u": null,
         "t": "restream",
         "p": "kranky"
+      },
+      {
+        "n": "Kampire (R)",
+        "s": "2026-04-17T04:00:00+01:00",
+        "e": "2026-04-17T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "kampire"
+      },
+      {
+        "n": "EQUIKNOXX (R)",
+        "s": "2026-04-17T05:00:00+01:00",
+        "e": "2026-04-17T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-16T07:00:00Z",
-        "e": "2026-04-16T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "source",
-        "s": "2026-04-16T08:00:00Z",
-        "e": "2026-04-16T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "source"
-      },
       {
         "n": "In The Rotation w/ Su",
         "s": "2026-04-16T09:00:00Z",
@@ -1522,13 +1506,31 @@
         "j": "Samuel Alexander",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "POSER",
+        "s": "2026-04-23T08:00:00Z",
+        "e": "2026-04-23T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TRANSISTOR RHYTHMS",
+        "s": "2026-04-23T09:00:00Z",
+        "e": "2026-04-23T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-16T07:00:00Z",
-        "e": "2026-04-16T09:00:00Z",
+        "s": "2026-04-16T09:00:00Z",
+        "e": "2026-04-16T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1536,8 +1538,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-16T09:00:00Z",
-        "e": "2026-04-16T11:00:00Z",
+        "s": "2026-04-16T11:00:00Z",
+        "e": "2026-04-16T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2103,15 +2105,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-04-16T06:00:00Z",
-        "e": "2026-04-16T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Yazmin Lacey",
         "s": "2026-04-16T08:00:00Z",
         "e": "2026-04-16T10:00:00Z",
@@ -2372,7 +2365,7 @@
         "s": "2026-04-16T13:00:00Z",
         "e": "2026-04-16T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "présente Croque-Monsieur",
         "u": null,
         "t": "biweekly",
         "p": "mattiasmimoun"
@@ -2400,7 +2393,7 @@
         "s": "2026-04-16T16:00:00Z",
         "e": "2026-04-16T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite Jenys",
         "u": null,
         "t": "biweekly"
       },
