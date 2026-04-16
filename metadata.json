@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-16T09:10:06.535Z",
+  "updated": "2026-04-16T10:55:55.516Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-04-16T09:00:00+01:00",
-        "e": "2026-04-16T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-16th-april-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-04-16T11:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "GABI w/ Winter",
         "s": "2026-04-16T13:00:00+01:00",
         "e": "2026-04-16T14:00:00+01:00",
-        "d": null,
+        "d": "Musical peregrinations from Gabi, guiding listeners through new wave, post punk and synth. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gabi/episodes/gabi-16th-april-2026",
         "p": "gabi"
       },
       {
@@ -173,17 +163,17 @@
         "j": "JACK ROLLO",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ Ruby Savage",
+        "s": "2026-04-17T09:00:00+01:00",
+        "e": "2026-04-17T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "Momentary Sanctuary w/ pirouette",
-        "s": "2026-04-16T10:00:00+01:00",
-        "e": "2026-04-16T11:00:00+01:00",
-        "d": "Another journey through the spectrums of emotional ambient music. Thank you for sharing this space with me. I hope these sounds hold you gently and help you feel whatever needs to be felt. \nDeep gratitude to the incredible artists in the mix - and to you for listening. Lots of love, Lloyd (pirouette) ✨",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-momentary-sanctuary-w-pirouette-16th-april-2026"
-      },
       {
         "n": "Jim O'Rourke",
         "s": "2026-04-16T11:00:00+01:00",
@@ -197,9 +187,9 @@
         "n": "DOVE - Car Crash",
         "s": "2026-04-16T12:00:00+01:00",
         "e": "2026-04-16T13:00:00+01:00",
-        "d": null,
+        "d": "Osaka / Berlin musician Dove shares music that captures romance in everyday life. \"Sheltering from the rain and stumbling into the best club experience. Staying up all night talking with friends at the end of summer. The moment I looked into your eyes and wanted to know everything about you.\"\nFrom the host: \"Car Crash was formed accidentally by its members shared a small car crash in Tokyo, including Andri, Rei, and sometimes people around by chance. The project is spontaneous and based on DIY, car films, happenings, and accidents, with a heart of popness to remember to have fun in unexpecte\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dove/episodes/dove-16th-april-2026",
         "p": "dove"
       },
       {
@@ -341,18 +331,17 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "FAIRY TALE INCEPTION w/ LESLIE SAUCER",
+        "s": "2026-04-17T06:00:00+01:00",
+        "e": "2026-04-17T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "In The Rotation w/ Su",
-        "s": "2026-04-16T09:00:00Z",
-        "e": "2026-04-16T10:00:00Z",
-        "d": null,
-        "j": "Su",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Housekeeping",
         "s": "2026-04-16T10:00:00Z",
@@ -1524,6 +1513,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Jordan Scudder",
+        "s": "2026-04-23T10:00:00Z",
+        "e": "2026-04-23T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2105,16 +2103,6 @@
     ],
     "rinse": [
       {
-        "n": "Yazmin Lacey",
-        "s": "2026-04-16T08:00:00Z",
-        "e": "2026-04-16T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
         "n": "Joe Armon-Jones",
         "s": "2026-04-16T10:00:00Z",
         "e": "2026-04-16T11:00:00Z",
@@ -2485,7 +2473,7 @@
         "s": "2026-04-17T16:00:00Z",
         "e": "2026-04-17T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite Wavezim",
         "u": null,
         "t": "monthly",
         "p": "baleavecmaa"
@@ -2504,7 +2492,7 @@
         "s": "2026-04-17T18:00:00Z",
         "e": "2026-04-17T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite B. McQueen",
         "u": null,
         "t": "monthly"
       },
