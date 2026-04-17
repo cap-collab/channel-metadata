@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-17T12:58:46.329Z",
+  "updated": "2026-04-17T14:48:23.346Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PUM PUM POWER HOUR W/ LIL C",
-        "s": "2026-04-17T13:00:00+01:00",
-        "e": "2026-04-17T14:00:00+01:00",
-        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
-        "j": "LIL C",
-        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-17th-april-2026",
-        "t": "biweekly",
-        "p": "lilc"
-      },
-      {
-        "n": "TEARS IN THE CLUB W/ JEUNE POUCE",
-        "s": "2026-04-17T14:00:00+01:00",
-        "e": "2026-04-17T15:00:00+01:00",
-        "d": "\"Tears in the Club\" presents a unique blend of structured and chaotic music, combining intense hip hop, drum and bass, footwork, jersey club, and sometimes Afro rhythms. This multi-genre musical show explores diverse musical landscapes, creating a striking contrast between genres, while also showcasing new artists.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jeune-pouce/episodes/jeune-pouce-17th-april-2026",
-        "p": "jeunepouce"
-      },
       {
         "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW",
         "s": "2026-04-17T15:00:00+01:00",
         "e": "2026-04-17T16:00:00+01:00",
-        "d": null,
+        "d": "Artist and selector Fatima drops by NTS London studio once a month to play her favourite tunes. A laid back waffle infused show draped in the finest of audible garments, presenting some the worlds hardest ear candy.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/fatima/episodes/fatima-17th-april-2026",
+        "t": "monthly"
       },
       {
         "n": "STEPHANE",
         "s": "2026-04-17T16:00:00+01:00",
         "e": "2026-04-17T17:00:00+01:00",
-        "d": null,
+        "d": "contemporary french + international rap presented by Stephane.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gelato/episodes/gelato-17th-april-2026",
         "t": "monthly"
       },
       {
@@ -167,43 +149,45 @@
         "j": null,
         "u": null,
         "p": "macca"
+      },
+      {
+        "n": "ROSS ALLEN",
+        "s": "2026-04-18T12:00:00+01:00",
+        "e": "2026-04-18T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "rossallen"
+      },
+      {
+        "n": "JAMES MASSIAH",
+        "s": "2026-04-18T14:00:00+01:00",
+        "e": "2026-04-18T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Orpheu The Wizard",
-        "s": "2026-04-17T13:00:00+01:00",
-        "e": "2026-04-17T14:00:00+01:00",
-        "d": "Amsterdam selector Orpheu The Wizard connects oddball and straight forward jams from different decades and different record shelves in a monthly show. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/orpheu-the-wizard/episodes/orpheu-the-wizard-17th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ANTINOTE",
-        "s": "2026-04-17T14:00:00+01:00",
-        "e": "2026-04-17T15:00:00+01:00",
-        "d": "Monthly sessions from Zaltan, the mind behind Paris-based leftfield dance, electronic & downtempo imprint Antinote, with occasional appearances from friends and artists on the label. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/zaltan/episodes/zaltan-17th-april-2026",
-        "t": "monthly"
-      },
-      {
         "n": "Image search w/ Pieter Kock",
         "s": "2026-04-17T15:00:00+01:00",
         "e": "2026-04-17T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month. Email: animalimagesearch@gmail.com\nFrom the host: \"Berlin legend Pieter Kock plays an hour of favorites\"",
+        "j": "Pieter Kock",
+        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-17th-april-2026",
+        "t": "monthly",
         "p": "imagesearch"
       },
       {
         "n": "Munib",
         "s": "2026-04-17T16:00:00+01:00",
         "e": "2026-04-17T17:00:00+01:00",
-        "d": null,
+        "d": "Ethio-jazz sounds direct from the source in an hour-long selection from Munib – record collector and owner of Addis-Ababa record shop Addis Moon. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/munib-17th-april-2026"
       },
       {
         "n": "Finest Hour w/ Cynthia & Allen Golder-Carpenter",
@@ -215,14 +199,17 @@
         "p": "cynthia"
       },
       {
-        "n": "JUNE MCDOOM",
+        "n": "NATALIA PANZER (R)",
         "s": "2026-04-17T18:00:00+01:00",
         "e": "2026-04-17T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "junemcdoom"
+        "t": "restream",
+        "p": "natalia",
+        "ap": [
+          "nataliapanzer"
+        ]
       },
       {
         "n": "NTS Guide to: Clover Records",
@@ -337,28 +324,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "‘Vuci di Sicilia’ w/ Daniele Mizar",
+        "s": "2026-04-18T10:00:00+01:00",
+        "e": "2026-04-18T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Gwero b2b Nightshade",
-        "s": "2026-04-17T11:00:00Z",
-        "e": "2026-04-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Rebello",
-        "s": "2026-04-17T13:00:00Z",
-        "e": "2026-04-17T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "rebello"
-      },
       {
         "n": "Emma & Embla",
         "s": "2026-04-17T14:00:00Z",
@@ -1560,13 +1536,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Cam Yates",
+        "s": "2026-04-24T13:00:00Z",
+        "e": "2026-04-24T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Loker",
+        "s": "2026-04-24T14:00:00Z",
+        "e": "2026-04-24T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-17T11:00:00Z",
-        "e": "2026-04-17T13:00:00Z",
+        "s": "2026-04-17T13:00:00Z",
+        "e": "2026-04-17T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1574,8 +1568,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-17T13:00:00Z",
-        "e": "2026-04-17T15:00:00Z",
+        "s": "2026-04-17T15:00:00Z",
+        "e": "2026-04-17T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2167,16 +2161,6 @@
     ],
     "rinse": [
       {
-        "n": "Uncle Dugs",
-        "s": "2026-04-17T10:00:00Z",
-        "e": "2026-04-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "uncledugs"
-      },
-      {
         "n": "Jeremy Sylvester",
         "s": "2026-04-17T13:00:00Z",
         "e": "2026-04-17T15:00:00Z",
@@ -2390,24 +2374,6 @@
     ],
     "rinsefr": [
       {
-        "n": "MumBeats",
-        "s": "2026-04-17T12:00:00Z",
-        "e": "2026-04-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Rinse France Guest Show",
-        "s": "2026-04-17T13:00:00Z",
-        "e": "2026-04-17T14:00:00Z",
-        "d": null,
-        "j": "Katy De Jesus",
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Queer Cult",
         "s": "2026-04-17T14:00:00Z",
         "e": "2026-04-17T15:00:00Z",
@@ -2534,7 +2500,7 @@
         "s": "2026-04-18T17:00:00Z",
         "e": "2026-04-18T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "ROOMPUNX",
         "u": null,
         "t": "monthly",
         "p": "tijolorecords"
@@ -2550,15 +2516,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "GRAVITATION",
-        "s": "2026-04-17T12:00:00Z",
-        "e": "2026-04-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "HANGTIME RADIO",
         "s": "2026-04-17T13:00:00Z",
