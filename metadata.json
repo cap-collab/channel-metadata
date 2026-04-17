@@ -1,33 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-17T14:48:23.346Z",
+  "updated": "2026-04-17T16:44:23.978Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW",
-        "s": "2026-04-17T15:00:00+01:00",
-        "e": "2026-04-17T16:00:00+01:00",
-        "d": "Artist and selector Fatima drops by NTS London studio once a month to play her favourite tunes. A laid back waffle infused show draped in the finest of audible garments, presenting some the worlds hardest ear candy.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fatima/episodes/fatima-17th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "STEPHANE",
-        "s": "2026-04-17T16:00:00+01:00",
-        "e": "2026-04-17T17:00:00+01:00",
-        "d": "contemporary french + international rap presented by Stephane.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gelato/episodes/gelato-17th-april-2026",
-        "t": "monthly"
-      },
       {
         "n": "ABBY IMPERIAL (R)",
         "s": "2026-04-17T17:00:00+01:00",
         "e": "2026-04-17T18:00:00+01:00",
-        "d": null,
+        "d": "The eclectic and diverse frequencies from a true East Bay Area native, Abby Imperial is ready to bring the soulful sounds of Rnb, g-funk, deep house, jungle & more.. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abby-imperial/episodes/abby-imperial-17th-december-2024",
         "t": "restream",
         "p": "abbyimperial"
       },
@@ -35,9 +17,9 @@
         "n": "Pene",
         "s": "2026-04-17T18:00:00+01:00",
         "e": "2026-04-17T19:00:00+01:00",
-        "d": null,
+        "d": "Ruf Dug brings the leftfield: old video game soundtracks, dusty analogue dreamers and poolside Balearic sounds. No nonsense from the original tropical cyberpunk.\nFrom the host: \"A guest mix this week from my dear friend from Athens, Pene. We are playing together this Sunday at Bar Shrimp in Manchester!\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/ruf-dug/episodes/ruf-dug-17th-april-2026"
       },
       {
         "n": "MINIMAL EFFORT w/ EMZIL",
@@ -168,43 +150,45 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
+        "s": "2026-04-18T15:00:00+01:00",
+        "e": "2026-04-18T17:00:00+01:00",
+        "d": null,
+        "j": "MR PEDRO",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "LAST RESORT",
+        "s": "2026-04-18T17:00:00+01:00",
+        "e": "2026-04-18T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lastresort"
       }
     ],
     "nts2": [
       {
-        "n": "Image search w/ Pieter Kock",
-        "s": "2026-04-17T15:00:00+01:00",
-        "e": "2026-04-17T16:00:00+01:00",
-        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month. Email: animalimagesearch@gmail.com\nFrom the host: \"Berlin legend Pieter Kock plays an hour of favorites\"",
-        "j": "Pieter Kock",
-        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-17th-april-2026",
-        "t": "monthly",
-        "p": "imagesearch"
-      },
-      {
-        "n": "Munib",
-        "s": "2026-04-17T16:00:00+01:00",
-        "e": "2026-04-17T17:00:00+01:00",
-        "d": "Ethio-jazz sounds direct from the source in an hour-long selection from Munib – record collector and owner of Addis-Ababa record shop Addis Moon. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/munib-17th-april-2026"
-      },
-      {
         "n": "Finest Hour w/ Cynthia & Allen Golder-Carpenter",
         "s": "2026-04-17T17:00:00+01:00",
         "e": "2026-04-17T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "A monthly broadcasts from London-based curator Cynthia, taking you through a selection of her ongoing music research and personal favourites, blending sounds that move across time and genre.",
+        "j": "Cynthia & Allen Golder",
+        "u": "https://www.nts.live/api/v2/shows/cynthia/episodes/cynthia-17th-april-2026",
+        "t": "monthly",
         "p": "cynthia"
       },
       {
         "n": "NATALIA PANZER (R)",
         "s": "2026-04-17T18:00:00+01:00",
         "e": "2026-04-17T19:00:00+01:00",
-        "d": null,
+        "d": "Curio earworms and other obsessions from Krakow's Natalia Panzer.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-11th-october-2025",
         "t": "restream",
         "p": "natalia",
         "ap": [
@@ -332,18 +316,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Emma & Embla",
-        "s": "2026-04-17T14:00:00Z",
-        "e": "2026-04-17T15:00:00Z",
+        "n": "Smithsonian Folkways - Outer Space (R)",
+        "s": "2026-04-18T11:00:00+01:00",
+        "e": "2026-04-18T12:00:00+01:00",
+        "d": null,
+        "j": "Outer Space",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Just A Thought w/ Bunny Hoova",
+        "s": "2026-04-18T12:00:00+01:00",
+        "e": "2026-04-18T13:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "p": "bunnyhoova"
+      }
+    ],
+    "subtle": [
       {
         "n": "The All Colours Show",
         "s": "2026-04-17T15:00:00Z",
@@ -544,6 +537,15 @@
         "u": null,
         "t": "monthly",
         "p": "eklekt1k"
+      },
+      {
+        "n": "The Wheel Up Show w/ Tripta",
+        "s": "2026-04-18T21:00:00Z",
+        "e": "2026-04-18T22:00:00Z",
+        "d": null,
+        "j": "Tripta",
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Deep Diving w/ DJ Nøthing",
@@ -1554,27 +1556,29 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Rowan Ash B2B Louna",
+        "s": "2026-04-24T15:00:00Z",
+        "e": "2026-04-24T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ash"
+      },
+      {
+        "n": "MILLETT",
+        "s": "2026-04-24T16:00:00Z",
+        "e": "2026-04-24T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "millett"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-17T13:00:00Z",
-        "e": "2026-04-17T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-17T15:00:00Z",
-        "e": "2026-04-17T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Leo Sato – Time, Carried by the Wind (guest session)",
         "s": "2026-04-17T16:00:00Z",
@@ -2157,22 +2161,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Jeremiah Chiu – Some All None",
+        "s": "2026-04-24T15:00:00Z",
+        "e": "2026-04-24T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jeremiahchiu"
       }
     ],
     "rinse": [
-      {
-        "n": "Jeremy Sylvester",
-        "s": "2026-04-17T13:00:00Z",
-        "e": "2026-04-17T15:00:00Z",
-        "d": null,
-        "j": "Garage Paradise Sessions",
-        "u": null,
-        "t": "monthly",
-        "p": "jeremysylvester",
-        "ap": [
-          "paradise"
-        ]
-      },
       {
         "n": "Dance Regular",
         "s": "2026-04-17T15:00:00Z",
@@ -2249,7 +2250,7 @@
         "p": "clementaum"
       },
       {
-        "n": "Playlist",
+        "n": "Electronic Playlist",
         "s": "2026-04-18T02:00:00Z",
         "e": "2026-04-18T05:00:00Z",
         "d": null,
@@ -2364,35 +2365,15 @@
         "p": "romanflgel"
       },
       {
-        "n": "Rinse HQ Series",
+        "n": "Deekapz",
         "s": "2026-04-18T22:00:00Z",
         "e": "2026-04-18T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Rinse HQ142",
         "u": null
       }
     ],
     "rinsefr": [
-      {
-        "n": "Queer Cult",
-        "s": "2026-04-17T14:00:00Z",
-        "e": "2026-04-17T15:00:00Z",
-        "d": null,
-        "j": "DJ Monique : House of Destruction",
-        "u": null,
-        "t": "weekly",
-        "p": "queercult"
-      },
-      {
-        "n": "Misantropical",
-        "s": "2026-04-17T15:00:00Z",
-        "e": "2026-04-17T16:00:00Z",
-        "d": null,
-        "j": "invite ESCOBUTT",
-        "u": null,
-        "t": "biweekly",
-        "p": "misantropical"
-      },
       {
         "n": "BAÏLE avec MAÏA",
         "s": "2026-04-17T16:00:00Z",
@@ -2516,15 +2497,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "HANGTIME RADIO",
-        "s": "2026-04-17T13:00:00Z",
-        "e": "2026-04-17T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "FREAKY FRIDAYS",
         "s": "2026-04-17T15:00:00Z",
