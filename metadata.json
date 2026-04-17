@@ -1,18 +1,10 @@
 {
   "v": 2,
-  "updated": "2026-04-17T09:08:29.751Z",
+  "updated": "2026-04-17T10:47:15.235Z",
   "stations": {
     "nts1": [
       {
-        "n": "The NTS Breakfast Show w/ Ruby Savage",
-        "s": "2026-04-17T09:00:00+01:00",
-        "e": "2026-04-17T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-ruby-savage-17th-april-2026"
-      },
-      {
-        "n": "SOUP TO NUTS W/ Pawa Speed Sports & DJ DNDY",
+        "n": "SOUP TO NUTS W/ Pawa Speed Sports, DJ DNDY, DRILL SCOTT HERON & POZZY",
         "s": "2026-04-17T11:00:00+01:00",
         "e": "2026-04-17T13:00:00+01:00",
         "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
@@ -23,9 +15,9 @@
         "n": "PUM PUM POWER HOUR W/ LIL C",
         "s": "2026-04-17T13:00:00+01:00",
         "e": "2026-04-17T14:00:00+01:00",
-        "d": null,
+        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
         "j": "LIL C",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-17th-april-2026",
         "t": "biweekly",
         "p": "lilc"
       },
@@ -164,17 +156,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA & Spraoi Mór",
+        "s": "2026-04-18T10:00:00+01:00",
+        "e": "2026-04-18T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "macca"
       }
     ],
     "nts2": [
-      {
-        "n": "SWISS UNDERGROUND RITOURNELLES w/ WAGNER LOVE",
-        "s": "2026-04-17T10:00:00+01:00",
-        "e": "2026-04-17T11:00:00+01:00",
-        "d": "Songs in the fields, on mountain ridges, along rivers, in cellars and caves. In the shade of arid surfaces, where the wild things and our rich swiss underground ritournelles are  <3",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-swiss-underground-ritournelles-w-wagner-love-17th-april-2026"
-      },
       {
         "n": "In Focus: David Munrow",
         "s": "2026-04-17T11:00:00+01:00",
@@ -188,9 +181,9 @@
         "n": "Orpheu The Wizard",
         "s": "2026-04-17T13:00:00+01:00",
         "e": "2026-04-17T14:00:00+01:00",
-        "d": null,
+        "d": "Amsterdam selector Orpheu The Wizard connects oddball and straight forward jams from different decades and different record shelves in a monthly show. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/orpheu-the-wizard/episodes/orpheu-the-wizard-17th-april-2026",
         "t": "monthly"
       },
       {
@@ -344,17 +337,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Ozzy",
-        "s": "2026-04-17T09:00:00Z",
-        "e": "2026-04-17T10:00:00Z",
+        "n": "88 Keys To Heaven w/ Mystery Season",
+        "s": "2026-04-18T09:00:00+01:00",
+        "e": "2026-04-18T10:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Systema Naturae by lucii.",
         "s": "2026-04-17T10:00:00Z",
@@ -1556,6 +1549,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Household",
+        "s": "2026-04-24T10:00:00Z",
+        "e": "2026-04-24T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2163,15 +2165,6 @@
     ],
     "rinse": [
       {
-        "n": "The Rinse Breakfast Show",
-        "s": "2026-04-17T08:00:00Z",
-        "e": "2026-04-17T10:00:00Z",
-        "d": null,
-        "j": "I. JORDAN & ELL MURPHY",
-        "u": null,
-        "p": "ijordan"
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-04-17T10:00:00Z",
         "e": "2026-04-17T13:00:00Z",
@@ -2209,18 +2202,23 @@
         "s": "2026-04-17T17:00:00Z",
         "e": "2026-04-17T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Love Room, Croatia",
         "u": null,
         "t": "biweekly",
         "p": "ellaknight"
       },
       {
-        "n": "X CLUB.",
+        "n": "X CLUB. presents HIDE THE JUNK",
         "s": "2026-04-17T19:00:00Z",
         "e": "2026-04-17T21:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Dusky",
+        "u": null,
+        "t": "monthly",
+        "p": "dusky",
+        "ap": [
+          "xclub"
+        ]
       },
       {
         "n": "PXSSY PALACE",
@@ -2354,7 +2352,7 @@
         "s": "2026-04-18T17:00:00Z",
         "e": "2026-04-18T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "we love to playhouse",
         "u": null,
         "t": "monthly",
         "p": "cassy"
@@ -2374,7 +2372,7 @@
         "s": "2026-04-18T21:00:00Z",
         "e": "2026-04-18T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Groove Is In The Heart",
         "u": null,
         "t": "biweekly",
         "p": "romanflgel"
@@ -2559,15 +2557,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-04-17T05:00:00Z",
-        "e": "2026-04-17T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "MILES PER HOUR",
         "s": "2026-04-17T10:00:00Z",
