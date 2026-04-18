@@ -1,43 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-18T12:41:10.130Z",
+  "updated": "2026-04-18T14:35:07.183Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ROSS ALLEN",
-        "s": "2026-04-18T12:00:00+01:00",
-        "e": "2026-04-18T14:00:00+01:00",
-        "d": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ross-allen/episodes/ross-allen-18th-april-2026",
-        "t": "biweekly",
-        "p": "rossallen"
-      },
-      {
-        "n": "JAMES MASSIAH",
-        "s": "2026-04-18T14:00:00+01:00",
-        "e": "2026-04-18T15:00:00+01:00",
-        "d": "From dub and dancehall to acid house and grime, London DJ, producer, and poet James Massiah showcases his references and creative influences",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-new-funk-breakfast-show/episodes/the-new-funk-breakfast-show-18th-april-2026",
-        "t": "monthly"
-      },
       {
         "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
         "s": "2026-04-18T15:00:00+01:00",
         "e": "2026-04-18T17:00:00+01:00",
-        "d": null,
+        "d": "Long time record collector and purveyor of fine musical flavours Mr. Pedro cooks up a banquet of aural delights every other week: afrobeat to disco and more, time to liven up. ",
         "j": "MR PEDRO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-extended-play-sessions/episodes/the-extended-play-sessions-18th-april-2026",
         "t": "biweekly"
       },
       {
         "n": "LAST RESORT",
         "s": "2026-04-18T17:00:00+01:00",
         "e": "2026-04-18T18:00:00+01:00",
-        "d": null,
+        "d": "A swift hour long excursion into the unknown. Expect the unexpected from host Tom Cathcart as almost anything goes: techno, post-punk, minimal synth, dub and new wave. Don’t be a prude.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/last-resort/episodes/last-resort-18th-april-2026",
         "t": "monthly",
         "p": "lastresort"
       },
@@ -173,42 +154,44 @@
         "u": null,
         "t": "monthly",
         "p": "corticeps"
+      },
+      {
+        "n": "KIT GRILL",
+        "s": "2026-04-19T16:00:00+01:00",
+        "e": "2026-04-19T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kitgrill"
+      },
+      {
+        "n": "ALL TRADES W/ CHUGGY",
+        "s": "2026-04-19T17:00:00+01:00",
+        "e": "2026-04-19T19:00:00+01:00",
+        "d": null,
+        "j": "CHUGGY",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "ANDY VOTEL'S RANDOMONIUM",
-        "s": "2026-04-18T13:00:00+01:00",
-        "e": "2026-04-18T14:00:00+01:00",
-        "d": "The legend that is Andy Votel strolls into our Manchester studio once a month to play a portion of his record collection selected at random. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/andy-votel/episodes/andy-votel-18th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ZOUK ROULETTE W/ VINCENT TAJAN",
-        "s": "2026-04-18T14:00:00+01:00",
-        "e": "2026-04-18T15:00:00+01:00",
-        "d": "ZOUK ROULETTE is a multiform project by Vincent Tajan highlighting Caribbean French West Indies. \nFrom the host: _\"The show focuses exclusively on Martinique's and Guadeloupe's music in the 80s & 90s. \nRecorded live at Benzene studio, Paris / Thanks Lionel Boutang \nArtwork by Sarah Martin\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/vincent-tajan/episodes/vincent-tajan-18th-april-2026"
-      },
-      {
         "n": "ACROSS THE HORIZON W/ BOB HOLMES (SUSS)",
         "s": "2026-04-18T15:00:00+01:00",
         "e": "2026-04-18T16:00:00+01:00",
-        "d": null,
+        "d": "Across the Horizon is a bold exploration of where Americana’s roots intersect with the boundless expanse of ambient music. Hosted by Bob Holmes, member of SUSS, and host of the popular Ambient Country podcast, this unique program invites you into a realm where sound becomes landscape, and music transcends genre, inviting listeners to wander through vast, uncharted spaces of sonic possibility.\nFrom the host: \"Bob Holmes from SUSS plays music at the intersectrion of instrumental, ambient, experimental and Americana, featuring artists and tracks that have recently appeared on his Across the Horizon podcast series.\"",
         "j": "BOB HOLMES (SUSS)",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bob-holmes/episodes/bob-holmes-18th-april-2026",
         "t": "monthly"
       },
       {
         "n": "Nac/Hut Report",
         "s": "2026-04-18T16:00:00+01:00",
         "e": "2026-04-18T17:00:00+01:00",
-        "d": null,
+        "d": "Warsaw duo Nac/Hut Report share an hour of inspirations in an hour long guest show.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nac-hut-report-18th-april-2026"
       },
       {
         "n": "ANNABEL FRASER",
@@ -342,29 +325,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SIC RECORDS (R)",
+        "s": "2026-04-19T13:00:00+01:00",
+        "e": "2026-04-19T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "sicrecords"
+      },
+      {
+        "n": "CHILDREN OF ZEUS",
+        "s": "2026-04-19T14:00:00+01:00",
+        "e": "2026-04-19T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Live & Direct w/ Hannah",
-        "s": "2026-04-18T12:00:00Z",
-        "e": "2026-04-18T13:00:00Z",
-        "d": "Live & Direct is the show that promises to make you dance and make you laugh, with your fave tunes that make you go 'Rahhh ain't hear this in time' and all the cheesy jokes from me, Hannah :) Lock in for the sickest guests and the most relatable stories about daily slips and hilarious situations I find myself in.",
-        "j": "Hannah",
-        "u": null,
-        "t": "biweekly",
-        "p": "hannah"
-      },
-      {
-        "n": "DaiSu",
-        "s": "2026-04-18T13:00:00Z",
-        "e": "2026-04-18T14:00:00Z",
-        "d": "Bristol-born and London-based, Not Bad For A Girl resident DaiSu has been involved in the music scene since 2018 and has featured on stations such as Radio 1 Dance, BBC 6 Music and Melodic Distraction, as well as playing on line ups for Keep Hush, Skiddle and Red Bull. Her penchant for bass, breaks and 2-step has landed her gigs supporting acts such as Interplanetary Criminal, Main Phase, Craigie Knowes and Big Ang. In September 2022, her debut EP ‘Lightwork’ was released with Gather Records and was featured in DJ Mag's staff picks that same month. ",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "daisu"
-      },
       {
         "n": "Admund",
         "s": "2026-04-18T14:00:00Z",
@@ -1591,6 +1573,24 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Collectors' Cuts",
+        "s": "2026-04-25T13:00:00Z",
+        "e": "2026-04-25T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "SPD",
+        "s": "2026-04-25T14:00:00Z",
+        "e": "2026-04-25T15:00:00Z",
+        "d": "Midlands born, London based producer and DJ influenced by UK funky, broken techno, garage and early dubstep. \r\n\r\nHas released on Keysound recordings, RKS, eatmybeat, ec2a, Durkle Disco and Dimsum records",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2195,16 +2195,6 @@
     ],
     "rinse": [
       {
-        "n": "Counter Culture",
-        "s": "2026-04-18T12:00:00Z",
-        "e": "2026-04-18T14:00:00Z",
-        "d": null,
-        "j": "Palace Vinyl",
-        "u": null,
-        "t": "monthly",
-        "p": "counterculture"
-      },
-      {
         "n": "Serenda",
         "s": "2026-04-18T14:00:00Z",
         "e": "2026-04-18T15:00:00Z",
@@ -2420,25 +2410,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Yaël Ohayon",
-        "s": "2026-04-18T12:00:00Z",
-        "e": "2026-04-18T13:00:00Z",
-        "d": null,
-        "j": "invite MUTE",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Human Disease Network",
-        "s": "2026-04-18T13:00:00Z",
-        "e": "2026-04-18T14:00:00Z",
-        "d": null,
-        "j": "Présente Buzz Kill",
-        "u": null,
-        "t": "biweekly",
-        "p": "humandiseasenetwork"
-      },
-      {
         "n": "Bunkaball",
         "s": "2026-04-18T14:00:00Z",
         "e": "2026-04-18T15:00:00Z",
@@ -2567,15 +2538,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "DON BOY 718 SPORTS",
-        "s": "2026-04-18T12:00:00Z",
-        "e": "2026-04-18T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "SATURDAYS WITH MR. L",
         "s": "2026-04-18T14:00:00Z",
