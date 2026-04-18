@@ -1,54 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-18T01:26:59.254Z",
+  "updated": "2026-04-18T04:25:27.787Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOBBS (R)",
-        "s": "2026-04-18T01:00:00+01:00",
-        "e": "2026-04-18T03:00:00+01:00",
-        "d": "MOBBS chopping up whatever he finds \nohm.mobbs@protonmail.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mobbs/episodes/mobbs-19th-july-2024",
-        "t": "restream",
-        "p": "mobbs"
-      },
-      {
-        "n": "KHARTOUM ARRIVALS W/ BASMA (R)",
-        "s": "2026-04-18T03:00:00+01:00",
-        "e": "2026-04-18T04:00:00+01:00",
-        "d": "Nubian songs from northern Sudan and southern Egypt.",
-        "j": "BASMA",
-        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-13th-october-2024",
-        "t": "restream",
-        "p": "basma"
-      },
-      {
-        "n": "GiGi FM (R)",
-        "s": "2026-04-18T04:00:00+01:00",
-        "e": "2026-04-18T05:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "gigifm"
-      },
       {
         "n": "Japan Blues (R)",
         "s": "2026-04-18T05:00:00+01:00",
         "e": "2026-04-18T07:00:00+01:00",
-        "d": null,
+        "d": "The finest London selection of Japanese grooves, from the 30s to 80s, and more. Anything from folk, jazz, psychedelia, new wave, soul, disco and electronic, all Made In Japan. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/japanblues/episodes/japanblues-17th-february-2024",
         "t": "restream"
       },
       {
         "n": "Post-Geography (R)",
         "s": "2026-04-18T07:00:00+01:00",
         "e": "2026-04-18T08:00:00+01:00",
-        "d": null,
+        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-17th-june-2022",
         "t": "restream",
         "p": "postgeography"
       },
@@ -170,35 +140,44 @@
         "j": "Sketchbook Radio",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "IN FOCUS: TAKASHI YOSHIMATSU (E)",
+        "s": "2026-04-19T06:00:00+01:00",
+        "e": "2026-04-19T07:30:00+01:00",
+        "d": null,
+        "j": "TAKASHI YOSHIMATSU (E)",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "MARTIN NEWELL'S ODDCASTE",
+        "s": "2026-04-19T07:30:00+01:00",
+        "e": "2026-04-19T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "SOPHIA ZHURAVKOVA",
+        "s": "2026-04-19T08:00:00+01:00",
+        "e": "2026-04-19T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "sophiazhuravkova"
       }
     ],
     "nts2": [
       {
-        "n": "DARK ENTRIES w/ Josh Cheon (R)",
-        "s": "2026-04-18T02:00:00+01:00",
-        "e": "2026-04-18T03:00:00+01:00",
-        "d": "Dark Entries reissues archival and contemporary gems that prove to be crucial to our modern idea of bodily music that exists out of time. Electro, italo, cold wave, new beat, house, techno from a one-of-a-kind digger who visits dusty basements to rescue lost tapes.\nFrom host: \"Tribute to Keith McIvor\"",
-        "j": "Josh Cheon",
-        "u": "https://www.nts.live/api/v2/shows/dark-entries-record/episodes/dark-entries-record-16th-october-2025",
-        "t": "restream"
-      },
-      {
-        "n": "FLOATING POINTS (R)",
-        "s": "2026-04-18T03:00:00+01:00",
-        "e": "2026-04-18T05:00:00+01:00",
-        "d": "Sam Shepherd a.k.a Floating Points barely needs introduction. Cataloguing depths uncharted to expose some of the best jazz, soul, rare groove and disco around. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/floating-points/episodes/floating-points-20th-november-2023",
-        "t": "restream",
-        "p": "floatingpoints"
-      },
-      {
         "n": "Popstar Benny (R)",
         "s": "2026-04-18T05:00:00+01:00",
         "e": "2026-04-18T06:00:00+01:00",
-        "d": null,
+        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-10th-september-2024",
         "t": "restream",
         "p": "popstarbenny"
       },
@@ -206,9 +185,9 @@
         "n": "sound of the new class",
         "s": "2026-04-18T06:00:00+01:00",
         "e": "2026-04-18T07:00:00+01:00",
-        "d": null,
+        "d": "some time ago i came across the idea that ambient music didn’t truly begin with artists like brian eno, but can be traced back to classical music and its power to shift listeners into different states of mind. guided by that thought, i’ve been exploring and collecting contemporary works that use classical instruments while pushing further into ambient territories. This is a selection of pieces released between 2010 and 2025.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-sound-of-the-new-class-18th-april-2026"
       },
       {
         "n": "I WALK YOU DRIVE w/ KONSTANTINA YAN",
@@ -331,28 +310,35 @@
         "j": null,
         "u": null,
         "p": "bergsonist"
+      },
+      {
+        "n": "Xavisphone",
+        "s": "2026-04-18T23:00:00+01:00",
+        "e": "2026-04-19T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Ben Sims",
+        "s": "2026-04-19T00:00:00+01:00",
+        "e": "2026-04-19T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bensims"
       }
     ],
     "subtle": [
       {
-        "n": "Negative Pace",
-        "s": "2026-04-18T01:00:00Z",
-        "e": "2026-04-18T02:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-04-18T03:00:00Z",
+        "e": "2026-04-18T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "negativepace"
-      },
-      {
-        "n": "CARLOS!",
-        "s": "2026-04-18T02:00:00Z",
-        "e": "2026-04-18T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "carlos"
+        "t": "playlist"
       },
       {
         "n": "call curtis",
@@ -1562,19 +1548,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Kid Contra",
+        "s": "2026-04-25T02:00:00Z",
+        "e": "2026-04-25T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kidcontra"
+      },
+      {
+        "n": "drewdrew",
+        "s": "2026-04-25T03:00:00Z",
+        "e": "2026-04-25T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Desmond - Cool Spot Selections",
-        "s": "2026-04-18T01:00:00Z",
-        "e": "2026-04-18T03:00:00Z",
-        "d": null,
-        "j": "Cool Spot Selections",
-        "u": null,
-        "t": "monthly",
-        "p": "desmond"
-      },
       {
         "n": "Greg Belson - 45 live",
         "s": "2026-04-18T03:00:00Z",
@@ -2154,19 +2149,22 @@
         "u": null,
         "t": "monthly",
         "p": "morpho"
+      },
+      {
+        "n": "Mamabear - The Honey Pot",
+        "s": "2026-04-25T03:00:00Z",
+        "e": "2026-04-25T05:00:00Z",
+        "d": null,
+        "j": "The Honey Pot",
+        "u": null,
+        "t": "monthly",
+        "p": "honey",
+        "ap": [
+          "mamabear"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "VNEE",
-        "s": "2026-04-18T01:00:00Z",
-        "e": "2026-04-18T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "vnee"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-04-18T02:00:00Z",
@@ -2177,14 +2175,14 @@
         "t": "playlist"
       },
       {
-        "n": "Mr. Redley",
+        "n": "Katy B",
         "s": "2026-04-18T05:00:00Z",
         "e": "2026-04-18T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "mrredley"
+        "p": "katyb"
       },
       {
         "n": "Playlist",
@@ -2196,9 +2194,164 @@
         "t": "playlist"
       },
       {
-        "n": "Phonica Records",
+        "n": "Breakfast with Joe Innes",
         "s": "2026-04-18T08:00:00Z",
         "e": "2026-04-18T10:00:00Z",
+        "d": null,
+        "j": "(Shuffle 'N' Swing)",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Hi-Fidelity with Bambi",
+        "s": "2026-04-18T10:00:00Z",
+        "e": "2026-04-18T12:00:00Z",
+        "d": null,
+        "j": "Guohan",
+        "u": null,
+        "t": "biweekly",
+        "p": "bambi"
+      },
+      {
+        "n": "Counter Culture",
+        "s": "2026-04-18T12:00:00Z",
+        "e": "2026-04-18T14:00:00Z",
+        "d": null,
+        "j": "Palace Vinyl",
+        "u": null,
+        "t": "monthly",
+        "p": "counterculture"
+      },
+      {
+        "n": "Serenda",
+        "s": "2026-04-18T14:00:00Z",
+        "e": "2026-04-18T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "serenda"
+      },
+      {
+        "n": "Juba",
+        "s": "2026-04-18T15:00:00Z",
+        "e": "2026-04-18T16:00:00Z",
+        "d": null,
+        "j": "Azzi On The Beat",
+        "u": null,
+        "t": "biweekly",
+        "p": "juba"
+      },
+      {
+        "n": "Oscar Farrell",
+        "s": "2026-04-18T16:00:00Z",
+        "e": "2026-04-18T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "oscarfarrell"
+      },
+      {
+        "n": "Cassy",
+        "s": "2026-04-18T17:00:00Z",
+        "e": "2026-04-18T19:00:00Z",
+        "d": null,
+        "j": "we love to playhouse",
+        "u": null,
+        "t": "biweekly",
+        "p": "cassy"
+      },
+      {
+        "n": "ADIEL",
+        "s": "2026-04-18T19:00:00Z",
+        "e": "2026-04-18T21:00:00Z",
+        "d": null,
+        "j": "Adiel Club Series - Episode 2",
+        "u": null,
+        "t": "biweekly",
+        "p": "adiel"
+      },
+      {
+        "n": "Roman Flügel",
+        "s": "2026-04-18T21:00:00Z",
+        "e": "2026-04-18T22:00:00Z",
+        "d": null,
+        "j": "Groove Is In The Heart",
+        "u": null,
+        "t": "biweekly",
+        "p": "romanflgel"
+      },
+      {
+        "n": "Deekapz",
+        "s": "2026-04-18T22:00:00Z",
+        "e": "2026-04-18T23:00:00Z",
+        "d": null,
+        "j": "Rinse HQ142",
+        "u": null
+      },
+      {
+        "n": "Cormac",
+        "s": "2026-04-18T23:00:00Z",
+        "e": "2026-04-19T00:00:00Z",
+        "d": null,
+        "j": "Fred Terror",
+        "u": null,
+        "t": "biweekly",
+        "p": "cormac"
+      },
+      {
+        "n": "MASTERplano",
+        "s": "2026-04-19T00:00:00Z",
+        "e": "2026-04-19T01:00:00Z",
+        "d": null,
+        "j": "POLLY",
+        "u": null,
+        "t": "biweekly",
+        "p": "masterplano"
+      },
+      {
+        "n": "VNEE",
+        "s": "2026-04-19T01:00:00Z",
+        "e": "2026-04-19T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "vnee"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-04-19T02:00:00Z",
+        "e": "2026-04-19T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Mr. Redley",
+        "s": "2026-04-19T05:00:00Z",
+        "e": "2026-04-19T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "mrredley"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-04-19T06:00:00Z",
+        "e": "2026-04-19T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Phonica Records",
+        "s": "2026-04-19T08:00:00Z",
+        "e": "2026-04-19T10:00:00Z",
         "d": null,
         "j": "Luther Vine",
         "u": null,
@@ -2206,8 +2359,8 @@
       },
       {
         "n": "Russ Ryan",
-        "s": "2026-04-18T10:00:00Z",
-        "e": "2026-04-18T12:00:00Z",
+        "s": "2026-04-19T10:00:00Z",
+        "e": "2026-04-19T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2216,8 +2369,8 @@
       },
       {
         "n": "CoOp Presents",
-        "s": "2026-04-18T12:00:00Z",
-        "e": "2026-04-18T14:00:00Z",
+        "s": "2026-04-19T12:00:00Z",
+        "e": "2026-04-19T14:00:00Z",
         "d": null,
         "j": "IG Culture and Alex Phountzi",
         "u": null,
@@ -2225,8 +2378,8 @@
       },
       {
         "n": "Supa D",
-        "s": "2026-04-18T14:00:00Z",
-        "e": "2026-04-18T16:00:00Z",
+        "s": "2026-04-19T14:00:00Z",
+        "e": "2026-04-19T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2234,8 +2387,8 @@
       },
       {
         "n": "El Londo",
-        "s": "2026-04-18T16:00:00Z",
-        "e": "2026-04-18T17:00:00Z",
+        "s": "2026-04-19T16:00:00Z",
+        "e": "2026-04-19T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2244,8 +2397,8 @@
       },
       {
         "n": "Bok Bok",
-        "s": "2026-04-18T17:00:00Z",
-        "e": "2026-04-18T18:00:00Z",
+        "s": "2026-04-19T17:00:00Z",
+        "e": "2026-04-19T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2254,8 +2407,8 @@
       },
       {
         "n": "Night Slugs",
-        "s": "2026-04-18T18:00:00Z",
-        "e": "2026-04-18T19:00:00Z",
+        "s": "2026-04-19T18:00:00Z",
+        "e": "2026-04-19T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2264,8 +2417,8 @@
       },
       {
         "n": "Oblig",
-        "s": "2026-04-18T19:00:00Z",
-        "e": "2026-04-18T22:00:00Z",
+        "s": "2026-04-19T19:00:00Z",
+        "e": "2026-04-19T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2274,8 +2427,8 @@
       },
       {
         "n": "Lu.Re",
-        "s": "2026-04-18T22:00:00Z",
-        "e": "2026-04-18T23:00:00Z",
+        "s": "2026-04-19T22:00:00Z",
+        "e": "2026-04-19T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2308,7 +2461,8 @@
         "e": "2026-04-18T13:00:00Z",
         "d": null,
         "j": "Finesse : Fallon invite Les Nubians",
-        "u": null
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Blokys",
@@ -2363,15 +2517,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "RADIO PARTY",
-        "s": "2026-04-18T01:00:00Z",
-        "e": "2026-04-18T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Restream",
         "s": "2026-04-18T04:00:00Z",
