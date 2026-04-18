@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-18T14:35:07.183Z",
+  "updated": "2026-04-18T16:29:18.482Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
-        "s": "2026-04-18T15:00:00+01:00",
-        "e": "2026-04-18T17:00:00+01:00",
-        "d": "Long time record collector and purveyor of fine musical flavours Mr. Pedro cooks up a banquet of aural delights every other week: afrobeat to disco and more, time to liven up. ",
-        "j": "MR PEDRO",
-        "u": "https://www.nts.live/api/v2/shows/the-extended-play-sessions/episodes/the-extended-play-sessions-18th-april-2026",
-        "t": "biweekly"
-      },
       {
         "n": "LAST RESORT",
         "s": "2026-04-18T17:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "SWEET TOOTH W/ ALFIE WHITEMAN",
         "s": "2026-04-18T18:00:00+01:00",
         "e": "2026-04-18T19:00:00+01:00",
-        "d": null,
+        "d": "Sweet selections from director and photographer Alfie Whiteman.",
         "j": "ALFIE WHITEMAN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/alfie-whiteman/episodes/alfie-whiteman-18th-april-2026",
         "t": "monthly",
         "p": "alfiewhiteman"
       },
@@ -48,6 +39,14 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Perfect Sound Forever",
+        "s": "2026-04-18T22:00:00+01:00",
+        "e": "2026-04-19T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "NTS GUIDE TO: HOLY MINIMALISM (R)",
@@ -177,29 +176,12 @@
     ],
     "nts2": [
       {
-        "n": "ACROSS THE HORIZON W/ BOB HOLMES (SUSS)",
-        "s": "2026-04-18T15:00:00+01:00",
-        "e": "2026-04-18T16:00:00+01:00",
-        "d": "Across the Horizon is a bold exploration of where Americana’s roots intersect with the boundless expanse of ambient music. Hosted by Bob Holmes, member of SUSS, and host of the popular Ambient Country podcast, this unique program invites you into a realm where sound becomes landscape, and music transcends genre, inviting listeners to wander through vast, uncharted spaces of sonic possibility.\nFrom the host: \"Bob Holmes from SUSS plays music at the intersectrion of instrumental, ambient, experimental and Americana, featuring artists and tracks that have recently appeared on his Across the Horizon podcast series.\"",
-        "j": "BOB HOLMES (SUSS)",
-        "u": "https://www.nts.live/api/v2/shows/bob-holmes/episodes/bob-holmes-18th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Nac/Hut Report",
-        "s": "2026-04-18T16:00:00+01:00",
-        "e": "2026-04-18T17:00:00+01:00",
-        "d": "Warsaw duo Nac/Hut Report share an hour of inspirations in an hour long guest show.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nac-hut-report-18th-april-2026"
-      },
-      {
         "n": "ANNABEL FRASER",
         "s": "2026-04-18T17:00:00+01:00",
         "e": "2026-04-18T19:00:00+01:00",
-        "d": null,
+        "d": "Annabel Fraser is a lover of music first and foremost. Not genres. Tune in for her monthly 2 hour show…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/annabel-fraser/episodes/annabel-fraser-18th-april-2026",
         "t": "monthly",
         "p": "annabelfraser"
       },
@@ -207,9 +189,9 @@
         "n": "MUTUALISM",
         "s": "2026-04-18T19:00:00+01:00",
         "e": "2026-04-18T20:00:00+01:00",
-        "d": null,
+        "d": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mutualism/episodes/mutualism-18th-april-2026",
         "p": "mutualism"
       },
       {
@@ -344,28 +326,29 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Admund",
-        "s": "2026-04-18T14:00:00Z",
-        "e": "2026-04-18T15:00:00Z",
-        "d": "Vinyl DJ from Leigh-on-Sea. Loves collecting records with a wide array of taste ranging from House and Techno to Grime, Dubstep and Jungle. Garage holds a special place in his heart and makes up the largest part of my collection and DJ sets. ",
+        "n": "Abena",
+        "s": "2026-04-19T15:00:00+01:00",
+        "e": "2026-04-19T16:00:00+01:00",
+        "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "admund"
+        "p": "abena"
       },
       {
-        "n": "Bunker",
-        "s": "2026-04-18T15:00:00Z",
-        "e": "2026-04-18T16:00:00Z",
-        "d": "DJ & Producer hailing from Watford influenced by Hip-Hop, Dubstep, Grime with releases on NSX records & Ghost Phone, spinning electronic genres from R&B edits, Drum and Bass and everything in between.",
+        "n": "EDV3CTOR",
+        "s": "2026-04-19T16:00:00+01:00",
+        "e": "2026-04-19T17:00:00+01:00",
+        "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "monthly",
+        "p": "edv3ctor"
+      }
+    ],
+    "subtle": [
       {
         "n": "Hurst",
         "s": "2026-04-18T16:00:00Z",
@@ -1591,27 +1574,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Tyrant",
+        "s": "2026-04-25T15:00:00Z",
+        "e": "2026-04-25T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-18T11:00:00Z",
-        "e": "2026-04-18T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-18T15:00:00Z",
-        "e": "2026-04-18T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "JF Chen",
         "s": "2026-04-18T16:00:00Z",
@@ -2191,29 +2165,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
+        "s": "2026-04-25T15:00:00Z",
+        "e": "2026-04-25T17:00:00Z",
+        "d": null,
+        "j": "The Sweeter the Juice",
+        "u": null,
+        "t": "biweekly",
+        "p": "illcamille"
       }
     ],
     "rinse": [
-      {
-        "n": "Serenda",
-        "s": "2026-04-18T14:00:00Z",
-        "e": "2026-04-18T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "serenda"
-      },
-      {
-        "n": "Juba",
-        "s": "2026-04-18T15:00:00Z",
-        "e": "2026-04-18T16:00:00Z",
-        "d": null,
-        "j": "Azzi On The Beat",
-        "u": null,
-        "t": "biweekly",
-        "p": "juba"
-      },
       {
         "n": "Oscar Farrell",
         "s": "2026-04-18T16:00:00Z",
@@ -2410,26 +2374,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Bunkaball",
-        "s": "2026-04-18T14:00:00Z",
-        "e": "2026-04-18T15:00:00Z",
-        "d": null,
-        "j": "invite Don Rimini",
-        "u": null,
-        "t": "monthly",
-        "p": "bunkaball"
-      },
-      {
-        "n": "Shampain",
-        "s": "2026-04-18T15:00:00Z",
-        "e": "2026-04-18T16:00:00Z",
-        "d": null,
-        "j": "Cathedral (en direct d'Ormside Projects)",
-        "u": null,
-        "t": "biweekly",
-        "p": "shampain"
-      },
-      {
         "n": "SYLVERE",
         "s": "2026-04-18T16:00:00Z",
         "e": "2026-04-18T17:00:00Z",
@@ -2538,15 +2482,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "SATURDAYS WITH MR. L",
-        "s": "2026-04-18T14:00:00Z",
-        "e": "2026-04-18T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "THE BLACK POP SHOW",
         "s": "2026-04-18T16:00:00Z",
