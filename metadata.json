@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-18T20:27:18.337Z",
+  "updated": "2026-04-18T22:25:11.425Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CHERRIE FLAVA",
-        "s": "2026-04-18T20:00:00+01:00",
-        "e": "2026-04-18T22:00:00+01:00",
-        "d": "Cherrie Flava, the boss of MIC Records, the London label behind releases from LAPS, Mike Collins, Lord Tusk & more, joins us once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mic-records/episodes/mic-records-18th-april-2026",
-        "t": "monthly"
-      },
       {
         "n": "Perfect Sound Forever",
         "s": "2026-04-18T22:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "NTS GUIDE TO: HOLY MINIMALISM (R)",
         "s": "2026-04-19T00:00:00+01:00",
         "e": "2026-04-19T02:00:00+01:00",
-        "d": null,
+        "d": "A two-hour selection of the late 20th Century composers who harnessed the blossoming new style of minimalist and neo-romantic music, infusing their work with mystic or religious themes. Featuring sounds from Arvo Pärt, John Tavener and others.",
         "j": "HOLY MINIMALISM",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-holy-minimalism-9th-august-2024",
         "t": "restream"
       },
       {
@@ -171,43 +162,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO & Last Nubian",
+        "s": "2026-04-19T22:00:00+01:00",
+        "e": "2026-04-20T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "midnightmarauders"
       }
     ],
     "nts2": [
       {
-        "n": "KIM LANA",
-        "s": "2026-04-18T20:00:00+01:00",
-        "e": "2026-04-18T22:00:00+01:00",
-        "d": "Todmorden's finest, Kim Lana joins us in the Manchester studio once a month for 2 hours of bumping and pumping golden era house & techno.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kim-lana/episodes/kim-lana-18th-april-2026",
-        "t": "monthly",
-        "p": "kimlana"
-      },
-      {
-        "n": "BERGSONIST",
-        "s": "2026-04-18T22:00:00+01:00",
-        "e": "2026-04-18T23:00:00+01:00",
-        "d": "Bergsonist is a musician originally from Morocco based in NYC. Genre-free sonic explorations with occasional conversations/guest mixes featuring inspiring artists.\nFrom the host: \"This month, playing solo, sharing a mix of old favorites and newer tracks I’ve been into lately, along with a preview of select songs from my upcoming album \"Depths\" on Dark Entries (out May1st)! https://bergsonist.bandcamp.com/album/depths\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bergsonist/episodes/bergsonist-18th-april-2026",
-        "p": "bergsonist"
-      },
-      {
         "n": "Xavisphone",
         "s": "2026-04-18T23:00:00+01:00",
         "e": "2026-04-19T00:00:00+01:00",
-        "d": null,
+        "d": "A “putaria masterclass” from speaker breaking funk producer and DJ Xavisphone. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/xavisphone-18th-april-2026"
       },
       {
         "n": "Ben Sims",
         "s": "2026-04-19T00:00:00+01:00",
         "e": "2026-04-19T02:00:00+01:00",
-        "d": null,
+        "d": "‘Run it Red’ sees bona fide techno legend Ben Sims showcases 2 hrs of the finest new house and techno he can lay his hands on.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ben-sims/episodes/ben-sims-19th-april-2026",
         "t": "monthly",
         "p": "bensims"
       },
@@ -344,28 +325,25 @@
         "j": "ECCENTRIC BOOGIE SPECIAL ‘23",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Fixed Abode w/ Rainy Miller",
+        "s": "2026-04-19T20:00:00+01:00",
+        "e": "2026-04-19T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "All Night Flight w/ Handbook In Motion",
+        "s": "2026-04-19T21:00:00+01:00",
+        "e": "2026-04-19T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Eklekt1k",
-        "s": "2026-04-18T20:00:00Z",
-        "e": "2026-04-18T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "eklekt1k"
-      },
-      {
-        "n": "The Wheel Up Show w/ Tripta",
-        "s": "2026-04-18T21:00:00Z",
-        "e": "2026-04-18T22:00:00Z",
-        "d": null,
-        "j": "Tripta",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Deep Diving w/ DJ Nøthing",
         "s": "2026-04-18T22:00:00Z",
@@ -1582,19 +1560,19 @@
         "u": null,
         "t": "biweekly",
         "p": "biscuitboy"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Elyn Kazarian – Her Vision Her Voice",
-        "s": "2026-04-18T19:00:00Z",
-        "e": "2026-04-18T21:00:00Z",
+        "n": "Undercurrent / .CO.UK",
+        "s": "2026-04-25T21:00:00Z",
+        "e": "2026-04-25T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "elynkazarian"
-      },
+        "p": "undercurrent"
+      }
+    ],
+    "dublab": [
       {
         "n": "Beats of All-Nations",
         "s": "2026-04-18T21:00:00Z",
@@ -2177,29 +2155,19 @@
         "j": "Sound Study",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Derelict - Damage Control",
+        "s": "2026-04-25T21:00:00Z",
+        "e": "2026-04-25T23:00:00Z",
+        "d": null,
+        "j": "Damage Control",
+        "u": null,
+        "t": "monthly",
+        "p": "derelict"
       }
     ],
     "rinse": [
-      {
-        "n": "ADIEL",
-        "s": "2026-04-18T19:00:00Z",
-        "e": "2026-04-18T21:00:00Z",
-        "d": null,
-        "j": "Adiel Club Series - Episode 2",
-        "u": null,
-        "t": "biweekly",
-        "p": "adiel"
-      },
-      {
-        "n": "Roman Flügel",
-        "s": "2026-04-18T21:00:00Z",
-        "e": "2026-04-18T22:00:00Z",
-        "d": null,
-        "j": "Groove Is In The Heart",
-        "u": null,
-        "t": "biweekly",
-        "p": "romanflgel"
-      },
       {
         "n": "Deekapz",
         "s": "2026-04-18T22:00:00Z",
@@ -2357,15 +2325,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-18T18:00:00Z",
-        "e": "2026-04-18T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-18T22:00:00Z",
         "e": "2026-04-19T07:00:00Z",
         "d": null,
@@ -2444,15 +2403,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "SQUINTZ & RACOONS MORNING ZOO IN THE AFTERNOON",
-        "s": "2026-04-18T20:00:00Z",
-        "e": "2026-04-18T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "DISCO JUICE",
         "s": "2026-04-18T22:00:00Z",
