@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-18T10:32:43.866Z",
+  "updated": "2026-04-18T12:41:10.130Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ Spraoi Mór",
-        "s": "2026-04-18T10:00:00+01:00",
-        "e": "2026-04-18T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-18th-april-2026"
-      },
       {
         "n": "ROSS ALLEN",
         "s": "2026-04-18T12:00:00+01:00",
@@ -25,9 +17,9 @@
         "n": "JAMES MASSIAH",
         "s": "2026-04-18T14:00:00+01:00",
         "e": "2026-04-18T15:00:00+01:00",
-        "d": null,
+        "d": "From dub and dancehall to acid house and grime, London DJ, producer, and poet James Massiah showcases his references and creative influences",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-new-funk-breakfast-show/episodes/the-new-funk-breakfast-show-18th-april-2026",
         "t": "monthly"
       },
       {
@@ -171,43 +163,35 @@
         "u": null,
         "t": "monthly",
         "p": "tommasi"
+      },
+      {
+        "n": "CORTICEPS W/ MINUS KENDAL",
+        "s": "2026-04-19T14:00:00+01:00",
+        "e": "2026-04-19T16:00:00+01:00",
+        "d": null,
+        "j": "MINUS KENDAL",
+        "u": null,
+        "t": "monthly",
+        "p": "corticeps"
       }
     ],
     "nts2": [
       {
-        "n": "Smithsonian Folkways - Outer Space (R)",
-        "s": "2026-04-18T11:00:00+01:00",
-        "e": "2026-04-18T12:00:00+01:00",
-        "d": "Regular hours from the D.C. archivists and record label, famed for uncovering + documenting folk and global traditional music. ",
-        "j": "Outer Space",
-        "u": "https://www.nts.live/api/v2/shows/smithsonian-folkways/episodes/smithsonian-folkways-22nd-december-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Just A Thought w/ Bunny Hoova",
-        "s": "2026-04-18T12:00:00+01:00",
-        "e": "2026-04-18T13:00:00+01:00",
-        "d": "Oldham, UK composer producer and performance artist plus44Kaligula presents a reimagining of the 1950s BBC radio series \"Listen With Mother\", attempting to seek order in chaos, tracing how stories persist and distort.\nFrom the host: \"Bunny Hoova: A Carrot Is As Close As A Rabbit Gets To A Diamond\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/plus44kaligula/episodes/plus44kaligula-18th-april-2026",
-        "p": "bunnyhoova"
-      },
-      {
         "n": "ANDY VOTEL'S RANDOMONIUM",
         "s": "2026-04-18T13:00:00+01:00",
         "e": "2026-04-18T14:00:00+01:00",
-        "d": null,
+        "d": "The legend that is Andy Votel strolls into our Manchester studio once a month to play a portion of his record collection selected at random. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/andy-votel/episodes/andy-votel-18th-april-2026",
         "t": "monthly"
       },
       {
         "n": "ZOUK ROULETTE W/ VINCENT TAJAN",
         "s": "2026-04-18T14:00:00+01:00",
         "e": "2026-04-18T15:00:00+01:00",
-        "d": null,
+        "d": "ZOUK ROULETTE is a multiform project by Vincent Tajan highlighting Caribbean French West Indies. \nFrom the host: _\"The show focuses exclusively on Martinique's and Guadeloupe's music in the 80s & 90s. \nRecorded live at Benzene studio, Paris / Thanks Lionel Boutang \nArtwork by Sarah Martin\"_",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/vincent-tajan/episodes/vincent-tajan-18th-april-2026"
       },
       {
         "n": "ACROSS THE HORIZON W/ BOB HOLMES (SUSS)",
@@ -340,27 +324,27 @@
         "u": null,
         "t": "restream",
         "p": "thecosmictonesresearchtrio"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Luc presents: Cable",
-        "s": "2026-04-18T10:00:00Z",
-        "e": "2026-04-18T11:00:00Z",
-        "d": null,
-        "j": "Cable",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Dean Lyon",
-        "s": "2026-04-18T11:00:00Z",
-        "e": "2026-04-18T12:00:00Z",
+        "n": "COUNTRY HAYRIDE",
+        "s": "2026-04-19T11:00:00+01:00",
+        "e": "2026-04-19T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "countryhayride"
       },
+      {
+        "n": "TOUGH MATTER",
+        "s": "2026-04-19T12:00:00+01:00",
+        "e": "2026-04-19T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Live & Direct w/ Hannah",
         "s": "2026-04-18T12:00:00Z",
@@ -1589,13 +1573,31 @@
         "u": null,
         "t": "biweekly",
         "p": "afroasis"
+      },
+      {
+        "n": "Solid Moves w/ Sophia & Ronaldo",
+        "s": "2026-04-25T11:00:00Z",
+        "e": "2026-04-25T12:00:00Z",
+        "d": null,
+        "j": "Sophia & Ronaldo",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Rich Rose",
+        "s": "2026-04-25T12:00:00Z",
+        "e": "2026-04-25T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-18T09:00:00Z",
-        "e": "2026-04-18T11:00:00Z",
+        "s": "2026-04-18T11:00:00Z",
+        "e": "2026-04-18T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1603,8 +1605,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-18T11:00:00Z",
-        "e": "2026-04-18T15:00:00Z",
+        "s": "2026-04-18T15:00:00Z",
+        "e": "2026-04-18T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2180,19 +2182,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-25T11:00:00Z",
+        "e": "2026-04-25T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Hi-Fidelity with Bambi",
-        "s": "2026-04-18T10:00:00Z",
-        "e": "2026-04-18T12:00:00Z",
-        "d": null,
-        "j": "Guohan",
-        "u": null,
-        "t": "biweekly",
-        "p": "bambi"
-      },
       {
         "n": "Counter Culture",
         "s": "2026-04-18T12:00:00Z",
@@ -2419,15 +2420,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-04-18T07:00:00Z",
-        "e": "2026-04-18T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Yaël Ohayon",
         "s": "2026-04-18T12:00:00Z",
         "e": "2026-04-18T13:00:00Z",
@@ -2575,15 +2567,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-04-18T04:00:00Z",
-        "e": "2026-04-18T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "DON BOY 718 SPORTS",
         "s": "2026-04-18T12:00:00Z",
