@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-18T06:57:26.168Z",
+  "updated": "2026-04-18T08:39:16.639Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Post-Geography (R)",
-        "s": "2026-04-18T07:00:00+01:00",
-        "e": "2026-04-18T08:00:00+01:00",
-        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-17th-june-2022",
-        "t": "restream",
-        "p": "postgeography"
-      },
       {
         "n": "SOUNDS OF THE DAWN",
         "s": "2026-04-18T08:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA & Spraoi Mór",
         "s": "2026-04-18T10:00:00+01:00",
         "e": "2026-04-18T12:00:00+01:00",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-18th-april-2026",
         "p": "macca"
       },
       {
@@ -172,40 +162,33 @@
         "ap": [
           "theahd"
         ]
+      },
+      {
+        "n": "THE SLIP",
+        "s": "2026-04-19T10:00:00+01:00",
+        "e": "2026-04-19T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "I WALK YOU DRIVE w/ KONSTANTINA YAN",
-        "s": "2026-04-18T07:00:00+01:00",
-        "e": "2026-04-18T08:00:00+01:00",
-        "d": "Walking is falling deep into dreams, floating through fantasies; it doesn't matter where you step. A mix for a submersive journey through a sonic, flowing, earthy palette.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-i-walk-you-drive-w-konstantina-yan-18th-april-2026"
-      },
-      {
-        "n": "Yugoslav New Wave Classics ’70s–’80s w/ Johana",
-        "s": "2026-04-18T08:00:00+01:00",
-        "e": "2026-04-18T09:00:00+01:00",
-        "d": "A love letter to “Novi talas/Novi val”: Yugoslav new wave and post-punk from the late ’70s–’80s. Political wit, art-school cool, and DIY urgency - music that still feels dangerously alive. I grew up with these records playing at home, so putting this together feels like coming back to them.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-yugoslav-new-wave-classics-70s--80s-w-johana-18th-april-2026"
-      },
-      {
         "n": "88 Keys To Heaven w/ Mystery Season",
         "s": "2026-04-18T09:00:00+01:00",
         "e": "2026-04-18T10:00:00+01:00",
-        "d": null,
+        "d": "88 white and black keys to another world\nA homage to one of my favourite instruments taking us through modern day jazz arpeggiating into legends of mystical harmony through key changes into wild euphoric explorations, unreleased gems culminating in a finale of some truly timeless classical.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-88-keys-to-heaven-w-mystery-season-18th-april-2026"
       },
       {
         "n": "‘Vuci di Sicilia’ w/ Daniele Mizar",
         "s": "2026-04-18T10:00:00+01:00",
         "e": "2026-04-18T11:00:00+01:00",
-        "d": null,
+        "d": "A portrait of Sicily through sound: devotional laments, canti popolari, field recordings and modern reinterpretations woven into 1hr of Mediterranean memory from an island shaped by migration and ritual. Artwork courtesy of Roberto di Alicudi, whose glass paintings embody Sicily’s luminous spirit.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-vuci-di-sicilia-w-daniele-mizar-18th-april-2026"
       },
       {
         "n": "Smithsonian Folkways - Outer Space (R)",
@@ -333,6 +316,26 @@
         "u": null,
         "t": "restream",
         "p": "nosedrip"
+      },
+      {
+        "n": "Rio Doce (R)",
+        "s": "2026-04-19T05:00:00+01:00",
+        "e": "2026-04-19T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "riodoce"
+      },
+      {
+        "n": "RAHILL (R)",
+        "s": "2026-04-19T07:00:00+01:00",
+        "e": "2026-04-19T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "rahill"
       }
     ],
     "subtle": [
@@ -1572,26 +1575,32 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Afroasis",
+        "s": "2026-04-25T07:00:00Z",
+        "e": "2026-04-25T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "afroasis"
       }
     ],
     "dublab": [
       {
-        "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
-        "s": "2026-04-18T05:00:00Z",
-        "e": "2026-04-18T07:00:00Z",
-        "d": null,
-        "j": "Bears in Space",
-        "u": null,
-        "t": "monthly",
-        "p": "chrisbowen",
-        "ap": [
-          "victorrodriguez"
-        ]
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-04-18T07:00:00Z",
         "e": "2026-04-18T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-18T09:00:00Z",
+        "e": "2026-04-18T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2167,18 +2176,18 @@
         "ap": [
           "basement"
         ]
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-04-18T06:00:00Z",
-        "e": "2026-04-18T08:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-04-25T07:00:00Z",
+        "e": "2026-04-25T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Breakfast with Joe Innes",
         "s": "2026-04-18T08:00:00Z",
@@ -2425,15 +2434,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-17T22:00:00Z",
-        "e": "2026-04-18T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-18T07:00:00Z",
         "e": "2026-04-18T12:00:00Z",
         "d": null,
@@ -2442,9 +2442,95 @@
         "t": "playlist"
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "Yaël Ohayon",
         "s": "2026-04-18T12:00:00Z",
         "e": "2026-04-18T13:00:00Z",
+        "d": null,
+        "j": "invite MUTE",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Human Disease Network",
+        "s": "2026-04-18T13:00:00Z",
+        "e": "2026-04-18T14:00:00Z",
+        "d": null,
+        "j": "Présente Buzz Kill",
+        "u": null,
+        "t": "biweekly",
+        "p": "humandiseasenetwork"
+      },
+      {
+        "n": "Bunkaball",
+        "s": "2026-04-18T14:00:00Z",
+        "e": "2026-04-18T15:00:00Z",
+        "d": null,
+        "j": "invite Don Rimini",
+        "u": null,
+        "t": "monthly",
+        "p": "bunkaball"
+      },
+      {
+        "n": "Shampain",
+        "s": "2026-04-18T15:00:00Z",
+        "e": "2026-04-18T16:00:00Z",
+        "d": null,
+        "j": "Cathedral (en direct d'Ormside Projects)",
+        "u": null,
+        "t": "biweekly",
+        "p": "shampain"
+      },
+      {
+        "n": "SYLVERE",
+        "s": "2026-04-18T16:00:00Z",
+        "e": "2026-04-18T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "sylvere"
+      },
+      {
+        "n": "Tijolo Records",
+        "s": "2026-04-18T17:00:00Z",
+        "e": "2026-04-18T18:00:00Z",
+        "d": null,
+        "j": "ROOMPUNX",
+        "u": null,
+        "t": "biweekly",
+        "p": "tijolorecords"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-18T18:00:00Z",
+        "e": "2026-04-18T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-18T22:00:00Z",
+        "e": "2026-04-19T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-19T07:00:00Z",
+        "e": "2026-04-19T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-04-19T12:00:00Z",
+        "e": "2026-04-19T13:00:00Z",
         "d": null,
         "j": "Finesse : Fallon invite Les Nubians",
         "u": null,
@@ -2452,8 +2538,8 @@
       },
       {
         "n": "Blokys",
-        "s": "2026-04-18T13:00:00Z",
-        "e": "2026-04-18T14:00:00Z",
+        "s": "2026-04-19T13:00:00Z",
+        "e": "2026-04-19T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2461,8 +2547,8 @@
       },
       {
         "n": "Promesses",
-        "s": "2026-04-18T14:00:00Z",
-        "e": "2026-04-18T16:00:00Z",
+        "s": "2026-04-19T14:00:00Z",
+        "e": "2026-04-19T16:00:00Z",
         "d": null,
         "j": "invite olga dust",
         "u": null,
@@ -2471,8 +2557,8 @@
       },
       {
         "n": "Jokkoo Collective",
-        "s": "2026-04-18T16:00:00Z",
-        "e": "2026-04-18T17:00:00Z",
+        "s": "2026-04-19T16:00:00Z",
+        "e": "2026-04-19T17:00:00Z",
         "d": null,
         "j": "Brother2Brother",
         "u": null,
@@ -2484,8 +2570,8 @@
       },
       {
         "n": "MUTEK",
-        "s": "2026-04-18T17:00:00Z",
-        "e": "2026-04-18T18:00:00Z",
+        "s": "2026-04-19T17:00:00Z",
+        "e": "2026-04-19T18:00:00Z",
         "d": null,
         "j": "invite ROLROLROL",
         "u": null,
@@ -2494,8 +2580,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-04-18T18:00:00Z",
-        "e": "2026-04-18T19:00:00Z",
+        "s": "2026-04-19T18:00:00Z",
+        "e": "2026-04-19T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
