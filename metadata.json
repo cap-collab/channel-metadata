@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-19T20:27:44.075Z",
+  "updated": "2026-04-19T22:26:21.211Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ONE FOR SURYA'S DAD - ILAIYARAAJA SPECIAL W/ JULIEN DECHERY AND DAVID PINHAS",
-        "s": "2026-04-19T21:00:00+01:00",
-        "e": "2026-04-19T22:00:00+01:00",
-        "d": "Julien Dechery and David Pinhas trace composer Ilaiyaraaja’ meteoric rise - one that reshaped Tamil film music forever - through folk-leaning early masterpieces from the late 70s. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/one-for-surya-s-dad-ilaiyaraaja-special-w-julien-dechery-and-david-pinhas-19th-april-2026"
-      },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO & Last Nubian",
         "s": "2026-04-19T22:00:00+01:00",
@@ -24,9 +16,10 @@
         "n": "LIVE AT THE CLINIC w/ FATBOI SHARIF AKA DJ PORNO CYBORG",
         "s": "2026-04-20T00:00:00+01:00",
         "e": "2026-04-20T01:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "LIVE AT THE CLINIC (or LATC for short) is an artist-led initiative founded by shadowy London beatmaker and US Rap collaborator psychedelic ensemble. Currently, the LATC umbrella includes a record label, and this monthly radio show on NTS, unravelling an hour-long assemblage of grimy instrumentals and edits.\nFrom the host: \"Psychedelic Ensemble. invites Fatboi Sharif AKA DJ Porno Cyborg for a guest mix live at THE CLINIC.\"",
+        "j": "FATBOI SHARIF AKA DJ PORNO CYBORG",
+        "u": "https://www.nts.live/api/v2/shows/psychedelic-ensemble/episodes/psychedelic-ensemble-20th-april-2026",
+        "t": "monthly"
       },
       {
         "n": "Noise In My Head w/ PLO Man (R)",
@@ -164,17 +157,19 @@
         "u": null,
         "t": "monthly",
         "p": "lungdart"
+      },
+      {
+        "n": "TORN HAWK",
+        "s": "2026-04-20T23:00:00+01:00",
+        "e": "2026-04-21T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "tornhawk"
       }
     ],
     "nts2": [
-      {
-        "n": "All Night Flight w/ Handbook In Motion",
-        "s": "2026-04-19T21:00:00+01:00",
-        "e": "2026-04-19T22:00:00+01:00",
-        "d": "A winding journey through the catalogue of All Night Flight's Stockport record store, spanning from modern classical and free-flowing jazz to a wide soundscape of dark ambient, folk and techno… with All Night Flight, anything goes!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/all-night-flight/episodes/all-night-flight-19th-april-2026"
-      },
       {
         "n": "OKONKOLE Y TROMPA W/ PAM & VICTOR DE ROO (R)",
         "s": "2026-04-19T22:00:00+01:00",
@@ -189,9 +184,9 @@
         "n": "West Coast DIY Pop 2006-2015 w/ Matty Terrones",
         "s": "2026-04-20T00:00:00+01:00",
         "e": "2026-04-20T01:00:00+01:00",
-        "d": null,
+        "d": "If you were a participant of the West Coast DIY touring circuit between the years of 2006 and 2015, chances are you would have come across these bands playing in some decrepit basement in Seattle or a collectively-run anarchist cafe in San Diego. This music is for tender hearts with pop sensibilities. This music is soft. This music is as free as the roads that take us from place to place, drifting along from rest stop to rest stop as the coastal breeze washes against the car.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-west-coast-diy-pop-2006-2015-w-matty-terrones-20th-april-2026"
       },
       {
         "n": "ghostly harmonies w/ heavyyawn",
@@ -316,28 +311,18 @@
         "j": null,
         "u": null,
         "p": "zuli"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Off-Switch Audio",
-        "s": "2026-04-19T20:00:00Z",
-        "e": "2026-04-19T21:00:00Z",
+        "n": "ANTHONY CHALMERS",
+        "s": "2026-04-20T17:00:00+01:00",
+        "e": "2026-04-20T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
-      {
-        "n": "SPOTLIGHT EVENTS ",
-        "s": "2026-04-19T21:00:00Z",
-        "e": "2026-04-19T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "spotlight"
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "htypeproduky",
         "s": "2026-04-19T22:00:00Z",
@@ -1556,19 +1541,18 @@
         "ap": [
           "celebritybitcrush"
         ]
+      },
+      {
+        "n": "Drusbă",
+        "s": "2026-04-26T22:00:00Z",
+        "e": "2026-04-26T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Barbarelle - Atlas",
-        "s": "2026-04-19T19:00:00Z",
-        "e": "2026-04-19T21:00:00Z",
-        "d": null,
-        "j": "Atlas",
-        "u": null,
-        "t": "monthly",
-        "p": "barbarelle"
-      },
       {
         "n": "body / negative - cloud music",
         "s": "2026-04-19T21:00:00Z",
@@ -2123,18 +2107,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Logan Sama feat. Merky ACE",
-        "s": "2026-04-19T20:00:00Z",
-        "e": "2026-04-19T22:00:00Z",
+        "n": "Def Sound",
+        "s": "2026-04-26T21:00:00Z",
+        "e": "2026-04-26T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "logansama"
-      },
+        "t": "monthly",
+        "p": "defsound"
+      }
+    ],
+    "rinse": [
       {
         "n": "Lu.Re",
         "s": "2026-04-19T22:00:00Z",
@@ -2326,15 +2311,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-19T18:00:00Z",
-        "e": "2026-04-19T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-19T22:00:00Z",
         "e": "2026-04-20T07:00:00Z",
         "d": null,
@@ -2426,15 +2402,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "RADIO CLASH",
-        "s": "2026-04-19T20:00:00Z",
-        "e": "2026-04-19T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "BIG CATZ RADIO",
         "s": "2026-04-19T22:00:00Z",
