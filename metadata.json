@@ -1,24 +1,14 @@
 {
   "v": 2,
-  "updated": "2026-04-19T12:40:25.771Z",
+  "updated": "2026-04-19T14:35:57.923Z",
   "stations": {
     "nts1": [
       {
-        "n": "Tommasi",
-        "s": "2026-04-19T12:00:00+01:00",
-        "e": "2026-04-19T14:00:00+01:00",
-        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-19th-april-2026",
-        "t": "monthly",
-        "p": "tommasi"
-      },
-      {
-        "n": "CORTICEPS W/ MINUS KENDAL",
+        "n": "CORTICEPS W/ MINUS KENDAL & KULKU (LIVE)",
         "s": "2026-04-19T14:00:00+01:00",
         "e": "2026-04-19T16:00:00+01:00",
         "d": "Minus Kendal trods the outer reaches foraging for aural morsels, slinging you a monthly smorgasbord of sultry sonix from trenchcoat folk to silicone synthwave.",
-        "j": "MINUS KENDAL",
+        "j": "MINUS KENDAL & KULKU (LIVE)",
         "u": "https://www.nts.live/api/v2/shows/corticeps/episodes/corticeps-19th-april-2026",
         "t": "monthly",
         "p": "corticeps"
@@ -27,20 +17,19 @@
         "n": "KIT GRILL",
         "s": "2026-04-19T16:00:00+01:00",
         "e": "2026-04-19T17:00:00+01:00",
-        "d": null,
+        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kit-grill/episodes/kit-grill-19th-april-2026",
         "t": "monthly",
         "p": "kitgrill"
       },
       {
-        "n": "ALL TRADES W/ CHUGGY",
+        "n": "All Trades w/ Chuggy & Picasso",
         "s": "2026-04-19T17:00:00+01:00",
         "e": "2026-04-19T19:00:00+01:00",
         "d": null,
-        "j": "CHUGGY",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "JANIE JONES",
@@ -141,13 +130,13 @@
         "u": null
       },
       {
-        "n": "Soup To Nuts w/ John Gómez",
+        "n": "Soup To Nuts w/ Fauzia",
         "s": "2026-04-20T11:00:00+01:00",
         "e": "2026-04-20T13:00:00+01:00",
         "d": null,
-        "j": "John Gómez",
+        "j": null,
         "u": null,
-        "t": "weekly"
+        "p": "fauzia"
       },
       {
         "n": "PATRICK FORGE",
@@ -166,35 +155,25 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "FROM THE DEPTHS W/ DRAKEFORD",
+        "s": "2026-04-20T16:00:00+01:00",
+        "e": "2026-04-20T18:00:00+01:00",
+        "d": null,
+        "j": "DRAKEFORD",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "SIC RECORDS (R)",
-        "s": "2026-04-19T13:00:00+01:00",
-        "e": "2026-04-19T14:00:00+01:00",
-        "d": "Vaporwave meets hip hop for an hour a month. Enjoy The SIC Records experience today.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sic-records/episodes/sic-records-15th-august-2024",
-        "t": "restream",
-        "p": "sicrecords"
-      },
-      {
-        "n": "CHILDREN OF ZEUS",
-        "s": "2026-04-19T14:00:00+01:00",
-        "e": "2026-04-19T15:00:00+01:00",
-        "d": "Children of Zeus's Konny Kon takes over our Manchester studio once a month to play upfront Soul, Classic Hip Hop & New RnB.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/children-of-zeus/episodes/children-of-zeus-19th-april-2026",
-        "t": "monthly"
-      },
-      {
         "n": "Abena",
         "s": "2026-04-19T15:00:00+01:00",
         "e": "2026-04-19T16:00:00+01:00",
-        "d": null,
+        "d": "All Hands On Deck co-founder Abena jumps on once a month - music to help loosen your joints, live from the Manchester studio. Expect dub, techno & a bit of ambient.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abena/episodes/abena-19th-april-2026",
         "t": "monthly",
         "p": "abena"
       },
@@ -202,9 +181,9 @@
         "n": "EDV3CTOR",
         "s": "2026-04-19T16:00:00+01:00",
         "e": "2026-04-19T17:00:00+01:00",
-        "d": null,
+        "d": "Leeds scene leader and DJ edv3ctor presents archival and contemporary selections from his personal archive, exploring rhythms, sounds, and moods past and present.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/edv3ctor/episodes/edv3ctor-19th-april-2026",
         "t": "monthly",
         "p": "edv3ctor"
       },
@@ -323,28 +302,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Solo instruments w/ Guillaume F",
+        "s": "2026-04-20T09:00:00+01:00",
+        "e": "2026-04-20T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "60's BEAT AND SURF INVASION IN EUROPE W/ Booogie Jack",
+        "s": "2026-04-20T10:00:00+01:00",
+        "e": "2026-04-20T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "ItsJermayne",
-        "s": "2026-04-19T12:00:00Z",
-        "e": "2026-04-19T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "itsjermayne"
-      },
-      {
-        "n": " What's The Weather, Selecta? w/ Megan Wroe",
-        "s": "2026-04-19T13:00:00Z",
-        "e": "2026-04-19T14:00:00Z",
-        "d": null,
-        "j": "Megan Wroe",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Chaitu",
         "s": "2026-04-19T14:00:00Z",
@@ -1553,18 +1529,28 @@
         "j": "VIOLENTLYILL",
         "u": null,
         "t": "biweekly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs",
-        "s": "2026-04-19T12:00:00Z",
-        "e": "2026-04-19T14:00:00Z",
+        "n": " Sarah Jones",
+        "s": "2026-04-26T13:00:00Z",
+        "e": "2026-04-26T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "sarahjones"
       },
+      {
+        "n": "LIT CLIPS w/ DVS",
+        "s": "2026-04-26T14:00:00Z",
+        "e": "2026-04-26T15:00:00Z",
+        "d": null,
+        "j": "DVS",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "djjs 2",
         "s": "2026-04-19T14:00:00Z",
@@ -2119,18 +2105,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "djjs 2",
+        "s": "2026-04-26T14:00:00Z",
+        "e": "2026-04-26T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "CoOp Presents",
-        "s": "2026-04-19T12:00:00Z",
-        "e": "2026-04-19T14:00:00Z",
-        "d": null,
-        "j": "IG Culture and Alex Phountzi",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Supa D",
         "s": "2026-04-19T14:00:00Z",
@@ -2145,7 +2131,7 @@
         "s": "2026-04-19T16:00:00Z",
         "e": "2026-04-19T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Billzonthebeat",
         "u": null,
         "t": "monthly",
         "p": "ellondo"
@@ -2155,7 +2141,7 @@
         "s": "2026-04-19T17:00:00Z",
         "e": "2026-04-19T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Blood Moon EP Warmup -  100% Bok Productions",
         "u": null,
         "t": "biweekly",
         "p": "bokbok"
@@ -2173,12 +2159,21 @@
       {
         "n": "Oblig",
         "s": "2026-04-19T19:00:00Z",
-        "e": "2026-04-19T22:00:00Z",
+        "e": "2026-04-19T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly",
         "p": "oblig"
+      },
+      {
+        "n": "Logan Sama feat. Merky ACE",
+        "s": "2026-04-19T20:00:00Z",
+        "e": "2026-04-19T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "logansama"
       },
       {
         "n": "Lu.Re",
@@ -2305,7 +2300,7 @@
         "s": "2026-04-20T14:00:00Z",
         "e": "2026-04-20T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Tony Tokyo",
         "u": null,
         "t": "weekly"
       },
@@ -2349,13 +2344,12 @@
         "p": "hessleaudio"
       },
       {
-        "n": "Tasha",
+        "n": "Tasha B2B Victor",
         "s": "2026-04-20T21:00:00Z",
         "e": "2026-04-20T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Open Ground",
         "u": null,
-        "t": "biweekly",
         "p": "tasha"
       },
       {
@@ -2370,23 +2364,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Rinse France Guest Show",
-        "s": "2026-04-19T12:00:00Z",
-        "e": "2026-04-19T13:00:00Z",
-        "d": null,
-        "j": "Finesse : Fallon invite Les Nubians",
-        "u": null
-      },
-      {
-        "n": "Blokys",
-        "s": "2026-04-19T13:00:00Z",
-        "e": "2026-04-19T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "blokys"
-      },
       {
         "n": "Promesses",
         "s": "2026-04-19T14:00:00Z",
@@ -2522,15 +2499,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "FROM THE HEART OF A POET MORNING SHOW",
-        "s": "2026-04-19T12:00:00Z",
-        "e": "2026-04-19T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "OPEN",
         "s": "2026-04-19T14:00:00Z",
