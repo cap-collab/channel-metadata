@@ -1,43 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-04-19T14:35:57.923Z",
+  "updated": "2026-04-19T16:30:02.332Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CORTICEPS W/ MINUS KENDAL & KULKU (LIVE)",
-        "s": "2026-04-19T14:00:00+01:00",
-        "e": "2026-04-19T16:00:00+01:00",
-        "d": "Minus Kendal trods the outer reaches foraging for aural morsels, slinging you a monthly smorgasbord of sultry sonix from trenchcoat folk to silicone synthwave.",
-        "j": "MINUS KENDAL & KULKU (LIVE)",
-        "u": "https://www.nts.live/api/v2/shows/corticeps/episodes/corticeps-19th-april-2026",
-        "t": "monthly",
-        "p": "corticeps"
-      },
-      {
-        "n": "KIT GRILL",
-        "s": "2026-04-19T16:00:00+01:00",
-        "e": "2026-04-19T17:00:00+01:00",
-        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kit-grill/episodes/kit-grill-19th-april-2026",
-        "t": "monthly",
-        "p": "kitgrill"
-      },
       {
         "n": "All Trades w/ Chuggy & Picasso",
         "s": "2026-04-19T17:00:00+01:00",
         "e": "2026-04-19T19:00:00+01:00",
-        "d": null,
+        "d": "The man behind the various Emotional labels jumps in the NTS cockpit for a chance to show off his expansive taste. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/emotional/episodes/emotional-19th-april-2026"
       },
       {
         "n": "JANIE JONES",
         "s": "2026-04-19T19:00:00+01:00",
         "e": "2026-04-19T20:00:00+01:00",
-        "d": null,
+        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-19th-april-2026",
         "t": "monthly",
         "p": "janiejones"
       },
@@ -164,45 +144,44 @@
         "j": "DRAKEFORD",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-04-20T18:00:00+01:00",
+        "e": "2026-04-20T20:00:00+01:00",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
+      },
+      {
+        "n": "SUNCUT",
+        "s": "2026-04-20T20:00:00+01:00",
+        "e": "2026-04-20T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "Abena",
-        "s": "2026-04-19T15:00:00+01:00",
-        "e": "2026-04-19T16:00:00+01:00",
-        "d": "All Hands On Deck co-founder Abena jumps on once a month - music to help loosen your joints, live from the Manchester studio. Expect dub, techno & a bit of ambient.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/abena/episodes/abena-19th-april-2026",
-        "t": "monthly",
-        "p": "abena"
-      },
-      {
-        "n": "EDV3CTOR",
-        "s": "2026-04-19T16:00:00+01:00",
-        "e": "2026-04-19T17:00:00+01:00",
-        "d": "Leeds scene leader and DJ edv3ctor presents archival and contemporary selections from his personal archive, exploring rhythms, sounds, and moods past and present.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/edv3ctor/episodes/edv3ctor-19th-april-2026",
-        "t": "monthly",
-        "p": "edv3ctor"
-      },
-      {
         "n": "RED LASER RECORDS",
         "s": "2026-04-19T17:00:00+01:00",
         "e": "2026-04-19T19:00:00+01:00",
-        "d": null,
+        "d": "Red Laser Records crew brings Manchester's own blend of Manctalo, Disco & Boogie. A high energy Sunday Buzz guaranteed.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-19th-april-2026",
         "t": "monthly"
       },
       {
         "n": "THE NUMERO GROUP - ECCENTRIC BOOGIE SPECIAL ‘23 (R)",
         "s": "2026-04-19T19:00:00+01:00",
         "e": "2026-04-19T20:00:00+01:00",
-        "d": null,
+        "d": "Chicago-based archival record label, The Numero Group, host a deep-digging once a month show. Expect comprehensive round ups from their crates, picking out the best old music and reissues, as well as some jubilant nerdy record chat.",
         "j": "ECCENTRIC BOOGIE SPECIAL ‘23",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/radio-free-numero/episodes/radio-free-numero-12th-october-2023",
         "t": "restream"
       },
       {
@@ -318,28 +297,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Chaitu",
-        "s": "2026-04-19T14:00:00Z",
-        "e": "2026-04-19T15:00:00Z",
-        "d": "Hailing from Mumbai, now living in London, Chaitu is energised by the UK sound and scene.\r\n\r\nWith a love of all things weird, weighty and groovy; his mixes and productions bridge electro, techno, breaks, UKG and Jungle, with sprinklings of everything in between.\r\n\r\nChaitu champions provocative beats that break down the barriers of style, genre and expectation, all while keeping you moving.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "chaitu"
       },
       {
-        "n": "Dorian Day",
-        "s": "2026-04-19T15:00:00Z",
-        "e": "2026-04-19T16:00:00Z",
+        "n": "AN1MA",
+        "s": "2026-04-20T11:00:00+01:00",
+        "e": "2026-04-20T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Breaking People w/ Noa Kurzweil",
+        "s": "2026-04-20T12:00:00+01:00",
+        "e": "2026-04-20T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "SETTINGS",
         "s": "2026-04-19T16:00:00Z",
@@ -1548,18 +1525,27 @@
         "j": "DVS",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs 2",
-        "s": "2026-04-19T14:00:00Z",
-        "e": "2026-04-19T16:00:00Z",
+        "n": "grounded",
+        "s": "2026-04-26T15:00:00Z",
+        "e": "2026-04-26T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "2Step Selects ",
+        "s": "2026-04-26T16:00:00Z",
+        "e": "2026-04-26T18:00:00Z",
+        "d": "2Step Selects is a monthly show hosted by the Choki Biki Records crew. Founded in Dublin, Ireland, CBR consists of DJ Sharpson, 2step.png, Frame Shift, and MICK. The show consists of an all round breaks, electro, ukg and jungle hour, followed by an Irish showcase, demonstrating all the best Ireland has to offer collective/party/Dj & Producer wise!",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Kenneth Bager - Music for Dreams",
         "s": "2026-04-19T16:00:00Z",
@@ -2114,18 +2100,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-04-26T16:00:00Z",
+        "e": "2026-04-26T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "Supa D",
-        "s": "2026-04-19T14:00:00Z",
-        "e": "2026-04-19T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "El Londo",
         "s": "2026-04-19T16:00:00Z",
@@ -2329,7 +2316,7 @@
         "s": "2026-04-20T18:00:00Z",
         "e": "2026-04-20T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Nowadays Nonstop",
         "u": null,
         "p": "amaliah"
       },
@@ -2364,16 +2351,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Promesses",
-        "s": "2026-04-19T14:00:00Z",
-        "e": "2026-04-19T16:00:00Z",
-        "d": null,
-        "j": "invite olga dust",
-        "u": null,
-        "t": "biweekly",
-        "p": "promesses"
-      },
       {
         "n": "Jokkoo Collective",
         "s": "2026-04-19T16:00:00Z",
@@ -2499,15 +2476,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "OPEN",
-        "s": "2026-04-19T14:00:00Z",
-        "e": "2026-04-19T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "NUMBERS STATION",
         "s": "2026-04-19T16:00:00Z",
