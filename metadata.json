@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-19T07:07:37.331Z",
+  "updated": "2026-04-19T08:43:04.670Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOPHIA ZHURAVKOVA",
-        "s": "2026-04-19T08:00:00+01:00",
-        "e": "2026-04-19T09:00:00+01:00",
-        "d": "Organic soundscapes, field recordings and melodic ambience from composer Sophia Zhuravkova.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sophia-zhuravkova/episodes/sophia-zhuravkova-19th-april-2026",
-        "t": "monthly",
-        "p": "sophiazhuravkova"
-      },
       {
         "n": "THEA HD",
         "s": "2026-04-19T09:00:00+01:00",
@@ -30,9 +20,9 @@
         "n": "THE SLIP",
         "s": "2026-04-19T10:00:00+01:00",
         "e": "2026-04-19T12:00:00+01:00",
-        "d": null,
+        "d": "Rory Bowens heads The Slip on Sunday mornings every other week - squeezing an hour of hazy dub off-shoots, pupil-dilating shoegaze and uncanny dream music.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/theslip/episodes/theslip-19th-april-2026",
         "t": "biweekly"
       },
       {
@@ -171,19 +161,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-04-20T11:00:00+01:00",
+        "e": "2026-04-20T13:00:00+01:00",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "RAHILL (R)",
-        "s": "2026-04-19T07:00:00+01:00",
-        "e": "2026-04-19T09:00:00+01:00",
-        "d": "New York based artist and musician Rahill selects a monthly medley of picks from her record collection, rooted in US jazz, with soul, folk and international sounds.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rahill/episodes/rahill-10th-september-2025",
-        "t": "restream",
-        "p": "rahill"
-      },
       {
         "n": "A MONTH OF SUNDAYS W/ BILL SPENCER (R)",
         "s": "2026-04-19T09:00:00+01:00",
@@ -198,9 +187,9 @@
         "n": "MUSIC FOR A HEALING EARTH W/ THE COSMIC TONES RESEARCH TRIO (R)",
         "s": "2026-04-19T10:00:00+01:00",
         "e": "2026-04-19T11:00:00+01:00",
-        "d": null,
+        "d": "Healing and restorative sonic transmissions for all beings.",
         "j": "THE COSMIC TONES RESEARCH TRIO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-cosmic-tones-research-trio/episodes/the-cosmic-tones-research-trio-6th-may-2025",
         "t": "restream",
         "p": "thecosmictonesresearchtrio"
       },
@@ -336,18 +325,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "G1RL P4RTY W/ DOT",
+        "s": "2026-04-20T04:00:00+01:00",
+        "e": "2026-04-20T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "afters w/ little noises",
-        "s": "2026-04-19T07:00:00Z",
-        "e": "2026-04-19T08:00:00Z",
-        "d": null,
-        "j": "little noises",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "ECHO CHAMBER",
         "s": "2026-04-19T08:00:00Z",
@@ -356,6 +344,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-04-19T09:00:00Z",
+        "e": "2026-04-19T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "tabs",
@@ -2154,15 +2151,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-04-19T06:00:00Z",
-        "e": "2026-04-19T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Phonica Records",
         "s": "2026-04-19T08:00:00Z",
