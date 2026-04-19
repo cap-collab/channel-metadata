@@ -1,41 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-04-19T18:36:11.496Z",
+  "updated": "2026-04-19T20:27:44.075Z",
   "stations": {
     "nts1": [
-      {
-        "n": "JANIE JONES W/ KING GOOSE",
-        "s": "2026-04-19T19:00:00+01:00",
-        "e": "2026-04-19T20:00:00+01:00",
-        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-19th-april-2026",
-        "p": "janiejones"
-      },
-      {
-        "n": "Perfect Lives w/ Bruno & Daniel",
-        "s": "2026-04-19T20:00:00+01:00",
-        "e": "2026-04-19T21:00:00+01:00",
-        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-19th-april-2026",
-        "p": "perfectlives"
-      },
       {
         "n": "ONE FOR SURYA'S DAD - ILAIYARAAJA SPECIAL W/ JULIEN DECHERY AND DAVID PINHAS",
         "s": "2026-04-19T21:00:00+01:00",
         "e": "2026-04-19T22:00:00+01:00",
-        "d": null,
+        "d": "Julien Dechery and David Pinhas trace composer Ilaiyaraaja’ meteoric rise - one that reshaped Tamil film music forever - through folk-leaning early masterpieces from the late 70s. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/one-for-surya-s-dad-ilaiyaraaja-special-w-julien-dechery-and-david-pinhas-19th-april-2026"
       },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO & Last Nubian",
         "s": "2026-04-19T22:00:00+01:00",
         "e": "2026-04-20T00:00:00+01:00",
-        "d": null,
+        "d": "Marsha by name and mellow by nature, MarshmeLLo takes you on a musical journey of all her influences plus a little extra. The first show ever broadcast on the station, Marsha continues to find her groove…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/midnight-marauders/episodes/midnight-marauders-19th-april-2026",
         "p": "midnightmarauders"
       },
       {
@@ -163,42 +145,43 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "ALL FRUITS RIPE W/ JACK SAPSED",
+        "s": "2026-04-20T21:00:00+01:00",
+        "e": "2026-04-20T22:00:00+01:00",
+        "d": null,
+        "j": "JACK SAPSED",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "LUNG DART",
+        "s": "2026-04-20T22:00:00+01:00",
+        "e": "2026-04-20T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lungdart"
       }
     ],
     "nts2": [
       {
-        "n": "THE NUMERO GROUP - ECCENTRIC BOOGIE SPECIAL ‘23 (R)",
-        "s": "2026-04-19T19:00:00+01:00",
-        "e": "2026-04-19T20:00:00+01:00",
-        "d": "Chicago-based archival record label, The Numero Group, host a deep-digging once a month show. Expect comprehensive round ups from their crates, picking out the best old music and reissues, as well as some jubilant nerdy record chat.",
-        "j": "ECCENTRIC BOOGIE SPECIAL ‘23",
-        "u": "https://www.nts.live/api/v2/shows/radio-free-numero/episodes/radio-free-numero-12th-october-2023",
-        "t": "restream"
-      },
-      {
-        "n": "Fixed Abode w/ Y0GA",
-        "s": "2026-04-19T20:00:00+01:00",
-        "e": "2026-04-19T21:00:00+01:00",
-        "d": "Prestonian singer songwriter Rainy Miller presents the progress check, a bi-monthly show playing an hour of archived experiments and influences.",
-        "j": "Y0GA",
-        "u": "https://www.nts.live/api/v2/shows/rainy-miller/episodes/rainy-miller-19th-april-2026",
-        "t": "monthly"
-      },
-      {
         "n": "All Night Flight w/ Handbook In Motion",
         "s": "2026-04-19T21:00:00+01:00",
         "e": "2026-04-19T22:00:00+01:00",
-        "d": null,
+        "d": "A winding journey through the catalogue of All Night Flight's Stockport record store, spanning from modern classical and free-flowing jazz to a wide soundscape of dark ambient, folk and techno… with All Night Flight, anything goes!",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/all-night-flight/episodes/all-night-flight-19th-april-2026"
       },
       {
         "n": "OKONKOLE Y TROMPA W/ PAM & VICTOR DE ROO (R)",
         "s": "2026-04-19T22:00:00+01:00",
         "e": "2026-04-20T00:00:00+01:00",
-        "d": null,
+        "d": "PAM & Satoshi from the blog Okonkole Y Trompa select 2 hours of records from their collection for NTS.",
         "j": "PAM & VICTOR DE ROO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/okonkole-y-trompa/episodes/okonkole-y-trompa-2nd-december-2020",
         "t": "restream",
         "p": "roo"
       },
@@ -315,28 +298,27 @@
         "j": "YAWNING PORTAL",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CXEMA",
+        "s": "2026-04-20T14:00:00+01:00",
+        "e": "2026-04-20T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "cxema"
+      },
+      {
+        "n": "Zuli w/ Elvin Brandhi - 'The Screaming Abdabs' Special",
+        "s": "2026-04-20T15:00:00+01:00",
+        "e": "2026-04-20T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "zuli"
       }
     ],
     "subtle": [
-      {
-        "n": "So Far So Good",
-        "s": "2026-04-19T18:00:00Z",
-        "e": "2026-04-19T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sofarsogood"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-19T19:00:00Z",
-        "e": "2026-04-19T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Off-Switch Audio",
         "s": "2026-04-19T20:00:00Z",
@@ -1552,18 +1534,31 @@
         "j": "EONE",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Burgers – DOSTI",
-        "s": "2026-04-19T17:00:00Z",
-        "e": "2026-04-19T19:00:00Z",
+        "n": "EBITDA",
+        "s": "2026-04-26T19:00:00Z",
+        "e": "2026-04-26T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Subtle.MIX_v4_FINAL w/ Celebrity Bitcrush & Guests",
+        "s": "2026-04-26T20:00:00Z",
+        "e": "2026-04-26T22:00:00Z",
+        "d": null,
+        "j": "Celebrity Bitcrush & Guests",
+        "u": null,
+        "t": "monthly",
+        "p": "guests",
+        "ap": [
+          "celebritybitcrush"
+        ]
+      }
+    ],
+    "dublab": [
       {
         "n": "Barbarelle - Atlas",
         "s": "2026-04-19T19:00:00Z",
@@ -2119,29 +2114,18 @@
         "u": null,
         "t": "monthly",
         "p": "thomasklepper"
+      },
+      {
+        "n": "Flight Club",
+        "s": "2026-04-26T19:00:00Z",
+        "e": "2026-04-26T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Night Slugs",
-        "s": "2026-04-19T18:00:00Z",
-        "e": "2026-04-19T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "nightslugs"
-      },
-      {
-        "n": "Oblig",
-        "s": "2026-04-19T19:00:00Z",
-        "e": "2026-04-19T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "oblig"
-      },
       {
         "n": "Logan Sama feat. Merky ACE",
         "s": "2026-04-19T20:00:00Z",
@@ -2256,7 +2240,7 @@
         "s": "2026-04-20T12:00:00Z",
         "e": "2026-04-20T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Adjani Salmon",
         "u": null,
         "t": "weekly",
         "p": "nakeira"
@@ -2442,15 +2426,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "SUNDAY COMING DOWN",
-        "s": "2026-04-19T18:00:00Z",
-        "e": "2026-04-19T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "RADIO CLASH",
         "s": "2026-04-19T20:00:00Z",
