@@ -1,33 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-19T16:30:02.332Z",
+  "updated": "2026-04-19T18:36:11.496Z",
   "stations": {
     "nts1": [
       {
-        "n": "All Trades w/ Chuggy & Picasso",
-        "s": "2026-04-19T17:00:00+01:00",
-        "e": "2026-04-19T19:00:00+01:00",
-        "d": "The man behind the various Emotional labels jumps in the NTS cockpit for a chance to show off his expansive taste. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/emotional/episodes/emotional-19th-april-2026"
-      },
-      {
-        "n": "JANIE JONES",
+        "n": "JANIE JONES W/ KING GOOSE",
         "s": "2026-04-19T19:00:00+01:00",
         "e": "2026-04-19T20:00:00+01:00",
         "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-19th-april-2026",
-        "t": "monthly",
         "p": "janiejones"
       },
       {
         "n": "Perfect Lives w/ Bruno & Daniel",
         "s": "2026-04-19T20:00:00+01:00",
         "e": "2026-04-19T21:00:00+01:00",
-        "d": null,
+        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-19th-april-2026",
         "p": "perfectlives"
       },
       {
@@ -54,6 +45,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Noise In My Head w/ PLO Man (R)",
+        "s": "2026-04-20T01:00:00+01:00",
+        "e": "2026-04-20T02:00:00+01:00",
+        "d": null,
+        "j": "PLO Man",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Mosca (R)",
@@ -167,15 +167,6 @@
     ],
     "nts2": [
       {
-        "n": "RED LASER RECORDS",
-        "s": "2026-04-19T17:00:00+01:00",
-        "e": "2026-04-19T19:00:00+01:00",
-        "d": "Red Laser Records crew brings Manchester's own blend of Manctalo, Disco & Boogie. A high energy Sunday Buzz guaranteed.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-19th-april-2026",
-        "t": "monthly"
-      },
-      {
         "n": "THE NUMERO GROUP - ECCENTRIC BOOGIE SPECIAL ‘23 (R)",
         "s": "2026-04-19T19:00:00+01:00",
         "e": "2026-04-19T20:00:00+01:00",
@@ -185,12 +176,13 @@
         "t": "restream"
       },
       {
-        "n": "Fixed Abode w/ Rainy Miller",
+        "n": "Fixed Abode w/ Y0GA",
         "s": "2026-04-19T20:00:00+01:00",
         "e": "2026-04-19T21:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Prestonian singer songwriter Rainy Miller presents the progress check, a bi-monthly show playing an hour of archived experiments and influences.",
+        "j": "Y0GA",
+        "u": "https://www.nts.live/api/v2/shows/rainy-miller/episodes/rainy-miller-19th-april-2026",
+        "t": "monthly"
       },
       {
         "n": "All Night Flight w/ Handbook In Motion",
@@ -314,19 +306,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL",
+        "s": "2026-04-20T13:00:00+01:00",
+        "e": "2026-04-20T14:00:00+01:00",
+        "d": null,
+        "j": "YAWNING PORTAL",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "SETTINGS",
-        "s": "2026-04-19T16:00:00Z",
-        "e": "2026-04-19T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "settings"
-      },
       {
         "n": "So Far So Good",
         "s": "2026-04-19T18:00:00Z",
@@ -336,6 +327,15 @@
         "u": null,
         "t": "monthly",
         "p": "sofarsogood"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-04-19T19:00:00Z",
+        "e": "2026-04-19T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Off-Switch Audio",
@@ -1543,19 +1543,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " The Process Show w/ EONE",
+        "s": "2026-04-26T18:00:00Z",
+        "e": "2026-04-26T19:00:00Z",
+        "d": null,
+        "j": "EONE",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-04-19T16:00:00Z",
-        "e": "2026-04-19T17:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly",
-        "p": "kennethbager"
-      },
       {
         "n": "Burgers – DOSTI",
         "s": "2026-04-19T17:00:00Z",
@@ -2110,29 +2109,19 @@
         "u": null,
         "t": "weekly",
         "p": "kennethbager"
+      },
+      {
+        "n": "Thomas Klepper - Library of Sounds",
+        "s": "2026-04-26T17:00:00Z",
+        "e": "2026-04-26T19:00:00Z",
+        "d": null,
+        "j": "Library of Sounds",
+        "u": null,
+        "t": "monthly",
+        "p": "thomasklepper"
       }
     ],
     "rinse": [
-      {
-        "n": "El Londo",
-        "s": "2026-04-19T16:00:00Z",
-        "e": "2026-04-19T17:00:00Z",
-        "d": null,
-        "j": "Billzonthebeat",
-        "u": null,
-        "t": "monthly",
-        "p": "ellondo"
-      },
-      {
-        "n": "Bok Bok",
-        "s": "2026-04-19T17:00:00Z",
-        "e": "2026-04-19T18:00:00Z",
-        "d": null,
-        "j": "Blood Moon EP Warmup -  100% Bok Productions",
-        "u": null,
-        "t": "biweekly",
-        "p": "bokbok"
-      },
       {
         "n": "Night Slugs",
         "s": "2026-04-19T18:00:00Z",
@@ -2352,29 +2341,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Jokkoo Collective",
-        "s": "2026-04-19T16:00:00Z",
-        "e": "2026-04-19T17:00:00Z",
-        "d": null,
-        "j": "Brother2Brother",
-        "u": null,
-        "t": "biweekly",
-        "p": "collective",
-        "ap": [
-          "jokkoocollective"
-        ]
-      },
-      {
-        "n": "MUTEK",
-        "s": "2026-04-19T17:00:00Z",
-        "e": "2026-04-19T18:00:00Z",
-        "d": null,
-        "j": "invite ROLROLROL",
-        "u": null,
-        "t": "biweekly",
-        "p": "mutek"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-04-19T18:00:00Z",
         "e": "2026-04-19T22:00:00Z",
@@ -2476,14 +2442,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "NUMBERS STATION",
-        "s": "2026-04-19T16:00:00Z",
-        "e": "2026-04-19T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "SUNDAY COMING DOWN",
         "s": "2026-04-19T18:00:00Z",
