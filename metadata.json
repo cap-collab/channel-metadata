@@ -1,32 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-20T09:49:45.265Z",
+  "updated": "2026-04-20T11:13:45.559Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ pam",
-        "s": "2026-04-20T09:00:00+01:00",
-        "e": "2026-04-20T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-pam-20th-april-2026"
-      },
       {
         "n": "Soup To Nuts w/ Fauzia",
         "s": "2026-04-20T11:00:00+01:00",
         "e": "2026-04-20T13:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
+        "d": "Let NTS brighten up your lunchtime hours.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-20th-april-2026",
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-fauzia-20th-april-2026",
         "p": "fauzia"
       },
       {
         "n": "PATRICK FORGE",
         "s": "2026-04-20T13:00:00+01:00",
         "e": "2026-04-20T15:00:00+01:00",
-        "d": null,
+        "d": "Tropical rhythms, devotional boogie and soulful shenanigans with a heavy jazz undertone, Patrick Forge gathers it all up for your listening pleasure. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/patrickforge/episodes/patrickforge-20th-april-2026",
         "t": "monthly"
       },
       {
@@ -168,41 +160,34 @@
         "j": null,
         "u": null,
         "p": "anu"
+      },
+      {
+        "n": "NABIHAH IQBAL",
+        "s": "2026-04-21T13:00:00+01:00",
+        "e": "2026-04-21T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nabihahiqbal"
       }
     ],
     "nts2": [
       {
-        "n": "60's BEAT AND SURF INVASION IN EUROPE W/ Booogie Jack",
-        "s": "2026-04-20T10:00:00+01:00",
-        "e": "2026-04-20T11:00:00+01:00",
-        "d": "From France to Portugal, threw Greece and Sweden, a selection of some pop & surf 7\" from the Beat Music Invasion that hit the Europe in the 60's !",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-60-s-beat-and-surf-invasion-in-europe-w-booogie-jack-20th-april-2026"
-      },
-      {
-        "n": "AN1MA",
-        "s": "2026-04-20T11:00:00+01:00",
-        "e": "2026-04-20T12:00:00+01:00",
-        "d": "integration sounds from the source; an invitation into the shadow.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/molinaro",
-        "t": "monthly"
-      },
-      {
         "n": "Breaking People w/ Noa Kurzweil",
         "s": "2026-04-20T12:00:00+01:00",
         "e": "2026-04-20T13:00:00+01:00",
-        "d": null,
+        "d": "Another mixtape, another mistake. Come get broken with Noa Kurzweil (from VOICE ACTOR).",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/voice-actor/episodes/voice-actor-20th-april-2026"
       },
       {
         "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL",
         "s": "2026-04-20T13:00:00+01:00",
         "e": "2026-04-20T14:00:00+01:00",
-        "d": null,
+        "d": "Zzzzzzzzzzzz… Shhhh… There's a baby sleeping in the house!",
         "j": "YAWNING PORTAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/under-sleepy-moon/episodes/under-sleepy-moon-20th-april-2026",
         "t": "monthly"
       },
       {
@@ -333,28 +318,26 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Altered Soul Experiment (R)",
+        "s": "2026-04-21T05:00:00+01:00",
+        "e": "2026-04-21T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Yugoslavian Streetsoul w/ DJ Mihajlo",
+        "s": "2026-04-21T06:00:00+01:00",
+        "e": "2026-04-21T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "The PICKNMIX Show w/ Komanche",
-        "s": "2026-04-20T09:00:00Z",
-        "e": "2026-04-20T10:00:00Z",
-        "d": null,
-        "j": "Komanche",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Sweet Things w/ PXLTERGEIST",
-        "s": "2026-04-20T10:00:00Z",
-        "e": "2026-04-20T11:00:00Z",
-        "d": null,
-        "j": "PXLTERGEIST",
-        "u": null,
-        "t": "monthly",
-        "p": "sweetthings"
-      },
       {
         "n": "Lady Jules",
         "s": "2026-04-20T11:00:00Z",
@@ -1550,13 +1533,23 @@
         "ap": [
           "notabaileradioshow"
         ]
+      },
+      {
+        "n": "ODJO",
+        "s": "2026-04-27T11:00:00Z",
+        "e": "2026-04-27T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "odjo"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-20T09:00:00Z",
-        "e": "2026-04-20T11:00:00Z",
+        "s": "2026-04-20T11:00:00Z",
+        "e": "2026-04-20T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1564,8 +1557,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-20T11:00:00Z",
-        "e": "2026-04-20T13:00:00Z",
+        "s": "2026-04-20T13:00:00Z",
+        "e": "2026-04-20T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2104,25 +2097,6 @@
     ],
     "rinse": [
       {
-        "n": "Tim Garcia",
-        "s": "2026-04-20T08:00:00Z",
-        "e": "2026-04-20T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Donsurf",
-        "s": "2026-04-20T10:00:00Z",
-        "e": "2026-04-20T11:00:00Z",
-        "d": null,
-        "j": "Tom Manzarek",
-        "u": null,
-        "t": "biweekly",
-        "p": "donsurf"
-      },
-      {
         "n": "Niall Smith",
         "s": "2026-04-20T11:00:00Z",
         "e": "2026-04-20T12:00:00Z",
@@ -2412,7 +2386,7 @@
         "s": "2026-04-20T14:00:00Z",
         "e": "2026-04-20T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Boogie 2 The Top",
         "u": null,
         "p": "youngpulse"
       },
