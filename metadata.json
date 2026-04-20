@@ -1,43 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-20T18:53:39.511Z",
+  "updated": "2026-04-20T20:37:46.890Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-04-20T18:00:00+01:00",
-        "e": "2026-04-20T20:00:00+01:00",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": "COCO MARIA",
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-20th-april-2026",
-        "t": "weekly",
-        "p": "cocomaria"
-      },
-      {
-        "n": "SUNCUT",
-        "s": "2026-04-20T20:00:00+01:00",
-        "e": "2026-04-20T21:00:00+01:00",
-        "d": "Tune in to the sound of SUNCUT, boasting a heartfelt selection of some favourite 45’s through to classic bonafide soulful jams.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sun-cut/episodes/sun-cut-20th-april-2026",
-        "t": "biweekly"
-      },
       {
         "n": "ALL FRUITS RIPE W/ JACK SAPSED",
         "s": "2026-04-20T21:00:00+01:00",
         "e": "2026-04-20T22:00:00+01:00",
-        "d": null,
+        "d": "Ease in to delectations from our host, Jack Sapsed. A sea of sideways sounds: ambient tranquility and psychedelic folk; experimental dub to techno… ALL FRUITS RIPE",
         "j": "JACK SAPSED",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/all-fruits-ripe/episodes/all-fruits-ripe-20th-april-2026",
         "t": "monthly"
       },
       {
         "n": "LUNG DART",
         "s": "2026-04-20T22:00:00+01:00",
         "e": "2026-04-20T23:00:00+01:00",
-        "d": null,
+        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-20th-april-2026",
         "t": "monthly",
         "p": "lungdart"
       },
@@ -172,29 +153,28 @@
         "u": null,
         "t": "biweekly",
         "p": "channeling"
+      },
+      {
+        "n": "Minimal Wave w/ VERONICA VASICKA",
+        "s": "2026-04-21T20:00:00+01:00",
+        "e": "2026-04-21T22:00:00+01:00",
+        "d": null,
+        "j": "VERONICA VASICKA",
+        "u": null,
+        "t": "monthly",
+        "p": "veronicavasicka"
+      },
+      {
+        "n": "Circuits",
+        "s": "2026-04-21T22:00:00+01:00",
+        "e": "2026-04-22T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "circuits"
       }
     ],
     "nts2": [
-      {
-        "n": "Lavender Kite Audio Research Hour - 4.20 ANTI WAR RASTA MIX W/ M. Geddes Grengas",
-        "s": "2026-04-20T19:00:00+01:00",
-        "e": "2026-04-20T20:00:00+01:00",
-        "d": "Barnaby Bennett presents the Lavender Kite Audio Research Hour.\nFrom the host:_ \"I'm super thrilled to welcome long-time homie M. Geddes Gengras to the decks for a guest mix of reggae and dub heaters - perfect for any and all 4.20 festivities. Burn one and lock in to this deeply zoned out mix\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lavender-kite-audio-research-hour/episodes/lavender-kite-audio-research-hour-20th-april-2026"
-      },
-      {
-        "n": "Bo Ningen w/ Nhu Xuan Hua and Coby Sey",
-        "s": "2026-04-20T20:00:00+01:00",
-        "e": "2026-04-20T21:02:00+01:00",
-        "d": "London's infamous psychedelic outfit Bo Ningen takes over the NTS airwaves. Expect anything from video game sounds to noise rock.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bo-ningen/episodes/bo-ningen-20th-april-2026",
-        "p": "boningen",
-        "ap": [
-          "cobysey"
-        ]
-      },
       {
         "n": "FUNK FREAKS",
         "s": "2026-04-20T21:00:00+01:00",
@@ -209,9 +189,9 @@
         "n": "NAOMI ASA (R)",
         "s": "2026-04-20T21:02:00+01:00",
         "e": "2026-04-20T22:00:00+01:00",
-        "d": null,
+        "d": "Naomi Asa on the NTS airwaves, delivering soothing soul and spiritual jazz. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/naomi-asaturyan/episodes/naomi-asaturyan-10th-november-2025",
         "t": "restream",
         "p": "naomi"
       },
@@ -219,9 +199,9 @@
         "n": "IN FOCUS: LUTHER VANDROSS (R)",
         "s": "2026-04-20T22:00:00+01:00",
         "e": "2026-04-20T23:00:00+01:00",
-        "d": null,
+        "d": "An hour of the finest R&B, slow jams, boogie and pop from Luther Vandross, the vocalist, songwriter and producer, whose smooth tenor tones ruled the radio airwaves in the '80s and '90s. \nLDLDN selects Vandross's best tracks on this edition of In Focus.\nImage: GAB Archive / Redferns via Getty",
         "j": "LUTHER VANDROSS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/luther-van-dross-7th-april-2021",
         "t": "restream"
       },
       {
@@ -345,28 +325,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " ZEMA",
-        "s": "2026-04-20T18:00:00Z",
-        "e": "2026-04-20T19:00:00Z",
+        "n": "Vanilla Glint w/ Gustavio Koslowski",
+        "s": "2026-04-21T14:00:00+01:00",
+        "e": "2026-04-21T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SKINNY GIRL DIET",
+        "s": "2026-04-21T15:00:00+01:00",
+        "e": "2026-04-21T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
-      {
-        "n": "Rainbow Conspiracy",
-        "s": "2026-04-20T19:00:00Z",
-        "e": "2026-04-20T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "rainbowconspiracy"
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "In:flux Audio",
         "s": "2026-04-20T20:00:00Z",
@@ -1550,19 +1528,29 @@
         "u": null,
         "t": "monthly",
         "p": "deadlyunserious"
+      },
+      {
+        "n": "Scandal Sounds",
+        "s": "2026-04-27T19:00:00Z",
+        "e": "2026-04-27T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "scandalsounds"
+      },
+      {
+        "n": "Saraphim",
+        "s": "2026-04-27T20:00:00Z",
+        "e": "2026-04-27T21:00:00Z",
+        "d": "Saraphim (aka RNS & RDubz) are two Essex based Producer/DJ’s currently focused on Dubstep & the 140 spectrum, mixing ethnical and grime influences into their music. You can expect anything from deep and melodic meditative vibes to high energy driven music.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "saraphim"
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-04-20T17:00:00Z",
-        "e": "2026-04-20T19:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-04-20T19:00:00Z",
@@ -2070,6 +2058,14 @@
         "p": "defsound"
       },
       {
+        "n": "sadie ibrahim – out of range",
+        "s": "2026-04-27T01:00:00Z",
+        "e": "2026-04-27T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "Gabie Strong and Ian Wellman - Zone Mapping",
         "s": "2026-04-27T03:00:00Z",
         "e": "2026-04-27T05:00:00Z",
@@ -2101,18 +2097,19 @@
         "u": null,
         "t": "weekly",
         "p": "renecontreras"
+      },
+      {
+        "n": "Domenic Priore - '66 Sunset Strip",
+        "s": "2026-04-27T19:00:00Z",
+        "e": "2026-04-27T21:00:00Z",
+        "d": null,
+        "j": "'66 Sunset Strip",
+        "u": null,
+        "t": "monthly",
+        "p": "domenicpriore"
       }
     ],
     "rinse": [
-      {
-        "n": "Amaliah",
-        "s": "2026-04-20T18:00:00Z",
-        "e": "2026-04-20T19:00:00Z",
-        "d": null,
-        "j": "Live from Nowadays Nonstop",
-        "u": null,
-        "p": "amaliah"
-      },
       {
         "n": "Hessle Audio",
         "s": "2026-04-20T19:00:00Z",
@@ -2310,15 +2307,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Aurèle",
-        "s": "2026-04-20T18:00:00Z",
-        "e": "2026-04-20T19:00:00Z",
-        "d": null,
-        "j": "invite 2045Kimi",
-        "u": null,
-        "p": "aurle"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-04-20T19:00:00Z",
         "e": "2026-04-20T22:00:00Z",
@@ -2410,15 +2398,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "CHARCOM'S RADIO SHOW",
-        "s": "2026-04-20T17:00:00Z",
-        "e": "2026-04-20T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "SCRATCH ACADEMY",
         "s": "2026-04-20T19:00:00Z",
