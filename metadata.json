@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-20T16:55:47.750Z",
+  "updated": "2026-04-20T18:53:39.511Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FROM THE DEPTHS W/ DRAKEFORD",
-        "s": "2026-04-20T16:00:00+01:00",
-        "e": "2026-04-20T18:00:00+01:00",
-        "d": "Drakeford in the drivetime slot. A gentle cruise through dream pop, vintage folk, lushed-out electronics and more.",
-        "j": "DRAKEFORD",
-        "u": "https://www.nts.live/api/v2/shows/from-the-depths/episodes/from-the-depths-20th-april-2026",
-        "t": "monthly"
-      },
       {
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-04-20T18:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "SUNCUT",
         "s": "2026-04-20T20:00:00+01:00",
         "e": "2026-04-20T21:00:00+01:00",
-        "d": null,
+        "d": "Tune in to the sound of SUNCUT, boasting a heartfelt selection of some favourite 45’s through to classic bonafide soulful jams.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sun-cut/episodes/sun-cut-20th-april-2026",
         "t": "biweekly"
       },
       {
@@ -171,43 +162,34 @@
         "u": null,
         "t": "monthly",
         "p": "jenniferwalton"
+      },
+      {
+        "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "s": "2026-04-21T18:00:00+01:00",
+        "e": "2026-04-21T20:00:00+01:00",
+        "d": null,
+        "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "u": null,
+        "t": "biweekly",
+        "p": "channeling"
       }
     ],
     "nts2": [
       {
-        "n": "ANTHONY CHALMERS",
-        "s": "2026-04-20T17:00:00+01:00",
-        "e": "2026-04-20T18:00:00+01:00",
-        "d": "Anthony Chalmers, promoter of Baba Yaga's Hut, London's top night for left-field & experimental music visits NTS for a monthly showcase of his heavy collection, which spans jazz, dub, stoner rock, psych, electronic & more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/anthonychalmers/episodes/anthonychalmers-20th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ALDOUS RH",
-        "s": "2026-04-20T18:00:00+01:00",
-        "e": "2026-04-20T19:00:00+01:00",
-        "d": "Old psych jams, soul, folk-rock and generally all-round pleasant radio sounds from Aldous RH. Once a month from our Manchester studio - tune in…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/aldous-rh/episodes/aldous-rh-20th-april-2026",
-        "t": "monthly",
-        "p": "aldousrh"
-      },
-      {
         "n": "Lavender Kite Audio Research Hour - 4.20 ANTI WAR RASTA MIX W/ M. Geddes Grengas",
         "s": "2026-04-20T19:00:00+01:00",
         "e": "2026-04-20T20:00:00+01:00",
-        "d": null,
+        "d": "Barnaby Bennett presents the Lavender Kite Audio Research Hour.\nFrom the host:_ \"I'm super thrilled to welcome long-time homie M. Geddes Gengras to the decks for a guest mix of reggae and dub heaters - perfect for any and all 4.20 festivities. Burn one and lock in to this deeply zoned out mix\"_",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/lavender-kite-audio-research-hour/episodes/lavender-kite-audio-research-hour-20th-april-2026"
       },
       {
         "n": "Bo Ningen w/ Nhu Xuan Hua and Coby Sey",
         "s": "2026-04-20T20:00:00+01:00",
         "e": "2026-04-20T21:02:00+01:00",
-        "d": null,
+        "d": "London's infamous psychedelic outfit Bo Ningen takes over the NTS airwaves. Expect anything from video game sounds to noise rock.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bo-ningen/episodes/bo-ningen-20th-april-2026",
         "p": "boningen",
         "ap": [
           "cobysey"
@@ -354,29 +336,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SOFAY AND RIBEKA",
+        "s": "2026-04-21T13:00:00+01:00",
+        "e": "2026-04-21T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Skari",
-        "s": "2026-04-20T16:00:00Z",
-        "e": "2026-04-20T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "skari"
-      },
-      {
-        "n": "H3L3NA",
-        "s": "2026-04-20T17:00:00Z",
-        "e": "2026-04-20T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "h3l3na"
-      },
       {
         "n": " ZEMA",
         "s": "2026-04-20T18:00:00Z",
@@ -1559,19 +1530,29 @@
         "u": null,
         "t": "monthly",
         "p": "dunman"
+      },
+      {
+        "n": "Grigio",
+        "s": "2026-04-27T17:00:00Z",
+        "e": "2026-04-27T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "grigio"
+      },
+      {
+        "n": "Deadly Unserious",
+        "s": "2026-04-27T18:00:00Z",
+        "e": "2026-04-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "deadlyunserious"
       }
     ],
     "dublab": [
-      {
-        "n": "Andrew Goldberg - Rainy Day Fund",
-        "s": "2026-04-20T15:00:00Z",
-        "e": "2026-04-20T17:00:00Z",
-        "d": null,
-        "j": "Rainy Day Fund",
-        "u": null,
-        "t": "biweekly",
-        "p": "andrewgoldberg"
-      },
       {
         "n": "Rene Contreras - Viva! Talks",
         "s": "2026-04-20T17:00:00Z",
@@ -1581,6 +1562,15 @@
         "u": null,
         "t": "weekly",
         "p": "renecontreras"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-20T19:00:00Z",
+        "e": "2026-04-20T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Rani de Leon - Tizita Radio",
@@ -2101,32 +2091,19 @@
         "u": null,
         "t": "monthly",
         "p": "christeeeene"
+      },
+      {
+        "n": "Rene Contreras - Viva! Talks",
+        "s": "2026-04-27T17:00:00Z",
+        "e": "2026-04-27T19:00:00Z",
+        "d": null,
+        "j": "Viva! Talks",
+        "u": null,
+        "t": "weekly",
+        "p": "renecontreras"
       }
     ],
     "rinse": [
-      {
-        "n": "Charles Green",
-        "s": "2026-04-20T16:00:00Z",
-        "e": "2026-04-20T17:00:00Z",
-        "d": null,
-        "j": "B2B A For Alpha",
-        "u": null,
-        "t": "biweekly",
-        "p": "aforalpha",
-        "ap": [
-          "charlesgreen"
-        ]
-      },
-      {
-        "n": "Dyslecta",
-        "s": "2026-04-20T17:00:00Z",
-        "e": "2026-04-20T18:00:00Z",
-        "d": null,
-        "j": "B2B\tIMOGEN",
-        "u": null,
-        "t": "monthly",
-        "p": "dyslecta"
-      },
       {
         "n": "Amaliah",
         "s": "2026-04-20T18:00:00Z",
@@ -2333,24 +2310,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Poté B2B Kapela",
-        "s": "2026-04-20T16:00:00Z",
-        "e": "2026-04-20T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Belaria",
-        "s": "2026-04-20T17:00:00Z",
-        "e": "2026-04-20T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "belaria"
-      },
-      {
         "n": "Aurèle",
         "s": "2026-04-20T18:00:00Z",
         "e": "2026-04-20T19:00:00Z",
@@ -2451,15 +2410,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "STAND ON BUSINESS",
-        "s": "2026-04-20T15:00:00Z",
-        "e": "2026-04-20T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "CHARCOM'S RADIO SHOW",
         "s": "2026-04-20T17:00:00Z",
