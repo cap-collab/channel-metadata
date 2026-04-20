@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-20T13:08:45.224Z",
+  "updated": "2026-04-20T15:10:37.089Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PATRICK FORGE",
-        "s": "2026-04-20T13:00:00+01:00",
-        "e": "2026-04-20T15:00:00+01:00",
-        "d": "Tropical rhythms, devotional boogie and soulful shenanigans with a heavy jazz undertone, Patrick Forge gathers it all up for your listening pleasure. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/patrickforge/episodes/patrickforge-20th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "PALO SANTO DISCOS",
-        "s": "2026-04-20T15:00:00+01:00",
-        "e": "2026-04-20T16:00:00+01:00",
-        "d": "Vinyl and acetate from Brazil and beyond.\nInstagram.com/Dactylian\nInstagram.com/Palo Santo Discos",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dactylian-and-palo-santo/episodes/dactylian-and-palo-santo-20th-april-2026",
-        "t": "monthly"
-      },
       {
         "n": "FROM THE DEPTHS W/ DRAKEFORD",
         "s": "2026-04-20T16:00:00+01:00",
         "e": "2026-04-20T18:00:00+01:00",
-        "d": null,
+        "d": "Drakeford in the drivetime slot. A gentle cruise through dream pop, vintage folk, lushed-out electronics and more.",
         "j": "DRAKEFORD",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/from-the-depths/episodes/from-the-depths-20th-april-2026",
         "t": "monthly"
       },
       {
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-04-20T18:00:00+01:00",
         "e": "2026-04-20T20:00:00+01:00",
-        "d": null,
+        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
         "j": "COCO MARIA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-20th-april-2026",
         "t": "weekly",
         "p": "cocomaria"
       },
@@ -171,18 +153,28 @@
         "u": null,
         "t": "weekly",
         "p": "margeaux"
+      },
+      {
+        "n": "REBE",
+        "s": "2026-04-21T16:00:00+01:00",
+        "e": "2026-04-21T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "rebe"
+      },
+      {
+        "n": "JENNIFER WALTON",
+        "s": "2026-04-21T17:00:00+01:00",
+        "e": "2026-04-21T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jenniferwalton"
       }
     ],
     "nts2": [
-      {
-        "n": "CXEMA",
-        "s": "2026-04-20T14:00:00+01:00",
-        "e": "2026-04-20T15:00:00+01:00",
-        "d": "The sound of Ukraine's independent music scene. Presented by Схема, a Kyiv-based collective that moves forward rave culture in Ukraine.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/cxema/episodes/cxema-20th-april-2026",
-        "p": "cxema"
-      },
       {
         "n": "Zuli w/ Elvin Brandhi - 'The Screaming Abdabs' Special",
         "s": "2026-04-20T15:00:00+01:00",
@@ -196,9 +188,9 @@
         "n": "ANTHONY CHALMERS",
         "s": "2026-04-20T17:00:00+01:00",
         "e": "2026-04-20T18:00:00+01:00",
-        "d": null,
+        "d": "Anthony Chalmers, promoter of Baba Yaga's Hut, London's top night for left-field & experimental music visits NTS for a monthly showcase of his heavy collection, which spans jazz, dub, stoner rock, psych, electronic & more.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/anthonychalmers/episodes/anthonychalmers-20th-april-2026",
         "t": "monthly"
       },
       {
@@ -286,13 +278,13 @@
         "t": "restream"
       },
       {
-        "n": "TINNAI W/ GANAVYA",
+        "n": "Astral Garden w/ Nailah Hunter (R)",
         "s": "2026-04-21T03:00:00+01:00",
         "e": "2026-04-21T04:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Nailah Hunter",
         "u": null,
-        "p": "ganavya"
+        "t": "restream"
       },
       {
         "n": "LIVING GATLATO (R)",
@@ -335,28 +327,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "I Live in A Mumblecore Film in the Early 2000s W/ Yuki",
+        "s": "2026-04-21T09:00:00+01:00",
+        "e": "2026-04-21T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MOTHER2ギーグの逆襲 OST MIX W/ CAPÙS",
+        "s": "2026-04-21T10:00:00+01:00",
+        "e": "2026-04-21T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "KATIE SHANNON w/ Tai Shani",
+        "s": "2026-04-21T12:00:00+01:00",
+        "e": "2026-04-21T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "JO KIRA",
-        "s": "2026-04-20T13:00:00Z",
-        "e": "2026-04-20T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "jokira"
-      },
-      {
-        "n": "Alive and Well",
-        "s": "2026-04-20T14:00:00Z",
-        "e": "2026-04-20T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Bidl",
         "s": "2026-04-20T15:00:00Z",
@@ -1539,18 +1536,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-04-20T13:00:00Z",
-        "e": "2026-04-20T15:00:00Z",
+        "n": " Dyls Dems",
+        "s": "2026-04-27T14:00:00Z",
+        "e": "2026-04-27T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Familiar Scenes w/ Garth",
+        "s": "2026-04-27T15:00:00Z",
+        "e": "2026-04-27T16:00:00Z",
+        "d": null,
+        "j": "Garth",
+        "u": null,
+        "t": "monthly",
+        "p": "garth"
+      }
+    ],
+    "dublab": [
       {
         "n": "Andrew Goldberg - Rainy Day Fund",
         "s": "2026-04-20T15:00:00Z",
@@ -2084,16 +2091,6 @@
     ],
     "rinse": [
       {
-        "n": "Tommy Gold",
-        "s": "2026-04-20T13:00:00Z",
-        "e": "2026-04-20T14:00:00Z",
-        "d": null,
-        "j": "Duke Boura",
-        "u": null,
-        "t": "biweekly",
-        "p": "tommygold"
-      },
-      {
         "n": "Scratcha",
         "s": "2026-04-20T14:00:00Z",
         "e": "2026-04-20T16:00:00Z",
@@ -2247,7 +2244,7 @@
         "s": "2026-04-21T11:00:00Z",
         "e": "2026-04-21T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Anjali Prasher-Savoie",
         "u": null,
         "t": "biweekly"
       },
@@ -2294,7 +2291,7 @@
         "s": "2026-04-21T18:00:00Z",
         "e": "2026-04-21T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "SANTI",
         "u": null,
         "t": "monthly",
         "p": "bullettooth"
@@ -2310,11 +2307,11 @@
         "p": "lala"
       },
       {
-        "n": "Surusinghe",
+        "n": "Suzuki Drifting with Surusinghe",
         "s": "2026-04-21T21:00:00Z",
         "e": "2026-04-21T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "LINHTONIK",
         "u": null,
         "t": "monthly",
         "p": "surusinghe"
@@ -2330,24 +2327,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Sébastien Forrester",
-        "s": "2026-04-20T13:00:00Z",
-        "e": "2026-04-20T14:00:00Z",
-        "d": null,
-        "j": "Afraa avec Dania",
-        "u": null,
-        "p": "sbastienforrester"
-      },
-      {
-        "n": "Young Pulse",
-        "s": "2026-04-20T14:00:00Z",
-        "e": "2026-04-20T15:00:00Z",
-        "d": null,
-        "j": "Boogie 2 The Top",
-        "u": null,
-        "p": "youngpulse"
-      },
       {
         "n": "Didi Han",
         "s": "2026-04-20T15:00:00Z",
@@ -2453,7 +2432,7 @@
         "s": "2026-04-21T17:00:00Z",
         "e": "2026-04-21T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Takeover x R3IGN DROPS",
         "u": null,
         "t": "monthly"
       },
@@ -2476,15 +2455,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "LIBERTINE LULLABIES",
-        "s": "2026-04-20T13:00:00Z",
-        "e": "2026-04-20T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "STAND ON BUSINESS",
         "s": "2026-04-20T15:00:00Z",
