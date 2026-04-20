@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-20T07:52:27.159Z",
+  "updated": "2026-04-20T09:49:45.265Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Early Bird Show w/ Maria Somerville",
-        "s": "2026-04-20T07:00:00+01:00",
-        "e": "2026-04-20T09:00:00+01:00",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-20th-april-2026",
-        "p": "mariasomerville"
-      },
       {
         "n": "The NTS Breakfast Show w/ pam",
         "s": "2026-04-20T09:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "Soup To Nuts w/ Fauzia",
         "s": "2026-04-20T11:00:00+01:00",
         "e": "2026-04-20T13:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-20th-april-2026",
         "p": "fauzia"
       },
       {
@@ -168,40 +159,33 @@
         "j": null,
         "u": null,
         "p": "mafalda"
+      },
+      {
+        "n": "SOUP TO NUTS W/ ANU",
+        "s": "2026-04-21T11:00:00+01:00",
+        "e": "2026-04-21T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "anu"
       }
     ],
     "nts2": [
       {
-        "n": "LA SCUOLA GENOVESE W/ FALLE",
-        "s": "2026-04-20T08:00:00+01:00",
-        "e": "2026-04-20T09:00:00+01:00",
-        "d": "An immersion in the blue of the Ligurian Sea, in the music and poetry that have inspired -and continue to inspire- the entire Italian peninsula, starting from the city of Genova, also known as La Superba.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-la-scuola-genovese-w-falle-20th-april-2026"
-      },
-      {
-        "n": "Solo instruments w/ Guillaume F",
-        "s": "2026-04-20T09:00:00+01:00",
-        "e": "2026-04-20T10:00:00+01:00",
-        "d": "Selected choice of different instruments solo pieces in various musical genres… Searching for emotions within the sound of each instrument in these stripped orchestrations. How composers and / or interprets throw their soul through their instrument ? How with only the « timbre » or sound can many layers of emotions be developped ? Classical, jazz, pop, noise, the artist face his listener alone and the sound goes from one to one ! No matter the difference in style the intensity remains the same.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-solo-instruments-w-guillaume-f-20th-april-2026"
-      },
-      {
         "n": "60's BEAT AND SURF INVASION IN EUROPE W/ Booogie Jack",
         "s": "2026-04-20T10:00:00+01:00",
         "e": "2026-04-20T11:00:00+01:00",
-        "d": null,
+        "d": "From France to Portugal, threw Greece and Sweden, a selection of some pop & surf 7\" from the Beat Music Invasion that hit the Europe in the 60's !",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-60-s-beat-and-surf-invasion-in-europe-w-booogie-jack-20th-april-2026"
       },
       {
         "n": "AN1MA",
         "s": "2026-04-20T11:00:00+01:00",
         "e": "2026-04-20T12:00:00+01:00",
-        "d": null,
+        "d": "integration sounds from the source; an invitation into the shadow.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/molinaro",
         "t": "monthly"
       },
       {
@@ -331,18 +315,27 @@
         "j": "Raphy",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Liquid Daybreak",
-        "s": "2026-04-20T07:00:00Z",
-        "e": "2026-04-20T09:00:00Z",
+        "n": "TINNAI W/ GANAVYA",
+        "s": "2026-04-21T03:00:00+01:00",
+        "e": "2026-04-21T04:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "ganavya"
       },
+      {
+        "n": "LIVING GATLATO (R)",
+        "s": "2026-04-21T04:00:00+01:00",
+        "e": "2026-04-21T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "The PICKNMIX Show w/ Komanche",
         "s": "2026-04-20T09:00:00Z",
@@ -1534,13 +1527,36 @@
         "u": null,
         "t": "monthly",
         "p": "arma"
+      },
+      {
+        "n": "Casual P",
+        "s": "2026-04-27T08:00:00Z",
+        "e": "2026-04-27T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "casualp"
+      },
+      {
+        "n": "Not a Baile Radio Show",
+        "s": "2026-04-27T09:00:00Z",
+        "e": "2026-04-27T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "notabaileradio",
+        "ap": [
+          "notabaileradioshow"
+        ]
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-20T07:00:00Z",
-        "e": "2026-04-20T09:00:00Z",
+        "s": "2026-04-20T09:00:00Z",
+        "e": "2026-04-20T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1548,8 +1564,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-20T09:00:00Z",
-        "e": "2026-04-20T11:00:00Z",
+        "s": "2026-04-20T11:00:00Z",
+        "e": "2026-04-20T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2088,15 +2104,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-04-20T06:00:00Z",
-        "e": "2026-04-20T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Tim Garcia",
         "s": "2026-04-20T08:00:00Z",
         "e": "2026-04-20T10:00:00Z",
@@ -2140,7 +2147,7 @@
         "s": "2026-04-20T13:00:00Z",
         "e": "2026-04-20T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Duke Boura",
         "u": null,
         "t": "biweekly",
         "p": "tommygold"
@@ -2159,17 +2166,20 @@
         "s": "2026-04-20T16:00:00Z",
         "e": "2026-04-20T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B A For Alpha",
         "u": null,
         "t": "biweekly",
-        "p": "charlesgreen"
+        "p": "aforalpha",
+        "ap": [
+          "charlesgreen"
+        ]
       },
       {
         "n": "Dyslecta",
         "s": "2026-04-20T17:00:00Z",
         "e": "2026-04-20T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B\tIMOGEN",
         "u": null,
         "t": "monthly",
         "p": "dyslecta"
@@ -2188,7 +2198,7 @@
         "s": "2026-04-20T19:00:00Z",
         "e": "2026-04-20T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Pearson Sound",
         "u": null,
         "t": "weekly",
         "p": "hessleaudio"
@@ -2380,21 +2390,20 @@
         "t": "playlist"
       },
       {
-        "n": "Machka",
+        "n": "420 goes to hyperspace on Arteweed",
         "s": "2026-04-20T12:00:00Z",
         "e": "2026-04-20T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Avec Mattias Mimoun & Tonton Raf",
         "u": null,
-        "t": "biweekly",
-        "p": "machka"
+        "p": "mattiasmimoun"
       },
       {
         "n": "Sébastien Forrester",
         "s": "2026-04-20T13:00:00Z",
         "e": "2026-04-20T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Afraa avec Dania",
         "u": null,
         "p": "sbastienforrester"
       },
