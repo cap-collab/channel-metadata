@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-21T10:59:32.321Z",
+  "updated": "2026-04-21T13:03:22.424Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Soup To Nuts w/ Selassie TBC",
-        "s": "2026-04-21T11:00:00+01:00",
-        "e": "2026-04-21T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-selassie-tbc-21st-april-2026",
-        "p": "selassietbc"
-      },
       {
         "n": "NITETRAX - PRINCE BIRTHDAY SPECIAL (R)",
         "s": "2026-04-21T13:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-04-21T15:00:00+01:00",
         "e": "2026-04-21T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-21st-april-2026",
         "t": "weekly",
         "p": "margeaux"
       },
@@ -81,7 +72,7 @@
         "p": "circuits"
       },
       {
-        "n": "MIDNITE MADNESS",
+        "n": "MIDNITE MADNESS CCXI—Ancient Unholiness",
         "s": "2026-04-22T00:00:00+01:00",
         "e": "2026-04-22T01:00:00+01:00",
         "d": null,
@@ -172,51 +163,34 @@
         "j": null,
         "u": null,
         "p": "finn"
+      },
+      {
+        "n": "LOUISE CHEN",
+        "s": "2026-04-22T15:00:00+01:00",
+        "e": "2026-04-22T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "louisechen"
       }
     ],
     "nts2": [
       {
-        "n": "NTS Guide to: Drum Machine Country & Swamp Rock",
-        "s": "2026-04-21T11:00:00+01:00",
-        "e": "2026-04-21T12:00:00+01:00",
-        "d": "A truckride into the gritty marshland of lesser known and DIY country and swamp rock records, featuring notable use of drum machine accompaniment. ",
-        "j": "Drum Machine Country & Swamp Rock",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-drum-machine-country-swamp-rock-21st-april-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "KATIE SHANNON w/ Tai Shani",
-        "s": "2026-04-21T12:00:00+01:00",
-        "e": "2026-04-21T13:00:00+01:00",
-        "d": "Artist Katie Shannon brings a series of thematic shows; connections between people, place and sound with a strong focus on DIY music cultures.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/katie-shannon/episodes/katie-shannon-21st-april-2026",
-        "p": "katieshannon"
-      },
-      {
-        "n": "SOFAY AND RIBEKA",
-        "s": "2026-04-21T13:00:00+01:00",
-        "e": "2026-04-21T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Vanilla Glint w/ Gustavio Koslowski",
         "s": "2026-04-21T14:00:00+01:00",
         "e": "2026-04-21T15:00:00+01:00",
-        "d": null,
+        "d": "Into a new sonic universe, blending tropical ambient soundscapes with dancehall and hip hop in a regular hour from Gustavio Koslowski.\nFrom the host: \"Vanilla Glint second episode welcomes producer & artist Brak3\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/gustavio-koslowski/episodes/gustavio-koslowski-21st-april-2026"
       },
       {
         "n": "SKINNY GIRL DIET",
         "s": "2026-04-21T15:00:00+01:00",
         "e": "2026-04-21T16:00:00+01:00",
-        "d": null,
+        "d": "Skinny Girl Diet are London's foremost riot grrrl duo. Delilah Holliday and Ursula Holliday. Post-punk, glam, garage and all things nice… or something like that.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/skinny-girl-diet/episodes/skinny-girl-diet-21st-april-2026",
         "t": "monthly"
       },
       {
@@ -333,29 +307,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Dmitri Shostakovich Op.87 Preludes & Fugues w/ Monocarpics",
+        "s": "2026-04-22T07:00:00+01:00",
+        "e": "2026-04-22T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Dark Jugodisco w/ anetamine®",
+        "s": "2026-04-22T08:00:00+01:00",
+        "e": "2026-04-22T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "rhythm & bloops w/ henrique",
+        "s": "2026-04-22T09:00:00+01:00",
+        "e": "2026-04-22T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": " Ovrtic",
-        "s": "2026-04-21T10:00:00Z",
-        "e": "2026-04-21T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "ovrtic"
-      },
-      {
-        "n": "drisk",
-        "s": "2026-04-21T12:00:00Z",
-        "e": "2026-04-21T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "drisk"
-      },
       {
         "n": "Launcher",
         "s": "2026-04-21T13:00:00Z",
@@ -1543,22 +1521,33 @@
         "u": null,
         "t": "monthly",
         "p": "localmovements"
+      },
+      {
+        "n": "Liquid Vault w/ Half-Life",
+        "s": "2026-04-28T12:00:00Z",
+        "e": "2026-04-28T13:00:00Z",
+        "d": null,
+        "j": "Half",
+        "u": null,
+        "t": "monthly",
+        "p": "half"
+      },
+      {
+        "n": "Silk Road Sessions w/ YVES",
+        "s": "2026-04-28T13:00:00Z",
+        "e": "2026-04-28T14:00:00Z",
+        "d": null,
+        "j": "YVES",
+        "u": null,
+        "t": "monthly",
+        "p": "yves"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-21T09:00:00Z",
-        "e": "2026-04-21T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-21T11:00:00Z",
-        "e": "2026-04-21T13:00:00Z",
+        "s": "2026-04-21T13:00:00Z",
+        "e": "2026-04-21T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2104,32 +2093,6 @@
     ],
     "rinse": [
       {
-        "n": "Cara Crosby",
-        "s": "2026-04-21T10:00:00Z",
-        "e": "2026-04-21T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Ed Gillett",
-        "s": "2026-04-21T11:00:00Z",
-        "e": "2026-04-21T12:00:00Z",
-        "d": null,
-        "j": "Anjali Prasher-Savoie",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Meena Sears",
-        "s": "2026-04-21T12:00:00Z",
-        "e": "2026-04-21T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Adventures In Paradise with Manuel Darquart",
         "s": "2026-04-21T13:00:00Z",
         "e": "2026-04-21T14:00:00Z",
@@ -2392,15 +2355,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-04-21T07:00:00Z",
-        "e": "2026-04-21T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Charlie 3000",
         "s": "2026-04-21T12:00:00Z",
         "e": "2026-04-21T14:00:00Z",
@@ -2520,17 +2474,17 @@
         "s": "2026-04-22T16:00:00Z",
         "e": "2026-04-22T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "BAILE FUNK & KUDURO (SPLIT#4)",
         "u": null,
         "t": "monthly",
         "p": "feadz"
       },
       {
-        "n": "Pura Pura",
+        "n": "Pura Pura B2B Nextdimensional",
         "s": "2026-04-22T17:00:00Z",
         "e": "2026-04-22T18:00:00Z",
         "d": null,
-        "j": "B2B Nextdimensional",
+        "j": null,
         "u": null
       },
       {
@@ -2538,7 +2492,7 @@
         "s": "2026-04-22T18:00:00Z",
         "e": "2026-04-22T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "w/ Gauvain, Gira, Namur, Hoser",
         "u": null
       },
       {
@@ -2552,15 +2506,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-04-21T05:00:00Z",
-        "e": "2026-04-21T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "BUSS UP SHUT",
         "s": "2026-04-21T12:00:00Z",
