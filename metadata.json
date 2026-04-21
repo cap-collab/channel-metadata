@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-21T09:17:48.951Z",
+  "updated": "2026-04-21T10:59:32.321Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ mafalda",
-        "s": "2026-04-21T09:00:00+01:00",
-        "e": "2026-04-21T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-mafalda-21st-april-2026",
-        "p": "mafalda"
-      },
       {
         "n": "Soup To Nuts w/ Selassie TBC",
         "s": "2026-04-21T11:00:00+01:00",
@@ -22,14 +13,14 @@
         "p": "selassietbc"
       },
       {
-        "n": "NABIHAH IQBAL",
+        "n": "NITETRAX - PRINCE BIRTHDAY SPECIAL (R)",
         "s": "2026-04-21T13:00:00+01:00",
         "e": "2026-04-21T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "nabihahiqbal"
+        "d": "Nitetrax presents a monthly exploration of classic and contemporary club and experimental music.",
+        "j": "PRINCE BIRTHDAY SPECIAL",
+        "u": "https://www.nts.live/api/v2/shows/nitetrax/episodes/nitetrax-prince-birthday-special-7th-june-2016",
+        "t": "restream",
+        "p": "nitetrax"
       },
       {
         "n": "Self Soothe w/ Margeaux",
@@ -172,22 +163,23 @@
         "u": null,
         "t": "weekly",
         "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB W/ FINN",
+        "s": "2026-04-22T13:00:00+01:00",
+        "e": "2026-04-22T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "finn"
       }
     ],
     "nts2": [
       {
-        "n": "MOTHER2ギーグの逆襲 OST MIX W/ CAPÙS",
-        "s": "2026-04-21T10:00:00+01:00",
-        "e": "2026-04-21T11:00:00+01:00",
-        "d": "Mix of the original soundtrack of Earthbound (Mother 2) by Keiichi Suzuki and Hirokazu Tanaka. \n100% Earthbound, 50% joy, 51% trauma (with a 1% margin of error).",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-mother2gigunoni-xi-ost-mix-w-capus-21st-april-2026"
-      },
-      {
         "n": "NTS Guide to: Drum Machine Country & Swamp Rock",
         "s": "2026-04-21T11:00:00+01:00",
         "e": "2026-04-21T12:00:00+01:00",
-        "d": "A deep dive into scenes, record labels and genres from around the world.",
+        "d": "A truckride into the gritty marshland of lesser known and DIY country and swamp rock records, featuring notable use of drum machine accompaniment. ",
         "j": "Drum Machine Country & Swamp Rock",
         "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-drum-machine-country-swamp-rock-21st-april-2026",
         "t": "weekly"
@@ -196,9 +188,9 @@
         "n": "KATIE SHANNON w/ Tai Shani",
         "s": "2026-04-21T12:00:00+01:00",
         "e": "2026-04-21T13:00:00+01:00",
-        "d": null,
+        "d": "Artist Katie Shannon brings a series of thematic shows; connections between people, place and sound with a strong focus on DIY music cultures.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/katie-shannon/episodes/katie-shannon-21st-april-2026",
         "p": "katieshannon"
       },
       {
@@ -333,22 +325,17 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "ØZER",
+        "s": "2026-04-22T06:00:00+01:00",
+        "e": "2026-04-22T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Albert Moon",
-        "s": "2026-04-21T09:00:00Z",
-        "e": "2026-04-21T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "albertmoon",
-        "ap": [
-          "albert"
-        ]
-      },
       {
         "n": " Ovrtic",
         "s": "2026-04-21T10:00:00Z",
@@ -1546,6 +1533,16 @@
         "u": null,
         "t": "monthly",
         "p": "poshmornings"
+      },
+      {
+        "n": "Local Movements",
+        "s": "2026-04-28T10:00:00Z",
+        "e": "2026-04-28T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "localmovements"
       }
     ],
     "dublab": [
@@ -2107,15 +2104,6 @@
     ],
     "rinse": [
       {
-        "n": "Papaoul",
-        "s": "2026-04-21T08:00:00Z",
-        "e": "2026-04-21T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Cara Crosby",
         "s": "2026-04-21T10:00:00Z",
         "e": "2026-04-21T11:00:00Z",
@@ -2134,32 +2122,47 @@
         "t": "biweekly"
       },
       {
-        "n": "Prozak",
+        "n": "Meena Sears",
         "s": "2026-04-21T12:00:00Z",
         "e": "2026-04-21T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "prozak"
+        "u": null
       },
       {
-        "n": "Manuel Darquart",
+        "n": "Adventures In Paradise with Manuel Darquart",
         "s": "2026-04-21T13:00:00Z",
         "e": "2026-04-21T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "manueldarquart"
+        "t": "biweekly",
+        "p": "manueldarquart",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "Brighter Days Family",
         "s": "2026-04-21T14:00:00Z",
+        "e": "2026-04-21T16:00:00Z",
+        "d": null,
+        "j": "IZCO & SamTheMan",
+        "u": null,
+        "t": "weekly",
+        "p": "brighterdaysfamily",
+        "ap": [
+          "izco"
+        ]
+      },
+      {
+        "n": "Prozak",
+        "s": "2026-04-21T16:00:00Z",
         "e": "2026-04-21T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "brighterdaysfamily"
+        "p": "prozak"
       },
       {
         "n": "Papa Nugs",
@@ -2402,7 +2405,7 @@
         "s": "2026-04-21T12:00:00Z",
         "e": "2026-04-21T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite ||||||||||||||||||||",
         "u": null,
         "p": "charlie3000"
       },
