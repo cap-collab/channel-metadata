@@ -1,34 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-04-21T20:40:42.258Z",
+  "updated": "2026-04-21T22:34:43.677Z",
   "stations": {
     "nts1": [
       {
-        "n": "Minimal Wave w/ VERONICA VASICKA",
-        "s": "2026-04-21T20:00:00+01:00",
-        "e": "2026-04-21T22:00:00+01:00",
-        "d": "Veronica Vasicka presents a monthly 2-hour show featuring the lost synth-wave treasures she has archived from the late 70s and early 80s, along with other iconic underground electronic music drawn from over four decades. Expect to hear exclusive tracks from releases on her seminal Minimal Wave and Cititrax labels plus cassette-only and private press rarities.",
-        "j": "VERONICA VASICKA",
-        "u": "https://www.nts.live/api/v2/shows/veronica-vasicka/episodes/veronica-vasicka-21st-april-2026",
-        "t": "monthly",
-        "p": "veronicavasicka"
-      },
-      {
-        "n": "Circuits",
+        "n": "Circuits w/ Olly Chubb: Instructional Dance Vol.1",
         "s": "2026-04-21T22:00:00+01:00",
         "e": "2026-04-22T00:00:00+01:00",
         "d": "Connections in electronic music: the history of house and techno as presented to you by the wonderful Olly Chubb.",
-        "j": null,
+        "j": "Olly Chubb",
         "u": "https://www.nts.live/api/v2/shows/circuits/episodes/circuits-21st-april-2026",
+        "t": "monthly",
         "p": "circuits"
       },
       {
         "n": "MIDNITE MADNESS CCXI—Ancient Unholiness",
         "s": "2026-04-22T00:00:00+01:00",
         "e": "2026-04-22T01:00:00+01:00",
-        "d": null,
+        "d": "Midnite Madness endeavours to unearth the spirit of the ancient metal gods as well as the genre's new flesh, taking in most styles—heavy, thrash, black, speed, death, punk, doom, etc. There will be some exclusion: no nu-metal, no triggered drums, no posers and no requests. Only metal is real!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/midnite-madness/episodes/midnite-madness-22nd-april-2026",
         "p": "midnitemadness"
       },
       {
@@ -169,41 +160,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "GIGI FM",
+        "s": "2026-04-22T22:00:00+01:00",
+        "e": "2026-04-22T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "gigifm"
       }
     ],
     "nts2": [
       {
-        "n": "Discos El Hijo: hellotones invita DJ Chihuahua",
-        "s": "2026-04-21T21:00:00+01:00",
-        "e": "2026-04-21T22:00:00+01:00",
-        "d": "Kumbias mezcladas como nunca antes by hellotones.. direct from the Poblano Mexicano diaspora in New York City and stamping the moment that is the PueblaYork renaissance. Paying homage with mixes blending the sounds of yesteryears’ cumbia labels and the sounds of the future in cumbia happening now.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hellotones/episodes/hellotones-21st-april-2026"
-      },
-      {
-        "n": "La Cosecha Internacional w/ XOLO (R)",
-        "s": "2026-04-21T22:00:00+01:00",
-        "e": "2026-04-21T23:00:00+01:00",
-        "d": "Inspired by Quinceñera parties in the hills of Mexico and beyond & rooted in partying as a form of immigrant resistance. La Cosecha was started by XOLO. Playing all Spanish, all vinyl norteñias, corridos, rancheras, cumbia and banda classics. Xolo's aim is to bring this music to a new generation.\nFrom host: \"Rolas Perras Que Rifan En Todos Los Barrios Y Colonias Malandras.\"",
-        "j": "XOLO",
-        "u": "https://www.nts.live/api/v2/shows/la-cosecha-internacional/episodes/la-cosecha-internacional-9th-october-2025",
-        "t": "restream"
-      },
-      {
         "n": "QUIET LIGHT",
         "s": "2026-04-21T23:00:00+01:00",
         "e": "2026-04-22T00:00:00+01:00",
-        "d": null,
+        "d": "Electropop musician Quiet Light takes over the NTS airwaves to share some of her current favourites, as well as inspirations behind her new record Blue Angel Sparkling Silver 2 - forthcoming on True Panther on April 24th. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/quiet-light-21st-april-2026"
       },
       {
         "n": "OPEN HAND REAL FLAMES - NINA SIMONE SPECIAL (R)",
         "s": "2026-04-22T00:00:00+01:00",
         "e": "2026-04-22T01:00:00+01:00",
-        "d": null,
+        "d": "OPEN HAND REAL FLAMES is a monthly show presented by Bass Clef. Each episode has a theme - usually a specific musical instrument or process, perhaps an artist or composer, sometimes a record label. Ranging wide over centuries and genres, looking for connections and joy. Always welcomes contributions, music, suggestions.\nFor old Floating World Music shows click here",
         "j": "NINA SIMONE SPECIAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/open-hand-real-flames/episodes/open-hand-real-flames-10th-july-2019",
         "t": "restream"
       },
       {
@@ -332,26 +315,28 @@
         "j": "ILL DUBIO",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "SunDisk w/ Helios XL",
-        "s": "2026-04-21T20:00:00Z",
-        "e": "2026-04-21T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
-        "n": "Subtle Selects",
-        "s": "2026-04-21T21:00:00Z",
-        "e": "2026-04-21T22:00:00Z",
+        "n": "ARUSHI JAIN",
+        "s": "2026-04-22T15:00:00+01:00",
+        "e": "2026-04-22T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "ZEL ZELE",
+        "s": "2026-04-22T16:00:00+01:00",
+        "e": "2026-04-22T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "zelzele"
+      }
+    ],
+    "subtle": [
       {
         "n": "The R.I.P Show",
         "s": "2026-04-21T22:00:00Z",
@@ -1544,18 +1529,29 @@
         "u": null,
         "t": "monthly",
         "p": "stuckinwaveforms"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Cafe's Internet Lounge",
-        "s": "2026-04-21T19:00:00Z",
-        "e": "2026-04-21T21:00:00Z",
+        "n": "OVN",
+        "s": "2026-04-28T21:00:00Z",
+        "e": "2026-04-28T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly",
+        "p": "ovn"
       },
+      {
+        "n": "ATKINS",
+        "s": "2026-04-28T22:00:00Z",
+        "e": "2026-04-28T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "atkins"
+      }
+    ],
+    "dublab": [
       {
         "n": "V.C.R – Soul Food Radio",
         "s": "2026-04-21T21:00:00Z",
@@ -2092,29 +2088,22 @@
         "u": null,
         "t": "monthly",
         "p": "patrickshiroishi"
+      },
+      {
+        "n": "Photay - Extravagant Frequencies",
+        "s": "2026-04-28T21:00:00Z",
+        "e": "2026-04-28T23:00:00Z",
+        "d": null,
+        "j": "Extravagant Frequencies",
+        "u": null,
+        "t": "monthly",
+        "p": "photay",
+        "ap": [
+          "extravagantfrequencies"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "La La",
-        "s": "2026-04-21T19:00:00Z",
-        "e": "2026-04-21T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lala"
-      },
-      {
-        "n": "Suzuki Drifting with Surusinghe",
-        "s": "2026-04-21T21:00:00Z",
-        "e": "2026-04-21T22:00:00Z",
-        "d": null,
-        "j": "LINHTONIK",
-        "u": null,
-        "t": "monthly",
-        "p": "surusinghe"
-      },
       {
         "n": "Reece Spooner",
         "s": "2026-04-21T22:00:00Z",
@@ -2185,7 +2174,7 @@
         "s": "2026-04-22T08:00:00Z",
         "e": "2026-04-22T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Laalls",
         "u": null,
         "t": "weekly",
         "p": "esk"
@@ -2304,15 +2293,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-21T19:00:00Z",
-        "e": "2026-04-21T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-21T22:00:00Z",
         "e": "2026-04-22T07:00:00Z",
         "d": null,
@@ -2403,15 +2383,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "THE SELECTION COMMITTEE",
-        "s": "2026-04-21T20:00:00Z",
-        "e": "2026-04-21T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "BOGADH",
         "s": "2026-04-21T22:00:00Z",
