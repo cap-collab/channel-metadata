@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-21T15:05:13.186Z",
+  "updated": "2026-04-21T16:50:11.005Z",
   "stations": {
     "nts1": [
-      {
-        "n": "REBE",
-        "s": "2026-04-21T16:00:00+01:00",
-        "e": "2026-04-21T17:00:00+01:00",
-        "d": "Rebe, \"the only official Princess of Spain\", hijacks the radio, Playing Romanian and Spanish folk, flamenco pop, soundtracks, originals and many more mysteries. Radio-Rebe, Radio-Ready’s worst nightmare.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rebe/episodes/rebe-21st-april-2026",
-        "p": "rebe"
-      },
       {
         "n": "JENNIFER WALTON",
         "s": "2026-04-21T17:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
         "s": "2026-04-21T18:00:00+01:00",
         "e": "2026-04-21T20:00:00+01:00",
-        "d": null,
+        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
         "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-21st-april-2026",
         "t": "biweekly",
         "p": "channeling"
       },
@@ -79,6 +70,15 @@
         "u": null,
         "t": "monthly",
         "p": "andras"
+      },
+      {
+        "n": "PAVEL MILYAKOV (R)",
+        "s": "2026-04-22T03:00:00+01:00",
+        "e": "2026-04-22T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "dreamslesssweet w/ Vlada + Sina",
@@ -175,16 +175,6 @@
     ],
     "nts2": [
       {
-        "n": "TUESDAY TRIPS w/ NAHHG",
-        "s": "2026-04-21T16:00:00+01:00",
-        "e": "2026-04-21T17:00:00+01:00",
-        "d": "NahhG hosts Tuesday Trips, exploring the different sounds of underground beats and hip-hop alongside special guest mixes from current beatmakers and curators. - Live once a month\nFrom the host: \"Blasting back to beat tapes and albums that I listened to heavily when I was in middle and high school and that heavily influenced my listening habits and lead me to making beats. We're talking FLYamSam, Hudson Mohawke, DJ Rashad, Afta-1, Elaquent, and the likes.\"",
-        "j": "NAHHG",
-        "u": "https://www.nts.live/api/v2/shows/tuesday-trips/episodes/tuesday-trips-21st-april-2026",
-        "t": "monthly",
-        "p": "tuesdaytrips"
-      },
-      {
         "n": "NTS x Bershka Next Up! w/ Kaanijo & Swank Mami",
         "s": "2026-04-21T17:00:00+01:00",
         "e": "2026-04-21T18:00:00+01:00",
@@ -196,9 +186,9 @@
         "n": "INSOLAR w/ CAMI LAYÉ OKÚN",
         "s": "2026-04-21T18:00:00+01:00",
         "e": "2026-04-21T19:00:00+01:00",
-        "d": null,
+        "d": "Cuban record collector, ethnomusicologist researcher, picks up a hour of global vinyl via Havana every months.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/cami-laye-okun/episodes/cami-laye-okun-21st-april-2026"
       },
       {
         "n": "Champeta Global Vol.2 w/ Edna Martinez",
@@ -243,6 +233,24 @@
         "u": null
       },
       {
+        "n": "OPEN HAND REAL FLAMES - NINA SIMONE SPECIAL (R)",
+        "s": "2026-04-22T00:00:00+01:00",
+        "e": "2026-04-22T01:00:00+01:00",
+        "d": null,
+        "j": "NINA SIMONE SPECIAL",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "LAMIN FOFANA (R)",
+        "s": "2026-04-22T01:00:00+01:00",
+        "e": "2026-04-22T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "Buried Light w/ Adas",
         "s": "2026-04-22T02:00:00+01:00",
         "e": "2026-04-22T03:00:00+01:00",
@@ -251,7 +259,7 @@
         "u": null
       },
       {
-        "n": "TIMETABLE",
+        "n": "Timetable w/ DAITO MANABE, MOUNT XLR, & NOSAJ THING",
         "s": "2026-04-22T03:00:00+01:00",
         "e": "2026-04-22T04:00:00+01:00",
         "d": null,
@@ -336,16 +344,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Atiké",
-        "s": "2026-04-21T15:00:00Z",
-        "e": "2026-04-21T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "atik"
-      },
       {
         "n": "Pressure",
         "s": "2026-04-21T16:00:00Z",
@@ -1544,6 +1542,16 @@
         "u": null,
         "t": "monthly",
         "p": "noiselandarcade"
+      },
+      {
+        "n": "Maliboo Selects",
+        "s": "2026-04-28T16:00:00Z",
+        "e": "2026-04-28T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "malibooselects"
       }
     ],
     "dublab": [
@@ -2096,19 +2104,6 @@
     ],
     "rinse": [
       {
-        "n": "Brighter Days Family",
-        "s": "2026-04-21T14:00:00Z",
-        "e": "2026-04-21T16:00:00Z",
-        "d": null,
-        "j": "IZCO & SamTheMan",
-        "u": null,
-        "t": "weekly",
-        "p": "brighterdaysfamily",
-        "ap": [
-          "izco"
-        ]
-      },
-      {
         "n": "Prozak",
         "s": "2026-04-21T16:00:00Z",
         "e": "2026-04-21T17:00:00Z",
@@ -2327,7 +2322,7 @@
         "s": "2026-04-22T21:00:00Z",
         "e": "2026-04-22T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Visages",
         "u": null,
         "t": "biweekly",
         "p": "1985music"
@@ -2344,15 +2339,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Jeune à Jamais",
-        "s": "2026-04-21T15:00:00Z",
-        "e": "2026-04-21T16:00:00Z",
-        "d": null,
-        "j": "invite B3BZ",
-        "u": null,
-        "p": "jeunejamais"
-      },
       {
         "n": "Rinse France Guest Show",
         "s": "2026-04-21T16:00:00Z",
@@ -2479,15 +2465,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "ALCHEMY",
-        "s": "2026-04-21T14:00:00Z",
-        "e": "2026-04-21T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "QUAZAR RADIO",
         "s": "2026-04-21T16:00:00Z",
