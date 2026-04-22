@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-22T07:21:11.597Z",
+  "updated": "2026-04-22T09:12:18.426Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
-        "s": "2026-04-22T07:00:00+01:00",
-        "e": "2026-04-22T09:00:00+01:00",
-        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
-        "j": "SPIRIT BLUE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-22nd-april-2026",
-        "t": "weekly"
-      },
       {
         "n": "The NTS Breakfast Show w/ FERGUS CLARK",
         "s": "2026-04-22T09:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-04-22T11:00:00+01:00",
         "e": "2026-04-22T13:00:00+01:00",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-22nd-april-2026",
         "t": "weekly",
         "p": "shyone"
       },
@@ -172,40 +163,32 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SITUATIONSHIP W/ JENNY CARA",
+        "s": "2026-04-23T15:00:00+01:00",
+        "e": "2026-04-23T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Dark Jugodisco w/ anetamine®",
-        "s": "2026-04-22T08:00:00+01:00",
-        "e": "2026-04-22T09:00:00+01:00",
-        "d": "This mix is my finest selection of Yugoslavian darkwave, industrial, experimental and dark disco, produced between 1980-1988 in former Yugoslavian countries. It is a result of my long-standing obsession with East European 80s wave music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-dark-jugodisco-22nd-april-2026"
-      },
-      {
-        "n": "rhythm & bloops w/ henrique",
-        "s": "2026-04-22T09:00:00+01:00",
-        "e": "2026-04-22T10:00:00+01:00",
-        "d": "a selection of tracks that highlight the influence and elements of electronic dance music subgenres such as 2-step, breakbeat and glitch hop in late 90s/early 00s mainstream R&B and pop.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-rhythm-bloops-w-henrique-22nd-april-2026"
-      },
-      {
         "n": "CROSSING AUDA CITY W/ MINATCH",
         "s": "2026-04-22T10:00:00+01:00",
         "e": "2026-04-22T11:00:00+01:00",
-        "d": null,
+        "d": "Here is a walk through a city, made up of the changing rhythm of your footsteps. You want to look at everything around you. You need to lose yourself, don't you? \nLike a heart surgeon, Minatch breaks down and reassembles on Audacity bits of sound, traces of memories and emotions from this walk.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-crossing-auda-city-w-minatch-22nd-april-2026"
       },
       {
         "n": "Natalia Panzer",
         "s": "2026-04-22T11:00:00+01:00",
         "e": "2026-04-22T12:00:00+01:00",
-        "d": null,
+        "d": "Curio earworms and other obsessions from Krakow's Natalia Panzer.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-22nd-april-2026",
         "t": "monthly",
         "p": "natalia",
         "ap": [
@@ -340,28 +323,35 @@
         "j": null,
         "u": null,
         "p": "candy"
+      },
+      {
+        "n": "Rambo Radio w/ 12manrambo",
+        "s": "2026-04-23T04:00:00+01:00",
+        "e": "2026-04-23T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ramboradio"
+      },
+      {
+        "n": "Otaku: Neon Genesis Evangelion (R)",
+        "s": "2026-04-23T05:00:00+01:00",
+        "e": "2026-04-23T06:00:00+01:00",
+        "d": null,
+        "j": "Neon Genesis Evangelion",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
       {
-        "n": "Melange w/ Weak Spell",
-        "s": "2026-04-22T07:00:00Z",
-        "e": "2026-04-22T08:00:00Z",
-        "d": null,
-        "j": "Weak Spell",
-        "u": null,
-        "t": "monthly",
-        "p": "weakspell"
-      },
-      {
-        "n": "Sport Mode",
-        "s": "2026-04-22T08:00:00Z",
-        "e": "2026-04-22T09:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-04-22T09:00:00Z",
+        "e": "2026-04-22T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "sportmode"
+        "t": "playlist"
       },
       {
         "n": "Touching Bass w/ timfromsales",
@@ -1512,8 +1502,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-22T07:00:00Z",
-        "e": "2026-04-22T09:00:00Z",
+        "s": "2026-04-22T09:00:00Z",
+        "e": "2026-04-22T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1521,8 +1511,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-22T09:00:00Z",
-        "e": "2026-04-22T11:00:00Z",
+        "s": "2026-04-22T11:00:00Z",
+        "e": "2026-04-22T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2076,15 +2066,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-04-22T06:00:00Z",
-        "e": "2026-04-22T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Esk",
         "s": "2026-04-22T08:00:00Z",
