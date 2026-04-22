@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-22T04:40:17.361Z",
+  "updated": "2026-04-22T07:21:11.597Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Extended Play Sessions (R)",
-        "s": "2026-04-22T05:00:00+01:00",
-        "e": "2026-04-22T06:00:00+01:00",
-        "d": "Long time record collector and purveyor of fine musical flavours Mr. Pedro cooks up a banquet of aural delights every other week: afrobeat to disco and more, time to liven up. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-extended-play-sessions/episodes/the-extended-play-sessions-20th-september-2025",
-        "t": "restream"
-      },
-      {
-        "n": "ORGANIC MUSIC TOKYO W/ CHEE SHIMIZU",
-        "s": "2026-04-22T06:00:00+01:00",
-        "e": "2026-04-22T07:00:00+01:00",
-        "d": "The man behind Tokyo's revered Organic Music record store takes to the airwaves for a monthly 60 minute journey through his extensive collection…",
-        "j": "CHEE SHIMIZU",
-        "u": "https://www.nts.live/api/v2/shows/organic-music/episodes/organic-music-22nd-april-2026",
-        "t": "monthly"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
         "s": "2026-04-22T07:00:00+01:00",
         "e": "2026-04-22T09:00:00+01:00",
-        "d": null,
+        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
         "j": "SPIRIT BLUE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-22nd-april-2026",
         "t": "weekly"
       },
       {
         "n": "The NTS Breakfast Show w/ FERGUS CLARK",
         "s": "2026-04-22T09:00:00+01:00",
         "e": "2026-04-22T11:00:00+01:00",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": "FERGUS CLARK",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-fergus-clark-22nd-april-2026",
         "t": "monthly",
         "p": "fergusclark"
       },
@@ -172,49 +154,42 @@
         "j": null,
         "u": null,
         "p": "systemolympia"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-04-23T11:00:00+01:00",
+        "e": "2026-04-23T13:00:00+01:00",
+        "d": null,
+        "j": "BABYSCHÖN",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "SHANTI CELESTE",
+        "s": "2026-04-23T13:00:00+01:00",
+        "e": "2026-04-23T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Ectotherm (R)",
-        "s": "2026-04-22T05:00:00+01:00",
-        "e": "2026-04-22T06:00:00+01:00",
-        "d": "An ectotherm is an organism reliant on environmental sources of heat to regulate body temperature. Ectotherm is also a Copenhagen-based record label founded by Courtesy and Mama Snake, home to releases from Schacke, Rune Bagge and Ibon.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ectotherm/episodes/ectotherm-11th-april-2018",
-        "t": "restream"
-      },
-      {
-        "n": "ØZER",
-        "s": "2026-04-22T06:00:00+01:00",
-        "e": "2026-04-22T07:00:00+01:00",
-        "d": "Cassette rips and the others.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-ozer-22nd-april-2026"
-      },
-      {
-        "n": "Dmitri Shostakovich Op.87 Preludes & Fugues w/ Monocarpics",
-        "s": "2026-04-22T07:00:00+01:00",
-        "e": "2026-04-22T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Dark Jugodisco w/ anetamine®",
         "s": "2026-04-22T08:00:00+01:00",
         "e": "2026-04-22T09:00:00+01:00",
-        "d": null,
+        "d": "This mix is my finest selection of Yugoslavian darkwave, industrial, experimental and dark disco, produced between 1980-1988 in former Yugoslavian countries. It is a result of my long-standing obsession with East European 80s wave music.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-dark-jugodisco-22nd-april-2026"
       },
       {
         "n": "rhythm & bloops w/ henrique",
         "s": "2026-04-22T09:00:00+01:00",
         "e": "2026-04-22T10:00:00+01:00",
-        "d": null,
+        "d": "a selection of tracks that highlight the influence and elements of electronic dance music subgenres such as 2-step, breakbeat and glitch hop in late 90s/early 00s mainstream R&B and pop.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-rhythm-bloops-w-henrique-22nd-april-2026"
       },
       {
         "n": "CROSSING AUDA CITY W/ MINATCH",
@@ -338,27 +313,36 @@
         "j": null,
         "u": null,
         "p": "anysiakym"
+      },
+      {
+        "n": "SIC RECORDS",
+        "s": "2026-04-23T01:00:00+01:00",
+        "e": "2026-04-23T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "sicrecords"
+      },
+      {
+        "n": "La Cosecha Internacional w/ ChickeeBaybee",
+        "s": "2026-04-23T02:00:00+01:00",
+        "e": "2026-04-23T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CANDY",
+        "s": "2026-04-23T03:00:00+01:00",
+        "e": "2026-04-23T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "candy"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-22T03:00:00Z",
-        "e": "2026-04-22T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Dip in w/Babaganoush",
-        "s": "2026-04-22T06:00:00Z",
-        "e": "2026-04-22T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Melange w/ Weak Spell",
         "s": "2026-04-22T07:00:00Z",
@@ -1527,22 +1511,22 @@
     ],
     "dublab": [
       {
-        "n": "Echo Park Film Center - Optical Track",
-        "s": "2026-04-22T03:00:00Z",
-        "e": "2026-04-22T05:00:00Z",
-        "d": null,
-        "j": "Optical Track",
-        "u": null,
-        "t": "weekly",
-        "p": "echoparkfilmcenter"
-      },
-      {
-        "n": "DWELL TIME",
-        "s": "2026-04-22T05:00:00Z",
-        "e": "2026-04-22T07:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-04-22T07:00:00Z",
+        "e": "2026-04-22T09:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-22T09:00:00Z",
+        "e": "2026-04-22T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Seano - The Treehouse",
@@ -2076,27 +2060,22 @@
         "u": null,
         "t": "weekly",
         "p": "echoparkfilmcenter"
+      },
+      {
+        "n": "Wyldeflower and PayRay - nueve",
+        "s": "2026-04-29T05:00:00Z",
+        "e": "2026-04-29T07:00:00Z",
+        "d": null,
+        "j": "nueve",
+        "u": null,
+        "t": "monthly",
+        "p": "payray",
+        "ap": [
+          "wyldeflower"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-04-22T02:00:00Z",
-        "e": "2026-04-22T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Dyslecta",
-        "s": "2026-04-22T05:00:00Z",
-        "e": "2026-04-22T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "dyslecta"
-      },
       {
         "n": "Playlist",
         "s": "2026-04-22T06:00:00Z",
@@ -2402,15 +2381,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-21T22:00:00Z",
-        "e": "2026-04-22T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-22T07:00:00Z",
         "e": "2026-04-22T12:00:00Z",
         "d": null,
@@ -2419,26 +2389,35 @@
         "t": "playlist"
       },
       {
-        "n": "TONAK.fm",
+        "n": "MENTAL HEALTH RADIO par Stencia",
         "s": "2026-04-22T12:00:00Z",
-        "e": "2026-04-22T14:00:00Z",
+        "e": "2026-04-22T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "Naomi",
+        "n": "WEDOMiEL",
+        "s": "2026-04-22T13:00:00Z",
+        "e": "2026-04-22T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "wedomiel"
+      },
+      {
+        "n": "NegoO",
         "s": "2026-04-22T14:00:00Z",
         "e": "2026-04-22T15:00:00Z",
         "d": null,
-        "j": "présente Club Gems",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "naomi"
+        "t": "biweekly"
       },
       {
-        "n": "Kaïlys",
+        "n": "Lola Ondikwa",
         "s": "2026-04-22T15:00:00Z",
         "e": "2026-04-22T16:00:00Z",
         "d": null,
@@ -2447,9 +2426,90 @@
         "t": "biweekly"
       },
       {
-        "n": "Scarlett",
+        "n": "Feadz",
         "s": "2026-04-22T16:00:00Z",
         "e": "2026-04-22T17:00:00Z",
+        "d": null,
+        "j": "BAILE FUNK & KUDURO (SPLIT#4)",
+        "u": null,
+        "t": "biweekly",
+        "p": "feadz"
+      },
+      {
+        "n": "Pura Pura B2B Nextdimensional",
+        "s": "2026-04-22T17:00:00Z",
+        "e": "2026-04-22T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Beau Mot Plage",
+        "s": "2026-04-22T18:00:00Z",
+        "e": "2026-04-22T19:00:00Z",
+        "d": null,
+        "j": "w/ Gauvain, Gira, Namur, Hoser",
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-22T19:00:00Z",
+        "e": "2026-04-22T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-22T22:00:00Z",
+        "e": "2026-04-23T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-23T07:00:00Z",
+        "e": "2026-04-23T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "TONAK.fm",
+        "s": "2026-04-23T12:00:00Z",
+        "e": "2026-04-23T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Naomi",
+        "s": "2026-04-23T14:00:00Z",
+        "e": "2026-04-23T15:00:00Z",
+        "d": null,
+        "j": "présente Club Gems",
+        "u": null,
+        "t": "biweekly",
+        "p": "naomi"
+      },
+      {
+        "n": "Kaïlys",
+        "s": "2026-04-23T15:00:00Z",
+        "e": "2026-04-23T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Scarlett",
+        "s": "2026-04-23T16:00:00Z",
+        "e": "2026-04-23T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2457,8 +2517,8 @@
       },
       {
         "n": "Roulita",
-        "s": "2026-04-22T17:00:00Z",
-        "e": "2026-04-22T18:00:00Z",
+        "s": "2026-04-23T17:00:00Z",
+        "e": "2026-04-23T18:00:00Z",
         "d": null,
         "j": "invite Mario Picosso",
         "u": null,
@@ -2466,8 +2526,8 @@
       },
       {
         "n": "To Van Kao",
-        "s": "2026-04-22T18:00:00Z",
-        "e": "2026-04-22T19:00:00Z",
+        "s": "2026-04-23T18:00:00Z",
+        "e": "2026-04-23T19:00:00Z",
         "d": null,
         "j": "invite Sandy's Trace",
         "u": null,
@@ -2476,8 +2536,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-04-22T19:00:00Z",
-        "e": "2026-04-22T20:00:00Z",
+        "s": "2026-04-23T19:00:00Z",
+        "e": "2026-04-23T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2485,15 +2545,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "CAMP SESSIONS RADIO",
-        "s": "2026-04-22T04:00:00Z",
-        "e": "2026-04-22T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Restream",
         "s": "2026-04-22T06:00:00Z",
