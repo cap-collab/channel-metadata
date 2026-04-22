@@ -1,17 +1,16 @@
 {
   "v": 2,
-  "updated": "2026-04-22T15:04:58.123Z",
+  "updated": "2026-04-22T16:50:55.401Z",
   "stations": {
     "nts1": [
       {
-        "n": "LOUISE CHEN",
-        "s": "2026-04-22T15:00:00+01:00",
-        "e": "2026-04-22T17:00:00+01:00",
-        "d": "Parisian party instigator Louise Chen pulls from a timeless well of classic & modern house, disco, soul, pop, & more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/louise-chen/episodes/louise-chen-22nd-april-2026",
-        "t": "biweekly",
-        "p": "louisechen"
+        "n": "SHANTI CELESTE - RECORDED LIVE AT YU YU, MEXICO CITY (R)",
+        "s": "2026-04-22T17:00:00+01:00",
+        "e": "2026-04-22T19:00:00+01:00",
+        "d": "Two hours of Shanti's set at Yu Yu in Mexico City, recored back in February. ",
+        "j": "RECORDED LIVE AT YU YU, MEXICO CITY",
+        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanti-celeste-11th-july-2019",
+        "t": "restream"
       },
       {
         "n": "PEACH",
@@ -180,16 +179,6 @@
     ],
     "nts2": [
       {
-        "n": "ZEL ZELE",
-        "s": "2026-04-22T16:00:00+01:00",
-        "e": "2026-04-22T17:00:00+01:00",
-        "d": "London & Istanbul based record label Zel Zele takes us on a monthly ride to earthly wonders and cosmic adventures. Bite the lip take the trip!\nFrom the host: \"playing latest digs from Brazil\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/zel-zele/episodes/zel-zele-22nd-april-2026",
-        "t": "monthly",
-        "p": "zelzele"
-      },
-      {
         "n": "Rio Doce",
         "s": "2026-04-22T17:00:00+01:00",
         "e": "2026-04-22T19:00:00+01:00",
@@ -203,9 +192,9 @@
         "n": "Amarillo on Everything w/ Hayden Pedigo",
         "s": "2026-04-22T19:00:00+01:00",
         "e": "2026-04-22T20:00:00+01:00",
-        "d": null,
+        "d": "Guitarist and Amarillo native Hayden Pedigo takes you on a roadtrip through the Texas panhandle, sharing prog, country, and instrumental guitar favorites.",
         "j": "Hayden Pedigo",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hayden-pedigo/episodes/hayden-pedigo-22nd-april-2026",
         "t": "monthly",
         "p": "haydenpedigo"
       },
@@ -339,19 +328,18 @@
         "u": null,
         "t": "monthly",
         "p": "ashleywales"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Rushmoor",
-        "s": "2026-04-22T15:00:00Z",
-        "e": "2026-04-22T16:00:00Z",
+        "n": "Conrad Standish Presents Yuki Nakagawa",
+        "s": "2026-04-23T12:00:00+01:00",
+        "e": "2026-04-23T13:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "rushmoor"
-      },
+        "p": "conradstandish"
+      }
+    ],
+    "subtle": [
       {
         "n": "baeker",
         "s": "2026-04-22T16:00:00Z",
@@ -1995,16 +1983,6 @@
     ],
     "rinse": [
       {
-        "n": "Utopia Presents",
-        "s": "2026-04-22T14:00:00Z",
-        "e": "2026-04-22T16:00:00Z",
-        "d": null,
-        "j": "JJAMZ & Goldtooth",
-        "u": null,
-        "t": "weekly",
-        "p": "utopiapresents"
-      },
-      {
         "n": "Braga Circuit",
         "s": "2026-04-22T16:00:00Z",
         "e": "2026-04-22T17:00:00Z",
@@ -2019,10 +1997,13 @@
         "s": "2026-04-22T17:00:00Z",
         "e": "2026-04-22T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B harpriya",
         "u": null,
         "t": "monthly",
-        "p": "buckley"
+        "p": "buckley",
+        "ap": [
+          "harpriya"
+        ]
       },
       {
         "n": "Saint Ludo",
@@ -2125,7 +2106,7 @@
         "s": "2026-04-23T08:00:00Z",
         "e": "2026-04-23T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "BINA.",
         "u": null,
         "t": "weekly",
         "p": "yazminlacey"
@@ -2153,7 +2134,7 @@
         "s": "2026-04-23T12:00:00Z",
         "e": "2026-04-23T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Outkast Mix",
         "u": null,
         "t": "weekly",
         "p": "skvibemaker"
@@ -2183,27 +2164,27 @@
         "s": "2026-04-23T16:00:00Z",
         "e": "2026-04-23T17:00:00Z",
         "d": null,
-        "j": "Joey Manzi",
+        "j": "Retromigration",
         "u": null,
         "t": "weekly"
       },
       {
-        "n": "G33",
+        "n": "Mona Yim",
         "s": "2026-04-23T17:00:00Z",
         "e": "2026-04-23T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "g33"
+        "t": "monthly"
       },
       {
-        "n": "Chamber 45",
+        "n": "Chamber45",
         "s": "2026-04-23T18:00:00Z",
         "e": "2026-04-23T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "chamber45"
+        "t": "biweekly"
       },
       {
         "n": "JAEL",
@@ -2236,14 +2217,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Enzo M.",
-        "s": "2026-04-22T15:00:00Z",
-        "e": "2026-04-22T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Feadz",
         "s": "2026-04-22T16:00:00Z",
@@ -2364,15 +2337,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "FLOCK RADIO",
-        "s": "2026-04-22T14:00:00Z",
-        "e": "2026-04-22T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "THIRD ROOM RADIO",
         "s": "2026-04-22T16:00:00Z",
