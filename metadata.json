@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-22T13:06:02.688Z",
+  "updated": "2026-04-22T15:04:58.123Z",
   "stations": {
     "nts1": [
-      {
-        "n": "IN FOCUS: ROMANTHONY (R)",
-        "s": "2026-04-22T14:00:00+01:00",
-        "e": "2026-04-22T15:00:00+01:00",
-        "d": "Pure dancefloor joy from one of house music's most soulful producers and charismatic vocalists. Selected by Finn.",
-        "j": "ROMANTHONY",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-romanthony-22nd-august-2025",
-        "t": "restream"
-      },
       {
         "n": "LOUISE CHEN",
         "s": "2026-04-22T15:00:00+01:00",
@@ -35,9 +26,10 @@
         "n": "MINA",
         "s": "2026-04-22T19:00:00+01:00",
         "e": "2026-04-22T20:00:00+01:00",
-        "d": null,
+        "d": "All the biggest bangers from around the world with Mina and guests every month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mina/episodes/mina-22nd-april-2026",
+        "t": "monthly",
         "p": "mina"
       },
       {
@@ -77,13 +69,22 @@
         "p": "umru"
       },
       {
-        "n": "DARIA KOLOSOVA",
+        "n": "IN FOCUS: APHEX TWIN (R)",
         "s": "2026-04-23T00:00:00+01:00",
-        "e": "2026-04-23T01:00:00+01:00",
+        "e": "2026-04-23T02:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "APHEX TWIN",
         "u": null,
-        "p": "dariakolosova"
+        "t": "restream"
+      },
+      {
+        "n": "HIGH SUMMER W/ ARP (R)",
+        "s": "2026-04-23T02:00:00+01:00",
+        "e": "2026-04-23T04:00:00+01:00",
+        "d": null,
+        "j": "ARP",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Maria Somerville (R)",
@@ -179,30 +180,12 @@
     ],
     "nts2": [
       {
-        "n": "HIGH JAZZ* W/ ILL DUBIO",
-        "s": "2026-04-22T14:00:00+01:00",
-        "e": "2026-04-22T15:00:00+01:00",
-        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
-        "j": "ILL DUBIO",
-        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-22nd-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ARUSHI JAIN - Springtime Ragas pt. 1",
-        "s": "2026-04-22T15:00:00+01:00",
-        "e": "2026-04-22T16:00:00+01:00",
-        "d": "All-genre NTS monthly by New York–based, New Delhi–born Arushi Jain fka modularprincess\nFrom the host: \"opens with a 1968 recording of sisters Hirabai Barodekar and Saraswati Rane singing Basant Bahar; U. Srinivas (brought the electric mandolin to Carnatic), plays Raga Hindolam; Hindustani violin duet on pure Basant ft. N. Rajam and Zakir Hussain; closing dhrupad from Ustad Faiyaz Wasifuddin Dagar\"",
-        "j": "Springtime Ragas pt. 1",
-        "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-22nd-april-2026",
-        "t": "monthly"
-      },
-      {
         "n": "ZEL ZELE",
         "s": "2026-04-22T16:00:00+01:00",
         "e": "2026-04-22T17:00:00+01:00",
-        "d": null,
+        "d": "London & Istanbul based record label Zel Zele takes us on a monthly ride to earthly wonders and cosmic adventures. Bite the lip take the trip!\nFrom the host: \"playing latest digs from Brazil\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zel-zele/episodes/zel-zele-22nd-april-2026",
         "t": "monthly",
         "p": "zelzele"
       },
@@ -210,9 +193,9 @@
         "n": "Rio Doce",
         "s": "2026-04-22T17:00:00+01:00",
         "e": "2026-04-22T19:00:00+01:00",
-        "d": null,
+        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-22nd-april-2026",
         "t": "monthly",
         "p": "riodoce"
       },
@@ -338,29 +321,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "JAPANESE MOVIE SOUNDTRACKS W/ SOPHIE LINER",
+        "s": "2026-04-23T10:00:00+01:00",
+        "e": "2026-04-23T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Westward Ho! w/ Ashley Wales",
+        "s": "2026-04-23T11:00:00+01:00",
+        "e": "2026-04-23T12:00:00+01:00",
+        "d": null,
+        "j": "Ashley Wales",
+        "u": null,
+        "t": "monthly",
+        "p": "ashleywales"
       }
     ],
     "subtle": [
-      {
-        "n": "bin",
-        "s": "2026-04-22T13:00:00Z",
-        "e": "2026-04-22T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "bin"
-      },
-      {
-        "n": "Baked Biscuit",
-        "s": "2026-04-22T14:00:00Z",
-        "e": "2026-04-22T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "bakedbiscuit"
-      },
       {
         "n": "Rushmoor",
         "s": "2026-04-22T15:00:00Z",
@@ -705,13 +686,12 @@
         "p": "lakey"
       },
       {
-        "n": " Rav Fasi",
+        "n": "The PICKNMIX Show b2b MOBY",
         "s": "2026-04-24T12:00:00Z",
         "e": "2026-04-24T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Cam Yates",
@@ -1458,15 +1438,6 @@
     ],
     "dublab": [
       {
-        "n": "sounds of NOW",
-        "s": "2026-04-22T13:00:00Z",
-        "e": "2026-04-22T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Seano - The Treehouse",
         "s": "2026-04-22T15:00:00Z",
         "e": "2026-04-22T17:00:00Z",
@@ -1475,6 +1446,15 @@
         "u": null,
         "t": "monthly",
         "p": "seano"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-04-22T17:00:00Z",
+        "e": "2026-04-22T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Jennifer Herrema and Kurt Midness - The Banana Question",
@@ -2015,16 +1995,6 @@
     ],
     "rinse": [
       {
-        "n": "Jasper James",
-        "s": "2026-04-22T13:00:00Z",
-        "e": "2026-04-22T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "jasperjames"
-      },
-      {
         "n": "Utopia Presents",
         "s": "2026-04-22T14:00:00Z",
         "e": "2026-04-22T16:00:00Z",
@@ -2171,14 +2141,12 @@
         "p": "chunky"
       },
       {
-        "n": "Rollo Jackson",
+        "n": "Quantic",
         "s": "2026-04-23T11:00:00Z",
         "e": "2026-04-23T12:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "rollojackson"
+        "u": null
       },
       {
         "n": "SK Vibemaker",
@@ -2268,25 +2236,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "WEDOMiEL",
-        "s": "2026-04-22T13:00:00Z",
-        "e": "2026-04-22T14:00:00Z",
-        "d": null,
-        "j": "invite THISIZLONDON",
-        "u": null,
-        "t": "biweekly",
-        "p": "wedomiel"
-      },
-      {
-        "n": "NegoO",
-        "s": "2026-04-22T14:00:00Z",
-        "e": "2026-04-22T15:00:00Z",
-        "d": null,
-        "j": "Batida Unica invite Nery Pro",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Enzo M.",
         "s": "2026-04-22T15:00:00Z",
@@ -2415,15 +2364,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "TELEMETRY",
-        "s": "2026-04-22T12:00:00Z",
-        "e": "2026-04-22T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "FLOCK RADIO",
         "s": "2026-04-22T14:00:00Z",
