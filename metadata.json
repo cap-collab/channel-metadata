@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-22T09:12:18.426Z",
+  "updated": "2026-04-22T10:57:42.549Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ FERGUS CLARK",
-        "s": "2026-04-22T09:00:00+01:00",
-        "e": "2026-04-22T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": "FERGUS CLARK",
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-fergus-clark-22nd-april-2026",
-        "t": "monthly",
-        "p": "fergusclark"
-      },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-04-22T11:00:00+01:00",
@@ -27,13 +17,22 @@
         "n": "LUNCH CLUB W/ FINN",
         "s": "2026-04-22T13:00:00+01:00",
         "e": "2026-04-22T14:00:00+01:00",
-        "d": null,
+        "d": "Dance music with feeling, lunch time with Finn",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lunch-club/episodes/lunch-club-22nd-april-2026",
         "p": "finn",
         "ap": [
           "lunchclub"
         ]
+      },
+      {
+        "n": "IN FOCUS: ROMANTHONY (R)",
+        "s": "2026-04-22T14:00:00+01:00",
+        "e": "2026-04-22T15:00:00+01:00",
+        "d": null,
+        "j": "ROMANTHONY",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "LOUISE CHEN",
@@ -82,7 +81,7 @@
         "u": null
       },
       {
-        "n": "GIGI FM",
+        "n": "GIGI FM presents Nao",
         "s": "2026-04-22T22:00:00+01:00",
         "e": "2026-04-22T23:00:00+01:00",
         "d": null,
@@ -171,17 +170,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "OK WILLIAMS",
+        "s": "2026-04-23T16:00:00+01:00",
+        "e": "2026-04-23T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "okwilliams"
       }
     ],
     "nts2": [
-      {
-        "n": "CROSSING AUDA CITY W/ MINATCH",
-        "s": "2026-04-22T10:00:00+01:00",
-        "e": "2026-04-22T11:00:00+01:00",
-        "d": "Here is a walk through a city, made up of the changing rhythm of your footsteps. You want to look at everything around you. You need to lose yourself, don't you? \nLike a heart surgeon, Minatch breaks down and reassembles on Audacity bits of sound, traces of memories and emotions from this walk.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-crossing-auda-city-w-minatch-22nd-april-2026"
-      },
       {
         "n": "Natalia Panzer",
         "s": "2026-04-22T11:00:00+01:00",
@@ -199,9 +200,10 @@
         "n": "Tara Clerkin Trio",
         "s": "2026-04-22T12:00:00+01:00",
         "e": "2026-04-22T13:00:00+01:00",
-        "d": null,
+        "d": "Off-centre rhythms, muted electronics & slick modern compositions in a monthly missive from the Bristolian psych-rock jammers…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/tara-clerkin-trio/episodes/tara-clerkin-trio-22nd-april-2026",
+        "t": "monthly"
       },
       {
         "n": "Mil Townley",
@@ -222,11 +224,11 @@
         "t": "monthly"
       },
       {
-        "n": "ARUSHI JAIN",
+        "n": "ARUSHI JAIN - Springtime Ragas pt. 1",
         "s": "2026-04-22T15:00:00+01:00",
         "e": "2026-04-22T16:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Springtime Ragas pt. 1",
         "u": null,
         "t": "monthly"
       },
@@ -341,18 +343,25 @@
         "j": "Neon Genesis Evangelion",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Save the bug! w/ atmos.vera",
+        "s": "2026-04-23T06:00:00+01:00",
+        "e": "2026-04-23T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Amiga 500 Games W/ nonsenz",
+        "s": "2026-04-23T07:00:00+01:00",
+        "e": "2026-04-23T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-22T09:00:00Z",
-        "e": "2026-04-22T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Touching Bass w/ timfromsales",
         "s": "2026-04-22T10:00:00Z",
@@ -2067,16 +2076,6 @@
     ],
     "rinse": [
       {
-        "n": "Esk",
-        "s": "2026-04-22T08:00:00Z",
-        "e": "2026-04-22T10:00:00Z",
-        "d": null,
-        "j": "Laalls",
-        "u": null,
-        "t": "weekly",
-        "p": "esk"
-      },
-      {
         "n": "DJ Gilla",
         "s": "2026-04-22T10:00:00Z",
         "e": "2026-04-22T11:00:00Z",
@@ -2121,7 +2120,7 @@
         "s": "2026-04-22T14:00:00Z",
         "e": "2026-04-22T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "JJAMZ & Goldtooth",
         "u": null,
         "t": "weekly",
         "p": "utopiapresents"
@@ -2383,7 +2382,7 @@
         "s": "2026-04-22T13:00:00Z",
         "e": "2026-04-22T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite THISIZLONDON",
         "u": null,
         "t": "biweekly",
         "p": "wedomiel"
@@ -2393,7 +2392,7 @@
         "s": "2026-04-22T14:00:00Z",
         "e": "2026-04-22T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Batida Unica invite Nery Pro",
         "u": null,
         "t": "biweekly"
       },
