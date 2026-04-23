@@ -1,39 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-04-23T20:43:45.114Z",
+  "updated": "2026-04-23T22:36:00.295Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE TIM & BARRY SHOW",
-        "s": "2026-04-23T20:00:00+01:00",
-        "e": "2026-04-23T22:00:00+01:00",
-        "d": "Tim & Barry have been documenting underground music since 2000. Journey from the latest UK drill back in time to classic grime and garage, all the way to afrobeats, dancehall and RnB. Expect the unexpected.\nFrom the host: \"this show sees Ian mix 2010's afrobeats with  new Bacardi, Baile Funk & electro followe by Tim blending sounds from Brazil, Angola, Lisbon Chicago and of course Dennery\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dont-watch-that/episodes/dont-watch-that-23rd-april-2026"
-      },
-      {
-        "n": "LIGHTER DANCE W/ KORANTEMMA",
-        "s": "2026-04-23T22:00:00+01:00",
-        "e": "2026-04-23T23:00:00+01:00",
-        "d": "DJ, designer, art director Kemarr takes over the NTS airwaves. airhorn",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kemarr/episodes/kemarr-23rd-april-2026"
-      },
       {
         "n": "Sewa Choki",
         "s": "2026-04-23T23:00:00+01:00",
         "e": "2026-04-24T00:00:00+01:00",
-        "d": null,
+        "d": "An hour of cutting edge club mutations and Yaqui musical influence from Texas’ Sewa Choki. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sewa-choki-23rd-april-2026"
       },
       {
         "n": "MOBBS",
         "s": "2026-04-24T00:00:00+01:00",
         "e": "2026-04-24T02:00:00+01:00",
-        "d": null,
+        "d": "MOBBS chopping up whatever he finds \nohm.mobbs@protonmail.com",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mobbs/episodes/mobbs-24th-april-2026",
         "t": "monthly",
         "p": "mobbs"
       },
@@ -164,43 +148,45 @@
         "u": null,
         "t": "biweekly",
         "p": "martha"
+      },
+      {
+        "n": "PLATOS COMBINADOS W/ JOE COTCH",
+        "s": "2026-04-24T19:00:00+01:00",
+        "e": "2026-04-24T20:00:00+01:00",
+        "d": null,
+        "j": "JOE COTCH",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "EASTERN MARGINS",
+        "s": "2026-04-24T20:00:00+01:00",
+        "e": "2026-04-24T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "easternmargins"
       }
     ],
     "nts2": [
       {
-        "n": "GEOLOGIST PRESENTS: THE O'BRIEN SYSTEM",
-        "s": "2026-04-23T21:00:00+01:00",
-        "e": "2026-04-23T22:00:00+01:00",
-        "d": "Brian Weitz has been making music as Geologist with Animal Collective for going on two decades.  The egg first cracked in the mid 90's at Baltimore record fairs and long overnight radio shows in New York on WKCR.  Whether making sounds in the practice space or playing records, his bandmates call it the O'Brien System. One Tuesday each month you can go there with him on NTS 2.",
-        "j": "THE O'BRIEN SYSTEM",
-        "u": "https://www.nts.live/api/v2/shows/geologist/episodes/geologist-23rd-april-2026",
-        "t": "monthly",
-        "p": "geologist"
-      },
-      {
-        "n": "CHUQUIMAMANI-CONDORI - Leave",
-        "s": "2026-04-23T22:00:00+01:00",
-        "e": "2026-04-23T23:00:00+01:00",
-        "d": "Into the expansive sonic universe of Chuquimamani-Condori: timestretched romanticism, chopped ballads, stargazing country and ancestral travelling.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/chuquimamani-condori/episodes/chuquimamani-condori-23rd-april-2026"
-      },
-      {
         "n": "Brown Acid Trippin' w/ Lance Barresi & DJ Tara Dactyl",
         "s": "2026-04-23T23:00:00+01:00",
         "e": "2026-04-24T00:00:00+01:00",
-        "d": null,
+        "d": "Life is short, have more fun. Lance Barresi of Permanent Records goes for all vinyl 45's, live and direct from the Los Angeles studio.\nFrom the host: \"An alphabetical journey through the Brown Acid Archives. All of these tracks come from real, vintage vinyl 45s from Hard Rock, Heavy Psych, and Proto-Metal artists beginning with the letter R!”",
         "j": "Lance Barresi & DJ Tara Dactyl",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/brown-acid-journey/episodes/brown-acid-journey-23rd-april-2026",
         "t": "monthly"
       },
       {
         "n": "Mishka",
         "s": "2026-04-24T00:00:00+01:00",
         "e": "2026-04-24T01:00:00+01:00",
-        "d": null,
+        "d": "An auditory exploration with SF native Mishka ranging from synth pop and balearic to softrock and global dance gems. One hour, once a month, with love. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mishka/episodes/mishka-24th-april-2026",
+        "t": "monthly",
         "p": "mishka"
       },
       {
@@ -322,18 +308,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "SI*BL",
-        "s": "2026-04-23T20:00:00Z",
-        "e": "2026-04-23T21:00:00Z",
+        "n": "ANDY BUTLER",
+        "s": "2026-04-24T17:00:00+01:00",
+        "e": "2026-04-24T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "andybutler"
       },
+      {
+        "n": "White Fence",
+        "s": "2026-04-24T18:00:00+01:00",
+        "e": "2026-04-24T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Cue:Rated",
         "s": "2026-04-23T21:00:00Z",
@@ -342,6 +337,15 @@
         "j": "Rated",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-04-23T23:00:00Z",
+        "e": "2026-04-24T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": " Out of the Dark",
@@ -1216,19 +1220,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Kostas",
+        "s": "2026-04-30T22:00:00Z",
+        "e": "2026-04-30T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "kostas"
       }
     ],
     "dublab": [
-      {
-        "n": "Jimmy Tamborello - Dying Songs",
-        "s": "2026-04-23T19:00:00Z",
-        "e": "2026-04-23T21:00:00Z",
-        "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
-        "j": "Dying Songs",
-        "u": null,
-        "t": "weekly",
-        "p": "jimmytamborello"
-      },
       {
         "n": "Apiento’s New Age Dance Show",
         "s": "2026-04-23T21:00:00Z",
@@ -1758,28 +1761,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FROM THE VAULTS: Carlos Niño – SUN RA SPECIAL (03.08.07)",
+        "s": "2026-04-30T21:00:00Z",
+        "e": "2026-04-30T21:50:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "FROM THE VAULTS: Mahssa Mix (11.16.07)",
+        "s": "2026-04-30T21:50:00Z",
+        "e": "2026-04-30T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "JAEL",
-        "s": "2026-04-23T19:00:00Z",
-        "e": "2026-04-23T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "NIKS",
-        "s": "2026-04-23T21:00:00Z",
-        "e": "2026-04-23T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "niks"
-      },
       {
         "n": "DJ Plead",
         "s": "2026-04-23T22:00:00Z",
@@ -1935,15 +1935,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-23T19:00:00Z",
-        "e": "2026-04-23T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-23T22:00:00Z",
         "e": "2026-04-24T07:00:00Z",
         "d": null,
@@ -2036,16 +2027,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "HONEY CAFE",
-        "s": "2026-04-23T19:00:00Z",
-        "e": "2026-04-23T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "honey"
-      },
       {
         "n": "NICE PULP RADIO",
         "s": "2026-04-23T21:00:00Z",
