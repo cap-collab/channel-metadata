@@ -1,34 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-04-23T04:44:49.870Z",
+  "updated": "2026-04-23T07:23:49.946Z",
   "stations": {
     "nts1": [
       {
-        "n": "Doing Time (R)",
-        "s": "2026-04-23T05:00:00+01:00",
-        "e": "2026-04-23T07:00:00+01:00",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-10th-december-2023",
-        "t": "restream",
-        "p": "doingtime"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "n": "THE EARLY BIRD SHOW W/ PAM & Gracchus Nortug",
         "s": "2026-04-23T07:00:00+01:00",
         "e": "2026-04-23T09:00:00+01:00",
         "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": "PAM",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-23rd-april-2026",
-        "t": "weekly"
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-23rd-april-2026"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ SYSTEM OLYMPIA",
         "s": "2026-04-23T09:00:00+01:00",
         "e": "2026-04-23T11:00:00+01:00",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-system-olympia-23rd-april-2026",
         "p": "systemolympia"
       },
       {
@@ -165,49 +154,33 @@
         "u": null,
         "t": "restream",
         "p": "sophiazhuravkova"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "s": "2026-04-24T07:00:00+01:00",
+        "e": "2026-04-24T09:00:00+01:00",
+        "d": null,
+        "j": "JACK ROLLO",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "Otaku: Neon Genesis Evangelion (R)",
-        "s": "2026-04-23T05:00:00+01:00",
-        "e": "2026-04-23T06:00:00+01:00",
-        "d": "Soundtrack moments from Hidetaki Anno's anime masterwork Neon Genesis Evangelion.",
-        "j": "Neon Genesis Evangelion",
-        "u": "https://www.nts.live/api/v2/shows/otaku/episodes/otaku-neon-genesis-evangelion-12th-august-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Save the bug! w/ atmos.vera",
-        "s": "2026-04-23T06:00:00+01:00",
-        "e": "2026-04-23T07:00:00+01:00",
-        "d": "If you ever understand bugs, their language will be something like that. Textures, noises, glitches. Approved by Kafka.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-save-the-bug-w-atmosvera-23rd-april-2026"
-      },
-      {
-        "n": "Amiga 500 Games W/ nonsenz",
-        "s": "2026-04-23T07:00:00+01:00",
-        "e": "2026-04-23T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "European Avant-Pop 1981–1988 w/ Uwe La Rog",
         "s": "2026-04-23T08:00:00+01:00",
         "e": "2026-04-23T09:00:00+01:00",
-        "d": null,
+        "d": "European avant-pop and experimental synth, 1981–1988. Strange and danceable, romantic and minor-key. Lika a dark Pierrot in an avant-garde ballet. Rooted in underground scenes in Belgium, France and Germany: experimental, left-field and off-centre.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-european-avant-pop-1981-1988-w-uwe-la-rog-23rd-april-2026"
       },
       {
         "n": "MODULATION BASS W/ SLOWSEPH",
         "s": "2026-04-23T09:00:00+01:00",
         "e": "2026-04-23T10:00:00+01:00",
-        "d": null,
+        "d": "This mix pulls out a minor thread that runs through 'post-punk' genre agnosticism: the foreboding, slippery, and often goofy sound of modulated bass guitar.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-modulation-bass-w-slowseph-23rd-april-2026"
       },
       {
         "n": "JAPANESE MOVIE SOUNDTRACKS W/ SOPHIE LINER",
@@ -328,27 +301,35 @@
         "j": "Lance Barresi & DJ Tara Dactyl",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-04-23T03:00:00Z",
-        "e": "2026-04-23T06:00:00Z",
+        "n": "Mishka",
+        "s": "2026-04-24T00:00:00+01:00",
+        "e": "2026-04-24T01:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "p": "mishka"
       },
       {
-        "n": "Insider Trading w/ APOLLO",
-        "s": "2026-04-23T06:00:00Z",
-        "e": "2026-04-23T07:00:00Z",
+        "n": "BLOOMING IN FILTH W/ USER2222 (R)",
+        "s": "2026-04-24T01:00:00+01:00",
+        "e": "2026-04-24T02:00:00+01:00",
         "d": null,
-        "j": "APOLLO",
+        "j": "USER2222",
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
+      {
+        "n": "deadAir - Transmissions w/ Ali RQ",
+        "s": "2026-04-24T02:00:00+01:00",
+        "e": "2026-04-24T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "On Wax w/ Samuel Alexander",
         "s": "2026-04-23T07:00:00Z",
@@ -1323,22 +1304,22 @@
     ],
     "dublab": [
       {
-        "n": "Father/Daughter Funk Hour",
-        "s": "2026-04-23T03:00:00Z",
-        "e": "2026-04-23T05:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-04-23T06:00:00Z",
+        "e": "2026-04-23T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
-        "n": "Change of Heart",
-        "s": "2026-04-23T05:00:00Z",
-        "e": "2026-04-23T06:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-04-23T08:00:00Z",
+        "e": "2026-04-23T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -1884,24 +1865,6 @@
     ],
     "rinse": [
       {
-        "n": "Electronic Playlist",
-        "s": "2026-04-23T02:00:00Z",
-        "e": "2026-04-23T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Papa Nugs",
-        "s": "2026-04-23T05:00:00Z",
-        "e": "2026-04-23T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "papanugs"
-      },
-      {
         "n": "Playlist",
         "s": "2026-04-23T06:00:00Z",
         "e": "2026-04-23T08:00:00Z",
@@ -2167,15 +2130,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-22T22:00:00Z",
-        "e": "2026-04-23T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-23T07:00:00Z",
         "e": "2026-04-23T12:00:00Z",
         "d": null,
@@ -2184,9 +2138,92 @@
         "t": "playlist"
       },
       {
-        "n": "Playlist France",
+        "n": "TONAK.fm",
         "s": "2026-04-23T12:00:00Z",
-        "e": "2026-04-23T13:00:00Z",
+        "e": "2026-04-23T14:00:00Z",
+        "d": null,
+        "j": "Music For The Soul #17 (w/ Donna Gibson)",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Naomi",
+        "s": "2026-04-23T14:00:00Z",
+        "e": "2026-04-23T15:00:00Z",
+        "d": null,
+        "j": "présente Club Gems",
+        "u": null,
+        "t": "biweekly",
+        "p": "naomi"
+      },
+      {
+        "n": "Kaïlys",
+        "s": "2026-04-23T15:00:00Z",
+        "e": "2026-04-23T16:00:00Z",
+        "d": null,
+        "j": "Laboshadory : invites Heezy",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Scarlett",
+        "s": "2026-04-23T16:00:00Z",
+        "e": "2026-04-23T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Roulita",
+        "s": "2026-04-23T17:00:00Z",
+        "e": "2026-04-23T18:00:00Z",
+        "d": null,
+        "j": "invite Mario Picosso",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "To Van Kao",
+        "s": "2026-04-23T18:00:00Z",
+        "e": "2026-04-23T19:00:00Z",
+        "d": null,
+        "j": "invite Sandy's Trace",
+        "u": null,
+        "t": "biweekly",
+        "p": "tovankao"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-23T19:00:00Z",
+        "e": "2026-04-23T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-23T22:00:00Z",
+        "e": "2026-04-24T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-24T07:00:00Z",
+        "e": "2026-04-24T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-04-24T12:00:00Z",
+        "e": "2026-04-24T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2194,8 +2231,8 @@
       },
       {
         "n": "Jazztronicz",
-        "s": "2026-04-23T13:00:00Z",
-        "e": "2026-04-23T14:00:00Z",
+        "s": "2026-04-24T13:00:00Z",
+        "e": "2026-04-24T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2203,8 +2240,8 @@
       },
       {
         "n": "Dann SSV",
-        "s": "2026-04-23T14:00:00Z",
-        "e": "2026-04-23T15:00:00Z",
+        "s": "2026-04-24T14:00:00Z",
+        "e": "2026-04-24T15:00:00Z",
         "d": null,
         "j": "FUTUR NOIR - \"WAKE ME UP LATER\" - EP.03",
         "u": null,
@@ -2212,8 +2249,8 @@
       },
       {
         "n": "Boukan Records",
-        "s": "2026-04-23T15:00:00Z",
-        "e": "2026-04-23T16:00:00Z",
+        "s": "2026-04-24T15:00:00Z",
+        "e": "2026-04-24T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2222,8 +2259,8 @@
       },
       {
         "n": "Ohjeelo",
-        "s": "2026-04-23T16:00:00Z",
-        "e": "2026-04-23T17:00:00Z",
+        "s": "2026-04-24T16:00:00Z",
+        "e": "2026-04-24T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2232,8 +2269,8 @@
       },
       {
         "n": "rougail space program",
-        "s": "2026-04-23T17:00:00Z",
-        "e": "2026-04-23T18:00:00Z",
+        "s": "2026-04-24T17:00:00Z",
+        "e": "2026-04-24T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2241,8 +2278,8 @@
       },
       {
         "n": "ASIAN CORE",
-        "s": "2026-04-23T18:00:00Z",
-        "e": "2026-04-23T19:00:00Z",
+        "s": "2026-04-24T18:00:00Z",
+        "e": "2026-04-24T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2250,8 +2287,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-04-23T19:00:00Z",
-        "e": "2026-04-23T20:00:00Z",
+        "s": "2026-04-24T19:00:00Z",
+        "e": "2026-04-24T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2259,15 +2296,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "BOUNCE PROJECT RADIO",
-        "s": "2026-04-23T04:00:00Z",
-        "e": "2026-04-23T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Restream",
         "s": "2026-04-23T06:00:00Z",
