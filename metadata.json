@@ -1,42 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-04-23T15:45:00.798Z",
+  "updated": "2026-04-23T17:11:24.999Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NTS GUIDE TO: MEXICAN DISCOTECA (70S-90S) (R)",
-        "s": "2026-04-23T16:00:00+01:00",
-        "e": "2026-04-23T17:00:00+01:00",
-        "d": "1 hour of disco and italo from Mexico.\nMade by Coco Maria. ",
-        "j": "MEXICAN DISCOTECA (70S-90S)",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-mexican-discoteca-70s-90s-20th-may-2025",
-        "t": "restream"
-      },
-      {
-        "n": "CHICO BLANCO",
-        "s": "2026-04-23T17:00:00+01:00",
-        "e": "2026-04-23T18:00:00+01:00",
-        "d": "Andalusian, Berlin-based producer and DJ Chico Blanco drops in monthly with a mix of his top picks — shades of house, underground Spanish pop, dreamy romantic melodies, plus guest spots from longtime friends sharing their favourites.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/chico-blanco/episodes/chico-blanco-23rd-april-2026",
-        "t": "monthly",
-        "p": "chicoblanco"
-      },
       {
         "n": "1OO1O: Música de Baile",
         "s": "2026-04-23T18:00:00+01:00",
         "e": "2026-04-23T19:00:00+01:00",
-        "d": null,
+        "d": "CDMX club producer and DJ 1OO1O brings his sound to the NTS airwaves for a power hour. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/1oo1o-musica-de-baile-23rd-april-2026"
       },
       {
         "n": "TED DRAWS",
         "s": "2026-04-23T19:00:00+01:00",
         "e": "2026-04-23T20:00:00+01:00",
-        "d": null,
+        "d": "Hip-hop scholar, esteemed illustrator and all round head Ted Draws holds down a killer 2 hour monthly slot on Thursday afternoons.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/TED-DRAWS/episodes/TED-DRAWS-23rd-april-2026",
         "t": "monthly",
         "p": "teddraws"
       },
@@ -82,6 +63,16 @@
         "j": null,
         "u": null,
         "p": "kampire"
+      },
+      {
+        "n": "ABBY IMPERIAL (R)",
+        "s": "2026-04-24T03:00:00+01:00",
+        "e": "2026-04-24T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "abbyimperial"
       },
       {
         "n": "ASHER G'S CARIBBEAN MEMORIES (R)",
@@ -164,41 +155,33 @@
         "u": null,
         "t": "monthly",
         "p": "courtesy"
+      },
+      {
+        "n": "BLUNT FORCE TRAUMA  W/ CYNTHONI",
+        "s": "2026-04-24T16:00:00+01:00",
+        "e": "2026-04-24T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Cicada",
-        "s": "2026-04-23T16:00:00+01:00",
-        "e": "2026-04-23T17:00:00+01:00",
-        "d": "NYC folktronica and indie duo Cicada hop on for an hour – presenting some of their current favourite music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/cicada-23rd-april-2026"
-      },
-      {
-        "n": "TWISTED DREAM DIARY W/ OKO DJ",
-        "s": "2026-04-23T17:00:00+01:00",
-        "e": "2026-04-23T18:00:00+01:00",
-        "d": "OKO DJ, shares an hour of music inspired by dreams – a realm of musical introspection, endless imagination and non sense compositions…\nFrom the host: \"A mare steps closer, her muzzle brushing my sleeve. Not seeking, just stating presence. I let my thoughts quiet, and something simple passes between us—no words, just weight and warmth. She does not wait for seasons to change. She is already where I’m trying to arrive.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/oko-dj/episodes/oko-dj-23rd-april-2026"
-      },
-      {
         "n": "Blue Candy w/ Casey MQ",
         "s": "2026-04-23T18:00:00+01:00",
         "e": "2026-04-23T19:00:00+01:00",
-        "d": null,
+        "d": "Artist, producer, and composer Casey MQ shares the music that inspires him through a misplaced nostalgic lens on Blue Candy. Drawing from electronic and classical influences, his music fixates on harmony and its alluring path, with a continuous bed of original synthesizer recordings from Casey throughout.\nFrom the host: \"I'm back with the keyboards and the songs that soundtracked the last two months while being on tour with oklou <3 lots of love!\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/casey-mq/episodes/casey-mq-23rd-april-2026",
         "p": "caseymq"
       },
       {
         "n": "Homunkuli w/ Lena Willikens",
         "s": "2026-04-23T19:00:00+01:00",
         "e": "2026-04-23T20:00:00+01:00",
-        "d": null,
+        "d": "New explorations in sounds from one of the most esteemed selectors in Europe, Lena Willikens. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/homunkuli/episodes/homunkuli-23rd-april-2026",
         "p": "homunkuli",
         "ap": [
           "lenawillikens"
@@ -267,12 +250,14 @@
         "u": null
       },
       {
-        "n": "Foreign Hour",
+        "n": "Hit Factory W/ DJ Wawa - City Pop Special (R)",
         "s": "2026-04-24T03:00:00+01:00",
         "e": "2026-04-24T04:00:00+01:00",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "DJ Wawa",
+        "u": null,
+        "t": "restream",
+        "p": "hitfactory"
       },
       {
         "n": "CDMX Tapes w/ Dj Fucci",
@@ -321,27 +306,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "In Focus: Asha Bhosle",
+        "s": "2026-04-24T11:00:00+01:00",
+        "e": "2026-04-24T13:00:00+01:00",
+        "d": null,
+        "j": "Asha Bhosle",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "FERVENT MOON",
+        "s": "2026-04-24T13:00:00+01:00",
+        "e": "2026-04-24T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ferventmoon"
       }
     ],
     "subtle": [
-      {
-        "n": "Strange Signals",
-        "s": "2026-04-23T15:00:00Z",
-        "e": "2026-04-23T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Locked On Records",
-        "s": "2026-04-23T16:00:00Z",
-        "e": "2026-04-23T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Kishan",
         "s": "2026-04-23T17:00:00Z",
@@ -1229,27 +1215,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Crude Oil",
+        "s": "2026-04-30T16:00:00Z",
+        "e": "2026-04-30T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "LARAAJI and OUT THERE",
-        "s": "2026-04-23T15:30:00Z",
-        "e": "2026-04-23T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Ariella – CryBaby Hour",
-        "s": "2026-04-23T16:00:00Z",
-        "e": "2026-04-23T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "FROM THE VAULTS:  Coldcut & Matt Black – Live dublab Performance, Mix & Interview (11.07.00)",
         "s": "2026-04-23T17:00:00Z",
@@ -1781,28 +1757,25 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Your Mom's Angency – Orchestral Tools Microgrant Soundscape",
+        "s": "2026-04-30T16:00:00Z",
+        "e": "2026-04-30T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Voidwave",
+        "s": "2026-04-30T17:00:00Z",
+        "e": "2026-04-30T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Tom Ravenscroft",
-        "s": "2026-04-23T14:00:00Z",
-        "e": "2026-04-23T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "tomravenscroft"
-      },
-      {
-        "n": "Jumbi",
-        "s": "2026-04-23T16:00:00Z",
-        "e": "2026-04-23T17:00:00Z",
-        "d": null,
-        "j": "Retromigration",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Mona Yim",
         "s": "2026-04-23T17:00:00Z",
@@ -1909,12 +1882,14 @@
         "t": "playlist"
       },
       {
-        "n": "Reece Spooner",
+        "n": "Breakfast with RIZ LA TEEF",
         "s": "2026-04-24T08:00:00Z",
         "e": "2026-04-24T10:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "2-STEP SPECIAL",
+        "u": null,
+        "t": "biweekly",
+        "p": "rizlateef"
       },
       {
         "n": "Uncle Dugs",
@@ -1991,24 +1966,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Kaïlys",
-        "s": "2026-04-23T15:00:00Z",
-        "e": "2026-04-23T16:00:00Z",
-        "d": null,
-        "j": "Laboshadory : invites Heezy",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Scarlett",
-        "s": "2026-04-23T16:00:00Z",
-        "e": "2026-04-23T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Roulita",
         "s": "2026-04-23T17:00:00Z",
@@ -2131,15 +2088,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "1000 LTR SHOW",
-        "s": "2026-04-23T15:00:00Z",
-        "e": "2026-04-23T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "LET'S TALK HIP HOP",
         "s": "2026-04-23T17:00:00Z",
