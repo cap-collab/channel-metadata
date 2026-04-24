@@ -1,43 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-24T01:51:32.944Z",
+  "updated": "2026-04-24T04:48:55.621Z",
   "stations": {
     "nts1": [
-      {
-        "n": "KAMPIRE",
-        "s": "2026-04-24T02:00:00+01:00",
-        "e": "2026-04-24T03:00:00+01:00",
-        "d": "Cutting edge East African club sounds from Kampala's finest party starter.\nFrom the host: \"unreleased, brand new, good and weird stuff from some of my favourite producers\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kampire/episodes/kampire-24th-april-2026",
-        "p": "kampire"
-      },
-      {
-        "n": "ABBY IMPERIAL (R)",
-        "s": "2026-04-24T03:00:00+01:00",
-        "e": "2026-04-24T04:00:00+01:00",
-        "d": "A Joyful Praise mix with 90s Gospel New Jack Swing, Rnb, & Hiphop.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/abby-imperial/episodes/abby-imperial-29th-july-2025",
-        "t": "restream",
-        "p": "abbyimperial"
-      },
-      {
-        "n": "ASHER G'S CARIBBEAN MEMORIES (R)",
-        "s": "2026-04-24T04:00:00+01:00",
-        "e": "2026-04-24T05:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "ZEL ZELE W Ecevit & Jengiz (R)",
         "s": "2026-04-24T05:00:00+01:00",
         "e": "2026-04-24T06:00:00+01:00",
-        "d": null,
+        "d": "London & Istanbul based record label Zel Zele takes us on a monthly ride to earthly wonders and cosmic adventures. Bite the lip take the trip!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zel-zele/episodes/zel-zele-3rd-january-2024",
         "t": "restream",
         "p": "zelzele"
       },
@@ -45,9 +17,9 @@
         "n": "SOPHIA ZHURAVKOVA (R)",
         "s": "2026-04-24T06:00:00+01:00",
         "e": "2026-04-24T07:00:00+01:00",
-        "d": null,
+        "d": "Organic soundscapes, field recordings and melodic ambience from composer Sophia Zhuravkova.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sophia-zhuravkova/episodes/sophia-zhuravkova-10th-august-2025",
         "t": "restream",
         "p": "sophiazhuravkova"
       },
@@ -168,42 +140,53 @@
         "u": null,
         "t": "monthly",
         "p": "introspekt"
+      },
+      {
+        "n": "SPINEE",
+        "s": "2026-04-25T00:00:00+01:00",
+        "e": "2026-04-25T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "spinee"
+      },
+      {
+        "n": "COOKING W/ PALMS TRAX (R)",
+        "s": "2026-04-25T02:00:00+01:00",
+        "e": "2026-04-25T04:00:00+01:00",
+        "d": null,
+        "j": "PALMS TRAX",
+        "u": null,
+        "t": "restream",
+        "p": "palmstrax"
+      },
+      {
+        "n": "Lee Gamble (R)",
+        "s": "2026-04-25T04:00:00+01:00",
+        "e": "2026-04-25T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "leegamble"
       }
     ],
     "nts2": [
       {
-        "n": "deadAir - Transmissions w/ Ali RQ",
-        "s": "2026-04-24T02:00:00+01:00",
-        "e": "2026-04-24T03:00:00+01:00",
-        "d": "Radio live transmissions from the multidisciplinary and independent, deadAir & co. Come get shown the light!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/deadair-transmissions/episodes/deadair-transmissions-24th-april-2026"
-      },
-      {
-        "n": "Hit Factory W/ DJ Wawa - City Pop Special (R)",
-        "s": "2026-04-24T03:00:00+01:00",
-        "e": "2026-04-24T04:00:00+01:00",
-        "d": "\"Hello again, my friends and family at NTS radio once again this is DJ Wawa feeling blessed to be here. I don’t know about you but I can use a little whimsy right now. Things are well. The weather is good. My people are OK but not everyone’s people are OK. Labor is labor and it continues on … so here’s some of my favorite city pop tracks from my collection that I like to listen to when I’m trying to maintain a little whimsy. no digital files were used in the recording of this episode. as always.\"",
-        "j": "DJ Wawa",
-        "u": "https://www.nts.live/api/v2/shows/hit-factory/episodes/hit-factory-30th-september-2025",
-        "t": "restream",
-        "p": "hitfactory"
-      },
-      {
         "n": "CDMX Tapes w/ Dj Fucci",
         "s": "2026-04-24T04:00:00+01:00",
         "e": "2026-04-24T06:00:00+01:00",
-        "d": null,
+        "d": "Mexican record label, Naafi, settle in at NTS for a showcase of the weirdest experimentations in club culture that have bubbled to the surface of Soundcloud. Dazed rhythms converging into Jersey stutters, and tumblr-era trap for two straight hours on a Monday.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/naafi/episodes/naafi-24th-april-2026"
       },
       {
         "n": "Random Heartbeats from Athens w/ Rima",
         "s": "2026-04-24T06:00:00+01:00",
         "e": "2026-04-24T07:00:00+01:00",
-        "d": null,
+        "d": "The thought is that music has no genres, no languages sometimes not even roots. Opera and greek songs, vibes and tears.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-random-heartbeats-from-athens-w-rima-24th-april-2026"
       },
       {
         "n": "Slow Curiosities for Fast Worlds w/ Hill Men",
@@ -272,7 +255,8 @@
         "e": "2026-04-24T16:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "thefemcels"
       },
       {
         "n": "Sally Shapiro",
@@ -280,7 +264,8 @@
         "e": "2026-04-24T17:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "sallyshapiro"
       },
       {
         "n": "ANDY BUTLER",
@@ -326,26 +311,34 @@
         "u": null,
         "t": "monthly",
         "p": "tanayonas"
+      },
+      {
+        "n": "Nicolas Guzman: Brasil Eterno",
+        "s": "2026-04-24T22:00:00+01:00",
+        "e": "2026-04-25T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SACRED SPACE W/ RADHA",
+        "s": "2026-04-25T00:00:00+01:00",
+        "e": "2026-04-25T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sacredspace"
       }
     ],
     "subtle": [
       {
-        "n": "CHUFFED w/ David Lunch",
-        "s": "2026-04-24T01:00:00Z",
-        "e": "2026-04-24T02:00:00Z",
-        "d": null,
-        "j": "David Lunch",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subabuba",
-        "s": "2026-04-24T02:00:00Z",
-        "e": "2026-04-24T04:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-04-24T04:00:00Z",
+        "e": "2026-04-24T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "Out of Phase With Sam Ling",
@@ -1221,19 +1214,27 @@
         "u": null,
         "t": "monthly",
         "p": "madilickk"
+      },
+      {
+        "n": "Eclipse w D.N.S",
+        "s": "2026-05-01T02:00:00Z",
+        "e": "2026-05-01T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Pattern Recognition w/ R A L L Y ",
+        "s": "2026-05-01T03:00:00Z",
+        "e": "2026-05-01T04:00:00Z",
+        "d": null,
+        "j": "R A L L Y",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "George Jensen and Heavy Hymns - Quietudes",
-        "s": "2026-04-24T01:00:00Z",
-        "e": "2026-04-24T03:00:00Z",
-        "d": null,
-        "j": "Quietudes",
-        "u": null,
-        "t": "monthly",
-        "p": "georgejensen"
-      },
       {
         "n": "Damar Davis - Say Less",
         "s": "2026-04-24T03:00:00Z",
@@ -1761,16 +1762,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Jasper James",
-        "s": "2026-04-24T01:00:00Z",
-        "e": "2026-04-24T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "jasperjames"
-      },
       {
         "n": "Playlist",
         "s": "2026-04-24T02:00:00Z",
