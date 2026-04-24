@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-24T20:37:33.414Z",
+  "updated": "2026-04-24T22:33:02.301Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TRAVS PRESENTS W/ ROLL DEEP",
-        "s": "2026-04-24T21:00:00+01:00",
-        "e": "2026-04-24T23:00:00+01:00",
-        "d": "Grime collective Travs Presents with DJ’s Chamber.45 And SI*BL bring their own variation on the sound, and as always - ending the 2-hour show with an energetic set from some of the best MC’s in the scene.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/travs-presents/episodes/travs-presents-24th-april-2026",
-        "p": "travspresents"
-      },
       {
         "n": "SPACES IN BETWEEN w/ Introspekt",
         "s": "2026-04-24T23:00:00+01:00",
@@ -26,9 +17,10 @@
         "n": "SPINEE",
         "s": "2026-04-25T00:00:00+01:00",
         "e": "2026-04-25T01:00:00+01:00",
-        "d": null,
+        "d": "Tune into this monthly offering from PC Music's Spinee: breakcore, bassline, hardstyle and dogs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/spinee/episodes/spinee-25th-april-2026",
+        "t": "monthly",
         "p": "spinee"
       },
       {
@@ -168,19 +160,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FIELD WORK",
+        "s": "2026-04-25T20:00:00+01:00",
+        "e": "2026-04-25T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "WABI SABI W/ TANA YONAS",
-        "s": "2026-04-24T21:00:00+01:00",
-        "e": "2026-04-24T22:00:00+01:00",
-        "d": "Tana Yonas collects songs like souvenirs, each recalling precious moments found leafing through dusty foreign record shops or catching sonic fragments weathered by time from the radio of bumpy taxi rides. Listen as she delicately guilds together these memories and shares music from lesser known and under represented musical traditions from across the globe and decades.\nFrom the host: \"This one is far more upbeat than usual. It might be that it feels like spring in LA, and there seems to be more and more excuses to celebrate in spite of a world that seems so off the rails a bit. I'll be back to my more relaxed mood for May, but in the meantime…\"",
-        "j": "TANA YONAS",
-        "u": "https://www.nts.live/api/v2/shows/tana-yonas/episodes/tana-yonas-24th-april-2026",
-        "t": "monthly",
-        "p": "tanayonas"
-      },
       {
         "n": "Nicolas Guzman: Brasil Eterno",
         "s": "2026-04-24T22:00:00+01:00",
@@ -193,9 +184,9 @@
         "n": "SACRED SPACE W/ RADHA",
         "s": "2026-04-25T00:00:00+01:00",
         "e": "2026-04-25T01:00:00+01:00",
-        "d": null,
+        "d": "Enter Radha's spiritual soundscape - of special tunes near and dear to her.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sacred-space/episodes/sacred-space-25th-april-2026",
         "p": "sacredspace"
       },
       {
@@ -325,27 +316,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FEIERABEND W/ SKEE MASK (R)",
+        "s": "2026-04-25T20:00:00+01:00",
+        "e": "2026-04-25T21:00:00+01:00",
+        "d": null,
+        "j": "SKEE MASK",
+        "u": null,
+        "t": "restream",
+        "p": "skeemask"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-24T19:00:00Z",
-        "e": "2026-04-24T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": " Those Who Dance",
-        "s": "2026-04-24T21:00:00Z",
-        "e": "2026-04-24T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "NARA",
         "s": "2026-04-24T22:00:00Z",
@@ -1220,19 +1203,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Fuuki Fam",
+        "s": "2026-05-01T21:00:00Z",
+        "e": "2026-05-01T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Callie Ryan - Cuts 01",
-        "s": "2026-04-24T19:00:00Z",
-        "e": "2026-04-24T21:00:00Z",
-        "d": null,
-        "j": "Cuts 01",
-        "u": null,
-        "t": "biweekly",
-        "p": "callieryan"
-      },
       {
         "n": "Peak Oil - Tipping Point",
         "s": "2026-04-24T21:00:00Z",
@@ -1728,29 +1710,19 @@
         "u": null,
         "t": "monthly",
         "p": "mashamar"
+      },
+      {
+        "n": "Secret Circuit - Cosmic Neighborhood",
+        "s": "2026-05-01T21:00:00Z",
+        "e": "2026-05-01T23:00:00Z",
+        "d": null,
+        "j": "Cosmic Neighborhood",
+        "u": null,
+        "t": "monthly",
+        "p": "secretcircuit"
       }
     ],
     "rinse": [
-      {
-        "n": "BIIANCO",
-        "s": "2026-04-24T19:00:00Z",
-        "e": "2026-04-24T21:00:00Z",
-        "d": null,
-        "j": "LEAD [Pb]",
-        "u": null,
-        "t": "monthly",
-        "p": "biianco"
-      },
-      {
-        "n": "I. JORDAN",
-        "s": "2026-04-24T21:00:00Z",
-        "e": "2026-04-24T22:00:00Z",
-        "d": null,
-        "j": "100% PRODUCTION MIX",
-        "u": null,
-        "t": "biweekly",
-        "p": "ijordan"
-      },
       {
         "n": "Nyra",
         "s": "2026-04-24T22:00:00Z",
@@ -1896,15 +1868,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-04-24T19:00:00Z",
-        "e": "2026-04-24T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-04-24T22:00:00Z",
