@@ -1,50 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-24T10:59:07.677Z",
+  "updated": "2026-04-24T13:01:58.889Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ LIL C",
-        "s": "2026-04-24T09:00:00+01:00",
-        "e": "2026-04-24T12:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-lil-c-24th-april-2026",
-        "p": "lilc"
-      },
-      {
-        "n": "SOUP TO NUTS W/ SCARY THINGS & BENTY",
-        "s": "2026-04-24T11:00:00+01:00",
-        "e": "2026-04-24T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "scarythings"
-      },
-      {
-        "n": "NTS Guide to: Footwork 2026",
-        "s": "2026-04-24T12:00:00+01:00",
-        "e": "2026-04-24T13:00:00+01:00",
-        "d": "On the anniversary week of footwork pioneer DJ Rashad's passing, we take a look at the current state of footwork in Chicago with an hour long mix. The genre is alive and well, and progressing in new and interesting directions – featuring music from Khadija Al Hanafi, DJ Manny, Cakedog, Traxman, Marsh Crane and many more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-footwork-2026-24th-april-2026"
-      },
-      {
-        "n": "LIVE FROM THE 108 W/ ONRA (R)",
-        "s": "2026-04-24T13:00:00+01:00",
-        "e": "2026-04-24T14:00:00+01:00",
-        "d": null,
-        "j": "ONRA",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Appleblim presents Neolithic Neon",
         "s": "2026-04-24T14:00:00+01:00",
         "e": "2026-04-24T15:01:00+01:00",
-        "d": null,
+        "d": "Low-key architect of the 21st Century UK club underground Appleblim returns with new album “Neolithic Neon” – he shares sounds that inspired this “high voltage meditation” with productions from Om Unit, K-Lone and more.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/appleblim-24th-april-2026"
       },
       {
         "n": "COURTESY",
@@ -60,9 +25,9 @@
         "n": "COURTESY",
         "s": "2026-04-24T15:01:00+01:00",
         "e": "2026-04-24T16:00:00+01:00",
-        "d": null,
+        "d": "Regular techno, electro, and house missives from the Against Interpretation labelhead and powerhouse-club selector Courtesy…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/courtesy/episodes/courtesy-24th-april-2026",
         "t": "biweekly",
         "p": "courtesy"
       },
@@ -204,35 +169,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
+        "s": "2026-04-25T10:00:00+01:00",
+        "e": "2026-04-25T12:00:00+01:00",
+        "d": null,
+        "j": "MACCA",
+        "u": null,
+        "t": "biweekly",
+        "p": "macca"
       }
     ],
     "nts2": [
       {
-        "n": "In Focus: Asha Bhosle",
-        "s": "2026-04-24T11:00:00+01:00",
-        "e": "2026-04-24T13:00:00+01:00",
-        "d": "Music from Asha Bhosle, one of the most beloved vocalists singers in Hindi cinema. ",
-        "j": "Asha Bhosle",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-asha-bhosle-24th-april-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "FERVENT MOON",
-        "s": "2026-04-24T13:00:00+01:00",
-        "e": "2026-04-24T14:00:00+01:00",
-        "d": "DJ: “… I don’t know, I didn’t… I didn’t think I’d be the one holding the air, I never spoke live before the event consumed the many. I’ve no news for the desperate survivors and… and I can’t… well, I can hope that this next song might help us survive a little longer…\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fervent-moon/episodes/fervent-moon-24th-april-2026",
-        "t": "monthly",
-        "p": "ferventmoon"
-      },
-      {
         "n": "RUSIA-IDK - EFECTO MUSICAL",
         "s": "2026-04-24T14:00:00+01:00",
         "e": "2026-04-24T15:00:00+01:00",
-        "d": null,
+        "d": "Out-there sounds from rusia-IDK, the Madrid-based crew, hosting some of the most exciting producers and artists coming out of Spain and Europe.",
         "j": "EFECTO MUSICAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rusia-idk/episodes/rusia-idk-24th-april-2026",
         "t": "monthly",
         "p": "rusiaidk"
       },
@@ -240,9 +196,9 @@
         "n": "PANORAMA HEAVEN W/ BIANCA LEXIS (R)",
         "s": "2026-04-24T15:00:00+01:00",
         "e": "2026-04-24T16:00:00+01:00",
-        "d": null,
+        "d": "LA native Bianca Lexis showcases a monthly, genre-blending hour, exploring the different facets of pop, rock, synth and house music. all in panoramic view, for you.",
         "j": "BIANCA LEXIS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/panorama-heaven/episodes/panorama-heaven-12th-april-2023",
         "t": "restream",
         "p": "biancalexis",
         "ap": [
@@ -371,36 +327,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": " Household",
-        "s": "2026-04-24T10:00:00Z",
-        "e": "2026-04-24T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Lakey",
-        "s": "2026-04-24T11:00:00Z",
-        "e": "2026-04-24T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lakey"
-      },
-      {
-        "n": "The PICKNMIX Show b2b MOBY",
-        "s": "2026-04-24T12:00:00Z",
-        "e": "2026-04-24T13:00:00Z",
+        "n": "quiet girls bite hardest w/ peachairee",
+        "s": "2026-04-25T08:00:00+01:00",
+        "e": "2026-04-25T09:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "Dream Forest w/ Barrage",
+        "s": "2026-04-25T09:00:00+01:00",
+        "e": "2026-04-25T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Cam Yates",
         "s": "2026-04-24T13:00:00Z",
@@ -1266,22 +1211,40 @@
         "u": null,
         "t": "monthly",
         "p": "reggiecrookes"
+      },
+      {
+        "n": "Red Can",
+        "s": "2026-05-01T11:00:00Z",
+        "e": "2026-05-01T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "The Hybrid House Show",
+        "s": "2026-05-01T12:00:00Z",
+        "e": "2026-05-01T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "thehybridhouseshow"
+      },
+      {
+        "n": "Taking the Peel w/ Badly Drawn Banana",
+        "s": "2026-05-01T13:00:00Z",
+        "e": "2026-05-01T14:00:00Z",
+        "d": null,
+        "j": "Badly Drawn Banana",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-24T09:00:00Z",
-        "e": "2026-04-24T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-24T11:00:00Z",
-        "e": "2026-04-24T13:00:00Z",
+        "s": "2026-04-24T13:00:00Z",
+        "e": "2026-04-24T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1796,16 +1759,6 @@
     ],
     "rinse": [
       {
-        "n": "Uncle Dugs",
-        "s": "2026-04-24T10:00:00Z",
-        "e": "2026-04-24T13:00:00Z",
-        "d": null,
-        "j": "Frankie Bones",
-        "u": null,
-        "t": "weekly",
-        "p": "uncledugs"
-      },
-      {
         "n": "The MoodSwing Show",
         "s": "2026-04-24T13:00:00Z",
         "e": "2026-04-24T15:00:00Z",
@@ -1831,12 +1784,20 @@
       {
         "n": "Main Phase",
         "s": "2026-04-24T17:00:00Z",
-        "e": "2026-04-24T19:00:00Z",
+        "e": "2026-04-24T18:00:00Z",
         "d": null,
         "j": "(House Special)",
         "u": null,
         "t": "monthly",
         "p": "mainphase"
+      },
+      {
+        "n": "p-rallel",
+        "s": "2026-04-24T18:00:00Z",
+        "e": "2026-04-24T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "BIIANCO",
@@ -1998,31 +1959,12 @@
         "s": "2026-04-25T21:00:00Z",
         "e": "2026-04-25T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJ Miss Parker",
         "u": null,
         "t": "biweekly"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-04-24T07:00:00Z",
-        "e": "2026-04-24T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Imer6ia",
-        "s": "2026-04-24T12:00:00Z",
-        "e": "2026-04-24T13:00:00Z",
-        "d": null,
-        "j": "invite Ipon x Jordan Cardoso",
-        "u": null,
-        "t": "biweekly",
-        "p": "imer6ia"
-      },
       {
         "n": "Jazztronicz",
         "s": "2026-04-24T13:00:00Z",
