@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-25T18:37:39.923Z",
+  "updated": "2026-04-25T20:29:59.570Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Tommy Peltier",
-        "s": "2026-04-25T19:00:00+01:00",
-        "e": "2026-04-25T20:00:00+01:00",
-        "d": "Journeyman of the LA music scene since the 1960s, multi-instrumentalist and songwriter Tommy Peltier shares an hour of original recordings and inspirations ahead of the release of “Echo Park: The ‘70s Sessions” out now on Drag City.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/tommy-peltier-25th-april-2026"
-      },
       {
         "n": "FIELD WORK",
         "s": "2026-04-25T20:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "MUSIC TO EASE YOUR DISEASE",
         "s": "2026-04-25T22:00:00+01:00",
         "e": "2026-04-26T00:00:00+01:00",
-        "d": null,
+        "d": "Music to dent the canister",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/musictoeaseyourdisease/episodes/musictoeaseyourdisease-25th-april-2026",
         "t": "monthly"
       },
       {
@@ -170,45 +162,35 @@
         "j": null,
         "u": null,
         "p": "m00dtapes"
+      },
+      {
+        "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE",
+        "s": "2026-04-26T19:00:00+01:00",
+        "e": "2026-04-26T20:00:00+01:00",
+        "d": null,
+        "j": "TEMI KOGBE",
+        "u": null,
+        "t": "monthly",
+        "p": "temikogbe"
       }
     ],
     "nts2": [
       {
-        "n": "Sendspaace",
-        "s": "2026-04-25T19:00:00+01:00",
-        "e": "2026-04-25T20:00:00+01:00",
-        "d": "Jamie Hudson brings a monthly hour of hyper-terrestial, futuristic sounds straight from the information superhighway. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sendspaace/episodes/sendspaace-25th-april-2026",
-        "t": "monthly",
-        "p": "sendspaace"
-      },
-      {
-        "n": "FEIERABEND W/ SKEE MASK (R)",
-        "s": "2026-04-25T20:00:00+01:00",
-        "e": "2026-04-25T21:00:00+01:00",
-        "d": "Skee's insight through his daily listening habits, from guilty pleasures to casual recommendations and in between…",
-        "j": "SKEE MASK",
-        "u": "https://www.nts.live/api/v2/shows/skee-mask/episodes/skee-mask-13th-september-2024",
-        "t": "restream",
-        "p": "skeemask"
-      },
-      {
         "n": "CAN YOU FEEL THE SUN W/ PARRIS (R)",
         "s": "2026-04-25T21:00:00+01:00",
         "e": "2026-04-25T22:00:00+01:00",
-        "d": null,
+        "d": "\"A kind of music\" - the duo behind the new label come together for a regular hour long session, weaving through unexpected dancefloor sounds… ",
         "j": "PARRIS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/canyoufeelthesun-w-call-super-parris/episodes/canyoufeelthesun-w-call-super-parris-15th-january-2026",
         "t": "restream"
       },
       {
         "n": "ENERGY RESERVE SYSTEMS W/ KITTY CA$H (R)",
         "s": "2026-04-25T22:00:00+01:00",
         "e": "2026-04-25T23:00:00+01:00",
-        "d": null,
+        "d": "Kitty Ca$h presents Energy Reserve Systems – regular high voltage journeys through deep house, club edits, and experimental textures to reclabirate your spirit.\nFrom the host: \"For this month’s show I wanted to play inside the tension between rhythm, truth-telling, and the politics of the everyday. I chopped fragments from Representative Jasmine Crockett’s interviews sharing her clarity, her sharpness, her refusal to shrink woven through deep house and electronic textures.\"",
         "j": "KITTY CA$H",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kitty-cash/episodes/kitty-cash-11th-november-2025",
         "t": "restream"
       },
       {
@@ -323,28 +305,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SOAP OPERA w/ vip client",
+        "s": "2026-04-26T13:00:00+01:00",
+        "e": "2026-04-26T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "90s DOWNTEMPO W/ UNCLECEZ",
+        "s": "2026-04-26T14:00:00+01:00",
+        "e": "2026-04-26T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-25T18:00:00Z",
-        "e": "2026-04-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Danny Scrilla",
-        "s": "2026-04-25T19:00:00Z",
-        "e": "2026-04-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "dannyscrilla"
-      },
       {
         "n": "Biscuit Boy",
         "s": "2026-04-25T20:00:00Z",
@@ -1182,19 +1161,18 @@
         "j": "Joe Joiner",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Minus - Flow State",
+        "s": "2026-05-02T20:00:00Z",
+        "e": "2026-05-02T22:00:00Z",
+        "d": null,
+        "j": "Flow State",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "dublab": [
-      {
-        "n": "Greg Belson - Divine Chord Gospel Show",
-        "s": "2026-04-25T17:00:00Z",
-        "e": "2026-04-25T19:00:00Z",
-        "d": null,
-        "j": "Divine Chord Gospel Show",
-        "u": null,
-        "t": "biweekly",
-        "p": "gregbelson"
-      },
       {
         "n": "Xandao - Sound Study",
         "s": "2026-04-25T19:00:00Z",
@@ -1682,19 +1660,19 @@
         "j": "The Archive of Feelings",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Time Away with Maral",
+        "s": "2026-05-02T19:00:00Z",
+        "e": "2026-05-02T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "maral"
       }
     ],
     "rinse": [
-      {
-        "n": "Cinthie",
-        "s": "2026-04-25T17:00:00Z",
-        "e": "2026-04-25T19:00:00Z",
-        "d": null,
-        "j": "Summer Hot Tunes",
-        "u": null,
-        "t": "biweekly",
-        "p": "cinthie"
-      },
       {
         "n": "DJ Bone",
         "s": "2026-04-25T19:00:00Z",
