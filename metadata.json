@@ -1,43 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-25T12:42:22.733Z",
+  "updated": "2026-04-25T14:36:23.263Z",
   "stations": {
     "nts1": [
-      {
-        "n": "DARE BALOGUN",
-        "s": "2026-04-25T12:00:00+01:00",
-        "e": "2026-04-25T14:00:00+01:00",
-        "d": "British-Nigerian DJ Dare Balogun traces the journey of African rhythm across time and space, exploring how traditional genres like highlife, juju, soukous and makossa laid the foundation for modern dance music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dare-balogun/episodes/dare-balogun-25th-april-2026",
-        "t": "monthly",
-        "p": "darebalogun"
-      },
-      {
-        "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE (R)",
-        "s": "2026-04-25T14:00:00+01:00",
-        "e": "2026-04-25T15:00:00+01:00",
-        "d": "Lagos based collector and DJ Temi Kogbe traces connections in African popular culture through vinyl. ",
-        "j": "TEMI KOGBE",
-        "u": "https://www.nts.live/api/v2/shows/temi-kogbe/episodes/temi-kogbe-25th-may-2025",
-        "t": "restream",
-        "p": "temikogbe"
-      },
       {
         "n": "Highlife & Sunshine Show w/ Tryb",
         "s": "2026-04-25T15:00:00+01:00",
         "e": "2026-04-25T16:00:00+01:00",
-        "d": null,
+        "d": "Music of the sun, a.k.a the tracks your dad used to play on a Saturday afternoon… \nJoin TrYb as she explores West African pop, high life, soukous and more.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/highlife-sunshine/episodes/highlife-sunshine-25th-april-2026"
       },
       {
         "n": "Tall Nico",
         "s": "2026-04-25T16:00:00+01:00",
         "e": "2026-04-25T17:00:00+01:00",
-        "d": null,
+        "d": "DJ, Run Dem Crew Founder, and community builder Charlie Dark MBE spins gems from his record collection once a month. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/charlie-dark/episodes/charlie-dark-25th-april-2026",
+        "t": "monthly"
       },
       {
         "n": "BAHAMIAN MOOR",
@@ -164,35 +145,52 @@
         "j": "Ruby Savage",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "HOUSE CALL",
+        "s": "2026-04-26T12:00:00+01:00",
+        "e": "2026-04-26T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "DOING TIME W/ Satoshi Yamamura",
+        "s": "2026-04-26T13:00:00+01:00",
+        "e": "2026-04-26T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "doingtime"
       }
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: WOMEN OF NEW AGE PART. I (R)",
-        "s": "2026-04-25T12:00:00+01:00",
-        "e": "2026-04-25T14:00:00+01:00",
-        "d": "Two hours of ambient & new age sounds from the Women pioneers of the genre, featuring the inner space music of Pauline Anna Strom, the gong baths of Nesta Kerin Crain & more.",
-        "j": "WOMEN OF NEW AGE PART. I",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-6th-march-2022",
-        "t": "restream"
-      },
-      {
-        "n": "CHARLIE SATSUMAS",
-        "s": "2026-04-25T14:00:00+01:00",
-        "e": "2026-04-25T15:00:00+01:00",
-        "d": "Sheffield DJ and NTS regular Charlie Satsumas gets his own slot - an hour of easy peelers every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/charlie-satsumas/episodes/charlie-satsumas-25th-april-2026",
-        "t": "monthly",
-        "p": "charliesatsumas"
-      },
-      {
         "n": "EXPANSIONS W/ CONTOURS & YADAVA",
         "s": "2026-04-25T15:00:00+01:00",
         "e": "2026-04-25T16:00:00+01:00",
-        "d": null,
+        "d": "Contours & Yadava journey deep into their record collections, drawing out cosmic sounds that touch on jazz, percussive obscurities, blissed-out ambient and minimalism, raw club cuts and any other soulful sounds they stumble across.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/expansions-w-contours/episodes/expansions-w-contours-25th-april-2026"
+      },
+      {
+        "n": "NTS Guide to: 2010s Underground Rap [R]",
+        "s": "2026-04-25T16:00:00+01:00",
+        "e": "2026-04-25T17:00:00+01:00",
+        "d": "Winding back to the early 2010s, delving into the explosion of new \"underground\" rap artists, taking the genre into interesting new aesthetics, including acts like Lofty305, Chris Travis, Lil B, and others, including acts that are now mainstream stars, such as A$AP Rocky and Denzel Curry. If you remember this the first time round you are now eligible for unc status. We don't make the rules. ",
+        "j": "2010s Underground Rap [R]",
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-uncderground-rap-11th-february-2026",
+        "t": "weekly"
+      },
+      {
+        "n": "In Focus: Emahoy Tsege Mariam Gebru [R]",
+        "s": "2026-04-25T17:00:00+01:00",
+        "e": "2026-04-25T18:00:00+01:00",
+        "d": null,
+        "j": "Emahoy Tsege Mariam Gebru [R]",
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "SAMUEL KERRIDGE",
@@ -323,24 +321,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Rich Rose",
-        "s": "2026-04-25T12:00:00Z",
-        "e": "2026-04-25T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Collectors' Cuts",
-        "s": "2026-04-25T13:00:00Z",
-        "e": "2026-04-25T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "SPD",
         "s": "2026-04-25T14:00:00Z",
@@ -1178,6 +1158,15 @@
         "u": "https://www.subtleradio.com/artists/live-direct-w-hannah/",
         "t": "biweekly",
         "p": "hannah"
+      },
+      {
+        "n": "soltura",
+        "s": "2026-05-02T13:00:00Z",
+        "e": "2026-05-02T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1683,64 +1672,49 @@
     ],
     "rinse": [
       {
-        "n": "Counter Culture with Kristina Records",
-        "s": "2026-04-25T12:00:00Z",
-        "e": "2026-04-25T14:00:00Z",
-        "d": null,
-        "j": "Emilè",
-        "u": null,
-        "p": "counterculture"
-      },
-      {
-        "n": "Lupe Fuentes",
+        "n": "Roska",
         "s": "2026-04-25T14:00:00Z",
-        "e": "2026-04-25T15:00:00Z",
-        "d": null,
-        "j": "In The Loop",
-        "u": null,
-        "p": "lupe",
-        "ap": [
-          "lupefuentes"
-        ]
-      },
-      {
-        "n": "FIFI",
-        "s": "2026-04-25T15:00:00Z",
         "e": "2026-04-25T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "fifi"
+        "t": "biweekly",
+        "p": "roska"
       },
       {
-        "n": "Douvelle19",
+        "n": "Flyo",
         "s": "2026-04-25T16:00:00Z",
         "e": "2026-04-25T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "douvelle19"
+        "p": "flyo"
       },
       {
-        "n": "Cinthie",
+        "n": "Plastician",
         "s": "2026-04-25T17:00:00Z",
-        "e": "2026-04-25T19:00:00Z",
+        "e": "2026-04-25T20:00:00Z",
         "d": null,
-        "j": "Summer Hot Tunes",
+        "j": "Plastician B2B Introspekt and Mak & Pasteman",
         "u": null,
-        "t": "monthly",
-        "p": "cinthie"
+        "t": "biweekly",
+        "p": "introspekt",
+        "ap": [
+          "plastician"
+        ]
       },
       {
-        "n": "DJ Bone",
-        "s": "2026-04-25T19:00:00Z",
+        "n": "The Grime Show",
+        "s": "2026-04-25T20:00:00Z",
         "e": "2026-04-25T21:00:00Z",
         "d": null,
-        "j": "From the Vault (2015)",
+        "j": "Sir Spyro feat. The Square",
         "u": null,
-        "p": "djbone"
+        "p": "sirspyro",
+        "ap": [
+          "thegrimeshow"
+        ]
       },
       {
         "n": "Angel D'lite",
@@ -1749,7 +1723,7 @@
         "d": null,
         "j": "DJ Miss Parker",
         "u": null,
-        "t": "biweekly"
+        "t": "weekly"
       },
       {
         "n": "Cameo Blush",
@@ -1767,7 +1741,7 @@
         "d": null,
         "j": "Live from Two-Step",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "isgwan"
       },
       {
@@ -1813,7 +1787,7 @@
         "d": null,
         "j": "Kincaid",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "fyirobyn"
       },
       {
@@ -1823,7 +1797,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Dance Regular",
@@ -1842,7 +1816,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "roska"
       },
       {
@@ -1862,7 +1836,7 @@
         "d": null,
         "j": "Plastician B2B Introspekt and Mak & Pasteman",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "introspekt",
         "ap": [
           "plastician"
@@ -1882,16 +1856,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Giorgi Pipia",
-        "s": "2026-04-25T12:00:00Z",
-        "e": "2026-04-25T14:00:00Z",
-        "d": null,
-        "j": "Mariami",
-        "u": null,
-        "t": "biweekly",
-        "p": "giorgipipia"
-      },
       {
         "n": "Merca Bae",
         "s": "2026-04-25T14:00:00Z",
