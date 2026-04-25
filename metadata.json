@@ -1,41 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-04-25T14:36:23.263Z",
+  "updated": "2026-04-25T16:32:12.767Z",
   "stations": {
     "nts1": [
       {
-        "n": "Highlife & Sunshine Show w/ Tryb",
-        "s": "2026-04-25T15:00:00+01:00",
-        "e": "2026-04-25T16:00:00+01:00",
-        "d": "Music of the sun, a.k.a the tracks your dad used to play on a Saturday afternoon… \nJoin TrYb as she explores West African pop, high life, soukous and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/highlife-sunshine/episodes/highlife-sunshine-25th-april-2026"
-      },
-      {
-        "n": "Tall Nico",
-        "s": "2026-04-25T16:00:00+01:00",
-        "e": "2026-04-25T17:00:00+01:00",
-        "d": "DJ, Run Dem Crew Founder, and community builder Charlie Dark MBE spins gems from his record collection once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/charlie-dark/episodes/charlie-dark-25th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "BAHAMIAN MOOR",
+        "n": "Bahamian Moor w/ orgone conclusions (R)",
         "s": "2026-04-25T17:00:00+01:00",
         "e": "2026-04-25T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Music will be played once a month.",
+        "j": "orgone conclusions",
+        "u": "https://www.nts.live/api/v2/shows/bahamian-moor/episodes/bahamian-moor-11th-october-2025",
+        "t": "restream",
         "p": "bahamianmoor"
       },
       {
         "n": "MUSIC 4 LOVERS",
         "s": "2026-04-25T18:00:00+01:00",
         "e": "2026-04-25T19:00:00+01:00",
-        "d": null,
+        "d": "Jabu and Andy Payback bring us Music 4 Lovers once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/music-4-lovers/episodes/music-4-lovers-25th-april-2026",
         "t": "monthly"
       },
       {
@@ -163,42 +147,49 @@
         "j": null,
         "u": null,
         "p": "doingtime"
+      },
+      {
+        "n": "PARADISE BANGKOK",
+        "s": "2026-04-26T15:00:00+01:00",
+        "e": "2026-04-26T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "paradise",
+        "ap": [
+          "paradisebangkok"
+        ]
+      },
+      {
+        "n": "KHARTOUM ARRIVALS W/ BASMA",
+        "s": "2026-04-26T16:00:00+01:00",
+        "e": "2026-04-26T17:00:00+01:00",
+        "d": null,
+        "j": "BASMA",
+        "u": null,
+        "t": "monthly",
+        "p": "basma"
       }
     ],
     "nts2": [
       {
-        "n": "EXPANSIONS W/ CONTOURS & YADAVA",
-        "s": "2026-04-25T15:00:00+01:00",
-        "e": "2026-04-25T16:00:00+01:00",
-        "d": "Contours & Yadava journey deep into their record collections, drawing out cosmic sounds that touch on jazz, percussive obscurities, blissed-out ambient and minimalism, raw club cuts and any other soulful sounds they stumble across.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/expansions-w-contours/episodes/expansions-w-contours-25th-april-2026"
-      },
-      {
-        "n": "NTS Guide to: 2010s Underground Rap [R]",
-        "s": "2026-04-25T16:00:00+01:00",
-        "e": "2026-04-25T17:00:00+01:00",
-        "d": "Winding back to the early 2010s, delving into the explosion of new \"underground\" rap artists, taking the genre into interesting new aesthetics, including acts like Lofty305, Chris Travis, Lil B, and others, including acts that are now mainstream stars, such as A$AP Rocky and Denzel Curry. If you remember this the first time round you are now eligible for unc status. We don't make the rules. ",
-        "j": "2010s Underground Rap [R]",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-uncderground-rap-11th-february-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "In Focus: Emahoy Tsege Mariam Gebru [R]",
+        "n": "In Focus: Emahoy Tsege Mariam Gebru (R)",
         "s": "2026-04-25T17:00:00+01:00",
         "e": "2026-04-25T18:00:00+01:00",
-        "d": null,
-        "j": "Emahoy Tsege Mariam Gebru [R]",
-        "u": null,
-        "t": "weekly"
+        "d": "An hour of spellbinding solo piano recordings from one of the most fascinating musicians of the past century. Born Yewubdar Guèbrou in Addis Ababa, Ethiopia, into an upper class family, she was classically trained in piano and violin, notably even performing for Emperor Haile Selassie. \nShe was invited to study at the Royal College of Music in London, but her admission was blocked by the Ethiopian government. Dismayed by this news, she turned to religion, becoming an Orthodox nun, taking the title \"Emahoy\" and changing to the religious name Tsegué Mariam.\nShe spent the rest of her years living out these holy orders, first in Addis, and eventually in Jerusalem, where she continued to write and record music – a truly singular style of piano composition, as indebted to the proto-ambience of Erik Satie as it is to the Ethiopian tradition. \nThis mix, selected by NTS, features recordings from \"Church of Kidane Mehret\", a new archival release from Mississippi Records, including previously unheard material.",
+        "j": "Emahoy Tsege Mariam Gebru",
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-emahoy-tsegue-maryam-guebrou-23rd-may-2025",
+        "t": "restream"
       },
       {
         "n": "SAMUEL KERRIDGE",
         "s": "2026-04-25T18:00:00+01:00",
         "e": "2026-04-25T19:00:00+01:00",
-        "d": null,
+        "d": "The Contort champion takes a bludgeon to the NTS Manchester once a month with an hour offering of wonky electronics and avant-garde sound. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/samuel-kerridge/episodes/samuel-kerridge-25th-april-2026",
+        "t": "monthly",
         "p": "samuelkerridge"
       },
       {
@@ -318,26 +309,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Samiira Garane",
+        "s": "2026-04-26T09:00:00+01:00",
+        "e": "2026-04-26T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CHILL – HE SAID W/ CALLIOPE",
+        "s": "2026-04-26T10:00:00+01:00",
+        "e": "2026-04-26T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
       {
-        "n": "SPD",
-        "s": "2026-04-25T14:00:00Z",
-        "e": "2026-04-25T15:00:00Z",
-        "d": "Midlands born, London based producer and DJ influenced by UK funky, broken techno, garage and early dubstep. \r\n\r\nHas released on Keysound recordings, RKS, eatmybeat, ec2a, Durkle Disco and Dimsum records",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Tyrant",
-        "s": "2026-04-25T15:00:00Z",
-        "e": "2026-04-25T16:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-04-25T16:00:00Z",
+        "e": "2026-04-25T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "DJ SK",
@@ -1167,18 +1165,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-04-25T11:00:00Z",
-        "e": "2026-04-25T15:00:00Z",
+        "n": "Big Kani presents Large Language",
+        "s": "2026-05-02T15:00:00Z",
+        "e": "2026-05-02T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Jon1st",
+        "s": "2026-05-02T16:00:00Z",
+        "e": "2026-05-02T17:00:00Z",
+        "d": "Following his widely acclaimed breakout moment winning the 2013 DMC World Online Championships, Jon1st quickly built an international reputation as a ‘DJ’s DJ’. Not only proving himself as one of the world’s most diverse and musical turntablists, Jon also established himself as an on the pulse club DJ mixing across the alternative bass music spectrum and as an in demand live performer around the world, as well as recording acclaimed guest mixes for everyone from DJ Mag to Boiler Room to Ninja Tune’s Solid Steel to Mary Anne Hobbs to Keep Hush.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jon1st"
+      }
+    ],
+    "dublab": [
       {
         "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
         "s": "2026-04-25T15:00:00Z",
@@ -1668,53 +1676,46 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "RERUN: JF Chen Radio",
+        "s": "2026-05-02T16:00:00Z",
+        "e": "2026-05-02T17:00:00Z",
+        "d": null,
+        "j": "JF Chen Radio",
+        "u": null,
+        "t": "restream"
       }
     ],
     "rinse": [
       {
-        "n": "Roska",
-        "s": "2026-04-25T14:00:00Z",
-        "e": "2026-04-25T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "roska"
-      },
-      {
-        "n": "Flyo",
+        "n": "Douvelle19",
         "s": "2026-04-25T16:00:00Z",
         "e": "2026-04-25T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "flyo"
+        "t": "weekly",
+        "p": "douvelle19"
       },
       {
-        "n": "Plastician",
+        "n": "Cinthie",
         "s": "2026-04-25T17:00:00Z",
-        "e": "2026-04-25T20:00:00Z",
+        "e": "2026-04-25T19:00:00Z",
         "d": null,
-        "j": "Plastician B2B Introspekt and Mak & Pasteman",
+        "j": "Summer Hot Tunes",
         "u": null,
         "t": "biweekly",
-        "p": "introspekt",
-        "ap": [
-          "plastician"
-        ]
+        "p": "cinthie"
       },
       {
-        "n": "The Grime Show",
-        "s": "2026-04-25T20:00:00Z",
+        "n": "DJ Bone",
+        "s": "2026-04-25T19:00:00Z",
         "e": "2026-04-25T21:00:00Z",
         "d": null,
-        "j": "Sir Spyro feat. The Square",
+        "j": "From the Vault (2015)",
         "u": null,
-        "p": "sirspyro",
-        "ap": [
-          "thegrimeshow"
-        ]
+        "p": "djbone"
       },
       {
         "n": "Angel D'lite",
@@ -1836,7 +1837,7 @@
         "d": null,
         "j": "Plastician B2B Introspekt and Mak & Pasteman",
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "introspekt",
         "ap": [
           "plastician"
@@ -1856,24 +1857,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Merca Bae",
-        "s": "2026-04-25T14:00:00Z",
-        "e": "2026-04-25T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "King Doudou",
-        "s": "2026-04-25T15:00:00Z",
-        "e": "2026-04-25T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "kingdoudou"
-      },
       {
         "n": "Tomás Urquieta",
         "s": "2026-04-25T16:00:00Z",
