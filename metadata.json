@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-25T10:36:07.195Z",
+  "updated": "2026-04-25T12:42:22.733Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
-        "s": "2026-04-25T10:00:00+01:00",
-        "e": "2026-04-25T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": "MACCA",
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-25th-april-2026",
-        "t": "biweekly",
-        "p": "macca"
-      },
       {
         "n": "DARE BALOGUN",
         "s": "2026-04-25T12:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE (R)",
         "s": "2026-04-25T14:00:00+01:00",
         "e": "2026-04-25T15:00:00+01:00",
-        "d": null,
+        "d": "Lagos based collector and DJ Temi Kogbe traces connections in African popular culture through vinyl. ",
         "j": "TEMI KOGBE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/temi-kogbe/episodes/temi-kogbe-25th-may-2025",
         "t": "restream",
         "p": "temikogbe"
       },
@@ -165,19 +155,18 @@
         "j": "DoE (Can a Tape Machine Improvise?)",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Radiant Life w/ Ruby Savage",
+        "s": "2026-04-26T10:00:00+01:00",
+        "e": "2026-04-26T12:00:00+01:00",
+        "d": null,
+        "j": "Ruby Savage",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "FELISHA ledesma w/ Norman Hernandez",
-        "s": "2026-04-25T11:00:00+01:00",
-        "e": "2026-04-25T12:00:00+01:00",
-        "d": "A monthly collection of blurred collage, aural experiments, and tonal in-betweens with sound artist and musician Felisha Ledesma.",
-        "j": "Norman Hernandez",
-        "u": "https://www.nts.live/api/v2/shows/felisha-ledesma/episodes/felisha-ledesma-25th-april-2026",
-        "t": "monthly",
-        "p": "felishaledesma"
-      },
       {
         "n": "NTS GUIDE TO: WOMEN OF NEW AGE PART. I (R)",
         "s": "2026-04-25T12:00:00+01:00",
@@ -191,9 +180,9 @@
         "n": "CHARLIE SATSUMAS",
         "s": "2026-04-25T14:00:00+01:00",
         "e": "2026-04-25T15:00:00+01:00",
-        "d": null,
+        "d": "Sheffield DJ and NTS regular Charlie Satsumas gets his own slot - an hour of easy peelers every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/charlie-satsumas/episodes/charlie-satsumas-25th-april-2026",
         "t": "monthly",
         "p": "charliesatsumas"
       },
@@ -323,28 +312,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Nothing Ever Happens Around Here w/ Splendore",
+        "s": "2026-04-26T08:00:00+01:00",
+        "e": "2026-04-26T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": " Afroasis",
-        "s": "2026-04-25T10:00:00Z",
-        "e": "2026-04-25T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "afroasis"
-      },
-      {
-        "n": "Solid Moves w/ Sophia & Ronaldo",
-        "s": "2026-04-25T11:00:00Z",
-        "e": "2026-04-25T12:00:00Z",
-        "d": null,
-        "j": "Sophia & Ronaldo",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Rich Rose",
         "s": "2026-04-25T12:00:00Z",
@@ -1190,18 +1168,19 @@
         "j": "Roots & Dubs",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Live & Direct w/ Hannah",
+        "s": "2026-05-02T12:00:00Z",
+        "e": "2026-05-02T13:00:00Z",
+        "d": "Live & Direct is the show that promises to make you dance and make you laugh, with your fave tunes that make you go 'Rahhh ain't hear this in time' and all the cheesy jokes from me, Hannah :) Lock in for the sickest guests and the most relatable stories about daily slips and hilarious situations I find myself in.",
+        "j": "Hannah",
+        "u": "https://www.subtleradio.com/artists/live-direct-w-hannah/",
+        "t": "biweekly",
+        "p": "hannah"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-25T09:00:00Z",
-        "e": "2026-04-25T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-04-25T11:00:00Z",
@@ -1691,17 +1670,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-02T11:00:00Z",
+        "e": "2026-05-02T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Hi-Fidelity with All My Friends",
-        "s": "2026-04-25T10:00:00Z",
-        "e": "2026-04-25T12:00:00Z",
-        "d": null,
-        "j": "Chris Airplays",
-        "u": null
-      },
       {
         "n": "Counter Culture with Kristina Records",
         "s": "2026-04-25T12:00:00Z",
@@ -1902,15 +1882,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-04-25T07:00:00Z",
-        "e": "2026-04-25T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Giorgi Pipia",
         "s": "2026-04-25T12:00:00Z",
