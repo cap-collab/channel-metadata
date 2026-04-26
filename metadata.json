@@ -1,38 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-26T14:37:04.077Z",
+  "updated": "2026-04-26T16:33:18.393Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PARADISE BANGKOK",
-        "s": "2026-04-26T15:00:00+01:00",
-        "e": "2026-04-26T16:00:00+01:00",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-26th-april-2026",
-        "t": "monthly",
-        "p": "paradise",
-        "ap": [
-          "paradisebangkok"
-        ]
-      },
-      {
-        "n": "KHARTOUM ARRIVALS W/ BASMA",
-        "s": "2026-04-26T16:00:00+01:00",
-        "e": "2026-04-26T17:00:00+01:00",
-        "d": "Basma shares songs and stories from passings through Khartoum and beyond.",
-        "j": "BASMA",
-        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-26th-april-2026",
-        "t": "monthly",
-        "p": "basma"
-      },
       {
         "n": "A Month of Sundays w/ Bill Spencer",
         "s": "2026-04-26T17:00:00+01:00",
         "e": "2026-04-26T18:00:00+01:00",
-        "d": null,
+        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.\nFrom the host: \"A focus on reggae, dub, and roots\"",
         "j": "Bill Spencer",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-26th-april-2026",
         "t": "biweekly",
         "p": "billspencer"
       },
@@ -40,9 +17,10 @@
         "n": "m00dtapes",
         "s": "2026-04-26T18:00:00+01:00",
         "e": "2026-04-26T19:00:00+01:00",
-        "d": null,
+        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-26th-april-2026",
+        "t": "monthly",
         "p": "m00dtapes"
       },
       {
@@ -173,40 +151,42 @@
         "j": null,
         "u": null,
         "p": "tilly"
+      },
+      {
+        "n": "CHANEL BEADS",
+        "s": "2026-04-27T15:00:00+01:00",
+        "e": "2026-04-27T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "chanelbeads"
+      },
+      {
+        "n": "MISSISSIPPI RECORDS",
+        "s": "2026-04-27T16:00:00+01:00",
+        "e": "2026-04-27T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "let's be happy with this w/ James Graham",
-        "s": "2026-04-26T15:00:00+01:00",
-        "e": "2026-04-26T16:00:00+01:00",
-        "d": "The title is a section of a quote by Michael Pisaro describing the music of Laurence Crane.  Music which does not take justification in ‘less is more’ or ‘only what is necessary’.  It takes us beyond those points:  it is less than necessary.  \nAcoustics and spatiality, frequency relationships, gradually expanding material; music in which very little changes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-let-s-be-happy-with-this-w-james-graham-26th-april-2026"
-      },
-      {
-        "n": "COMO UN VIENTO MUTILADO W/ LA HIJA DEL DIABLO",
-        "s": "2026-04-26T16:00:00+01:00",
-        "e": "2026-04-26T17:00:00+01:00",
-        "d": "An eclectic broadcast of Montevideo's ghosts and popular sounds from the 70s and 80s, during and after the military dictatorship.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-como-un-viento-mutilado-w-la-hija-del-diablo-26th-april-2026"
-      },
-      {
         "n": "Lytes W/ Sheepfields",
         "s": "2026-04-26T17:00:00+01:00",
         "e": "2026-04-26T18:00:00+01:00",
-        "d": null,
+        "d": "Exploring rhythms of life, dystopian memories, and unknown airwaves. Truth is a matter of the imagination.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-lytes-w-sheepfields-26th-april-2026"
       },
       {
         "n": "Autostereo w/ Ben Schwartz",
         "s": "2026-04-26T18:00:00+01:00",
         "e": "2026-04-26T19:00:00+01:00",
-        "d": null,
+        "d": "Walk the Left-Hand Path with this diabolical hour of songs about Satanism and black magic. A selection spanning over 50 years of psych rock, black metal, goth, and assorted incantations. Ave Satanas!",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-autostereo-w-ben-schwartz-26th-april-2026"
       },
       {
         "n": "The Year Punk broke ... in Spain",
@@ -319,27 +299,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Spectralism w/ Robert Guthrie",
+        "s": "2026-04-27T09:00:00+01:00",
+        "e": "2026-04-27T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "UNCUT VELVET W/ HODREAZ",
+        "s": "2026-04-27T10:00:00+01:00",
+        "e": "2026-04-27T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "LIT CLIPS w/ DVS",
-        "s": "2026-04-26T14:00:00Z",
-        "e": "2026-04-26T15:00:00Z",
-        "d": null,
-        "j": "DVS",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "grounded",
-        "s": "2026-04-26T15:00:00Z",
-        "e": "2026-04-26T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "2Step Selects ",
         "s": "2026-04-26T16:00:00Z",
@@ -1177,18 +1155,18 @@
         "j": "eatmybeat",
         "u": "https://www.subtleradio.com/artists/extrasaus-w-eatmybeat/",
         "t": "biweekly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs 2",
-        "s": "2026-04-26T14:00:00Z",
-        "e": "2026-04-26T16:00:00Z",
+        "n": "THEODORE",
+        "s": "2026-05-03T16:00:00Z",
+        "e": "2026-05-03T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Kenneth Bager - Music for Dreams",
         "s": "2026-04-26T16:00:00Z",
@@ -1703,19 +1681,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-05-03T16:00:00Z",
+        "e": "2026-05-03T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "Roska",
-        "s": "2026-04-26T14:00:00Z",
-        "e": "2026-04-26T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "roska"
-      },
       {
         "n": "Flyo",
         "s": "2026-04-26T16:00:00Z",
@@ -1914,24 +1892,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Dubquake Records",
-        "s": "2026-04-26T14:00:00Z",
-        "e": "2026-04-26T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "dubquakerecords"
-      },
-      {
-        "n": "POLAAR",
-        "s": "2026-04-26T15:00:00Z",
-        "e": "2026-04-26T16:00:00Z",
-        "d": null,
-        "j": "invite SNKLS (live)",
-        "u": null,
-        "p": "polaar"
-      },
       {
         "n": "The Bass Society",
         "s": "2026-04-26T16:00:00Z",
