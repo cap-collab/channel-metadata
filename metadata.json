@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-04-26T07:17:31.479Z",
+  "updated": "2026-04-26T08:50:29.157Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NTS GUIDE TO: JAZZ FROM THE EASTERN BLOC (R)",
-        "s": "2026-04-26T07:00:00+01:00",
-        "e": "2026-04-26T08:30:00+01:00",
-        "d": "A selection of jazz recordings, produced by artists from across the former Eastern Bloc – Polish fusion, Bulgarian jazz-rock, Czech post-bop and more. ",
-        "j": "JAZZ FROM THE EASTERN BLOC",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-jazz-from-the-eastern-bloc-20th-march-2026",
-        "t": "restream"
-      },
-      {
-        "n": "MARTIN NEWELL'S ODDCASTE",
-        "s": "2026-04-26T08:30:00+01:00",
-        "e": "2026-04-26T09:00:00+01:00",
-        "d": "The Cleaners From Venus frontman presents an eclectic mix of pop music, comedy, and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martin-newells-oddcaste/episodes/martin-newells-oddcaste-26th-april-2026",
-        "t": "weekly"
-      },
       {
         "n": "TIME IS AWAY - DoE (Can a Tape Machine Improvise?)",
         "s": "2026-04-26T09:00:00+01:00",
         "e": "2026-04-26T10:00:00+01:00",
-        "d": null,
+        "d": "Time Is Away and somewhere else every month on NTS. Each hour-long show uses music, alongside snippets of spoken word, to produce something that is part soundscape, part essay for the radio. Host portraits by Robin Silas Christian (@makinabooks)\nFrom the host: \"This recording is the only surviving long-form tape collage made by Kurt Rapp during his time at the the Department of Euterpe (DoE). Efforts to identify its constituent parts suggest it cannot have been made any earlier than 1987. Research is ongoing.\"",
         "j": "DoE (Can a Tape Machine Improvise?)",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/timeisaway/episodes/timeisaway-26th-april-2026",
         "t": "monthly"
       },
       {
         "n": "Radiant Life w/ Ruby Savage",
         "s": "2026-04-26T10:00:00+01:00",
         "e": "2026-04-26T12:00:00+01:00",
-        "d": null,
+        "d": "Get radiant with Ruby Savage's mixed bag of goodies.",
         "j": "Ruby Savage",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ruby-savage/episodes/ruby-savage-26th-april-2026",
         "t": "monthly",
         "p": "rubysavage"
       },
@@ -173,17 +155,27 @@
         "u": null,
         "t": "restream",
         "p": "adultzonly"
+      },
+      {
+        "n": "NASHPAINTS (R)",
+        "s": "2026-04-27T06:00:00+01:00",
+        "e": "2026-04-27T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
+        "s": "2026-04-27T07:00:00+01:00",
+        "e": "2026-04-27T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "mariasomerville"
       }
     ],
     "nts2": [
-      {
-        "n": "Nothing Ever Happens Around Here w/ Splendore",
-        "s": "2026-04-26T08:00:00+01:00",
-        "e": "2026-04-26T09:00:00+01:00",
-        "d": "A collection of field recordings, voices from another time, the rustle of the eternal present. A sonic patchwork of manipulated soundscapes and sonic folklore.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-nothing-ever-happens-around-here-w-splendore-26th-april-2026"
-      },
       {
         "n": "Samiira Garane",
         "s": "2026-04-26T09:00:00+01:00",
@@ -196,9 +188,9 @@
         "n": "CHILL – HE SAID W/ CALLIOPE",
         "s": "2026-04-26T10:00:00+01:00",
         "e": "2026-04-26T11:00:00+01:00",
-        "d": null,
+        "d": "This mixtape is an ode to companionship. \nIn getting to know someone, you inevitably encounter their origins — their references, their passions, their knowledge, their hopes and dreams. And if you’re brave, and lucky, you let yourself sink into them, drift, and emerge changed.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-chill---he-said-w-calliope-26th-april-2026"
       },
       {
         "n": "classical Music Composed by Women w/ Amanda Maier",
@@ -316,6 +308,14 @@
         "n": "NEO-VISUAL KEI W/ CYCKIE",
         "s": "2026-04-27T01:00:00+01:00",
         "e": "2026-04-27T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Clarinet for Contemporary Listeners Vol. 2 w/ A. Daud",
+        "s": "2026-04-27T02:00:00+01:00",
+        "e": "2026-04-27T03:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
@@ -1158,6 +1158,15 @@
         "u": null,
         "t": "monthly",
         "p": "coldhippie"
+      },
+      {
+        "n": "First Press w/ Passo Passo",
+        "s": "2026-05-03T08:00:00Z",
+        "e": "2026-05-03T09:00:00Z",
+        "d": null,
+        "j": "Passo Passo",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1696,15 +1705,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-04-26T06:00:00Z",
-        "e": "2026-04-26T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "FYI Robyn",
         "s": "2026-04-26T08:00:00Z",
