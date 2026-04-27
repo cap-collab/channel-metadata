@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-27T20:53:32.752Z",
+  "updated": "2026-04-27T22:40:58.145Z",
   "stations": {
     "nts1": [
-      {
-        "n": "mu tate",
-        "s": "2026-04-27T21:00:00+01:00",
-        "e": "2026-04-27T22:00:00+01:00",
-        "d": "Another missive from the outer reaches of ambient and downtempo production courtesy of mu tate. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/mu-tate-27th-april-2026"
-      },
       {
         "n": "CHERRYSTONES",
         "s": "2026-04-27T22:00:00+01:00",
@@ -25,9 +17,9 @@
         "n": "GRIBS",
         "s": "2026-04-28T00:00:00+01:00",
         "e": "2026-04-28T01:00:00+01:00",
-        "d": null,
+        "d": "Life on wide mode.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gribs/episodes/gribs-28th-april-2026",
         "t": "monthly",
         "p": "gribs"
       },
@@ -169,43 +161,33 @@
         "u": null,
         "t": "monthly",
         "p": "rupture"
+      },
+      {
+        "n": "DANIELLE",
+        "s": "2026-04-28T21:00:00+01:00",
+        "e": "2026-04-28T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "ALBA Radio w/ María Latina",
-        "s": "2026-04-27T21:00:00+01:00",
-        "e": "2026-04-27T22:00:00+01:00",
-        "d": "''In the Western world, improvisation is a failure; you do it when something goes wrong. But when black people improvise it's a form of mastery.'' \nAlba",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/alba/episodes/alba-27th-april-2026"
-      },
-      {
-        "n": "LIQUID MIRROR W/ OLIVE KIMOTO",
-        "s": "2026-04-27T22:00:00+01:00",
-        "e": "2026-04-27T23:00:00+01:00",
-        "d": "Liquid Mirror is the aural exploration of all intersections of ethereality with musician and artist Olive Kimoto. Interpreted eclectically, the monthly broadcast ranges from shoegaze and dream pop, to electronic and experimental.",
-        "j": "OLIVE KIMOTO",
-        "u": "https://www.nts.live/api/v2/shows/liquid-mirror/episodes/liquid-mirror-27th-april-2026",
-        "t": "biweekly",
-        "p": "liquidmirror"
-      },
-      {
         "n": "Diiv",
         "s": "2026-04-27T23:00:00+01:00",
         "e": "2026-04-28T00:00:00+01:00",
-        "d": null,
+        "d": "Selections from across the musical landscape by members of the band DIIV.\nFrom the host: \"This playlist was curated by Cole Smith\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/diiv/episodes/diiv-27th-april-2026",
         "p": "diiv"
       },
       {
         "n": "DJ SPANISH FLY",
         "s": "2026-04-28T00:00:00+01:00",
         "e": "2026-04-28T01:00:00+01:00",
-        "d": null,
+        "d": "You know you can expect that real Memphis shit when it's DJ Spanish Fly: vintage tapes, 808s and smoking onion.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dj-spanish-fly/episodes/dj-spanish-fly-28th-april-2026",
         "t": "monthly"
       },
       {
@@ -329,29 +311,28 @@
         "u": null,
         "t": "monthly",
         "p": "yusu"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Saraphim",
-        "s": "2026-04-27T20:00:00Z",
-        "e": "2026-04-27T21:00:00Z",
-        "d": "Saraphim (aka RNS & RDubz) are two Essex based Producer/DJ’s currently focused on Dubstep & the 140 spectrum, mixing ethnical and grime influences into their music. You can expect anything from deep and melodic meditative vibes to high energy driven music.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "saraphim"
       },
       {
-        "n": "Chaz",
-        "s": "2026-04-27T21:00:00Z",
-        "e": "2026-04-27T22:00:00Z",
+        "n": "PENDER STREET STEPPERS",
+        "s": "2026-04-28T18:00:00+01:00",
+        "e": "2026-04-28T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Nick Hakim",
+        "s": "2026-04-28T20:00:00+01:00",
+        "e": "2026-04-28T21:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "chaz"
-      },
+        "p": "nickhakim"
+      }
+    ],
+    "subtle": [
       {
         "n": "Lumeni",
         "s": "2026-04-27T22:00:00Z",
@@ -361,6 +342,15 @@
         "u": null,
         "t": "biweekly",
         "p": "lumeni"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-04-27T23:00:00Z",
+        "e": "2026-04-28T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "The Ice Box Sessions with Frigid",
@@ -1197,19 +1187,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "LATO",
+        "s": "2026-05-04T21:00:00Z",
+        "e": "2026-05-04T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "H2 w/ SUS-R",
+        "s": "2026-05-04T22:00:00Z",
+        "e": "2026-05-04T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Domenic Priore - '66 Sunset Strip",
-        "s": "2026-04-27T19:00:00Z",
-        "e": "2026-04-27T21:00:00Z",
-        "d": null,
-        "j": "'66 Sunset Strip",
-        "u": null,
-        "t": "monthly",
-        "p": "domenicpriore"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-04-27T21:00:00Z",
@@ -1752,28 +1749,18 @@
         "u": null,
         "t": "monthly",
         "p": "lupe"
+      },
+      {
+        "n": "Beau Matthews - Urban Farmer Radio",
+        "s": "2026-05-04T21:00:00Z",
+        "e": "2026-05-04T23:00:00Z",
+        "d": null,
+        "j": "Urban Farmer Radio",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "DJ Stingray 313",
-        "s": "2026-04-27T20:00:00Z",
-        "e": "2026-04-27T21:00:00Z",
-        "d": null,
-        "j": "1morning",
-        "u": null,
-        "t": "biweekly",
-        "p": "djstingray"
-      },
-      {
-        "n": "Paranoid London",
-        "s": "2026-04-27T21:00:00Z",
-        "e": "2026-04-27T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "paranoidlondon"
-      },
       {
         "n": "HalfPint Presents Roundabout",
         "s": "2026-04-27T22:00:00Z",
@@ -1963,15 +1950,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-04-27T19:00:00Z",
-        "e": "2026-04-28T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-04-28T07:00:00Z",
         "e": "2026-04-28T10:00:00Z",
         "d": null,
@@ -1994,8 +1972,7 @@
         "e": "2026-04-28T13:00:00Z",
         "d": null,
         "j": "Behind the Curtain",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "honeymel",
@@ -2004,7 +1981,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "honeymel"
       },
       {
@@ -2013,8 +1989,7 @@
         "e": "2026-04-28T15:00:00Z",
         "d": null,
         "j": "The Neptunes special",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Lorkestra",
@@ -2023,7 +1998,6 @@
         "d": null,
         "j": "présente Secret Gems Show avec BRLLNT",
         "u": null,
-        "t": "monthly",
         "p": "lorkestra"
       },
       {
@@ -2033,7 +2007,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "mel"
+        "p": "mel",
+        "t": "monthly"
       },
       {
         "n": "Kokoprisci",
@@ -2042,7 +2017,6 @@
         "d": null,
         "j": ": The Koko Show avec Stella K",
         "u": null,
-        "t": "monthly",
         "p": "kokoprisci"
       },
       {
