@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-27T17:14:53.762Z",
+  "updated": "2026-04-27T19:05:12.493Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-04-27T18:00:00+01:00",
-        "e": "2026-04-27T20:00:00+01:00",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": "COCO MARIA",
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-27th-april-2026",
-        "t": "weekly",
-        "p": "cocomaria"
-      },
       {
         "n": "OBSIDIAN DREAMS W/ BITTER BABE",
         "s": "2026-04-27T20:00:00+01:00",
@@ -25,9 +15,9 @@
         "n": "mu tate",
         "s": "2026-04-27T21:00:00+01:00",
         "e": "2026-04-27T22:00:00+01:00",
-        "d": null,
+        "d": "Another missive from the outer reaches of ambient and downtempo production courtesy of mu tate. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/mu-tate-27th-april-2026"
       },
       {
         "n": "CHERRYSTONES",
@@ -168,42 +158,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SURF GANG RADIO",
+        "s": "2026-04-28T19:00:00+01:00",
+        "e": "2026-04-28T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "THE TRILOGY TAPES",
-        "s": "2026-04-27T17:00:00+01:00",
-        "e": "2026-04-27T19:00:00+01:00",
-        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-27th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Harrison (Surf Gang)",
-        "s": "2026-04-27T19:00:00+01:00",
-        "e": "2026-04-27T20:00:00+01:00",
-        "d": "Surf Gang boss Harrison drops off an hour of exclusive unreleased business from SG + extended family. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/harrison-surf-gang-27th-april-2026"
-      },
-      {
         "n": "Valencia House w/ Yeek & Chris Cadaver (R)",
         "s": "2026-04-27T20:00:00+01:00",
         "e": "2026-04-27T21:00:00+01:00",
-        "d": null,
+        "d": "\"Valencia House Radio, formerly known as The Yeek Show, is an extension of a creative studio led by multidisciplinary artists Yeek and Kevin Halasan.\"\nFrom the host: \"On this month's episode we have special guest, visual artist & musician Chris Cadaver.\"",
         "j": "Yeek & Chris Cadaver",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yeek/episodes/yeek-10th-november-2025",
         "t": "restream"
       },
       {
         "n": "ALBA Radio w/ María Latina",
         "s": "2026-04-27T21:00:00+01:00",
         "e": "2026-04-27T22:00:00+01:00",
-        "d": null,
+        "d": "''In the Western world, improvisation is a failure; you do it when something goes wrong. But when black people improvise it's a form of mastery.'' \nAlba",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/alba/episodes/alba-27th-april-2026"
       },
       {
         "n": "LIQUID MIRROR W/ OLIVE KIMOTO",
@@ -325,29 +307,28 @@
         "j": "JAMES W",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sounds on Screen: Femme Fatale",
+        "s": "2026-04-28T13:00:00+01:00",
+        "e": "2026-04-28T15:00:00+01:00",
+        "d": null,
+        "j": "Femme Fatale",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "ARRHYTHMIA",
+        "s": "2026-04-28T15:00:00+01:00",
+        "e": "2026-04-28T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "arrhythmia"
       }
     ],
     "subtle": [
-      {
-        "n": "Grigio",
-        "s": "2026-04-27T17:00:00Z",
-        "e": "2026-04-27T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "grigio"
-      },
-      {
-        "n": "Deadly Unserious",
-        "s": "2026-04-27T18:00:00Z",
-        "e": "2026-04-27T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "deadlyunserious"
-      },
       {
         "n": "Scandal Sounds",
         "s": "2026-04-27T19:00:00Z",
@@ -1194,19 +1175,29 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "glosssd",
+        "s": "2026-05-04T18:00:00Z",
+        "e": "2026-05-04T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "glosssd"
+      },
+      {
+        "n": "JDubz",
+        "s": "2026-05-04T19:00:00Z",
+        "e": "2026-05-04T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jdubz"
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-04-27T17:00:00Z",
-        "e": "2026-04-27T19:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
       {
         "n": "Domenic Priore - '66 Sunset Strip",
         "s": "2026-04-27T19:00:00Z",
@@ -1740,29 +1731,19 @@
         "u": null,
         "t": "weekly",
         "p": "renecontreras"
+      },
+      {
+        "n": "LUPE - RECENTS",
+        "s": "2026-05-04T19:00:00Z",
+        "e": "2026-05-04T21:00:00Z",
+        "d": null,
+        "j": "RECENTS",
+        "u": null,
+        "t": "monthly",
+        "p": "lupe"
       }
     ],
     "rinse": [
-      {
-        "n": "Ghoulish",
-        "s": "2026-04-27T17:00:00Z",
-        "e": "2026-04-27T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "ghoulish"
-      },
-      {
-        "n": "COIDO",
-        "s": "2026-04-27T18:00:00Z",
-        "e": "2026-04-27T19:00:00Z",
-        "d": null,
-        "j": "Live from Open Ground",
-        "u": null,
-        "t": "biweekly",
-        "p": "coido"
-      },
       {
         "n": "Jossy Mitsu",
         "s": "2026-04-27T19:00:00Z",
@@ -1980,25 +1961,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Neida",
-        "s": "2026-04-27T17:00:00Z",
-        "e": "2026-04-27T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Miley Serious",
-        "s": "2026-04-27T18:00:00Z",
-        "e": "2026-04-27T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "mileyserious"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-04-27T19:00:00Z",
         "e": "2026-04-28T07:00:00Z",
@@ -2077,7 +2039,7 @@
         "s": "2026-04-28T17:00:00Z",
         "e": "2026-04-28T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": ": The Koko Show avec Stella K",
         "u": null,
         "t": "monthly",
         "p": "kokoprisci"
