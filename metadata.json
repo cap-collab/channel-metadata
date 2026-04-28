@@ -1,53 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-28T10:07:02.725Z",
+  "updated": "2026-04-28T16:10:42.446Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ ANU",
-        "s": "2026-04-28T11:00:00+01:00",
-        "e": "2026-04-28T13:00:00+01:00",
-        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
-        "j": "ANU",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-28th-april-2026",
-        "t": "biweekly",
-        "p": "anu"
-      },
-      {
-        "n": "Low Life Loves You w/ Bill Brewster",
-        "s": "2026-04-28T13:00:00+01:00",
-        "e": "2026-04-28T15:00:00+01:00",
-        "d": null,
-        "j": "Bill Brewster",
-        "u": null,
-        "t": "monthly",
-        "p": "billbrewster"
-      },
-      {
-        "n": "Self Soothe w/ Margeaux",
-        "s": "2026-04-28T15:00:00+01:00",
-        "e": "2026-04-28T16:00:00+01:00",
-        "d": null,
-        "j": "Margeaux",
-        "u": null,
-        "t": "weekly",
-        "p": "margeaux"
-      },
-      {
-        "n": "Exploring Earth Through Sound w/ Machi -  Argentine Rock (60s-90s)",
-        "s": "2026-04-28T16:00:00+01:00",
-        "e": "2026-04-28T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "QUEST NO MORE W/ ELHEIST & Ib Kamara",
         "s": "2026-04-28T17:00:00+01:00",
         "e": "2026-04-28T18:00:00+01:00",
-        "d": null,
+        "d": "Elheist steers deep‑cuts, left‑field electronica, obscure grooves and sounds from the fam into the fold, where worlds collide, textures shift and surprises hit. check your quest, leave the rest.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/quest-no-more/episodes/quest-no-more-28th-april-2026"
       },
       {
         "n": "Leicester's Finest w/ Mohammad Adam",
@@ -58,13 +20,12 @@
         "u": null
       },
       {
-        "n": "SURF GANG RADIO",
+        "n": "SURF GANG RADIO W/ B0YG1RL",
         "s": "2026-04-28T19:00:00+01:00",
         "e": "2026-04-28T20:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "RUPTURE W/ MANTRA & DOUBLE O",
@@ -158,53 +119,57 @@
         "u": null,
         "t": "weekly",
         "p": "shyone"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "TRUE AS FEW W/ MARK -  On Stefania Turkewich",
-        "s": "2026-04-28T11:00:00+01:00",
-        "e": "2026-04-28T12:00:00+01:00",
-        "d": "Diving into classical composition with Mark aka Klon Dump…\nFrom the host: \"This month focuses on the works of Ukrainian composer Stefania Turkewich, paying particular attention to her works for voice and piano, bookended by excerpts from the String Quartet and first Symphony\"",
-        "j": "MARK",
-        "u": "https://www.nts.live/api/v2/shows/true-as-few/episodes/true-as-few-28th-april-2026",
-        "t": "monthly"
       },
       {
-        "n": "GREAT SOUTHERN LANDS W/ JAMES W",
-        "s": "2026-04-28T12:00:00+01:00",
-        "e": "2026-04-28T13:00:00+01:00",
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-04-29T13:00:00+01:00",
+        "e": "2026-04-29T14:00:00+01:00",
         "d": null,
-        "j": "JAMES W",
+        "j": "FINN",
         "u": null,
-        "t": "monthly"
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
       },
       {
-        "n": "Sounds on Screen: Femme Fatale",
-        "s": "2026-04-28T13:00:00+01:00",
-        "e": "2026-04-28T15:00:00+01:00",
+        "n": "BRADLEY ZERO PRESENTS: RHYTHM SECTION",
+        "s": "2026-04-29T14:00:00+01:00",
+        "e": "2026-04-29T15:00:00+01:00",
         "d": null,
-        "j": "Femme Fatale",
+        "j": "RHYTHM SECTION",
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "ARRHYTHMIA",
-        "s": "2026-04-28T15:00:00+01:00",
-        "e": "2026-04-28T17:00:00+01:00",
+        "n": "MOXIE",
+        "s": "2026-04-29T15:00:00+01:00",
+        "e": "2026-04-29T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "arrhythmia"
+        "p": "moxie"
       },
+      {
+        "n": "TASH LC",
+        "s": "2026-04-29T17:00:00+01:00",
+        "e": "2026-04-29T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "tashlc"
+      }
+    ],
+    "nts2": [
       {
         "n": "YU SU",
         "s": "2026-04-28T17:00:00+01:00",
         "e": "2026-04-28T18:00:00+01:00",
-        "d": null,
+        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-28th-april-2026",
         "t": "monthly",
         "p": "yusu"
       },
@@ -312,68 +277,43 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Cianalas (homesick) W/ KILO",
+        "s": "2026-04-29T08:00:00+01:00",
+        "e": "2026-04-29T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Brief guide to sean-nós songs",
+        "s": "2026-04-29T09:00:00+01:00",
+        "e": "2026-04-29T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DIGGING INTO MANDOPOP W/ SPECTRAL SOURCE",
+        "s": "2026-04-29T10:00:00+01:00",
+        "e": "2026-04-29T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Still Light w/ Shida Shahabi",
+        "s": "2026-04-29T11:00:00+01:00",
+        "e": "2026-04-29T12:00:00+01:00",
+        "d": null,
+        "j": "Shida Shahabi",
+        "u": null,
+        "t": "monthly",
+        "p": "shidashahabi"
       }
     ],
     "subtle": [
-      {
-        "n": "Local Movements",
-        "s": "2026-04-28T10:00:00Z",
-        "e": "2026-04-28T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "localmovements"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-28T11:00:00Z",
-        "e": "2026-04-28T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Liquid Vault w/ Half-Life",
-        "s": "2026-04-28T12:00:00Z",
-        "e": "2026-04-28T13:00:00Z",
-        "d": null,
-        "j": "Half",
-        "u": null,
-        "t": "monthly",
-        "p": "half"
-      },
-      {
-        "n": "Silk Road Sessions w/ YVES",
-        "s": "2026-04-28T13:00:00Z",
-        "e": "2026-04-28T14:00:00Z",
-        "d": null,
-        "j": "YVES",
-        "u": null,
-        "t": "monthly",
-        "p": "yves"
-      },
-      {
-        "n": "sophie",
-        "s": "2026-04-28T14:00:00Z",
-        "e": "2026-04-28T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sophie"
-      },
-      {
-        "n": "Noiseland Arcade",
-        "s": "2026-04-28T15:00:00Z",
-        "e": "2026-04-28T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "noiselandarcade"
-      },
       {
         "n": "Maliboo Selects",
         "s": "2026-04-28T16:00:00Z",
@@ -1179,27 +1119,67 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Jakesy",
+        "s": "2026-05-05T11:00:00Z",
+        "e": "2026-05-05T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Bass Exchange",
+        "s": "2026-05-05T12:00:00Z",
+        "e": "2026-05-05T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bassexchange"
+      },
+      {
+        "n": "Solly",
+        "s": "2026-05-05T13:00:00Z",
+        "e": "2026-05-05T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "solly"
+      },
+      {
+        "n": "Nicked Fawlty",
+        "s": "2026-05-05T14:00:00Z",
+        "e": "2026-05-05T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nickedfawlty"
+      },
+      {
+        "n": "Get On festival ",
+        "s": "2026-05-05T15:00:00Z",
+        "e": "2026-05-05T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "getonfestival"
+      },
+      {
+        "n": "SECH",
+        "s": "2026-05-05T16:00:00Z",
+        "e": "2026-05-05T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-28T09:00:00Z",
-        "e": "2026-04-28T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-04-28T11:00:00Z",
-        "e": "2026-04-28T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Middle Pillar Sounds",
         "s": "2026-04-28T15:00:00Z",
@@ -1764,61 +1744,28 @@
         "u": null,
         "t": "monthly",
         "p": "jennynono"
+      },
+      {
+        "n": "Gulniyal - gtalks! radio",
+        "s": "2026-05-05T15:00:00Z",
+        "e": "2026-05-05T16:00:00Z",
+        "d": null,
+        "j": "gtalks! radio",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Chandler Poling - Studio Soundtracks",
+        "s": "2026-05-05T16:00:00Z",
+        "e": "2026-05-05T17:00:00Z",
+        "d": null,
+        "j": "Studio Soundtracks",
+        "u": null,
+        "t": "monthly",
+        "p": "chandlerpoling"
       }
     ],
     "rinse": [
-      {
-        "n": "Jumbi",
-        "s": "2026-04-28T10:00:00Z",
-        "e": "2026-04-28T11:00:00Z",
-        "d": null,
-        "j": "YDLR",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Rollo Jackson",
-        "s": "2026-04-28T11:00:00Z",
-        "e": "2026-04-28T12:00:00Z",
-        "d": null,
-        "j": "DJ Ron",
-        "u": null,
-        "t": "biweekly",
-        "p": "djron",
-        "ap": [
-          "rollojackson"
-        ]
-      },
-      {
-        "n": "Savannah Blake",
-        "s": "2026-04-28T12:00:00Z",
-        "e": "2026-04-28T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "savannahblake"
-      },
-      {
-        "n": "The OONTS Show with Kojay",
-        "s": "2026-04-28T13:00:00Z",
-        "e": "2026-04-28T14:00:00Z",
-        "d": null,
-        "j": "P Lucas",
-        "u": null,
-        "t": "biweekly",
-        "p": "kojay"
-      },
-      {
-        "n": "Brighter Days Family",
-        "s": "2026-04-28T14:00:00Z",
-        "e": "2026-04-28T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "brighterdaysfamily"
-      },
       {
         "n": "Adventures In Paradise with Manuel Darquart",
         "s": "2026-04-28T16:00:00Z",
@@ -1855,7 +1802,7 @@
         "s": "2026-04-28T19:00:00Z",
         "e": "2026-04-28T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Shonky & Alexander Skancke",
         "u": null,
         "t": "monthly",
         "p": "apollonia"
@@ -2028,49 +1975,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-04-28T10:00:00Z",
-        "e": "2026-04-28T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Anna Majidson",
-        "s": "2026-04-28T12:00:00Z",
-        "e": "2026-04-28T13:00:00Z",
-        "d": null,
-        "j": "Behind the Curtain the witching hour",
-        "u": null
-      },
-      {
-        "n": "honeymel",
-        "s": "2026-04-28T13:00:00Z",
-        "e": "2026-04-28T14:00:00Z",
-        "d": null,
-        "j": "Sip into something soft",
-        "u": null,
-        "p": "honeymel"
-      },
-      {
-        "n": "Louis Roméo",
-        "s": "2026-04-28T14:00:00Z",
-        "e": "2026-04-28T15:00:00Z",
-        "d": null,
-        "j": "The Neptunes special",
-        "u": null
-      },
-      {
-        "n": "Lorkestra",
-        "s": "2026-04-28T15:00:00Z",
-        "e": "2026-04-28T16:00:00Z",
-        "d": null,
-        "j": "présente Secret Gems Show avec BRLLNT",
-        "u": null,
-        "p": "lorkestra"
-      },
-      {
         "n": "Mel V",
         "s": "2026-04-28T16:00:00Z",
         "e": "2026-04-28T17:00:00Z",
@@ -2119,21 +2023,20 @@
       {
         "n": "Playlist France",
         "s": "2026-04-29T10:00:00Z",
-        "e": "2026-04-29T12:00:00Z",
+        "e": "2026-04-29T11:30:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "WEDOMiEL",
-        "s": "2026-04-29T12:00:00Z",
+        "n": "Playlist France",
+        "s": "2026-04-29T11:30:00Z",
         "e": "2026-04-29T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "wedomiel"
+        "t": "playlist"
       },
       {
         "n": "MARTA TAKEOVER",
@@ -2182,7 +2085,7 @@
         "s": "2026-04-29T18:00:00Z",
         "e": "2026-04-29T19:00:00Z",
         "d": null,
-        "j": "invite Mia Ova",
+        "j": "présente Mia Ovaa",
         "u": null,
         "p": "tekilatex"
       },
