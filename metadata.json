@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-28T21:00:18.869Z",
+  "updated": "2026-04-28T22:47:52.479Z",
   "stations": {
     "nts1": [
-      {
-        "n": "YL HOOI (R)",
-        "s": "2026-04-28T22:00:00+01:00",
-        "e": "2026-04-28T23:00:00+01:00",
-        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-5th-february-2026",
-        "t": "restream",
-        "p": "ylhooi"
-      },
       {
         "n": "Elena Colombi w/ DIAMIN",
         "s": "2026-04-28T23:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "THE KRONICLES W/ DJ AMIR",
         "s": "2026-04-29T00:00:00+01:00",
         "e": "2026-04-29T01:00:00+01:00",
-        "d": null,
+        "d": "Sample excavator, music historian, and compilation curator DJ Amir selects a few influences each month - from house to disco, hip-hop to jazz.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-kronicles-featuring-dj-amir/episodes/the-kronicles-featuring-dj-amir-29th-april-2026"
       },
       {
         "n": "Minimal Effort (R)",
@@ -172,17 +162,25 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Jasmín",
+        "s": "2026-04-30T00:00:00+01:00",
+        "e": "2026-04-30T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "BRWN w/ Gabriel Moises Rivera (R)",
+        "n": "BRWN w/ Ahwlee & Pink Siifu",
         "s": "2026-04-28T22:00:00+01:00",
         "e": "2026-04-29T00:00:00+01:00",
         "d": "Ahwlee & Pink Siifu (B. Cool-Aid) head up BRWN, exploring hip hop's varied and far-reaching experimental corners - live once a month from Los Angeles.",
-        "j": "Gabriel Moises Rivera",
-        "u": "https://www.nts.live/api/v2/shows/brwn/episodes/brwn-9th-december-2025",
-        "t": "restream",
+        "j": "Ahwlee & Pink Siifu",
+        "u": "https://www.nts.live/api/v2/shows/brwn/episodes/brwn-28th-april-2026",
+        "t": "monthly",
         "p": "brwn"
       },
       {
@@ -334,16 +332,6 @@
     ],
     "subtle": [
       {
-        "n": "OVN",
-        "s": "2026-04-28T21:00:00Z",
-        "e": "2026-04-28T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "ovn"
-      },
-      {
         "n": "ATKINS",
         "s": "2026-04-28T22:00:00Z",
         "e": "2026-04-28T23:00:00Z",
@@ -352,6 +340,15 @@
         "u": null,
         "t": "monthly",
         "p": "atkins"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-04-28T23:00:00Z",
+        "e": "2026-04-29T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Champagnemuma",
@@ -1193,6 +1190,15 @@
         "j": "Ufaze",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Minuscule Music Show with Bondy",
+        "s": "2026-05-05T22:00:00Z",
+        "e": "2026-05-05T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1799,16 +1805,6 @@
     ],
     "rinse": [
       {
-        "n": "Silencer",
-        "s": "2026-04-28T21:00:00Z",
-        "e": "2026-04-28T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "silencer"
-      },
-      {
         "n": "Sarra Wild",
         "s": "2026-04-28T22:00:00Z",
         "e": "2026-04-28T23:00:00Z",
@@ -1880,7 +1876,7 @@
         "s": "2026-04-29T08:00:00Z",
         "e": "2026-04-29T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Deekapz",
         "u": null,
         "t": "weekly",
         "p": "esk"
@@ -1973,15 +1969,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-04-28T19:00:00Z",
-        "e": "2026-04-29T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-04-29T07:00:00Z",
