@@ -1,33 +1,16 @@
 {
   "v": 2,
-  "updated": "2026-04-29T15:51:53.667Z",
+  "updated": "2026-04-29T17:18:54.102Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Moxie W/ Ariane V (Nervous Records feature)",
-        "s": "2026-04-29T15:00:00+01:00",
-        "e": "2026-04-29T17:00:00+01:00",
-        "d": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moxie/episodes/moxie-29th-april-2026",
-        "p": "moxie"
-      },
-      {
-        "n": "TASH LC",
-        "s": "2026-04-29T17:00:00+01:00",
-        "e": "2026-04-29T18:00:00+01:00",
-        "d": "After work fun and global tunes with Tash LC and guests every other Wednesday ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tash-lc/episodes/tash-lc-29th-april-2026",
-        "p": "tashlc"
-      },
       {
         "n": "TOUCHING BASS W/ ERROL & Maxwell Owin",
         "s": "2026-04-29T18:00:00+01:00",
         "e": "2026-04-29T20:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Join Errol and the Touching Bass family every month for regular voyages into inner-city, concrete jungle productions plus astral-facing funk, jazz, broken beat and anything else with a soulful pulse.",
+        "j": "ERROL & Maxwell Owin",
+        "u": "https://www.nts.live/api/v2/shows/touching-bass/episodes/touching-bass-29th-april-2026",
+        "t": "monthly",
         "p": "maxwellowin",
         "ap": [
           "touchingbass"
@@ -37,9 +20,10 @@
         "n": "Giulia Tess & ||||||||||||||||||||",
         "s": "2026-04-29T20:00:00+01:00",
         "e": "2026-04-29T21:00:00+01:00",
-        "d": null,
+        "d": "NTS's own Giulia Tess pulls us leftfield once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/giulia-tess/episodes/giulia-tess-29th-april-2026",
+        "t": "monthly",
         "p": "giuliatess"
       },
       {
@@ -78,7 +62,17 @@
         "u": null
       },
       {
-        "n": "EDITS W/ KELMAN DURAN",
+        "n": "IN FOCUS: SOURCE DIRECT (R)",
+        "s": "2026-04-30T01:00:00+01:00",
+        "e": "2026-04-30T02:00:00+01:00",
+        "d": null,
+        "j": "SOURCE DIRECT",
+        "u": null,
+        "t": "restream",
+        "p": "source"
+      },
+      {
+        "n": "EDITS w/ Kelman Duran",
         "s": "2026-04-30T02:00:00+01:00",
         "e": "2026-04-30T03:00:00+01:00",
         "d": null,
@@ -167,43 +161,33 @@
         "u": null,
         "t": "monthly",
         "p": "fauzia"
+      },
+      {
+        "n": "GILES SMITH",
+        "s": "2026-04-30T15:00:00+01:00",
+        "e": "2026-04-30T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "gilessmith"
       }
     ],
     "nts2": [
       {
-        "n": "TIM KOH: KOKONUT TRIP (R)",
-        "s": "2026-04-29T16:00:00+01:00",
-        "e": "2026-04-29T17:00:00+01:00",
-        "d": "Take a Kokonut Trip with Tim Koh, playing vintage pop, kaleidoscopic rock & folk, and whatever else he feels.",
-        "j": "KOKONUT TRIP",
-        "u": "https://www.nts.live/api/v2/shows/tim-koh/episodes/tim-koh-23rd-july-2025",
-        "t": "restream"
-      },
-      {
-        "n": "ASTRID SONNE",
-        "s": "2026-04-29T17:00:00+01:00",
-        "e": "2026-04-29T18:00:00+01:00",
-        "d": "1-hour monthly show with composer and musician Astrid Sonne. Sharing everything from rock to dub to classical to pop. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/astrid-sonne/episodes/astrid-sonne-29th-april-2026",
-        "t": "monthly",
-        "p": "astridsonne"
-      },
-      {
         "n": "TRIP LICK W/ Stone",
         "s": "2026-04-29T18:00:00+01:00",
         "e": "2026-04-29T19:00:00+01:00",
-        "d": null,
+        "d": "Enter the mythology of NYC artist James K - her sound, equally organic and electronic, is a combination of odd dreams, hybridizing enchanted samples, ripped, broken and morphed rhythms, and vocals, both incomprehensible and appealing.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/james-k/episodes/james-k-29th-april-2026"
       },
       {
         "n": "Sophie Thatcher",
         "s": "2026-04-29T19:00:00+01:00",
         "e": "2026-04-29T20:00:00+01:00",
-        "d": null,
+        "d": "Chime into a world of noise and melancholia. \nRanging from ambient to 70s Italian film scores. \nPerfect time for a long long walk. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-29th-april-2026",
         "p": "sophie",
         "ap": [
           "sophiethatcher"
@@ -329,26 +313,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "LIT CLIPS w/ DVS",
-        "s": "2026-04-29T15:00:00Z",
-        "e": "2026-04-29T16:00:00Z",
-        "d": null,
-        "j": "DVS",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Johana",
-        "s": "2026-04-29T16:00:00Z",
-        "e": "2026-04-29T17:00:00Z",
+        "n": "YL HOOI",
+        "s": "2026-04-30T11:00:00+01:00",
+        "e": "2026-04-30T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ylhooi"
+      },
+      {
+        "n": "Mountain Cry w/ Marylou - Grounding Special",
+        "s": "2026-04-30T12:00:00+01:00",
+        "e": "2026-04-30T13:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Lunaverse Radio",
         "s": "2026-04-29T17:00:00Z",
@@ -356,6 +341,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-04-29T19:00:00Z",
+        "e": "2026-04-30T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Luwi Won",
@@ -1319,18 +1313,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-04-29T15:00:00Z",
-        "e": "2026-04-29T17:00:00Z",
+        "n": "Groundwrk w/ B4B",
+        "s": "2026-05-06T16:00:00Z",
+        "e": "2026-05-06T17:00:00Z",
+        "d": null,
+        "j": "B4B",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Ellen",
+        "s": "2026-05-06T17:00:00Z",
+        "e": "2026-05-06T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "ellen"
+      }
+    ],
+    "dublab": [
       {
         "n": "Gigi Masin – guest session",
         "s": "2026-04-29T17:00:00Z",
@@ -1926,19 +1930,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Andres Renteria - Shining Spirit Sound",
+        "s": "2026-05-06T17:00:00Z",
+        "e": "2026-05-06T19:00:00Z",
+        "d": null,
+        "j": "Shining Spirit Sound",
+        "u": null,
+        "t": "monthly",
+        "p": "andresrenteria"
       }
     ],
     "rinse": [
-      {
-        "n": "Utopia Presents",
-        "s": "2026-04-29T14:00:00Z",
-        "e": "2026-04-29T16:00:00Z",
-        "d": null,
-        "j": "CLOSE COUNTERS",
-        "u": null,
-        "t": "weekly",
-        "p": "utopiapresents"
-      },
       {
         "n": "Alexander Nut",
         "s": "2026-04-29T16:00:00Z",
@@ -2041,10 +2045,14 @@
         "s": "2026-04-30T08:00:00Z",
         "e": "2026-04-30T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Not/Nowhere Collective & Yasmin",
         "u": null,
         "t": "weekly",
-        "p": "yazminlacey"
+        "p": "collective",
+        "ap": [
+          "yasmin",
+          "yazminlacey"
+        ]
       },
       {
         "n": "Chunky",
@@ -2166,23 +2174,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Ellen Allien",
-        "s": "2026-04-29T15:00:00Z",
-        "e": "2026-04-29T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "ellen"
-      },
-      {
-        "n": "NINA",
-        "s": "2026-04-29T16:00:00Z",
-        "e": "2026-04-29T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Refractor Festival",
         "s": "2026-04-29T17:00:00Z",
