@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-29T13:25:15.609Z",
+  "updated": "2026-04-29T15:51:53.667Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BRADLEY ZERO PRESENTS: RHYTHM SECTION",
-        "s": "2026-04-29T14:00:00+01:00",
-        "e": "2026-04-29T15:00:00+01:00",
-        "d": "Rhythm Section Radio was founded in 2009 and moved to NTS in 2012, and has since pulled out the stops breaking new music, promoting independent labels and paying homage to the greatest music from the past, through a perhaps unhealthy obsession with record digging.",
-        "j": "RHYTHM SECTION",
-        "u": "https://www.nts.live/api/v2/shows/rhythmsection/episodes/rhythmsection-29th-april-2026",
-        "t": "biweekly"
-      },
       {
         "n": "Moxie W/ Ariane V (Nervous Records feature)",
         "s": "2026-04-29T15:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "TASH LC",
         "s": "2026-04-29T17:00:00+01:00",
         "e": "2026-04-29T18:00:00+01:00",
-        "d": null,
+        "d": "After work fun and global tunes with Tash LC and guests every other Wednesday ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tash-lc/episodes/tash-lc-29th-april-2026",
         "p": "tashlc"
       },
       {
@@ -166,42 +157,36 @@
         "u": null,
         "t": "monthly",
         "p": "gabi"
+      },
+      {
+        "n": "Fauzia",
+        "s": "2026-04-30T14:00:00+01:00",
+        "e": "2026-04-30T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "fauzia"
       }
     ],
     "nts2": [
       {
-        "n": "Blindboy Boatclub",
-        "s": "2026-04-29T14:00:00+01:00",
-        "e": "2026-04-29T15:00:00+01:00",
-        "d": "Writer, podcaster, musician, documentary maker, raconteur: Limerick's finest son Blindboy Boatclub lends his idiosyncratic musical tastes to regular NTS transmissions. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/blindboy-boatclub/episodes/blindboy-boatclub-29th-april-2026",
-        "p": "blindboyboatclub"
-      },
-      {
-        "n": "NO WEAPON IS ABSOLUTE w/ DJ SUNDAE",
-        "s": "2026-04-29T15:00:00+01:00",
-        "e": "2026-04-29T16:00:00+01:00",
-        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
-        "j": "DJ SUNDAE",
-        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-29th-april-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "KOKONUT TRIP w/ TIM KOH",
+        "n": "TIM KOH: KOKONUT TRIP (R)",
         "s": "2026-04-29T16:00:00+01:00",
         "e": "2026-04-29T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Take a Kokonut Trip with Tim Koh, playing vintage pop, kaleidoscopic rock & folk, and whatever else he feels.",
+        "j": "KOKONUT TRIP",
+        "u": "https://www.nts.live/api/v2/shows/tim-koh/episodes/tim-koh-23rd-july-2025",
+        "t": "restream"
       },
       {
         "n": "ASTRID SONNE",
         "s": "2026-04-29T17:00:00+01:00",
         "e": "2026-04-29T18:00:00+01:00",
-        "d": null,
+        "d": "1-hour monthly show with composer and musician Astrid Sonne. Sharing everything from rock to dub to classical to pop. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/astrid-sonne/episodes/astrid-sonne-29th-april-2026",
+        "t": "monthly",
         "p": "astridsonne"
       },
       {
@@ -336,26 +321,17 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-04-28T23:00:00Z",
-        "e": "2026-04-29T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
       },
       {
-        "n": "Champagnemuma",
-        "s": "2026-04-29T14:00:00Z",
-        "e": "2026-04-29T15:00:00Z",
+        "n": "STEEL PAN BANGERS W/ VIOLET COWBOY",
+        "s": "2026-04-30T10:00:00+01:00",
+        "e": "2026-04-30T11:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "LIT CLIPS w/ DVS",
         "s": "2026-04-29T15:00:00Z",
@@ -1325,18 +1301,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-04-29T13:00:00Z",
-        "e": "2026-04-29T15:00:00Z",
+        "n": "IC FM w/ Luke Ferrero",
+        "s": "2026-05-06T14:00:00Z",
+        "e": "2026-05-06T15:00:00Z",
+        "d": null,
+        "j": "Luke Ferrero",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Sonic Seasoning ",
+        "s": "2026-05-06T15:00:00Z",
+        "e": "2026-05-06T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-04-29T15:00:00Z",
@@ -1932,19 +1917,18 @@
         "u": null,
         "t": "monthly",
         "p": "kaustin"
+      },
+      {
+        "n": "in plain sight radio",
+        "s": "2026-05-06T15:00:00Z",
+        "e": "2026-05-06T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Jasper James",
-        "s": "2026-04-29T12:00:00Z",
-        "e": "2026-04-29T14:00:00Z",
-        "d": null,
-        "j": "From The Vault (2014)",
-        "u": null,
-        "t": "biweekly",
-        "p": "jasperjames"
-      },
       {
         "n": "Utopia Presents",
         "s": "2026-04-29T14:00:00Z",
@@ -1981,7 +1965,7 @@
         "s": "2026-04-29T19:00:00Z",
         "e": "2026-04-29T21:00:00Z",
         "d": null,
-        "j": "Flava D, Cesco, Nitepunk & Bluff",
+        "j": "B2B Flava D, Cesco, Nitepunk & Bluff",
         "u": null,
         "t": "monthly",
         "p": "taikinulight"
@@ -2182,23 +2166,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "MARTA TAKEOVER",
-        "s": "2026-04-29T13:00:00Z",
-        "e": "2026-04-29T14:00:00Z",
-        "d": null,
-        "j": "special release PUSH",
-        "u": null
-      },
-      {
-        "n": "Of Paradise",
-        "s": "2026-04-29T14:00:00Z",
-        "e": "2026-04-29T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "paradise"
-      },
       {
         "n": "Ellen Allien",
         "s": "2026-04-29T15:00:00Z",
