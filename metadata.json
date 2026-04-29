@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-29T09:58:10.203Z",
+  "updated": "2026-04-29T11:27:33.395Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-04-29T09:00:00+01:00",
-        "e": "2026-04-29T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. Today Flo is joined by 85 year old Dutch musician Ronald Laangestraat: having spent his life playing music in lounges and lobbies, as well as writing and recording music privately, in the 2010s Ronald's music was discovered and reissued by label South of North. Since then, he's been releasing more brilliant, off kilter songs and playing shows in Europe - not in lounges and lobbies this time, but to paying customers! He and his band are in the studio to play three tracks live for us. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-29th-april-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-04-29T11:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "LUNCH CLUB w/ FINN",
         "s": "2026-04-29T13:00:00+01:00",
         "e": "2026-04-29T14:00:00+01:00",
-        "d": null,
+        "d": "Dance music with feeling, lunch time with Finn",
         "j": "FINN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lunch-club/episodes/lunch-club-29th-april-2026",
         "t": "weekly",
         "p": "finn",
         "ap": [
@@ -65,14 +55,16 @@
         "p": "tashlc"
       },
       {
-        "n": "TOUCHING BASS W/ ERROL & ALEX RITA",
+        "n": "TOUCHING BASS W/ ERROL & Maxwell Owin",
         "s": "2026-04-29T18:00:00+01:00",
         "e": "2026-04-29T20:00:00+01:00",
         "d": null,
-        "j": "ERROL & ALEX RITA",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "touchingbass"
+        "p": "maxwellowin",
+        "ap": [
+          "touchingbass"
+        ]
       },
       {
         "n": "Giulia Tess & ||||||||||||||||||||",
@@ -169,34 +161,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-04-30T09:00:00+01:00",
+        "e": "2026-04-30T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
       {
-        "n": "DIGGING INTO MANDOPOP W/ SPECTRAL SOURCE",
-        "s": "2026-04-29T10:00:00+01:00",
-        "e": "2026-04-29T11:00:00+01:00",
-        "d": "Mandopop can be a melancholic, passionately urban world, where individuals and experiences collide. Captivated by the works of Hou Hsia Hsien, Jia Zang-ke , asian culture is evolving rapidly, still tinged with a rich palette of emotion and brilliant narrative skill. I tried to capture this vastness.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-digging-into-mandopop-w-spectral-source-29th-april-2026"
-      },
-      {
-        "n": "Still Light w/ Shida Shahabi",
-        "s": "2026-04-29T11:00:00+01:00",
-        "e": "2026-04-29T12:00:00+01:00",
-        "d": "Swedish composer and film scorer Shida Shahabi absorbs us into dream-like and moody soundscapes, slowly uncovering sounds from classical, to DIY/lo-fi music to electronics and folk recordings. ",
-        "j": "Shida Shahabi",
-        "u": "https://www.nts.live/api/v2/shows/still-light-w-shida-shahabi/episodes/still-light-w-shida-shahabi-29th-april-2026",
-        "t": "monthly",
-        "p": "shidashahabi"
-      },
-      {
         "n": "HTRK",
         "s": "2026-04-29T12:00:00+01:00",
         "e": "2026-04-29T13:00:00+01:00",
-        "d": null,
+        "d": "New releases and current inspirations from your hosts Jonnine Standish and Nigel Yang aka HTRK.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/htrk/episodes/htrk-29th-april-2026",
         "t": "monthly",
         "p": "htrk"
       },
@@ -204,9 +188,9 @@
         "n": "Through the Ground Floor Window w/ Abdullah Miniawy",
         "s": "2026-04-29T13:00:00+01:00",
         "e": "2026-04-29T14:00:00+01:00",
-        "d": null,
+        "d": "Egyptian artist, writer and composer Abdullah Miniawy presents the results of his research and searching for meaning across cultures. Recording sounds during his travels, encounters with tribes, and discoveries in the East. ",
         "j": "Abdullah Miniawy",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abdullah-miniawy/episodes/abdullah-miniawy-29th-april-2026",
         "t": "monthly",
         "p": "abdullahminiawy"
       },
@@ -220,7 +204,7 @@
         "p": "blindboyboatclub"
       },
       {
-        "n": "NO WEAPON IS ABSOLUTE",
+        "n": "NO WEAPON IS ABSOLUTE w/ DJ SUNDAE",
         "s": "2026-04-29T15:00:00+01:00",
         "e": "2026-04-29T16:00:00+01:00",
         "d": null,
@@ -344,6 +328,22 @@
         "j": "RIPLEY JOHNSON",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SUMMER SCENE W/ MATT FOX",
+        "s": "2026-04-30T06:00:00+01:00",
+        "e": "2026-04-30T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "The Jazz-n-Groove Mix w/ Bobby Ghanoush",
+        "s": "2026-04-30T07:00:00+01:00",
+        "e": "2026-04-30T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -363,6 +363,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "LIT CLIPS w/ DVS",
+        "s": "2026-04-29T15:00:00Z",
+        "e": "2026-04-29T16:00:00Z",
+        "d": null,
+        "j": "DVS",
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "Johana",
@@ -805,6 +814,14 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Ned Spencer",
+        "s": "2026-05-03T18:00:00Z",
+        "e": "2026-05-03T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Kitschko",
@@ -1270,13 +1287,33 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Nikki O",
+        "s": "2026-05-06T10:00:00Z",
+        "e": "2026-05-06T11:00:00Z",
+        "d": "Hailing from Belfast but making moves in Nottingham, Nikki O is a DJ and radio presenter whose sets blend 4/4 rhythms, breakbeats, and the bassier side of techno. ",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nikkio"
+      },
+      {
+        "n": "PAVZKY",
+        "s": "2026-05-06T11:00:00Z",
+        "e": "2026-05-06T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "pavzky"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-29T09:00:00Z",
-        "e": "2026-04-29T11:00:00Z",
+        "s": "2026-04-29T11:00:00Z",
+        "e": "2026-04-29T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1284,8 +1321,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-29T11:00:00Z",
-        "e": "2026-04-29T13:00:00Z",
+        "s": "2026-04-29T13:00:00Z",
+        "e": "2026-04-29T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1881,25 +1918,6 @@
     ],
     "rinse": [
       {
-        "n": "Esk",
-        "s": "2026-04-29T08:00:00Z",
-        "e": "2026-04-29T10:00:00Z",
-        "d": null,
-        "j": "Deekapz",
-        "u": null,
-        "t": "weekly",
-        "p": "esk"
-      },
-      {
-        "n": "Cara Crosby",
-        "s": "2026-04-29T10:00:00Z",
-        "e": "2026-04-29T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Eclecticist",
         "s": "2026-04-29T11:00:00Z",
         "e": "2026-04-29T12:00:00Z",
@@ -1961,7 +1979,7 @@
         "p": "taikinulight"
       },
       {
-        "n": "Ebrium Records",
+        "n": "Erbium Records",
         "s": "2026-04-29T21:00:00Z",
         "e": "2026-04-29T22:00:00Z",
         "d": null,
@@ -2096,40 +2114,40 @@
         "p": "tommygold"
       },
       {
-        "n": "NIKS",
+        "n": "Isaac Carter",
         "s": "2026-04-30T17:00:00Z",
         "e": "2026-04-30T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "GALA Takeover",
+        "u": null,
+        "p": "isaaccarter"
+      },
+      {
+        "n": "NIKS",
+        "s": "2026-04-30T18:00:00Z",
+        "e": "2026-04-30T19:00:00Z",
+        "d": null,
+        "j": "GALA Takeover",
         "u": null,
         "t": "biweekly",
         "p": "niks"
       },
       {
         "n": "Manami",
-        "s": "2026-04-30T18:00:00Z",
-        "e": "2026-04-30T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "manami"
-      },
-      {
-        "n": "Isaac Carter",
         "s": "2026-04-30T19:00:00Z",
         "e": "2026-04-30T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "GALA Takeover",
         "u": null,
-        "p": "isaaccarter"
+        "t": "biweekly",
+        "p": "manami"
       },
       {
         "n": "Mr. Redley",
         "s": "2026-04-30T20:00:00Z",
         "e": "2026-04-30T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "GALA Takeover",
         "u": null,
         "t": "biweekly",
         "p": "mrredley"
@@ -2156,15 +2174,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-04-29T07:00:00Z",
-        "e": "2026-04-29T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-04-29T10:00:00Z",
