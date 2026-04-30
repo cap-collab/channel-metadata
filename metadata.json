@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-30T20:51:30.487Z",
+  "updated": "2026-04-30T21:04:01.202Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GHOST NOTES WORLDWIDE W/ Impey & Sonice",
-        "s": "2026-04-30T20:00:00+01:00",
-        "e": "2026-04-30T22:00:00+01:00",
-        "d": "Tune into Ghost Notes Worldwide for that post-twilight sound. Night time music of all strains, with blunted R&B and hip hop instrumentals, neo-downtempo productions, slow jams, and hazy dancefloor sounds.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/impey/episodes/impey-30th-april-2026"
-      },
       {
         "n": "SEEFEEL",
         "s": "2026-04-30T22:00:00+01:00",
@@ -23,9 +15,9 @@
         "n": "friends&: Brainrot Psychedelia",
         "s": "2026-04-30T23:00:00+01:00",
         "e": "2026-05-01T00:00:00+01:00",
-        "d": null,
+        "d": "friends&, the Toronto producers behind the sprawling, relentless 116-track album “folx” present Brainrot Psychedelia. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/friends-brainrot-psychedelia-30th-april-2026"
       },
       {
         "n": "DON'T TRIP W/ MARGARITA",
@@ -167,17 +159,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THE EXHIBITION HOUR W/ DAZEGXD",
+        "s": "2026-05-01T20:00:00+01:00",
+        "e": "2026-05-01T21:00:00+01:00",
+        "d": null,
+        "j": "DAZEGXD",
+        "u": null,
+        "t": "monthly",
+        "p": "dazegxd"
       }
     ],
     "nts2": [
-      {
-        "n": "Kiss Cafe: Time 2 Get Wize w/ Maraschino",
-        "s": "2026-04-30T21:00:00+01:00",
-        "e": "2026-04-30T22:00:00+01:00",
-        "d": "Piper Durabo AKA Maraschino serves up an assortment of hyperdelic jams from her NYC HQ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/piper-durabo/episodes/piper-durabo-30th-april-2026"
-      },
       {
         "n": "Carlos René: FAMILIAR GROUNDS",
         "s": "2026-04-30T22:00:00+01:00",
@@ -191,9 +185,9 @@
         "n": "BUDGIE",
         "s": "2026-04-30T23:00:00+01:00",
         "e": "2026-05-01T00:00:00+01:00",
-        "d": null,
+        "d": "BUDGIE – serving up jazz, hip-hop, soul, beats & more from his sprawling record collection, once a month from our LA studio.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/budgie/episodes/budgie-30th-april-2026",
         "t": "monthly",
         "p": "budgie"
       },
@@ -326,6 +320,16 @@
         "j": null,
         "u": null,
         "p": "oliviao"
+      },
+      {
+        "n": "SARA A",
+        "s": "2026-05-01T18:00:00+01:00",
+        "e": "2026-05-01T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "saraa"
       }
     ],
     "subtle": [
@@ -1500,14 +1504,6 @@
     ],
     "dublab": [
       {
-        "n": "Eric Avina – guest session",
-        "s": "2026-04-30T19:00:00Z",
-        "e": "2026-04-30T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "FROM THE VAULTS: Carlos Niño – SUN RA SPECIAL (03.08.07)",
         "s": "2026-04-30T21:00:00Z",
         "e": "2026-04-30T21:50:00Z",
@@ -2110,19 +2106,19 @@
         "u": null,
         "t": "weekly",
         "p": "jimmytamborello"
+      },
+      {
+        "n": "Deepbody – Digi Drift",
+        "s": "2026-05-07T21:00:00Z",
+        "e": "2026-05-07T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "deepbody"
       }
     ],
     "rinse": [
-      {
-        "n": "Mr. Redley",
-        "s": "2026-04-30T20:00:00Z",
-        "e": "2026-04-30T21:00:00Z",
-        "d": null,
-        "j": "Ten Years of GALA Takeover",
-        "u": null,
-        "t": "biweekly",
-        "p": "mrredley"
-      },
       {
         "n": "Carl Craig",
         "s": "2026-04-30T21:00:00Z",
@@ -2527,6 +2523,241 @@
         "n": "TVOD",
         "s": "2026-05-07T05:00:00Z",
         "e": "2026-05-07T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
+      },
+      {
+        "n": "Temple of Dreams",
+        "s": "2026-05-09T03:00:00Z",
+        "e": "2026-05-09T05:00:00Z",
+        "d": null,
+        "j": "Tristes Tropiques",
+        "u": null,
+        "p": "tristestropiques"
+      },
+      {
+        "n": "DYATRON INDUSTRIES - let's go all in, to go all out!",
+        "s": "2026-05-10T02:00:00Z",
+        "e": "2026-05-10T04:00:00Z",
+        "d": null,
+        "j": "Mechanica & TMFD",
+        "u": null,
+        "p": "mechanica"
+      },
+      {
+        "n": "Inner Mono",
+        "s": "2026-05-10T20:00:00Z",
+        "e": "2026-05-10T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "EEL Automaton",
+        "s": "2026-05-10T21:00:00Z",
+        "e": "2026-05-10T23:00:00Z",
+        "d": null,
+        "j": "fallen matter & kk.Shucko",
+        "u": null,
+        "p": "fallenmatter"
+      },
+      {
+        "n": "Energy is Eternal Delight",
+        "s": "2026-05-10T23:00:00Z",
+        "e": "2026-05-11T00:00:00Z",
+        "d": null,
+        "j": "Matt Sussman",
+        "u": null,
+        "p": "mattsussman"
+      },
+      {
+        "n": "Interwoven",
+        "s": "2026-05-11T00:00:00Z",
+        "e": "2026-05-11T02:00:00Z",
+        "d": null,
+        "j": "In Bloom",
+        "u": null,
+        "p": "inbloom"
+      },
+      {
+        "n": "The Witching Hour",
+        "s": "2026-05-11T02:00:00Z",
+        "e": "2026-05-11T04:00:00Z",
+        "d": null,
+        "j": "Tooth",
+        "u": null,
+        "p": "tooth"
+      },
+      {
+        "n": "Let Me Tell You 'Bout It",
+        "s": "2026-05-11T17:00:00Z",
+        "e": "2026-05-11T19:00:00Z",
+        "d": null,
+        "j": "Pablo Blanquito",
+        "u": null,
+        "t": "monthly",
+        "p": "pabloblanquito"
+      },
+      {
+        "n": "Avant Gardens",
+        "s": "2026-05-14T22:00:00Z",
+        "e": "2026-05-15T01:00:00Z",
+        "d": null,
+        "j": "Lychee",
+        "u": null,
+        "t": "monthly",
+        "p": "lychee"
+      },
+      {
+        "n": "Fine Homebuilding",
+        "s": "2026-05-15T01:00:00Z",
+        "e": "2026-05-15T03:00:00Z",
+        "d": null,
+        "j": "Baby Leo",
+        "u": null,
+        "t": "monthly",
+        "p": "babyleo"
+      },
+      {
+        "n": "The Blurred Crusade",
+        "s": "2026-05-15T03:00:00Z",
+        "e": "2026-05-15T05:00:00Z",
+        "d": null,
+        "j": "Matt",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-05-16T05:00:00Z",
+        "e": "2026-05-16T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
+      },
+      {
+        "n": "The Saturday Morning Comedown",
+        "s": "2026-05-16T18:00:00Z",
+        "e": "2026-05-16T22:00:00Z",
+        "d": null,
+        "j": "Infinite Jess",
+        "u": null,
+        "t": "monthly",
+        "p": "infinitejess"
+      },
+      {
+        "n": "Strap2strap Online",
+        "s": "2026-05-16T22:00:00Z",
+        "e": "2026-05-17T00:00:00Z",
+        "d": null,
+        "j": "DJ Buck, discnogirl, Caro, & 40 Split",
+        "u": null,
+        "t": "monthly",
+        "p": "discnogirl",
+        "ap": [
+          "djbuck"
+        ]
+      },
+      {
+        "n": "ruffbeans",
+        "s": "2026-05-17T00:00:00Z",
+        "e": "2026-05-17T02:00:00Z",
+        "d": null,
+        "j": "redbeans",
+        "u": null,
+        "t": "monthly",
+        "p": "redbeans"
+      },
+      {
+        "n": "Ommaya Presents",
+        "s": "2026-05-20T02:00:00Z",
+        "e": "2026-05-20T04:00:00Z",
+        "d": null,
+        "j": "No Recall, Sawyer James",
+        "u": null,
+        "t": "monthly",
+        "p": "norecall",
+        "ap": [
+          "sawyerjames"
+        ]
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-05-23T05:00:00Z",
+        "e": "2026-05-23T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
+      },
+      {
+        "n": "La Puteria Radio",
+        "s": "2026-05-23T23:00:00Z",
+        "e": "2026-05-24T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Modern Speech",
+        "s": "2026-05-27T00:00:00Z",
+        "e": "2026-05-27T02:00:00Z",
+        "d": null,
+        "j": "Young Drums",
+        "u": null,
+        "t": "monthly",
+        "p": "youngdrums"
+      },
+      {
+        "n": "notes of moss",
+        "s": "2026-05-28T01:00:00Z",
+        "e": "2026-05-28T02:00:00Z",
+        "d": null,
+        "j": "zz",
+        "u": null,
+        "t": "weekly",
+        "p": "zz"
+      },
+      {
+        "n": "Notes of Moss",
+        "s": "2026-05-28T02:00:00Z",
+        "e": "2026-05-28T03:00:00Z",
+        "d": null,
+        "j": "ZZ",
+        "u": null,
+        "t": "weekly",
+        "p": "zz"
+      },
+      {
+        "n": "Out of Order",
+        "s": "2026-05-28T03:00:00Z",
+        "e": "2026-05-28T05:00:00Z",
+        "d": null,
+        "j": "Aepricity",
+        "u": null,
+        "t": "monthly",
+        "p": "aepricity"
+      },
+      {
+        "n": "The Spinzone",
+        "s": "2026-05-28T23:00:00Z",
+        "e": "2026-05-29T01:00:00Z",
+        "d": null,
+        "j": "McG",
+        "u": null,
+        "t": "monthly",
+        "p": "mcg"
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-05-30T05:00:00Z",
+        "e": "2026-05-30T07:00:00Z",
         "d": null,
         "j": "Jason P",
         "u": null,
