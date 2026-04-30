@@ -1,32 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-04-30T15:43:49.828Z",
+  "updated": "2026-04-30T17:09:45.840Z",
   "stations": {
     "nts1": [
-      {
-        "n": "HOUSE PURIST",
-        "s": "2026-04-30T15:00:00+01:00",
-        "e": "2026-04-30T17:00:00+01:00",
-        "d": "Deep, soulful, rootsy flavas across house, hip hop, boogie, soul and broken beat from the Secretsundaze founder who is now doing his own thing. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/giles-smith/episodes/giles-smith-30th-april-2026"
-      },
-      {
-        "n": "NTS Guide to: JOKER RECORDS",
-        "s": "2026-04-30T17:00:00+01:00",
-        "e": "2026-04-30T18:00:00+01:00",
-        "d": "A power hour of classic jungle records from one of the genre's most consistently quality record labels in the 1990s, Joker Records.",
-        "j": "JOKER RECORDS",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-joker-records-30th-april-2026",
-        "t": "weekly"
-      },
       {
         "n": "OK WILLIAMS",
         "s": "2026-04-30T18:00:00+01:00",
         "e": "2026-04-30T19:00:00+01:00",
-        "d": null,
+        "d": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ok-williams/episodes/ok-williams-30th-april-2026",
         "t": "monthly",
         "p": "okwilliams"
       },
@@ -34,9 +17,9 @@
         "n": "Ahadadream",
         "s": "2026-04-30T19:00:00+01:00",
         "e": "2026-04-30T20:00:00+01:00",
-        "d": null,
+        "d": "Friday club energy from LDN producer, DJ & More Time label head Ahadadream.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/ahadadream/episodes/ahadadream-30th-april-2026"
       },
       {
         "n": "GHOST NOTES WORLDWIDE",
@@ -163,34 +146,36 @@
         "u": null,
         "t": "monthly",
         "p": "architect"
+      },
+      {
+        "n": "SELASSIE TBC",
+        "s": "2026-05-01T16:00:00+01:00",
+        "e": "2026-05-01T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "selassietbc"
+      },
+      {
+        "n": "CHARISSE C",
+        "s": "2026-05-01T17:00:00+01:00",
+        "e": "2026-05-01T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "charissec"
       }
     ],
     "nts2": [
       {
-        "n": "AUTOTUNE THE WORLD W/ CHRISTOPHER KIRKLEY - Limpopo",
-        "s": "2026-04-30T16:00:00+01:00",
-        "e": "2026-04-30T17:00:00+01:00",
-        "d": "International portal for contemporary pop, leaning into the autotuned future… from the mind of Christopher Kirkley, the mastermind behind record label Sahel Sounds.\nFrom the host: \"This month Autotune the World is broadcasting from Limpopo, South Africa - focusing on Tsa Manyalo wedding music! High energy synthesizers over beats for the day of celebration.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/christopher-kirkley/episodes/christopher-kirkley-30th-april-2026",
-        "p": "christopherkirkley"
-      },
-      {
-        "n": "RICH & JONNY PRESENT INZANE MICHIGAN",
-        "s": "2026-04-30T17:00:00+01:00",
-        "e": "2026-04-30T18:00:00+01:00",
-        "d": "Join John Olson (aka Inzane Johnny, of Wolf Eyes) and music writer Rich Tupica as they mine deep into Michigan's wilderness of sounds. No private press rarity is off limits: soul, gospel, oddities, punk, experimental, rockabilly, and garage rock. It's all unearthed. Strap in for an insanely bizarre ride across the Great Lakes State.\nFrom the host: \"Rich and Johnny’s Inzane Michigan mutates onward, unearthing the near-erased, basement-bred transmissions of Kier McDonald’s Medusa Cyclone unit—a project that flickered in and out of phase from 1992 to 2002, like a signal that never agreed to exist in one decade at a time.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/inzane-michigan/episodes/inzane-michigan-30th-april-2026",
-        "t": "monthly"
-      },
-      {
         "n": "Prison Divorce Bombshell w/ Karly Hartzman",
         "s": "2026-04-30T18:00:00+01:00",
         "e": "2026-04-30T19:00:00+01:00",
-        "d": null,
+        "d": "Music for surviving the many unending divorces of life. From Wednesday's Karly Hartzman. ",
         "j": "Karly Hartzman",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/karly-hartzman/episodes/karly-hartzman-30th-april-2026",
         "t": "monthly",
         "p": "karlyhartzman"
       },
@@ -198,9 +183,10 @@
         "n": "SACRED POOLS W/ DJ OCTOBER - Dutch Techno Speciaal",
         "s": "2026-04-30T19:00:00+01:00",
         "e": "2026-04-30T20:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Sacred Pools is a monthly show, rotating between DJ October, Faso and Toshiki Ohta. All three hosts showcase a varied and intriguing combination of music on the Sacred Pools show - from harshly metallic noise rock, unhinged post-punk, chillingly minimal synth, breakbeat rave and pervy wedding disco. ",
+        "j": "DJ OCTOBER",
+        "u": "https://www.nts.live/api/v2/shows/sacred-pools/episodes/sacred-pools-30th-april-2026",
+        "t": "monthly",
         "p": "sacredpools"
       },
       {
@@ -221,14 +207,13 @@
         "u": null
       },
       {
-        "n": "Carlos René",
+        "n": "Carlos René: FAMILIAR GROUNDS",
         "s": "2026-04-30T22:00:00+01:00",
         "e": "2026-04-30T23:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "FAMILIAR GROUNDS",
         "u": null,
-        "t": "monthly",
-        "p": "carlos"
+        "t": "monthly"
       },
       {
         "n": "BUDGIE",
@@ -325,24 +310,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "In Focus - Alvin Lucier",
+        "s": "2026-05-01T11:00:00+01:00",
+        "e": "2026-05-01T13:00:00+01:00",
+        "d": null,
+        "j": "Alvin Lucier",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "CAROLINA SOUL: Far-reaching 7-inches",
+        "s": "2026-05-01T13:00:00+01:00",
+        "e": "2026-05-01T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
       {
-        "n": "Luwi Won",
-        "s": "2026-04-30T15:00:00Z",
-        "e": "2026-04-30T16:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-04-30T17:00:00Z",
+        "e": "2026-04-30T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null
-      },
-      {
-        "n": "Crude Oil",
-        "s": "2026-04-30T16:00:00Z",
-        "e": "2026-04-30T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Kostas",
@@ -1456,26 +1451,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "LARAAJI and OUT THERE",
-        "s": "2026-04-30T15:30:00Z",
-        "e": "2026-04-30T16:00:00Z",
+        "n": "Lily London",
+        "s": "2026-05-07T16:00:00Z",
+        "e": "2026-05-07T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "monthly"
       },
       {
-        "n": "Your Mom's Angency – Orchestral Tools Microgrant Soundscape",
-        "s": "2026-04-30T16:00:00Z",
-        "e": "2026-04-30T17:00:00Z",
+        "n": " Darz (Percy Digs)",
+        "s": "2026-05-07T17:00:00Z",
+        "e": "2026-05-07T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null
-      },
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Voidwave",
         "s": "2026-04-30T17:00:00Z",
@@ -2075,29 +2071,19 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Dustin Wong – Why Did Why Did Why Did",
+        "s": "2026-05-07T17:00:00Z",
+        "e": "2026-05-07T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "dustinwong"
       }
     ],
     "rinse": [
-      {
-        "n": "Tom Ravenscroft",
-        "s": "2026-04-30T14:00:00Z",
-        "e": "2026-04-30T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "tomravenscroft"
-      },
-      {
-        "n": "Tommy Gold",
-        "s": "2026-04-30T16:00:00Z",
-        "e": "2026-04-30T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "tommygold"
-      },
       {
         "n": "Isaac Carter",
         "s": "2026-04-30T17:00:00Z",
@@ -2208,11 +2194,21 @@
       {
         "n": "Playlist",
         "s": "2026-05-01T06:00:00Z",
-        "e": "2026-05-01T10:00:00Z",
+        "e": "2026-05-01T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Breakfast with Maey",
+        "s": "2026-05-01T08:00:00Z",
+        "e": "2026-05-01T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "maey"
       },
       {
         "n": "Uncle Dugs",
@@ -2296,24 +2292,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Rinse France Guest Show",
-        "s": "2026-04-30T15:00:00Z",
-        "e": "2026-04-30T16:00:00Z",
-        "d": null,
-        "j": "Dimension Klub",
-        "u": null
-      },
-      {
-        "n": "Maoupa Mazzocchetti",
-        "s": "2026-04-30T16:00:00Z",
-        "e": "2026-04-30T17:00:00Z",
-        "d": null,
-        "j": "YOUTUBE COVER avec Lagrima",
-        "u": null,
-        "t": "biweekly",
-        "p": "maoupamazzocchetti"
-      },
       {
         "n": "Von Riu b2b Forest",
         "s": "2026-04-30T17:00:00Z",
@@ -2432,6 +2410,64 @@
         "t": "playlist"
       }
     ],
-    "newtown": []
+    "newtown": [],
+    "sutro": [
+      {
+        "n": "Coyote FM",
+        "s": "2026-05-02T02:00:00Z",
+        "e": "2026-05-02T04:00:00Z",
+        "d": null,
+        "j": "Raven",
+        "u": null,
+        "t": "monthly",
+        "p": "raven"
+      },
+      {
+        "n": "Hyper Kapital",
+        "s": "2026-05-02T23:00:00Z",
+        "e": "2026-05-03T01:00:00Z",
+        "d": null,
+        "j": "llloyd & Pressing",
+        "u": null,
+        "t": "monthly",
+        "p": "llloyd",
+        "ap": [
+          "pressing"
+        ]
+      },
+      {
+        "n": "Global Weirding",
+        "s": "2026-05-04T01:00:00Z",
+        "e": "2026-05-04T03:00:00Z",
+        "d": null,
+        "j": "Researcher",
+        "u": null,
+        "t": "monthly",
+        "p": "researcher"
+      },
+      {
+        "n": "Natural Selection",
+        "s": "2026-05-05T22:00:00Z",
+        "e": "2026-05-06T00:00:00Z",
+        "d": null,
+        "j": "DJ Buck & Zack Zoom",
+        "u": null,
+        "t": "monthly",
+        "p": "djbuck",
+        "ap": [
+          "zackzoom"
+        ]
+      },
+      {
+        "n": "Kismat",
+        "s": "2026-05-07T00:00:00Z",
+        "e": "2026-05-07T02:00:00Z",
+        "d": null,
+        "j": "Lil Sur",
+        "u": null,
+        "t": "monthly",
+        "p": "lilsur"
+      }
+    ]
   }
 }

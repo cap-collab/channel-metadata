@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-04-30T15:44:20.345Z",
+  "updated": "2026-04-30T17:10:18.069Z",
   "stations": {
     "nts1": [
       {
@@ -2323,7 +2323,10 @@
         "d": "Apiento, a.k.a Paul Byrne runs the invaluable Test Pressing blog and releases music on World Building, World Unknown and more. His show has that esoteric techno thing and whatever suits the mood…",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/test-pressing/episodes/test-pressing-7th-march-2026",
-        "p": "testpressing"
+        "p": "pressing",
+        "ap": [
+          "testpressing"
+        ]
       },
       {
         "n": "LDLDN w/ Earl Jeffers",
@@ -6896,7 +6899,10 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/test-pressing/episodes/test-pressing-4th-april-2026",
         "t": "monthly",
-        "p": "testpressing"
+        "p": "pressing",
+        "ap": [
+          "testpressing"
+        ]
       },
       {
         "n": "LDLDN w/ DJ NikNak",
@@ -11188,6 +11194,23 @@
         "u": "https://www.nts.live/api/v2/shows/fauzia/episodes/fauzia-30th-april-2026",
         "t": "monthly",
         "p": "fauzia"
+      },
+      {
+        "n": "HOUSE PURIST",
+        "s": "2026-04-30T15:00:00+01:00",
+        "e": "2026-04-30T17:00:00+01:00",
+        "d": "Deep, soulful, rootsy flavas across house, hip hop, boogie, soul and broken beat from the Secretsundaze founder who is now doing his own thing. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/giles-smith/episodes/giles-smith-30th-april-2026"
+      },
+      {
+        "n": "NTS Guide to: JOKER RECORDS",
+        "s": "2026-04-30T17:00:00+01:00",
+        "e": "2026-04-30T18:00:00+01:00",
+        "d": "A power hour of classic jungle records from one of the genre's most consistently quality record labels in the 1990s, Joker Records.",
+        "j": "JOKER RECORDS",
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-joker-records-30th-april-2026",
+        "t": "weekly"
       }
     ],
     "nts2": [
@@ -16044,7 +16067,10 @@
         "j": "ROBIN EK",
         "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-20th-july-2025",
         "t": "restream",
-        "p": "doingtime"
+        "p": "doingtime",
+        "ap": [
+          "ek"
+        ]
       },
       {
         "n": "CXEMA (R)",
@@ -18222,7 +18248,8 @@
         "d": "Born in Bristol, England, Robert Wyatt joined the Soft Machine during the exciting, slightly post-psychedelic Canterbury Scene of the mid-'60s that produced bands like Gong and Pink Floyd. Swerving the typical theatrical excess of progressive rock, the Soft Machine preferred a more spartan rock setup, experimenting in jazz-esque improvisation. Following a traumatic accident, falling out of a window, Wyatt became wheelchair-bound. His solo work became contemplative, trance-like & lush. Musically active until very recently, Wyatt was unrestricted by the machinations of the music industry, creating and releasing music only when he felt like it.\nThis In Focus is a deep dive into the meditative & emotionally potent music of Robert Wyatt, compiled by Knee Deep's Mattis. ",
         "j": "ROBERT WYATT",
         "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-robert-wyatt-28th-january-2020",
-        "t": "weekly"
+        "t": "weekly",
+        "p": "wyatt"
       },
       {
         "n": "THE WINDMILLS OF YOUR MIND W/ TAYLOR ROWLEY (R)",
@@ -24513,6 +24540,24 @@
         "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-30th-april-2026",
         "t": "monthly",
         "p": "georgia"
+      },
+      {
+        "n": "AUTOTUNE THE WORLD W/ CHRISTOPHER KIRKLEY - Limpopo",
+        "s": "2026-04-30T16:00:00+01:00",
+        "e": "2026-04-30T17:00:00+01:00",
+        "d": "International portal for contemporary pop, leaning into the autotuned future… from the mind of Christopher Kirkley, the mastermind behind record label Sahel Sounds.\nFrom the host: \"This month Autotune the World is broadcasting from Limpopo, South Africa - focusing on Tsa Manyalo wedding music! High energy synthesizers over beats for the day of celebration.\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/christopher-kirkley/episodes/christopher-kirkley-30th-april-2026",
+        "p": "christopherkirkley"
+      },
+      {
+        "n": "RICH & JONNY PRESENT INZANE MICHIGAN",
+        "s": "2026-04-30T17:00:00+01:00",
+        "e": "2026-04-30T18:00:00+01:00",
+        "d": "Join John Olson (aka Inzane Johnny, of Wolf Eyes) and music writer Rich Tupica as they mine deep into Michigan's wilderness of sounds. No private press rarity is off limits: soul, gospel, oddities, punk, experimental, rockabilly, and garage rock. It's all unearthed. Strap in for an insanely bizarre ride across the Great Lakes State.\nFrom the host: \"Rich and Johnny’s Inzane Michigan mutates onward, unearthing the near-erased, basement-bred transmissions of Kier McDonald’s Medusa Cyclone unit—a project that flickered in and out of phase from 1992 to 2002, like a signal that never agreed to exist in one decade at a time.\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/inzane-michigan/episodes/inzane-michigan-30th-april-2026",
+        "t": "monthly"
       }
     ],
     "subtle": [
@@ -37264,6 +37309,22 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Luwi Won",
+        "s": "2026-04-30T15:00:00Z",
+        "e": "2026-04-30T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Crude Oil",
+        "s": "2026-04-30T16:00:00Z",
+        "e": "2026-04-30T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
@@ -46108,6 +46169,23 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "LARAAJI and OUT THERE",
+        "s": "2026-04-30T15:30:00Z",
+        "e": "2026-04-30T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Your Mom's Angency – Orchestral Tools Microgrant Soundscape",
+        "s": "2026-04-30T16:00:00Z",
+        "e": "2026-04-30T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
@@ -46287,7 +46365,8 @@
         "u": null,
         "p": "bullettooth",
         "ap": [
-          "fold"
+          "fold",
+          "tooth"
         ]
       },
       {
@@ -50043,7 +50122,10 @@
         "j": "FM From B",
         "u": null,
         "t": "monthly",
-        "p": "bullettooth"
+        "p": "bullettooth",
+        "ap": [
+          "tooth"
+        ]
       },
       {
         "n": "La La",
@@ -55742,7 +55824,10 @@
         "j": "SANTI",
         "u": null,
         "t": "monthly",
-        "p": "bullettooth"
+        "p": "bullettooth",
+        "ap": [
+          "tooth"
+        ]
       },
       {
         "n": "La La",
@@ -57182,6 +57267,26 @@
         "j": "Rinse HQ110",
         "u": null,
         "p": "marsolo"
+      },
+      {
+        "n": "Tom Ravenscroft",
+        "s": "2026-04-30T14:00:00Z",
+        "e": "2026-04-30T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "tomravenscroft"
+      },
+      {
+        "n": "Tommy Gold",
+        "s": "2026-04-30T16:00:00Z",
+        "e": "2026-04-30T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "tommygold"
       }
     ],
     "rinsefr": [
@@ -63573,6 +63678,24 @@
         "d": null,
         "j": "invite Kevin Kofii & Al Dente spécial \"Club Mutations\"",
         "u": null
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-04-30T15:00:00Z",
+        "e": "2026-04-30T16:00:00Z",
+        "d": null,
+        "j": "Dimension Klub",
+        "u": null
+      },
+      {
+        "n": "Maoupa Mazzocchetti",
+        "s": "2026-04-30T16:00:00Z",
+        "e": "2026-04-30T17:00:00Z",
+        "d": null,
+        "j": "YOUTUBE COVER avec Lagrima",
+        "u": null,
+        "t": "biweekly",
+        "p": "maoupamazzocchetti"
       }
     ],
     "newtown": [
@@ -68035,6 +68158,86 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      }
+    ],
+    "sutro": [
+      {
+        "n": "TVOD",
+        "s": "2026-04-18T05:00:00Z",
+        "e": "2026-04-18T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "p": "jasonp"
+      },
+      {
+        "n": "The Saturday Morning Comedown",
+        "s": "2026-04-18T18:00:00Z",
+        "e": "2026-04-18T20:00:00Z",
+        "d": null,
+        "j": "Infinite Jess",
+        "u": null,
+        "t": "monthly",
+        "p": "infinitejess"
+      },
+      {
+        "n": "Ommaya Presents",
+        "s": "2026-04-22T02:00:00Z",
+        "e": "2026-04-22T04:00:00Z",
+        "d": null,
+        "j": "No Recall, Sawyer James",
+        "u": null,
+        "t": "monthly",
+        "p": "norecall",
+        "ap": [
+          "sawyerjames"
+        ]
+      },
+      {
+        "n": "Dentist",
+        "s": "2026-04-23T15:00:00Z",
+        "e": "2026-04-23T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-04-25T05:00:00Z",
+        "e": "2026-04-25T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "p": "jasonp"
+      },
+      {
+        "n": "Celluloid Mixtape",
+        "s": "2026-04-26T23:00:00Z",
+        "e": "2026-04-27T01:00:00Z",
+        "d": null,
+        "j": "Topazu",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Modern Speech",
+        "s": "2026-04-29T00:00:00Z",
+        "e": "2026-04-29T02:00:00Z",
+        "d": null,
+        "j": "Young Drums",
+        "u": null,
+        "t": "monthly",
+        "p": "youngdrums"
+      },
+      {
+        "n": "notes of moss",
+        "s": "2026-04-30T01:00:00Z",
+        "e": "2026-04-30T03:00:00Z",
+        "d": null,
+        "j": "zz",
+        "u": null,
+        "t": "monthly",
+        "p": "zz"
       }
     ]
   }
