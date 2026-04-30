@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-04-30T09:59:00.900Z",
+  "updated": "2026-04-30T11:37:27.136Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-04-30T09:00:00+01:00",
-        "e": "2026-04-30T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-30th-april-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-04-30T11:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "GABI",
         "s": "2026-04-30T13:00:00+01:00",
         "e": "2026-04-30T14:00:00+01:00",
-        "d": null,
+        "d": "Musical peregrinations from Gabi, guiding listeners through new wave, post punk and synth. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gabi/episodes/gabi-30th-april-2026",
         "t": "monthly",
         "p": "gabi"
       },
@@ -165,43 +155,44 @@
         "u": null,
         "t": "weekly",
         "p": "scarythings"
+      },
+      {
+        "n": "PUM PUM POWER HOUR W/ LIL C",
+        "s": "2026-05-01T13:00:00+01:00",
+        "e": "2026-05-01T14:00:00+01:00",
+        "d": null,
+        "j": "LIL C",
+        "u": null,
+        "t": "biweekly",
+        "p": "lilc"
       }
     ],
     "nts2": [
       {
-        "n": "STEEL PAN BANGERS W/ VIOLET COWBOY",
-        "s": "2026-04-30T10:00:00+01:00",
-        "e": "2026-04-30T11:00:00+01:00",
-        "d": "Shimmering steel bands and wonky electronic steel sounds. The history of the instrument. My quest to unearth the ultimate steel pan record from charity shops and car boot sales.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-steel-pan-bangers-w-violet-cowboy-30th-april-2026"
-      },
-      {
-        "n": "YL HOOI",
-        "s": "2026-04-30T11:00:00+01:00",
-        "e": "2026-04-30T12:00:00+01:00",
-        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-30th-april-2026",
-        "t": "monthly",
-        "p": "ylhooi"
-      },
-      {
         "n": "Mountain Cry w/ Marylou - Grounding Special",
         "s": "2026-04-30T12:00:00+01:00",
         "e": "2026-04-30T13:00:00+01:00",
-        "d": null,
+        "d": "French selector Marylou invites us on a trip through genre-defying and cinematic selections, weaving ambient, dub, noise, traditional music, jazz dance, footwork and more, always guided by \"intuition and a soft refusal of codes.\".",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/marylou/episodes/marylou-30th-april-2026"
       },
       {
         "n": "Tough Clouds w/ AGATHE ROUSSELLE",
         "s": "2026-04-30T13:00:00+01:00",
         "e": "2026-04-30T14:00:00+01:00",
+        "d": "Your monthly dose of curated sounds from the world of movie soundtracks with actress Agathe Rousselle.\nFrom the host: \"Bits of forever favorites.\"\"",
+        "j": "AGATHE ROUSSELLE",
+        "u": "https://www.nts.live/api/v2/shows/agathe-rousselle/episodes/agathe-rousselle-30th-april-2026",
+        "t": "monthly",
+        "p": "agatherousselle"
+      },
+      {
+        "n": "Saint Etienne w/ Pete Wiggs",
+        "s": "2026-04-30T14:00:00+01:00",
+        "e": "2026-04-30T15:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "agatherousselle"
+        "u": null
       },
       {
         "n": "GEORGIA",
@@ -332,6 +323,14 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "cosmicgoatslap w/ Emo Invincibility",
+        "s": "2026-05-01T06:00:00+01:00",
+        "e": "2026-05-01T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -1426,13 +1425,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DIASPORA with Ben Fitzperc",
+        "s": "2026-05-07T10:00:00Z",
+        "e": "2026-05-07T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Arriba",
+        "s": "2026-05-07T11:00:00Z",
+        "e": "2026-05-07T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-04-30T09:00:00Z",
-        "e": "2026-04-30T11:00:00Z",
+        "s": "2026-04-30T11:00:00Z",
+        "e": "2026-04-30T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1440,8 +1457,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-04-30T11:00:00Z",
-        "e": "2026-04-30T13:00:00Z",
+        "s": "2026-04-30T13:00:00Z",
+        "e": "2026-04-30T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2058,33 +2075,6 @@
     ],
     "rinse": [
       {
-        "n": "Yazmin Lacey",
-        "s": "2026-04-30T08:00:00Z",
-        "e": "2026-04-30T10:00:00Z",
-        "d": null,
-        "j": "Not/Nowhere Collective & Yasmin",
-        "u": null,
-        "t": "weekly",
-        "p": "collective",
-        "ap": [
-          "yasmin",
-          "yazminlacey"
-        ]
-      },
-      {
-        "n": "Chunky",
-        "s": "2026-04-30T10:00:00Z",
-        "e": "2026-04-30T11:00:00Z",
-        "d": null,
-        "j": "Sl8r , Bakey & A Sky Full of Numbers",
-        "u": null,
-        "t": "biweekly",
-        "p": "bakey",
-        "ap": [
-          "chunky"
-        ]
-      },
-      {
         "n": "Eclecticist",
         "s": "2026-04-30T11:00:00Z",
         "e": "2026-04-30T12:00:00Z",
@@ -2138,7 +2128,7 @@
         "s": "2026-04-30T17:00:00Z",
         "e": "2026-04-30T18:00:00Z",
         "d": null,
-        "j": "GALA Takeover",
+        "j": "Ten Years of GALA Takeover",
         "u": null,
         "p": "isaaccarter"
       },
@@ -2147,7 +2137,7 @@
         "s": "2026-04-30T18:00:00Z",
         "e": "2026-04-30T19:00:00Z",
         "d": null,
-        "j": "GALA Takeover",
+        "j": "Ten Years of GALA Takeover",
         "u": null,
         "t": "biweekly",
         "p": "niks"
@@ -2157,7 +2147,7 @@
         "s": "2026-04-30T19:00:00Z",
         "e": "2026-04-30T20:00:00Z",
         "d": null,
-        "j": "GALA Takeover",
+        "j": "Ten Years of GALA Takeover",
         "u": null,
         "t": "biweekly",
         "p": "manami"
@@ -2167,7 +2157,7 @@
         "s": "2026-04-30T20:00:00Z",
         "e": "2026-04-30T21:00:00Z",
         "d": null,
-        "j": "GALA Takeover",
+        "j": "Ten Years of GALA Takeover",
         "u": null,
         "t": "biweekly",
         "p": "mrredley"
@@ -2331,15 +2321,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-04-30T07:00:00Z",
-        "e": "2026-04-30T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-04-30T10:00:00Z",
