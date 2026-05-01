@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-01T09:26:03.135Z",
+  "updated": "2026-05-01T11:01:47.699Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ STEVEN JULIEN",
-        "s": "2026-05-01T09:00:00+01:00",
-        "e": "2026-05-01T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-steven-julien-1st-may-2026"
-      },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS & BENTY",
         "s": "2026-05-01T11:00:00+01:00",
@@ -25,9 +17,9 @@
         "n": "PUM PUM POWER HOUR W/ LIL C",
         "s": "2026-05-01T13:00:00+01:00",
         "e": "2026-05-01T14:00:00+01:00",
-        "d": null,
+        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
         "j": "LIL C",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-1st-may-2026",
         "t": "biweekly",
         "p": "lilc"
       },
@@ -135,6 +127,15 @@
         "u": null
       },
       {
+        "n": "MIL TOWNLEY (R)",
+        "s": "2026-05-02T01:00:00+01:00",
+        "e": "2026-05-02T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "Nosedrip (R)",
         "s": "2026-05-02T02:00:00+01:00",
         "e": "2026-05-02T04:00:00+01:00",
@@ -184,14 +185,6 @@
     ],
     "nts2": [
       {
-        "n": "Bourdon w/ Thomas Guillot",
-        "s": "2026-05-01T10:00:00+01:00",
-        "e": "2026-05-01T11:00:00+01:00",
-        "d": "Linked to church bells or bagpipes, bourdon is an ancient word for drone. Discover the new wave of musicians drawing on traditional repertoire, where synthesizer and hurdy-gurdy drones collide in hypnotic trances. Instrumentals and ballads in French and Occitan from La Nòvia, Pagans and Bongo Joe.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-bourdon-w-thomas-guillot-1st-may-2026"
-      },
-      {
         "n": "In Focus - Alvin Lucier",
         "s": "2026-05-01T11:00:00+01:00",
         "e": "2026-05-01T13:00:00+01:00",
@@ -204,9 +197,9 @@
         "n": "CAROLINA SOUL: Far-reaching 7-inches",
         "s": "2026-05-01T13:00:00+01:00",
         "e": "2026-05-01T15:00:00+01:00",
-        "d": null,
+        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-1st-may-2026"
       },
       {
         "n": "Kindness / Wave Zero",
@@ -227,13 +220,12 @@
         "p": "drycleaning"
       },
       {
-        "n": "OLIVIA O",
+        "n": "OLIVIA O. w/ Lowertown",
         "s": "2026-05-01T17:00:00+01:00",
         "e": "2026-05-01T18:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "oliviao"
+        "u": null
       },
       {
         "n": "SARA A",
@@ -338,28 +330,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "French cinema special (1967-1973) W/ MEÏLOUMI",
+        "s": "2026-05-02T09:00:00+01:00",
+        "e": "2026-05-02T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Mid Morning Matters w/ Alfie Danger",
-        "s": "2026-05-01T09:00:00Z",
-        "e": "2026-05-01T10:00:00Z",
-        "d": null,
-        "j": "Alfie Danger",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Reggie Crookes",
-        "s": "2026-05-01T10:00:00Z",
-        "e": "2026-05-01T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "reggiecrookes"
-      },
       {
         "n": "Red Can",
         "s": "2026-05-01T11:00:00Z",
@@ -1489,18 +1470,28 @@
         "j": "Isis Moray",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-05-01T09:00:00Z",
-        "e": "2026-05-01T11:00:00Z",
+        "n": "Tom Ferrare",
+        "s": "2026-05-08T10:00:00Z",
+        "e": "2026-05-08T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Electrolytes with Joly",
+        "s": "2026-05-08T11:00:00Z",
+        "e": "2026-05-08T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "electrolyteswithjoly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-05-01T11:00:00Z",
@@ -2117,16 +2108,6 @@
     ],
     "rinse": [
       {
-        "n": "Breakfast with Maey",
-        "s": "2026-05-01T08:00:00Z",
-        "e": "2026-05-01T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "maey"
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-05-01T10:00:00Z",
         "e": "2026-05-01T13:00:00Z",
@@ -2305,10 +2286,13 @@
         "s": "2026-05-02T17:00:00Z",
         "e": "2026-05-02T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B John Osborn & Scuba",
         "u": null,
         "t": "monthly",
-        "p": "georgefitzgerald"
+        "p": "georgefitzgerald",
+        "ap": [
+          "scuba"
+        ]
       },
       {
         "n": "CASE",
@@ -2333,7 +2317,7 @@
         "s": "2026-05-02T21:00:00Z",
         "e": "2026-05-02T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "START OF SUMMER",
         "u": null,
         "t": "biweekly",
         "p": "ammara"
@@ -2348,15 +2332,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-01T07:00:00Z",
-        "e": "2026-05-01T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-01T10:00:00Z",
