@@ -1,21 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-02T18:44:38.189Z",
+  "updated": "2026-05-02T20:32:53.717Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TEST PRESSING",
-        "s": "2026-05-02T18:00:00+01:00",
-        "e": "2026-05-02T20:00:00+01:00",
-        "d": "Apiento, a.k.a Paul Byrne runs the invaluable Test Pressing blog and releases music on World Building, World Unknown and more. His show has that esoteric techno thing and whatever suits the mood..\nFrom the host: \"A lovely two hours that runs from mellow acoustic numbers from Sulah Jordan through to deep floaty bangers.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/test-pressing/episodes/test-pressing-2nd-may-2026",
-        "t": "monthly",
-        "p": "pressing",
-        "ap": [
-          "testpressing"
-        ]
-      },
       {
         "n": "LDLDN w/ Jon Dixon (4eva4wrd, Underground Resistance)",
         "s": "2026-05-02T20:00:00+01:00",
@@ -28,9 +15,9 @@
         "n": "Black Impuse W/ Santilafamila",
         "s": "2026-05-02T22:00:00+01:00",
         "e": "2026-05-03T00:00:00+01:00",
-        "d": null,
+        "d": "From 10 till midnight, Black Impulse’s shows are packed with transatlantic camaraderie and a distortion heavy stroll though metal, noise, gutter garage, trash blues, prog, hardcore, hip-hop, free jazz and anything else.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/black-impulse/episodes/black-impulse-2nd-may-2026"
       },
       {
         "n": "DIDDY WAH w/ The Gnomes",
@@ -172,18 +159,19 @@
         "u": null,
         "t": "monthly",
         "p": "noelspiva"
+      },
+      {
+        "n": "LEILA SAMIR",
+        "s": "2026-05-03T16:00:00+01:00",
+        "e": "2026-05-03T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "leilasamir"
       }
     ],
     "nts2": [
-      {
-        "n": "CONOR THOMAS",
-        "s": "2026-05-02T19:00:00+01:00",
-        "e": "2026-05-02T21:00:00+01:00",
-        "d": "Irrevelent, asymmetric selections by Boomkat lifer, Conor Thomas; caretaker of The Death of Rave and R* T*** labels, and resident DJ of The White Hotel & Impiety Hour {AD England} in Manchester, drawing on decades of nocturbulous behaviour and a brend toward short-circuiting genres.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/conor-thomas/episodes/conor-thomas-2nd-may-2026",
-        "p": "conorthomas"
-      },
       {
         "n": "PHUONG DAN (R)",
         "s": "2026-05-02T21:00:00+01:00",
@@ -197,9 +185,10 @@
         "n": "BRAV - ESSEX OG VINYL MIX",
         "s": "2026-05-02T22:00:00+01:00",
         "e": "2026-05-02T23:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Long time NTS collaborator and This City Plays producer, Brav brings a monthly showcase of ambient, techno and experimental cuts…",
+        "j": "ESSEX OG VINYL MIX",
+        "u": "https://www.nts.live/api/v2/shows/brav/episodes/brav-2nd-may-2026",
+        "t": "monthly",
         "p": "brav"
       },
       {
@@ -326,18 +315,18 @@
         "j": "INDIE FROM SINGAPORE TO SEOUL",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "GUITAR WORLD: UK INDIE SINGLES 1990-1998 (R)",
+        "s": "2026-05-03T14:02:00+01:00",
+        "e": "2026-05-03T15:02:00+01:00",
+        "d": null,
+        "j": "UK INDIE SINGLES 1990-1998",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-02T17:00:00Z",
-        "e": "2026-05-02T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Minus - Flow State",
         "s": "2026-05-02T20:00:00Z",
@@ -1476,18 +1465,18 @@
         "j": "Qua Rush & Flipz MC",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Kimber & Kid Kun",
+        "s": "2026-05-09T19:00:00Z",
+        "e": "2026-05-09T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "T-Kay - The Archive of Feelings",
-        "s": "2026-05-02T17:00:00Z",
-        "e": "2026-05-02T19:00:00Z",
-        "d": null,
-        "j": "The Archive of Feelings",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Time Away with Maral",
         "s": "2026-05-02T19:00:00Z",
@@ -2121,19 +2110,23 @@
         "u": null,
         "t": "monthly",
         "p": "ryanleemoore"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "CASE",
-        "s": "2026-05-02T18:00:00Z",
-        "e": "2026-05-02T19:00:00Z",
+        "n": "Nia Michelle, Jordan Collins, Lewis Thompson – Channels",
+        "s": "2026-05-09T20:00:00Z",
+        "e": "2026-05-09T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "case"
-      },
+        "t": "monthly",
+        "p": "jordancollins",
+        "ap": [
+          "lewisthompson",
+          "niamichelle"
+        ]
+      }
+    ],
+    "rinse": [
       {
         "n": "JAEL",
         "s": "2026-05-02T19:00:00Z",
@@ -2295,14 +2288,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Global Frequency",
-        "s": "2026-05-02T18:00:00Z",
-        "e": "2026-05-02T19:00:00Z",
-        "d": null,
-        "j": "DJ Pete a.k.a. Substance",
-        "u": null
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-02T19:00:00Z",
