@@ -1,41 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-01T22:41:25.158Z",
+  "updated": "2026-05-02T01:57:22.991Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOFAY & RIBEKA (R)",
-        "s": "2026-05-01T23:00:00+01:00",
-        "e": "2026-05-02T00:00:00+01:00",
-        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-22nd-april-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Elias Rønnenfelt & Evanora Unlimited",
-        "s": "2026-05-02T00:00:00+01:00",
-        "e": "2026-05-02T01:00:00+01:00",
-        "d": "Iceage frontman currently on a solo adventure Elias Rønnenfelt and US tour buddy Evanora Unlimited pool their musical selections for a guest special. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/elias-ronnenfelt-evanora-unlimited-2nd-may-2026"
-      },
-      {
-        "n": "MIL TOWNLEY (R)",
-        "s": "2026-05-02T01:00:00+01:00",
-        "e": "2026-05-02T02:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Nosedrip (R)",
         "s": "2026-05-02T02:00:00+01:00",
         "e": "2026-05-02T04:00:00+01:00",
-        "d": null,
+        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-9th-june-2025",
         "t": "restream",
         "p": "nosedrip"
       },
@@ -43,9 +17,9 @@
         "n": "OKONKOLE Y TROMPA (R)",
         "s": "2026-05-02T04:00:00+01:00",
         "e": "2026-05-02T06:00:00+01:00",
-        "d": null,
+        "d": "PAM & Satoshi from the blog Okonkole Y Trompa select 2 hours of records from their collection for NTS.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/okonkole-y-trompa/episodes/okonkole-y-trompa-19th-june-2019",
         "t": "restream"
       },
       {
@@ -171,34 +145,44 @@
         "u": null,
         "t": "restream",
         "p": "panoramayerevan"
+      },
+      {
+        "n": "CLAIRO (R)",
+        "s": "2026-05-03T02:00:00+01:00",
+        "e": "2026-05-03T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Janie Jones (R)",
+        "s": "2026-05-03T03:00:00+01:00",
+        "e": "2026-05-03T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "janiejones"
+      },
+      {
+        "n": "AN1MA (R)",
+        "s": "2026-05-03T04:00:00+01:00",
+        "e": "2026-05-03T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "CRY LATER W/ TROPIC OF CANCER",
-        "s": "2026-05-01T23:00:00+01:00",
-        "e": "2026-05-02T00:00:00+01:00",
-        "d": "Camella Lobo, aka Tropic of Cancer, takes to the air once a month for Cry Later. Tune in for a dedication hour of songs selected by listeners in honor of their lovers and loved ones. Send a personal message and song selection to cryinglater@gmail.com",
-        "j": "TROPIC OF CANCER",
-        "u": "https://www.nts.live/api/v2/shows/tropic-of-cancer/episodes/tropic-of-cancer-1st-may-2026",
-        "t": "monthly",
-        "p": "tropicofcancer"
-      },
-      {
-        "n": "Bump City w/ Kapsoul",
-        "s": "2026-05-02T00:00:00+01:00",
-        "e": "2026-05-02T02:00:00+01:00",
-        "d": "Funkmosphere resident Billy Goods heads up a 2 hour slot with James Yamagucci - all vinyl, all live and direct from our LA studio.\nFrom the host: \"From the land of the rising sun, LA-based Japanese beatmaker KAPSOUL returns to BUMP CITY with a Part 2 Mix — two hours of self-produced beats fused with deep jazz samples on @ntsradio.\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/billy-goods/episodes/billy-goods-2nd-may-2026"
-      },
-      {
         "n": "Beyond The Clouds w/ Masha Mar (R)",
         "s": "2026-05-02T02:00:00+01:00",
         "e": "2026-05-02T03:00:00+01:00",
-        "d": null,
+        "d": "Slowed Down, sun kissed journeys through dub, synth, cosmic & balearic beats. Brought to you from LA each month.\nFrom the host: \"End of year special, music to wind down the year with. A lot of new & old chill-out favorites\"",
         "j": "Masha Mar",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/masha/episodes/masha-17th-december-2025",
         "t": "restream",
         "p": "mashamar"
       },
@@ -206,9 +190,10 @@
         "n": "TOPIAS W/ SUNIK KIM",
         "s": "2026-05-02T03:00:00+01:00",
         "e": "2026-05-02T05:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Monthly hub for club geographies, place-specific constructions, architectural musics and the production of sonic space and scale.\nFrom the host: \"Writer and Musician Sunik Kim takes over the second hour of the show to celebrate May Day, and their new CD, essay and book collection\"",
+        "j": "SUNIK KIM",
+        "u": "https://www.nts.live/api/v2/shows/astral-plane/episodes/astral-plane-2nd-may-2026",
+        "t": "monthly"
       },
       {
         "n": "Stephane (R)",
@@ -330,28 +315,27 @@
         "j": null,
         "u": null,
         "p": "conorthomas"
+      },
+      {
+        "n": "PHUONG DAN (R)",
+        "s": "2026-05-02T21:00:00+01:00",
+        "e": "2026-05-02T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "BRAV - ESSEX OG VINYL MIX",
+        "s": "2026-05-02T22:00:00+01:00",
+        "e": "2026-05-02T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "brav"
       }
     ],
     "subtle": [
-      {
-        "n": " Fuuki Fam",
-        "s": "2026-05-01T21:00:00Z",
-        "e": "2026-05-01T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Programm Ldn",
-        "s": "2026-05-01T23:00:00Z",
-        "e": "2026-05-02T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "programmldn"
-      },
       {
         "n": "RHOMBI",
         "s": "2026-05-02T01:00:00Z",
@@ -1436,29 +1420,37 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
-      {
-        "n": "Secret Circuit - Cosmic Neighborhood",
-        "s": "2026-05-01T21:00:00Z",
-        "e": "2026-05-01T23:00:00Z",
-        "d": null,
-        "j": "Cosmic Neighborhood",
-        "u": null,
-        "t": "monthly",
-        "p": "secretcircuit"
       },
       {
-        "n": "Dor Wand – Open Heart Social Club",
-        "s": "2026-05-01T23:00:00Z",
-        "e": "2026-05-02T01:00:00Z",
+        "n": "Spaghetti Junction w/ Sartana",
+        "s": "2026-05-08T23:00:00Z",
+        "e": "2026-05-09T00:00:00Z",
+        "d": null,
+        "j": "Sartana",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "MANNRS",
+        "s": "2026-05-09T00:00:00Z",
+        "e": "2026-05-09T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "dorwand"
+        "p": "mannrs"
       },
+      {
+        "n": "Signal Flow ",
+        "s": "2026-05-09T01:00:00Z",
+        "e": "2026-05-09T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Jeffery Plansker - Jazz Advance",
         "s": "2026-05-02T01:00:00Z",
@@ -2071,38 +2063,28 @@
         "u": null,
         "t": "monthly",
         "p": "djthewitchinghours"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "ESC",
-        "s": "2026-05-01T22:00:00Z",
-        "e": "2026-05-01T23:00:00Z",
+        "n": "Matt McDermott – En Plein Air",
+        "s": "2026-05-08T23:00:00Z",
+        "e": "2026-05-09T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "esc"
-      },
-      {
-        "n": "Huey Mnemonic",
-        "s": "2026-05-01T23:00:00Z",
-        "e": "2026-05-02T00:00:00Z",
-        "d": null,
-        "j": "Drummer B",
-        "u": null,
         "t": "monthly",
-        "p": "hueymnemonic"
+        "p": "mattmcdermott"
       },
       {
-        "n": "Isaac Carter",
-        "s": "2026-05-02T00:00:00Z",
-        "e": "2026-05-02T01:00:00Z",
+        "n": "Gum.mp3 - Black Audio Society",
+        "s": "2026-05-09T01:00:00Z",
+        "e": "2026-05-09T03:00:00Z",
         "d": null,
-        "j": "Ten Years of GALA Takeover",
+        "j": "Black Audio Society",
         "u": null,
-        "p": "isaaccarter"
-      },
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "Electronic Playlist",
         "s": "2026-05-02T01:00:00Z",
@@ -2226,9 +2208,151 @@
         "d": null,
         "j": "Live from J1",
         "u": null
+      },
+      {
+        "n": "Bae Blade presents BAEDDIES",
+        "s": "2026-05-02T23:00:00Z",
+        "e": "2026-05-03T00:00:00Z",
+        "d": null,
+        "j": "Mila Black",
+        "u": null,
+        "t": "monthly",
+        "p": "baeblade"
+      },
+      {
+        "n": "DJ Fuckoff",
+        "s": "2026-05-03T00:00:00Z",
+        "e": "2026-05-03T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "djfuckoff"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-05-03T01:00:00Z",
+        "e": "2026-05-03T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Anna Lunoe",
+        "s": "2026-05-03T05:00:00Z",
+        "e": "2026-05-03T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "annalunoe"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-05-03T06:00:00Z",
+        "e": "2026-05-03T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Harri Pepper",
+        "s": "2026-05-03T08:00:00Z",
+        "e": "2026-05-03T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "harripepper"
+      },
+      {
+        "n": "Russ Ryan",
+        "s": "2026-05-03T10:00:00Z",
+        "e": "2026-05-03T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "russryan"
+      },
+      {
+        "n": "CoOp Presents",
+        "s": "2026-05-03T12:00:00Z",
+        "e": "2026-05-03T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Tribal Brothers",
+        "s": "2026-05-03T14:00:00Z",
+        "e": "2026-05-03T16:00:00Z",
+        "d": null,
+        "j": "Caiiro",
+        "u": null,
+        "t": "monthly",
+        "p": "tribalbrothers"
+      },
+      {
+        "n": "Flashy Sillah",
+        "s": "2026-05-03T16:00:00Z",
+        "e": "2026-05-03T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Oneman",
+        "s": "2026-05-03T17:00:00Z",
+        "e": "2026-05-03T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "oneman"
+      },
+      {
+        "n": "Oblig",
+        "s": "2026-05-03T19:00:00Z",
+        "e": "2026-05-03T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "oblig"
+      },
+      {
+        "n": "Logan Sama",
+        "s": "2026-05-03T20:00:00Z",
+        "e": "2026-05-03T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "logansama"
+      },
+      {
+        "n": "Nancy June B2B Mantra with SP:MC",
+        "s": "2026-05-03T22:00:00Z",
+        "e": "2026-05-03T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinsefr": [
+      {
+        "n": "Playlist France",
+        "s": "2026-05-01T19:00:00Z",
+        "e": "2026-05-02T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
       {
         "n": "Playlist France",
         "s": "2026-05-02T07:00:00Z",
@@ -2248,60 +2372,69 @@
         "t": "playlist"
       },
       {
-        "n": "Camion Bazar",
+        "n": "Bé.",
         "s": "2026-05-02T12:00:00Z",
-        "e": "2026-05-02T14:00:00Z",
-        "d": null,
-        "j": "Romain Play takeover - recorded live at Microclimat",
-        "u": null,
-        "p": "camionbazar",
-        "t": "monthly"
-      },
-      {
-        "n": "Griffes d'Anges",
-        "s": "2026-05-02T14:00:00Z",
-        "e": "2026-05-02T15:00:00Z",
-        "d": null,
-        "j": "présente Maxime Iko B2B Jean Louis",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Rama",
-        "s": "2026-05-02T15:00:00Z",
-        "e": "2026-05-02T16:00:00Z",
+        "e": "2026-05-02T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "RAAR",
+        "n": "Hadj Sameer",
+        "s": "2026-05-02T13:00:00Z",
+        "e": "2026-05-02T14:00:00Z",
+        "d": null,
+        "j": "invite Guillermo",
+        "u": null,
+        "t": "monthly",
+        "p": "hadjsameer"
+      },
+      {
+        "n": "Finesse Frequency",
+        "s": "2026-05-02T14:00:00Z",
+        "e": "2026-05-02T15:00:00Z",
+        "d": null,
+        "j": "avec Louis Roméo",
+        "u": null
+      },
+      {
+        "n": "kIM0 presents POV",
+        "s": "2026-05-02T15:00:00Z",
+        "e": "2026-05-02T16:00:00Z",
+        "d": null,
+        "j": "\"Adventure Time\" by OLUWA.MP4",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Bait",
         "s": "2026-05-02T16:00:00Z",
         "e": "2026-05-02T17:00:00Z",
         "d": null,
-        "j": "LOUISAHHH strikes again",
+        "j": "France Focus",
         "u": null,
-        "t": "biweekly",
-        "p": "raar"
+        "t": "monthly",
+        "p": "bait"
       },
       {
-        "n": "Vanille",
+        "n": "Imer6ia",
         "s": "2026-05-02T17:00:00Z",
         "e": "2026-05-02T18:00:00Z",
         "d": null,
-        "j": "invite Sadia",
+        "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "vanille"
+        "p": "imer6ia"
       },
       {
-        "n": "Global Frequency",
+        "n": "Playlist France",
         "s": "2026-05-02T18:00:00Z",
         "e": "2026-05-02T19:00:00Z",
         "d": null,
-        "j": "DJ Pete a.k.a. Substance",
-        "u": null
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Playlist France",
