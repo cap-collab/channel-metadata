@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-02T01:57:56.181Z",
+  "updated": "2026-05-02T04:56:57.647Z",
   "stations": {
     "nts1": [
       {
@@ -11448,6 +11448,16 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Nosedrip (R)",
+        "s": "2026-05-02T02:00:00+01:00",
+        "e": "2026-05-02T04:00:00+01:00",
+        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-9th-june-2025",
+        "t": "restream",
+        "p": "nosedrip"
       }
     ],
     "nts2": [
@@ -11836,7 +11846,7 @@
         "n": "CXEMA (R)",
         "s": "2026-02-18T04:00:00Z",
         "e": "2026-02-18T05:00:00Z",
-        "d": "The sound of Ukraine's independent music scene. Presented by Схема, a Kyiv-based collective that moves forward rave culture in Ukraine.",
+        "d": "The sound of Ukraine's independent music scene. Presented by Схе��а, a Kyiv-based collective that moves forward rave culture in Ukraine.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/cxema/episodes/cxema-27th-january-2025",
         "t": "restream",
@@ -25036,6 +25046,25 @@
         "d": "Funkmosphere resident Billy Goods heads up a 2 hour slot with James Yamagucci - all vinyl, all live and direct from our LA studio.\nFrom the host: \"From the land of the rising sun, LA-based Japanese beatmaker KAPSOUL returns to BUMP CITY with a Part 2 Mix — two hours of self-produced beats fused with deep jazz samples on @ntsradio.\"_",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/billy-goods/episodes/billy-goods-2nd-may-2026"
+      },
+      {
+        "n": "Beyond The Clouds w/ Masha Mar (R)",
+        "s": "2026-05-02T02:00:00+01:00",
+        "e": "2026-05-02T03:00:00+01:00",
+        "d": "Slowed Down, sun kissed journeys through dub, synth, cosmic & balearic beats. Brought to you from LA each month.\nFrom the host: \"End of year special, music to wind down the year with. A lot of new & old chill-out favorites\"",
+        "j": "Masha Mar",
+        "u": "https://www.nts.live/api/v2/shows/masha/episodes/masha-17th-december-2025",
+        "t": "restream",
+        "p": "mashamar"
+      },
+      {
+        "n": "TOPIAS W/ SUNIK KIM",
+        "s": "2026-05-02T03:00:00+01:00",
+        "e": "2026-05-02T05:00:00+01:00",
+        "d": "Monthly hub for club geographies, place-specific constructions, architectural musics and the production of sonic space and scale.\nFrom the host: \"Writer and Musician Sunik Kim takes over the second hour of the show to celebrate May Day, and their new CD, essay and book collection\"",
+        "j": "SUNIK KIM",
+        "u": "https://www.nts.live/api/v2/shows/astral-plane/episodes/astral-plane-2nd-may-2026",
+        "t": "monthly"
       }
     ],
     "subtle": [
@@ -38028,6 +38057,25 @@
         "u": null,
         "t": "monthly",
         "p": "programmldn"
+      },
+      {
+        "n": "RHOMBI",
+        "s": "2026-05-02T01:00:00Z",
+        "e": "2026-05-02T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "rhombi"
+      },
+      {
+        "n": "B-Pushr",
+        "s": "2026-05-02T02:00:00Z",
+        "e": "2026-05-02T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -47042,6 +47090,16 @@
         "u": null,
         "t": "monthly",
         "p": "dorwand"
+      },
+      {
+        "n": "Jeffery Plansker - Jazz Advance",
+        "s": "2026-05-02T01:00:00Z",
+        "e": "2026-05-02T03:00:00Z",
+        "d": null,
+        "j": "Jazz Advance",
+        "u": null,
+        "t": "monthly",
+        "p": "jefferyplansker"
       }
     ],
     "rinse": [
@@ -69520,6 +69578,16 @@
         "u": null,
         "t": "weekly",
         "p": "jasonp"
+      },
+      {
+        "n": "Coyote FM",
+        "s": "2026-05-02T02:00:00Z",
+        "e": "2026-05-02T04:00:00Z",
+        "d": null,
+        "j": "Raven",
+        "u": null,
+        "t": "monthly",
+        "p": "raven"
       }
     ]
   }
