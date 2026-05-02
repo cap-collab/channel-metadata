@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-02T10:43:02.972Z",
+  "updated": "2026-05-02T12:50:06.053Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
-        "s": "2026-05-02T10:00:00+01:00",
-        "e": "2026-05-02T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": "MACCA",
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-2nd-may-2026",
-        "t": "biweekly",
-        "p": "macca"
-      },
       {
         "n": "ROSS ALLEN",
         "s": "2026-05-02T12:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "TARZSA",
         "s": "2026-05-02T14:00:00+01:00",
         "e": "2026-05-02T15:00:00+01:00",
-        "d": null,
+        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-2nd-may-2026",
         "t": "monthly",
         "p": "tarzsa"
       },
@@ -175,18 +165,18 @@
         "ap": [
           "theahd"
         ]
+      },
+      {
+        "n": "THE SLIP",
+        "s": "2026-05-03T10:00:00+01:00",
+        "e": "2026-05-03T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
-      {
-        "n": "NTS GUIDE TO: INDIETRONICA & FOLKTRONICA (R)",
-        "s": "2026-05-02T11:00:00+01:00",
-        "e": "2026-05-02T13:00:00+01:00",
-        "d": "A two hour overview of the artists connected by the \"indietronica\" or \"folktronica\" descriptors – these terms rose to prominence in the mid-1990s as electronic artists began exploring acoustic arrangements and organic leaning sounds and samples, and traditional guitar-based bands experimented with sampling technology and electronic sounds. ",
-        "j": "INDIETRONICA & FOLKTRONICA",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-indietronica-18th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "Merlin Modulaw - Swan Weather Transmission",
         "s": "2026-05-02T13:00:00+01:00",
@@ -200,9 +190,10 @@
         "n": "YOUTH",
         "s": "2026-05-02T14:00:00+01:00",
         "e": "2026-05-02T15:00:00+01:00",
-        "d": null,
+        "d": "Andrew Lyster's YOUTH takes over the NTS airwaves live from MO6B in Stockport once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/youth/episodes/youth-2nd-may-2026",
+        "t": "monthly",
         "p": "youth"
       },
       {
@@ -333,27 +324,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "PERREO DE CONCRETO w/ Andrea Karina",
+        "s": "2026-05-03T07:00:00+01:00",
+        "e": "2026-05-03T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Matty Banton - Roots & Dubs",
-        "s": "2026-05-02T10:00:00Z",
-        "e": "2026-05-02T11:00:00Z",
-        "d": null,
-        "j": "Roots & Dubs",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-02T11:00:00Z",
-        "e": "2026-05-02T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Live & Direct w/ Hannah",
         "s": "2026-05-02T12:00:00Z",
@@ -1466,13 +1447,23 @@
         "j": "Gabe",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Cam Christie",
+        "s": "2026-05-09T11:00:00Z",
+        "e": "2026-05-09T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "camchristie"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-02T09:00:00Z",
-        "e": "2026-05-02T11:00:00Z",
+        "s": "2026-05-02T11:00:00Z",
+        "e": "2026-05-02T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1480,8 +1471,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-02T11:00:00Z",
-        "e": "2026-05-02T15:00:00Z",
+        "s": "2026-05-02T15:00:00Z",
+        "e": "2026-05-02T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2109,18 +2100,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Hi-Fidelity with Cafe 1001",
-        "s": "2026-05-02T10:00:00Z",
-        "e": "2026-05-02T12:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-09T11:00:00Z",
+        "e": "2026-05-09T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "Counter Culture with BBE Records",
         "s": "2026-05-02T12:00:00Z",
@@ -2343,15 +2334,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-02T10:00:00Z",
-        "e": "2026-05-02T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Camion Bazar",
         "s": "2026-05-02T12:00:00Z",
