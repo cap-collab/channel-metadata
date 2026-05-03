@@ -1,33 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-03T12:50:20.633Z",
+  "updated": "2026-05-03T14:41:44.993Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ASHER G'S CARIBBEAN MEMORIES",
-        "s": "2026-05-03T13:00:00+01:00",
-        "e": "2026-05-03T14:00:00+01:00",
-        "d": "Classic Jamaican records from the \"Rocksteady Daddy\" Asher G.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/asher-g/episodes/asher-g-3rd-may-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "PALM WINE CLUB",
-        "s": "2026-05-03T14:00:00+01:00",
-        "e": "2026-05-03T15:00:00+01:00",
-        "d": "Palm Wine Club was born in the basement of the London EDITION almost eight years ago. Evolving from party to radio show to travelling arts club - Palm Wine Club celebrates art, life + enjoyment.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/palmwineclub/episodes/palmwineclub-3rd-may-2026",
-        "t": "monthly"
-      },
       {
         "n": "Noel Spiva - Smoov Gospel Pt 2",
         "s": "2026-05-03T15:00:00+01:00",
         "e": "2026-05-03T16:00:00+01:00",
-        "d": null,
+        "d": "St. Louis multidimensional visual artist Noel Spiva brings a regular hour of warming, soulful selections merging smooth rap & inspiring jazzy tracks…\nFrom the host:'Enjoy these these smoov gospel sounds this Sunday morning <3'",
         "j": "Smoov Gospel Pt 2",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/noel-spiva/episodes/noel-spiva-3rd-may-2026",
         "t": "monthly",
         "p": "noelspiva"
       },
@@ -35,9 +17,9 @@
         "n": "LEILA SAMIR",
         "s": "2026-05-03T16:00:00+01:00",
         "e": "2026-05-03T17:00:00+01:00",
-        "d": null,
+        "d": "London producer & DJ Leila Samir presents an hour every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/leila-samir/episodes/leila-samir-3rd-may-2026",
         "t": "monthly",
         "p": "leilasamir"
       },
@@ -171,43 +153,44 @@
         "u": null,
         "t": "monthly",
         "p": "melodiesinternational"
+      },
+      {
+        "n": "SYSTEM OLYMPIA - SMALL TALK CHOKEHOLD",
+        "s": "2026-05-04T15:00:00+01:00",
+        "e": "2026-05-04T16:00:00+01:00",
+        "d": null,
+        "j": "SMALL TALK CHOKEHOLD",
+        "u": null,
+        "t": "monthly",
+        "p": "systemolympia"
+      },
+      {
+        "n": "Ohbliv - Smooth Jazz Healing",
+        "s": "2026-05-04T16:00:00+01:00",
+        "e": "2026-05-04T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ohbliv"
       }
     ],
     "nts2": [
       {
-        "n": "GUITAR WORLD: INDIE FROM SINGAPORE TO SEOUL (R)",
-        "s": "2026-05-03T13:00:00+01:00",
-        "e": "2026-05-03T14:02:00+01:00",
-        "d": "East and South-East Asian indie rock, dream pop, and shoe gaze from South Korea, Singapore, China, Taiwan and beyond.",
-        "j": "INDIE FROM SINGAPORE TO SEOUL",
-        "u": "https://www.nts.live/api/v2/shows/guitar-world/episodes/indie-from-singapore-to-seoul-5th-august-2022",
-        "t": "restream"
-      },
-      {
-        "n": "GUITAR WORLD: UK INDIE SINGLES 1990-1998 (R)",
-        "s": "2026-05-03T14:02:00+01:00",
-        "e": "2026-05-03T15:02:00+01:00",
-        "d": "Timeless and twee indie rock 7 inches from the UK.",
-        "j": "UK INDIE SINGLES 1990-1998",
-        "u": "https://www.nts.live/api/v2/shows/guitar-world/episodes/uk-jangle-pop-2nd-august-2022",
-        "t": "restream"
-      },
-      {
         "n": "GUITAR WORLD: RURAL PSYCHEDELIA & BRISTOL ALTERNATIVE (R)",
         "s": "2026-05-03T15:02:00+01:00",
         "e": "2026-05-03T16:08:00+01:00",
-        "d": null,
+        "d": "A snapshot from a fruitful and experimental era in Bristol’s alternative scene, exploring shoegaze, space rock, and post-rock from bands like Flying Saucer Attack, Movietone, Crescent and other acts from the city. ",
         "j": "RURAL PSYCHEDELIA & BRISTOL ALTERNATIVE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guitar-world/episodes/space-rock-bristol-alternative-10th-august-2022",
         "t": "restream"
       },
       {
         "n": "NTS GUIDE TO - CZECH SHOEGAZE (R)",
         "s": "2026-05-03T16:08:00+01:00",
         "e": "2026-05-03T17:07:00+01:00",
-        "d": null,
+        "d": "Following the Velvet Revolution and collapse of communism in the Eastern Bloc, a group of bands introduced to the likes of My Bloody Valentine, The Boo Radleys and Ride by John Peel on BBC World Service began to make their own blissful noise. Listen back to an hour of shoegaze jams from the Czech Republic.",
         "j": "CZECH SHOEGAZE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/czech-shoegaze-8thnovember-2020",
         "t": "restream"
       },
       {
@@ -343,28 +326,29 @@
         "u": null,
         "t": "restream",
         "p": "aylu"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Aloona",
-        "s": "2026-05-03T12:00:00Z",
-        "e": "2026-05-03T13:00:00Z",
+        "n": "BODY MOTION W/ LUX18 (R)",
+        "s": "2026-05-04T10:00:00+01:00",
+        "e": "2026-05-04T11:00:00+01:00",
+        "d": null,
+        "j": "LUX18",
+        "u": null,
+        "t": "restream",
+        "p": "bodymotion"
+      },
+      {
+        "n": "BLOODZ BOI",
+        "s": "2026-05-04T11:00:00+01:00",
+        "e": "2026-05-04T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "aloona"
-      },
-      {
-        "n": "Robeare",
-        "s": "2026-05-03T13:00:00Z",
-        "e": "2026-05-03T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
+        "p": "bloodzboi"
+      }
+    ],
+    "subtle": [
       {
         "n": "ExtraSauce w/ eatmybeat",
         "s": "2026-05-03T14:00:00Z",
@@ -1522,18 +1506,28 @@
         "j": "Joe Vincent",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs",
-        "s": "2026-05-03T12:00:00Z",
-        "e": "2026-05-03T14:00:00Z",
+        "n": "Comfy Bella",
+        "s": "2026-05-10T13:00:00Z",
+        "e": "2026-05-10T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": " Alien Izz",
+        "s": "2026-05-10T14:00:00Z",
+        "e": "2026-05-10T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "alienizz"
+      }
+    ],
+    "dublab": [
       {
         "n": "djjs 2",
         "s": "2026-05-03T14:00:00Z",
@@ -2157,18 +2151,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "CoOp Presents",
-        "s": "2026-05-03T12:00:00Z",
-        "e": "2026-05-03T14:00:00Z",
+        "n": "djjs 2",
+        "s": "2026-05-10T14:00:00Z",
+        "e": "2026-05-10T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "Tribal Brothers",
         "s": "2026-05-03T14:00:00Z",
@@ -2378,31 +2372,12 @@
         "s": "2026-05-04T22:00:00Z",
         "e": "2026-05-04T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Phat",
         "u": null,
         "t": "monthly"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Bé.",
-        "s": "2026-05-03T12:00:00Z",
-        "e": "2026-05-03T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Hadj Sameer",
-        "s": "2026-05-03T13:00:00Z",
-        "e": "2026-05-03T14:00:00Z",
-        "d": null,
-        "j": "invite Guillermo",
-        "u": null,
-        "t": "biweekly",
-        "p": "hadjsameer"
-      },
       {
         "n": "Finesse Frequency",
         "s": "2026-05-03T14:00:00Z",
