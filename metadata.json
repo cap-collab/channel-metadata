@@ -1,50 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-02T22:31:42.336Z",
+  "updated": "2026-05-03T02:01:23.530Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Black Impuse W/ Santilafamila",
-        "s": "2026-05-02T22:00:00+01:00",
-        "e": "2026-05-03T00:00:00+01:00",
-        "d": "From 10 till midnight, Black Impulse’s shows are packed with transatlantic camaraderie and a distortion heavy stroll though metal, noise, gutter garage, trash blues, prog, hardcore, hip-hop, free jazz and anything else.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/black-impulse/episodes/black-impulse-2nd-may-2026"
-      },
-      {
-        "n": "DIDDY WAH w/ The Gnomes",
-        "s": "2026-05-03T00:00:00+01:00",
-        "e": "2026-05-03T01:00:00+01:00",
-        "d": "Adam digs deep into his box of 45s and pulls out a wild selection of 1950s and '60s blues, surf, rockabilly, R&B, gospel, garage, soul and rock'n'roll.\nFrom the host: \"Jay and Olly from Melbourne rock’n’roll band The Gnomes joined me for a chat and shared some records ahead of their first-ever UK tour.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/diddywah/episodes/diddywah-3rd-may-2026"
-      },
-      {
-        "n": "Panorama Yerevan (R)",
-        "s": "2026-05-03T01:00:00+01:00",
-        "e": "2026-05-03T02:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "panoramayerevan"
-      },
-      {
-        "n": "CLAIRO (R)",
-        "s": "2026-05-03T02:00:00+01:00",
-        "e": "2026-05-03T03:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Janie Jones (R)",
         "s": "2026-05-03T03:00:00+01:00",
         "e": "2026-05-03T04:00:00+01:00",
-        "d": null,
+        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-18th-february-2024",
         "t": "restream",
         "p": "janiejones"
       },
@@ -52,9 +17,9 @@
         "n": "AN1MA (R)",
         "s": "2026-05-03T04:00:00+01:00",
         "e": "2026-05-03T05:00:00+01:00",
-        "d": null,
+        "d": "integration sounds from the source; an invitation into the shadow.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-20th-march-2024",
         "t": "restream"
       },
       {
@@ -171,58 +136,62 @@
         "u": null,
         "t": "monthly",
         "p": "loosebones"
+      },
+      {
+        "n": "THE REIGN SET",
+        "s": "2026-05-03T19:00:00+01:00",
+        "e": "2026-05-03T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
+        "s": "2026-05-03T20:00:00+01:00",
+        "e": "2026-05-03T22:00:00+01:00",
+        "d": null,
+        "j": "ERNESTO CHAHOUD",
+        "u": null,
+        "t": "monthly",
+        "p": "ernestochahoud"
+      },
+      {
+        "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
+        "s": "2026-05-03T22:00:00+01:00",
+        "e": "2026-05-04T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "midnightmarauders"
+      },
+      {
+        "n": "OTOLOGIC (R)",
+        "s": "2026-05-04T00:00:00+01:00",
+        "e": "2026-05-04T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "otologic"
       }
     ],
     "nts2": [
       {
-        "n": "YU SU (R)",
-        "s": "2026-05-02T23:00:00+01:00",
-        "e": "2026-05-03T00:00:00+01:00",
-        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-24th-june-2025",
-        "t": "restream",
-        "p": "yusu"
-      },
-      {
-        "n": "NEO-NOSTALGIA PA' TI w/ WORLDWINDGENRES",
-        "s": "2026-05-03T00:00:00+01:00",
-        "e": "2026-05-03T01:00:00+01:00",
-        "d": "whether it's a new version of an old school reggaeton track, a bachata-turned-indie jam or a dance/electronic tune infused with jazz, this mix is a nod to the old and new sounds of latinidad that makes me think of simpler times, and smile/cry/dance while I do.\nHow can you feel nostalgic for a moment that never happened? Oh, but you can. And it feels amazing.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-neo-nostalgia-pa-ti-w-worldwindgenres-3rd-may-2026"
-      },
-      {
-        "n": "Piano Cutz W/ Posh Lab",
-        "s": "2026-05-03T01:00:00+01:00",
-        "e": "2026-05-03T02:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Menatreba W/ Lana Sigua",
-        "s": "2026-05-03T02:00:00+01:00",
-        "e": "2026-05-03T03:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Love in Paradise Moon w/ Kimby",
         "s": "2026-05-03T03:00:00+01:00",
         "e": "2026-05-03T04:00:00+01:00",
-        "d": null,
+        "d": "Born in LA, raised in Kaohsiung, Taiwan, and shaped by the in-between, I celebrate the collision of cultures through music. This vinyl set reflects that intersection—blending sounds from my roots with the world beyond, threaded together by the ecstasy and unrest of love under the new moon.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-love-in-paradise-moon-w-kimby-3rd-may-2026"
       },
       {
         "n": "NORDIC YOUTH CHOIR W/ JEPPE UGELVIG",
         "s": "2026-05-03T04:00:00+01:00",
         "e": "2026-05-03T05:00:00+01:00",
-        "d": null,
+        "d": "An ode to the rich Nordic choral tradition, traversing ecclesiastical, folk, and pop polyphonies from across five decades.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/your-specialist-subject-ii/episodes/your-specialist-subject-ii-nordic-youth-choir-w-jeppe-ugelvig-3rd-may-2026"
       },
       {
         "n": "OCCULT PSYCH FAVORITES W/ JOLIE",
@@ -325,45 +294,54 @@
         "j": "CZECH SHOEGAZE",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "HE4RTBROKEN W/ SSALIVA & LIYO (R)",
+        "s": "2026-05-03T17:07:00+01:00",
+        "e": "2026-05-03T18:00:00+01:00",
+        "d": null,
+        "j": "SSALIVA & LIYO",
+        "u": null,
+        "t": "restream",
+        "p": "he4rtbroken"
+      },
+      {
+        "n": "GNOD",
+        "s": "2026-05-03T18:00:00+01:00",
+        "e": "2026-05-03T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "JUNE MCDOOM (R)",
+        "s": "2026-05-03T19:00:00+01:00",
+        "e": "2026-05-03T19:59:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "junemcdoom"
+      },
+      {
+        "n": "BUMP CITY W/ BILLY GOODS & YAMAGUXXI (R)",
+        "s": "2026-05-03T19:59:00+01:00",
+        "e": "2026-05-03T22:00:00+01:00",
+        "d": null,
+        "j": "BILLY GOODS & YAMAGUXXI",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
       {
-        "n": "seiko",
-        "s": "2026-05-02T22:00:00Z",
-        "e": "2026-05-02T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Dread or Dead Records",
-        "s": "2026-05-02T23:00:00Z",
-        "e": "2026-05-03T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Phoebe's Playlist",
-        "s": "2026-05-03T00:00:00Z",
-        "e": "2026-05-03T01:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-05-03T02:00:00Z",
+        "e": "2026-05-03T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "Polar Dance w/Winter Games",
-        "s": "2026-05-03T01:00:00Z",
-        "e": "2026-05-03T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "polardance"
       },
       {
         "n": "wañuy",
@@ -1485,29 +1463,46 @@
         "u": null,
         "t": "monthly",
         "p": "katarina"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "mmarz",
-        "s": "2026-05-02T21:00:00Z",
-        "e": "2026-05-02T23:00:00Z",
+        "n": " Swing Thing w/ Oka",
+        "s": "2026-05-09T23:00:00Z",
+        "e": "2026-05-10T00:00:00Z",
+        "d": null,
+        "j": "Oka",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Concrete Law - Pharma&Sedan",
+        "s": "2026-05-10T00:00:00Z",
+        "e": "2026-05-10T01:00:00Z",
+        "d": null,
+        "j": "Pharma&Sedan",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Dubwise & Beyond w/ 8BallPosse",
+        "s": "2026-05-10T01:00:00Z",
+        "e": "2026-05-10T02:00:00Z",
+        "d": null,
+        "j": "8BallPosse",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Etno Selects",
+        "s": "2026-05-10T02:00:00Z",
+        "e": "2026-05-10T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "mmarz"
-      },
-      {
-        "n": "Callie Ryan - Storage Container",
-        "s": "2026-05-02T23:00:00Z",
-        "e": "2026-05-03T01:00:00Z",
-        "d": null,
-        "j": "Storage Container",
-        "u": null,
-        "t": "biweekly",
-        "p": "callieryan"
-      },
+        "p": "etnoselects"
+      }
+    ],
+    "dublab": [
       {
         "n": "Andy Oro and Akumen - Made to Move",
         "s": "2026-05-03T01:00:00Z",
@@ -2135,37 +2130,29 @@
         "u": null,
         "t": "monthly",
         "p": "dtiberio"
+      },
+      {
+        "n": "Ravedad - Serenity Rave",
+        "s": "2026-05-09T23:00:00Z",
+        "e": "2026-05-10T01:00:00Z",
+        "d": null,
+        "j": "Serenity Rave",
+        "u": null,
+        "t": "monthly",
+        "p": "ravedad"
+      },
+      {
+        "n": "sodapop - sodapop sounds",
+        "s": "2026-05-10T01:00:00Z",
+        "e": "2026-05-10T03:00:00Z",
+        "d": null,
+        "j": "sodapop sounds",
+        "u": null,
+        "t": "monthly",
+        "p": "sodapop"
       }
     ],
     "rinse": [
-      {
-        "n": "Ilya Gurin Babayeu",
-        "s": "2026-05-02T22:00:00Z",
-        "e": "2026-05-02T23:00:00Z",
-        "d": null,
-        "j": "Live from J1",
-        "u": null
-      },
-      {
-        "n": "Bae Blade presents BAEDDIES",
-        "s": "2026-05-02T23:00:00Z",
-        "e": "2026-05-03T00:00:00Z",
-        "d": null,
-        "j": "Mila Black",
-        "u": null,
-        "t": "monthly",
-        "p": "baeblade"
-      },
-      {
-        "n": "DJ Fuckoff",
-        "s": "2026-05-03T00:00:00Z",
-        "e": "2026-05-03T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "djfuckoff"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-05-03T01:00:00Z",
@@ -2278,9 +2265,170 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "shekdash",
+        "s": "2026-05-03T23:00:00Z",
+        "e": "2026-05-04T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "shekdash"
+      },
+      {
+        "n": "Pugilist",
+        "s": "2026-05-04T00:00:00Z",
+        "e": "2026-05-04T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "pugilist"
+      },
+      {
+        "n": "CASE",
+        "s": "2026-05-04T01:00:00Z",
+        "e": "2026-05-04T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "case"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-05-04T02:00:00Z",
+        "e": "2026-05-04T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Danny Rankin",
+        "s": "2026-05-04T05:00:00Z",
+        "e": "2026-05-04T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "dannyrankin"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-05-04T06:00:00Z",
+        "e": "2026-05-04T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Tim Garcia",
+        "s": "2026-05-04T08:00:00Z",
+        "e": "2026-05-04T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Donsurf",
+        "s": "2026-05-04T10:00:00Z",
+        "e": "2026-05-04T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "donsurf"
+      },
+      {
+        "n": "Niall Smith",
+        "s": "2026-05-04T11:00:00Z",
+        "e": "2026-05-04T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "niallsmith"
+      },
+      {
+        "n": "Charles Green",
+        "s": "2026-05-04T13:00:00Z",
+        "e": "2026-05-04T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "charlesgreen"
+      },
+      {
+        "n": "Scratcha",
+        "s": "2026-05-04T14:00:00Z",
+        "e": "2026-05-04T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "re:lax",
+        "s": "2026-05-04T16:00:00Z",
+        "e": "2026-05-04T18:00:00Z",
+        "d": null,
+        "j": "lax",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Hessle Audio",
+        "s": "2026-05-04T18:00:00Z",
+        "e": "2026-05-04T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "hessleaudio"
+      },
+      {
+        "n": "Zenker Brothers",
+        "s": "2026-05-04T20:00:00Z",
+        "e": "2026-05-04T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DJ Polo",
+        "s": "2026-05-04T21:00:00Z",
+        "e": "2026-05-04T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "djpolo"
+      },
+      {
+        "n": "Well Street Records",
+        "s": "2026-05-04T22:00:00Z",
+        "e": "2026-05-04T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinsefr": [
+      {
+        "n": "Playlist France",
+        "s": "2026-05-02T19:00:00Z",
+        "e": "2026-05-03T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
       {
         "n": "Playlist France",
         "s": "2026-05-03T07:00:00Z",
@@ -2300,69 +2448,59 @@
         "t": "playlist"
       },
       {
-        "n": "Bé.",
+        "n": "Aho Ssan",
         "s": "2026-05-03T12:00:00Z",
         "e": "2026-05-03T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "Hadj Sameer",
+        "n": "Bloodsport",
         "s": "2026-05-03T13:00:00Z",
         "e": "2026-05-03T14:00:00Z",
         "d": null,
-        "j": "invite Guillermo",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "hadjsameer"
+        "p": "bloodsport"
       },
       {
-        "n": "Finesse Frequency",
+        "n": "Glitter55",
         "s": "2026-05-03T14:00:00Z",
         "e": "2026-05-03T15:00:00Z",
         "d": null,
-        "j": "avec Louis Roméo",
-        "u": null
+        "j": null,
+        "u": null,
+        "t": "monthly"
       },
       {
-        "n": "kIM0 presents POV",
+        "n": "Rythme Brisé",
         "s": "2026-05-03T15:00:00Z",
         "e": "2026-05-03T16:00:00Z",
         "d": null,
-        "j": "\"Adventure Time\" by OLUWA.MP4",
+        "j": "invite System Sol",
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "Bait",
+        "n": "Bambi",
         "s": "2026-05-03T16:00:00Z",
-        "e": "2026-05-03T17:00:00Z",
-        "d": null,
-        "j": "France Focus",
-        "u": null,
-        "t": "biweekly",
-        "p": "bait"
-      },
-      {
-        "n": "Imer6ia",
-        "s": "2026-05-03T17:00:00Z",
         "e": "2026-05-03T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "imer6ia"
+        "t": "monthly",
+        "p": "bambi"
       },
       {
-        "n": "Playlist France",
+        "n": "HALFPIPE RECORDS",
         "s": "2026-05-03T18:00:00Z",
         "e": "2026-05-03T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite BRUX",
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
       {
         "n": "Playlist France",
@@ -2376,19 +2514,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "Hyper Kapital",
-        "s": "2026-05-02T23:00:00Z",
-        "e": "2026-05-03T01:00:00Z",
-        "d": null,
-        "j": "llloyd & Pressing",
-        "u": null,
-        "t": "monthly",
-        "p": "llloyd",
-        "ap": [
-          "pressing"
-        ]
-      },
       {
         "n": "Nascent Attraction",
         "s": "2026-05-03T01:00:00Z",
@@ -2768,6 +2893,19 @@
         "p": "djbuck",
         "ap": [
           "zackzoom"
+        ]
+      },
+      {
+        "n": "37 Degrees",
+        "s": "2026-06-03T00:00:00Z",
+        "e": "2026-06-03T02:00:00Z",
+        "d": null,
+        "j": "Jay3m & Shibumi",
+        "u": null,
+        "t": "monthly",
+        "p": "jay3m",
+        "ap": [
+          "shibumi"
         ]
       }
     ]
