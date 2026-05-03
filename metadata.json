@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-03T20:33:32.185Z",
+  "updated": "2026-05-03T22:32:14.035Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
-        "s": "2026-05-03T20:00:00+01:00",
-        "e": "2026-05-03T22:00:00+01:00",
-        "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
-        "j": "ERNESTO CHAHOUD",
-        "u": "https://www.nts.live/api/v2/shows/ernesto-chahoud/episodes/ernesto-chahoud-3rd-may-2026",
-        "t": "monthly",
-        "p": "ernestochahoud"
-      },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO & MONICA BLAIRE",
         "s": "2026-05-03T22:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "OTOLOGIC (R)",
         "s": "2026-05-04T00:00:00+01:00",
         "e": "2026-05-04T02:00:00+01:00",
-        "d": null,
+        "d": "Australian duo Otologic traverse wave, post punk, outsider club & dubwise meanderings in constant delay.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/otologic/episodes/otologic-15th-december-2025",
         "t": "restream",
         "p": "otologic"
       },
@@ -170,18 +160,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ORGAN TAPES",
+        "s": "2026-05-04T22:00:00+01:00",
+        "e": "2026-05-04T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "organtapes"
       }
     ],
     "nts2": [
-      {
-        "n": "BUMP CITY W/ BILLY GOODS & YAMAGUXXI (R)",
-        "s": "2026-05-03T19:59:00+01:00",
-        "e": "2026-05-03T22:00:00+01:00",
-        "d": "From the host: \"Yamaguxxi & Billy Goods lay down a 2 hour mix of soul, boogie and cosmic funk to ride to. \"",
-        "j": "BILLY GOODS & YAMAGUXXI",
-        "u": "https://www.nts.live/api/v2/shows/billy-goods/episodes/billy-goods-19th-october-2025",
-        "t": "restream"
-      },
       {
         "n": "IN FOCUS: SONIC YOUTH (R)",
         "s": "2026-05-03T22:00:00+01:00",
@@ -196,9 +187,9 @@
         "n": "ADVENTURES W/ CLARISSA CONNELLY (R)",
         "s": "2026-05-04T00:00:00+01:00",
         "e": "2026-05-04T01:00:00+01:00",
-        "d": null,
+        "d": "Musical adventures.",
         "j": "CLARISSA CONNELLY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/clarissa-connelly/episodes/clarissa-connelly-25th-march-2025",
         "t": "restream",
         "p": "clarissaconnelly"
       },
@@ -340,28 +331,18 @@
         "u": null,
         "t": "monthly",
         "p": "smerz"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Kitschko",
-        "s": "2026-05-03T20:00:00Z",
-        "e": "2026-05-03T21:00:00Z",
-        "d": "Born in Sunderland, based in London, Kitschko's productions and selections display a deep appreciation of UK club culture, and an affinity for late night, introspective sounds.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "kitschko"
       },
       {
-        "n": "Envelop",
-        "s": "2026-05-03T21:00:00Z",
-        "e": "2026-05-03T22:00:00Z",
+        "n": "CLAIRE ROUSAY",
+        "s": "2026-05-04T17:00:00+01:00",
+        "e": "2026-05-04T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "p": "clairerousay"
+      }
+    ],
+    "subtle": [
       {
         "n": "Chacho",
         "s": "2026-05-03T22:00:00Z",
@@ -1542,19 +1523,27 @@
         "u": null,
         "t": "monthly",
         "p": "fkof"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Mary Nagakawa – Underscore",
-        "s": "2026-05-03T20:00:00Z",
-        "e": "2026-05-03T21:00:00Z",
+        "n": " Ms. Renegade",
+        "s": "2026-05-10T21:00:00Z",
+        "e": "2026-05-10T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "marynagakawa"
+        "t": "monthly"
       },
+      {
+        "n": "Eva de Ree",
+        "s": "2026-05-10T22:00:00Z",
+        "e": "2026-05-10T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Mas Exitos con Ganas",
         "s": "2026-05-03T21:00:00Z",
@@ -2169,19 +2158,19 @@
         "u": null,
         "t": "monthly",
         "p": "beckyebenkamp"
+      },
+      {
+        "n": "gfunktrece - Escuchar al Istmo",
+        "s": "2026-05-10T21:00:00Z",
+        "e": "2026-05-10T23:00:00Z",
+        "d": null,
+        "j": "Escuchar al Istmo",
+        "u": null,
+        "t": "monthly",
+        "p": "gfunktrece"
       }
     ],
     "rinse": [
-      {
-        "n": "Logan Sama with Rude Kid and Teddy",
-        "s": "2026-05-03T20:00:00Z",
-        "e": "2026-05-03T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "logansama"
-      },
       {
         "n": "Nancy June B2B Mantra with SP:MC",
         "s": "2026-05-03T22:00:00Z",
@@ -2359,15 +2348,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-03T19:00:00Z",
-        "e": "2026-05-04T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-04T07:00:00Z",
         "e": "2026-05-04T10:00:00Z",
         "d": null,
@@ -2391,7 +2371,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Bloodsport",
@@ -2409,7 +2389,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Rythme Brisé",
@@ -2418,7 +2398,7 @@
         "d": null,
         "j": "invite System Sol",
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Bambi",
@@ -2437,7 +2417,7 @@
         "d": null,
         "j": "invite BRUX",
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Playlist France",
