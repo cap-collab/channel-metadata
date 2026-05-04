@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-04T17:23:14.835Z",
+  "updated": "2026-05-04T19:15:39.297Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-05-04T18:00:00+01:00",
-        "e": "2026-05-04T20:00:00+01:00",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": "COCO MARIA",
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-4th-may-2026",
-        "t": "weekly",
-        "p": "cocomaria"
-      },
       {
         "n": "SUNCUT",
         "s": "2026-05-04T20:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "WOODGRAIN w/ DENNIS.EXP",
         "s": "2026-05-04T21:00:00+01:00",
         "e": "2026-05-04T22:00:00+01:00",
-        "d": null,
+        "d": "Dennis specialises in selections ranging from new wave electronics, lo-fi hip-hop, downtempo house and everything in-between. Also a member of the wider music and production group, Woodgrain Vicious. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/baadnews/episodes/baadnews-4th-may-2026"
       },
       {
         "n": "Organ Tapes w/ DJ Corpmane: Hecho En Mexico Mix",
@@ -167,36 +157,25 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Perm Politics w/ Chantal: Slowed",
+        "s": "2026-05-05T22:00:00+01:00",
+        "e": "2026-05-05T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "chantal"
       }
     ],
     "nts2": [
       {
-        "n": "AMBIENT ABRACADABRA W/ SOFIE BIRCH",
-        "s": "2026-05-04T18:00:00+01:00",
-        "e": "2026-05-04T19:00:00+01:00",
-        "d": "Relaxing & spiritual sounds with Copenhagen-based composer & producer Sofie Birch.",
-        "j": "SOFIE BIRCH",
-        "u": "https://www.nts.live/api/v2/shows/sofie-birch/episodes/sofie-birch-4th-may-2026",
-        "t": "monthly",
-        "p": "sofiebirch"
-      },
-      {
-        "n": "Aaron Angell",
-        "s": "2026-05-04T19:00:00+01:00",
-        "e": "2026-05-04T20:00:00+01:00",
-        "d": "Visual artist and ceramicist Aaron Angell plays a vinyl-only monthly selection of music from his collection - usually focussing on guitar soli, privately pressed UK folk, psychedelia, and the occult new age.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/aaron-angell/episodes/aaron-angell-4th-may-2026",
-        "t": "monthly",
-        "p": "aaronangell"
-      },
-      {
         "n": "LE JARDIN W/ SARAH DAVACHI",
         "s": "2026-05-04T20:00:00+01:00",
         "e": "2026-05-04T21:00:00+01:00",
-        "d": null,
+        "d": "Sarah Davachi serenades the LA airwaves once a month with Le Jardin - an amalgamation of progressive rock, acid folk, early music, experimental productions, & minimal sympathetic sounds.\nFrom the host: \"themed focus on South American (primarily Argentinian, Brazilian, and Chilean) prog and folk-rock from the 1970s and early 1980s\"",
         "j": "SARAH DAVACHI",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sarah-davachi/episodes/sarah-davachi-4th-may-2026",
         "t": "monthly",
         "p": "sarahdavachi"
       },
@@ -204,9 +183,9 @@
         "n": "Como La Flor w/ Angelica Makhoul",
         "s": "2026-05-04T21:00:00+01:00",
         "e": "2026-05-04T22:00:00+01:00",
-        "d": null,
+        "d": "Música sentimental for all the sad girls and sad boys.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/jazmin-garcia/episodes/jazmin-garcia-4th-may-2026"
       },
       {
         "n": "Day Care - Journey Through Jazz Funk w/ DJ Randy Ellis & The Alaia of CQQL Records",
@@ -335,28 +314,27 @@
         "u": null,
         "t": "monthly",
         "p": "adultzonly"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Underground Credentials",
-        "s": "2026-05-04T17:00:00Z",
-        "e": "2026-05-04T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "glosssd",
-        "s": "2026-05-04T18:00:00Z",
-        "e": "2026-05-04T19:00:00Z",
+        "n": "YOU'LL SOON KNOW W/ TIM PARKER",
+        "s": "2026-05-05T14:00:00+01:00",
+        "e": "2026-05-05T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "TONE",
+        "s": "2026-05-05T15:00:00+01:00",
+        "e": "2026-05-05T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "glosssd"
-      },
+        "p": "tone"
+      }
+    ],
+    "subtle": [
       {
         "n": "JDubz",
         "s": "2026-05-04T19:00:00Z",
@@ -1504,19 +1482,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "C Frame",
+        "s": "2026-05-11T18:00:00Z",
+        "e": "2026-05-11T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Elrobo's Selectas",
+        "s": "2026-05-11T19:00:00Z",
+        "e": "2026-05-11T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-05-04T17:00:00Z",
-        "e": "2026-05-04T19:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
       {
         "n": "LUPE - RECENTS",
         "s": "2026-05-04T19:00:00Z",
@@ -2129,18 +2115,19 @@
         "u": null,
         "t": "weekly",
         "p": "renecontreras"
+      },
+      {
+        "n": "Colloboh - Everything Inbetween",
+        "s": "2026-05-11T19:00:00Z",
+        "e": "2026-05-11T21:00:00Z",
+        "d": null,
+        "j": "Everything Inbetween",
+        "u": null,
+        "t": "monthly",
+        "p": "colloboh"
       }
     ],
     "rinse": [
-      {
-        "n": "re:lax",
-        "s": "2026-05-04T16:00:00Z",
-        "e": "2026-05-04T18:00:00Z",
-        "d": null,
-        "j": "re:ni B2B Laksa",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Hessle Audio",
         "s": "2026-05-04T18:00:00Z",
@@ -2330,24 +2317,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Bambi b2b Louison",
-        "s": "2026-05-04T16:00:00Z",
-        "e": "2026-05-04T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "bambi"
-      },
-      {
-        "n": "HALFPIPE RECORDS",
-        "s": "2026-05-04T18:00:00Z",
-        "e": "2026-05-04T19:00:00Z",
-        "d": null,
-        "j": "invite BRUX",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-04T19:00:00Z",
