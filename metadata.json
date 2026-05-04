@@ -1,44 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-04T13:24:00.391Z",
+  "updated": "2026-05-04T15:54:41.738Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Melodies International",
-        "s": "2026-05-04T13:00:00+01:00",
-        "e": "2026-05-04T15:00:00+01:00",
-        "d": "From dusty crates and dingy basements to the NTS airwaves - reissue label Melodies International bring special, undiscovered, and beautiful records from across the world their show, every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/melodies-international/episodes/melodies-international-4th-may-2026",
-        "t": "monthly",
-        "p": "melodiesinternational"
-      },
-      {
-        "n": "SYSTEM OLYMPIA - SMALL TALK CHOKEHOLD",
-        "s": "2026-05-04T15:00:00+01:00",
-        "e": "2026-05-04T16:00:00+01:00",
-        "d": "System Olympia joins us for an hour a month.",
-        "j": "SMALL TALK CHOKEHOLD",
-        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-4th-may-2026",
-        "t": "monthly",
-        "p": "systemolympia"
-      },
       {
         "n": "Ohbliv - Smooth Jazz Healing",
         "s": "2026-05-04T16:00:00+01:00",
         "e": "2026-05-04T17:00:00+01:00",
-        "d": null,
+        "d": "Hip-hop and soul-inflected sounds from Richmond's Ohbliv.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ohbliv/episodes/ohbliv-4th-may-2026",
         "p": "ohbliv"
       },
       {
         "n": "ATHENS OF THE NORTH",
         "s": "2026-05-04T17:00:00+01:00",
         "e": "2026-05-04T18:00:00+01:00",
-        "d": null,
+        "d": "Edinburgh based party and reissue label present rarities and classics every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/athens-of-the-north/episodes/athens-of-the-north-4th-may-2026",
         "t": "monthly"
       },
       {
@@ -168,32 +148,36 @@
         "j": null,
         "u": null,
         "p": "anu"
+      },
+      {
+        "n": "Self Soothe w/ Margeaux",
+        "s": "2026-05-05T15:00:00+01:00",
+        "e": "2026-05-05T16:00:00+01:00",
+        "d": null,
+        "j": "Margeaux",
+        "u": null,
+        "t": "weekly",
+        "p": "margeaux"
+      },
+      {
+        "n": "FERGUS CLARK",
+        "s": "2026-05-05T17:00:00+01:00",
+        "e": "2026-05-05T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "fergusclark"
       }
     ],
     "nts2": [
       {
-        "n": "Palestinian Sound Archive w/ Lobna Sana",
-        "s": "2026-05-04T14:00:00+01:00",
-        "e": "2026-05-04T15:00:00+01:00",
-        "d": "Mo'min Swaitat teams up with some of his favourite artists and labels to present his collection of vintage cassettes from Palestine and beyond, including jazz, funk and Bedouin field recordings.\nFrom the host: 'Palestinian Bedouin sound artist Lubna Sana’s mix is inspired by her upbringing in the Naqab and time spent living in Jerusalem and London, coming to terms with the past few years. It includes intimate moments with her mother, a pain-filled chant she sang with her sisters and her favourite Rababa.'",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/palestinian-sound-archive/episodes/palestinian-sound-archive-4th-may-2026"
-      },
-      {
-        "n": "In The Field w/ The Orielles & Eiko",
-        "s": "2026-05-04T15:00:00+01:00",
-        "e": "2026-05-04T16:00:00+01:00",
-        "d": "Recent collaborators The Orielles & Eiko Ishibashi take over for a guest hour, sharing their faves and inspirations, new and old.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/the-orielles-eiko-ishibashi-4th-may-2026"
-      },
-      {
-        "n": "SMERZ",
+        "n": "Smerz w/ Skitne Kroner",
         "s": "2026-05-04T16:00:00+01:00",
         "e": "2026-05-04T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Henriette and Catharina of Smerz take over the NTS airwaves once a month with a selection of classical, folk, ambient, pop and more.",
+        "j": "Skitne Kroner",
+        "u": "https://www.nts.live/api/v2/shows/smerz/episodes/smerz-4th-may-2026",
         "t": "monthly",
         "p": "smerz"
       },
@@ -201,9 +185,9 @@
         "n": "CLAIRE ROUSAY",
         "s": "2026-05-04T17:00:00+01:00",
         "e": "2026-05-04T18:00:00+01:00",
-        "d": null,
+        "d": "Los Angeles producer & sound artist claire rousay journeys through healing plaintive electronics, quotidian field recordings & minimalist compositions.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/claire-rousay/episodes/claire-rousay-4th-may-2026",
         "p": "clairerousay"
       },
       {
@@ -333,28 +317,26 @@
         "u": null,
         "t": "restream",
         "p": "dimensiondoor"
+      },
+      {
+        "n": "NTS Guide to: Sample Drill (R)",
+        "s": "2026-05-05T10:00:00+01:00",
+        "e": "2026-05-05T11:00:00+01:00",
+        "d": null,
+        "j": "Sample Drill",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Adults Play Radio w/ もりばやしみほ",
+        "s": "2026-05-05T11:00:00+01:00",
+        "e": "2026-05-05T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Enable",
-        "s": "2026-05-04T13:00:00Z",
-        "e": "2026-05-04T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "enable"
-      },
-      {
-        "n": "L!pi",
-        "s": "2026-05-04T14:00:00Z",
-        "e": "2026-05-04T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "STEPFWD w/ Masot  ",
         "s": "2026-05-04T15:00:00Z",
@@ -1521,18 +1503,19 @@
         "u": null,
         "t": "monthly",
         "p": "louisselwyn"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-05-04T13:00:00Z",
-        "e": "2026-05-04T15:00:00Z",
+        "n": "UWOT",
+        "s": "2026-05-11T15:00:00Z",
+        "e": "2026-05-11T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "uwot"
+      }
+    ],
+    "dublab": [
       {
         "n": "Thalma de Freitas – THALMA PLAYS BRASIL",
         "s": "2026-05-04T15:00:00Z",
@@ -2146,19 +2129,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Middle Pillar Sounds",
+        "s": "2026-05-11T15:00:00Z",
+        "e": "2026-05-11T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "rinse": [
-      {
-        "n": "Charles Green",
-        "s": "2026-05-04T13:00:00Z",
-        "e": "2026-05-04T14:00:00Z",
-        "d": null,
-        "j": "Phase O’Matic",
-        "u": null,
-        "t": "biweekly",
-        "p": "charlesgreen"
-      },
       {
         "n": "Scratcha",
         "s": "2026-05-04T14:00:00Z",
@@ -2182,7 +2164,7 @@
         "s": "2026-05-04T18:00:00Z",
         "e": "2026-05-04T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ben UFO",
         "u": null,
         "t": "weekly",
         "p": "hessleaudio"
@@ -2366,24 +2348,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Bloodsport",
-        "s": "2026-05-04T13:00:00Z",
-        "e": "2026-05-04T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "bloodsport"
-      },
-      {
-        "n": "Glitter55",
-        "s": "2026-05-04T14:00:00Z",
-        "e": "2026-05-04T15:00:00Z",
-        "d": null,
-        "j": "PRÉSENTE ATAY TIME AVEC DRAGANOV",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Rythme Brisé",
         "s": "2026-05-04T15:00:00Z",
