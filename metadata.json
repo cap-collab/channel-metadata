@@ -1,41 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-05-05T20:54:35.745Z",
+  "updated": "2026-05-05T22:48:06.569Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Trevor Jackson",
-        "s": "2026-05-05T20:00:00+01:00",
-        "e": "2026-05-05T22:00:00+01:00",
-        "d": "Audio-visual adventurer Trevor Jackson presents a broad spectrum of brand new experimental music, along with ancient oddities of every perceivable genre. A fortnightly uncompromising journey into the unexpected.\nMusic for sick minds and warm hearts",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/trevorjackson/episodes/trevorjackson-5th-may-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Perm Politics w/ Chantal: Slowed",
-        "s": "2026-05-05T22:00:00+01:00",
-        "e": "2026-05-05T23:00:00+01:00",
-        "d": "Hosted by Chantal Adams, Perm Politics oscillates between noisier textures, smooth futuristic beats and a myriad of rap/hip-hop offshoots.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/chantal/episodes/chantal-5th-may-2026",
-        "p": "chantal"
-      },
       {
         "n": "angel 60 w/ auntie",
         "s": "2026-05-05T23:00:00+01:00",
         "e": "2026-05-06T00:00:00+01:00",
-        "d": null,
+        "d": "Blistering footwork energy from a rising Milwaukee-based producer.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/angel-60-w-auntie-5th-may-2026"
       },
       {
         "n": "After dark w/ HELM",
         "s": "2026-05-06T00:00:00+01:00",
         "e": "2026-05-06T02:00:00+01:00",
-        "d": null,
+        "d": "Luke Younger heads up 2 hours of weirdo music, experiments and recordings once a month.\nFrom the host: \"Going through cassettes I've acquired in the last 12 months. Fidelity will vary but if it seems poor, it is deliberate.\"",
         "j": "HELM",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/helm/episodes/helm-6th-may-2026",
         "t": "monthly",
         "p": "helm"
       },
@@ -167,19 +149,28 @@
         "j": null,
         "u": null,
         "p": "timreaper"
+      },
+      {
+        "n": "MARTELO",
+        "s": "2026-05-06T20:00:00+01:00",
+        "e": "2026-05-06T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "martelo"
+      },
+      {
+        "n": "HOOVERSOUND w/ FaltyDL",
+        "s": "2026-05-06T21:00:00+01:00",
+        "e": "2026-05-06T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "hooversound"
       }
     ],
     "nts2": [
-      {
-        "n": "TUFF SHED",
-        "s": "2026-05-05T21:00:00+01:00",
-        "e": "2026-05-05T23:00:00+01:00",
-        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-5th-may-2026",
-        "t": "monthly",
-        "p": "tuffshed"
-      },
       {
         "n": "ABBY IMPERIAL w/ TV Blonde",
         "s": "2026-05-05T23:00:00+01:00",
@@ -193,9 +184,9 @@
         "n": "Songs of Praise: Wake The Spirit w/ Ian Isiah (R)",
         "s": "2026-05-06T00:00:00+01:00",
         "e": "2026-05-06T01:00:00+01:00",
-        "d": null,
+        "d": "Cult US R&B icon Ian Isiah is a born performer – and he thanks gospel music for the spark of his musical origins. In this hour long special, Isiah picks out his favourite contemporary gospel records.",
         "j": "Ian Isiah",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/songs-of-praise/episodes/songs-of-praise-guide-to-contemporary-gospel-w-ian-isiah-23rd-june-2024",
         "t": "restream"
       },
       {
@@ -333,26 +324,22 @@
         "j": null,
         "u": null,
         "p": "homeshake"
+      },
+      {
+        "n": "PANORAMA HEAVEN W/ BIANCA LEXIS",
+        "s": "2026-05-06T20:00:00+01:00",
+        "e": "2026-05-06T21:00:00+01:00",
+        "d": null,
+        "j": "BIANCA LEXIS",
+        "u": null,
+        "t": "monthly",
+        "p": "biancalexis",
+        "ap": [
+          "panoramaheaven"
+        ]
       }
     ],
     "subtle": [
-      {
-        "n": "Earnesto’s Essentials",
-        "s": "2026-05-05T20:00:00Z",
-        "e": "2026-05-05T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Stanton",
-        "s": "2026-05-05T21:00:00Z",
-        "e": "2026-05-05T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "stanton"
-      },
       {
         "n": "Minuscule Music Show with Bondy",
         "s": "2026-05-05T22:00:00Z",
@@ -1495,18 +1482,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "DHR Presents",
+        "s": "2026-05-12T21:00:00Z",
+        "e": "2026-05-12T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DCBL",
+        "s": "2026-05-12T22:00:00Z",
+        "e": "2026-05-12T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "OPEN SLOT",
-        "s": "2026-05-05T19:00:00Z",
-        "e": "2026-05-05T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Protect Me – PROPRO’s HIP-HOP PUNK HOUSE",
         "s": "2026-05-05T21:00:00Z",
@@ -2080,25 +2074,6 @@
     ],
     "rinse": [
       {
-        "n": "Surusinghe",
-        "s": "2026-05-05T20:00:00Z",
-        "e": "2026-05-05T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "surusinghe"
-      },
-      {
-        "n": "Kassian",
-        "s": "2026-05-05T21:00:00Z",
-        "e": "2026-05-05T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "kassian"
-      },
-      {
         "n": "Hold A Corner Records",
         "s": "2026-05-05T22:00:00Z",
         "e": "2026-05-05T23:00:00Z",
@@ -2260,15 +2235,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-05T19:00:00Z",
-        "e": "2026-05-05T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-05T22:00:00Z",
