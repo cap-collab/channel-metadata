@@ -1,25 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-05T06:10:14.915Z",
+  "updated": "2026-05-05T09:54:30.805Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ Bitter Babe",
-        "s": "2026-05-05T07:00:00+01:00",
-        "e": "2026-05-05T09:00:00+01:00",
-        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
-        "j": "Bitter Babe",
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-bitter-babe-5th-may-2026",
-        "t": "monthly",
-        "p": "bitterbabe"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-05-05T09:00:00+01:00",
         "e": "2026-05-05T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-5th-may-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -27,15 +17,31 @@
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-05-05T11:00:00+01:00",
         "e": "2026-05-05T13:00:00+01:00",
+        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-5th-may-2026",
+        "p": "anu"
+      },
+      {
+        "n": "SOUND SIGNATURE W/ THEO PARRISH WHODAT MEFTAH IDEEYAH SUPREME MONICA BLAIRE",
+        "s": "2026-05-05T13:00:00+01:00",
+        "e": "2026-05-05T15:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "anu"
+        "u": null
       },
       {
         "n": "Self Soothe w/ more eaze",
         "s": "2026-05-05T15:00:00+01:00",
         "e": "2026-05-05T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Otaku: Parasite Eve",
+        "s": "2026-05-05T16:00:00+01:00",
+        "e": "2026-05-05T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
@@ -160,54 +166,39 @@
         "u": null,
         "t": "weekly",
         "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-05-06T13:00:00+01:00",
+        "e": "2026-05-06T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "SHAKSHOUKA W/ CHEB MIMO (R)",
-        "s": "2026-05-05T07:00:00+01:00",
-        "e": "2026-05-05T08:00:00+01:00",
-        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.\nFrom the host: \"This show is dedicated to Algerian Kabyle folk rock and disco music from the 70s, 80s and 90s, it's to introduce shakshouka records disco singles release of the band Syphax.\"",
-        "j": "CHEB MIMO",
-        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-1st-october-2025",
-        "t": "restream",
-        "p": "chebmimo"
-      },
-      {
-        "n": "NTS Guide to: SPANISH RAP AND RNB (R)",
-        "s": "2026-05-05T08:00:00+01:00",
-        "e": "2026-05-05T09:00:00+01:00",
-        "d": null,
-        "j": "SPANISH RAP AND RNB",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "Dimension Door (R)",
-        "s": "2026-05-05T09:00:00+01:00",
-        "e": "2026-05-05T10:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "dimensiondoor"
-      },
-      {
         "n": "NTS Guide to: Sample Drill (R)",
         "s": "2026-05-05T10:00:00+01:00",
         "e": "2026-05-05T11:00:00+01:00",
-        "d": null,
+        "d": "An hour of cuts from the New York-originating sample drill scene – big, silly pop samples, TikTok dances, hyperspeed drill beats and undeniable fun. ",
         "j": "Sample Drill",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-sample-drill-4th-february-2025",
         "t": "restream"
       },
       {
         "n": "Adults Play Radio w/ もりばやしみほ",
         "s": "2026-05-05T11:00:00+01:00",
         "e": "2026-05-05T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Bi-monthly radio show by Tokyo-based DJ CENTERFOLD and sudden star. Since 2021, they have co-run the event series ether, which sprawls across the city’s landscape—blending electronic and live music, fashion, and art. Adults Play Radio is a sonic love letter to the people they’ve met and the places they find themselves in at each exact moment of delivery.",
+        "j": "もりばやしみほ",
+        "u": "https://www.nts.live/api/v2/shows/adults-play-radio/episodes/adults-play-radio-5th-may-2026",
+        "t": "monthly"
       },
       {
         "n": "LUKID",
@@ -319,36 +310,46 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Low Life Loves You w/ Bill Brewster (R)",
+        "s": "2026-05-06T04:00:00+01:00",
+        "e": "2026-05-06T06:00:00+01:00",
+        "d": null,
+        "j": "Bill Brewster",
+        "u": null,
+        "t": "restream",
+        "p": "billbrewster"
+      },
+      {
+        "n": "Horsegirl Sounds Radio Hour (R)",
+        "s": "2026-05-06T06:00:00+01:00",
+        "e": "2026-05-06T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Séance Centre - Music For Young Lovers (R)",
+        "s": "2026-05-06T07:00:00+01:00",
+        "e": "2026-05-06T08:00:00+01:00",
+        "d": null,
+        "j": "Music For Young Lovers",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Death Is Not The End - Jah Shaka Tribute (R)",
+        "s": "2026-05-06T08:00:00+01:00",
+        "e": "2026-05-06T10:00:00+01:00",
+        "d": null,
+        "j": "Jah Shaka Tribute",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": " Bristalo w/ Indiescotheque",
-        "s": "2026-05-05T06:00:00Z",
-        "e": "2026-05-05T07:00:00Z",
-        "d": null,
-        "j": "Indiescotheque",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-05T07:00:00Z",
-        "e": "2026-05-05T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "TorbM",
-        "s": "2026-05-05T08:00:00Z",
-        "e": "2026-05-05T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Leiiila",
         "s": "2026-05-05T09:00:00Z",
@@ -1510,23 +1511,40 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Breakfast Spoons w/ Boruch",
+        "s": "2026-05-12T07:00:00Z",
+        "e": "2026-05-12T08:00:00Z",
+        "d": null,
+        "j": "Boruch",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Gingerly",
+        "s": "2026-05-12T08:00:00Z",
+        "e": "2026-05-12T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Jenny NONO - SS Extension Course",
-        "s": "2026-05-05T05:00:00Z",
-        "e": "2026-05-05T07:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-05T09:00:00Z",
+        "e": "2026-05-05T11:00:00Z",
         "d": null,
-        "j": "SS Extension Course",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "jennynono"
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-05T07:00:00Z",
-        "e": "2026-05-05T09:00:00Z",
+        "s": "2026-05-05T11:00:00Z",
+        "e": "2026-05-05T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2119,15 +2137,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-05-05T06:00:00Z",
-        "e": "2026-05-05T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Papaoul",
         "s": "2026-05-05T08:00:00Z",
         "e": "2026-05-05T10:00:00Z",
@@ -2141,7 +2150,7 @@
         "s": "2026-05-05T10:00:00Z",
         "e": "2026-05-05T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Some tunes i been bumpingggg",
         "u": null
       },
       {
@@ -2385,15 +2394,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-04T22:00:00Z",
-        "e": "2026-05-05T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-05T07:00:00Z",
         "e": "2026-05-05T12:00:00Z",
         "d": null,
@@ -2402,17 +2402,108 @@
         "t": "playlist"
       },
       {
-        "n": "Chloé Sarraméa",
+        "n": "Lysiane N.",
         "s": "2026-05-05T12:00:00Z",
         "e": "2026-05-05T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Izzy Lindqwister",
+        "s": "2026-05-05T13:00:00Z",
+        "e": "2026-05-05T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "izzylindqwister"
+      },
+      {
+        "n": "Roi Luis - Spiiiiicy!",
+        "s": "2026-05-05T14:00:00Z",
+        "e": "2026-05-05T15:00:00Z",
+        "d": null,
+        "j": "Jodi a : Haitian heritage month w/ Anakadabra",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "restonsflex",
+        "s": "2026-05-05T15:00:00Z",
+        "e": "2026-05-05T16:00:00Z",
+        "d": null,
+        "j": "The Dance Hall Radio Show presents Planet Giza",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Don't stress, be blessed : miss sheitana & renoiterrible",
+        "s": "2026-05-05T16:00:00Z",
+        "e": "2026-05-05T17:00:00Z",
+        "d": null,
+        "j": "invitent imranepresents",
+        "u": null
+      },
+      {
+        "n": "Teddy Kitano B2B Diri Pwa",
+        "s": "2026-05-05T17:00:00Z",
+        "e": "2026-05-05T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "teddykitano"
+      },
+      {
+        "n": "Hewan Aman",
+        "s": "2026-05-05T18:00:00Z",
+        "e": "2026-05-05T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "hewanaman"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-05T19:00:00Z",
+        "e": "2026-05-05T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-05T22:00:00Z",
+        "e": "2026-05-06T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-06T07:00:00Z",
+        "e": "2026-05-06T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Chloé Sarraméa",
+        "s": "2026-05-06T12:00:00Z",
+        "e": "2026-05-06T13:00:00Z",
         "d": null,
         "j": ": PREMIERES W/ CHASSOL",
         "u": null
       },
       {
         "n": "LeZduA",
-        "s": "2026-05-05T13:00:00Z",
-        "e": "2026-05-05T15:00:00Z",
+        "s": "2026-05-06T13:00:00Z",
+        "e": "2026-05-06T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2420,8 +2511,8 @@
       },
       {
         "n": "SAUTI ON AIR",
-        "s": "2026-05-05T15:00:00Z",
-        "e": "2026-05-05T16:00:00Z",
+        "s": "2026-05-06T15:00:00Z",
+        "e": "2026-05-06T16:00:00Z",
         "d": null,
         "j": "Cleido",
         "u": null,
@@ -2429,16 +2520,16 @@
       },
       {
         "n": "Receba Showcase",
-        "s": "2026-05-05T16:00:00Z",
-        "e": "2026-05-05T17:00:00Z",
+        "s": "2026-05-06T16:00:00Z",
+        "e": "2026-05-06T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "La Connect’ avec Le Kaiju",
-        "s": "2026-05-05T17:00:00Z",
-        "e": "2026-05-05T18:00:00Z",
+        "s": "2026-05-06T17:00:00Z",
+        "e": "2026-05-06T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2446,8 +2537,8 @@
       },
       {
         "n": "Lisa More",
-        "s": "2026-05-05T18:00:00Z",
-        "e": "2026-05-05T19:00:00Z",
+        "s": "2026-05-06T18:00:00Z",
+        "e": "2026-05-06T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2456,8 +2547,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-05T19:00:00Z",
-        "e": "2026-05-05T20:00:00Z",
+        "s": "2026-05-06T19:00:00Z",
+        "e": "2026-05-06T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
