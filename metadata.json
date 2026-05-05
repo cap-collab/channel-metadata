@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-05T17:14:37.875Z",
+  "updated": "2026-05-05T19:06:48.925Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "s": "2026-05-05T18:00:00+01:00",
-        "e": "2026-05-05T20:00:00+01:00",
-        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
-        "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-5th-may-2026",
-        "t": "biweekly",
-        "p": "channeling"
-      },
       {
         "n": "Trevor Jackson",
         "s": "2026-05-05T20:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "Perm Politics w/ Chantal: Slowed",
         "s": "2026-05-05T22:00:00+01:00",
         "e": "2026-05-05T23:00:00+01:00",
-        "d": null,
+        "d": "Hosted by Chantal Adams, Perm Politics oscillates between noisier textures, smooth futuristic beats and a myriad of rap/hip-hop offshoots.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/chantal/episodes/chantal-5th-may-2026",
         "p": "chantal"
       },
       {
@@ -168,18 +158,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "TIM REAPER b2b Breakage",
+        "s": "2026-05-06T19:00:00+01:00",
+        "e": "2026-05-06T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "timreaper"
       }
     ],
     "nts2": [
-      {
-        "n": "NTS GUIDE TO: BRAZILIAN JAZZ VOL. 2 (R)",
-        "s": "2026-05-05T18:00:00+01:00",
-        "e": "2026-05-05T20:00:00+01:00",
-        "d": "A further two hours of Brazilian jazz favourites, selected by NTS – featuring Baden Powell, Hermeto Pascoal, Azymuth and more.",
-        "j": "BRAZILIAN JAZZ VOL. 2",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-brazilian-jazz-vol-2-20th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "JONNY MONS",
         "s": "2026-05-05T20:00:00+01:00",
@@ -193,9 +183,9 @@
         "n": "TUFF SHED",
         "s": "2026-05-05T21:00:00+01:00",
         "e": "2026-05-05T23:00:00+01:00",
-        "d": null,
+        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-5th-may-2026",
         "t": "monthly",
         "p": "tuffshed"
       },
@@ -335,28 +325,17 @@
         "u": null,
         "t": "monthly",
         "p": "jenmonroe"
+      },
+      {
+        "n": "Drop Nineteens",
+        "s": "2026-05-06T18:00:00+01:00",
+        "e": "2026-05-06T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": " Karishma",
-        "s": "2026-05-05T17:00:00Z",
-        "e": "2026-05-05T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "karishma"
-      },
-      {
-        "n": "Ro-Motion",
-        "s": "2026-05-05T18:00:00Z",
-        "e": "2026-05-05T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "fantastic w/ absolutely",
         "s": "2026-05-05T19:00:00Z",
@@ -1497,18 +1476,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Joko Homo - Discoteca Imaginaria",
-        "s": "2026-05-05T17:00:00Z",
-        "e": "2026-05-05T19:00:00Z",
+        "n": "Gasp w/ Gabreal",
+        "s": "2026-05-12T18:00:00Z",
+        "e": "2026-05-12T19:00:00Z",
+        "d": null,
+        "j": "Gabreal",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Rodney",
+        "s": "2026-05-12T19:00:00Z",
+        "e": "2026-05-12T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "jokohomo"
-      },
+        "t": "monthly",
+        "p": "rodney"
+      }
+    ],
+    "dublab": [
       {
         "n": "OPEN SLOT",
         "s": "2026-05-05T19:00:00Z",
@@ -2077,19 +2066,19 @@
         "ap": [
           "mikeharding"
         ]
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Dyslecta",
-        "s": "2026-05-05T17:00:00Z",
-        "e": "2026-05-05T18:00:00Z",
+        "n": "Sonrisita – Butterfly Beat",
+        "s": "2026-05-12T19:00:00Z",
+        "e": "2026-05-12T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "dyslecta"
-      },
+        "t": "monthly",
+        "p": "sonrisita"
+      }
+    ],
+    "rinse": [
       {
         "n": "DJ Lag",
         "s": "2026-05-05T18:00:00Z",
@@ -2280,25 +2269,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Teddy Kitano B2B Diri Pwa",
-        "s": "2026-05-05T17:00:00Z",
-        "e": "2026-05-05T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "teddykitano"
-      },
-      {
-        "n": "Hewan Aman",
-        "s": "2026-05-05T18:00:00Z",
-        "e": "2026-05-05T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "hewanaman"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-05T19:00:00Z",
