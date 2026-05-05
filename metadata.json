@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-05T09:54:30.805Z",
+  "updated": "2026-05-05T11:11:53.661Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-05-05T09:00:00+01:00",
-        "e": "2026-05-05T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-5th-may-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-05-05T11:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "SOUND SIGNATURE W/ THEO PARRISH WHODAT MEFTAH IDEEYAH SUPREME MONICA BLAIRE",
         "s": "2026-05-05T13:00:00+01:00",
         "e": "2026-05-05T15:00:00+01:00",
-        "d": null,
+        "d": "Sound signature presents : Sacred Frequencies",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sound-signature-5th-may-2026"
       },
       {
         "n": "Self Soothe w/ more eaze",
@@ -179,34 +169,24 @@
         "ap": [
           "lunchclub"
         ]
+      },
+      {
+        "n": "Namasenda",
+        "s": "2026-05-06T14:00:00+01:00",
+        "e": "2026-05-06T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "NTS Guide to: Sample Drill (R)",
-        "s": "2026-05-05T10:00:00+01:00",
-        "e": "2026-05-05T11:00:00+01:00",
-        "d": "An hour of cuts from the New York-originating sample drill scene – big, silly pop samples, TikTok dances, hyperspeed drill beats and undeniable fun. ",
-        "j": "Sample Drill",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-sample-drill-4th-february-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Adults Play Radio w/ もりばやしみほ",
-        "s": "2026-05-05T11:00:00+01:00",
-        "e": "2026-05-05T12:00:00+01:00",
-        "d": "Bi-monthly radio show by Tokyo-based DJ CENTERFOLD and sudden star. Since 2021, they have co-run the event series ether, which sprawls across the city’s landscape—blending electronic and live music, fashion, and art. Adults Play Radio is a sonic love letter to the people they’ve met and the places they find themselves in at each exact moment of delivery.",
-        "j": "もりばやしみほ",
-        "u": "https://www.nts.live/api/v2/shows/adults-play-radio/episodes/adults-play-radio-5th-may-2026",
-        "t": "monthly"
-      },
-      {
         "n": "LUKID",
         "s": "2026-05-05T12:00:00+01:00",
         "e": "2026-05-05T13:00:00+01:00",
-        "d": null,
+        "d": "A monthly sonic journey from Lukid a.k.a Luke Blair. Expect a slow-burning, cinematic hour of hip-hop, epic psych, dub and synth soundscapes. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lukid/episodes/lukid-5th-may-2026",
         "t": "monthly",
         "p": "lukid"
       },
@@ -214,9 +194,9 @@
         "n": "Adultz Only",
         "s": "2026-05-05T13:00:00+01:00",
         "e": "2026-05-05T14:00:00+01:00",
-        "d": null,
+        "d": "A lovers selection strictly for the adultz, courtesy of Norman Francis - the man behind lovers rock archive The Revival Master.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/adultz-only/episodes/adultz-only-5th-may-2026",
         "t": "monthly",
         "p": "adultzonly"
       },
@@ -347,28 +327,27 @@
         "j": "Jah Shaka Tribute",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "OREN AMBARCHI (R)",
+        "s": "2026-05-06T10:00:00+01:00",
+        "e": "2026-05-06T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "CARLA DAL FORNO",
+        "s": "2026-05-06T11:00:00+01:00",
+        "e": "2026-05-06T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "carladalforno"
       }
     ],
     "subtle": [
-      {
-        "n": "Leiiila",
-        "s": "2026-05-05T09:00:00Z",
-        "e": "2026-05-05T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "leiiila"
-      },
-      {
-        "n": "Octoroots",
-        "s": "2026-05-05T10:00:00Z",
-        "e": "2026-05-05T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Jakesy",
         "s": "2026-05-05T11:00:00Z",
@@ -1529,13 +1508,32 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Lucidik ",
+        "s": "2026-05-12T10:00:00Z",
+        "e": "2026-05-12T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Radio Roshy",
+        "s": "2026-05-12T11:00:00Z",
+        "e": "2026-05-12T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "radioroshy"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-05T09:00:00Z",
-        "e": "2026-05-05T11:00:00Z",
+        "s": "2026-05-05T11:00:00Z",
+        "e": "2026-05-05T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1543,8 +1541,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-05T11:00:00Z",
-        "e": "2026-05-05T13:00:00Z",
+        "s": "2026-05-05T13:00:00Z",
+        "e": "2026-05-05T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2137,20 +2135,19 @@
     ],
     "rinse": [
       {
-        "n": "Papaoul",
-        "s": "2026-05-05T08:00:00Z",
-        "e": "2026-05-05T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Bel Cobain",
         "s": "2026-05-05T10:00:00Z",
         "e": "2026-05-05T12:00:00Z",
         "d": null,
         "j": "Some tunes i been bumpingggg",
+        "u": null
+      },
+      {
+        "n": "Meena Sears",
+        "s": "2026-05-05T11:00:00Z",
+        "e": "2026-05-05T12:00:00Z",
+        "d": null,
+        "j": "Lily London",
         "u": null
       },
       {
@@ -2235,7 +2232,7 @@
         "s": "2026-05-05T22:00:00Z",
         "e": "2026-05-05T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "youwhatmate",
         "u": null
       },
       {
