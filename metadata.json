@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-05T11:11:53.661Z",
+  "updated": "2026-05-05T13:16:36.147Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ ANU",
-        "s": "2026-05-05T11:00:00+01:00",
-        "e": "2026-05-05T13:00:00+01:00",
-        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-5th-may-2026",
-        "p": "anu"
-      },
       {
         "n": "SOUND SIGNATURE W/ THEO PARRISH WHODAT MEFTAH IDEEYAH SUPREME MONICA BLAIRE",
         "s": "2026-05-05T13:00:00+01:00",
@@ -24,9 +15,10 @@
         "n": "Self Soothe w/ more eaze",
         "s": "2026-05-05T15:00:00+01:00",
         "e": "2026-05-05T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.\nFrom the host: \"more eaze: Incredibly, today is Cinco de Mayo and I completely forgot to include any Ween on this tracklist :( Nonetheless, here's a selection of some groovy and occasionally moody tunes I've been listening to a ton recently :)\"",
+        "j": "more eaze",
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-5th-may-2026",
+        "t": "weekly"
       },
       {
         "n": "Otaku: Parasite Eve",
@@ -177,44 +169,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS Guide to: DMZ",
+        "s": "2026-05-06T16:00:00+01:00",
+        "e": "2026-05-06T18:00:00+01:00",
+        "d": null,
+        "j": "DMZ",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "LUKID",
-        "s": "2026-05-05T12:00:00+01:00",
-        "e": "2026-05-05T13:00:00+01:00",
-        "d": "A monthly sonic journey from Lukid a.k.a Luke Blair. Expect a slow-burning, cinematic hour of hip-hop, epic psych, dub and synth soundscapes. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lukid/episodes/lukid-5th-may-2026",
-        "t": "monthly",
-        "p": "lukid"
-      },
-      {
-        "n": "Adultz Only",
-        "s": "2026-05-05T13:00:00+01:00",
-        "e": "2026-05-05T14:00:00+01:00",
-        "d": "A lovers selection strictly for the adultz, courtesy of Norman Francis - the man behind lovers rock archive The Revival Master.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/adultz-only/episodes/adultz-only-5th-may-2026",
-        "t": "monthly",
-        "p": "adultzonly"
-      },
-      {
         "n": "YOU'LL SOON KNOW W/ TIM PARKER",
         "s": "2026-05-05T14:00:00+01:00",
         "e": "2026-05-05T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Tim Parker explores the experimental corners of beats and hip hop, weaving together jazz, underground cuts and global sounds - live once a month from London & Amsterdam.",
+        "j": "TIM PARKER",
+        "u": "https://www.nts.live/api/v2/shows/youll-soon-know/episodes/youll-soon-know-5th-may-2026",
+        "t": "monthly"
       },
       {
         "n": "TONE",
         "s": "2026-05-05T15:00:00+01:00",
         "e": "2026-05-05T16:00:00+01:00",
-        "d": null,
+        "d": "A feel-good hour of deep grooves and soulful selections served up by Tone.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tone/episodes/tone-5th-may-2026",
         "t": "monthly",
         "p": "tone"
       },
@@ -345,28 +327,29 @@
         "j": null,
         "u": null,
         "p": "carladalforno"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Jakesy",
-        "s": "2026-05-05T11:00:00Z",
-        "e": "2026-05-05T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Bass Exchange",
-        "s": "2026-05-05T12:00:00Z",
-        "e": "2026-05-05T13:00:00Z",
+        "n": "ACID MEMORIES W/ ASTRAL VIBES",
+        "s": "2026-05-06T12:00:00+01:00",
+        "e": "2026-05-06T13:00:00+01:00",
+        "d": null,
+        "j": "ASTRAL VIBES",
+        "u": null,
+        "t": "monthly",
+        "p": "acidmemories"
+      },
+      {
+        "n": "SHUKAI",
+        "s": "2026-05-06T13:00:00+01:00",
+        "e": "2026-05-06T14:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "bassexchange"
-      },
+        "p": "shukai"
+      }
+    ],
+    "subtle": [
       {
         "n": "Solly",
         "s": "2026-05-05T13:00:00Z",
@@ -1527,18 +1510,29 @@
         "u": null,
         "t": "monthly",
         "p": "radioroshy"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-05-05T11:00:00Z",
-        "e": "2026-05-05T13:00:00Z",
+        "n": "CONE",
+        "s": "2026-05-12T12:00:00Z",
+        "e": "2026-05-12T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "cone"
       },
+      {
+        "n": "Hyrah ",
+        "s": "2026-05-12T13:00:00Z",
+        "e": "2026-05-12T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "hyrah"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-05-05T13:00:00Z",
@@ -2135,31 +2129,6 @@
     ],
     "rinse": [
       {
-        "n": "Bel Cobain",
-        "s": "2026-05-05T10:00:00Z",
-        "e": "2026-05-05T12:00:00Z",
-        "d": null,
-        "j": "Some tunes i been bumpingggg",
-        "u": null
-      },
-      {
-        "n": "Meena Sears",
-        "s": "2026-05-05T11:00:00Z",
-        "e": "2026-05-05T12:00:00Z",
-        "d": null,
-        "j": "Lily London",
-        "u": null
-      },
-      {
-        "n": "Suzie Bakos",
-        "s": "2026-05-05T12:00:00Z",
-        "e": "2026-05-05T13:00:00Z",
-        "d": null,
-        "j": "Justin Tsang",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "LILA",
         "s": "2026-05-05T13:00:00Z",
         "e": "2026-05-05T14:00:00Z",
@@ -2389,24 +2358,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-05T07:00:00Z",
-        "e": "2026-05-05T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Lysiane N.",
-        "s": "2026-05-05T12:00:00Z",
-        "e": "2026-05-05T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Izzy Lindqwister",
         "s": "2026-05-05T13:00:00Z",
