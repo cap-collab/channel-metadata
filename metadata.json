@@ -1,53 +1,17 @@
 {
   "v": 2,
-  "updated": "2026-05-05T02:01:53.877Z",
+  "updated": "2026-05-05T06:10:14.915Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Theory Therapy",
-        "s": "2026-05-05T03:00:00+01:00",
-        "e": "2026-05-05T04:00:00+01:00",
-        "d": "The Sydney based label and mix series share some of their favourite new music – including tracks from Pavel Milyakov, sleepdial, Alien D and more.  ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/theory-therapy-5th-may-2026"
-      },
-      {
-        "n": "Music For Days Like These w/ John Talabot (R)",
-        "s": "2026-05-05T04:00:00+01:00",
-        "e": "2026-05-05T05:00:00+01:00",
-        "d": "Barcelona based producer, DJ and founder of Hivern Discs John Talabot takes over for his monthly show.",
-        "j": "John Talabot",
-        "u": "https://www.nts.live/api/v2/shows/john-talabot/episodes/music-for-days-like-these-w-john-talabot-11th-may-2018",
-        "t": "restream",
-        "p": "johntalabot"
-      },
-      {
-        "n": "Perfect Lives w/ Bruno  & Daniel (R)",
-        "s": "2026-05-05T05:00:00+01:00",
-        "e": "2026-05-05T06:00:00+01:00",
-        "d": null,
-        "j": "Bruno  & Daniel",
-        "u": null,
-        "t": "restream",
-        "p": "perfectlives"
-      },
-      {
-        "n": "The Head Zone w/ Ripley Johnson (R)",
-        "s": "2026-05-05T06:00:00+01:00",
-        "e": "2026-05-05T07:00:00+01:00",
-        "d": null,
-        "j": "Ripley Johnson",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ Bitter Babe",
         "s": "2026-05-05T07:00:00+01:00",
         "e": "2026-05-05T09:00:00+01:00",
-        "d": null,
+        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
         "j": "Bitter Babe",
-        "u": null,
-        "t": "monthly"
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-bitter-babe-5th-may-2026",
+        "t": "monthly",
+        "p": "bitterbabe"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -167,44 +131,45 @@
         "j": "DUBBY",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2026-05-06T07:00:00+01:00",
+        "e": "2026-05-06T09:00:00+01:00",
+        "d": null,
+        "j": "SPIRIT BLUE",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-05-06T09:00:00+01:00",
+        "e": "2026-05-06T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-05-06T11:00:00+01:00",
+        "e": "2026-05-06T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
       }
     ],
     "nts2": [
       {
-        "n": "Se Queman CDs w/ weed420: Estoy Viviendo (R)",
-        "s": "2026-05-05T03:00:00+01:00",
-        "e": "2026-05-05T04:00:00+01:00",
-        "d": "Played live on Sundays at Juan's house in Naguanagua, Venezuela, the weed420 crew invite you into their world of mind-melting \"epic collages\" of Latin club and pop sounds.",
-        "j": "weed420",
-        "u": "https://www.nts.live/api/v2/shows/weed420/episodes/weed420-1st-april-2026",
-        "t": "restream",
-        "p": "weed420"
-      },
-      {
-        "n": "HIGH JAZZ* W/ ILL DUBIO (R)",
-        "s": "2026-05-05T04:00:00+01:00",
-        "e": "2026-05-05T05:00:00+01:00",
-        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
-        "j": "ILL DUBIO",
-        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-w-ill-dubio-4th-january-2023",
-        "t": "restream"
-      },
-      {
-        "n": "In Focus: Moodyman (R)",
-        "s": "2026-05-05T05:00:00+01:00",
-        "e": "2026-05-05T07:00:00+01:00",
-        "d": null,
-        "j": "Moodyman",
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "SHAKSHOUKA W/ CHEB MIMO (R)",
         "s": "2026-05-05T07:00:00+01:00",
         "e": "2026-05-05T08:00:00+01:00",
-        "d": null,
+        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.\nFrom the host: \"This show is dedicated to Algerian Kabyle folk rock and disco music from the 70s, 80s and 90s, it's to introduce shakshouka records disco singles release of the band Syphax.\"",
         "j": "CHEB MIMO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-1st-october-2025",
         "t": "restream",
         "p": "chebmimo"
       },
@@ -321,13 +286,22 @@
         "p": "tuffshed"
       },
       {
-        "n": "ABBY IMPERIAL",
+        "n": "ABBY IMPERIAL w/ TV Blonde",
         "s": "2026-05-05T23:00:00+01:00",
         "e": "2026-05-06T00:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "p": "abbyimperial"
+      },
+      {
+        "n": "Songs of Praise: Wake The Spirit w/ Ian Isiah (R)",
+        "s": "2026-05-06T00:00:00+01:00",
+        "e": "2026-05-06T01:00:00+01:00",
+        "d": null,
+        "j": "Ian Isiah",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "8ULENTINA",
@@ -337,27 +311,17 @@
         "j": null,
         "u": null,
         "p": "8ulentina"
+      },
+      {
+        "n": "NIGHT SHIFT W/ DIAMONDSTEIN",
+        "s": "2026-05-06T02:00:00+01:00",
+        "e": "2026-05-06T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-05T02:00:00Z",
-        "e": "2026-05-05T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Cartwright ",
-        "s": "2026-05-05T04:00:00Z",
-        "e": "2026-05-05T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " Bristalo w/ Indiescotheque",
         "s": "2026-05-05T06:00:00Z",
@@ -366,6 +330,15 @@
         "j": "Indiescotheque",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-05T07:00:00Z",
+        "e": "2026-05-05T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "TorbM",
@@ -1518,29 +1491,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DJ Moement",
+        "s": "2026-05-12T04:00:00Z",
+        "e": "2026-05-12T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "djmoement"
+      },
+      {
+        "n": "Sparring Sessions",
+        "s": "2026-05-12T06:00:00Z",
+        "e": "2026-05-12T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Trovarsi - Signal",
-        "s": "2026-05-05T02:00:00Z",
-        "e": "2026-05-05T03:00:00Z",
-        "d": null,
-        "j": "Signal",
-        "u": null,
-        "t": "monthly",
-        "p": "trovarsi"
-      },
-      {
-        "n": "Monalisa Murray - Paths of Rhythm",
-        "s": "2026-05-05T03:00:00Z",
-        "e": "2026-05-05T05:00:00Z",
-        "d": null,
-        "j": "Paths of Rhythm",
-        "u": null,
-        "t": "monthly",
-        "p": "monalisa"
-      },
       {
         "n": "Jenny NONO - SS Extension Course",
         "s": "2026-05-05T05:00:00Z",
@@ -1550,6 +1522,15 @@
         "u": null,
         "t": "monthly",
         "p": "jennynono"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-05T07:00:00Z",
+        "e": "2026-05-05T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Gulniyal - gtalks! radio",
@@ -2114,28 +2095,29 @@
         "u": null,
         "t": "monthly",
         "p": "terrellbrooke"
+      },
+      {
+        "n": "Aaron Paar - Stomping Grounds",
+        "s": "2026-05-12T03:00:00Z",
+        "e": "2026-05-12T05:00:00Z",
+        "d": null,
+        "j": "Stomping Grounds",
+        "u": null,
+        "t": "biweekly",
+        "p": "aaronpaar"
+      },
+      {
+        "n": "Daniel T - Crosseyed and Painless",
+        "s": "2026-05-12T05:00:00Z",
+        "e": "2026-05-12T07:00:00Z",
+        "d": null,
+        "j": "Crosseyed and Painless",
+        "u": null,
+        "t": "monthly",
+        "p": "danielt"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-05-05T02:00:00Z",
-        "e": "2026-05-05T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Pugilist",
-        "s": "2026-05-05T05:00:00Z",
-        "e": "2026-05-05T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "pugilist"
-      },
       {
         "n": "Playlist",
         "s": "2026-05-05T06:00:00Z",
@@ -2896,6 +2878,16 @@
         "j": "Seelene",
         "u": null,
         "p": "seelene"
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-06-05T05:00:00Z",
+        "e": "2026-06-05T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
       }
     ]
   }

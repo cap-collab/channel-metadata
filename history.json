@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-05T02:02:27.757Z",
+  "updated": "2026-05-05T06:10:50.247Z",
   "stations": {
     "nts1": [
       {
@@ -1114,7 +1114,8 @@
         "e": "2026-02-23T09:00:00Z",
         "d": "Introducing The Early Bird Show - our radio offering for morning people, hosted by Maria Somerville (Mondays and Tuesdays), Spirit Blue (Wednesdays and Thursdays) and Jack Rollo (Fridays). Weekday mornings, 7-9am.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-bitter-babe-23rd-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-bitter-babe-23rd-february-2026",
+        "p": "bitterbabe"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -1265,7 +1266,8 @@
         "e": "2026-02-24T09:00:00Z",
         "d": "Introducing The Early Bird Show - our radio offering for morning people, hosted by Maria Somerville (Mondays and Tuesdays), Spirit Blue (Wednesdays and Thursdays) and Jack Rollo (Fridays). Weekday mornings, 7-9am.",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-bitter-babe-24th-february-2026"
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-bitter-babe-24th-february-2026",
+        "p": "bitterbabe"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -10735,7 +10737,8 @@
         "e": "2026-04-27T21:00:00+01:00",
         "d": "Access Bitter Babe's personal vault. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/obsidian-dreams-w-bitter-babe/episodes/obsidian-dreams-w-bitter-babe-27th-april-2026"
+        "u": "https://www.nts.live/api/v2/shows/obsidian-dreams-w-bitter-babe/episodes/obsidian-dreams-w-bitter-babe-27th-april-2026",
+        "p": "bitterbabe"
       },
       {
         "n": "mu tate",
@@ -11948,6 +11951,43 @@
         "u": null,
         "t": "monthly",
         "p": "suizhen"
+      },
+      {
+        "n": "Theory Therapy",
+        "s": "2026-05-05T03:00:00+01:00",
+        "e": "2026-05-05T04:00:00+01:00",
+        "d": "The Sydney based label and mix series share some of their favourite new music – including tracks from Pavel Milyakov, sleepdial, Alien D and more.  ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/theory-therapy-5th-may-2026"
+      },
+      {
+        "n": "Music For Days Like These w/ John Talabot (R)",
+        "s": "2026-05-05T04:00:00+01:00",
+        "e": "2026-05-05T05:00:00+01:00",
+        "d": "Barcelona based producer, DJ and founder of Hivern Discs John Talabot takes over for his monthly show.",
+        "j": "John Talabot",
+        "u": "https://www.nts.live/api/v2/shows/john-talabot/episodes/music-for-days-like-these-w-john-talabot-11th-may-2018",
+        "t": "restream",
+        "p": "johntalabot"
+      },
+      {
+        "n": "Perfect Lives w/ Bruno  & Daniel (R)",
+        "s": "2026-05-05T05:00:00+01:00",
+        "e": "2026-05-05T06:00:00+01:00",
+        "d": null,
+        "j": "Bruno  & Daniel",
+        "u": null,
+        "t": "restream",
+        "p": "perfectlives"
+      },
+      {
+        "n": "The Head Zone w/ Ripley Johnson (R)",
+        "s": "2026-05-05T06:00:00+01:00",
+        "e": "2026-05-05T07:00:00+01:00",
+        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
+        "j": "Ripley Johnson",
+        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/the-head-zone-w-ripley-johnson-9th-may-2018",
+        "t": "restream"
       }
     ],
     "nts2": [
@@ -26129,6 +26169,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Se Queman CDs w/ weed420: Estoy Viviendo (R)",
+        "s": "2026-05-05T03:00:00+01:00",
+        "e": "2026-05-05T04:00:00+01:00",
+        "d": "Played live on Sundays at Juan's house in Naguanagua, Venezuela, the weed420 crew invite you into their world of mind-melting \"epic collages\" of Latin club and pop sounds.",
+        "j": "weed420",
+        "u": "https://www.nts.live/api/v2/shows/weed420/episodes/weed420-1st-april-2026",
+        "t": "restream",
+        "p": "weed420"
+      },
+      {
+        "n": "HIGH JAZZ* W/ ILL DUBIO (R)",
+        "s": "2026-05-05T04:00:00+01:00",
+        "e": "2026-05-05T05:00:00+01:00",
+        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
+        "j": "ILL DUBIO",
+        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-w-ill-dubio-4th-january-2023",
+        "t": "restream"
+      },
+      {
+        "n": "In Focus: Moodyman (R)",
+        "s": "2026-05-05T05:00:00+01:00",
+        "e": "2026-05-05T07:00:00+01:00",
+        "d": "For someone who wasn't born there, Kenny Dixon Jr. aka Moodymann might be the most Detroit guy to ever exist.  Moving to the motor city from LA at only three weeks old, he has never \"truly\" left since. His music channels the musical legacy of Black Detroit – transplanted Delta blues, gospel, Motown and Fortune, Stevie Wonder, the Electrifying Mojo and the Belleville Three – with an unassailable verve. His dust-spackled opus \"Silentintroduction\" has hummed continously in the background of house music since its release in 1997, inspiring generations of producers. \nTwo hours of Kenny Dixon Jr. aka Moodymann, selected and mixed by LDLDN. \nPhoto: Donavan Glover",
+        "j": "Moodyman",
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-moodymann-5th-july-2024",
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -39664,6 +39732,33 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-05T02:00:00Z",
+        "e": "2026-05-05T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Cartwright ",
+        "s": "2026-05-05T04:00:00Z",
+        "e": "2026-05-05T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-05T05:00:00Z",
+        "e": "2026-05-05T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "dublab": [
@@ -49053,6 +49148,26 @@
         "u": null,
         "t": "monthly",
         "p": "ellawarren"
+      },
+      {
+        "n": "Trovarsi - Signal",
+        "s": "2026-05-05T02:00:00Z",
+        "e": "2026-05-05T03:00:00Z",
+        "d": null,
+        "j": "Signal",
+        "u": null,
+        "t": "monthly",
+        "p": "trovarsi"
+      },
+      {
+        "n": "Monalisa Murray - Paths of Rhythm",
+        "s": "2026-05-05T03:00:00Z",
+        "e": "2026-05-05T05:00:00Z",
+        "d": null,
+        "j": "Paths of Rhythm",
+        "u": null,
+        "t": "monthly",
+        "p": "monalisa"
       }
     ],
     "rinse": [
@@ -60827,6 +60942,25 @@
         "u": null,
         "t": "weekly",
         "p": "russryan"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-05-05T02:00:00Z",
+        "e": "2026-05-05T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Pugilist",
+        "s": "2026-05-05T05:00:00Z",
+        "e": "2026-05-05T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "pugilist"
       }
     ],
     "rinsefr": [
