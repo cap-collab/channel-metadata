@@ -1,41 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-07T10:14:16.719Z",
+  "updated": "2026-05-07T13:30:20.738Z",
   "stations": {
     "nts1": [
       {
-        "n": "Soup To Nuts w/ ko_ol",
-        "s": "2026-05-07T11:00:00+01:00",
-        "e": "2026-05-07T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-ko_ol-7th-may-2026"
-      },
-      {
-        "n": "DANCE MUSIC SHOW W/ BELL TOWERS",
-        "s": "2026-05-07T13:00:00+01:00",
-        "e": "2026-05-07T14:00:00+01:00",
-        "d": "Prolific producer + DJ from Melbourne, Australia - Bell Towers presents his Dance Music Show.",
-        "j": "BELL TOWERS",
-        "u": "https://www.nts.live/api/v2/shows/bell-towers/episodes/bell-towers-7th-may-2026",
-        "t": "monthly",
-        "p": "belltowers"
-      },
-      {
-        "n": "RHYTHM CONNECTION",
+        "n": "RHYTHM CONNECTION w/ IVY F",
         "s": "2026-05-07T14:00:00+01:00",
         "e": "2026-05-07T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "A monthly journey into H.O.U.S.E. hosted by Dan Beaumont & Nadia Ksaiba featuring interviews & mixes from super special guests. Expect two hours of old bangers and upfront pumpers.",
+        "j": "IVY F",
+        "u": "https://www.nts.live/api/v2/shows/rhythmconnection/episodes/rhythmconnection-7th-may-2026",
+        "t": "monthly"
       },
       {
         "n": "WORK OUT W/ SOFIE K",
         "s": "2026-05-07T16:00:00+01:00",
         "e": "2026-05-07T17:00:00+01:00",
-        "d": null,
+        "d": "Tune in, turn on, clock out. Sofie K brings sleazy synthpop, pumping proto-house and campy club cuts to the NTS studio once a month. ",
         "j": "SOFIE K",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sofie-k/episodes/sofie-k-7th-may-2026",
         "t": "monthly",
         "p": "sofiek"
       },
@@ -47,6 +30,15 @@
         "j": "Goya Gumbani and Dom P",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "NTS Guide to: Madlib's Beat Konducta",
+        "s": "2026-05-07T19:00:00+01:00",
+        "e": "2026-05-07T20:00:00+01:00",
+        "d": null,
+        "j": "Madlib's Beat Konducta",
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "baile da th4ys w/ Erick & Tormenta",
@@ -165,52 +157,35 @@
         "j": null,
         "u": null,
         "p": "rajirags"
+      },
+      {
+        "n": "ADONIS w/ Jay Duncan",
+        "s": "2026-05-08T15:00:00+01:00",
+        "e": "2026-05-08T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "adonis"
       }
     ],
     "nts2": [
       {
-        "n": "JUNE CHIKUMA",
-        "s": "2026-05-07T11:00:00+01:00",
-        "e": "2026-05-07T12:00:00+01:00",
-        "d": "Japanese musician and video game composer June Chikuma, known for her work on the Bomberman series, plays selections from her wide and diverse musical tastes in regular transmissions. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/june-chikuma/episodes/june-chikuma-7th-may-2026",
-        "p": "junechikuma"
-      },
-      {
-        "n": "On the Road w/ Adelina S - Mauritanian Love Letter / Pt. 3",
-        "s": "2026-05-07T12:00:00+01:00",
-        "e": "2026-05-07T13:00:00+01:00",
-        "d": "Traveler and DIY documentarian Adelina S traverses the savannahs and deserts of the Sahel region, recording griots who travel from remote village to village performing to make a living. Through storytelling and field recordings, Adelina shares the winding paths - and the choices - that led to growing close to and be welcomed by this community.\nFrom the host: \"In this episode, I talk about my time spent in Mauritania—a little-known country with rich musical traditions and complex views on relationships. Featuring field recordings, love songs and musical rarities collected from USB music shops in Nouakchott.\"",
-        "j": "Adelina S",
-        "u": "https://www.nts.live/api/v2/shows/blind-in-1-eye/episodes/blind-in-1-eye-7th-may-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "MiNaYo w/ Ruth Tafébé - KEKE KASSIRY, Ziguehi",
-        "s": "2026-05-07T13:00:00+01:00",
-        "e": "2026-05-07T14:00:00+01:00",
-        "d": null,
-        "j": "Ruth Tafébé",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Saint Etienne w/ Sarah Cracknell",
         "s": "2026-05-07T14:00:00+01:00",
         "e": "2026-05-07T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Indie-pop legends Saint Etienne take over NTS for a weekly special residency.",
+        "j": "Sarah Cracknell",
+        "u": "https://www.nts.live/api/v2/shows/saint-etienne/episodes/saint-etienne-sarah-cracknell-7th-may-2026",
+        "t": "weekly",
         "p": "saintetienne"
       },
       {
         "n": "DesiVinyl w/ Ruby Khaira",
         "s": "2026-05-07T15:00:00+01:00",
         "e": "2026-05-07T16:00:00+01:00",
-        "d": null,
+        "d": "Selections from Ruby Khaira, long time record collector with a love of all things Punjabi music. Digging deep into the record crates as a celebration of Punjab's rich musical heritage and worldwide impact. From dance floor Bhangra bangers to desi folk anthems — if it was pressed onto vinyl, it might just get played.",
         "j": "Ruby Khaira",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ruby-khaira/episodes/ruby-khaira-7th-may-2026",
         "t": "monthly",
         "p": "rubykhaira"
       },
@@ -329,36 +304,38 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "LXXXVIII W/ ACTRESS (R)",
+        "s": "2026-05-08T06:00:00+01:00",
+        "e": "2026-05-08T07:00:00+01:00",
+        "d": null,
+        "j": "ACTRESS",
+        "u": null,
+        "t": "restream",
+        "p": "actress"
+      },
+      {
+        "n": "WHY BE (R)",
+        "s": "2026-05-08T07:00:00+01:00",
+        "e": "2026-05-08T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "whybe"
+      },
+      {
+        "n": "Under Sleepy Moon w/ Yawning Portal (R)",
+        "s": "2026-05-08T08:00:00+01:00",
+        "e": "2026-05-08T09:00:00+01:00",
+        "d": null,
+        "j": "Yawning Portal",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "DIASPORA with Ben Fitzperc",
-        "s": "2026-05-07T10:00:00Z",
-        "e": "2026-05-07T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Arriba",
-        "s": "2026-05-07T11:00:00Z",
-        "e": "2026-05-07T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "QUIN-B",
-        "s": "2026-05-07T12:00:00Z",
-        "e": "2026-05-07T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " Start Dancing Now",
         "s": "2026-05-07T13:00:00Z",
@@ -368,6 +345,15 @@
         "u": null,
         "t": "monthly",
         "p": "startdancingnow"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-07T14:00:00Z",
+        "e": "2026-05-07T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Resonant Sound",
@@ -1463,13 +1449,40 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Con Artist",
+        "s": "2026-05-14T11:00:00Z",
+        "e": "2026-05-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Into The Lion's Den w/ Restrikt",
+        "s": "2026-05-14T12:00:00Z",
+        "e": "2026-05-14T13:00:00Z",
+        "d": null,
+        "j": "Restrikt",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Marigold",
+        "s": "2026-05-14T13:00:00Z",
+        "e": "2026-05-14T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-07T09:00:00Z",
-        "e": "2026-05-07T11:00:00Z",
+        "s": "2026-05-07T13:00:00Z",
+        "e": "2026-05-07T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1477,8 +1490,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-07T11:00:00Z",
-        "e": "2026-05-07T13:00:00Z",
+        "s": "2026-05-07T15:00:00Z",
+        "e": "2026-05-07T15:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2047,39 +2060,6 @@
     ],
     "rinse": [
       {
-        "n": "Jordan Mae",
-        "s": "2026-05-07T10:00:00Z",
-        "e": "2026-05-07T11:00:00Z",
-        "d": null,
-        "j": "Soul Selections - In Bloom",
-        "u": null,
-        "t": "weekly",
-        "p": "inbloom",
-        "ap": [
-          "jordanmae"
-        ]
-      },
-      {
-        "n": "Nathan Evans",
-        "s": "2026-05-07T11:00:00Z",
-        "e": "2026-05-07T12:00:00Z",
-        "d": null,
-        "j": "Birthday Special",
-        "u": null,
-        "t": "biweekly",
-        "p": "nathanevans"
-      },
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-05-07T12:00:00Z",
-        "e": "2026-05-07T13:00:00Z",
-        "d": null,
-        "j": "JME In The Mix",
-        "u": null,
-        "t": "weekly",
-        "p": "skvibemaker"
-      },
-      {
         "n": "Mr. Redley presents The Black Wine Club Show",
         "s": "2026-05-07T13:00:00Z",
         "e": "2026-05-07T14:00:00Z",
@@ -2113,7 +2093,7 @@
         "s": "2026-05-07T17:00:00Z",
         "e": "2026-05-07T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Baile Ijó",
         "u": null,
         "t": "biweekly",
         "p": "arthi"
@@ -2310,24 +2290,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-07T07:00:00Z",
-        "e": "2026-05-07T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Léna Daniel",
-        "s": "2026-05-07T12:00:00Z",
-        "e": "2026-05-07T13:00:00Z",
-        "d": null,
-        "j": "Preciouscargo.fm with Felix Gesnouin",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "DOUBLE-O-THEATRE",
         "s": "2026-05-07T13:00:00Z",
