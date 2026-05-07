@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-07T02:03:55.197Z",
+  "updated": "2026-05-07T06:30:07.135Z",
   "stations": {
     "nts1": [
       {
@@ -12294,6 +12294,35 @@
         "j": "Dave ID",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "DON'T TRIP W/ MARGARITA (R)",
+        "s": "2026-05-07T03:00:00+01:00",
+        "e": "2026-05-07T05:00:00+01:00",
+        "d": "Somewhere between banging your head against a brick wall and holding your breath under water.",
+        "j": "MARGARITA",
+        "u": "https://www.nts.live/api/v2/shows/dont-trip/episodes/dont-trip-19th-september-2025",
+        "t": "restream"
+      },
+      {
+        "n": "SARA A (R)",
+        "s": "2026-05-07T05:00:00+01:00",
+        "e": "2026-05-07T06:00:00+01:00",
+        "d": "Lesser heard sounds with a focus on femmes in punk from artist and musician Sara A.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-28th-july-2023",
+        "t": "restream",
+        "p": "saraa"
+      },
+      {
+        "n": "KRANKY (R)",
+        "s": "2026-05-07T06:00:00+01:00",
+        "e": "2026-05-07T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "kranky"
       }
     ],
     "nts2": [
@@ -16169,7 +16198,8 @@
         "d": "Sematary (fka Grave Man), a key figure in cult new wave drill and horrorcore collective Haunted Mound presents his monthly NTS Show.",
         "j": "MOUNDRICH RADIO 2",
         "u": "https://www.nts.live/api/v2/shows/sematary/episodes/sematary-12th-march-2026",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "sematary"
       },
       {
         "n": "Underground & Black w/ Ash Lauryn (R)",
@@ -21555,7 +21585,8 @@
         "d": "Sematary (aka Grave Man), a key figure in cult new wave drill and horrorcore collective Haunted Mound presents his monthly NTS Show.",
         "j": "MOUNDRICH RADIO 3",
         "u": "https://www.nts.live/api/v2/shows/sematary/episodes/sematary-9th-april-2026",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "sematary"
       },
       {
         "n": "NTS GUIDE TO: 2010S VAPORWAVE (R)",
@@ -24249,7 +24280,8 @@
         "d": "Indie-pop legends Saint Etienne take over NTS for a weekly special residency.",
         "j": "Bob Stanley",
         "u": "https://www.nts.live/api/v2/shows/saint-etienne/episodes/saint-etienne-bob-stanley-23rd-april-2026",
-        "t": "weekly"
+        "t": "weekly",
+        "p": "saintetienne"
       },
       {
         "n": "TOM FURSE",
@@ -25612,7 +25644,8 @@
         "d": "Indie-pop legends Saint Etienne take over NTS for a weekly special residency.",
         "j": "Pete Wiggs",
         "u": "https://www.nts.live/api/v2/shows/saint-etienne/episodes/saint-etienne-30th-april-2026",
-        "t": "weekly"
+        "t": "weekly",
+        "p": "saintetienne"
       },
       {
         "n": "GEORGIA",
@@ -26860,6 +26893,49 @@
         "j": null,
         "u": null,
         "p": "civilizationradio"
+      },
+      {
+        "n": "Club Aerobics w/ Bianca Oblivion & Laz",
+        "s": "2026-05-07T03:00:00+01:00",
+        "e": "2026-05-07T04:00:00+01:00",
+        "d": "LA-based DJ and producer Bianca Oblivion highlights dance floor gems from artists worldwide. Featuring special guests every month. Make ‘em sweat.\nFrom the host: \"This week we have Laz, and up a coming DJ from Los Angeles bringing a us a mix full of bright melodies and vibey house cuts. It's soulful, bouncy, and a perfect way to kick off the summer season.\"",
+        "j": "Bianca Oblivion & Laz",
+        "u": "https://www.nts.live/api/v2/shows/club-aerobics/episodes/club-aerobics-7th-may-2026",
+        "t": "monthly",
+        "p": "biancaoblivion",
+        "ap": [
+          "clubaerobics",
+          "clubaerobics"
+        ]
+      },
+      {
+        "n": "System Olympia (R)",
+        "s": "2026-05-07T04:00:00+01:00",
+        "e": "2026-05-07T05:00:00+01:00",
+        "d": "System Olympia joins us for an hour a month.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-30th-march-2019",
+        "t": "restream",
+        "p": "systemolympia"
+      },
+      {
+        "n": "In Focus: The Blue Nile",
+        "s": "2026-05-07T05:00:00+01:00",
+        "e": "2026-05-07T06:00:00+01:00",
+        "d": null,
+        "j": "The Blue Nile",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Awe w/ Laurel Halo (R)",
+        "s": "2026-05-07T06:00:00+01:00",
+        "e": "2026-05-07T07:00:00+01:00",
+        "d": null,
+        "j": "Laurel Halo",
+        "u": null,
+        "t": "restream",
+        "p": "laurelhalo"
       }
     ],
     "subtle": [
@@ -40810,6 +40886,33 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-07T02:00:00Z",
+        "e": "2026-05-07T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Wandah",
+        "s": "2026-05-07T03:00:00Z",
+        "e": "2026-05-07T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-07T04:00:00Z",
+        "e": "2026-05-07T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "dublab": [
@@ -50447,6 +50550,26 @@
         "u": null,
         "t": "monthly",
         "p": "insheepsclothing"
+      },
+      {
+        "n": "Kins – Footnotes",
+        "s": "2026-05-07T01:00:00Z",
+        "e": "2026-05-07T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kins"
+      },
+      {
+        "n": "GOGO – The Wavelength",
+        "s": "2026-05-07T03:00:00Z",
+        "e": "2026-05-07T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "gogo"
       }
     ],
     "rinse": [
@@ -62544,6 +62667,25 @@
         "u": null,
         "t": "biweekly",
         "p": "dyslecta"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-05-07T01:00:00Z",
+        "e": "2026-05-07T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "LILA",
+        "s": "2026-05-07T05:00:00Z",
+        "e": "2026-05-07T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "lila"
       }
     ],
     "rinsefr": [
@@ -74248,6 +74390,35 @@
         "u": null,
         "t": "monthly",
         "p": "lilsur"
+      },
+      {
+        "n": "the moment",
+        "s": "2026-05-07T02:00:00Z",
+        "e": "2026-05-07T03:00:00Z",
+        "d": null,
+        "j": "just another bitch",
+        "u": null,
+        "t": "monthly",
+        "p": "justanotherbitch"
+      },
+      {
+        "n": "ek",
+        "s": "2026-05-07T03:00:00Z",
+        "e": "2026-05-07T04:00:00Z",
+        "d": null,
+        "j": "ek",
+        "u": null,
+        "t": "monthly",
+        "p": "ek"
+      },
+      {
+        "n": "A / Void",
+        "s": "2026-05-07T04:00:00Z",
+        "e": "2026-05-07T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ]
   }

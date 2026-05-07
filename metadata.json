@@ -1,53 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-05-07T02:03:22.057Z",
+  "updated": "2026-05-07T06:29:32.950Z",
   "stations": {
     "nts1": [
       {
-        "n": "DON'T TRIP W/ MARGARITA (R)",
-        "s": "2026-05-07T03:00:00+01:00",
-        "e": "2026-05-07T05:00:00+01:00",
-        "d": "Somewhere between banging your head against a brick wall and holding your breath under water.",
-        "j": "MARGARITA",
-        "u": "https://www.nts.live/api/v2/shows/dont-trip/episodes/dont-trip-19th-september-2025",
-        "t": "restream"
-      },
-      {
-        "n": "SARA A (R)",
-        "s": "2026-05-07T05:00:00+01:00",
-        "e": "2026-05-07T06:00:00+01:00",
-        "d": "Lesser heard sounds with a focus on femmes in punk from artist and musician Sara A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-28th-july-2023",
-        "t": "restream",
-        "p": "saraa"
-      },
-      {
-        "n": "KRANKY (R)",
-        "s": "2026-05-07T06:00:00+01:00",
-        "e": "2026-05-07T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "kranky"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "n": "THE EARLY BIRD SHOW W/ PAM & n!ls",
         "s": "2026-05-07T07:00:00+01:00",
         "e": "2026-05-07T09:00:00+01:00",
-        "d": null,
-        "j": "PAM",
-        "u": null,
-        "t": "biweekly"
+        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-7th-may-2026"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-05-07T09:00:00+01:00",
         "e": "2026-05-07T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-7th-may-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -165,68 +135,54 @@
         "u": null,
         "t": "restream",
         "p": "alicia"
+      },
+      {
+        "n": "Crossed Wires w/ Amanda Siegel (R)",
+        "s": "2026-05-08T05:00:00+01:00",
+        "e": "2026-05-08T07:00:00+01:00",
+        "d": null,
+        "j": "Amanda Siegel",
+        "u": null,
+        "t": "restream",
+        "p": "amandasiegel"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "s": "2026-05-08T07:00:00+01:00",
+        "e": "2026-05-08T09:00:00+01:00",
+        "d": null,
+        "j": "JACK ROLLO",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ Fergus Clark",
+        "s": "2026-05-08T09:00:00+01:00",
+        "e": "2026-05-08T11:00:00+01:00",
+        "d": null,
+        "j": "Fergus Clark",
+        "u": null,
+        "t": "monthly",
+        "p": "fergusclark"
       }
     ],
     "nts2": [
       {
-        "n": "Club Aerobics w/ Bianca Oblivion & Laz",
-        "s": "2026-05-07T03:00:00+01:00",
-        "e": "2026-05-07T04:00:00+01:00",
-        "d": "LA-based DJ and producer Bianca Oblivion highlights dance floor gems from artists worldwide. Featuring special guests every month. Make ‘em sweat.\nFrom the host: \"This week we have Laz, and up a coming DJ from Los Angeles bringing a us a mix full of bright melodies and vibey house cuts. It's soulful, bouncy, and a perfect way to kick off the summer season.\"",
-        "j": "Bianca Oblivion & Laz",
-        "u": "https://www.nts.live/api/v2/shows/club-aerobics/episodes/club-aerobics-7th-may-2026",
-        "t": "monthly",
-        "p": "biancaoblivion",
-        "ap": [
-          "clubaerobics",
-          "clubaerobics"
-        ]
-      },
-      {
-        "n": "System Olympia (R)",
-        "s": "2026-05-07T04:00:00+01:00",
-        "e": "2026-05-07T05:00:00+01:00",
-        "d": "System Olympia joins us for an hour a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-30th-march-2019",
-        "t": "restream",
-        "p": "systemolympia"
-      },
-      {
-        "n": "In Focus: The Blue Nile",
-        "s": "2026-05-07T05:00:00+01:00",
-        "e": "2026-05-07T06:00:00+01:00",
-        "d": null,
-        "j": "The Blue Nile",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Awe w/ Laurel Halo (R)",
-        "s": "2026-05-07T06:00:00+01:00",
-        "e": "2026-05-07T07:00:00+01:00",
-        "d": null,
-        "j": "Laurel Halo",
-        "u": null,
-        "t": "restream",
-        "p": "laurelhalo"
-      },
-      {
         "n": "ANADOL (R)",
         "s": "2026-05-07T07:00:00+01:00",
         "e": "2026-05-07T08:00:00+01:00",
-        "d": null,
+        "d": "Anadol's selection for NTS. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/anadol/episodes/anadol-5th-october-2024",
         "t": "restream"
       },
       {
         "n": "HOUSE CALL (R)",
         "s": "2026-05-07T08:00:00+01:00",
         "e": "2026-05-07T09:00:00+01:00",
-        "d": null,
+        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-28th-september-2025",
         "t": "restream"
       },
       {
@@ -271,7 +227,8 @@
         "e": "2026-05-07T15:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "saintetienne"
       },
       {
         "n": "DesiVinyl w/ Ruby Khaira",
@@ -329,34 +286,51 @@
         "p": "temporalcove"
       },
       {
-        "n": "SEMATARY",
+        "n": "SEMATARY - MOUNDRICH RADIO 4",
         "s": "2026-05-07T21:00:00+01:00",
         "e": "2026-05-07T22:00:00+01:00",
         "d": null,
+        "j": "MOUNDRICH RADIO 4",
+        "u": null,
+        "t": "monthly",
+        "p": "sematary"
+      },
+      {
+        "n": "Alex Ho & Damon Palermo",
+        "s": "2026-05-07T22:00:00+01:00",
+        "e": "2026-05-07T23:00:00+01:00",
+        "d": null,
         "j": null,
+        "u": null
+      },
+      {
+        "n": "Presence w/ whatever51",
+        "s": "2026-05-07T23:00:00+01:00",
+        "e": "2026-05-08T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "No Bells w/ Mano Sundaresan",
+        "s": "2026-05-08T00:00:00+01:00",
+        "e": "2026-05-08T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "nobells"
+      },
+      {
+        "n": "TeamSESH w/ HNRK",
+        "s": "2026-05-08T01:00:00+01:00",
+        "e": "2026-05-08T02:00:00+01:00",
+        "d": null,
+        "j": "HNRK",
         "u": null,
         "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-07T02:00:00Z",
-        "e": "2026-05-07T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Wandah",
-        "s": "2026-05-07T03:00:00Z",
-        "e": "2026-05-07T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Lauden ",
         "s": "2026-05-07T06:00:00Z",
@@ -366,6 +340,15 @@
         "u": null,
         "t": "monthly",
         "p": "lauden"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-07T07:00:00Z",
+        "e": "2026-05-07T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": " In The Rotation w/ Su",
@@ -1479,29 +1462,18 @@
         "u": null,
         "t": "monthly",
         "p": "rowthedecks"
+      },
+      {
+        "n": "kikitza",
+        "s": "2026-05-14T03:00:00Z",
+        "e": "2026-05-14T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Kins – Footnotes",
-        "s": "2026-05-07T01:00:00Z",
-        "e": "2026-05-07T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "kins"
-      },
-      {
-        "n": "GOGO – The Wavelength",
-        "s": "2026-05-07T03:00:00Z",
-        "e": "2026-05-07T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "gogo"
-      },
       {
         "n": "James Axon - Hearing Color",
         "s": "2026-05-07T05:00:00Z",
@@ -1511,6 +1483,15 @@
         "u": null,
         "t": "monthly",
         "p": "jamesaxon"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-07T07:00:00Z",
+        "e": "2026-05-07T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -2051,28 +2032,29 @@
         "u": null,
         "t": "monthly",
         "p": "byronwestbrook"
+      },
+      {
+        "n": "Rusty Santos - Microworlds",
+        "s": "2026-05-14T03:00:00Z",
+        "e": "2026-05-14T05:00:00Z",
+        "d": null,
+        "j": "Microworlds",
+        "u": null,
+        "t": "monthly",
+        "p": "rustysantos"
+      },
+      {
+        "n": "Richard Chartier – between two points",
+        "s": "2026-05-14T05:00:00Z",
+        "e": "2026-05-14T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "richardchartier"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-05-07T01:00:00Z",
-        "e": "2026-05-07T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "LILA",
-        "s": "2026-05-07T05:00:00Z",
-        "e": "2026-05-07T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "lila"
-      },
       {
         "n": "Playlist",
         "s": "2026-05-07T06:00:00Z",
@@ -2441,35 +2423,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "the moment",
-        "s": "2026-05-07T02:00:00Z",
-        "e": "2026-05-07T03:00:00Z",
-        "d": null,
-        "j": "just another bitch",
-        "u": null,
-        "t": "monthly",
-        "p": "justanotherbitch"
-      },
-      {
-        "n": "ek",
-        "s": "2026-05-07T03:00:00Z",
-        "e": "2026-05-07T04:00:00Z",
-        "d": null,
-        "j": "ek",
-        "u": null,
-        "t": "monthly",
-        "p": "ek"
-      },
-      {
-        "n": "A / Void",
-        "s": "2026-05-07T04:00:00Z",
-        "e": "2026-05-07T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "TVOD",
         "s": "2026-05-07T05:00:00Z",
