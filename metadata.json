@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-08T11:03:50.800Z",
+  "updated": "2026-05-08T13:14:02.591Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ SCARY THINGS",
-        "s": "2026-05-08T11:00:00+01:00",
-        "e": "2026-05-08T13:00:00+01:00",
-        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
-        "j": "SCARY THINGS",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-8th-may-2026",
-        "t": "biweekly",
-        "p": "scarythings"
-      },
       {
         "n": "RAJI RAGS",
         "s": "2026-05-08T13:00:00+01:00",
@@ -27,9 +17,10 @@
         "n": "ADONIS",
         "s": "2026-05-08T15:00:00+01:00",
         "e": "2026-05-08T16:00:00+01:00",
-        "d": null,
+        "d": "Iconic queer party crew Adonis showcase their residents on a monthly rotation live from the London studio.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/adonis/episodes/adonis-8th-may-2026",
+        "t": "monthly",
         "p": "adonis"
       },
       {
@@ -167,17 +158,19 @@
         "u": null,
         "t": "restream",
         "p": "desirepaths"
+      },
+      {
+        "n": "RAGA VIBRATIONS",
+        "s": "2026-05-09T08:00:00+01:00",
+        "e": "2026-05-09T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ragavibrations"
       }
     ],
     "nts2": [
-      {
-        "n": "Morsels",
-        "s": "2026-05-08T12:00:00+01:00",
-        "e": "2026-05-08T14:00:00+01:00",
-        "d": "The minds behind boutique UK label tasty morsels, responsible for releases by h hunt, infinite bisous and more takes over for a guest selection. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/morsels-8th-may-2026"
-      },
       {
         "n": "Fine w/  Koilwood - goodbye tawny mix",
         "s": "2026-05-08T14:00:00+01:00",
@@ -191,9 +184,10 @@
         "n": "The Ty Cobb Cocktail W/ Tommy Malekoff & Calvin LeCompte",
         "s": "2026-05-08T15:00:00+01:00",
         "e": "2026-05-08T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…\nFrom the host: _\"NTS presents The Ty Cobb Cocktail, a special broadcast assembled by Tommy Malekoff and Calvin LeCompte as a companion piece to Fu Lai Cai Lai 5 Seas Legends. The mix draws from the musical language and source material surrounding the project. \nAvailable through Maximum Exposure Inc. May 11, 2026\"_",
+        "j": "Tommy Malekoff & Calvin LeCompte",
+        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-8th-may-2026",
+        "t": "monthly"
       },
       {
         "n": "CREEP ZONE W/ JAMES PANTS & MARC SCHALLER",
@@ -349,28 +343,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Enter The Portal (R)",
+        "s": "2026-05-09T09:00:00+01:00",
+        "e": "2026-05-09T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Electrolytes with Joly",
-        "s": "2026-05-08T11:00:00Z",
-        "e": "2026-05-08T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "electrolyteswithjoly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-08T12:00:00Z",
-        "e": "2026-05-08T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Sauce Collective ",
         "s": "2026-05-08T13:00:00Z",
@@ -1489,13 +1473,23 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Rebello",
+        "s": "2026-05-15T13:00:00Z",
+        "e": "2026-05-15T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "rebello"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-08T11:00:00Z",
-        "e": "2026-05-08T13:00:00Z",
+        "s": "2026-05-08T13:00:00Z",
+        "e": "2026-05-08T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2094,16 +2088,6 @@
     ],
     "rinse": [
       {
-        "n": "Uncle Dugs",
-        "s": "2026-05-08T10:00:00Z",
-        "e": "2026-05-08T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "uncledugs"
-      },
-      {
         "n": "The MoodSwing Show",
         "s": "2026-05-08T13:00:00Z",
         "e": "2026-05-08T15:00:00Z",
@@ -2241,7 +2225,7 @@
         "s": "2026-05-09T14:00:00Z",
         "e": "2026-05-09T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "OMRI.",
         "u": null,
         "t": "biweekly",
         "p": "paradise"
@@ -2297,24 +2281,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-08T07:00:00Z",
-        "e": "2026-05-08T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Club Mycélium",
-        "s": "2026-05-08T12:00:00Z",
-        "e": "2026-05-08T13:00:00Z",
-        "d": null,
-        "j": "La lutte des classes dans les musiques électroniques",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Flegon",
         "s": "2026-05-08T13:00:00Z",
@@ -2441,7 +2407,7 @@
         "s": "2026-05-09T17:00:00Z",
         "e": "2026-05-09T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "MYN invite LAKE HAZE",
         "u": null,
         "t": "monthly",
         "p": "publicsystemrecordings"
