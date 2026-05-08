@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-08T07:17:03.549Z",
+  "updated": "2026-05-08T09:06:22.309Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & The Sleeves",
-        "s": "2026-05-08T07:00:00+01:00",
-        "e": "2026-05-08T09:00:00+01:00",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-8th-may-2026"
-      },
       {
         "n": "The NTS Breakfast Show w/ Fergus Clark",
         "s": "2026-05-08T09:00:00+01:00",
@@ -25,9 +17,9 @@
         "n": "SOUP TO NUTS W/ SCARY THINGS",
         "s": "2026-05-08T11:00:00+01:00",
         "e": "2026-05-08T13:00:00+01:00",
-        "d": null,
+        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
         "j": "SCARY THINGS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-8th-may-2026",
         "t": "biweekly",
         "p": "scarythings"
       },
@@ -122,6 +114,16 @@
         "u": null
       },
       {
+        "n": "MOBILEGIRL (R)",
+        "s": "2026-05-09T00:00:00+01:00",
+        "e": "2026-05-09T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "mobilegirl"
+      },
+      {
         "n": "OHBLIV (R)",
         "s": "2026-05-09T01:00:00+01:00",
         "e": "2026-05-09T02:00:00+01:00",
@@ -170,15 +172,6 @@
     ],
     "nts2": [
       {
-        "n": "Under Sleepy Moon w/ Yawning Portal (R)",
-        "s": "2026-05-08T08:00:00+01:00",
-        "e": "2026-05-08T09:00:00+01:00",
-        "d": "Zzzzzzzzzzzz… Shhhh… There's a baby sleeping in the house!",
-        "j": "Yawning Portal",
-        "u": "https://www.nts.live/api/v2/shows/under-sleepy-moon/episodes/under-sleepy-moon-6th-october-2025",
-        "t": "restream"
-      },
-      {
         "n": "VIBRATIONS FOR A BETTER WORLD W/ AOKI TAKAMASA (R)",
         "s": "2026-05-08T09:00:00+01:00",
         "e": "2026-05-08T11:00:00+01:00",
@@ -192,9 +185,9 @@
         "n": "In Focus: Frank Chickens",
         "s": "2026-05-08T11:00:00+01:00",
         "e": "2026-05-08T12:00:00+01:00",
-        "d": null,
+        "d": "\"We are Ninjas, not geishas!\" \nFrank Chickens were a delightful anomaly in the timeline of 1980s British pop music. Formed around the core duo of musicians, artists, actors, and performance artists Kazuko Hohki and Kazumi Taguchi, a host of Japanese Londoners took part in a project that was part music, part performance theatre. \nNamed after a brand of Japanese pencil, Frank Chickens weaponised Japanese cultural stereotypes and kitsch aesthetics to skewer Western ignroance, as well as criticise certain Japanese social mores. Their uncategorizable brand of pop music, brimming with playful experimentation, was produced by UK art-pop and avant-garde legends David Toop and Steve Beresford, and set them apart from any novelty one hit wonders. \nSelected and mixed by Rose Deluxe.",
         "j": "Frank Chickens",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-frank-chickens-8th-may-2026",
         "t": "weekly"
       },
       {
@@ -225,11 +218,20 @@
       {
         "n": "CREEP ZONE W/ JAMES PANTS & MARC SCHALLER",
         "s": "2026-05-08T16:00:00+01:00",
-        "e": "2026-05-08T17:00:00+01:00",
+        "e": "2026-05-08T16:59:00+01:00",
         "d": null,
         "j": "JAMES PANTS & MARC SCHALLER",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CAROLINA SOUL - PSYCH OUT (R)",
+        "s": "2026-05-08T16:59:00+01:00",
+        "e": "2026-05-08T19:00:00+01:00",
+        "d": null,
+        "j": "PSYCH OUT",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "BRADEN WELLS",
@@ -331,18 +333,26 @@
         "u": null,
         "t": "restream",
         "p": "boombip"
+      },
+      {
+        "n": "Bodywork w/ Nana XOXO",
+        "s": "2026-05-09T04:00:00+01:00",
+        "e": "2026-05-09T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CDMX TAPES W/ TEZCATLIPOCA SOUNDSISTEMA & ADAKEO (R)",
+        "s": "2026-05-09T05:00:00+01:00",
+        "e": "2026-05-09T07:00:00+01:00",
+        "d": null,
+        "j": "TEZCATLIPOCA SOUNDSISTEMA & ADAKEO",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-08T04:00:00Z",
-        "e": "2026-05-08T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Holy Crow w/ Isis Moray",
         "s": "2026-05-08T09:00:00Z",
@@ -1462,13 +1472,22 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Ozzy",
+        "s": "2026-05-15T09:00:00Z",
+        "e": "2026-05-15T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-08T07:00:00Z",
-        "e": "2026-05-08T09:00:00Z",
+        "s": "2026-05-08T09:00:00Z",
+        "e": "2026-05-08T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1476,8 +1495,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-08T09:00:00Z",
-        "e": "2026-05-08T11:00:00Z",
+        "s": "2026-05-08T11:00:00Z",
+        "e": "2026-05-08T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2075,15 +2094,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-05-08T06:00:00Z",
-        "e": "2026-05-08T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Breakfast with IG Culture",
         "s": "2026-05-08T08:00:00Z",
