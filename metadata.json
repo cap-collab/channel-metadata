@@ -1,39 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-05-08T20:49:25.795Z",
+  "updated": "2026-05-08T22:46:52.904Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Origins w/ Kevin Saunderson",
-        "s": "2026-05-08T21:00:00+01:00",
-        "e": "2026-05-08T22:00:00+01:00",
-        "d": "Journeys through the past, present, and future of dance culture with The co-founder of techno and elevator of house music, Kevin Saunderson. Expect deep blends of house, techno, electro, and disco alongside stories of the scenes and sounds that shaped them.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kevin-saunderson/episodes/kevin-saunderson-8th-may-2026"
-      },
-      {
-        "n": "DEEP MEDI - Berlin W/ender w/ Orson",
-        "s": "2026-05-08T22:00:00+01:00",
-        "e": "2026-05-08T23:00:00+01:00",
-        "d": "Bass weight and sound system musik from DEEP MEDi - sharing styles from the label's new crop of producers, and picking out gems from their 150+ releases back catalogue. KEEP YOUR MEDi DEEP\nFrom the host: _\"Ahead of Orson joining our Dub Cafe x DEEP MEDi W/ender on 15/16/17th May in Berlin, the Version label boss shares his fav dubstep tracks of the moment.\nStrap in to hear how the dj, producer with \"two decades as dubstep’s chief ambassador in Germany\" does it!\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/deep-medi/episodes/deep-medi-8th-may-2026"
-      },
       {
         "n": "Cakedog",
         "s": "2026-05-08T23:00:00+01:00",
         "e": "2026-05-09T00:00:00+01:00",
-        "d": null,
+        "d": "Virginia footwork producer Cakedog goes in for an hour long guest mix.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/cakedog-8th-may-2026"
       },
       {
         "n": "MOBILEGIRL (R)",
         "s": "2026-05-09T00:00:00+01:00",
         "e": "2026-05-09T01:00:00+01:00",
-        "d": null,
+        "d": "Live for a guest hour, Berlin-based DJ mobilegirl plays some all time favourite references.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/mobilegirl-15th-february-2024",
         "t": "restream",
         "p": "mobilegirl"
       },
@@ -162,41 +146,41 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "MILK RADIO W/ KEIYAA",
+        "s": "2026-05-09T21:00:00+01:00",
+        "e": "2026-05-09T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "keiyaa"
+      },
+      {
+        "n": "ANGEL BAT DAWID",
+        "s": "2026-05-09T22:00:00+01:00",
+        "e": "2026-05-09T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Mild Animals w/ Justin Sloane",
-        "s": "2026-05-08T21:00:00+01:00",
-        "e": "2026-05-08T22:00:00+01:00",
-        "d": "Stick jazz, psych, and hip-hop in a pot and give it a whirl. Mild Animals ease in the weekend. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mild-animals/episodes/mild-animals-8th-may-2026",
-        "p": "mildanimals"
-      },
-      {
-        "n": "Axcess Amnesia - BORN TO DIE IN THE GUTTER w/ Jenny Sayaka Nono",
-        "s": "2026-05-08T22:00:00+01:00",
-        "e": "2026-05-08T23:00:00+01:00",
-        "d": "Filmmaker Jenny Sayaka Nono brings her manic VHS hued style to the audio airwaves, with steely coldwave, industrial, synth pop & more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/axcess-amnesia/episodes/axcess-amnesia-8th-may-2026"
-      },
-      {
         "n": "Yesterday's News w/ TERROR",
         "s": "2026-05-08T23:00:00+01:00",
         "e": "2026-05-09T00:00:00+01:00",
-        "d": null,
+        "d": "Yesterday's News: a thorough re-cap of the finest in punk, noise, garage and other ratty guitar sounds from the past few decades. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/yesterdays-news/episodes/yesterdays-news-8th-may-2026"
       },
       {
         "n": "Trapdoor w/ Neil Krug - Jimmie Strickland Wednesday",
         "s": "2026-05-09T00:00:00+01:00",
         "e": "2026-05-09T01:00:00+01:00",
-        "d": null,
+        "d": "Neil Krug is an American visual artist, director, and photographer based in Los Angeles. Tune in for a sonic lysergic tale of love, heartbreak, and redemption.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/neil-krug/episodes/neil-krug-9th-may-2026",
         "p": "neilkrug"
       },
       {
@@ -326,18 +310,27 @@
         "j": null,
         "u": null,
         "p": "panoramayerevan"
+      },
+      {
+        "n": "THROUGH THE GROUND FLOOR WINDOW W/ ABDULLAH MINIAWY (R)",
+        "s": "2026-05-09T17:00:00+01:00",
+        "e": "2026-05-09T18:00:00+01:00",
+        "d": null,
+        "j": "ABDULLAH MINIAWY",
+        "u": null,
+        "t": "restream",
+        "p": "abdullahminiawy"
+      },
+      {
+        "n": "RACHEL GRACE ALMEIDA",
+        "s": "2026-05-09T18:00:00+01:00",
+        "e": "2026-05-09T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-08T20:00:00Z",
-        "e": "2026-05-08T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "1V & Broken Boxes",
         "s": "2026-05-08T22:00:00Z",
@@ -1475,29 +1468,18 @@
         "u": null,
         "t": "monthly",
         "p": "cicely"
-      }
-    ],
-    "dublab": [
-      {
-        "n": "Xica Soul - SoundProof",
-        "s": "2026-05-08T19:00:00Z",
-        "e": "2026-05-08T21:00:00Z",
-        "d": null,
-        "j": "SoundProof",
-        "u": null,
-        "t": "monthly",
-        "p": "xicasoul"
       },
       {
-        "n": "DJ Bird of Paradigm –  Paradigm Power Hour",
-        "s": "2026-05-08T21:00:00Z",
-        "e": "2026-05-08T22:00:00Z",
+        "n": "TMANTUS",
+        "s": "2026-05-15T22:00:00Z",
+        "e": "2026-05-15T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "birdofparadigm"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "DJ The Witching Hours - Centrifugues",
         "s": "2026-05-08T22:00:00Z",
@@ -2065,28 +2047,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Zama Dube - The Witch's Flight",
+        "s": "2026-05-15T21:00:00Z",
+        "e": "2026-05-15T23:00:00Z",
+        "d": null,
+        "j": "The Witch's Flight",
+        "u": null,
+        "t": "monthly",
+        "p": "zamadube"
       }
     ],
     "rinse": [
       {
-        "n": "Amber's",
-        "s": "2026-05-08T20:00:00Z",
-        "e": "2026-05-08T21:00:00Z",
-        "d": null,
-        "j": "Hutch",
-        "u": null,
-        "t": "monthly",
-        "p": "hutch"
-      },
-      {
-        "n": "UNFOLD",
-        "s": "2026-05-08T21:00:00Z",
+        "n": "cu.rve",
+        "s": "2026-05-08T22:00:00Z",
         "e": "2026-05-08T23:00:00Z",
         "d": null,
-        "j": "Lockhart B2B S Ruston",
+        "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "unfold"
+        "p": "curve"
       },
       {
         "n": "styn",
@@ -2105,7 +2087,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "malix"
       },
       {
@@ -2142,7 +2123,8 @@
         "d": null,
         "j": "Frank Black & Jake Miller",
         "u": null,
-        "p": "counterculture"
+        "p": "counterculture",
+        "t": "biweekly"
       },
       {
         "n": "Paradise",
@@ -2161,7 +2143,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "jdreid"
       },
       {
@@ -2181,7 +2163,7 @@
         "d": null,
         "j": "Capes",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "manpower"
       },
       {
@@ -2191,7 +2173,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "cu.rve",
@@ -2205,15 +2187,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-08T19:00:00Z",
-        "e": "2026-05-08T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-08T22:00:00Z",
