@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-08T09:06:22.309Z",
+  "updated": "2026-05-08T11:03:50.800Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ Fergus Clark",
-        "s": "2026-05-08T09:00:00+01:00",
-        "e": "2026-05-08T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": "Fergus Clark",
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-fergus-clark-8th-may-2026",
-        "t": "monthly",
-        "p": "fergusclark"
-      },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
         "s": "2026-05-08T11:00:00+01:00",
@@ -27,9 +17,10 @@
         "n": "RAJI RAGS",
         "s": "2026-05-08T13:00:00+01:00",
         "e": "2026-05-08T15:00:00+01:00",
-        "d": null,
+        "d": "Raj Chaudhuri - aka Raji Rags. NTS since day one. Always eclectic, never boring. Raj rustles up a seamless monthly mix that journeys through the BPMs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/raji-rags/episodes/raji-rags-8th-may-2026",
+        "t": "monthly",
         "p": "rajirags"
       },
       {
@@ -96,14 +87,12 @@
         "u": null
       },
       {
-        "n": "DEEP MEDI",
+        "n": "DEEP MEDI - Berlin W/ender w/ Orson",
         "s": "2026-05-08T22:00:00+01:00",
         "e": "2026-05-08T23:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "deepmedi"
+        "u": null
       },
       {
         "n": "Cakedog",
@@ -168,43 +157,34 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Desire Paths w/ Laura Groves (R)",
+        "s": "2026-05-09T07:00:00+01:00",
+        "e": "2026-05-09T08:00:00+01:00",
+        "d": null,
+        "j": "Laura Groves",
+        "u": null,
+        "t": "restream",
+        "p": "desirepaths"
       }
     ],
     "nts2": [
       {
-        "n": "VIBRATIONS FOR A BETTER WORLD W/ AOKI TAKAMASA (R)",
-        "s": "2026-05-08T09:00:00+01:00",
-        "e": "2026-05-08T11:00:00+01:00",
-        "d": "Sticky Groove for Every Direction.",
-        "j": "AOKI TAKAMASA",
-        "u": "https://www.nts.live/api/v2/shows/aoki-takamasa/episodes/aoki-takamasa-5th-february-2025",
-        "t": "restream",
-        "p": "aokitakamasa"
-      },
-      {
-        "n": "In Focus: Frank Chickens",
-        "s": "2026-05-08T11:00:00+01:00",
-        "e": "2026-05-08T12:00:00+01:00",
-        "d": "\"We are Ninjas, not geishas!\" \nFrank Chickens were a delightful anomaly in the timeline of 1980s British pop music. Formed around the core duo of musicians, artists, actors, and performance artists Kazuko Hohki and Kazumi Taguchi, a host of Japanese Londoners took part in a project that was part music, part performance theatre. \nNamed after a brand of Japanese pencil, Frank Chickens weaponised Japanese cultural stereotypes and kitsch aesthetics to skewer Western ignroance, as well as criticise certain Japanese social mores. Their uncategorizable brand of pop music, brimming with playful experimentation, was produced by UK art-pop and avant-garde legends David Toop and Steve Beresford, and set them apart from any novelty one hit wonders. \nSelected and mixed by Rose Deluxe.",
-        "j": "Frank Chickens",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-frank-chickens-8th-may-2026",
-        "t": "weekly"
-      },
-      {
         "n": "Morsels",
         "s": "2026-05-08T12:00:00+01:00",
         "e": "2026-05-08T14:00:00+01:00",
-        "d": null,
+        "d": "The minds behind boutique UK label tasty morsels, responsible for releases by h hunt, infinite bisous and more takes over for a guest selection. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/morsels-8th-may-2026"
       },
       {
         "n": "Fine w/  Koilwood - goodbye tawny mix",
         "s": "2026-05-08T14:00:00+01:00",
         "e": "2026-05-08T15:00:00+01:00",
-        "d": null,
+        "d": "Sonic diaries from Fine…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-8th-may-2026",
         "p": "fine"
       },
       {
@@ -350,27 +330,28 @@
         "j": "TEZCATLIPOCA SOUNDSISTEMA & ADAKEO",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Holy Crow w/ Isis Moray",
-        "s": "2026-05-08T09:00:00Z",
-        "e": "2026-05-08T10:00:00Z",
-        "d": null,
-        "j": "Isis Moray",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Tom Ferrare",
-        "s": "2026-05-08T10:00:00Z",
-        "e": "2026-05-08T11:00:00Z",
+        "n": "Phambinho (R)",
+        "s": "2026-05-09T07:00:00+01:00",
+        "e": "2026-05-09T08:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream",
+        "p": "phambinho"
       },
+      {
+        "n": "Merzbow (R)",
+        "s": "2026-05-09T08:00:00+01:00",
+        "e": "2026-05-09T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Electrolytes with Joly",
         "s": "2026-05-08T11:00:00Z",
@@ -380,6 +361,15 @@
         "u": null,
         "t": "monthly",
         "p": "electrolyteswithjoly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-08T12:00:00Z",
+        "e": "2026-05-08T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Sauce Collective ",
@@ -1481,18 +1471,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-05-08T09:00:00Z",
-        "e": "2026-05-08T11:00:00Z",
+        "n": "Systema Naturae by lucii.",
+        "s": "2026-05-15T10:00:00Z",
+        "e": "2026-05-15T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Gwero b2b Nightshade",
+        "s": "2026-05-15T11:00:00Z",
+        "e": "2026-05-15T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-05-08T11:00:00Z",
@@ -2095,15 +2094,6 @@
     ],
     "rinse": [
       {
-        "n": "Breakfast with IG Culture",
-        "s": "2026-05-08T08:00:00Z",
-        "e": "2026-05-08T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-05-08T10:00:00Z",
         "e": "2026-05-08T13:00:00Z",
@@ -2143,7 +2133,7 @@
         "s": "2026-05-08T16:00:00Z",
         "e": "2026-05-08T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Klose One",
         "u": null,
         "t": "monthly",
         "p": "herasrecords"
@@ -2184,7 +2174,7 @@
         "s": "2026-05-08T21:00:00Z",
         "e": "2026-05-08T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Lockhart B2B S Ruston",
         "u": null,
         "t": "biweekly",
         "p": "unfold"
@@ -2358,7 +2348,7 @@
         "s": "2026-05-08T16:00:00Z",
         "e": "2026-05-08T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": ": MURDA ON THE DANCEFLOOR: 100% CHARLOMANTI",
         "u": null,
         "t": "biweekly",
         "p": "mystique"
