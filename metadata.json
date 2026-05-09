@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-09T14:42:39.859Z",
+  "updated": "2026-05-09T16:42:11.586Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NABIHAH IQBAL",
-        "s": "2026-05-09T14:00:00+01:00",
-        "e": "2026-05-09T16:00:00+01:00",
-        "d": "London-based DJ and producer Nabihah Iqbal (formerly known as Throwing Shade) brings you an ethnomusicological perspective on weird and wonderful music from around the world. Expect regular themed special episode; a good dose of history, and above all, good music to broaden your horizons. Every other Tuesday, midday-1pm. You can listen back to previous Throwing Shade episodes here",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nabihah-iqbal/episodes/nabihah-iqbal-9th-may-2026",
-        "p": "nabihahiqbal"
-      },
       {
         "n": "WE ARE... W/ PAUL CAMO",
         "s": "2026-05-09T16:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "HIGH JAZZ* W/ ILL DUBIO (R)",
         "s": "2026-05-09T18:00:00+01:00",
         "e": "2026-05-09T19:00:00+01:00",
-        "d": null,
+        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
         "j": "ILL DUBIO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-13th-august-2025",
         "t": "restream"
       },
       {
@@ -46,12 +37,13 @@
         "u": null
       },
       {
-        "n": "MILK RADIO W/ KEIYAA",
+        "n": "MILK RADIO W/ KEIYAA (R)",
         "s": "2026-05-09T21:00:00+01:00",
         "e": "2026-05-09T22:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "KEIYAA",
         "u": null,
+        "t": "restream",
         "p": "keiyaa"
       },
       {
@@ -164,34 +156,25 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "HOUSE CALL",
+        "s": "2026-05-10T12:00:00+01:00",
+        "e": "2026-05-10T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "150 session - Minimal Moments",
-        "s": "2026-05-09T15:00:00+01:00",
-        "e": "2026-05-09T16:00:00+01:00",
-        "d": "“I start associating your voice with ….”, for a while ML has been part of the NTS community, jingling around, airing his monthly 150 Session out of Berlin’s North, where all seasons give reasons. For clarification, creation, inspiration. One hour of poetic and musical explorations, questions, and curiosities. Circling around daring electronics, ethno-sonics, jazz-constructivism, minimalism, open structured digital dopamine, risky dub excitement and other sounds, that still need to be written. No country, no flag – outernational without a cause!\nFrom the host: \"This 150 Session briefly dives into moments of minimal music, playing compositions that employ limited musical materials, featuring repetitive patterns, fixed drones or echoes of smaller musical units.\"",
-        "j": "Minimal Moments",
-        "u": "https://www.nts.live/api/v2/shows/150session/episodes/150session-9th-may-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Panorama Yerevan Armenian modern classical & avant-garde special",
-        "s": "2026-05-09T16:00:00+01:00",
-        "e": "2026-05-09T17:00:00+01:00",
-        "d": "Lucia Kagramanyan digs through the archives of the Republic Radio of Armenia, presenting lost compositions, featuring everything from classical & opera, to folk & pop in a special hour long show.\nFrom the host: \"Armenian contemporary classical scene, playing music by Avet Terteryan, Loris Tjeknavorian, Mary Kouyoumdjian, Vache Sharafyan, Yervand Yerkanyan, Tigran Mansuryan, Ruben Antonyan and more.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/panorama-yerevan/episodes/panorama-yerevan-9th-may-2026",
-        "p": "panoramayerevan"
-      },
-      {
         "n": "THROUGH THE GROUND FLOOR WINDOW W/ ABDULLAH MINIAWY (R)",
         "s": "2026-05-09T17:00:00+01:00",
         "e": "2026-05-09T18:00:00+01:00",
-        "d": null,
+        "d": "Egyptian artist, writer and composer Abdullah Miniawy presents the results of his research and searching for meaning across cultures. Recording sounds during his travels, encounters with tribes, and discoveries in the East.\nFrom the host: \"A poetic tribute to beauty, friendship, and sound blending vinyl crackle, video game echoes, and recordings from Tunisian group Kharatet El Henna. Dedicated to Egyptian SoundCloud poet Ahmed Tahan, whose voice lingers in memory, shaping a collage of nostalgia, loss, and shared moments.\"",
         "j": "ABDULLAH MINIAWY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abdullah-miniawy/episodes/abdullah-miniawy-1st-april-2026",
         "t": "restream",
         "p": "abdullahminiawy"
       },
@@ -199,9 +182,10 @@
         "n": "RACHEL GRACE ALMEIDA",
         "s": "2026-05-09T18:00:00+01:00",
         "e": "2026-05-09T19:00:00+01:00",
-        "d": null,
+        "d": "Venezuelan writer Rachel Grace Almeida spends an hour dipping into the expansive universe of Latin music every month.\nFrom the host: \"Reverby guitars, dreamy pop, shoegaze, lo-fi synth… an hour of summertime sadness, Latine style <3\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/rachel-grace-almeida/episodes/rachel-grace-almeida-9th-may-2026",
+        "t": "monthly"
       },
       {
         "n": "LABOUR w/ Alioune Kassé",
@@ -337,28 +321,29 @@
         "u": null,
         "t": "restream",
         "p": "bradenwells"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Charlie Kelly ",
-        "s": "2026-05-09T14:00:00Z",
-        "e": "2026-05-09T15:00:00Z",
-        "d": "Get ready to embark on a captivating sonic journey of underground music with Charlie Kelly. Including new and timeless sounds from the depths of rap, drill, grime, and experimental genres from the vibrant streets of the UK and beyond. Charlie unearths the very best in music that pushes boundaries. Off the mic, Charlie is a Radio Producer and Social Media Executive with an eclectic music taste spanning across many different cultures, decades, and styles. Hailing from North London with a love for audio and pop culture, you can expect to hear tune after tune when you’re locked into Charlie Kelly on Subtle.",
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Niamh",
-        "s": "2026-05-09T15:00:00Z",
-        "e": "2026-05-09T16:00:00Z",
+        "n": "CROSSED WIRES W/ AMANDA SIEGEL (R)",
+        "s": "2026-05-10T14:00:00+01:00",
+        "e": "2026-05-10T16:00:00+01:00",
+        "d": null,
+        "j": "AMANDA SIEGEL",
+        "u": null,
+        "t": "restream",
+        "p": "amandasiegel"
+      },
+      {
+        "n": "ABIU (R)",
+        "s": "2026-05-10T16:00:00+01:00",
+        "e": "2026-05-10T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "niamh"
-      },
+        "t": "restream",
+        "p": "abiu"
+      }
+    ],
+    "subtle": [
       {
         "n": "BirdE",
         "s": "2026-05-09T16:00:00Z",
@@ -1490,18 +1475,28 @@
         "u": null,
         "t": "monthly",
         "p": "admund"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-05-09T11:00:00Z",
-        "e": "2026-05-09T15:00:00Z",
+        "n": "Bunker",
+        "s": "2026-05-16T15:00:00Z",
+        "e": "2026-05-16T16:00:00Z",
+        "d": "DJ & Producer hailing from Watford influenced by Hip-Hop, Dubstep, Grime with releases on NSX records & Ghost Phone, spinning electronic genres from R&B edits, Drum and Bass and everything in between.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Hurst",
+        "s": "2026-05-16T16:00:00Z",
+        "e": "2026-05-16T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "hurst"
+      }
+    ],
+    "dublab": [
       {
         "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
         "s": "2026-05-09T15:00:00Z",
@@ -2087,29 +2082,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "RERUN: JF Chen Radio",
+        "s": "2026-05-16T16:00:00Z",
+        "e": "2026-05-16T17:00:00Z",
+        "d": null,
+        "j": "JF Chen Radio",
+        "u": null,
+        "t": "restream"
       }
     ],
     "rinse": [
-      {
-        "n": "Paradise",
-        "s": "2026-05-09T14:00:00Z",
-        "e": "2026-05-09T15:00:00Z",
-        "d": null,
-        "j": "OMRI.",
-        "u": null,
-        "t": "biweekly",
-        "p": "paradise"
-      },
-      {
-        "n": "JD. REID",
-        "s": "2026-05-09T15:00:00Z",
-        "e": "2026-05-09T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "jdreid"
-      },
       {
         "n": "Lamsi",
         "s": "2026-05-09T16:00:00Z",
@@ -2285,25 +2269,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "D’Julz",
-        "s": "2026-05-09T14:00:00Z",
-        "e": "2026-05-09T15:00:00Z",
-        "d": null,
-        "j": "Home Diggin",
-        "u": null,
-        "t": "monthly",
-        "p": "djulz"
-      },
-      {
-        "n": "La Mamie's",
-        "s": "2026-05-09T15:00:00Z",
-        "e": "2026-05-09T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Curses",
         "s": "2026-05-09T16:00:00Z",
