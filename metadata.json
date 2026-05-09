@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-09T09:09:19.298Z",
+  "updated": "2026-05-09T10:49:13.184Z",
   "stations": {
     "nts1": [
       {
@@ -168,15 +168,6 @@
     ],
     "nts2": [
       {
-        "n": "Mikey Young (R)",
-        "s": "2026-05-09T10:00:00+01:00",
-        "e": "2026-05-09T11:00:00+01:00",
-        "d": "Mikey Young of Total Control and Eddie Current Suppression Ring plays a selection of 60's and 70's soft rock…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mikey-young/episodes/mikey-young-3rd-december-2019",
-        "t": "restream"
-      },
-      {
         "n": "MIKEY YOUNG (R)",
         "s": "2026-05-09T11:00:00+01:00",
         "e": "2026-05-09T12:00:00+01:00",
@@ -189,9 +180,9 @@
         "n": "TAFELMUSIK W/ FRANCESCO FUSARO",
         "s": "2026-05-09T12:00:00+01:00",
         "e": "2026-05-09T14:00:00+01:00",
-        "d": null,
+        "d": "Francesco Fusaro, the man behind MFZ Records and classical music recording series 19'40'', brings a considered and varied selection of baroque, classical and contemporary music for a full two hours each month.",
         "j": "FRANCESCO FUSARO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/francesco-fusaro/episodes/francesco-fusaro-9th-may-2026",
         "t": "monthly",
         "p": "francescofusaro"
       },
@@ -332,18 +323,22 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " SCOPE__EM",
-        "s": "2026-05-09T09:00:00Z",
-        "e": "2026-05-09T10:00:00Z",
+        "n": "NATALIA PANZER (R)",
+        "s": "2026-05-10T09:00:00+01:00",
+        "e": "2026-05-10T10:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "restream",
+        "p": "natalia",
+        "ap": [
+          "nataliapanzer"
+        ]
+      }
+    ],
+    "subtle": [
       {
         "n": "Poolside Convo w/ Gabe",
         "s": "2026-05-09T10:00:00Z",
@@ -1474,6 +1469,15 @@
         "u": null,
         "t": "monthly",
         "p": "callcurtis"
+      },
+      {
+        "n": "Luc presents: Cable",
+        "s": "2026-05-16T10:00:00Z",
+        "e": "2026-05-16T11:00:00Z",
+        "d": null,
+        "j": "Cable",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2074,15 +2078,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-05-09T06:00:00Z",
-        "e": "2026-05-09T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Hi-Fidelity with Cafe 1001",
         "s": "2026-05-09T10:00:00Z",
