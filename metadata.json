@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-10T10:55:22.526Z",
+  "updated": "2026-05-10T12:57:56.451Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LAUNETTE'S HOUR",
-        "s": "2026-05-10T10:00:00+01:00",
-        "e": "2026-05-10T12:00:00+01:00",
-        "d": "Up with the Lark! Launette takes time out from her day job as a chocolatier to play from her treasured vinyl collection. She will also be joined from time to time by carefully chosen guests. Happy Sunday.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/launette/episodes/launette-10th-may-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "HOUSE CALL",
-        "s": "2026-05-10T12:00:00+01:00",
-        "e": "2026-05-10T13:00:00+01:00",
-        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-10th-may-2026",
-        "t": "biweekly"
-      },
       {
         "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
         "s": "2026-05-10T13:00:00+01:00",
         "e": "2026-05-10T15:00:00+01:00",
-        "d": null,
+        "d": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.\nFrom the host: \"more lush newness and oldness\"",
         "j": "JEAN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ifmusic/episodes/ifmusic-10th-may-2026",
         "t": "monthly"
       },
       {
         "n": "Rio Doce - Tania Maria Special",
         "s": "2026-05-10T15:00:00+01:00",
         "e": "2026-05-10T17:00:00+01:00",
-        "d": null,
+        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.\nFrom the host: \"Rio Doce flows into a tribute to the brazilian singer and pianist Tania Maria.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-10th-may-2026",
         "p": "riodoce"
       },
       {
@@ -173,34 +155,35 @@
         "j": null,
         "u": null,
         "p": "davidholmes"
+      },
+      {
+        "n": "DONNA LEAKE",
+        "s": "2026-05-11T15:00:00+01:00",
+        "e": "2026-05-11T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "donnaleake"
+      },
+      {
+        "n": "NAOMI ASA",
+        "s": "2026-05-11T17:00:00+01:00",
+        "e": "2026-05-11T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "naomi"
       }
     ],
     "nts2": [
       {
-        "n": "SOUNDS ON SCREEN: SOFIA COPPOLA (R)",
-        "s": "2026-05-10T10:00:00+01:00",
-        "e": "2026-05-10T12:02:00+01:00",
-        "d": "A two hour journey through the sonic world of 21st Century auteur Sofia Coppola - covering soundtrack moments from her always über-cool music supervision, iconic performances from the films, audio moments from her early work, interviews and more. \nAlthough Coppola's supreme aesthetic taste in all departments has seen her style embraced flatly as \"a vibe\" by Pinterest moodboards and Instagram archive accounts, her actual films are anything but flat. Coppola gets to the soft hearts of people's lives when they are transitioning, becoming, lonely, or flat out lost. Her eye for magnifying the delicateness of human relationships bloom these personal sufferings into dreamlike character portraits. And did we mention the music is really cool?\nSelected and mixed by Florence Scott-Anderton.",
-        "j": "SOFIA COPPOLA",
-        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-sofia-coppola-27th-november-2025",
-        "t": "restream"
-      },
-      {
-        "n": "DAVID MCFARLINE - MORVERN CALLAR (R)",
-        "s": "2026-05-10T12:02:00+01:00",
-        "e": "2026-05-10T13:01:00+01:00",
-        "d": "David McFarline presents a special guest show inspired by the soundtrack of 2002 film Morvern Callar. ",
-        "j": "MORVERN CALLAR",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/david-mcfarline-8th-march-2020",
-        "t": "restream"
-      },
-      {
         "n": "BRADEN WELLS (R)",
         "s": "2026-05-10T13:01:00+01:00",
         "e": "2026-05-10T14:00:00+01:00",
-        "d": null,
+        "d": "A monthly hour from Jane Records label-runner Braden Wells.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/braden-wells/episodes/braden-wells-23rd-december-2020",
         "t": "restream",
         "p": "bradenwells"
       },
@@ -208,9 +191,9 @@
         "n": "CROSSED WIRES W/ AMANDA SIEGEL (R)",
         "s": "2026-05-10T14:00:00+01:00",
         "e": "2026-05-10T16:00:00+01:00",
-        "d": null,
+        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.",
         "j": "AMANDA SIEGEL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-26th-january-2024",
         "t": "restream",
         "p": "amandasiegel"
       },
@@ -343,27 +326,27 @@
         "j": "ill Dubio",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "110 YEARS OF SUN RA: BEGINNER'S GUIDE TO SUN RA (R)",
+        "s": "2026-05-11T09:00:00+01:00",
+        "e": "2026-05-11T11:00:00+01:00",
+        "d": null,
+        "j": "BEGINNER'S GUIDE TO SUN RA",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "THE WONDER CABINET",
+        "s": "2026-05-11T11:00:00+01:00",
+        "e": "2026-05-11T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Chameleon: Liminal Bleeps",
-        "s": "2026-05-10T10:00:00Z",
-        "e": "2026-05-10T11:00:00Z",
-        "d": null,
-        "j": "Liminal Bleeps",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "COPYPASTE w/ KLS.RDR ",
-        "s": "2026-05-10T11:00:00Z",
-        "e": "2026-05-10T12:00:00Z",
-        "d": null,
-        "j": "KLS.RDR",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "5 Decades of Dub w/ Joe Vincent",
         "s": "2026-05-10T12:00:00Z",
@@ -1474,27 +1457,28 @@
         "u": null,
         "t": "monthly",
         "p": "tabs"
+      },
+      {
+        "n": "The SoundLab Series",
+        "s": "2026-05-17T11:00:00Z",
+        "e": "2026-05-17T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ItsJermayne",
+        "s": "2026-05-17T12:00:00Z",
+        "e": "2026-05-17T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "itsjermayne"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-05-10T09:00:00Z",
-        "e": "2026-05-10T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-05-10T11:00:00Z",
-        "e": "2026-05-10T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "djjs",
         "s": "2026-05-10T12:00:00Z",
@@ -2073,17 +2057,18 @@
         "j": "Elevation Through Sound",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "djjs",
+        "s": "2026-05-17T12:00:00Z",
+        "e": "2026-05-17T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Dean Bryce",
-        "s": "2026-05-10T10:00:00Z",
-        "e": "2026-05-10T12:00:00Z",
-        "d": null,
-        "j": "Don't Sleep",
-        "u": null
-      },
       {
         "n": "Shuffle 'n' Swing",
         "s": "2026-05-10T12:00:00Z",
@@ -2154,7 +2139,7 @@
       {
         "n": "Manami",
         "s": "2026-05-10T23:00:00Z",
-        "e": "2026-05-11T01:00:00Z",
+        "e": "2026-05-11T00:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2162,18 +2147,17 @@
         "p": "manami"
       },
       {
-        "n": "Lamsi",
-        "s": "2026-05-11T01:00:00Z",
-        "e": "2026-05-11T02:00:00Z",
+        "n": "Baalti",
+        "s": "2026-05-11T00:00:00Z",
+        "e": "2026-05-11T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "lamsi"
+        "p": "baalti"
       },
       {
         "n": "Electronic Playlist",
-        "s": "2026-05-11T02:00:00Z",
+        "s": "2026-05-11T01:00:00Z",
         "e": "2026-05-11T05:00:00Z",
         "d": null,
         "j": null,
@@ -2316,15 +2300,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-10T07:00:00Z",
-        "e": "2026-05-10T12:30:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Dimé Takeover",
         "s": "2026-05-10T12:30:00Z",
