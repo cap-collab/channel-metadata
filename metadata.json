@@ -1,63 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-10T02:04:39.274Z",
+  "updated": "2026-05-10T06:28:23.164Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOBBS (R)",
-        "s": "2026-05-10T02:00:00+01:00",
-        "e": "2026-05-10T04:00:00+01:00",
-        "d": "MOBBS chopping up whatever he finds \nohm.mobbs@protonmail.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mobbs/episodes/mobbs-28th-march-2025",
-        "t": "restream",
-        "p": "mobbs"
-      },
-      {
-        "n": "LUNG DART (R)",
-        "s": "2026-05-10T04:00:00+01:00",
-        "e": "2026-05-10T05:00:00+01:00",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-1st-january-2024",
-        "t": "restream",
-        "p": "lungdart"
-      },
-      {
-        "n": "Blooming In Filth w/ CRISIS ACTING (R)",
-        "s": "2026-05-10T05:00:00+01:00",
-        "e": "2026-05-10T06:00:00+01:00",
-        "d": null,
-        "j": "CRISIS ACTING",
-        "u": null,
-        "t": "restream",
-        "p": "crisisacting"
-      },
-      {
-        "n": "YOSHIMIO (R)",
-        "s": "2026-05-10T06:00:00+01:00",
-        "e": "2026-05-10T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: WOMEN OF NEW AGE PART. I (R)",
         "s": "2026-05-10T07:00:00+01:00",
         "e": "2026-05-10T09:00:00+01:00",
-        "d": null,
+        "d": "Two hours of ambient & new age sounds from the Women pioneers of the genre, featuring the inner space music of Pauline Anna Strom, the gong baths of Nesta Kerin Crain & more.",
         "j": "WOMEN OF NEW AGE PART. I",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-6th-march-2022",
         "t": "restream"
       },
       {
         "n": "ORGANIC MUSIC TOKYO W/ CHEE SHIMIZU (R)",
         "s": "2026-05-10T09:00:00+01:00",
         "e": "2026-05-10T09:30:00+01:00",
-        "d": null,
+        "d": "The man behind Tokyo's revered Organic Music record store takes to the airwaves for a monthly 60 minute journey through his extensive collection…",
         "j": "CHEE SHIMIZU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/organic-music/episodes/organic-music-10th-september-2025",
         "t": "restream"
       },
       {
@@ -170,54 +131,67 @@
         "u": null,
         "t": "restream",
         "p": "systemolympia"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "KIM LANA (R)",
-        "s": "2026-05-10T02:00:00+01:00",
-        "e": "2026-05-10T04:00:00+01:00",
-        "d": "Todmorden's finest, Kim Lana joins us in the Manchester studio once a month for 2 hours of bumping and pumping golden era house & techno.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kim-lana/episodes/kim-lana-22nd-march-2025",
-        "t": "restream",
-        "p": "kimlana"
       },
       {
-        "n": "AUNTIE-ISM W/ SHABAZZ (R)",
-        "s": "2026-05-10T04:00:00+01:00",
-        "e": "2026-05-10T05:00:00+01:00",
-        "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.",
-        "j": "SHABAZZ",
-        "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-17th-june-2025",
-        "t": "restream",
-        "p": "shabazz"
-      },
-      {
-        "n": "EDDIE FICTION (R)",
-        "s": "2026-05-10T05:00:00+01:00",
-        "e": "2026-05-10T06:00:00+01:00",
+        "n": "No Weapon Is Absolute w/ Cosmo Vitelli (R)",
+        "s": "2026-05-11T03:00:00+01:00",
+        "e": "2026-05-11T04:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Cosmo Vitelli",
         "u": null,
         "t": "restream"
       },
       {
+        "n": "Tommasi & Molly Lewis (R)",
+        "s": "2026-05-11T04:00:00+01:00",
+        "e": "2026-05-11T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "molly",
+        "ap": [
+          "tommasi"
+        ]
+      },
+      {
+        "n": "FINE (R)",
+        "s": "2026-05-11T06:00:00+01:00",
+        "e": "2026-05-11T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "fine"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
+        "s": "2026-05-11T07:00:00+01:00",
+        "e": "2026-05-11T09:00:00+01:00",
+        "d": null,
+        "j": "MARIA SOMERVILLE",
+        "u": null,
+        "t": "weekly",
+        "p": "mariasomerville"
+      }
+    ],
+    "nts2": [
+      {
         "n": "NTS GUIDE TO: EARLY POST ROCK (R)",
         "s": "2026-05-10T06:00:00+01:00",
         "e": "2026-05-10T08:00:00+01:00",
-        "d": null,
+        "d": "An overview of the initial wave of rock bands tearing up the genre rulebook and exploring avant-garde arrangements and new technology. A style of music that would be defined as post-rock, a term first coined by music journalist Simon Reynolds in The Wire magazine. ",
         "j": "EARLY POST ROCK",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-early-post-rock-1-25th-october-2024",
         "t": "restream"
       },
       {
         "n": "CS + KREME (R)",
         "s": "2026-05-10T08:00:00+01:00",
         "e": "2026-05-10T09:00:00+01:00",
-        "d": null,
+        "d": "Bi-monthly emissions from Conrad Standish and Sam Karmel, aka CS + Kreme - keeping it loose, deep and free.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cs-kreme/episodes/cs-kreme-30th-march-2023",
         "t": "restream"
       },
       {
@@ -345,28 +319,37 @@
         "u": null,
         "t": "restream",
         "p": "fullbody2"
+      },
+      {
+        "n": "N/A W/ TATI AU MIEL AND FELA GUCCI (R)",
+        "s": "2026-05-11T01:00:00+01:00",
+        "e": "2026-05-11T02:00:00+01:00",
+        "d": null,
+        "j": "TATI AU MIEL AND FELA GUCCI",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "YL HOOI (R)",
+        "s": "2026-05-11T02:00:00+01:00",
+        "e": "2026-05-11T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "ylhooi"
+      },
+      {
+        "n": "IN FOCUS: MEHDI HASSAN (R)",
+        "s": "2026-05-11T03:00:00+01:00",
+        "e": "2026-05-11T05:00:00+01:00",
+        "d": null,
+        "j": "MEHDI HASSAN",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Etno Selects",
-        "s": "2026-05-10T02:00:00Z",
-        "e": "2026-05-10T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "etnoselects"
-      },
-      {
-        "n": "RWND140",
-        "s": "2026-05-10T03:00:00Z",
-        "e": "2026-05-10T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Kiki B",
         "s": "2026-05-10T06:00:00Z",
@@ -376,6 +359,15 @@
         "u": null,
         "t": "monthly",
         "p": "kikib"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-10T07:00:00Z",
+        "e": "2026-05-10T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Kakuna",
@@ -1501,24 +1493,6 @@
     ],
     "dublab": [
       {
-        "n": "sodapop - sodapop sounds",
-        "s": "2026-05-10T01:00:00Z",
-        "e": "2026-05-10T03:00:00Z",
-        "d": null,
-        "j": "sodapop sounds",
-        "u": null,
-        "t": "monthly",
-        "p": "sodapop"
-      },
-      {
-        "n": "Tasting. Notes. 001 + 002",
-        "s": "2026-05-10T03:00:00Z",
-        "e": "2026-05-10T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Daedelus - Entropy Sessions",
         "s": "2026-05-10T05:00:00Z",
         "e": "2026-05-10T07:00:00Z",
@@ -1527,6 +1501,15 @@
         "u": null,
         "t": "monthly",
         "p": "daedelus"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-10T07:00:00Z",
+        "e": "2026-05-10T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "djjs",
@@ -2078,28 +2061,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Electronic Playlist",
-        "s": "2026-05-10T01:00:00Z",
-        "e": "2026-05-10T05:00:00Z",
+        "n": "Discoteca 3ala Mars",
+        "s": "2026-05-17T03:00:00Z",
+        "e": "2026-05-17T05:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
       {
-        "n": "Amber's",
-        "s": "2026-05-10T05:00:00Z",
-        "e": "2026-05-10T06:00:00Z",
+        "n": "Mark Maxwell - Sankofa Sound System",
+        "s": "2026-05-17T05:00:00Z",
+        "e": "2026-05-17T07:00:00Z",
         "d": null,
-        "j": "Hutch",
+        "j": "Sankofa Sound System",
         "u": null,
-        "t": "biweekly",
-        "p": "hutch"
-      },
+        "t": "monthly",
+        "p": "markmaxwell"
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-05-10T06:00:00Z",
@@ -2464,16 +2447,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "DYATRON INDUSTRIES - let's go all in, to go all out!",
-        "s": "2026-05-10T02:00:00Z",
-        "e": "2026-05-10T04:00:00Z",
-        "d": null,
-        "j": "Mechanica & TMFD",
-        "u": null,
-        "t": "monthly",
-        "p": "mechanica"
-      },
       {
         "n": "Inner Mono",
         "s": "2026-05-10T20:00:00Z",
