@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-10T14:43:58.100Z",
+  "updated": "2026-05-10T16:43:12.472Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Rio Doce - Tania Maria Special",
-        "s": "2026-05-10T15:00:00+01:00",
-        "e": "2026-05-10T17:00:00+01:00",
-        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.\nFrom the host: \"Rio Doce flows into a tribute to the brazilian singer and pianist Tania Maria.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-10th-may-2026",
-        "p": "riodoce"
-      },
       {
         "n": "A Month of Sundays w/ Bill Spencer - Mother's Day Special",
         "s": "2026-05-10T17:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "LUPINI",
         "s": "2026-05-10T18:00:00+01:00",
         "e": "2026-05-10T20:00:00+01:00",
-        "d": null,
+        "d": "A little bit sweet, a little bit sad, a little bit silly - Lupini keeps it (mainly) horizontal with a mix of dubwise sounds, psychedelic rock, synth-pop and new wave.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-10th-may-2026",
         "t": "monthly",
         "p": "lupini"
       },
@@ -175,45 +166,33 @@
         "u": null,
         "t": "weekly",
         "p": "cocomaria"
+      },
+      {
+        "n": "NTS Guide to: Flamenco Pop (1975-2025)",
+        "s": "2026-05-11T20:00:00+01:00",
+        "e": "2026-05-11T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "CROSSED WIRES W/ AMANDA SIEGEL (R)",
-        "s": "2026-05-10T14:00:00+01:00",
-        "e": "2026-05-10T16:00:00+01:00",
-        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.",
-        "j": "AMANDA SIEGEL",
-        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-26th-january-2024",
-        "t": "restream",
-        "p": "amandasiegel"
-      },
-      {
-        "n": "ABIU (R)",
-        "s": "2026-05-10T16:00:00+01:00",
-        "e": "2026-05-10T17:00:00+01:00",
-        "d": "Tokyo-based DJ & composer Abiu taking you to a higher state, playing tracks from across the house axis.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/abiu/episodes/abiu-5th-february-2026",
-        "t": "restream",
-        "p": "abiu"
-      },
-      {
         "n": "JACK AND ELAINE: DUB MIX (R)",
         "s": "2026-05-10T17:00:00+01:00",
         "e": "2026-05-10T18:00:00+01:00",
-        "d": null,
+        "d": "Time Is Away's Jack and Elaine do something a bit different, pulling out an hour of dub records. ",
         "j": "DUB MIX",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/jack-elaine-dub-mix-23rd-march-2020",
         "t": "restream"
       },
       {
         "n": "NTS GUIDE TO: SUNSHOT RECORDS (R)",
         "s": "2026-05-10T18:00:00+01:00",
         "e": "2026-05-10T19:00:00+01:00",
-        "d": null,
+        "d": "60 minutes of classic reggae from the successful Kingston label ran by Phil Pratt. ",
         "j": "SUNSHOT RECORDS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-sunshot-records-7th-october-2025",
         "t": "restream"
       },
       {
@@ -344,29 +323,26 @@
         "j": null,
         "u": null,
         "p": "skyapnea"
+      },
+      {
+        "n": "HVX w/ Rabit & Lane Stewart",
+        "s": "2026-05-11T14:00:00+01:00",
+        "e": "2026-05-11T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MALA JUNTA w/ Decoder",
+        "s": "2026-05-11T15:00:00+01:00",
+        "e": "2026-05-11T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "malajunta"
       }
     ],
     "subtle": [
-      {
-        "n": " Alien Izz",
-        "s": "2026-05-10T14:00:00Z",
-        "e": "2026-05-10T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "alienizz"
-      },
-      {
-        "n": "The Garage Garden",
-        "s": "2026-05-10T15:00:00Z",
-        "e": "2026-05-10T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "garagegarden"
-      },
       {
         "n": " NULLIFY",
         "s": "2026-05-10T16:00:00Z",
@@ -1477,18 +1453,28 @@
         "u": null,
         "t": "monthly",
         "p": "chaitu"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs 2",
-        "s": "2026-05-10T14:00:00Z",
-        "e": "2026-05-10T16:00:00Z",
+        "n": "Dorian Day",
+        "s": "2026-05-17T15:00:00Z",
+        "e": "2026-05-17T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "SETTINGS",
+        "s": "2026-05-17T16:00:00Z",
+        "e": "2026-05-17T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "settings"
+      }
+    ],
+    "dublab": [
       {
         "n": "Kenneth Bager - Music for Dreams",
         "s": "2026-05-10T16:00:00Z",
@@ -2067,19 +2053,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-05-17T16:00:00Z",
+        "e": "2026-05-17T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "Kitty Amor",
-        "s": "2026-05-10T14:00:00Z",
-        "e": "2026-05-10T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "kittyamor"
-      },
       {
         "n": "Jamo Beatz",
         "s": "2026-05-10T16:00:00Z",
@@ -2292,22 +2278,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Dimé Takeover",
-        "s": "2026-05-10T14:00:00Z",
-        "e": "2026-05-10T15:00:00Z",
-        "d": null,
-        "j": ": Archives et Sonorités de l'Océan Indien - Noun Envi Dansé avec Roi Luis",
-        "u": null
-      },
-      {
-        "n": "Dimé Takeover",
-        "s": "2026-05-10T15:00:00Z",
-        "e": "2026-05-10T16:00:00Z",
-        "d": null,
-        "j": ": Voyage avec les ancêtres - Book club Overbooké avec Isis Labeau Caberia",
-        "u": null
-      },
       {
         "n": "Dimé Takeover",
         "s": "2026-05-10T16:00:00Z",
