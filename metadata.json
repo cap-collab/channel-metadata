@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-10T18:48:24.939Z",
+  "updated": "2026-05-10T20:38:39.045Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUPINI",
-        "s": "2026-05-10T18:00:00+01:00",
-        "e": "2026-05-10T20:00:00+01:00",
-        "d": "A little bit sweet, a little bit sad, a little bit silly - Lupini keeps it (mainly) horizontal with a mix of dubwise sounds, psychedelic rock, synth-pop and new wave.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-10th-may-2026",
-        "t": "monthly",
-        "p": "lupini"
-      },
       {
         "n": "NTS GUIDE TO: FRENCH COLDWAVE, POST PUNK, SYNTH & OTHER ODDITIES 1980-1989 (R)",
         "s": "2026-05-10T20:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "Death Is Not The End - Curse You, Foreign Lands: Demotika Recordings 1930s-1950s",
         "s": "2026-05-10T22:00:00+01:00",
         "e": "2026-05-11T00:00:00+01:00",
-        "d": null,
+        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.\nFrom the host: \"Death Is Not The End broadcast 2 hours of Greek demotika recordings from the 1930s to 1950s, celebrating the release of the new tape on the label Curse You, Foreign Lands.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-10th-may-2026"
       },
       {
         "n": "OPEN HAND REAL FLAMES - KING SUNNY ADÉ SPECIAL (R)",
@@ -172,19 +162,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FURNITURE WITHOUT MEMORIES W/ LIVWUTANG",
+        "s": "2026-05-11T23:00:00+01:00",
+        "e": "2026-05-12T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "livwutang"
       }
     ],
     "nts2": [
-      {
-        "n": "PERM POLITICS W/ CHANTAL (R)",
-        "s": "2026-05-10T19:00:00+01:00",
-        "e": "2026-05-10T20:00:00+01:00",
-        "d": "Hosted by Chantal Adams, Perm Politics oscillates between noisier textures, smooth futuristic beats and a myriad of rap/hip-hop offshoots.",
-        "j": "CHANTAL",
-        "u": "https://www.nts.live/api/v2/shows/chantal/episodes/chantal-18th-november-2025",
-        "t": "restream",
-        "p": "chantal"
-      },
       {
         "n": "NO LIMIT RECORDS SPECIAL (R)",
         "s": "2026-05-10T20:00:00+01:00",
@@ -198,9 +187,9 @@
         "n": "CITIES AVIV: 7 Stars & Other People (R)",
         "s": "2026-05-10T22:00:00+01:00",
         "e": "2026-05-10T23:00:00+01:00",
-        "d": null,
+        "d": "Radio form follow-up to the debatably sought after GEE CD Mix. Cities Aviv is an artist operating in the United States. Active since 2010. ",
         "j": "7 Stars & Other People",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cities-aviv/episodes/cities-aviv-3rd-february-2024",
         "t": "restream"
       },
       {
@@ -336,19 +325,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NATIVE SOUNDSYSTEM W/ SHOLZ",
+        "s": "2026-05-11T18:00:00+01:00",
+        "e": "2026-05-11T19:00:00+01:00",
+        "d": null,
+        "j": "SHOLZ",
+        "u": null,
+        "t": "monthly",
+        "p": "nativesoundsystem"
       }
     ],
     "subtle": [
-      {
-        "n": "Break Check",
-        "s": "2026-05-10T18:00:00Z",
-        "e": "2026-05-10T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "breakcheck"
-      },
       {
         "n": "FKOF",
         "s": "2026-05-10T19:00:00Z",
@@ -1459,18 +1448,18 @@
         "u": null,
         "t": "monthly",
         "p": "sofarsogood"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Bob Baker Marionette Theater – Puppetphonic",
-        "s": "2026-05-10T17:00:00Z",
-        "e": "2026-05-10T19:00:00Z",
+        "n": "Off-Switch Audio",
+        "s": "2026-05-17T20:00:00Z",
+        "e": "2026-05-17T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "Becky Ebenkamp – Bubblegum & Other Delights",
         "s": "2026-05-10T19:00:00Z",
@@ -2049,29 +2038,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Barbarelle - Atlas",
+        "s": "2026-05-17T19:00:00Z",
+        "e": "2026-05-17T21:00:00Z",
+        "d": null,
+        "j": "Atlas",
+        "u": null,
+        "t": "monthly",
+        "p": "barbarelle"
       }
     ],
     "rinse": [
-      {
-        "n": "Breakfast with RIZ LA TEEF",
-        "s": "2026-05-10T17:00:00Z",
-        "e": "2026-05-10T19:00:00Z",
-        "d": null,
-        "j": "2-STEP SPECIAL",
-        "u": null,
-        "t": "biweekly",
-        "p": "rizlateef"
-      },
-      {
-        "n": "Oblig",
-        "s": "2026-05-10T19:00:00Z",
-        "e": "2026-05-10T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "oblig"
-      },
       {
         "n": "Plastician with Skepta",
         "s": "2026-05-10T20:00:00Z",
@@ -2255,22 +2234,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Dimé Takeover",
-        "s": "2026-05-10T18:00:00Z",
-        "e": "2026-05-10T19:00:00Z",
-        "d": null,
-        "j": ": Séance d'écoute commentée sur les musiques palops et les indépendances avec OKINKA",
-        "u": null
-      },
-      {
-        "n": "Dimé Takeover",
-        "s": "2026-05-10T19:00:00Z",
-        "e": "2026-05-11T07:00:00Z",
-        "d": null,
-        "j": ": Côte d’Ivoire Sonic Archive : De l’Indépendance à la Post-Indépendance avec Baoulé Core",
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2026-05-11T07:00:00Z",
         "e": "2026-05-11T10:00:00Z",
@@ -2295,7 +2258,6 @@
         "d": null,
         "j": "RUE DES GARDERIES",
         "u": null,
-        "t": "monthly",
         "p": "lesyeuxferms"
       },
       {
@@ -2304,8 +2266,7 @@
         "e": "2026-05-11T14:00:00Z",
         "d": null,
         "j": "invite Lewis OfMan",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Sabor A Mi",
@@ -2314,7 +2275,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "saborami"
+        "p": "saborami",
+        "t": "biweekly"
       },
       {
         "n": "DVDE",
@@ -2323,7 +2285,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "dvde"
       },
       {
@@ -2332,8 +2293,7 @@
         "e": "2026-05-11T17:00:00Z",
         "d": null,
         "j": "invite Meilgaarden",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Souzo",
@@ -2341,8 +2301,7 @@
         "e": "2026-05-11T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Miley Serious",
