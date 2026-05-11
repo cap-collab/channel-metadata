@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-11T17:49:28.767Z",
+  "updated": "2026-05-11T19:28:08.517Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-05-11T18:00:00+01:00",
-        "e": "2026-05-11T20:00:00+01:00",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": "COCO MARIA",
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-11th-may-2026",
-        "t": "weekly",
-        "p": "cocomaria"
-      },
       {
         "n": "NTS Guide to: Flamenco Pop (1975-2025)",
         "s": "2026-05-11T20:00:00+01:00",
@@ -25,9 +15,9 @@
         "n": "REBE (R)",
         "s": "2026-05-11T21:02:00+01:00",
         "e": "2026-05-11T22:00:00+01:00",
-        "d": null,
+        "d": "Rebe, the only official Princess of Spain, sentimental hijacking now in the radio format. Playing Romanian and Spanish folk, flamenco pop, soundtracks, originals and many more mysteries. Radio-Rebe, Radio-Ready’s worst nightmare.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rebe/episodes/rebe-rebe-10th-december-2025",
         "t": "restream",
         "p": "rebe"
       },
@@ -165,51 +155,40 @@
         "u": null
       },
       {
-        "n": "SNO",
+        "n": "SNO - Mzansi Special",
         "s": "2026-05-12T17:00:00+01:00",
         "e": "2026-05-12T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "p": "sno"
+      },
+      {
+        "n": "Rob Sevier",
+        "s": "2026-05-12T18:00:00+01:00",
+        "e": "2026-05-12T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "NATIVE SOUNDSYSTEM W/ SHOLZ",
-        "s": "2026-05-11T18:00:00+01:00",
-        "e": "2026-05-11T19:00:00+01:00",
-        "d": "Native Sound System join us once a month, breaking the latest sounds from Lagos",
-        "j": "SHOLZ",
-        "u": "https://www.nts.live/api/v2/shows/native-soundsystem/episodes/native-soundsystem-11th-may-2026",
-        "t": "monthly",
-        "p": "nativesoundsystem"
-      },
-      {
-        "n": "1080P w/ HD",
-        "s": "2026-05-11T19:00:00+01:00",
-        "e": "2026-05-11T20:00:00+01:00",
-        "d": "HD features a vast variety of guests spanning across hip hop, RnB and electronic music to talk about music, culture and life aswell as share their favorite selections of any genre.\nFrom the host: \"In the mix with host HD. This episode of 1080P is for dancing into summer with fresh club and hip hop tracks from around the world.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hd/episodes/hd-11th-may-2026",
-        "p": "hd"
-      },
-      {
         "n": "Get Grimy w/ Jamie 3:26",
         "s": "2026-05-11T20:00:00+01:00",
         "e": "2026-05-11T22:00:00+01:00",
-        "d": null,
+        "d": "Head of Grimy Edits, Zernell Gillie's style can range from the heart of disco to the soul of Chicago house - he heads up a 2 hour slot once a month from our LA studio. ",
         "j": "Jamie 3",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zernell/episodes/zernell-11th-may-2026",
         "t": "monthly"
       },
       {
         "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE",
         "s": "2026-05-11T22:00:00+01:00",
         "e": "2026-05-11T23:00:00+01:00",
-        "d": null,
+        "d": "Former frontwoman of rock outfit Dum Dum Girls eschews the pseudonym with her new solo project, Kristin Kontrol. Newly relocated to LA, Kristin delivers a monthly mix of expansive and hypnotic sounds: one part Durutti Column to two parts Alice Coltrane.\nFrom the host: \"Featuring. Daughn Gibson's new album Lake Mary not mysterious IN FULL plus a few others.\"",
         "j": "OUT OF VOGUE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kristin-kontrol/episodes/kristin-kontrol-11th-may-2026",
         "t": "monthly",
         "p": "kristinkontrol"
       },
@@ -307,14 +286,14 @@
         "t": "restream"
       },
       {
-        "n": "Imagine Soundtracks w/ redkoffee: Michiko to Hatchin (R)",
+        "n": "TAFELMUSIK W/ FRANCESCO FUSARO - SINFONIA MILANESE SPECIAL (R)",
         "s": "2026-05-12T10:00:00+01:00",
-        "e": "2026-05-12T11:00:00+01:00",
+        "e": "2026-05-12T12:00:00+01:00",
         "d": null,
-        "j": "redkoffee",
+        "j": "FRANCESCO FUSARO",
         "u": null,
         "t": "restream",
-        "p": "redkoffee"
+        "p": "francescofusaro"
       },
       {
         "n": "Phambinho W/ Drexler: To Lose, To Remember",
@@ -352,26 +331,18 @@
         "u": null,
         "t": "monthly",
         "p": "wesbaggaley"
+      },
+      {
+        "n": "OPTIMO",
+        "s": "2026-05-12T17:00:00+01:00",
+        "e": "2026-05-12T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "optimo"
       }
     ],
     "subtle": [
-      {
-        "n": "PADWICK",
-        "s": "2026-05-11T16:00:00Z",
-        "e": "2026-05-11T18:00:00Z",
-        "d": "Representing UK Bass Music Culture across a range of styles, sounds and tempos.",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "OK.DJ",
-        "s": "2026-05-11T18:00:00Z",
-        "e": "2026-05-11T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Elrobo's Selectas",
         "s": "2026-05-11T19:00:00Z",
@@ -1511,19 +1482,28 @@
         "u": null,
         "t": "monthly",
         "p": "h3l3na"
+      },
+      {
+        "n": " ZEMA",
+        "s": "2026-05-18T18:00:00Z",
+        "e": "2026-05-18T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Rainbow Conspiracy",
+        "s": "2026-05-18T19:00:00Z",
+        "e": "2026-05-18T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "rainbowconspiracy"
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-05-11T17:00:00Z",
-        "e": "2026-05-11T19:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
       {
         "n": "Colloboh - Everything Inbetween",
         "s": "2026-05-11T19:00:00Z",
@@ -1804,6 +1784,14 @@
         "u": null,
         "t": "monthly",
         "p": "frosty"
+      },
+      {
+        "n": "PRINTED MATTER",
+        "s": "2026-05-15T03:00:00Z",
+        "e": "2026-05-15T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Alex Pelly - PELLYVISION",
@@ -2106,16 +2094,6 @@
     ],
     "rinse": [
       {
-        "n": "Sharnie",
-        "s": "2026-05-11T17:00:00Z",
-        "e": "2026-05-11T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sharnie"
-      },
-      {
         "n": "Main Phase",
         "s": "2026-05-11T18:00:00Z",
         "e": "2026-05-11T20:00:00Z",
@@ -2323,24 +2301,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Souzo",
-        "s": "2026-05-11T17:00:00Z",
-        "e": "2026-05-11T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Miley Serious",
-        "s": "2026-05-11T18:00:00Z",
-        "e": "2026-05-11T19:00:00Z",
-        "d": null,
-        "j": "invite MEDUSSAR",
-        "u": null,
-        "t": "biweekly",
-        "p": "mileyserious"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-05-11T19:00:00Z",
         "e": "2026-05-12T07:00:00Z",
@@ -2440,16 +2400,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "Let Me Tell You 'Bout It",
-        "s": "2026-05-11T17:00:00Z",
-        "e": "2026-05-11T19:00:00Z",
-        "d": null,
-        "j": "Pablo Blanquito",
-        "u": null,
-        "t": "monthly",
-        "p": "pabloblanquito"
-      },
       {
         "n": "Avant Gardens",
         "s": "2026-05-14T22:00:00Z",
