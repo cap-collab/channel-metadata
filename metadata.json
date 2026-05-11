@@ -1,47 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-11T02:13:51.219Z",
+  "updated": "2026-05-11T06:58:48.680Z",
   "stations": {
     "nts1": [
-      {
-        "n": "No Weapon Is Absolute w/ Cosmo Vitelli (R)",
-        "s": "2026-05-11T03:00:00+01:00",
-        "e": "2026-05-11T04:00:00+01:00",
-        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
-        "j": "Cosmo Vitelli",
-        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-2nd-june-2021",
-        "t": "restream"
-      },
-      {
-        "n": "Tommasi & Molly Lewis (R)",
-        "s": "2026-05-11T04:00:00+01:00",
-        "e": "2026-05-11T06:00:00+01:00",
-        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-5th-october-2025",
-        "t": "restream",
-        "p": "molly",
-        "ap": [
-          "tommasi"
-        ]
-      },
-      {
-        "n": "FINE (R)",
-        "s": "2026-05-11T06:00:00+01:00",
-        "e": "2026-05-11T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "fine"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-05-11T07:00:00+01:00",
         "e": "2026-05-11T09:00:00+01:00",
-        "d": null,
+        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
         "j": "MARIA SOMERVILLE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-11th-may-2026",
         "t": "weekly",
         "p": "mariasomerville"
       },
@@ -49,9 +17,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-05-11T09:00:00+01:00",
         "e": "2026-05-11T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-11th-may-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -172,43 +140,55 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "COLD PIZZA W/ STUD1NT (R)",
+        "s": "2026-05-12T06:00:00+01:00",
+        "e": "2026-05-12T07:00:00+01:00",
+        "d": null,
+        "j": "STUD1NT",
+        "u": null,
+        "t": "restream",
+        "p": "coldpizza"
+      },
+      {
+        "n": "The Early Bird Show w/ Bitter Babe",
+        "s": "2026-05-12T07:00:00+01:00",
+        "e": "2026-05-12T09:00:00+01:00",
+        "d": null,
+        "j": "Bitter Babe",
+        "u": null,
+        "t": "monthly",
+        "p": "bitterbabe"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-05-12T09:00:00+01:00",
+        "e": "2026-05-12T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
       {
-        "n": "IN FOCUS: MEHDI HASSAN (R)",
-        "s": "2026-05-11T03:00:00+01:00",
-        "e": "2026-05-11T05:00:00+01:00",
-        "d": "Highlights from the career of Mehdi Hassan, the Pakistani vocalist with a haunting baritone voice, who helped introduce the ancient Arabic poetic form of the ghazal to the wider world. \nSelected and mixed by Nāda Sonics",
-        "j": "MEHDI HASSAN",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-medhi-hassan-5th-december-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Como La Flor (R)",
-        "s": "2026-05-11T05:00:00+01:00",
-        "e": "2026-05-11T06:00:00+01:00",
-        "d": "Música sentimental for all the sad girls and sad boys.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jazmin-garcia/episodes/como-la-flor-w-jazmin-3rd-august-2020",
-        "t": "restream"
-      },
-      {
         "n": "NTS GUIDE TO: THE CANTERBURY SCENE (R)",
         "s": "2026-05-11T06:00:00+01:00",
         "e": "2026-05-11T08:00:00+01:00",
-        "d": null,
+        "d": "A two-hour introduction to the curious avant-garde rock scene that developed independently in the late 1960s and 1970s in the quiet cathedral city of Canterbury, birthing legendary prog bands such as The Soft Machine, and Caravan. ",
         "j": "THE CANTERBURY SCENE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-the-canterbury-sound-7th-august-2025",
         "t": "restream"
       },
       {
         "n": "HIGH JAZZ* w/ ill Dubio (R)",
         "s": "2026-05-11T08:00:00+01:00",
         "e": "2026-05-11T09:00:00+01:00",
-        "d": null,
+        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
         "j": "ill Dubio",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-5th-november-2025",
         "t": "restream"
       },
       {
@@ -291,12 +271,13 @@
         "p": "hd"
       },
       {
-        "n": "GET GRIMY W/ ZERNELL",
+        "n": "Get Grimy w/ Jamie 3:26",
         "s": "2026-05-11T20:00:00+01:00",
         "e": "2026-05-11T22:00:00+01:00",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Jamie 3",
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE",
@@ -318,12 +299,13 @@
         "p": "nailahhunter"
       },
       {
-        "n": "HIT FACTORY",
+        "n": "Hit Factory w/ DJ Wawa (R)",
         "s": "2026-05-12T00:00:00+01:00",
         "e": "2026-05-12T01:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "DJ Wawa",
         "u": null,
+        "t": "restream",
         "p": "hitfactory"
       },
       {
@@ -333,36 +315,37 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Izzla",
-        "s": "2026-05-11T02:00:00Z",
-        "e": "2026-05-11T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Subtle Selects",
-        "s": "2026-05-11T03:00:00Z",
-        "e": "2026-05-11T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "5p3c141",
-        "s": "2026-05-11T04:00:00Z",
-        "e": "2026-05-11T05:00:00Z",
+        "n": "Total Stasis",
+        "s": "2026-05-12T02:00:00+01:00",
+        "e": "2026-05-12T03:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "5p3c141"
+        "p": "totalstasis"
+      },
+      {
+        "n": "DELIVERY PRESENTS: HAAN",
+        "s": "2026-05-12T03:00:00+01:00",
+        "e": "2026-05-12T04:00:00+01:00",
+        "d": null,
+        "j": "HAAN",
+        "u": null,
+        "t": "monthly",
+        "p": "delivery"
+      }
+    ],
+    "subtle": [
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-11T05:00:00Z",
+        "e": "2026-05-11T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": " Tribalismo",
@@ -1469,32 +1452,31 @@
         "j": "Low Frequencies",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Matthew Mas",
+        "s": "2026-05-18T05:00:00Z",
+        "e": "2026-05-18T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "McAllister and Kyle Art Threat - Please and Thank You",
-        "s": "2026-05-11T01:00:00Z",
-        "e": "2026-05-11T03:00:00Z",
-        "d": null,
-        "j": "Please and Thank You",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DMM - Loosely Attached",
-        "s": "2026-05-11T03:00:00Z",
-        "e": "2026-05-11T05:00:00Z",
-        "d": null,
-        "j": "Loosely Attached",
-        "u": null,
-        "t": "monthly",
-        "p": "dmm"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-05-11T05:00:00Z",
         "e": "2026-05-11T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-11T07:00:00Z",
+        "e": "2026-05-11T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2058,28 +2040,29 @@
         "u": null,
         "t": "monthly",
         "p": "julietmendoza"
+      },
+      {
+        "n": "Jackie Stewart - Fantastica",
+        "s": "2026-05-18T03:00:00Z",
+        "e": "2026-05-18T05:00:00Z",
+        "d": null,
+        "j": "Fantastica",
+        "u": null,
+        "t": "monthly",
+        "p": "jackiestewart"
+      },
+      {
+        "n": "Jess Fu - APEX",
+        "s": "2026-05-18T05:00:00Z",
+        "e": "2026-05-18T07:00:00Z",
+        "d": null,
+        "j": "APEX",
+        "u": null,
+        "t": "monthly",
+        "p": "jessfu"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-05-11T01:00:00Z",
-        "e": "2026-05-11T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "cu.rve",
-        "s": "2026-05-11T05:00:00Z",
-        "e": "2026-05-11T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "curve"
-      },
       {
         "n": "Playlist",
         "s": "2026-05-11T06:00:00Z",
@@ -2470,16 +2453,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "The Witching Hour",
-        "s": "2026-05-11T02:00:00Z",
-        "e": "2026-05-11T04:00:00Z",
-        "d": null,
-        "j": "Tooth",
-        "u": null,
-        "t": "monthly",
-        "p": "tooth"
-      },
       {
         "n": "Let Me Tell You 'Bout It",
         "s": "2026-05-11T17:00:00Z",
