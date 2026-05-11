@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-11T21:10:50.452Z",
+  "updated": "2026-05-11T22:45:57.338Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BEACH NOIR W/ NICK LEÓN",
-        "s": "2026-05-11T22:00:00+01:00",
-        "e": "2026-05-11T23:00:00+01:00",
-        "d": "An invitation to dissociate on the beach inside your mind. Musical postcards from London back to Miami shores filled with sun, salt and melancholy. Nick shares the music that has influenced his upcoming album as well as highlighting Miami musical moments in the realm of ambient, idm and all things murky.\nFrom the host: \"This is brought to you with love…\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nick-leon/episodes/nick-leon-11th-may-2026"
-      },
       {
         "n": "FURNITURE WITHOUT MEMORIES W/ LIVWUTANG & Mo Yasin",
         "s": "2026-05-11T23:00:00+01:00",
@@ -24,9 +16,10 @@
         "n": "BODY MOTION W/ THELIA",
         "s": "2026-05-12T00:00:00+01:00",
         "e": "2026-05-12T01:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "The signal is strong. Body Motion monthly on NTS1.",
+        "j": "THELIA",
+        "u": "https://www.nts.live/api/v2/shows/body-motion/episodes/body-motion-12th-may-2026",
+        "t": "monthly",
         "p": "bodymotion"
       },
       {
@@ -170,19 +163,17 @@
         "j": null,
         "u": null,
         "p": "debonair"
+      },
+      {
+        "n": "5 GATE TEMPLE",
+        "s": "2026-05-12T22:00:00+01:00",
+        "e": "2026-05-13T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE",
-        "s": "2026-05-11T22:00:00+01:00",
-        "e": "2026-05-11T23:00:00+01:00",
-        "d": "Former frontwoman of rock outfit Dum Dum Girls eschews the pseudonym with her new solo project, Kristin Kontrol. Newly relocated to LA, Kristin delivers a monthly mix of expansive and hypnotic sounds: one part Durutti Column to two parts Alice Coltrane.\nFrom the host: \"Featuring. Daughn Gibson's new album Lake Mary not mysterious IN FULL plus a few others.\"",
-        "j": "OUT OF VOGUE",
-        "u": "https://www.nts.live/api/v2/shows/kristin-kontrol/episodes/kristin-kontrol-11th-may-2026",
-        "t": "monthly",
-        "p": "kristinkontrol"
-      },
       {
         "n": "ASTRAL GARDEN W/ NAILAH HUNTER",
         "s": "2026-05-11T23:00:00+01:00",
@@ -196,9 +187,9 @@
         "n": "Hit Factory w/ DJ Wawa (R)",
         "s": "2026-05-12T00:00:00+01:00",
         "e": "2026-05-12T01:00:00+01:00",
-        "d": null,
+        "d": "Get the party started with DJ Wawa & Clay Wilson's Hit Factory Records.\nFrom the host: \"Another winter. Another sad time. Another round of tunes to help time pass. Good luck this year <3\"",
         "j": "DJ Wawa",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hit-factory/episodes/hit-factory-20th-january-2026",
         "t": "restream",
         "p": "hitfactory"
       },
@@ -339,18 +330,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Some Images of Paradise",
+        "s": "2026-05-12T20:00:00+01:00",
+        "e": "2026-05-12T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "paradise"
       }
     ],
     "subtle": [
-      {
-        "n": " Subtext w/ Preet",
-        "s": "2026-05-11T21:00:00Z",
-        "e": "2026-05-11T22:00:00Z",
-        "d": null,
-        "j": "Preet",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Factory Floor ",
         "s": "2026-05-11T22:00:00Z",
@@ -1499,18 +1490,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Marcus Phillippe",
+        "s": "2026-05-18T22:00:00Z",
+        "e": "2026-05-18T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN: Yttling Jazz – guest session",
-        "s": "2026-05-11T21:00:00Z",
-        "e": "2026-05-11T22:00:00Z",
-        "d": null,
-        "j": "Yttling Jazz – guest session",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "RERUN: Nebula Star – guest session",
         "s": "2026-05-11T22:00:00Z",
@@ -1519,6 +1510,15 @@
         "j": "Nebula Star – guest session",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-11T23:00:00Z",
+        "e": "2026-05-12T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Terrell Brooke – TheyHouse",
@@ -2102,16 +2102,6 @@
     ],
     "rinse": [
       {
-        "n": "Nervous Horizon",
-        "s": "2026-05-11T21:00:00Z",
-        "e": "2026-05-11T22:00:00Z",
-        "d": null,
-        "j": "Harba",
-        "u": null,
-        "t": "biweekly",
-        "p": "nervoushorizon"
-      },
-      {
         "n": "Scuffed Recordings",
         "s": "2026-05-11T22:00:00Z",
         "e": "2026-05-11T23:00:00Z",
@@ -2290,15 +2280,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-11T19:00:00Z",
-        "e": "2026-05-12T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-12T07:00:00Z",
         "e": "2026-05-12T10:00:00Z",
         "d": null,
@@ -2321,7 +2302,8 @@
         "e": "2026-05-12T13:00:00Z",
         "d": null,
         "j": "EPISODE 6 : Corps & Âmes",
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Kiala Ogawa",
@@ -2330,7 +2312,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "kialaogawa"
+        "p": "kialaogawa",
+        "t": "biweekly"
       },
       {
         "n": "RONY",
@@ -2338,7 +2321,8 @@
         "e": "2026-05-12T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "Hey Bony",
@@ -2347,7 +2331,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "heybony"
+        "p": "heybony",
+        "t": "monthly"
       },
       {
         "n": "Missy Da Kunt",
@@ -2355,8 +2340,7 @@
         "e": "2026-05-12T17:00:00Z",
         "d": null,
         "j": "Kunt Kill'ha invites Mokish",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Broodoo Ramses",
@@ -2365,7 +2349,6 @@
         "d": null,
         "j": ": Wizard Doodle Tapes vol.1",
         "u": null,
-        "t": "monthly",
         "p": "broodooramses"
       },
       {
@@ -2721,6 +2704,16 @@
         "u": null,
         "t": "monthly",
         "p": "pabloblanquito"
+      },
+      {
+        "n": "Avant Gardens",
+        "s": "2026-06-11T22:00:00Z",
+        "e": "2026-06-12T01:00:00Z",
+        "d": null,
+        "j": "Lychee",
+        "u": null,
+        "t": "monthly",
+        "p": "lychee"
       }
     ]
   }
