@@ -1,34 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-11T14:31:14.335Z",
+  "updated": "2026-05-11T17:49:28.767Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Donna Leake",
-        "s": "2026-05-11T15:00:00+01:00",
-        "e": "2026-05-11T17:00:00+01:00",
-        "d": "Dive into Donna Leake's ever developing taste, drawing sounds from all over the globe and all over the clock including jazz, reggae and psych. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/donna-leake/episodes/donna-leake-11th-may-2026",
-        "t": "monthly",
-        "p": "donnaleake"
-      },
-      {
-        "n": "NAOMI ASA",
-        "s": "2026-05-11T17:00:00+01:00",
-        "e": "2026-05-11T18:00:00+01:00",
-        "d": "Naomi Asa on the NTS airwaves, delivering soothing soul and spiritual jazz. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/naomi-asaturyan/episodes/naomi-asaturyan-11th-may-2026",
-        "p": "naomi"
-      },
       {
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-05-11T18:00:00+01:00",
         "e": "2026-05-11T20:00:00+01:00",
-        "d": null,
+        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
         "j": "COCO MARIA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-11th-may-2026",
         "t": "weekly",
         "p": "cocomaria"
       },
@@ -36,9 +17,19 @@
         "n": "NTS Guide to: Flamenco Pop (1975-2025)",
         "s": "2026-05-11T20:00:00+01:00",
         "e": "2026-05-11T21:02:00+01:00",
+        "d": "A brief overview of notable artists who have created music at the intersection of traditional Spanish flamenco and pop music, from the trends beginnings in the 1970s to the present day. The selection features gipsy artists predominantly, a group whose contribution to Spanish popular music is frequently minimised. \nSelected by Sasha Binia Benarie.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-flamenco-pop-11th-may-2026"
+      },
+      {
+        "n": "REBE (R)",
+        "s": "2026-05-11T21:02:00+01:00",
+        "e": "2026-05-11T22:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream",
+        "p": "rebe"
       },
       {
         "n": "BEACH NOIR W/ NICK LEÓN",
@@ -115,14 +106,16 @@
         "p": "coldpizza"
       },
       {
-        "n": "The Early Bird Show w/ Bitter Babe",
+        "n": "The Early Bird Show w/ Bitter Babe & Kia",
         "s": "2026-05-12T07:00:00+01:00",
         "e": "2026-05-12T09:00:00+01:00",
         "d": null,
-        "j": "Bitter Babe",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "bitterbabe"
+        "p": "kia",
+        "ap": [
+          "bitterbabe"
+        ]
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -170,42 +163,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SNO",
+        "s": "2026-05-12T17:00:00+01:00",
+        "e": "2026-05-12T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sno"
       }
     ],
     "nts2": [
       {
-        "n": "MALA JUNTA w/ Decoder",
-        "s": "2026-05-11T15:00:00+01:00",
-        "e": "2026-05-11T16:00:00+01:00",
-        "d": "Monthly mixes and \"Bad behaviour\" from the crew behind Berlin's acclaimed Mala Junta parties. Expect throwback trance, souped up '90s basslines and party music of a high tempo flavour.\nFrom the host: \"For this month, Decoder brings us straight to the dancefloor with a super charged electro mix\"",
-        "j": "Decoder",
-        "u": "https://www.nts.live/api/v2/shows/mala-junta/episodes/mala-junta-11th-may-2026",
-        "t": "monthly",
-        "p": "malajunta"
-      },
-      {
-        "n": "NTS x DistroKid: City Signal w/ C4rl",
-        "s": "2026-05-11T16:00:00+01:00",
-        "e": "2026-05-11T17:00:00+01:00",
-        "d": "Hamburg rapper c4rl has been at the forefront of the German underground, throwing parties with breakout artists from Southstar to Speckman. He shines a light on the wider German scene, taking influence from y2k indie, eurodance and trap.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nts-x-distrokid/episodes/nts-x-distrokid-11th-may-2026"
-      },
-      {
-        "n": "HIT A LICK RADIO",
-        "s": "2026-05-11T17:00:00+01:00",
-        "e": "2026-05-11T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "NATIVE SOUNDSYSTEM W/ SHOLZ",
         "s": "2026-05-11T18:00:00+01:00",
         "e": "2026-05-11T19:00:00+01:00",
-        "d": null,
+        "d": "Native Sound System join us once a month, breaking the latest sounds from Lagos",
         "j": "SHOLZ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/native-soundsystem/episodes/native-soundsystem-11th-may-2026",
         "t": "monthly",
         "p": "nativesoundsystem"
       },
@@ -213,9 +189,9 @@
         "n": "1080P w/ HD",
         "s": "2026-05-11T19:00:00+01:00",
         "e": "2026-05-11T20:00:00+01:00",
-        "d": null,
+        "d": "HD features a vast variety of guests spanning across hip hop, RnB and electronic music to talk about music, culture and life aswell as share their favorite selections of any genre.\nFrom the host: \"In the mix with host HD. This episode of 1080P is for dancing into summer with fresh club and hip hop tracks from around the world.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hd/episodes/hd-11th-may-2026",
         "p": "hd"
       },
       {
@@ -275,13 +251,13 @@
         "p": "totalstasis"
       },
       {
-        "n": "DELIVERY PRESENTS: HAAN",
+        "n": "Delivery Presents: Haan (R)",
         "s": "2026-05-12T03:00:00+01:00",
         "e": "2026-05-12T04:00:00+01:00",
         "d": null,
-        "j": "HAAN",
+        "j": "Haan",
         "u": null,
-        "t": "monthly",
+        "t": "restream",
         "p": "delivery"
       },
       {
@@ -339,27 +315,46 @@
         "u": null,
         "t": "restream",
         "p": "redkoffee"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Louis Selwyn",
-        "s": "2026-05-11T13:00:00Z",
-        "e": "2026-05-11T15:00:00Z",
+        "n": "Phambinho W/ Drexler: To Lose, To Remember",
+        "s": "2026-05-12T12:00:00+01:00",
+        "e": "2026-05-12T13:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "louisselwyn"
+        "p": "phambinho"
       },
       {
-        "n": "Suga House",
-        "s": "2026-05-11T15:00:00Z",
-        "e": "2026-05-11T16:00:00Z",
+        "n": "MARK LECKEY",
+        "s": "2026-05-12T13:00:00+01:00",
+        "e": "2026-05-12T14:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "LORAINE JAMES",
+        "s": "2026-05-12T14:00:00+01:00",
+        "e": "2026-05-12T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lorainejames"
+      },
+      {
+        "n": "WES BAGGALEY",
+        "s": "2026-05-12T16:00:00+01:00",
+        "e": "2026-05-12T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "wesbaggaley"
+      }
+    ],
+    "subtle": [
       {
         "n": "PADWICK",
         "s": "2026-05-11T16:00:00Z",
@@ -1487,27 +1482,38 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Bidl",
+        "s": "2026-05-18T15:00:00Z",
+        "e": "2026-05-18T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Skari",
+        "s": "2026-05-18T16:00:00Z",
+        "e": "2026-05-18T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "skari"
+      },
+      {
+        "n": "H3L3NA",
+        "s": "2026-05-18T17:00:00Z",
+        "e": "2026-05-18T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "h3l3na"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-05-11T13:00:00Z",
-        "e": "2026-05-11T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Middle Pillar Sounds",
-        "s": "2026-05-11T15:00:00Z",
-        "e": "2026-05-11T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Rene Contreras - Viva! Talks",
         "s": "2026-05-11T17:00:00Z",
@@ -2076,27 +2082,29 @@
         "u": null,
         "t": "monthly",
         "p": "jessfu"
+      },
+      {
+        "n": "Andrew Goldberg - Rainy Day Fund",
+        "s": "2026-05-18T15:00:00Z",
+        "e": "2026-05-18T17:00:00Z",
+        "d": null,
+        "j": "Rainy Day Fund",
+        "u": null,
+        "t": "monthly",
+        "p": "andrewgoldberg"
+      },
+      {
+        "n": "Rene Contreras - Viva! Talks",
+        "s": "2026-05-18T17:00:00Z",
+        "e": "2026-05-18T19:00:00Z",
+        "d": null,
+        "j": "Viva! Talks",
+        "u": null,
+        "t": "weekly",
+        "p": "renecontreras"
       }
     ],
     "rinse": [
-      {
-        "n": "Appetite",
-        "s": "2026-05-11T14:00:00Z",
-        "e": "2026-05-11T16:00:00Z",
-        "d": null,
-        "j": "Elliot Schooling & Liam Palmer FT Lulah Francs",
-        "u": null
-      },
-      {
-        "n": "Fold",
-        "s": "2026-05-11T16:00:00Z",
-        "e": "2026-05-11T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "fold"
-      },
       {
         "n": "Sharnie",
         "s": "2026-05-11T17:00:00Z",
@@ -2142,7 +2150,7 @@
         "s": "2026-05-11T22:00:00Z",
         "e": "2026-05-11T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ian DPM & Wager",
         "u": null,
         "t": "monthly",
         "p": "scuffedrecordings"
@@ -2212,20 +2220,20 @@
         "t": "weekly"
       },
       {
-        "n": "Patrick Hinton",
+        "n": "Gemma Ross",
         "s": "2026-05-12T11:00:00Z",
         "e": "2026-05-12T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "p": "gemmaross"
       },
       {
         "n": "Savannah Blake",
         "s": "2026-05-12T12:00:00Z",
         "e": "2026-05-12T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Sol Sessions with The Flag Twins",
         "u": null,
         "t": "biweekly",
         "p": "savannahblake"
@@ -2307,40 +2315,13 @@
         "s": "2026-05-12T22:00:00Z",
         "e": "2026-05-12T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Techno Special",
         "u": null,
         "t": "biweekly",
         "p": "earfulofwax"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Sabor A Mi",
-        "s": "2026-05-11T14:00:00Z",
-        "e": "2026-05-11T15:00:00Z",
-        "d": null,
-        "j": "Musica del Alma avec Tercer.mundistx et Alfredo Espinel",
-        "u": null,
-        "t": "biweekly",
-        "p": "saborami"
-      },
-      {
-        "n": "DVDE",
-        "s": "2026-05-11T15:00:00Z",
-        "e": "2026-05-11T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "dvde"
-      },
-      {
-        "n": "Pureblast (ex Baraka)",
-        "s": "2026-05-11T16:00:00Z",
-        "e": "2026-05-11T17:00:00Z",
-        "d": null,
-        "j": "invite Meilgaarden",
-        "u": null
-      },
       {
         "n": "Souzo",
         "s": "2026-05-11T17:00:00Z",
@@ -2434,7 +2415,7 @@
         "s": "2026-05-12T17:00:00Z",
         "e": "2026-05-12T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": ": Wizard Doodle Tapes vol.1",
         "u": null,
         "t": "monthly",
         "p": "broodooramses"
