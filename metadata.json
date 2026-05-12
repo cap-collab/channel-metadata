@@ -1,58 +1,34 @@
 {
   "v": 2,
-  "updated": "2026-05-12T06:31:31.455Z",
+  "updated": "2026-05-12T10:24:19.277Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Early Bird Show w/ Bitter Babe & Kia",
-        "s": "2026-05-12T07:00:00+01:00",
-        "e": "2026-05-12T09:00:00+01:00",
-        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-bitter-babe-12th-may-2026",
-        "p": "kia",
-        "ap": [
-          "bitterbabe"
-        ]
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-05-12T09:00:00+01:00",
-        "e": "2026-05-12T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-12th-may-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-05-12T11:00:00+01:00",
         "e": "2026-05-12T13:00:00+01:00",
-        "d": null,
+        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-12th-may-2026",
         "p": "anu"
       },
       {
         "n": "PROSUMER",
         "s": "2026-05-12T13:00:00+01:00",
         "e": "2026-05-12T15:00:00+01:00",
-        "d": null,
+        "d": "Berlin techno aficionado Prosumer lays it out for all the wannabes. A harmonious lecture in house and soul, Prosumer’s here to share. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/prosumer/episodes/prosumer-12th-may-2026",
         "t": "monthly",
         "p": "prosumer"
       },
       {
-        "n": "Self Soothe w/ Margeaux",
+        "n": "Self Soothe w/ Mabe Fratti & Bill Orcutt",
         "s": "2026-05-12T15:00:00+01:00",
         "e": "2026-05-12T16:00:00+01:00",
         "d": null,
-        "j": "Margeaux",
-        "u": null,
-        "t": "weekly",
-        "p": "margeaux"
+        "j": null,
+        "u": null
       },
       {
         "n": "WAVE FLOWER W/ YUKA MIZUHARA",
@@ -171,34 +147,37 @@
         "u": null,
         "t": "weekly",
         "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-05-13T13:00:00+01:00",
+        "e": "2026-05-13T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
+      },
+      {
+        "n": "BRADLEY ZERO PRESESNTS RHYTHM SECTION",
+        "s": "2026-05-13T14:00:00+01:00",
+        "e": "2026-05-13T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "babyschön (R)",
-        "s": "2026-05-12T07:00:00+01:00",
-        "e": "2026-05-12T08:00:00+01:00",
-        "d": "Low, slow, and sleazy sounds for your Friday afternoon. Expect post-punk, synth pop, -wave and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/babyschon/episodes/babyschon-19th-july-2024",
-        "t": "restream"
-      },
-      {
-        "n": "NTS GUIDE TO: EUROPEAN COLDWAVE 1980 - 85 (R)",
-        "s": "2026-05-12T08:00:00+01:00",
-        "e": "2026-05-12T10:00:00+01:00",
-        "d": "Two hours of European coldwave tracks, selected by NTS.",
-        "j": "EUROPEAN COLDWAVE 1980 - 85",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/european-coldwave-17th-april-2022",
-        "t": "restream"
-      },
-      {
         "n": "TAFELMUSIK W/ FRANCESCO FUSARO - SINFONIA MILANESE SPECIAL (R)",
         "s": "2026-05-12T10:00:00+01:00",
         "e": "2026-05-12T12:00:00+01:00",
-        "d": null,
+        "d": "Francesco Fusaro, the man behind MFZ Records and classical music recording series 19'40'', brings a considered and varied selection of baroque, classical and contemporary music for a full two hours each month.",
         "j": "FRANCESCO FUSARO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/francesco-fusaro/episodes/francesco-fusaro-12th-april-2025",
         "t": "restream",
         "p": "francescofusaro"
       },
@@ -206,9 +185,10 @@
         "n": "Phambinho W/ Drexler: To Lose, To Remember",
         "s": "2026-05-12T12:00:00+01:00",
         "e": "2026-05-12T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Monthly enqiuries into encounters in harmony, forms of hearing, and occasionally responding.\nFrom the host: \"An exploration of music & its relationship to grief, illness, loss, & memory. Through ambient music, songs, field recordings, & personal reflections, Drexler traces how artists use sound & music to process absence, honour loved ones, & find moments of connection, catharsis, & hope within grief.\"",
+        "j": "Drexler",
+        "u": "https://www.nts.live/api/v2/shows/phambinho/episodes/phambinho-12th-may-2026",
+        "t": "monthly",
         "p": "phambinho"
       },
       {
@@ -339,36 +319,28 @@
         "u": null,
         "t": "restream",
         "p": "cxema"
+      },
+      {
+        "n": "BREAKING PEOPLE W/ NOA KURZWEIL (R)",
+        "s": "2026-05-13T05:00:00+01:00",
+        "e": "2026-05-13T06:00:00+01:00",
+        "d": null,
+        "j": "NOA KURZWEIL",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Lung Dart (R)",
+        "s": "2026-05-13T06:00:00+01:00",
+        "e": "2026-05-13T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "lungdart"
       }
     ],
     "subtle": [
-      {
-        "n": "Sparring Sessions",
-        "s": "2026-05-12T06:00:00Z",
-        "e": "2026-05-12T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Breakfast Spoons w/ Boruch",
-        "s": "2026-05-12T07:00:00Z",
-        "e": "2026-05-12T08:00:00Z",
-        "d": null,
-        "j": "Boruch",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Gingerly",
-        "s": "2026-05-12T08:00:00Z",
-        "e": "2026-05-12T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Lucidik ",
         "s": "2026-05-12T10:00:00Z",
@@ -1488,23 +1460,54 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Ardishko",
+        "s": "2026-05-19T07:00:00Z",
+        "e": "2026-05-19T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Albert Moon",
+        "s": "2026-05-19T09:00:00Z",
+        "e": "2026-05-19T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "albertmoon",
+        "ap": [
+          "albert"
+        ]
+      },
+      {
+        "n": " Ovrtic",
+        "s": "2026-05-19T10:00:00Z",
+        "e": "2026-05-19T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ovrtic"
       }
     ],
     "dublab": [
       {
-        "n": "Daniel T - Crosseyed and Painless",
-        "s": "2026-05-12T05:00:00Z",
-        "e": "2026-05-12T07:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-12T09:00:00Z",
+        "e": "2026-05-12T11:00:00Z",
         "d": null,
-        "j": "Crosseyed and Painless",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "danielt"
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-12T07:00:00Z",
-        "e": "2026-05-12T09:00:00Z",
+        "s": "2026-05-12T11:00:00Z",
+        "e": "2026-05-12T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2100,24 +2103,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-05-12T06:00:00Z",
-        "e": "2026-05-12T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Papaoul",
-        "s": "2026-05-12T08:00:00Z",
-        "e": "2026-05-12T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Jumbi",
         "s": "2026-05-12T10:00:00Z",
         "e": "2026-05-12T11:00:00Z",
@@ -2163,7 +2148,7 @@
         "s": "2026-05-12T14:00:00Z",
         "e": "2026-05-12T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "SamTheMan",
         "u": null,
         "t": "weekly",
         "p": "brighterdaysfamily"
@@ -2395,24 +2380,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-11T19:00:00Z",
-        "e": "2026-05-12T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-05-12T07:00:00Z",
-        "e": "2026-05-12T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-12T10:00:00Z",
         "e": "2026-05-12T12:00:00Z",
         "d": null,
@@ -2421,9 +2388,99 @@
         "t": "playlist"
       },
       {
-        "n": "Black Square Club",
+        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
         "s": "2026-05-12T12:00:00Z",
+        "e": "2026-05-12T13:00:00Z",
+        "d": null,
+        "j": "EPISODE 6 : Corps & Âmes",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Kiala Ogawa",
+        "s": "2026-05-12T13:00:00Z",
         "e": "2026-05-12T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "kialaogawa"
+      },
+      {
+        "n": "RONY",
+        "s": "2026-05-12T14:00:00Z",
+        "e": "2026-05-12T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Hey Bony",
+        "s": "2026-05-12T15:00:00Z",
+        "e": "2026-05-12T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "heybony"
+      },
+      {
+        "n": "Missy Da Kunt",
+        "s": "2026-05-12T16:00:00Z",
+        "e": "2026-05-12T17:00:00Z",
+        "d": null,
+        "j": "Kunt Kill'ha invites Mokish",
+        "u": null
+      },
+      {
+        "n": "Broodoo Ramses",
+        "s": "2026-05-12T17:00:00Z",
+        "e": "2026-05-12T18:00:00Z",
+        "d": null,
+        "j": ": Wizard Doodle Tapes vol.1",
+        "u": null,
+        "p": "broodooramses"
+      },
+      {
+        "n": "Sydfalls",
+        "s": "2026-05-12T18:00:00Z",
+        "e": "2026-05-12T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-12T19:00:00Z",
+        "e": "2026-05-13T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-13T07:00:00Z",
+        "e": "2026-05-13T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-13T10:00:00Z",
+        "e": "2026-05-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Black Square Club",
+        "s": "2026-05-13T12:00:00Z",
+        "e": "2026-05-13T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2431,8 +2488,8 @@
       },
       {
         "n": "ShayBySchai",
-        "s": "2026-05-12T14:00:00Z",
-        "e": "2026-05-12T15:00:00Z",
+        "s": "2026-05-13T14:00:00Z",
+        "e": "2026-05-13T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2441,8 +2498,8 @@
       },
       {
         "n": "Andy4000",
-        "s": "2026-05-12T15:00:00Z",
-        "e": "2026-05-12T16:00:00Z",
+        "s": "2026-05-13T15:00:00Z",
+        "e": "2026-05-13T16:00:00Z",
         "d": null,
         "j": ": Andirekt Show avec 3010",
         "u": null,
@@ -2450,8 +2507,8 @@
       },
       {
         "n": "Menace Progressive",
-        "s": "2026-05-12T16:00:00Z",
-        "e": "2026-05-12T17:00:00Z",
+        "s": "2026-05-13T16:00:00Z",
+        "e": "2026-05-13T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2463,8 +2520,8 @@
       },
       {
         "n": "De Vedelly",
-        "s": "2026-05-12T17:00:00Z",
-        "e": "2026-05-12T18:00:00Z",
+        "s": "2026-05-13T17:00:00Z",
+        "e": "2026-05-13T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2472,8 +2529,8 @@
       },
       {
         "n": "RONI",
-        "s": "2026-05-12T18:00:00Z",
-        "e": "2026-05-12T19:00:00Z",
+        "s": "2026-05-13T18:00:00Z",
+        "e": "2026-05-13T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2482,8 +2539,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-12T19:00:00Z",
-        "e": "2026-05-12T20:00:00Z",
+        "s": "2026-05-13T19:00:00Z",
+        "e": "2026-05-13T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
