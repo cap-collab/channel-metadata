@@ -1,43 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-11T22:45:57.338Z",
+  "updated": "2026-05-12T02:09:05.232Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FURNITURE WITHOUT MEMORIES W/ LIVWUTANG & Mo Yasin",
-        "s": "2026-05-11T23:00:00+01:00",
-        "e": "2026-05-12T00:00:00+01:00",
-        "d": "Bimonthly excursions through memories, geographies and nostalgia from NYC-based livwutang.\nFrom the host: _\"This episode was crafted by one of my all-time favorite artists, Mo Yasin. He's got the vastest crates of anyone I know in NYC and it's an honor to host him on the show. \nIt's a gorgeous and intentional collage of music that simultaneously soothes and incites, where the only genre is: deep.\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/livwutang/episodes/livwutang-11th-may-2026",
-        "p": "livwutang"
-      },
-      {
-        "n": "BODY MOTION W/ THELIA",
-        "s": "2026-05-12T00:00:00+01:00",
-        "e": "2026-05-12T01:00:00+01:00",
-        "d": "The signal is strong. Body Motion monthly on NTS1.",
-        "j": "THELIA",
-        "u": "https://www.nts.live/api/v2/shows/body-motion/episodes/body-motion-12th-may-2026",
-        "t": "monthly",
-        "p": "bodymotion"
-      },
-      {
-        "n": "FRACTAL MEAT ON A SPONGY BONE",
-        "s": "2026-05-12T01:00:00+01:00",
-        "e": "2026-05-12T03:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "NEUE TANZ W/ JULES (R)",
         "s": "2026-05-12T03:00:00+01:00",
         "e": "2026-05-12T04:00:00+01:00",
-        "d": null,
+        "d": "Playing anything from ambient and experimental textures interwoven through eccentric new wave, forgotten b-sides and contemporary dance music; one can expect almost anything from the Neue Tanz show. Hosted monthly by Jules, with friends or on his own. \nhttps://soundcloud.com/jules-bethmann",
         "j": "JULES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jules/episodes/neue-tanz-2nd-october-2019",
         "t": "restream",
         "p": "jules"
       },
@@ -45,9 +17,9 @@
         "n": "SKEE MASK PRESENTS: FEIERABEND (R)",
         "s": "2026-05-12T04:00:00+01:00",
         "e": "2026-05-12T05:00:00+01:00",
-        "d": null,
+        "d": "Skee's insight through his daily listening habits, from guilty pleasures to casual recommendations and in between…",
         "j": "FEIERABEND",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/skee-mask/episodes/skee-mask-15th-august-2025",
         "t": "restream",
         "p": "skeemask"
       },
@@ -171,53 +143,44 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "BLUE TRIO RADIO W/ FULL BODY 2",
+        "s": "2026-05-13T00:00:00+01:00",
+        "e": "2026-05-13T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "fullbody2"
+      },
+      {
+        "n": "BRIDGET SMALL",
+        "s": "2026-05-13T01:00:00+01:00",
+        "e": "2026-05-13T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "bridgetsmall"
+      },
+      {
+        "n": "Furniture without Memories w/ livwutang (R)",
+        "s": "2026-05-13T04:00:00+01:00",
+        "e": "2026-05-13T05:00:00+01:00",
+        "d": null,
+        "j": "livwutang",
+        "u": null,
+        "t": "restream",
+        "p": "livwutang"
       }
     ],
     "nts2": [
       {
-        "n": "ASTRAL GARDEN W/ NAILAH HUNTER",
-        "s": "2026-05-11T23:00:00+01:00",
-        "e": "2026-05-12T00:00:00+01:00",
-        "d": "Take a moment and sit in the Astral Garden with harpist and composer Nailah Hunter, summoning healing frequencies you can float off to. \nImage: Claudia Gödke",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nailah-hunter/episodes/nailah-hunter-11th-may-2026",
-        "p": "nailahhunter"
-      },
-      {
-        "n": "Hit Factory w/ DJ Wawa (R)",
-        "s": "2026-05-12T00:00:00+01:00",
-        "e": "2026-05-12T01:00:00+01:00",
-        "d": "Get the party started with DJ Wawa & Clay Wilson's Hit Factory Records.\nFrom the host: \"Another winter. Another sad time. Another round of tunes to help time pass. Good luck this year <3\"",
-        "j": "DJ Wawa",
-        "u": "https://www.nts.live/api/v2/shows/hit-factory/episodes/hit-factory-20th-january-2026",
-        "t": "restream",
-        "p": "hitfactory"
-      },
-      {
-        "n": "MASSIVEFART420 RADIO W/ IRENE LEE",
-        "s": "2026-05-12T01:00:00+01:00",
-        "e": "2026-05-12T02:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Total Stasis",
-        "s": "2026-05-12T02:00:00+01:00",
-        "e": "2026-05-12T03:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "totalstasis"
-      },
-      {
         "n": "Delivery Presents: Haan (R)",
         "s": "2026-05-12T03:00:00+01:00",
         "e": "2026-05-12T04:00:00+01:00",
-        "d": null,
+        "d": "Delivery presents: 'HAAN', live for an hour a month, straight from our LA studio. ",
         "j": "Haan",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/delivery/episodes/delivery-25th-november-2025",
         "t": "restream",
         "p": "delivery"
       },
@@ -225,9 +188,9 @@
         "n": "Akito (R)",
         "s": "2026-05-12T04:00:00+01:00",
         "e": "2026-05-12T05:00:00+01:00",
-        "d": null,
+        "d": "From host: \"NTS 10 year anniversary show with Osaka-based DJ ECIVTAKIZUMI\" _",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/akito/episodes/akito-13th-october-2025",
         "t": "restream",
         "p": "akito"
       },
@@ -339,48 +302,46 @@
         "j": null,
         "u": null,
         "p": "paradise"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Factory Floor ",
-        "s": "2026-05-11T22:00:00Z",
-        "e": "2026-05-11T23:00:00Z",
+        "n": "Cosmic Soundz",
+        "s": "2026-05-12T21:00:00+01:00",
+        "e": "2026-05-12T22:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Yung Dave",
-        "s": "2026-05-11T23:00:00Z",
-        "e": "2026-05-12T00:00:00Z",
+        "n": "LOS HITTERS",
+        "s": "2026-05-12T22:00:00+01:00",
+        "e": "2026-05-12T23:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "yungdave"
+        "p": "loshitters"
       },
       {
-        "n": "Skee Sunday",
-        "s": "2026-05-12T00:00:00Z",
-        "e": "2026-05-12T01:00:00Z",
+        "n": "FUSION BATCHES W/ DJ MORSE CODE",
+        "s": "2026-05-12T23:00:00+01:00",
+        "e": "2026-05-13T00:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "skeesunday"
+        "p": "fusionbatches"
       },
       {
-        "n": "dbeater",
-        "s": "2026-05-12T01:00:00Z",
-        "e": "2026-05-12T02:00:00Z",
+        "n": "Programmin' w/ DJ Kita",
+        "s": "2026-05-13T00:00:00+01:00",
+        "e": "2026-05-13T01:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "DJ Kita",
         "u": null,
         "t": "monthly",
-        "p": "dbeater"
-      },
+        "p": "djkita"
+      }
+    ],
+    "subtle": [
       {
         "n": "Ethereal DJ",
         "s": "2026-05-12T02:00:00Z",
@@ -389,6 +350,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-12T03:00:00Z",
+        "e": "2026-05-12T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "DJ Moement",
@@ -1499,27 +1469,37 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
-      {
-        "n": "RERUN: Nebula Star – guest session",
-        "s": "2026-05-11T22:00:00Z",
-        "e": "2026-05-11T23:00:00Z",
-        "d": null,
-        "j": "Nebula Star – guest session",
-        "u": null,
-        "t": "restream"
       },
       {
-        "n": "sounds of NOW",
-        "s": "2026-05-11T23:00:00Z",
-        "e": "2026-05-12T01:00:00Z",
+        "n": "Dan Dara",
+        "s": "2026-05-18T23:00:00Z",
+        "e": "2026-05-19T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Refractions Radio",
+        "s": "2026-05-19T01:00:00Z",
+        "e": "2026-05-19T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "refractionsradio"
+      },
+      {
+        "n": "6JJACOB",
+        "s": "2026-05-19T02:00:00Z",
+        "e": "2026-05-19T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Terrell Brooke – TheyHouse",
         "s": "2026-05-12T01:00:00Z",
@@ -1680,6 +1660,15 @@
         "u": null,
         "t": "monthly",
         "p": "byronwestbrook"
+      },
+      {
+        "n": "RERUN: Lindsay Boogie – guest session",
+        "s": "2026-05-14T01:00:00Z",
+        "e": "2026-05-14T02:00:00Z",
+        "d": null,
+        "j": "Lindsay Boogie – guest session",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Rusty Santos - Microworlds",
@@ -2098,37 +2087,18 @@
         "u": null,
         "t": "monthly",
         "p": "ranideleon"
+      },
+      {
+        "n": "Encarnación - Lucid Hour",
+        "s": "2026-05-19T01:00:00Z",
+        "e": "2026-05-19T03:00:00Z",
+        "d": null,
+        "j": "Lucid Hour",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Scuffed Recordings",
-        "s": "2026-05-11T22:00:00Z",
-        "e": "2026-05-11T23:00:00Z",
-        "d": null,
-        "j": "Ian DPM & Wager",
-        "u": null,
-        "t": "monthly",
-        "p": "scuffedrecordings"
-      },
-      {
-        "n": "Stones Taro",
-        "s": "2026-05-11T23:00:00Z",
-        "e": "2026-05-12T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "stonestaro"
-      },
-      {
-        "n": "Nio-B",
-        "s": "2026-05-12T00:00:00Z",
-        "e": "2026-05-12T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-05-12T01:00:00Z",
@@ -2275,9 +2245,182 @@
         "u": null,
         "t": "biweekly",
         "p": "earfulofwax"
+      },
+      {
+        "n": "Noirnor",
+        "s": "2026-05-12T23:00:00Z",
+        "e": "2026-05-13T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "noirnor"
+      },
+      {
+        "n": "Jossy Mitsu",
+        "s": "2026-05-13T00:00:00Z",
+        "e": "2026-05-13T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "jossymitsu"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-05-13T01:00:00Z",
+        "e": "2026-05-13T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Braga Circuit",
+        "s": "2026-05-13T05:00:00Z",
+        "e": "2026-05-13T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "bragacircuit"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-05-13T06:00:00Z",
+        "e": "2026-05-13T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Esk",
+        "s": "2026-05-13T08:00:00Z",
+        "e": "2026-05-13T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "esk"
+      },
+      {
+        "n": "Cuppa Sounds",
+        "s": "2026-05-13T10:00:00Z",
+        "e": "2026-05-13T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "cuppasounds"
+      },
+      {
+        "n": "Eclecticist",
+        "s": "2026-05-13T11:00:00Z",
+        "e": "2026-05-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "eclecticist"
+      },
+      {
+        "n": "Neptizzle",
+        "s": "2026-05-13T12:00:00Z",
+        "e": "2026-05-13T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "neptizzle"
+      },
+      {
+        "n": "Anastazja",
+        "s": "2026-05-13T13:00:00Z",
+        "e": "2026-05-13T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "anastazja"
+      },
+      {
+        "n": "Utopia Presents",
+        "s": "2026-05-13T14:00:00Z",
+        "e": "2026-05-13T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "utopiapresents"
+      },
+      {
+        "n": "Changing Currents",
+        "s": "2026-05-13T16:00:00Z",
+        "e": "2026-05-13T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "MJK",
+        "s": "2026-05-13T17:00:00Z",
+        "e": "2026-05-13T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "mjk"
+      },
+      {
+        "n": "Mall Grab",
+        "s": "2026-05-13T18:00:00Z",
+        "e": "2026-05-13T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "mallgrab"
+      },
+      {
+        "n": "Studio Barnhus",
+        "s": "2026-05-13T20:00:00Z",
+        "e": "2026-05-13T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "studiobarnhus"
+      },
+      {
+        "n": "Fracture",
+        "s": "2026-05-13T21:00:00Z",
+        "e": "2026-05-13T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "fracture"
+      },
+      {
+        "n": "EMA",
+        "s": "2026-05-13T22:00:00Z",
+        "e": "2026-05-13T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "ema"
       }
     ],
     "rinsefr": [
+      {
+        "n": "Playlist France",
+        "s": "2026-05-11T19:00:00Z",
+        "e": "2026-05-12T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
       {
         "n": "Playlist France",
         "s": "2026-05-12T07:00:00Z",
@@ -2297,67 +2440,64 @@
         "t": "playlist"
       },
       {
-        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
+        "n": "Black Square Club",
         "s": "2026-05-12T12:00:00Z",
-        "e": "2026-05-12T13:00:00Z",
-        "d": null,
-        "j": "EPISODE 6 : Corps & Âmes",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Kiala Ogawa",
-        "s": "2026-05-12T13:00:00Z",
         "e": "2026-05-12T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "kialaogawa",
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "RONY",
+        "n": "ShayBySchai",
         "s": "2026-05-12T14:00:00Z",
         "e": "2026-05-12T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "shaybyschai"
       },
       {
-        "n": "Hey Bony",
+        "n": "Andy4000",
         "s": "2026-05-12T15:00:00Z",
         "e": "2026-05-12T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": ": Andirekt Show avec 3010",
         "u": null,
-        "p": "heybony",
         "t": "monthly"
       },
       {
-        "n": "Missy Da Kunt",
+        "n": "Menace Progressive",
         "s": "2026-05-12T16:00:00Z",
         "e": "2026-05-12T17:00:00Z",
         "d": null,
-        "j": "Kunt Kill'ha invites Mokish",
-        "u": null
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "menace",
+        "ap": [
+          "menaceprogressive"
+        ]
       },
       {
-        "n": "Broodoo Ramses",
+        "n": "De Vedelly",
         "s": "2026-05-12T17:00:00Z",
         "e": "2026-05-12T18:00:00Z",
         "d": null,
-        "j": ": Wizard Doodle Tapes vol.1",
+        "j": null,
         "u": null,
-        "p": "broodooramses"
+        "t": "monthly"
       },
       {
-        "n": "Sydfalls",
+        "n": "RONI",
         "s": "2026-05-12T18:00:00Z",
         "e": "2026-05-12T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly",
+        "p": "roni"
       },
       {
         "n": "Playlist France",
@@ -2714,6 +2854,19 @@
         "u": null,
         "t": "monthly",
         "p": "lychee"
+      },
+      {
+        "n": "Fine Homebuilding",
+        "s": "2026-06-12T01:00:00Z",
+        "e": "2026-06-12T03:00:00Z",
+        "d": null,
+        "j": "Baby Leo",
+        "u": null,
+        "t": "monthly",
+        "p": "babyleo",
+        "ap": [
+          "fine"
+        ]
       }
     ]
   }
