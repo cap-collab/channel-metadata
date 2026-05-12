@@ -1,54 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-12T02:09:05.232Z",
+  "updated": "2026-05-12T06:31:31.455Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NEUE TANZ W/ JULES (R)",
-        "s": "2026-05-12T03:00:00+01:00",
-        "e": "2026-05-12T04:00:00+01:00",
-        "d": "Playing anything from ambient and experimental textures interwoven through eccentric new wave, forgotten b-sides and contemporary dance music; one can expect almost anything from the Neue Tanz show. Hosted monthly by Jules, with friends or on his own. \nhttps://soundcloud.com/jules-bethmann",
-        "j": "JULES",
-        "u": "https://www.nts.live/api/v2/shows/jules/episodes/neue-tanz-2nd-october-2019",
-        "t": "restream",
-        "p": "jules"
-      },
-      {
-        "n": "SKEE MASK PRESENTS: FEIERABEND (R)",
-        "s": "2026-05-12T04:00:00+01:00",
-        "e": "2026-05-12T05:00:00+01:00",
-        "d": "Skee's insight through his daily listening habits, from guilty pleasures to casual recommendations and in between…",
-        "j": "FEIERABEND",
-        "u": "https://www.nts.live/api/v2/shows/skee-mask/episodes/skee-mask-15th-august-2025",
-        "t": "restream",
-        "p": "skeemask"
-      },
-      {
-        "n": "SOFAY & RIBEKA (R)",
-        "s": "2026-05-12T05:00:00+01:00",
-        "e": "2026-05-12T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "COLD PIZZA W/ STUD1NT (R)",
-        "s": "2026-05-12T06:00:00+01:00",
-        "e": "2026-05-12T07:00:00+01:00",
-        "d": null,
-        "j": "STUD1NT",
-        "u": null,
-        "t": "restream",
-        "p": "coldpizza"
-      },
       {
         "n": "The Early Bird Show w/ Bitter Babe & Kia",
         "s": "2026-05-12T07:00:00+01:00",
         "e": "2026-05-12T09:00:00+01:00",
-        "d": null,
+        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-bitter-babe-12th-may-2026",
         "p": "kia",
         "ap": [
           "bitterbabe"
@@ -58,9 +19,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-05-12T09:00:00+01:00",
         "e": "2026-05-12T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-12th-may-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -171,63 +132,64 @@
         "u": null,
         "t": "restream",
         "p": "livwutang"
+      },
+      {
+        "n": "YU SU (R)",
+        "s": "2026-05-13T05:00:00+01:00",
+        "e": "2026-05-13T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "yusu"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2026-05-13T07:00:00+01:00",
+        "e": "2026-05-13T09:00:00+01:00",
+        "d": null,
+        "j": "SPIRIT BLUE",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-05-13T09:00:00+01:00",
+        "e": "2026-05-13T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-05-13T11:00:00+01:00",
+        "e": "2026-05-13T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
       }
     ],
     "nts2": [
       {
-        "n": "Delivery Presents: Haan (R)",
-        "s": "2026-05-12T03:00:00+01:00",
-        "e": "2026-05-12T04:00:00+01:00",
-        "d": "Delivery presents: 'HAAN', live for an hour a month, straight from our LA studio. ",
-        "j": "Haan",
-        "u": "https://www.nts.live/api/v2/shows/delivery/episodes/delivery-25th-november-2025",
-        "t": "restream",
-        "p": "delivery"
-      },
-      {
-        "n": "Akito (R)",
-        "s": "2026-05-12T04:00:00+01:00",
-        "e": "2026-05-12T05:00:00+01:00",
-        "d": "From host: \"NTS 10 year anniversary show with Osaka-based DJ ECIVTAKIZUMI\" _",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/akito/episodes/akito-13th-october-2025",
-        "t": "restream",
-        "p": "akito"
-      },
-      {
-        "n": "ALL STYLES ALL SMILES (R)",
-        "s": "2026-05-12T05:00:00+01:00",
-        "e": "2026-05-12T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "MUSIQUE TOPS (R)",
-        "s": "2026-05-12T06:00:00+01:00",
-        "e": "2026-05-12T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "babyschön (R)",
         "s": "2026-05-12T07:00:00+01:00",
         "e": "2026-05-12T08:00:00+01:00",
-        "d": null,
+        "d": "Low, slow, and sleazy sounds for your Friday afternoon. Expect post-punk, synth pop, -wave and more.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/babyschon/episodes/babyschon-19th-july-2024",
         "t": "restream"
       },
       {
         "n": "NTS GUIDE TO: EUROPEAN COLDWAVE 1980 - 85 (R)",
         "s": "2026-05-12T08:00:00+01:00",
         "e": "2026-05-12T10:00:00+01:00",
-        "d": null,
+        "d": "Two hours of European coldwave tracks, selected by NTS.",
         "j": "EUROPEAN COLDWAVE 1980 - 85",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/european-coldwave-17th-april-2022",
         "t": "restream"
       },
       {
@@ -255,7 +217,8 @@
         "e": "2026-05-12T14:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "markleckey"
       },
       {
         "n": "LORAINE JAMES",
@@ -331,45 +294,54 @@
         "p": "fusionbatches"
       },
       {
-        "n": "Programmin' w/ DJ Kita",
+        "n": "DJ KITA TAPEZ: HEARTBREAK MIX",
         "s": "2026-05-13T00:00:00+01:00",
         "e": "2026-05-13T01:00:00+01:00",
         "d": null,
-        "j": "DJ Kita",
-        "u": null,
-        "t": "monthly",
-        "p": "djkita"
-      }
-    ],
-    "subtle": [
+        "j": null,
+        "u": null
+      },
       {
-        "n": "Ethereal DJ",
-        "s": "2026-05-12T02:00:00Z",
-        "e": "2026-05-12T03:00:00Z",
+        "n": "El Sabor De La Ciudad w/ REGAL86 (R)",
+        "s": "2026-05-13T01:00:00+01:00",
+        "e": "2026-05-13T02:00:00+01:00",
+        "d": null,
+        "j": "REGAL86",
+        "u": null,
+        "t": "restream",
+        "p": "regal86"
+      },
+      {
+        "n": "BOOM BIP",
+        "s": "2026-05-13T02:00:00+01:00",
+        "e": "2026-05-13T03:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "boombip"
       },
       {
-        "n": "Subtle Selects",
-        "s": "2026-05-12T03:00:00Z",
-        "e": "2026-05-12T04:00:00Z",
+        "n": "The Last Playlist w/ Luis Felipe Farfán & Da’Shaunae Marisa",
+        "s": "2026-05-13T03:00:00+01:00",
+        "e": "2026-05-13T04:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "DJ Moement",
-        "s": "2026-05-12T04:00:00Z",
-        "e": "2026-05-12T05:00:00Z",
+        "n": "CXEMA (R)",
+        "s": "2026-05-13T04:00:00+01:00",
+        "e": "2026-05-13T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "djmoement"
-      },
+        "t": "restream",
+        "p": "cxema"
+      }
+    ],
+    "subtle": [
       {
         "n": "Sparring Sessions",
         "s": "2026-05-12T06:00:00Z",
@@ -1497,29 +1469,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Terrell Brooke – TheyHouse",
-        "s": "2026-05-12T01:00:00Z",
-        "e": "2026-05-12T03:00:00Z",
+        "n": "Full Frontal",
+        "s": "2026-05-19T03:00:00Z",
+        "e": "2026-05-19T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "terrellbrooke"
+        "p": "fullfrontal"
       },
       {
-        "n": "Aaron Paar - Stomping Grounds",
-        "s": "2026-05-12T03:00:00Z",
-        "e": "2026-05-12T05:00:00Z",
+        "n": "THE CULTURE HEAD w. SAINT VOX",
+        "s": "2026-05-19T06:00:00Z",
+        "e": "2026-05-19T07:00:00Z",
         "d": null,
-        "j": "Stomping Grounds",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "aaronpaar"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Daniel T - Crosseyed and Painless",
         "s": "2026-05-12T05:00:00Z",
@@ -1529,6 +1500,15 @@
         "u": null,
         "t": "monthly",
         "p": "danielt"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-12T07:00:00Z",
+        "e": "2026-05-12T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Mike Harding and Bana Haffar - Long Wave",
@@ -2096,28 +2076,29 @@
         "j": "Lucid Hour",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Jen Ferrer - Fish Whistle",
+        "s": "2026-05-19T03:00:00Z",
+        "e": "2026-05-19T05:00:00Z",
+        "d": null,
+        "j": "Fish Whistle",
+        "u": null,
+        "t": "monthly",
+        "p": "jenferrer"
+      },
+      {
+        "n": "Brennan - Unresolved Dependencies",
+        "s": "2026-05-19T05:00:00Z",
+        "e": "2026-05-19T07:00:00Z",
+        "d": null,
+        "j": "Unresolved Dependencies",
+        "u": null,
+        "t": "monthly",
+        "p": "brennan"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-05-12T01:00:00Z",
-        "e": "2026-05-12T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Manami",
-        "s": "2026-05-12T05:00:00Z",
-        "e": "2026-05-12T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "manami"
-      },
       {
         "n": "Playlist",
         "s": "2026-05-12T06:00:00Z",
@@ -2867,6 +2848,25 @@
         "ap": [
           "fine"
         ]
+      },
+      {
+        "n": "The Blurred Crusade",
+        "s": "2026-06-12T03:00:00Z",
+        "e": "2026-06-12T05:00:00Z",
+        "d": null,
+        "j": "Matt",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-06-12T05:00:00Z",
+        "e": "2026-06-12T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
       }
     ]
   }
