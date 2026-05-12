@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-12T21:09:59.426Z",
+  "updated": "2026-05-12T22:52:41.863Z",
   "stations": {
     "nts1": [
       {
@@ -177,15 +177,6 @@
     ],
     "nts2": [
       {
-        "n": "LOS HITTERS",
-        "s": "2026-05-12T22:00:00+01:00",
-        "e": "2026-05-12T23:00:00+01:00",
-        "d": "Los Hitters is the collective partnership of Joe Cristando (Couple Two T’ree) and Rene Lopez (Suavecito Souldies). A collaboration that links the two from Brooklyn, NY to Oakland, CA. Their mixes focus on soul sounds comprised of their vinyl collection.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/los-hitters/episodes/los-hitters-12th-may-2026",
-        "p": "loshitters"
-      },
-      {
         "n": "FUSION BATCHES W/ DJ MORSE CODE",
         "s": "2026-05-12T23:00:00+01:00",
         "e": "2026-05-13T00:00:00+01:00",
@@ -199,9 +190,9 @@
         "n": "DJ KITA TAPEZ: HEARTBREAK MIX",
         "s": "2026-05-13T00:00:00+01:00",
         "e": "2026-05-13T01:00:00+01:00",
-        "d": null,
+        "d": "DJ Kita is a Los Angeles based DJ most known for her energetic sets and dynamic hip hop selections. Her sets are fun and unpredictable, and capture the youthful essence of hip hop culture. Kita is a resident DJ and co curator of LA’s premiere black and queer underground party called Hood Rave. She has toured both nationally and internationally. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/programmin-dj-kita/episodes/programmin-dj-kita-13th-may-2026"
       },
       {
         "n": "El Sabor De La Ciudad w/ REGAL86 (R)",
@@ -342,17 +333,17 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "DHR Presents",
-        "s": "2026-05-12T21:00:00Z",
-        "e": "2026-05-12T22:00:00Z",
+        "n": "SUBJECT TO CHANGE W/ TIMMHOTEP",
+        "s": "2026-05-13T18:00:00+01:00",
+        "e": "2026-05-13T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "DCBL",
         "s": "2026-05-12T22:00:00Z",
@@ -1490,6 +1481,15 @@
         "j": "Helios XL",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "The R.I.P Show",
+        "s": "2026-05-19T22:00:00Z",
+        "e": "2026-05-19T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2099,16 +2099,6 @@
     ],
     "rinse": [
       {
-        "n": "Jay Carder",
-        "s": "2026-05-12T21:00:00Z",
-        "e": "2026-05-12T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "jaycarder"
-      },
-      {
         "n": "Earful of Wax",
         "s": "2026-05-12T22:00:00Z",
         "e": "2026-05-12T23:00:00Z",
@@ -2285,15 +2275,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-12T19:00:00Z",
-        "e": "2026-05-13T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-13T07:00:00Z",
         "e": "2026-05-13T10:00:00Z",
         "d": null,
@@ -2316,8 +2297,7 @@
         "e": "2026-05-13T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "ShayBySchai",
@@ -2326,7 +2306,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "shaybyschai"
       },
       {
@@ -2335,8 +2314,7 @@
         "e": "2026-05-13T16:00:00Z",
         "d": null,
         "j": ": Andirekt Show avec 3010",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Menace Progressive",
@@ -2368,7 +2346,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "roni"
       },
       {
