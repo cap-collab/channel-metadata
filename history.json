@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-13T14:09:19.571Z",
+  "updated": "2026-05-13T17:55:45.811Z",
   "stations": {
     "nts1": [
       {
@@ -13372,6 +13372,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "MOXIE - 15 year anniversary show",
+        "s": "2026-05-13T15:00:00+01:00",
+        "e": "2026-05-13T17:00:00+01:00",
+        "d": "Part of the NTS family since day dot, Moxie has held her Wednesday show since the stations first broadcasts. Inviting esteemed guests for interviews & mixes and breaking new, unreleased music, she’s got your Wednesday afternoons covered… Tune in to hear anything from Soulful House, Garage, Afro beats and all the way through to rolling techno.",
+        "j": "15 year anniversary show",
+        "u": "https://www.nts.live/api/v2/shows/moxie/episodes/moxie-13th-may-2026",
+        "t": "monthly",
+        "p": "moxie"
+      },
+      {
+        "n": "TASH LC",
+        "s": "2026-05-13T17:00:00+01:00",
+        "e": "2026-05-13T18:00:00+01:00",
+        "d": "After work fun and global tunes with Tash LC and guests every other Wednesday ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/tash-lc/episodes/tash-lc-13th-may-2026",
+        "t": "monthly",
+        "p": "tashlc"
       }
     ],
     "nts2": [
@@ -20138,7 +20158,8 @@
         "e": "2026-03-28T00:00:00Z",
         "d": "Enter Radha's spiritual soundscape - of special tunes near and dear to her.\nFrom the host: \"Back this month with a sunny spring sacred space special. slow and bright ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sacred-space/episodes/sacred-space-27th-march-2026"
+        "u": "https://www.nts.live/api/v2/shows/sacred-space/episodes/sacred-space-27th-march-2026",
+        "p": "radha"
       },
       {
         "n": "Luke Mele (R)",
@@ -25613,7 +25634,10 @@
         "d": "Enter Radha's spiritual soundscape - of special tunes near and dear to her.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/sacred-space/episodes/sacred-space-25th-april-2026",
-        "p": "sacredspace"
+        "p": "radha",
+        "ap": [
+          "sacredspace"
+        ]
       },
       {
         "n": "ORGANIC MUSIC TOKYO W/ CHEE SHIMIZU (R)",
@@ -29188,6 +29212,33 @@
         "j": null,
         "u": null,
         "p": "keelher"
+      },
+      {
+        "n": "BLACK STUDIES w/ Lamin Fofana",
+        "s": "2026-05-13T15:00:00+01:00",
+        "e": "2026-05-13T16:00:00+01:00",
+        "d": "Lamin Fofana is an artist and musician currently located in New York. His music contrasts the reality of our world with what’s beyond, and explores questions of movement, migration, alienation and belonging. His releases include Works In Metal, Here Lies Universality, Unsettling Scores, and The Open Boat. Fofana is the founder of the imprint Black Studies and phase4.zip",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/lamin-fofana/episodes/lamin-fofana-13th-may-2026"
+      },
+      {
+        "n": "THE BADDIS SOUND W/ DANNIELLA DEE - MAY MEDICINE",
+        "s": "2026-05-13T16:00:00+01:00",
+        "e": "2026-05-13T17:00:00+01:00",
+        "d": "Inspired by the iconic reggae & ska sounds of her home, singer & producer Danniella Dee shares a monthly crate of dub-wise selections, soul-soothing rocksteady, and heavyweight roots to the studio.\nFrom the host: \"Mixed bag of warm, soothing & grounding selections. Recorded at home, night nursing through the early hours of a Wednesday morning. Rastafari <3\"",
+        "j": "DANNIELLA DEE",
+        "u": "https://www.nts.live/api/v2/shows/danniella-dee/episodes/danniella-dee-13th-may-2026",
+        "t": "monthly",
+        "p": "dannielladee"
+      },
+      {
+        "n": "Martyn's Darkest Light",
+        "s": "2026-05-13T17:00:00+01:00",
+        "e": "2026-05-13T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
@@ -44365,6 +44416,33 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Bleached Club",
+        "s": "2026-05-13T14:00:00Z",
+        "e": "2026-05-13T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bleachedclub"
+      },
+      {
+        "n": "Benz",
+        "s": "2026-05-13T15:00:00Z",
+        "e": "2026-05-13T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "AIRED SELECTS w/ AIREDARCHIVE",
+        "s": "2026-05-13T16:00:00Z",
+        "e": "2026-05-13T17:00:00Z",
+        "d": null,
+        "j": "AIREDARCHIVE",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -54812,6 +54890,25 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-13T13:00:00Z",
+        "e": "2026-05-13T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "The Urxed - Seeing It As You Really Are",
+        "s": "2026-05-13T15:00:00Z",
+        "e": "2026-05-13T17:00:00Z",
+        "d": null,
+        "j": "Seeing It As You Really Are",
+        "u": null,
+        "t": "monthly",
+        "p": "theurxed"
       }
     ],
     "rinse": [
@@ -67955,6 +68052,25 @@
         "j": null,
         "u": null,
         "p": "anastazja"
+      },
+      {
+        "n": "Utopia Presents",
+        "s": "2026-05-13T14:00:00Z",
+        "e": "2026-05-13T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "utopiapresents"
+      },
+      {
+        "n": "Changing Currents",
+        "s": "2026-05-13T16:00:00Z",
+        "e": "2026-05-13T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinsefr": [
@@ -75536,6 +75652,36 @@
         "d": null,
         "j": "DJ Set Cheetah",
         "u": null
+      },
+      {
+        "n": "ShayBySchai",
+        "s": "2026-05-13T14:00:00Z",
+        "e": "2026-05-13T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "shaybyschai"
+      },
+      {
+        "n": "Andy4000",
+        "s": "2026-05-13T15:00:00Z",
+        "e": "2026-05-13T16:00:00Z",
+        "d": null,
+        "j": "Andyrekt : TALK 2 ANDY W/ 3010",
+        "u": null
+      },
+      {
+        "n": "Menace Progressive",
+        "s": "2026-05-13T16:00:00Z",
+        "e": "2026-05-13T17:00:00Z",
+        "d": null,
+        "j": "invite Lilipop (Alarma)",
+        "u": null,
+        "t": "weekly",
+        "p": "menace",
+        "ap": [
+          "menaceprogressive"
+        ]
       }
     ],
     "newtown": [
