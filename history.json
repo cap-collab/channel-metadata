@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-14T06:41:14.141Z",
+  "updated": "2026-05-14T10:07:09.907Z",
   "stations": {
     "nts1": [
       {
@@ -13493,6 +13493,25 @@
         "u": null,
         "t": "restream",
         "p": "malibu"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "s": "2026-05-14T07:00:00+01:00",
+        "e": "2026-05-14T09:00:00+01:00",
+        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
+        "j": "PAM",
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-14th-may-2026",
+        "t": "biweekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-05-14T09:00:00+01:00",
+        "e": "2026-05-14T11:00:00+01:00",
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
+        "j": "FLO",
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-14th-may-2026",
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
@@ -29446,6 +29465,42 @@
         "j": "JABU & ANDY PAYBACK",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "GHUNGHRU (R)",
+        "s": "2026-05-14T07:00:00+01:00",
+        "e": "2026-05-14T08:00:00+01:00",
+        "d": "All-genre NTS monthly by New York–based, New Delhi–born Arushi Jain fka modularprincess",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-5th-november-2025",
+        "t": "restream"
+      },
+      {
+        "n": "PERFECT LIVES W/ BRUNO & DANIEL (R)",
+        "s": "2026-05-14T08:00:00+01:00",
+        "e": "2026-05-14T09:00:00+01:00",
+        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
+        "j": "BRUNO & DANIEL",
+        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-10th-august-2025",
+        "t": "restream",
+        "p": "perfectlives"
+      },
+      {
+        "n": "A Scene In Between w/ Samuel Knee (R)",
+        "s": "2026-05-14T09:00:00+01:00",
+        "e": "2026-05-14T10:00:00+01:00",
+        "d": null,
+        "j": "Samuel Knee",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Just A Thought",
+        "s": "2026-05-14T10:00:00+01:00",
+        "e": "2026-05-14T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -44733,6 +44788,34 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-14T04:00:00Z",
+        "e": "2026-05-14T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Making Hay w/ natdav",
+        "s": "2026-05-14T07:00:00Z",
+        "e": "2026-05-14T08:00:00Z",
+        "d": null,
+        "j": "natdav",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Deep Awake by Semaj",
+        "s": "2026-05-14T08:00:00Z",
+        "e": "2026-05-14T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "deepawakebysemaj"
       }
     ],
     "dublab": [
@@ -55269,6 +55352,25 @@
         "u": null,
         "t": "monthly",
         "p": "rustysantos"
+      },
+      {
+        "n": "Richard Chartier – between two points",
+        "s": "2026-05-14T05:00:00Z",
+        "e": "2026-05-14T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "richardchartier"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-14T07:00:00Z",
+        "e": "2026-05-14T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -68523,6 +68625,25 @@
         "ap": [
           "tone"
         ]
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-05-14T06:00:00Z",
+        "e": "2026-05-14T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Yazmin Lacey",
+        "s": "2026-05-14T08:00:00Z",
+        "e": "2026-05-14T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "yazminlacey"
       }
     ],
     "rinsefr": [
@@ -76151,7 +76272,16 @@
       {
         "n": "Playlist France",
         "s": "2026-05-13T19:00:00Z",
-        "e": "2026-05-13T20:00:00Z",
+        "e": "2026-05-14T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-14T07:00:00Z",
+        "e": "2026-05-14T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,

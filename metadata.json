@@ -1,43 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-14T06:40:38.911Z",
+  "updated": "2026-05-14T10:06:32.493Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-05-14T07:00:00+01:00",
-        "e": "2026-05-14T09:00:00+01:00",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": "PAM",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-14th-may-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-05-14T09:00:00+01:00",
-        "e": "2026-05-14T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-14th-may-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-05-14T11:00:00+01:00",
         "e": "2026-05-14T13:00:00+01:00",
-        "d": null,
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
         "j": "BABYSCHÖN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-14th-may-2026",
         "t": "weekly"
       },
       {
         "n": "GABI w/ Alice",
         "s": "2026-05-14T13:00:00+01:00",
         "e": "2026-05-14T14:00:00+01:00",
-        "d": null,
+        "d": "Musical peregrinations from Gabi, guiding listeners through new wave, post punk and synth. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gabi/episodes/gabi-14th-may-2026",
         "p": "gabi"
       },
       {
@@ -76,13 +57,12 @@
         "u": null
       },
       {
-        "n": "NILE TO BANK w/ NIHAL",
+        "n": "NILE TO BANK w/ NIHAL & Malak El Sawi",
         "s": "2026-05-14T20:00:00+01:00",
         "e": "2026-05-14T21:00:00+01:00",
         "d": null,
-        "j": "NIHAL",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "nihal"
       },
       {
@@ -170,62 +150,54 @@
         "u": null,
         "t": "restream",
         "p": "fifthworld"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "s": "2026-05-15T07:00:00+01:00",
+        "e": "2026-05-15T09:00:00+01:00",
+        "d": null,
+        "j": "JACK ROLLO",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ Fauzia",
+        "s": "2026-05-15T09:00:00+01:00",
+        "e": "2026-05-15T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "fauzia"
       }
     ],
     "nts2": [
       {
-        "n": "GHUNGHRU (R)",
-        "s": "2026-05-14T07:00:00+01:00",
-        "e": "2026-05-14T08:00:00+01:00",
-        "d": "All-genre NTS monthly by New York–based, New Delhi–born Arushi Jain fka modularprincess",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-5th-november-2025",
-        "t": "restream"
-      },
-      {
-        "n": "PERFECT LIVES W/ BRUNO & DANIEL (R)",
-        "s": "2026-05-14T08:00:00+01:00",
-        "e": "2026-05-14T09:00:00+01:00",
-        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
-        "j": "BRUNO & DANIEL",
-        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-10th-august-2025",
-        "t": "restream",
-        "p": "perfectlives"
-      },
-      {
-        "n": "A Scene In Between w/ Samuel Knee (R)",
-        "s": "2026-05-14T09:00:00+01:00",
-        "e": "2026-05-14T10:00:00+01:00",
-        "d": null,
-        "j": "Samuel Knee",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "Just A Thought",
-        "s": "2026-05-14T10:00:00+01:00",
-        "e": "2026-05-14T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Jim O'Rourke - Steamroom May 2026",
         "s": "2026-05-14T11:00:00+01:00",
         "e": "2026-05-14T12:00:00+01:00",
-        "d": null,
+        "d": "Avant-garde musician and composer Jim O'Rourke pulls stops by once a month, pulling an hour of picks from his extensive record collection.",
         "j": "Steamroom May 2026",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jim-o-rourke/episodes/jim-o-rourke-14th-may-2026",
         "t": "monthly"
       },
       {
         "n": "DOVE w/ Le Makeup",
         "s": "2026-05-14T12:00:00+01:00",
         "e": "2026-05-14T13:00:00+01:00",
-        "d": null,
+        "d": "Osaka / Berlin musician Dove shares music that captures romance in everyday life. \"Sheltering from the rain and stumbling into the best club experience. Staying up all night talking with friends at the end of summer. The moment I looked into your eyes and wanted to know everything about you.\"\nFrom the host: \"Le Makeup is an Osaka-based musician, producer, and singer. Blurring the lines between club music, R&B, and pop, he has drawn attention for his distinctive sound. Since his debut with the 2020 album Binetsu, he has continued to release works that center on intimate vocals and meticulous production\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dove/episodes/dove-14th-may-2026",
         "p": "dove"
+      },
+      {
+        "n": "SOURCE UNKNOWN W/ ARP - SPRING °24 (R)",
+        "s": "2026-05-14T13:00:00+01:00",
+        "e": "2026-05-14T14:00:00+01:00",
+        "d": null,
+        "j": "ARP",
+        "u": null,
+        "t": "restream",
+        "p": "arp"
       },
       {
         "n": "So Long Morning Star w/ Këkht Aräkh",
@@ -301,20 +273,11 @@
         ]
       },
       {
-        "n": "In Focus: Edu Lobo (R)",
+        "n": "OTAKU: YUJI OHNO (R)",
         "s": "2026-05-14T22:00:00+01:00",
-        "e": "2026-05-14T23:00:00+01:00",
-        "d": null,
-        "j": "Edu Lobo",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "THE NUMERO GROUP - 24 Carat Genius (R)",
-        "s": "2026-05-14T23:00:00+01:00",
         "e": "2026-05-15T00:00:00+01:00",
         "d": null,
-        "j": "24 Carat Genius",
+        "j": "YUJI OHNO",
         "u": null,
         "t": "restream"
       },
@@ -334,37 +297,47 @@
         "j": null,
         "u": null,
         "p": "postgeography"
+      },
+      {
+        "n": "EDITS w/ Kelman Duran (R)",
+        "s": "2026-05-15T03:00:00+01:00",
+        "e": "2026-05-15T04:00:00+01:00",
+        "d": null,
+        "j": "Kelman Duran",
+        "u": null,
+        "t": "restream",
+        "p": "kelmanduran"
+      },
+      {
+        "n": "Kampire (R)",
+        "s": "2026-05-15T04:00:00+01:00",
+        "e": "2026-05-15T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "kampire"
+      },
+      {
+        "n": "EQUIKNOXX (R)",
+        "s": "2026-05-15T05:00:00+01:00",
+        "e": "2026-05-15T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Ashley Mi Ki Mak (R)",
+        "s": "2026-05-15T06:00:00+01:00",
+        "e": "2026-05-15T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-14T04:00:00Z",
-        "e": "2026-05-14T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Making Hay w/ natdav",
-        "s": "2026-05-14T07:00:00Z",
-        "e": "2026-05-14T08:00:00Z",
-        "d": null,
-        "j": "natdav",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Deep Awake by Semaj",
-        "s": "2026-05-14T08:00:00Z",
-        "e": "2026-05-14T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "deepawakebysemaj"
-      },
       {
         "n": "Sublevel",
         "s": "2026-05-14T09:00:00Z",
@@ -1516,23 +1489,51 @@
         "u": null,
         "t": "monthly",
         "p": "psychogeography"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Richard Chartier – between two points",
-        "s": "2026-05-14T05:00:00Z",
-        "e": "2026-05-14T07:00:00Z",
+        "n": "source",
+        "s": "2026-05-21T08:00:00Z",
+        "e": "2026-05-21T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "richardchartier"
+        "p": "source"
+      },
+      {
+        "n": "In The Rotation w/ Su",
+        "s": "2026-05-21T09:00:00Z",
+        "e": "2026-05-21T10:00:00Z",
+        "d": null,
+        "j": "Su",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Housekeeping",
+        "s": "2026-05-21T10:00:00Z",
+        "e": "2026-05-21T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "housekeeping"
+      }
+    ],
+    "dublab": [
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-14T09:00:00Z",
+        "e": "2026-05-14T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-14T07:00:00Z",
-        "e": "2026-05-14T09:00:00Z",
+        "s": "2026-05-14T11:00:00Z",
+        "e": "2026-05-14T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2123,25 +2124,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-05-14T06:00:00Z",
-        "e": "2026-05-14T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Yazmin Lacey",
-        "s": "2026-05-14T08:00:00Z",
-        "e": "2026-05-14T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
         "n": "Chunky",
         "s": "2026-05-14T10:00:00Z",
         "e": "2026-05-14T11:00:00Z",
@@ -2382,24 +2364,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-13T19:00:00Z",
-        "e": "2026-05-14T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-05-14T07:00:00Z",
-        "e": "2026-05-14T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-14T10:00:00Z",
         "e": "2026-05-14T12:00:00Z",
         "d": null,
@@ -2408,18 +2372,93 @@
         "t": "playlist"
       },
       {
-        "n": "MumBeats",
+        "n": "JP MANO",
         "s": "2026-05-14T12:00:00Z",
-        "e": "2026-05-14T13:00:00Z",
+        "e": "2026-05-14T14:00:00Z",
+        "d": null,
+        "j": "\"On Parle Musique\"",
+        "u": null
+      },
+      {
+        "n": "WAH GWAAN TYSHA CEE",
+        "s": "2026-05-14T14:00:00Z",
+        "e": "2026-05-14T15:00:00Z",
+        "d": null,
+        "j": "INVITE AFROLINE",
+        "u": null,
+        "p": "tyshacee"
+      },
+      {
+        "n": "Backstage with Twerkistan",
+        "s": "2026-05-14T15:00:00Z",
+        "e": "2026-05-14T16:00:00Z",
+        "d": null,
+        "j": "invite BLUE MUSH",
+        "u": null
+      },
+      {
+        "n": "MORE AMORE",
+        "s": "2026-05-14T16:00:00Z",
+        "e": "2026-05-14T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Vitaline",
+        "s": "2026-05-14T17:00:00Z",
+        "e": "2026-05-14T18:00:00Z",
+        "d": null,
+        "j": "invite Redstain",
+        "u": null
+      },
+      {
+        "n": "Élise Massoni",
+        "s": "2026-05-14T18:00:00Z",
+        "e": "2026-05-14T19:00:00Z",
+        "d": null,
+        "j": "invite Lobster",
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-14T19:00:00Z",
+        "e": "2026-05-15T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-15T07:00:00Z",
+        "e": "2026-05-15T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-15T10:00:00Z",
+        "e": "2026-05-15T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "MumBeats",
+        "s": "2026-05-15T12:00:00Z",
+        "e": "2026-05-15T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Rinse France Guest Show",
-        "s": "2026-05-14T13:00:00Z",
-        "e": "2026-05-14T14:00:00Z",
+        "s": "2026-05-15T13:00:00Z",
+        "e": "2026-05-15T14:00:00Z",
         "d": null,
         "j": "DJ Narciso",
         "u": null,
@@ -2427,8 +2466,8 @@
       },
       {
         "n": "Queer Cult",
-        "s": "2026-05-14T14:00:00Z",
-        "e": "2026-05-14T15:00:00Z",
+        "s": "2026-05-15T14:00:00Z",
+        "e": "2026-05-15T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2436,8 +2475,8 @@
       },
       {
         "n": "Misantropical",
-        "s": "2026-05-14T15:00:00Z",
-        "e": "2026-05-14T16:00:00Z",
+        "s": "2026-05-15T15:00:00Z",
+        "e": "2026-05-15T16:00:00Z",
         "d": null,
         "j": "invite KEBRA",
         "u": null,
@@ -2446,8 +2485,8 @@
       },
       {
         "n": "BAÏLE avec MAÏA",
-        "s": "2026-05-14T16:00:00Z",
-        "e": "2026-05-14T17:00:00Z",
+        "s": "2026-05-15T16:00:00Z",
+        "e": "2026-05-15T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2456,8 +2495,8 @@
       },
       {
         "n": "Exa-Terra",
-        "s": "2026-05-14T17:00:00Z",
-        "e": "2026-05-14T18:00:00Z",
+        "s": "2026-05-15T17:00:00Z",
+        "e": "2026-05-15T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2465,8 +2504,8 @@
       },
       {
         "n": "Useless Seconds",
-        "s": "2026-05-14T18:00:00Z",
-        "e": "2026-05-14T19:00:00Z",
+        "s": "2026-05-15T18:00:00Z",
+        "e": "2026-05-15T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2474,8 +2513,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-14T19:00:00Z",
-        "e": "2026-05-14T20:00:00Z",
+        "s": "2026-05-15T19:00:00Z",
+        "e": "2026-05-15T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
