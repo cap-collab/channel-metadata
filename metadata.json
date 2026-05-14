@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-14T21:03:13.998Z",
+  "updated": "2026-05-14T22:49:37.442Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PEKING SPRING w/ Steve Barker aka DJ Old Rat (On The Wire)",
-        "s": "2026-05-14T21:00:00+01:00",
-        "e": "2026-05-14T23:00:00+01:00",
-        "d": "Jon K explores the spaces between monthly for 120 mins.\nFrom the host: \"The show mainly consists of an abandoned mixtape (#5 by DJ Old Rat) that I recognised to be basically unreleasable due to its lack of theme, it seems people like themes, I don’t! The first part of the show features some tunes from the forthcoming mixtape China Underground (Zhongguo Dixia) 2002-2022.\"",
-        "j": "Steve Barker aka DJ Old Rat (On The Wire)",
-        "u": "https://www.nts.live/api/v2/shows/jon-k-presents-peking-spring/episodes/jon-k-presents-peking-spring-14th-may-2026",
-        "t": "monthly"
-      },
       {
         "n": "Ellen Allien",
         "s": "2026-05-14T23:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "SLIME FM W/ KHADIJA AL HANAFI (R)",
         "s": "2026-05-15T00:00:00+01:00",
         "e": "2026-05-15T01:00:00+01:00",
-        "d": null,
+        "d": "Uncompromising footwork selections from Tunis-based producer Khadija Al Hanafi – ” sounds coming straight from her computer - classic Hanafi style”\nFrom the host: \"Episode 6 recorded in London ahead of [my] performance at M.O.T with Dazegxd! UK DEBUT!\"",
         "j": "KHADIJA AL HANAFI",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/slime-fm/episodes/slime-fm-22nd-october-2025",
         "t": "restream",
         "p": "slimefm"
       },
@@ -173,6 +164,16 @@
         "j": null,
         "u": null,
         "p": "minimaleffort"
+      },
+      {
+        "n": "GABRIELLE KWARTENG",
+        "s": "2026-05-15T21:00:00+01:00",
+        "e": "2026-05-15T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "gabriellekwarteng"
       }
     ],
     "nts2": [
@@ -342,16 +343,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Benteki",
-        "s": "2026-05-14T21:00:00Z",
-        "e": "2026-05-14T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "benteki"
-      },
       {
         "n": "Matt Frost ",
         "s": "2026-05-14T22:00:00Z",
@@ -2090,14 +2081,6 @@
     ],
     "rinse": [
       {
-        "n": "YETI OUT with The Magus Project & Submerse",
-        "s": "2026-05-14T21:00:00Z",
-        "e": "2026-05-14T22:00:00Z",
-        "d": null,
-        "j": "'PARADOX' 12\" RELEASE Special",
-        "u": null
-      },
-      {
         "n": "Ikke Sant with SUCHI",
         "s": "2026-05-14T22:00:00Z",
         "e": "2026-05-14T23:00:00Z",
@@ -2237,15 +2220,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-14T19:00:00Z",
-        "e": "2026-05-15T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-15T07:00:00Z",
         "e": "2026-05-15T10:00:00Z",
         "d": null,
@@ -2268,7 +2242,8 @@
         "e": "2026-05-15T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Rinse France Guest Show",
@@ -2286,7 +2261,8 @@
         "d": null,
         "j": "DJ Monique invite Pimpa 3000",
         "u": null,
-        "p": "queercult"
+        "p": "queercult",
+        "t": "weekly"
       },
       {
         "n": "Misantropical",
@@ -2295,7 +2271,6 @@
         "d": null,
         "j": "invite KEBRA",
         "u": null,
-        "t": "monthly",
         "p": "misantropical"
       },
       {
@@ -2305,7 +2280,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "baleavecmaa"
       },
       {
@@ -2314,8 +2288,7 @@
         "e": "2026-05-15T18:00:00Z",
         "d": null,
         "j": "B.RUPP",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Useless Seconds",
@@ -2323,8 +2296,7 @@
         "e": "2026-05-15T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Playlist France",
