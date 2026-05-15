@@ -1,21 +1,12 @@
 {
   "v": 2,
-  "updated": "2026-05-15T06:49:59.119Z",
+  "updated": "2026-05-15T10:13:20.884Z",
   "stations": {
     "nts1": [
       {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
-        "s": "2026-05-15T07:00:00+01:00",
-        "e": "2026-05-15T09:00:00+01:00",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": "JACK ROLLO",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-15th-may-2026",
-        "t": "biweekly"
-      },
-      {
         "n": "The NTS Breakfast Show w/ Fauzia",
         "s": "2026-05-15T09:00:00+01:00",
-        "e": "2026-05-15T11:00:00+01:00",
+        "e": "2026-05-15T11:15:00+01:00",
         "d": "Wake up with NTS…",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-fauzia-15th-may-2026",
@@ -28,6 +19,15 @@
         "d": null,
         "j": null,
         "u": null,
+        "p": "scarythings"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SCARY THINGS & SOSOCAMO",
+        "s": "2026-05-15T11:15:00+01:00",
+        "e": "2026-05-15T13:00:00+01:00",
+        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-15th-may-2026",
         "p": "scarythings"
       },
       {
@@ -50,6 +50,15 @@
         "p": "jeunepouce"
       },
       {
+        "n": "NTS GUIDE TO: SEXY DRILL (R)",
+        "s": "2026-05-15T15:00:00+01:00",
+        "e": "2026-05-15T16:00:00+01:00",
+        "d": null,
+        "j": "SEXY DRILL",
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "STEPHANE",
         "s": "2026-05-15T16:00:00+01:00",
         "e": "2026-05-15T17:00:00+01:00",
@@ -69,11 +78,11 @@
         "p": "bashmentsound"
       },
       {
-        "n": "RUF DUG",
+        "n": "RUF DUG - Live from Field Notes",
         "s": "2026-05-15T18:00:00+01:00",
         "e": "2026-05-15T19:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Live from Field Notes",
         "u": null,
         "t": "monthly",
         "p": "rufdug"
@@ -183,50 +192,21 @@
     ],
     "nts2": [
       {
-        "n": "Image Search (R)",
-        "s": "2026-05-15T07:00:00+01:00",
-        "e": "2026-05-15T08:00:00+01:00",
-        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month. Email: animalimagesearch@gmail.com\nFrom the host: \"Madrid's DJ Feet plays an hour of selections from Spanish label Nuevos Medios.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-23rd-october-2025",
-        "t": "restream",
-        "p": "imagesearch"
-      },
-      {
-        "n": "Light in the Attic (R)",
-        "s": "2026-05-15T08:00:00+01:00",
-        "e": "2026-05-15T10:00:00+01:00",
-        "d": "Since starting in a basement apartment in Seattle back in 2001, Light In The Attic has established itself as one of the best and brightest reissue labels around. With releases ranging from D’Angelo to Serge Gainsbourg, Lewis to Betty Davis, Sly Stone to Karen Dalton, LITA prides itself on the breadth of its output.\nArtwork by: by Hiroshi Nagai",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/light-in-the-attic/episodes/light-in-the-attic-w-dj-pacific-breeze-15th-may-2020",
-        "t": "restream"
-      },
-      {
-        "n": "AARON ANGELL (R)",
-        "s": "2026-05-15T10:00:00+01:00",
-        "e": "2026-05-15T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "aaronangell"
-      },
-      {
         "n": "In Focus: Aaron Carl",
         "s": "2026-05-15T11:00:00+01:00",
         "e": "2026-05-15T12:00:00+01:00",
-        "d": null,
+        "d": "Two hours channeling the pure spirit of Midwest dance music, featuring the techno, house, and ghettotech sounds of a fearless Detroit queer icon, Aaron Carl. Selected and mixed by Finn. ",
         "j": "Aaron Carl",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-aaron-carl-15th-may-2026",
         "t": "weekly"
       },
       {
         "n": "ROOMIES W/ MOBILEGIRL & Camila Palomino - Music for the Gugugaga Gym",
         "s": "2026-05-15T12:00:00+01:00",
         "e": "2026-05-15T13:00:00+01:00",
-        "d": null,
+        "d": "mobilegirl invites you into her home with soundtracks for various rooms.\nFrom the host: _\"Welcome to the world Baby FM! \nLive from the Gugugaga Gym…A very special episode from me and Camila Palomino (Saywite on NTS). One of our favorite people here and ever is going to be a father very soon…👀 this show is dedicated to little BabyFM, congrats PapaFM!\"_",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mobilegirl/episodes/mobilegirl-15th-may-2026",
         "p": "mobilegirl"
       },
       {
@@ -239,13 +219,14 @@
         "t": "monthly"
       },
       {
-        "n": "ANTINOTE",
+        "n": "FEIERABEND W/ SKEE MASK (R)",
         "s": "2026-05-15T14:00:00+01:00",
         "e": "2026-05-15T15:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "SKEE MASK",
         "u": null,
-        "t": "monthly"
+        "t": "restream",
+        "p": "skeemask"
       },
       {
         "n": "Image search - Syntape Special",
@@ -342,27 +323,38 @@
         "j": "Dam",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "FLOATING POINTS (R)",
+        "s": "2026-05-16T03:00:00+01:00",
+        "e": "2026-05-16T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "floatingpoints"
+      },
+      {
+        "n": "Popstar Benny (R)",
+        "s": "2026-05-16T05:00:00+01:00",
+        "e": "2026-05-16T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "popstarbenny"
+      },
+      {
+        "n": "DJ Harrison (R)",
+        "s": "2026-05-16T06:00:00+01:00",
+        "e": "2026-05-16T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-15T03:00:00Z",
-        "e": "2026-05-15T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Ozzy",
-        "s": "2026-05-15T09:00:00Z",
-        "e": "2026-05-15T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Systema Naturae by lucii.",
         "s": "2026-05-15T10:00:00Z",
@@ -1516,23 +1508,59 @@
         "u": null,
         "t": "monthly",
         "p": "outofphasewithsamling"
+      },
+      {
+        "n": "ling linh",
+        "s": "2026-05-22T07:00:00Z",
+        "e": "2026-05-22T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "linglinh"
+      },
+      {
+        "n": "B-HIND",
+        "s": "2026-05-22T08:00:00Z",
+        "e": "2026-05-22T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "op99 / late dawn ",
+        "s": "2026-05-22T09:00:00Z",
+        "e": "2026-05-22T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Household",
+        "s": "2026-05-22T10:00:00Z",
+        "e": "2026-05-22T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Alex Pelly - PELLYVISION",
-        "s": "2026-05-15T05:00:00Z",
-        "e": "2026-05-15T07:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-15T09:00:00Z",
+        "e": "2026-05-15T11:00:00Z",
         "d": null,
-        "j": "PELLYVISION",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "alexpelly"
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-15T07:00:00Z",
-        "e": "2026-05-15T09:00:00Z",
+        "s": "2026-05-15T11:00:00Z",
+        "e": "2026-05-15T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2088,24 +2116,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-05-15T06:00:00Z",
-        "e": "2026-05-15T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Breakfast with Eclecticist",
-        "s": "2026-05-15T08:00:00Z",
-        "e": "2026-05-15T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "eclecticist"
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-05-15T10:00:00Z",
         "e": "2026-05-15T13:00:00Z",
@@ -2118,12 +2128,22 @@
       {
         "n": "Jeremy Sylvester",
         "s": "2026-05-15T13:00:00Z",
-        "e": "2026-05-15T16:00:00Z",
+        "e": "2026-05-15T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Billy Green",
         "u": null,
         "t": "monthly",
         "p": "jeremysylvester"
+      },
+      {
+        "n": "Charles Green",
+        "s": "2026-05-15T15:00:00Z",
+        "e": "2026-05-15T16:00:00Z",
+        "d": null,
+        "j": "Phase O’Matic",
+        "u": null,
+        "t": "biweekly",
+        "p": "charlesgreen"
       },
       {
         "n": "Ella Knight",
@@ -2148,7 +2168,7 @@
         "s": "2026-05-15T20:00:00Z",
         "e": "2026-05-15T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "OLUWA",
         "u": null
       },
       {
@@ -2179,7 +2199,7 @@
         "s": "2026-05-15T23:00:00Z",
         "e": "2026-05-16T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Rayka Vittar",
         "u": null,
         "t": "monthly",
         "p": "clementaum"
@@ -2323,24 +2343,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-14T19:00:00Z",
-        "e": "2026-05-15T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-05-15T07:00:00Z",
-        "e": "2026-05-15T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-15T10:00:00Z",
         "e": "2026-05-15T12:00:00Z",
         "d": null,
@@ -2349,19 +2351,108 @@
         "t": "playlist"
       },
       {
-        "n": "Yaël Ohayon",
+        "n": "MumBeats",
         "s": "2026-05-15T12:00:00Z",
         "e": "2026-05-15T13:00:00Z",
         "d": null,
         "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-05-15T13:00:00Z",
+        "e": "2026-05-15T14:00:00Z",
+        "d": null,
+        "j": "DJ Narciso",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Queer Cult",
+        "s": "2026-05-15T14:00:00Z",
+        "e": "2026-05-15T15:00:00Z",
+        "d": null,
+        "j": "DJ Monique invite Pimpa 3000",
+        "u": null,
+        "t": "weekly",
+        "p": "queercult"
+      },
+      {
+        "n": "Misantropical",
+        "s": "2026-05-15T15:00:00Z",
+        "e": "2026-05-15T16:00:00Z",
+        "d": null,
+        "j": "invite KEBRA",
+        "u": null,
+        "p": "misantropical"
+      },
+      {
+        "n": "BAÏLE avec MAÏA",
+        "s": "2026-05-15T16:00:00Z",
+        "e": "2026-05-15T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "baleavecmaa"
+      },
+      {
+        "n": "Exa-Terra",
+        "s": "2026-05-15T17:00:00Z",
+        "e": "2026-05-15T18:00:00Z",
+        "d": null,
+        "j": "B.Rupp",
+        "u": null
+      },
+      {
+        "n": "Useless Seconds",
+        "s": "2026-05-15T18:00:00Z",
+        "e": "2026-05-15T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-15T19:00:00Z",
+        "e": "2026-05-16T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-16T07:00:00Z",
+        "e": "2026-05-16T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-16T10:00:00Z",
+        "e": "2026-05-16T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Yaël Ohayon",
+        "s": "2026-05-16T12:00:00Z",
+        "e": "2026-05-16T13:00:00Z",
+        "d": null,
+        "j": "Press Play for Tech House",
         "u": null,
         "t": "monthly",
         "p": "yalohayon"
       },
       {
         "n": "Human Disease Network",
-        "s": "2026-05-15T13:00:00Z",
-        "e": "2026-05-15T14:00:00Z",
+        "s": "2026-05-16T13:00:00Z",
+        "e": "2026-05-16T14:00:00Z",
         "d": null,
         "j": "présente Linnea Mae",
         "u": null,
@@ -2370,8 +2461,8 @@
       },
       {
         "n": "2-Steppers",
-        "s": "2026-05-15T14:00:00Z",
-        "e": "2026-05-15T15:00:00Z",
+        "s": "2026-05-16T14:00:00Z",
+        "e": "2026-05-16T15:00:00Z",
         "d": null,
         "j": "invite Friend Of Mine",
         "u": null,
@@ -2379,18 +2470,17 @@
       },
       {
         "n": "Shampain",
-        "s": "2026-05-15T15:00:00Z",
-        "e": "2026-05-15T16:00:00Z",
+        "s": "2026-05-16T15:00:00Z",
+        "e": "2026-05-16T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
         "p": "shampain"
       },
       {
         "n": "Paloma Colombe",
-        "s": "2026-05-15T16:00:00Z",
-        "e": "2026-05-15T17:00:00Z",
+        "s": "2026-05-16T16:00:00Z",
+        "e": "2026-05-16T17:00:00Z",
         "d": null,
         "j": "Burna",
         "u": null,
@@ -2398,8 +2488,8 @@
       },
       {
         "n": "Tijolo Records",
-        "s": "2026-05-15T17:00:00Z",
-        "e": "2026-05-15T18:00:00Z",
+        "s": "2026-05-16T17:00:00Z",
+        "e": "2026-05-16T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2408,8 +2498,8 @@
       },
       {
         "n": "Eclipse Tribez",
-        "s": "2026-05-15T18:00:00Z",
-        "e": "2026-05-15T19:00:00Z",
+        "s": "2026-05-16T18:00:00Z",
+        "e": "2026-05-16T19:00:00Z",
         "d": null,
         "j": "invite Aemone",
         "u": null,
@@ -2418,8 +2508,8 @@
       },
       {
         "n": "2much",
-        "s": "2026-05-15T19:00:00Z",
-        "e": "2026-05-15T20:00:00Z",
+        "s": "2026-05-16T19:00:00Z",
+        "e": "2026-05-16T20:00:00Z",
         "d": null,
         "j": "invite Liv Del Estal",
         "u": null,
@@ -2427,8 +2517,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-15T20:00:00Z",
-        "e": "2026-05-15T21:00:00Z",
+        "s": "2026-05-16T20:00:00Z",
+        "e": "2026-05-16T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
