@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-15T13:44:56.794Z",
+  "updated": "2026-05-15T15:57:13.926Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TEARS IN THE CLUB W/ JEUNE POUCE",
-        "s": "2026-05-15T14:00:00+01:00",
-        "e": "2026-05-15T15:00:00+01:00",
-        "d": "\"Tears in the Club\" presents a unique blend of structured and chaotic music, combining intense hip hop, drum and bass, footwork, jersey club, and sometimes Afro rhythms. This multi-genre musical show explores diverse musical landscapes, creating a striking contrast between genres, while also showcasing new artists.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jeune-pouce/episodes/jeune-pouce-15th-may-2026",
-        "p": "jeunepouce"
-      },
-      {
-        "n": "NTS GUIDE TO: SEXY DRILL (R)",
-        "s": "2026-05-15T15:00:00+01:00",
-        "e": "2026-05-15T16:00:00+01:00",
-        "d": "Getting sturdy with an hour of fun-loving, party ready drill tracks, from Cash Cobain, Lancey Foux, Baby Osamaa and more. ",
-        "j": "SEXY DRILL",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-sexy-drill-13th-december-2024",
-        "t": "restream"
-      },
       {
         "n": "STEPHANE",
         "s": "2026-05-15T16:00:00+01:00",
         "e": "2026-05-15T17:00:00+01:00",
-        "d": null,
+        "d": "contemporary french + international rap presented by Stephane.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gelato/episodes/gelato-15th-may-2026",
         "t": "monthly"
       },
       {
         "n": "Bashment Sound w/ Silent Addy & Disco Neil",
         "s": "2026-05-15T17:00:00+01:00",
         "e": "2026-05-15T18:00:00+01:00",
-        "d": null,
+        "d": "Miami-based producers and DJs Silent Addy and Disco Neil present Bashment Sound – a regular celebration of Caribbean sounds gone global. ",
         "j": "Silent Addy & Disco Neil",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bashment-sound/episodes/bashment-sound-15th-may-2026",
         "t": "monthly",
         "p": "bashmentsound"
       },
@@ -60,14 +42,12 @@
         "p": "minimaleffort"
       },
       {
-        "n": "GABRIELLE KWARTENG",
+        "n": "1tbsp & cherry chola",
         "s": "2026-05-15T21:00:00+01:00",
         "e": "2026-05-15T22:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "gabriellekwarteng"
+        "u": null
       },
       {
         "n": "INNERVISIONS ÜBERALL W/ TSHA",
@@ -180,44 +160,34 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
+        "s": "2026-05-16T15:00:00+01:00",
+        "e": "2026-05-16T17:00:00+01:00",
+        "d": null,
+        "j": "MR PEDRO",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "FEIERABEND W/ SKEE MASK (R)",
-        "s": "2026-05-15T14:00:00+01:00",
-        "e": "2026-05-15T15:00:00+01:00",
-        "d": "Skee's insight through his daily listening habits, from guilty pleasures to casual recommendations and in between…",
-        "j": "SKEE MASK",
-        "u": "https://www.nts.live/api/v2/shows/skee-mask/episodes/skee-mask-8th-november-2024",
-        "t": "restream",
-        "p": "skeemask"
-      },
-      {
-        "n": "Image search - Syntape Special",
-        "s": "2026-05-15T15:00:00+01:00",
-        "e": "2026-05-15T16:00:00+01:00",
-        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month.\nEmail: animalimagesearch@gmail.com",
-        "j": "Syntape Special",
-        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-15th-may-2026",
-        "t": "monthly",
-        "p": "imagesearch"
-      },
-      {
         "n": "Symphony w/ Daria",
         "s": "2026-05-15T16:00:00+01:00",
         "e": "2026-05-15T17:00:00+01:00",
-        "d": null,
+        "d": "Classical selections from Daria live in the studio – featuring recordings from Oliver Leith, Hania Rani and more.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/symphony-w-daria-15th-may-2026"
       },
       {
         "n": "Finest Hour w/ Cynthia",
         "s": "2026-05-15T17:00:00+01:00",
         "e": "2026-05-15T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "A monthly broadcasts from London-based curator Cynthia, taking you through a selection of her ongoing music research and personal favourites, blending sounds that move across time and genre.",
+        "j": "Cynthia",
+        "u": "https://www.nts.live/api/v2/shows/cynthia/episodes/cynthia-15th-may-2026",
+        "t": "monthly",
         "p": "cynthia"
       },
       {
@@ -349,28 +319,27 @@
         "j": "NTS Guide To Ambient Americana Vol. 2",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Time Blind Correspondence w/ Caterina Barbieri & Ruben Spini (R)",
+        "s": "2026-05-16T11:00:00+01:00",
+        "e": "2026-05-16T12:00:00+01:00",
+        "d": null,
+        "j": "Caterina Barbieri & Ruben Spini",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Maxine Funke (R)",
+        "s": "2026-05-16T12:00:00+01:00",
+        "e": "2026-05-16T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Rebello",
-        "s": "2026-05-15T13:00:00Z",
-        "e": "2026-05-15T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "rebello"
-      },
-      {
-        "n": "Emma & Embla",
-        "s": "2026-05-15T14:00:00Z",
-        "e": "2026-05-15T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "The All Colours Show",
         "s": "2026-05-15T15:00:00Z",
@@ -1542,18 +1511,28 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-05-15T13:00:00Z",
-        "e": "2026-05-15T15:00:00Z",
+        "n": "Loker",
+        "s": "2026-05-22T14:00:00Z",
+        "e": "2026-05-22T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Rowan Ash B2B Louna",
+        "s": "2026-05-22T15:00:00Z",
+        "e": "2026-05-22T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ash"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-05-15T15:00:00Z",
@@ -2113,16 +2092,6 @@
     ],
     "rinse": [
       {
-        "n": "Jeremy Sylvester",
-        "s": "2026-05-15T13:00:00Z",
-        "e": "2026-05-15T15:00:00Z",
-        "d": null,
-        "j": "Billy Green",
-        "u": null,
-        "t": "monthly",
-        "p": "jeremysylvester"
-      },
-      {
         "n": "Charles Green",
         "s": "2026-05-15T15:00:00Z",
         "e": "2026-05-15T16:00:00Z",
@@ -2247,13 +2216,13 @@
         "u": null
       },
       {
-        "n": "Counter Culture",
+        "n": "Counter Culture with Lion Vibes",
         "s": "2026-05-16T12:00:00Z",
         "e": "2026-05-16T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ben Bell and Nicole Finnerty",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "counterculture"
       },
       {
@@ -2329,25 +2298,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Rinse France Guest Show",
-        "s": "2026-05-15T13:00:00Z",
-        "e": "2026-05-15T14:00:00Z",
-        "d": null,
-        "j": "DJ Narciso",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Queer Cult",
-        "s": "2026-05-15T14:00:00Z",
-        "e": "2026-05-15T15:00:00Z",
-        "d": null,
-        "j": "DJ Monique invite Pimpa 3000",
-        "u": null,
-        "t": "weekly",
-        "p": "queercult"
-      },
-      {
         "n": "Misantropical",
         "s": "2026-05-15T15:00:00Z",
         "e": "2026-05-15T16:00:00Z",
@@ -2361,7 +2311,7 @@
         "s": "2026-05-15T16:00:00Z",
         "e": "2026-05-15T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "#124",
         "u": null,
         "p": "baleavecmaa"
       },
