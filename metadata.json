@@ -1,44 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-16T16:47:43.307Z",
+  "updated": "2026-05-16T18:51:58.230Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Last Resort",
-        "s": "2026-05-16T17:00:00+01:00",
-        "e": "2026-05-16T18:00:00+01:00",
-        "d": "A swift hour long excursion into the unknown. Expect the unexpected from host Tom Cathcart as almost anything goes: techno, post-punk, minimal synth, dub and new wave. Don’t be a prude.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/last-resort",
-        "t": "monthly",
-        "p": "lastresort"
-      },
-      {
-        "n": "SWEET TOOTH W/ ALFIE WHITEMAN",
-        "s": "2026-05-16T18:00:00+01:00",
-        "e": "2026-05-16T19:00:00+01:00",
-        "d": "Sweet selections from director and photographer Alfie Whiteman.",
-        "j": "ALFIE WHITEMAN",
-        "u": "https://www.nts.live/api/v2/shows/alfie-whiteman/episodes/alfie-whiteman-16th-may-2026",
-        "t": "monthly",
-        "p": "alfiewhiteman"
-      },
       {
         "n": "NO WEAPON IS ABSOLUTE w/ DJ Sundae (R)",
         "s": "2026-05-16T19:00:00+01:00",
         "e": "2026-05-16T20:00:00+01:00",
-        "d": null,
+        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
         "j": "DJ Sundae",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-5th-february-2025",
         "t": "restream"
       },
       {
         "n": "CHERRIE FLAVA",
         "s": "2026-05-16T20:00:00+01:00",
         "e": "2026-05-16T22:00:00+01:00",
-        "d": null,
+        "d": "Cherrie Flava, the boss of MIC Records, the London label behind releases from LAPS, Mike Collins, Lord Tusk & more, joins us once a month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mic-records/episodes/mic-records-16th-may-2026",
         "t": "monthly"
       },
       {
@@ -172,19 +152,29 @@
         "j": null,
         "u": null,
         "p": "corticeps"
+      },
+      {
+        "n": "KIT GRILL w/ YU SU",
+        "s": "2026-05-17T16:00:00+01:00",
+        "e": "2026-05-17T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "kitgrill",
+        "ap": [
+          "yusu"
+        ]
+      },
+      {
+        "n": "ALL TRADES W/ CHUGGY",
+        "s": "2026-05-17T17:00:00+01:00",
+        "e": "2026-05-17T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "ANNABEL FRASER",
-        "s": "2026-05-16T17:00:00+01:00",
-        "e": "2026-05-16T19:00:00+01:00",
-        "d": "Annabel Fraser is a lover of music first and foremost. Not genres. Tune in for her monthly 2 hour show…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/annabel-fraser/episodes/annabel-fraser-16th-may-2026",
-        "t": "monthly",
-        "p": "annabelfraser"
-      },
       {
         "n": "MUTUALISM",
         "s": "2026-05-16T19:00:00+01:00",
@@ -199,9 +189,9 @@
         "n": "KIM LANA",
         "s": "2026-05-16T20:00:00+01:00",
         "e": "2026-05-16T22:00:00+01:00",
-        "d": null,
+        "d": "Todmorden's finest, Kim Lana joins us in the Manchester studio once a month for 2 hours of bumping and pumping golden era house & techno.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kim-lana/episodes/kim-lana-16th-may-2026",
         "t": "monthly",
         "p": "kimlana"
       },
@@ -348,19 +338,18 @@
         "u": null,
         "t": "monthly",
         "p": "edv3ctor"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Hurst",
-        "s": "2026-05-16T16:00:00Z",
-        "e": "2026-05-16T17:00:00Z",
+        "n": "RED LASER RECORDS",
+        "s": "2026-05-17T17:00:00+01:00",
+        "e": "2026-05-17T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "hurst"
-      },
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": "Highlander",
         "s": "2026-05-16T17:00:00Z",
@@ -1546,18 +1535,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DJ SK",
+        "s": "2026-05-23T17:00:00Z",
+        "e": "2026-05-23T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN: JF Chen Radio",
-        "s": "2026-05-16T16:00:00Z",
-        "e": "2026-05-16T17:00:00Z",
-        "d": null,
-        "j": "JF Chen Radio",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "RERUN: Lupe's Living Room",
         "s": "2026-05-16T17:00:00Z",
@@ -2122,19 +2111,19 @@
         "u": null,
         "t": "biweekly",
         "p": "illcamille"
+      },
+      {
+        "n": "Greg Belson - Divine Chord Gospel Show",
+        "s": "2026-05-23T17:00:00Z",
+        "e": "2026-05-23T19:00:00Z",
+        "d": null,
+        "j": "Divine Chord Gospel Show",
+        "u": null,
+        "t": "biweekly",
+        "p": "gregbelson"
       }
     ],
     "rinse": [
-      {
-        "n": "Oscar Farrell",
-        "s": "2026-05-16T16:00:00Z",
-        "e": "2026-05-16T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "oscarfarrell"
-      },
       {
         "n": "Cassy",
         "s": "2026-05-16T17:00:00Z",
@@ -2321,25 +2310,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Paloma Colombe",
-        "s": "2026-05-16T16:00:00Z",
-        "e": "2026-05-16T17:00:00Z",
-        "d": null,
-        "j": "Burna",
-        "u": null,
-        "t": "monthly",
-        "p": "palomacolombe"
-      },
-      {
-        "n": "Tijolo Records",
-        "s": "2026-05-16T17:00:00Z",
-        "e": "2026-05-16T18:00:00Z",
-        "d": null,
-        "j": "PARANOIA",
-        "u": null,
-        "p": "tijolorecords"
-      },
       {
         "n": "Eclipse Tribez",
         "s": "2026-05-16T18:00:00Z",
