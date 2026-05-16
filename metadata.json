@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-16T18:51:58.230Z",
+  "updated": "2026-05-16T20:38:39.690Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NO WEAPON IS ABSOLUTE w/ DJ Sundae (R)",
-        "s": "2026-05-16T19:00:00+01:00",
-        "e": "2026-05-16T20:00:00+01:00",
-        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
-        "j": "DJ Sundae",
-        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-5th-february-2025",
-        "t": "restream"
-      },
       {
         "n": "CHERRIE FLAVA",
         "s": "2026-05-16T20:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "NTS Guide To: Ohio Spiritual & Free Jazz (R)",
         "s": "2026-05-16T22:00:00+01:00",
         "e": "2026-05-16T23:00:00+01:00",
-        "d": null,
+        "d": "An hour of Ohio’s finest spiritual and free jazz, featuring music from The Pyramids, Bobby Few, Black Unity Trio and more.",
         "j": "Ohio Spiritual & Free Jazz",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/ohio-spiritual-free-jazz-5th-july-2022",
         "t": "restream"
       },
       {
@@ -172,19 +163,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "JANIE JONES",
+        "s": "2026-05-17T19:00:00+01:00",
+        "e": "2026-05-17T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "janiejones"
       }
     ],
     "nts2": [
-      {
-        "n": "MUTUALISM",
-        "s": "2026-05-16T19:00:00+01:00",
-        "e": "2026-05-16T20:00:00+01:00",
-        "d": "Centred around forward-thinking club music and experimental sounds, Mutualism functions as a label, mix series and club night with a focus on inclusivity, exploration and collaboration.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mutualism/episodes/mutualism-16th-may-2026",
-        "t": "monthly",
-        "p": "mutualism"
-      },
       {
         "n": "KIM LANA",
         "s": "2026-05-16T20:00:00+01:00",
@@ -199,9 +189,9 @@
         "n": "BERGSONIST",
         "s": "2026-05-16T22:00:00+01:00",
         "e": "2026-05-16T23:00:00+01:00",
-        "d": null,
+        "d": "From the host: \"Featuring a track from my new LP \"Depths\" on Dark Entries, alongside an unreleased G. ZIFCAK cut and spring picks from Wobbly, O Yuki Conjugate, Figure Study, Depeche Mode, Malaria!, Group Rhoda, Poison Girl Friend and more! Thank you for listening!\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bergsonist/episodes/bergsonist-16th-may-2026",
         "t": "monthly",
         "p": "bergsonist"
       },
@@ -347,27 +337,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "In Focus: Paul Johnson (R)",
+        "s": "2026-05-17T19:00:00+01:00",
+        "e": "2026-05-17T21:00:00+01:00",
+        "d": null,
+        "j": "Paul Johnson",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Highlander",
-        "s": "2026-05-16T17:00:00Z",
-        "e": "2026-05-16T19:00:00Z",
-        "d": "Highlander brings you 2 hours of the freshest Jungle, Hardcore, Dubstep and Breaks. 3rd Saturday 7-9pm lock in!",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DNS",
-        "s": "2026-05-16T19:00:00Z",
-        "e": "2026-05-16T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Eklekt1k",
         "s": "2026-05-16T20:00:00Z",
@@ -1544,19 +1525,29 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Danny Scrilla",
+        "s": "2026-05-23T19:00:00Z",
+        "e": "2026-05-23T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "dannyscrilla"
+      },
+      {
+        "n": "Biscuit Boy",
+        "s": "2026-05-23T20:00:00Z",
+        "e": "2026-05-23T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "biscuitboy"
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN: Lupe's Living Room",
-        "s": "2026-05-16T17:00:00Z",
-        "e": "2026-05-16T19:00:00Z",
-        "d": null,
-        "j": "Lupe's Living Room",
-        "u": null,
-        "t": "restream",
-        "p": "lupe"
-      },
       {
         "n": "Elyn Kazarian – Her Vision Her Voice",
         "s": "2026-05-16T19:00:00Z",
@@ -2121,19 +2112,18 @@
         "u": null,
         "t": "biweekly",
         "p": "gregbelson"
+      },
+      {
+        "n": "Xandao - Sound Study",
+        "s": "2026-05-23T19:00:00Z",
+        "e": "2026-05-23T21:00:00Z",
+        "d": null,
+        "j": "Sound Study",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Cassy",
-        "s": "2026-05-16T17:00:00Z",
-        "e": "2026-05-16T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "cassy"
-      },
       {
         "n": "ADIEL",
         "s": "2026-05-16T19:00:00Z",
@@ -2310,25 +2300,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Eclipse Tribez",
-        "s": "2026-05-16T18:00:00Z",
-        "e": "2026-05-16T19:00:00Z",
-        "d": null,
-        "j": "invite Aemone",
-        "u": null,
-        "t": "biweekly",
-        "p": "eclipsetribez"
-      },
-      {
-        "n": "2much",
-        "s": "2026-05-16T19:00:00Z",
-        "e": "2026-05-16T20:00:00Z",
-        "d": null,
-        "j": "invite Liv Del Estal",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-16T20:00:00Z",
