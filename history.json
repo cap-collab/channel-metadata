@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-16T06:16:42.580Z",
+  "updated": "2026-05-16T09:23:23.542Z",
   "stations": {
     "nts1": [
       {
@@ -13845,6 +13845,25 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Post-Geography (R)",
+        "s": "2026-05-16T07:00:00+01:00",
+        "e": "2026-05-16T08:00:00+01:00",
+        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-17th-june-2022",
+        "t": "restream",
+        "p": "postgeography"
+      },
+      {
+        "n": "SOUNDS OF THE DAWN",
+        "s": "2026-05-16T08:00:00+01:00",
+        "e": "2026-05-16T10:00:00+01:00",
+        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-16th-may-2026",
+        "t": "monthly"
       }
     ],
     "nts2": [
@@ -19733,7 +19752,7 @@
         "s": "2026-03-23T12:00:00Z",
         "e": "2026-03-23T13:00:00Z",
         "d": "Heading to wartime Sài Gòn, specifically the venue Quán Văn, where two young performers – Trịnh Công Sơn, singer-song writer, and Khánh Ly, singer, would perform regularly for an intimate audience in the midst of a devastating conflict. \nOne of the few venues the artist could perform at, due to government's persecution, the duo performed folk music, evoking themes of love, loss, filial piety, the spiritual world, homeland, and anti-war sentiment.\nSelected and mixed by Phambinho. ",
-        "j": "Quán Văn",
+        "j": "Quán V��n",
         "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-23rd-march-2026",
         "t": "weekly"
       },
@@ -30194,6 +30213,28 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "GEORGIA: ALL KIND MUSIC (R)",
+        "s": "2026-05-16T07:00:00+01:00",
+        "e": "2026-05-16T08:00:00+01:00",
+        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
+        "j": "ALL KIND MUSIC",
+        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-9th-january-2025",
+        "t": "restream"
+      },
+      {
+        "n": "SOPHIE THATCHER (R)",
+        "s": "2026-05-16T08:00:00+01:00",
+        "e": "2026-05-16T09:00:00+01:00",
+        "d": "Chime into a world of noise and melancholia. \nRanging from ambient to 70s Italian film scores. \nPerfect time for a long long walk. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-18th-december-2024",
+        "t": "restream",
+        "p": "sophie",
+        "ap": [
+          "sophiethatcher"
+        ]
       }
     ],
     "subtle": [
@@ -45805,6 +45846,15 @@
         "u": null,
         "t": "monthly",
         "p": "carlos"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-16T03:00:00Z",
+        "e": "2026-05-16T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "dublab": [
@@ -56609,6 +56659,28 @@
         "ap": [
           "gregbelson"
         ]
+      },
+      {
+        "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
+        "s": "2026-05-16T05:00:00Z",
+        "e": "2026-05-16T07:00:00Z",
+        "d": null,
+        "j": "Bears in Space",
+        "u": null,
+        "t": "monthly",
+        "p": "chrisbowen",
+        "ap": [
+          "victorrodriguez"
+        ]
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-16T07:00:00Z",
+        "e": "2026-05-16T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -70172,6 +70244,15 @@
         "u": null,
         "t": "biweekly",
         "p": "elleclark"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-05-16T06:00:00Z",
+        "e": "2026-05-16T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinsefr": [
@@ -77996,7 +78077,7 @@
       {
         "n": "Playlist France",
         "s": "2026-05-15T20:00:00Z",
-        "e": "2026-05-15T21:00:00Z",
+        "e": "2026-05-16T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -82859,6 +82940,16 @@
         "j": "Matt",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-05-16T05:00:00Z",
+        "e": "2026-05-16T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
       }
     ]
   }

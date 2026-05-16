@@ -1,34 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-16T06:16:02.992Z",
+  "updated": "2026-05-16T09:22:45.842Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Post-Geography (R)",
-        "s": "2026-05-16T07:00:00+01:00",
-        "e": "2026-05-16T08:00:00+01:00",
-        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-17th-june-2022",
-        "t": "restream",
-        "p": "postgeography"
-      },
-      {
-        "n": "SOUNDS OF THE DAWN",
-        "s": "2026-05-16T08:00:00+01:00",
-        "e": "2026-05-16T10:00:00+01:00",
-        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-16th-may-2026",
-        "t": "monthly"
-      },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA - Glove-ications Special",
         "s": "2026-05-16T10:00:00+01:00",
         "e": "2026-05-16T12:00:00+01:00",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": "MACCA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-16th-may-2026",
         "t": "biweekly",
         "p": "macca"
       },
@@ -36,9 +17,9 @@
         "n": "ROSS ALLEN",
         "s": "2026-05-16T12:00:00+01:00",
         "e": "2026-05-16T14:00:00+01:00",
-        "d": null,
+        "d": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ross-allen/episodes/ross-allen-16th-may-2026",
         "t": "biweekly",
         "p": "rossallen"
       },
@@ -170,47 +151,43 @@
         "u": null,
         "t": "restream",
         "p": "waveform"
+      },
+      {
+        "n": "MARTIN NEWELL'S ODDCASTE",
+        "s": "2026-05-17T07:30:00+01:00",
+        "e": "2026-05-17T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "SOPHIA ZHURAVKOVA Presents textural bug",
+        "s": "2026-05-17T08:00:00+01:00",
+        "e": "2026-05-17T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sophiazhuravkova"
       }
     ],
     "nts2": [
       {
-        "n": "GEORGIA: ALL KIND MUSIC (R)",
-        "s": "2026-05-16T07:00:00+01:00",
-        "e": "2026-05-16T08:00:00+01:00",
-        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
-        "j": "ALL KIND MUSIC",
-        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-9th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "SOPHIE THATCHER (R)",
-        "s": "2026-05-16T08:00:00+01:00",
-        "e": "2026-05-16T09:00:00+01:00",
-        "d": "Chime into a world of noise and melancholia. \nRanging from ambient to 70s Italian film scores. \nPerfect time for a long long walk. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-18th-december-2024",
-        "t": "restream",
-        "p": "sophie",
-        "ap": [
-          "sophiethatcher"
-        ]
-      },
-      {
         "n": "Dust To Dust - NTS Guide To Ambient Americana Vol. 2 (R)",
         "s": "2026-05-16T09:00:00+01:00",
         "e": "2026-05-16T11:00:00+01:00",
-        "d": null,
+        "d": "Part two of The NTS Guide To Ambient Americana. Trailing down the dusty highway at dusk, soundtracked by Western-flavoured downtempo sounds. Lapsteels, anachronistic electronics, and deconstructed country ballads.",
         "j": "NTS Guide To Ambient Americana Vol. 2",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-dust-to-dust---the-nts-guide-to-ambient-americana-21st-october-2024",
         "t": "restream"
       },
       {
         "n": "Time Blind Correspondence w/ Caterina Barbieri & Ruben Spini (R)",
         "s": "2026-05-16T11:00:00+01:00",
         "e": "2026-05-16T12:00:00+01:00",
-        "d": null,
+        "d": "Sonic correspondences from Italian composer Caterina Barbieri & AV artist Ruben Spini. ",
         "j": "Caterina Barbieri & Ruben Spini",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/caterina-barbieri-and-ruben-spini-22nd-march-2019",
         "t": "restream"
       },
       {
@@ -342,18 +319,29 @@
         "u": null,
         "t": "restream",
         "p": "riodoce"
+      },
+      {
+        "n": "Radio Jiro - Italo Disco Speciale (R)",
+        "s": "2026-05-17T07:00:00+01:00",
+        "e": "2026-05-17T09:00:00+01:00",
+        "d": null,
+        "j": "Italo Disco Speciale",
+        "u": null,
+        "t": "restream",
+        "p": "radiojiro"
+      },
+      {
+        "n": "A MONTH OF SUNDAYS W/ BILL SPENCER (R)",
+        "s": "2026-05-17T09:00:00+01:00",
+        "e": "2026-05-17T10:00:00+01:00",
+        "d": null,
+        "j": "BILL SPENCER",
+        "u": null,
+        "t": "restream",
+        "p": "billspencer"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-16T03:00:00Z",
-        "e": "2026-05-16T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "call curtis",
         "s": "2026-05-16T09:00:00Z",
@@ -1542,26 +1530,32 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Afroasis",
+        "s": "2026-05-23T07:00:00Z",
+        "e": "2026-05-23T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "afroasis"
+      },
+      {
+        "n": "Dun Roamin w/ Tomi From Brockley",
+        "s": "2026-05-23T09:00:00Z",
+        "e": "2026-05-23T10:00:00Z",
+        "d": null,
+        "j": "Tomi From Brockley",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
-        "s": "2026-05-16T05:00:00Z",
-        "e": "2026-05-16T07:00:00Z",
-        "d": null,
-        "j": "Bears in Space",
-        "u": null,
-        "t": "monthly",
-        "p": "chrisbowen",
-        "ap": [
-          "victorrodriguez"
-        ]
-      },
-      {
         "n": "sounds of NOW",
-        "s": "2026-05-16T07:00:00Z",
-        "e": "2026-05-16T09:00:00Z",
+        "s": "2026-05-16T09:00:00Z",
+        "e": "2026-05-16T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2121,18 +2115,18 @@
         "ap": [
           "basement"
         ]
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-05-16T06:00:00Z",
-        "e": "2026-05-16T08:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-23T07:00:00Z",
+        "e": "2026-05-23T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Breakfast with IG Culture",
         "s": "2026-05-16T08:00:00Z",
@@ -2378,15 +2372,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-15T20:00:00Z",
-        "e": "2026-05-16T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-16T07:00:00Z",
         "e": "2026-05-16T10:00:00Z",
         "d": null,
@@ -2404,9 +2389,114 @@
         "t": "playlist"
       },
       {
-        "n": "La Sunday Abidjan",
+        "n": "Yaël Ohayon",
         "s": "2026-05-16T12:00:00Z",
         "e": "2026-05-16T13:00:00Z",
+        "d": null,
+        "j": "Press Play for Tech House",
+        "u": null,
+        "t": "biweekly",
+        "p": "yalohayon"
+      },
+      {
+        "n": "Human Disease Network",
+        "s": "2026-05-16T13:00:00Z",
+        "e": "2026-05-16T14:00:00Z",
+        "d": null,
+        "j": "présente Linnea Mae",
+        "u": null,
+        "t": "biweekly",
+        "p": "humandiseasenetwork"
+      },
+      {
+        "n": "2-Steppers",
+        "s": "2026-05-16T14:00:00Z",
+        "e": "2026-05-16T15:00:00Z",
+        "d": null,
+        "j": "invite Friend Of Mine",
+        "u": null,
+        "t": "monthly",
+        "p": "2steppers"
+      },
+      {
+        "n": "Shampain",
+        "s": "2026-05-16T15:00:00Z",
+        "e": "2026-05-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "shampain"
+      },
+      {
+        "n": "Paloma Colombe",
+        "s": "2026-05-16T16:00:00Z",
+        "e": "2026-05-16T17:00:00Z",
+        "d": null,
+        "j": "Burna",
+        "u": null,
+        "t": "monthly",
+        "p": "palomacolombe"
+      },
+      {
+        "n": "Tijolo Records",
+        "s": "2026-05-16T17:00:00Z",
+        "e": "2026-05-16T18:00:00Z",
+        "d": null,
+        "j": "PARANOIA",
+        "u": null,
+        "p": "tijolorecords"
+      },
+      {
+        "n": "Eclipse Tribez",
+        "s": "2026-05-16T18:00:00Z",
+        "e": "2026-05-16T19:00:00Z",
+        "d": null,
+        "j": "invite Aemone",
+        "u": null,
+        "t": "biweekly",
+        "p": "eclipsetribez"
+      },
+      {
+        "n": "2much",
+        "s": "2026-05-16T19:00:00Z",
+        "e": "2026-05-16T20:00:00Z",
+        "d": null,
+        "j": "invite Liv Del Estal",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-16T20:00:00Z",
+        "e": "2026-05-17T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-17T07:00:00Z",
+        "e": "2026-05-17T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-17T10:00:00Z",
+        "e": "2026-05-17T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "La Sunday Abidjan",
+        "s": "2026-05-17T12:00:00Z",
+        "e": "2026-05-17T13:00:00Z",
         "d": null,
         "j": "invite XNIA",
         "u": null,
@@ -2415,8 +2505,8 @@
       },
       {
         "n": "Rinse France Guest Show",
-        "s": "2026-05-16T13:00:00Z",
-        "e": "2026-05-16T14:00:00Z",
+        "s": "2026-05-17T13:00:00Z",
+        "e": "2026-05-17T14:00:00Z",
         "d": null,
         "j": "Dolce Hagra avec Aziza et Habiboo",
         "u": null,
@@ -2424,8 +2514,8 @@
       },
       {
         "n": "Promesses",
-        "s": "2026-05-16T14:00:00Z",
-        "e": "2026-05-16T16:00:00Z",
+        "s": "2026-05-17T14:00:00Z",
+        "e": "2026-05-17T16:00:00Z",
         "d": null,
         "j": "invite DVIANCE",
         "u": null,
@@ -2434,8 +2524,8 @@
       },
       {
         "n": "Jokkoo Collective",
-        "s": "2026-05-16T16:00:00Z",
-        "e": "2026-05-16T17:00:00Z",
+        "s": "2026-05-17T16:00:00Z",
+        "e": "2026-05-17T17:00:00Z",
         "d": null,
         "j": "B4MBA - SPECIAL 100% SHATTA & DANCEHALL COLOMBIANO",
         "u": null,
@@ -2447,8 +2537,8 @@
       },
       {
         "n": "MUTEK",
-        "s": "2026-05-16T17:00:00Z",
-        "e": "2026-05-16T18:00:00Z",
+        "s": "2026-05-17T17:00:00Z",
+        "e": "2026-05-17T18:00:00Z",
         "d": null,
         "j": "invite DORRAA (GARDEN OF MAGIC)",
         "u": null,
@@ -2457,8 +2547,8 @@
       },
       {
         "n": "LU2K",
-        "s": "2026-05-16T18:00:00Z",
-        "e": "2026-05-16T19:00:00Z",
+        "s": "2026-05-17T18:00:00Z",
+        "e": "2026-05-17T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2467,17 +2557,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-16T19:00:00Z",
-        "e": "2026-05-16T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-05-16T20:00:00Z",
-        "e": "2026-05-16T21:00:00Z",
+        "s": "2026-05-17T19:00:00Z",
+        "e": "2026-05-17T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2486,16 +2567,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "TVOD",
-        "s": "2026-05-16T05:00:00Z",
-        "e": "2026-05-16T07:00:00Z",
-        "d": null,
-        "j": "Jason P",
-        "u": null,
-        "t": "weekly",
-        "p": "jasonp"
-      },
       {
         "n": "The Saturday Morning Comedown",
         "s": "2026-05-16T18:00:00Z",
