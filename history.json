@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-16T02:07:34.152Z",
+  "updated": "2026-05-16T06:16:42.580Z",
   "stations": {
     "nts1": [
       {
@@ -13816,6 +13816,35 @@
         "u": null,
         "t": "restream",
         "p": "mobbs"
+      },
+      {
+        "n": "KHARTOUM ARRIVALS W/ BASMA (R)",
+        "s": "2026-05-16T03:00:00+01:00",
+        "e": "2026-05-16T04:00:00+01:00",
+        "d": "Basma shares songs and stories from passings through Khartoum and beyond.",
+        "j": "BASMA",
+        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-25th-may-2025",
+        "t": "restream",
+        "p": "basma"
+      },
+      {
+        "n": "GiGi FM Presents Mareena (R)",
+        "s": "2026-05-16T04:00:00+01:00",
+        "e": "2026-05-16T05:00:00+01:00",
+        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-10th-september-2025",
+        "t": "restream",
+        "p": "gigifm"
+      },
+      {
+        "n": "Japan Blues (R)",
+        "s": "2026-05-16T05:00:00+01:00",
+        "e": "2026-05-16T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
@@ -30136,6 +30165,35 @@
         "j": "Dam",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "FLOATING POINTS (R)",
+        "s": "2026-05-16T03:00:00+01:00",
+        "e": "2026-05-16T05:00:00+01:00",
+        "d": "Sam Shepherd a.k.a Floating Points barely needs introduction. Cataloguing depths uncharted to expose some of the best jazz, soul, rare groove and disco around. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/floating-points/episodes/floating-points-3rd-june-2024",
+        "t": "restream",
+        "p": "floatingpoints"
+      },
+      {
+        "n": "Popstar Benny (R)",
+        "s": "2026-05-16T05:00:00+01:00",
+        "e": "2026-05-16T06:00:00+01:00",
+        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-10th-september-2024",
+        "t": "restream",
+        "p": "popstarbenny"
+      },
+      {
+        "n": "DJ Harrison (R)",
+        "s": "2026-05-16T06:00:00+01:00",
+        "e": "2026-05-16T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -45737,6 +45795,16 @@
         "u": null,
         "t": "monthly",
         "p": "negativepace"
+      },
+      {
+        "n": "CARLOS!",
+        "s": "2026-05-16T02:00:00Z",
+        "e": "2026-05-16T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "carlos"
       }
     ],
     "dublab": [
@@ -56517,6 +56585,29 @@
         "ap": [
           "mixmasterwolf",
           "psychedelicstax"
+        ]
+      },
+      {
+        "n": "Desmond - Cool Spot Selections",
+        "s": "2026-05-16T01:00:00Z",
+        "e": "2026-05-16T03:00:00Z",
+        "d": null,
+        "j": "Cool Spot Selections",
+        "u": null,
+        "t": "monthly",
+        "p": "desmond"
+      },
+      {
+        "n": "Greg Belson - 45 live",
+        "s": "2026-05-16T03:00:00Z",
+        "e": "2026-05-16T05:00:00Z",
+        "d": null,
+        "j": "45 live",
+        "u": null,
+        "t": "biweekly",
+        "p": "45live",
+        "ap": [
+          "gregbelson"
         ]
       }
     ],
@@ -70062,6 +70153,25 @@
         "u": null,
         "t": "biweekly",
         "p": "ryota"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-05-16T01:00:00Z",
+        "e": "2026-05-16T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Elle Clark",
+        "s": "2026-05-16T05:00:00Z",
+        "e": "2026-05-16T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "elleclark"
       }
     ],
     "rinsefr": [

@@ -1,44 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-16T02:06:56.319Z",
+  "updated": "2026-05-16T06:16:02.992Z",
   "stations": {
     "nts1": [
-      {
-        "n": "KHARTOUM ARRIVALS W/ BASMA (R)",
-        "s": "2026-05-16T03:00:00+01:00",
-        "e": "2026-05-16T04:00:00+01:00",
-        "d": "Basma shares songs and stories from passings through Khartoum and beyond.",
-        "j": "BASMA",
-        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-25th-may-2025",
-        "t": "restream",
-        "p": "basma"
-      },
-      {
-        "n": "GiGi FM Presents Mareena (R)",
-        "s": "2026-05-16T04:00:00+01:00",
-        "e": "2026-05-16T05:00:00+01:00",
-        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-10th-september-2025",
-        "t": "restream",
-        "p": "gigifm"
-      },
-      {
-        "n": "Japan Blues (R)",
-        "s": "2026-05-16T05:00:00+01:00",
-        "e": "2026-05-16T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Post-Geography (R)",
         "s": "2026-05-16T07:00:00+01:00",
         "e": "2026-05-16T08:00:00+01:00",
-        "d": null,
+        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-17th-june-2022",
         "t": "restream",
         "p": "postgeography"
       },
@@ -46,9 +17,9 @@
         "n": "SOUNDS OF THE DAWN",
         "s": "2026-05-16T08:00:00+01:00",
         "e": "2026-05-16T10:00:00+01:00",
-        "d": null,
+        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-16th-may-2026",
         "t": "monthly"
       },
       {
@@ -171,54 +142,53 @@
         "j": "EndgamE",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "FLOATING POINTS (R)",
-        "s": "2026-05-16T03:00:00+01:00",
-        "e": "2026-05-16T05:00:00+01:00",
-        "d": "Sam Shepherd a.k.a Floating Points barely needs introduction. Cataloguing depths uncharted to expose some of the best jazz, soul, rare groove and disco around. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/floating-points/episodes/floating-points-3rd-june-2024",
-        "t": "restream",
-        "p": "floatingpoints"
       },
       {
-        "n": "Popstar Benny (R)",
-        "s": "2026-05-16T05:00:00+01:00",
-        "e": "2026-05-16T06:00:00+01:00",
-        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-10th-september-2024",
-        "t": "restream",
-        "p": "popstarbenny"
-      },
-      {
-        "n": "DJ Harrison (R)",
-        "s": "2026-05-16T06:00:00+01:00",
-        "e": "2026-05-16T07:00:00+01:00",
+        "n": "Kutmah Presents: Sketchbook Radio (R)",
+        "s": "2026-05-17T04:00:00+01:00",
+        "e": "2026-05-17T06:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Sketchbook Radio",
         "u": null,
         "t": "restream"
       },
       {
+        "n": "All About Our Love w/ Harriet Brown (R)",
+        "s": "2026-05-17T06:00:00+01:00",
+        "e": "2026-05-17T07:00:00+01:00",
+        "d": null,
+        "j": "Harriet Brown",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Wave Form w/ Aurélien Arbet & Pierre Rousseau (R)",
+        "s": "2026-05-17T07:00:00+01:00",
+        "e": "2026-05-17T07:30:00+01:00",
+        "d": null,
+        "j": "Aurélien Arbet & Pierre Rousseau",
+        "u": null,
+        "t": "restream",
+        "p": "waveform"
+      }
+    ],
+    "nts2": [
+      {
         "n": "GEORGIA: ALL KIND MUSIC (R)",
         "s": "2026-05-16T07:00:00+01:00",
         "e": "2026-05-16T08:00:00+01:00",
-        "d": null,
+        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
         "j": "ALL KIND MUSIC",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-9th-january-2025",
         "t": "restream"
       },
       {
         "n": "SOPHIE THATCHER (R)",
         "s": "2026-05-16T08:00:00+01:00",
         "e": "2026-05-16T09:00:00+01:00",
-        "d": null,
+        "d": "Chime into a world of noise and melancholia. \nRanging from ambient to 70s Italian film scores. \nPerfect time for a long long walk. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-18th-december-2024",
         "t": "restream",
         "p": "sophie",
         "ap": [
@@ -343,19 +313,38 @@
         "u": null,
         "t": "monthly",
         "p": "bensims"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "CARLOS!",
-        "s": "2026-05-16T02:00:00Z",
-        "e": "2026-05-16T03:00:00Z",
+        "n": "BFDM ZAHEF SHOW (R)",
+        "s": "2026-05-17T02:00:00+01:00",
+        "e": "2026-05-17T03:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "carlos"
+        "t": "restream"
       },
+      {
+        "n": "Nosedrip (R)",
+        "s": "2026-05-17T03:00:00+01:00",
+        "e": "2026-05-17T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "nosedrip"
+      },
+      {
+        "n": "Rio Doce (R)",
+        "s": "2026-05-17T05:00:00+01:00",
+        "e": "2026-05-17T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "riodoce"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle Selects",
         "s": "2026-05-16T03:00:00Z",
@@ -1544,32 +1533,18 @@
         "u": null,
         "t": "monthly",
         "p": "kidcontra"
+      },
+      {
+        "n": "drewdrew",
+        "s": "2026-05-23T03:00:00Z",
+        "e": "2026-05-23T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Desmond - Cool Spot Selections",
-        "s": "2026-05-16T01:00:00Z",
-        "e": "2026-05-16T03:00:00Z",
-        "d": null,
-        "j": "Cool Spot Selections",
-        "u": null,
-        "t": "monthly",
-        "p": "desmond"
-      },
-      {
-        "n": "Greg Belson - 45 live",
-        "s": "2026-05-16T03:00:00Z",
-        "e": "2026-05-16T05:00:00Z",
-        "d": null,
-        "j": "45 live",
-        "u": null,
-        "t": "biweekly",
-        "p": "45live",
-        "ap": [
-          "gregbelson"
-        ]
-      },
       {
         "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
         "s": "2026-05-16T05:00:00Z",
@@ -2120,28 +2095,35 @@
         "u": null,
         "t": "monthly",
         "p": "morpho"
+      },
+      {
+        "n": "Mamabear - The Honey Pot",
+        "s": "2026-05-23T03:00:00Z",
+        "e": "2026-05-23T05:00:00Z",
+        "d": null,
+        "j": "The Honey Pot",
+        "u": null,
+        "t": "monthly",
+        "p": "honey",
+        "ap": [
+          "mamabear"
+        ]
+      },
+      {
+        "n": "DJ Kerry - The Basement",
+        "s": "2026-05-23T05:00:00Z",
+        "e": "2026-05-23T07:00:00Z",
+        "d": null,
+        "j": "The Basement",
+        "u": null,
+        "t": "monthly",
+        "p": "djkerry",
+        "ap": [
+          "basement"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-05-16T01:00:00Z",
-        "e": "2026-05-16T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Elle Clark",
-        "s": "2026-05-16T05:00:00Z",
-        "e": "2026-05-16T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "elleclark"
-      },
       {
         "n": "Playlist",
         "s": "2026-05-16T06:00:00Z",
