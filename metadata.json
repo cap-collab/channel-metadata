@@ -1,33 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-17T18:55:05.905Z",
+  "updated": "2026-05-17T20:39:57.686Z",
   "stations": {
     "nts1": [
-      {
-        "n": "JANIE JONES",
-        "s": "2026-05-17T19:00:00+01:00",
-        "e": "2026-05-17T20:00:00+01:00",
-        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-17th-may-2026",
-        "p": "janiejones"
-      },
-      {
-        "n": "Perfect Lives w/ Bruno & Daniel",
-        "s": "2026-05-17T20:00:00+01:00",
-        "e": "2026-05-17T21:00:00+01:00",
-        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-17th-may-2026",
-        "p": "perfectlives"
-      },
       {
         "n": "IDEALA w/ DUBBY (R)",
         "s": "2026-05-17T21:00:00+01:00",
         "e": "2026-05-17T22:00:00+01:00",
-        "d": null,
+        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
         "j": "DUBBY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-4th-june-2023",
         "t": "restream",
         "p": "ideala"
       },
@@ -35,9 +17,9 @@
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
         "s": "2026-05-17T22:00:00+01:00",
         "e": "2026-05-18T00:00:00+01:00",
-        "d": null,
+        "d": "Marsha by name and mellow by nature, MarshmeLLo takes you on a musical journey of all her influences plus a little extra. The first show ever broadcast on the station, Marsha continues to find her groove…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/midnight-marauders/episodes/midnight-marauders-17th-may-2026",
         "p": "midnightmarauders"
       },
       {
@@ -168,18 +150,28 @@
         "j": "JACK SAPSED",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "E Y E (R)",
+        "s": "2026-05-18T22:00:00+01:00",
+        "e": "2026-05-18T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "TORN HAWK",
+        "s": "2026-05-18T23:00:00+01:00",
+        "e": "2026-05-19T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "tornhawk"
       }
     ],
     "nts2": [
-      {
-        "n": "In Focus: Paul Johnson (R)",
-        "s": "2026-05-17T19:00:00+01:00",
-        "e": "2026-05-17T21:00:00+01:00",
-        "d": "Two hours of House music from a Chicago master and one of the greatest to ever do it - jacking, smooth and sublime.\nSelected and mixed by Finn.",
-        "j": "Paul Johnson",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-paul-johnson-23rd-january-2025",
-        "t": "restream"
-      },
       {
         "n": "ALL NIGHT FLIGHT",
         "s": "2026-05-17T21:00:00+01:00",
@@ -192,9 +184,9 @@
         "n": "E Y E (R)",
         "s": "2026-05-17T22:00:00+01:00",
         "e": "2026-05-17T23:00:00+01:00",
-        "d": null,
+        "d": "Regular transmissions from Japan’s undisputed king of the underground – traversing the unknown edges of the experimental dance cosmos for an hour every month…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/eye/episodes/eye-16th-september-2022",
         "t": "restream"
       },
       {
@@ -336,28 +328,18 @@
         "ap": [
           "malibu"
         ]
+      },
+      {
+        "n": "NTS Guide to: Zampogna",
+        "s": "2026-05-18T16:00:00+01:00",
+        "e": "2026-05-18T17:00:00+01:00",
+        "d": null,
+        "j": "Zampogna",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "subtle": [
-      {
-        "n": "So Far So Good",
-        "s": "2026-05-17T18:00:00Z",
-        "e": "2026-05-17T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sofarsogood"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-17T19:00:00Z",
-        "e": "2026-05-17T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Off-Switch Audio",
         "s": "2026-05-17T20:00:00Z",
@@ -1532,18 +1514,31 @@
         "j": "EONE",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Burgers – DOSTI",
-        "s": "2026-05-17T17:00:00Z",
-        "e": "2026-05-17T19:00:00Z",
+        "n": "EBITDA",
+        "s": "2026-05-24T19:00:00Z",
+        "e": "2026-05-24T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Subtle.MIX_v4_FINAL w/ Celebrity Bitcrush & Guests",
+        "s": "2026-05-24T20:00:00Z",
+        "e": "2026-05-24T22:00:00Z",
+        "d": null,
+        "j": "Celebrity Bitcrush & Guests",
+        "u": null,
+        "t": "monthly",
+        "p": "guests",
+        "ap": [
+          "celebritybitcrush"
+        ]
+      }
+    ],
+    "dublab": [
       {
         "n": "Barbarelle - Atlas",
         "s": "2026-05-17T19:00:00Z",
@@ -2089,29 +2084,18 @@
         "u": null,
         "t": "monthly",
         "p": "thomasklepper"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Night Slugs",
-        "s": "2026-05-17T18:00:00Z",
-        "e": "2026-05-17T19:00:00Z",
-        "d": null,
-        "j": "Scotti Dee & Spidey G",
-        "u": null,
-        "t": "monthly",
-        "p": "nightslugs"
       },
       {
-        "n": "Oblig",
-        "s": "2026-05-17T19:00:00Z",
-        "e": "2026-05-17T20:00:00Z",
+        "n": "Flight Club",
+        "s": "2026-05-24T19:00:00Z",
+        "e": "2026-05-24T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "oblig"
-      },
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "re:lax",
         "s": "2026-05-17T20:00:00Z",
@@ -2310,16 +2294,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "LU2K",
-        "s": "2026-05-17T18:00:00Z",
-        "e": "2026-05-17T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lu2k"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-17T19:00:00Z",
