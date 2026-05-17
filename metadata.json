@@ -1,46 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-05-17T14:49:04.305Z",
+  "updated": "2026-05-17T16:47:22.117Z",
   "stations": {
     "nts1": [
       {
-        "n": "CORTICEPS W/ MINUS KENDAL",
-        "s": "2026-05-17T14:00:00+01:00",
-        "e": "2026-05-17T16:00:00+01:00",
-        "d": "Minus Kendal trods the outer reaches foraging for aural morsels, slinging you a monthly smorgasbord of sultry sonix from trenchcoat folk to silicone synthwave.",
-        "j": "MINUS KENDAL",
-        "u": "https://www.nts.live/api/v2/shows/corticeps/episodes/corticeps-17th-may-2026",
-        "t": "monthly",
-        "p": "corticeps"
-      },
-      {
-        "n": "KIT GRILL w/ YU SU",
-        "s": "2026-05-17T16:00:00+01:00",
-        "e": "2026-05-17T17:00:00+01:00",
-        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
-        "j": "YU SU",
-        "u": "https://www.nts.live/api/v2/shows/kit-grill",
-        "t": "monthly",
-        "p": "kitgrill",
-        "ap": [
-          "yusu"
-        ]
-      },
-      {
-        "n": "ALL TRADES W/ CHUGGY",
+        "n": "ALL TRADES W/ CHUGGY & MILES J PARALYSIS",
         "s": "2026-05-17T17:00:00+01:00",
         "e": "2026-05-17T19:00:00+01:00",
-        "d": null,
+        "d": "The man behind the various Emotional labels jumps in the NTS cockpit for a chance to show off his expansive taste. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/emotional/episodes/emotional-17th-may-2026"
       },
       {
         "n": "JANIE JONES",
         "s": "2026-05-17T19:00:00+01:00",
         "e": "2026-05-17T20:00:00+01:00",
-        "d": null,
+        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-17th-may-2026",
         "p": "janiejones"
       },
       {
@@ -171,44 +148,44 @@
         "j": "DRAKEFORD",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-05-18T18:00:00+01:00",
+        "e": "2026-05-18T20:00:00+01:00",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
+      },
+      {
+        "n": "SUNCUT",
+        "s": "2026-05-18T20:00:00+01:00",
+        "e": "2026-05-18T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: REGGAE COVERS OF SOUL & DISCO (R)",
-        "s": "2026-05-17T15:00:00+01:00",
-        "e": "2026-05-17T16:00:00+01:00",
-        "d": "An hour of strictly classic soul and disco cuts turned reggae anthems.",
-        "j": "REGGAE COVERS OF SOUL & DISCO",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-soul-and-disco-covered-in-reggae-15th-june-2023",
-        "t": "restream"
-      },
-      {
-        "n": "EDV3CTOR",
-        "s": "2026-05-17T16:00:00+01:00",
-        "e": "2026-05-17T17:00:00+01:00",
-        "d": "Leeds scene leader and DJ edv3ctor presents archival and contemporary selections from his personal archive, exploring rhythms, sounds, and moods past and present.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/edv3ctor/episodes/edv3ctor-17th-may-2026",
-        "t": "monthly",
-        "p": "edv3ctor"
-      },
-      {
         "n": "RED LASER RECORDS",
         "s": "2026-05-17T17:00:00+01:00",
         "e": "2026-05-17T19:00:00+01:00",
-        "d": null,
+        "d": "Red Laser Records crew brings Manchester's own blend of Manctalo, Disco & Boogie. A high energy Sunday Buzz guaranteed.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-17th-may-2026",
         "t": "monthly"
       },
       {
         "n": "In Focus: Paul Johnson (R)",
         "s": "2026-05-17T19:00:00+01:00",
         "e": "2026-05-17T21:00:00+01:00",
-        "d": null,
+        "d": "Two hours of House music from a Chicago master and one of the greatest to ever do it - jacking, smooth and sublime.\nSelected and mixed by Finn.",
         "j": "Paul Johnson",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-paul-johnson-23rd-january-2025",
         "t": "restream"
       },
       {
@@ -337,28 +314,28 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Chaitu",
-        "s": "2026-05-17T14:00:00Z",
-        "e": "2026-05-17T15:00:00Z",
-        "d": "Hailing from Mumbai, now living in London, Chaitu is energised by the UK sound and scene.\r\n\r\nWith a love of all things weird, weighty and groovy; his mixes and productions bridge electro, techno, breaks, UKG and Jungle, with sprinklings of everything in between.\r\n\r\nChaitu champions provocative beats that break down the barriers of style, genre and expectation, all while keeping you moving.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "chaitu"
       },
       {
-        "n": "Dorian Day",
-        "s": "2026-05-17T15:00:00Z",
-        "e": "2026-05-17T16:00:00Z",
+        "n": "Zac Farro: Japanese Heat (R)",
+        "s": "2026-05-18T13:00:00+01:00",
+        "e": "2026-05-18T14:00:00+01:00",
+        "d": null,
+        "j": "Japanese Heat",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "CXEMA",
+        "s": "2026-05-18T14:00:00+01:00",
+        "e": "2026-05-18T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "monthly",
+        "p": "cxema"
+      }
+    ],
+    "subtle": [
       {
         "n": "SETTINGS",
         "s": "2026-05-17T16:00:00Z",
@@ -1526,18 +1503,27 @@
         "j": "DVS",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs 2",
-        "s": "2026-05-17T14:00:00Z",
-        "e": "2026-05-17T16:00:00Z",
+        "n": "grounded",
+        "s": "2026-05-24T15:00:00Z",
+        "e": "2026-05-24T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "2Step Selects ",
+        "s": "2026-05-24T16:00:00Z",
+        "e": "2026-05-24T18:00:00Z",
+        "d": "2Step Selects is a monthly show hosted by the Choki Biki Records crew. Founded in Dublin, Ireland, CBR consists of DJ Sharpson, 2step.png, Frame Shift, and MICK. The show consists of an all round breaks, electro, ukg and jungle hour, followed by an Irish showcase, demonstrating all the best Ireland has to offer collective/party/Dj & Producer wise!",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Kenneth Bager - Music for Dreams",
         "s": "2026-05-17T16:00:00Z",
@@ -2082,18 +2068,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-05-24T16:00:00Z",
+        "e": "2026-05-24T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "Supa D",
-        "s": "2026-05-17T14:00:00Z",
-        "e": "2026-05-17T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "El Londo",
         "s": "2026-05-17T16:00:00Z",
@@ -2215,7 +2202,7 @@
         "s": "2026-05-18T08:00:00Z",
         "e": "2026-05-18T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Baba T",
         "u": null,
         "t": "weekly"
       },
@@ -2332,15 +2319,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Promesses",
-        "s": "2026-05-17T14:00:00Z",
-        "e": "2026-05-17T16:00:00Z",
-        "d": null,
-        "j": "invite DVIANCE",
-        "u": null,
-        "p": "promesses"
-      },
       {
         "n": "Jokkoo Collective",
         "s": "2026-05-17T16:00:00Z",
