@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-17T02:11:57.996Z",
+  "updated": "2026-05-17T06:39:59.000Z",
   "stations": {
     "nts1": [
       {
@@ -13976,6 +13976,44 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Precious Metals w/ EndgamE (R)",
+        "s": "2026-05-17T03:00:00+01:00",
+        "e": "2026-05-17T04:00:00+01:00",
+        "d": "EndgamE’s Precious Metals lines up the latest in the sounds of the underbelly: drill, auto-tune serenades and dancehall. 808 snares rattle like uzis, deep synths sing out like a foghorn through the spray – both grime and hip-hop, tunes for the club and tunes for the car. Lock in. therealendgame@gmail.com",
+        "j": "EndgamE",
+        "u": "https://www.nts.live/api/v2/shows/preciousmetals/episodes/preciousmetals-10th-september-2025",
+        "t": "restream"
+      },
+      {
+        "n": "Kutmah Presents: Sketchbook Radio (R)",
+        "s": "2026-05-17T04:00:00+01:00",
+        "e": "2026-05-17T06:00:00+01:00",
+        "d": "Sketchbook was the LA beat night started by Kutmah back in 2004 and was the breeding ground for artists like Daedelus, Ras G, Dibiase, Georgia Anne Muldrow, Teebs and Flying Lotus. Now it's radio reincarnation is on this side of the Atlantic. Lock in.",
+        "j": "Sketchbook Radio",
+        "u": "https://www.nts.live/api/v2/shows/sketchbook/episodes/sketchbook-27th-june-2025",
+        "t": "restream"
+      },
+      {
+        "n": "All About Our Love w/ Harriet Brown (R)",
+        "s": "2026-05-17T06:00:00+01:00",
+        "e": "2026-05-17T07:00:00+01:00",
+        "d": null,
+        "j": "Harriet Brown",
+        "u": null,
+        "t": "restream",
+        "p": "harrietbrown"
+      },
+      {
+        "n": "Wave Form w/ Aurélien Arbet & Pierre Rousseau (R)",
+        "s": "2026-05-17T07:00:00+01:00",
+        "e": "2026-05-17T07:30:00+01:00",
+        "d": null,
+        "j": "Aurélien Arbet & Pierre Rousseau",
+        "u": null,
+        "t": "restream",
+        "p": "waveform"
       }
     ],
     "nts2": [
@@ -30260,7 +30298,8 @@
         "d": "Sit down, cool off and unwind with Harriet Brown's soothing monthly showcase, live from our LA studio.\nFrom the host: \"Downtempo and R&B for walking high in the golden hour sun, studying the city from a distance, and lightly reflecting on the evolution of all your various connections.\"",
         "j": "HARRIET BROWN",
         "u": "https://www.nts.live/api/v2/shows/harriet-brown/episodes/harriet-brown-15th-may-2026",
-        "t": "monthly"
+        "t": "monthly",
+        "p": "harrietbrown"
       },
       {
         "n": "East Never Loses: FAYE WONG ERAS w/ Angie QQ",
@@ -30475,6 +30514,26 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Nosedrip (R)",
+        "s": "2026-05-17T03:00:00+01:00",
+        "e": "2026-05-17T05:00:00+01:00",
+        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-3rd-october-2024",
+        "t": "restream",
+        "p": "nosedrip"
+      },
+      {
+        "n": "Rio Doce (R)",
+        "s": "2026-05-17T05:00:00+01:00",
+        "e": "2026-05-17T07:00:00+01:00",
+        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-5th-november-2025",
+        "t": "restream",
+        "p": "riodoce"
       }
     ],
     "subtle": [
@@ -46245,6 +46304,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Et Al",
+        "s": "2026-05-17T02:00:00Z",
+        "e": "2026-05-17T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -57145,6 +57213,24 @@
         "u": null,
         "t": "monthly",
         "p": "anthnygbriel"
+      },
+      {
+        "n": "2092 presents... Funk Radio",
+        "s": "2026-05-17T01:00:00Z",
+        "e": "2026-05-17T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Discoteca 3ala Mars",
+        "s": "2026-05-17T03:00:00Z",
+        "e": "2026-05-17T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
@@ -64457,7 +64543,8 @@
         "e": "2026-04-07T21:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "planetv"
       },
       {
         "n": "Studio Barnhus",
@@ -64521,7 +64608,8 @@
         "e": "2026-04-08T05:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "planetv"
       },
       {
         "n": "LILA",
@@ -70833,6 +70921,27 @@
         "j": "Rayka Vittar",
         "u": null,
         "p": "clementaum"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-05-17T01:00:00Z",
+        "e": "2026-05-17T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Mason Collective",
+        "s": "2026-05-17T05:00:00Z",
+        "e": "2026-05-17T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "collective",
+        "ap": [
+          "masoncollective"
+        ]
       }
     ],
     "rinsefr": [
