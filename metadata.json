@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-17T12:58:59.703Z",
+  "updated": "2026-05-17T14:49:04.305Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Tommasi",
-        "s": "2026-05-17T12:00:00+01:00",
-        "e": "2026-05-17T14:00:00+01:00",
-        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-17th-may-2026",
-        "t": "monthly",
-        "p": "tommasi"
-      },
       {
         "n": "CORTICEPS W/ MINUS KENDAL",
         "s": "2026-05-17T14:00:00+01:00",
@@ -27,9 +17,10 @@
         "n": "KIT GRILL w/ YU SU",
         "s": "2026-05-17T16:00:00+01:00",
         "e": "2026-05-17T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
+        "j": "YU SU",
+        "u": "https://www.nts.live/api/v2/shows/kit-grill",
+        "t": "monthly",
         "p": "kitgrill",
         "ap": [
           "yusu"
@@ -171,45 +162,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FROM THE DEPTHS W/ DRAKEFORD",
+        "s": "2026-05-18T16:00:00+01:00",
+        "e": "2026-05-18T18:00:00+01:00",
+        "d": null,
+        "j": "DRAKEFORD",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Autotune the World w/ Christopher Kirkley (R)",
-        "s": "2026-05-17T13:00:00+01:00",
-        "e": "2026-05-17T14:00:00+01:00",
-        "d": "International portal for contemporary pop, leaning into the autotuned future… from the mind of Christopher Kirkley, the mastermind behind record label Sahel Sounds.",
-        "j": "Christopher Kirkley",
-        "u": "https://www.nts.live/api/v2/shows/christopher-kirkley/episodes/autotune-the-world-1st-august-2019",
-        "t": "restream",
-        "p": "christopherkirkley"
-      },
-      {
-        "n": "CHILDREN OF ZEUS",
-        "s": "2026-05-17T14:00:00+01:00",
-        "e": "2026-05-17T15:00:00+01:00",
-        "d": "Children of Zeus's Konny Kon takes over our Manchester studio once a month to play upfront Soul, Classic Hip Hop & New RnB.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/children-of-zeus/episodes/children-of-zeus-17th-may-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Abena",
+        "n": "NTS GUIDE TO: REGGAE COVERS OF SOUL & DISCO (R)",
         "s": "2026-05-17T15:00:00+01:00",
         "e": "2026-05-17T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "abena"
+        "d": "An hour of strictly classic soul and disco cuts turned reggae anthems.",
+        "j": "REGGAE COVERS OF SOUL & DISCO",
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-soul-and-disco-covered-in-reggae-15th-june-2023",
+        "t": "restream"
       },
       {
         "n": "EDV3CTOR",
         "s": "2026-05-17T16:00:00+01:00",
         "e": "2026-05-17T17:00:00+01:00",
-        "d": null,
+        "d": "Leeds scene leader and DJ edv3ctor presents archival and contemporary selections from his personal archive, exploring rhythms, sounds, and moods past and present.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/edv3ctor/episodes/edv3ctor-17th-may-2026",
         "t": "monthly",
         "p": "edv3ctor"
       },
@@ -341,28 +321,25 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "AN1MA w/ MOLINARO",
+        "s": "2026-05-18T11:00:00+01:00",
+        "e": "2026-05-18T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "cwondo no omoide spring 2026",
+        "s": "2026-05-18T12:00:00+01:00",
+        "e": "2026-05-18T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "ItsJermayne",
-        "s": "2026-05-17T12:00:00Z",
-        "e": "2026-05-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "itsjermayne"
-      },
-      {
-        "n": " What's The Weather, Selecta? w/ Megan Wroe",
-        "s": "2026-05-17T13:00:00Z",
-        "e": "2026-05-17T14:00:00Z",
-        "d": null,
-        "j": "Megan Wroe",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Chaitu",
         "s": "2026-05-17T14:00:00Z",
@@ -1530,18 +1507,28 @@
         "j": "VIOLENTLYILL",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs",
-        "s": "2026-05-17T12:00:00Z",
-        "e": "2026-05-17T14:00:00Z",
+        "n": " Sarah Jones",
+        "s": "2026-05-24T13:00:00Z",
+        "e": "2026-05-24T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "sarahjones"
       },
+      {
+        "n": "LIT CLIPS w/ DVS",
+        "s": "2026-05-24T14:00:00Z",
+        "e": "2026-05-24T15:00:00Z",
+        "d": null,
+        "j": "DVS",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "djjs 2",
         "s": "2026-05-17T14:00:00Z",
@@ -2086,18 +2073,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "CoOp Presents",
-        "s": "2026-05-17T12:00:00Z",
-        "e": "2026-05-17T14:00:00Z",
+        "n": "djjs 2",
+        "s": "2026-05-24T14:00:00Z",
+        "e": "2026-05-24T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "Supa D",
         "s": "2026-05-17T14:00:00Z",
@@ -2345,25 +2332,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "La Sunday Abidjan",
-        "s": "2026-05-17T12:00:00Z",
-        "e": "2026-05-17T13:00:00Z",
-        "d": null,
-        "j": "invite XNIA",
-        "u": null,
-        "t": "monthly",
-        "p": "lasundayabidjan"
-      },
-      {
-        "n": "Rinse France Guest Show",
-        "s": "2026-05-17T13:00:00Z",
-        "e": "2026-05-17T14:00:00Z",
-        "d": null,
-        "j": "Dolce Hagra avec Aziza et Habiboo",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Promesses",
         "s": "2026-05-17T14:00:00Z",
