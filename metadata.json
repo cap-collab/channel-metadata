@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-17T16:47:22.117Z",
+  "updated": "2026-05-17T18:55:05.905Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ALL TRADES W/ CHUGGY & MILES J PARALYSIS",
-        "s": "2026-05-17T17:00:00+01:00",
-        "e": "2026-05-17T19:00:00+01:00",
-        "d": "The man behind the various Emotional labels jumps in the NTS cockpit for a chance to show off his expansive taste. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/emotional/episodes/emotional-17th-may-2026"
-      },
       {
         "n": "JANIE JONES",
         "s": "2026-05-17T19:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "Perfect Lives w/ Bruno & Daniel",
         "s": "2026-05-17T20:00:00+01:00",
         "e": "2026-05-17T21:00:00+01:00",
-        "d": null,
+        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-17th-may-2026",
         "p": "perfectlives"
       },
       {
@@ -133,7 +125,7 @@
         "t": "monthly"
       },
       {
-        "n": "DACTYLIAN & PALO SANTO DISCOS",
+        "n": "Dactylian - Bossa Compactos",
         "s": "2026-05-18T15:00:00+01:00",
         "e": "2026-05-18T16:00:00+01:00",
         "d": null,
@@ -167,18 +159,18 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "ALL FRUITS RIPE W/ JACK SAPSED",
+        "s": "2026-05-18T21:00:00+01:00",
+        "e": "2026-05-18T22:00:00+01:00",
+        "d": null,
+        "j": "JACK SAPSED",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "RED LASER RECORDS",
-        "s": "2026-05-17T17:00:00+01:00",
-        "e": "2026-05-17T19:00:00+01:00",
-        "d": "Red Laser Records crew brings Manchester's own blend of Manctalo, Disco & Boogie. A high energy Sunday Buzz guaranteed.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-17th-may-2026",
-        "t": "monthly"
-      },
       {
         "n": "In Focus: Paul Johnson (R)",
         "s": "2026-05-17T19:00:00+01:00",
@@ -192,9 +184,9 @@
         "n": "ALL NIGHT FLIGHT",
         "s": "2026-05-17T21:00:00+01:00",
         "e": "2026-05-17T22:00:00+01:00",
-        "d": null,
+        "d": "A winding journey through the catalogue of All Night Flight's Stockport record store, spanning from modern classical and free-flowing jazz to a wide soundscape of dark ambient, folk and techno… with All Night Flight, anything goes!",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/all-night-flight/episodes/all-night-flight-17th-may-2026"
       },
       {
         "n": "E Y E (R)",
@@ -325,27 +317,28 @@
         "t": "restream"
       },
       {
-        "n": "CXEMA",
+        "n": "Cxema w/ Bakunn",
         "s": "2026-05-18T14:00:00+01:00",
         "e": "2026-05-18T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "cxema"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "SETTINGS",
-        "s": "2026-05-17T16:00:00Z",
-        "e": "2026-05-17T18:00:00Z",
+        "n": "United In Flames w/ CRYSTALLMESS & MALIBU",
+        "s": "2026-05-18T15:00:00+01:00",
+        "e": "2026-05-18T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "settings"
-      },
+        "p": "crystallmess",
+        "ap": [
+          "malibu"
+        ]
+      }
+    ],
+    "subtle": [
       {
         "n": "So Far So Good",
         "s": "2026-05-17T18:00:00Z",
@@ -355,6 +348,15 @@
         "u": null,
         "t": "monthly",
         "p": "sofarsogood"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-17T19:00:00Z",
+        "e": "2026-05-17T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Off-Switch Audio",
@@ -1521,19 +1523,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " The Process Show w/ EONE",
+        "s": "2026-05-24T18:00:00Z",
+        "e": "2026-05-24T19:00:00Z",
+        "d": null,
+        "j": "EONE",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-05-17T16:00:00Z",
-        "e": "2026-05-17T17:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly",
-        "p": "kennethbager"
-      },
       {
         "n": "Burgers – DOSTI",
         "s": "2026-05-17T17:00:00Z",
@@ -2078,29 +2079,19 @@
         "u": null,
         "t": "weekly",
         "p": "kennethbager"
+      },
+      {
+        "n": "Thomas Klepper - Library of Sounds",
+        "s": "2026-05-24T17:00:00Z",
+        "e": "2026-05-24T19:00:00Z",
+        "d": null,
+        "j": "Library of Sounds",
+        "u": null,
+        "t": "monthly",
+        "p": "thomasklepper"
       }
     ],
     "rinse": [
-      {
-        "n": "El Londo",
-        "s": "2026-05-17T16:00:00Z",
-        "e": "2026-05-17T17:00:00Z",
-        "d": null,
-        "j": "MANSO̶U̶R̶",
-        "u": null,
-        "t": "monthly",
-        "p": "ellondo"
-      },
-      {
-        "n": "Bok Bok",
-        "s": "2026-05-17T17:00:00Z",
-        "e": "2026-05-17T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "bokbok"
-      },
       {
         "n": "Night Slugs",
         "s": "2026-05-17T18:00:00Z",
@@ -2135,7 +2126,7 @@
         "s": "2026-05-17T22:00:00Z",
         "e": "2026-05-17T23:00:00Z",
         "d": null,
-        "j": "Live from Infrasound Festival, Minnesota",
+        "j": null,
         "u": null,
         "t": "monthly",
         "p": "lure"
@@ -2319,27 +2310,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Jokkoo Collective",
-        "s": "2026-05-17T16:00:00Z",
-        "e": "2026-05-17T17:00:00Z",
-        "d": null,
-        "j": "B4MBA - SPECIAL 100% SHATTA & DANCEHALL COLOMBIANO",
-        "u": null,
-        "p": "collective",
-        "ap": [
-          "jokkoocollective"
-        ]
-      },
-      {
-        "n": "MUTEK",
-        "s": "2026-05-17T17:00:00Z",
-        "e": "2026-05-17T18:00:00Z",
-        "d": null,
-        "j": "invite DORRAA (GARDEN OF MAGIC)",
-        "u": null,
-        "p": "mutek"
-      },
       {
         "n": "LU2K",
         "s": "2026-05-17T18:00:00Z",
