@@ -1,55 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-17T06:39:22.001Z",
+  "updated": "2026-05-17T09:27:55.369Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MARTIN NEWELL'S ODDCASTE",
-        "s": "2026-05-17T07:30:00+01:00",
-        "e": "2026-05-17T08:00:00+01:00",
-        "d": "The Cleaners From Venus frontman presents an eclectic mix of pop music, comedy, and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martin-newells-oddcaste/episodes/martin-newells-oddcaste-17th-may-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "SOPHIA ZHURAVKOVA Presents textural bug",
-        "s": "2026-05-17T08:00:00+01:00",
-        "e": "2026-05-17T09:00:00+01:00",
-        "d": "Organic soundscapes, field recordings and melodic ambience from composer Sophia Zhuravkova.\nFrom the host: \"special mix from textural bug\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sophia-zhuravkova/episodes/sophia-zhuravkova-17th-may-2026",
-        "p": "sophiazhuravkova"
-      },
-      {
-        "n": "THEA HD",
-        "s": "2026-05-17T09:00:00+01:00",
-        "e": "2026-05-17T10:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "hd",
-        "ap": [
-          "theahd"
-        ]
-      },
       {
         "n": "THE SLIP",
         "s": "2026-05-17T10:00:00+01:00",
         "e": "2026-05-17T12:00:00+01:00",
-        "d": null,
+        "d": "Rory Bowens heads The Slip on Sunday mornings every other week - squeezing an hour of hazy dub off-shoots, pupil-dilating shoegaze and uncanny dream music.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/theslip/episodes/theslip-17th-may-2026",
         "t": "biweekly"
       },
       {
         "n": "Tommasi",
         "s": "2026-05-17T12:00:00+01:00",
         "e": "2026-05-17T14:00:00+01:00",
-        "d": null,
+        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-17th-may-2026",
         "t": "monthly",
         "p": "tommasi"
       },
@@ -174,36 +143,44 @@
         "j": null,
         "u": null,
         "p": "bradenwells"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-05-18T09:00:00+01:00",
+        "e": "2026-05-18T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-05-18T11:00:00+01:00",
+        "e": "2026-05-18T13:00:00+01:00",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "PATRICK FORGE",
+        "s": "2026-05-18T13:00:00+01:00",
+        "e": "2026-05-18T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Radio Jiro - Italo Disco Speciale (R)",
-        "s": "2026-05-17T07:00:00+01:00",
-        "e": "2026-05-17T09:00:00+01:00",
-        "d": "Radio Jiro is the two hour show of artist Jiro Bevis, every 4 weeks, Monday 2-4pm. The show features a wide variety of sounds from across the globe with previous specials covering themes such as Meditation, Italian, UK punk, Japanese Techno-Pop, Library and French.",
-        "j": "Italo Disco Speciale",
-        "u": "https://www.nts.live/api/v2/shows/radio-jiro/episodes/radio-jiro-27th-july-2015",
-        "t": "restream",
-        "p": "radiojiro"
-      },
-      {
-        "n": "A MONTH OF SUNDAYS W/ BILL SPENCER (R)",
-        "s": "2026-05-17T09:00:00+01:00",
-        "e": "2026-05-17T10:00:00+01:00",
-        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.",
-        "j": "BILL SPENCER",
-        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-9th-july-2023",
-        "t": "restream",
-        "p": "billspencer"
-      },
-      {
         "n": "MUSIC FOR A HEALING EARTH W/ THE COSMIC TONES RESEARCH TRIO (R)",
         "s": "2026-05-17T10:00:00+01:00",
         "e": "2026-05-17T11:00:00+01:00",
-        "d": null,
+        "d": "Healing and restorative sonic transmissions for all beings.",
         "j": "THE COSMIC TONES RESEARCH TRIO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-cosmic-tones-research-trio/episodes/the-cosmic-tones-research-trio-6th-may-2025",
         "t": "restream",
         "p": "thecosmictonesresearchtrio"
       },
@@ -211,9 +188,9 @@
         "n": "COUNTRY HAYRIDE - RIP DAC",
         "s": "2026-05-17T11:00:00+01:00",
         "e": "2026-05-17T12:00:00+01:00",
-        "d": null,
+        "d": "Crispy Cowboy, of East Lonesome Drifters fame, explores the foundations of country and Western music. Expect outstanding vintage records from old-time, hillbilly, folk, Nashville sound, western swing, outlaw, red dirt, Bakersfield and more.\nFrom the host: \"This month it is not ALL bad news but we start with  \"in memoriam spins \" remembering David Allan Coe, Don Schlitz and Guy Clark.  Some birthdays too including George Strait and Mickey Newbury too AND our 'voice of an angel' set.  SO….see ya at the bar at high noon this Sunday.  Til then, Crispy\"",
         "j": "RIP DAC",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/country-hayride/episodes/country-hayride-17th-may-2026",
         "t": "monthly",
         "p": "countryhayride"
       },
@@ -345,35 +322,36 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "BLAZER SOUND SYSTEM (R)",
+        "s": "2026-05-18T04:00:00+01:00",
+        "e": "2026-05-18T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Tafelmusik w/ Francesco Fusaro (R)",
+        "s": "2026-05-18T05:00:00+01:00",
+        "e": "2026-05-18T07:00:00+01:00",
+        "d": null,
+        "j": "Francesco Fusaro",
+        "u": null,
+        "t": "restream",
+        "p": "francescofusaro"
       }
     ],
     "subtle": [
       {
         "n": "Subtle Selects",
-        "s": "2026-05-17T03:00:00Z",
-        "e": "2026-05-17T07:00:00Z",
+        "s": "2026-05-17T09:00:00Z",
+        "e": "2026-05-17T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "afters w/ little noises",
-        "s": "2026-05-17T07:00:00Z",
-        "e": "2026-05-17T08:00:00Z",
-        "d": null,
-        "j": "little noises",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "ECHO CHAMBER",
-        "s": "2026-05-17T08:00:00Z",
-        "e": "2026-05-17T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
         "n": "tabs",
@@ -1544,27 +1522,44 @@
         "j": "Search Urchin",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " All Fitz",
+        "s": "2026-05-24T07:00:00Z",
+        "e": "2026-05-24T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Housewife (UK)",
+        "s": "2026-05-24T09:00:00Z",
+        "e": "2026-05-24T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Mark Maxwell - Sankofa Sound System",
-        "s": "2026-05-17T05:00:00Z",
-        "e": "2026-05-17T07:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-17T09:00:00Z",
+        "e": "2026-05-17T11:00:00Z",
         "d": null,
-        "j": "Sankofa Sound System",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "markmaxwell"
+        "t": "playlist"
       },
       {
-        "n": "Ale Cohen - Elevation Through Sound",
-        "s": "2026-05-17T07:00:00Z",
-        "e": "2026-05-17T09:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-17T11:00:00Z",
+        "e": "2026-05-17T12:00:00Z",
         "d": null,
-        "j": "Elevation Through Sound",
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "djjs",
@@ -2114,15 +2109,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-05-17T06:00:00Z",
-        "e": "2026-05-17T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Phonica Records",
         "s": "2026-05-17T08:00:00Z",
         "e": "2026-05-17T10:00:00Z",
@@ -2394,15 +2380,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-16T19:00:00Z",
-        "e": "2026-05-17T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-17T07:00:00Z",
         "e": "2026-05-17T10:00:00Z",
         "d": null,
@@ -2420,9 +2397,95 @@
         "t": "playlist"
       },
       {
-        "n": "O.Xander",
+        "n": "La Sunday Abidjan",
         "s": "2026-05-17T12:00:00Z",
         "e": "2026-05-17T13:00:00Z",
+        "d": null,
+        "j": "invite XNIA",
+        "u": null,
+        "t": "monthly",
+        "p": "lasundayabidjan"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-05-17T13:00:00Z",
+        "e": "2026-05-17T14:00:00Z",
+        "d": null,
+        "j": "Dolce Hagra avec Aziza et Habiboo",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Promesses",
+        "s": "2026-05-17T14:00:00Z",
+        "e": "2026-05-17T16:00:00Z",
+        "d": null,
+        "j": "invite DVIANCE",
+        "u": null,
+        "p": "promesses"
+      },
+      {
+        "n": "Jokkoo Collective",
+        "s": "2026-05-17T16:00:00Z",
+        "e": "2026-05-17T17:00:00Z",
+        "d": null,
+        "j": "B4MBA - SPECIAL 100% SHATTA & DANCEHALL COLOMBIANO",
+        "u": null,
+        "p": "collective",
+        "ap": [
+          "jokkoocollective"
+        ]
+      },
+      {
+        "n": "MUTEK",
+        "s": "2026-05-17T17:00:00Z",
+        "e": "2026-05-17T18:00:00Z",
+        "d": null,
+        "j": "invite DORRAA (GARDEN OF MAGIC)",
+        "u": null,
+        "p": "mutek"
+      },
+      {
+        "n": "LU2K",
+        "s": "2026-05-17T18:00:00Z",
+        "e": "2026-05-17T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lu2k"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-17T19:00:00Z",
+        "e": "2026-05-18T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-18T07:00:00Z",
+        "e": "2026-05-18T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-18T10:00:00Z",
+        "e": "2026-05-18T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "O.Xander",
+        "s": "2026-05-18T12:00:00Z",
+        "e": "2026-05-18T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2430,8 +2493,8 @@
       },
       {
         "n": "Sébastien Forrester",
-        "s": "2026-05-17T13:00:00Z",
-        "e": "2026-05-17T14:00:00Z",
+        "s": "2026-05-18T13:00:00Z",
+        "e": "2026-05-18T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2440,8 +2503,8 @@
       },
       {
         "n": "Music For Tourist",
-        "s": "2026-05-17T14:00:00Z",
-        "e": "2026-05-17T15:00:00Z",
+        "s": "2026-05-18T14:00:00Z",
+        "e": "2026-05-18T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2449,16 +2512,16 @@
       },
       {
         "n": "Tatie Dee",
-        "s": "2026-05-17T15:00:00Z",
-        "e": "2026-05-17T16:00:00Z",
+        "s": "2026-05-18T15:00:00Z",
+        "e": "2026-05-18T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "FIONA",
-        "s": "2026-05-17T16:00:00Z",
-        "e": "2026-05-17T17:00:00Z",
+        "s": "2026-05-18T16:00:00Z",
+        "e": "2026-05-18T17:00:00Z",
         "d": null,
         "j": "présente Red Light Therapy",
         "u": null,
@@ -2466,8 +2529,8 @@
       },
       {
         "n": "Belaria",
-        "s": "2026-05-17T17:00:00Z",
-        "e": "2026-05-17T18:00:00Z",
+        "s": "2026-05-18T17:00:00Z",
+        "e": "2026-05-18T18:00:00Z",
         "d": null,
         "j": "WAASS",
         "u": null,
@@ -2476,8 +2539,8 @@
       },
       {
         "n": "Weirdies Records",
-        "s": "2026-05-17T18:00:00Z",
-        "e": "2026-05-17T19:00:00Z",
+        "s": "2026-05-18T18:00:00Z",
+        "e": "2026-05-18T19:00:00Z",
         "d": null,
         "j": "avec Jon Beige (100% vinyl set)",
         "u": null,
@@ -2485,8 +2548,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-17T19:00:00Z",
-        "e": "2026-05-17T20:00:00Z",
+        "s": "2026-05-18T19:00:00Z",
+        "e": "2026-05-18T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
