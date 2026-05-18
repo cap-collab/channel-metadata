@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-18T17:52:38.953Z",
+  "updated": "2026-05-18T19:25:57.362Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-05-18T18:00:00+01:00",
-        "e": "2026-05-18T20:00:00+01:00",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": "COCO MARIA",
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-18th-may-2026",
-        "t": "weekly",
-        "p": "cocomaria"
-      },
       {
         "n": "SUNCUT",
         "s": "2026-05-18T20:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "ALL FRUITS RIPE W/ JACK SAPSED",
         "s": "2026-05-18T21:00:00+01:00",
         "e": "2026-05-18T22:00:00+01:00",
-        "d": null,
+        "d": "Ease in to delectations from our host, Jack Sapsed. A sea of sideways sounds: ambient tranquility and psychedelic folk; experimental dub to techno… ALL FRUITS RIPE",
         "j": "JACK SAPSED",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/all-fruits-ripe/episodes/all-fruits-ripe-18th-may-2026",
         "t": "monthly"
       },
       {
@@ -170,43 +160,36 @@
         "u": null,
         "t": "monthly",
         "p": "jenniferwalton"
+      },
+      {
+        "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "s": "2026-05-19T18:00:00+01:00",
+        "e": "2026-05-19T20:00:00+01:00",
+        "d": null,
+        "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "u": null,
+        "t": "biweekly",
+        "p": "channeling"
       }
     ],
     "nts2": [
       {
-        "n": "ALDOUS RH & Cecz",
-        "s": "2026-05-18T18:00:00+01:00",
-        "e": "2026-05-18T19:00:00+01:00",
-        "d": "Old psych jams, soul, folk-rock and generally all-round pleasant radio sounds from Aldous RH. Once a month from our Manchester studio - tune in…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/aldous-rh/episodes/aldous-rh-18th-may-2026",
-        "t": "monthly",
-        "p": "aldousrh"
-      },
-      {
-        "n": "THE LAVENDER KITE AUDIO RESEARCH HOUR w/ LADY C",
-        "s": "2026-05-18T19:00:00+01:00",
-        "e": "2026-05-18T20:00:00+01:00",
-        "d": "Barnaby Bennett presents the Lavender Kite Audio Research Hour.\nFrom the host: \"Barnaby here, I'm thrilled to be hosting this month's guest host LADY C on Lavender Kite. Christina is an incredible selector based in Pasadena, California and is the long-time host of RARE AIR on dublab. She's got impeccable taste in music, and carves out a zone that is uniquely hers :)\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lavender-kite-audio-research-hour/episodes/lavender-kite-audio-research-hour-18th-may-2026"
-      },
-      {
         "n": "BO NINGEN w/ Kohhei - Low Plateau",
         "s": "2026-05-18T20:00:00+01:00",
         "e": "2026-05-18T21:00:00+01:00",
-        "d": null,
+        "d": "London's infamous psychedelic outfit Bo Ningen takes over the NTS airwaves. Expect anything from video game sounds to noise rock.\nFrom the host: \"Bo Ningen May episode by Kohhei. Walking through ether landscape.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bo-ningen/episodes/bo-ningen-18th-may-2026",
         "p": "boningen"
       },
       {
         "n": "Funk Freaks Radio w/ DJ ZEE & DOUGH BOY",
         "s": "2026-05-18T21:00:00+01:00",
         "e": "2026-05-18T22:03:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "The notorious Orange County Funk Freaks crew take over the LA studio once a month with their signature brand of boogie, italo, and lowrider funk.",
+        "j": "DJ ZEE & DOUGH BOY",
+        "u": "https://www.nts.live/api/v2/shows/funk-freaks/episodes/funk-freaks-18th-may-2026",
+        "t": "monthly"
       },
       {
         "n": "IN FOCUS: ROMANTHONY (R)",
@@ -336,28 +319,27 @@
         "j": "PROSPECT COTTAGE 1989",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "H3L3NA",
-        "s": "2026-05-18T17:00:00Z",
-        "e": "2026-05-18T18:00:00Z",
+        "n": "MOIN",
+        "s": "2026-05-19T12:00:00+01:00",
+        "e": "2026-05-19T13:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "h3l3na"
+        "p": "moin"
       },
       {
-        "n": " ZEMA",
-        "s": "2026-05-18T18:00:00Z",
-        "e": "2026-05-18T19:00:00Z",
+        "n": "SOFAY AND RIBEKA",
+        "s": "2026-05-19T13:00:00+01:00",
+        "e": "2026-05-19T14:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Rainbow Conspiracy",
         "s": "2026-05-18T19:00:00Z",
@@ -1507,19 +1489,29 @@
         "u": null,
         "t": "monthly",
         "p": "grigio"
+      },
+      {
+        "n": "Deadly Unserious",
+        "s": "2026-05-25T18:00:00Z",
+        "e": "2026-05-25T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "deadlyunserious"
+      },
+      {
+        "n": "Scandal Sounds",
+        "s": "2026-05-25T19:00:00Z",
+        "e": "2026-05-25T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "scandalsounds"
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-05-18T17:00:00Z",
-        "e": "2026-05-18T19:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-05-18T19:00:00Z",
@@ -2048,19 +2040,19 @@
         "u": null,
         "t": "weekly",
         "p": "renecontreras"
+      },
+      {
+        "n": "Domenic Priore - '66 Sunset Strip",
+        "s": "2026-05-25T19:00:00Z",
+        "e": "2026-05-25T21:00:00Z",
+        "d": null,
+        "j": "'66 Sunset Strip",
+        "u": null,
+        "t": "monthly",
+        "p": "domenicpriore"
       }
     ],
     "rinse": [
-      {
-        "n": "Amaliah",
-        "s": "2026-05-18T17:00:00Z",
-        "e": "2026-05-18T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "amaliah"
-      },
       {
         "n": "Hessle Audio",
         "s": "2026-05-18T18:00:00Z",
@@ -2266,25 +2258,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Belaria",
-        "s": "2026-05-18T17:00:00Z",
-        "e": "2026-05-18T18:00:00Z",
-        "d": null,
-        "j": "WAASS",
-        "u": null,
-        "p": "belaria"
-      },
-      {
-        "n": "Weirdies Records",
-        "s": "2026-05-18T18:00:00Z",
-        "e": "2026-05-18T19:00:00Z",
-        "d": null,
-        "j": "avec Jon Beige (100% vinyl set)",
-        "u": null,
-        "t": "monthly",
-        "p": "jonbeige"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-18T19:00:00Z",
