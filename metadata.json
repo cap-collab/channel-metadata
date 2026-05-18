@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-18T21:02:53.912Z",
+  "updated": "2026-05-18T22:50:37.605Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Ulyssa Vs The Volcano",
-        "s": "2026-05-18T22:00:00+01:00",
-        "e": "2026-05-18T23:00:00+01:00",
-        "d": "Obscurity obsessed DSP archaeologists Ulyssa bring forth discoveries from the bottomless pit. Sharing “Toejazz, pontoon spirituals, popilepsy and other heretofore unexplored nethergenres”.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ulyssa-vs-the-volcano-18th-may-2026"
-      },
       {
         "n": "TORN HAWK",
         "s": "2026-05-18T23:00:00+01:00",
@@ -25,9 +17,9 @@
         "n": "DROWNED BY LOCALS PRESENTS: MUSIC FOR PARKING GARAGES W/ FUMITAKE TAMURA",
         "s": "2026-05-19T00:00:00+01:00",
         "e": "2026-05-19T01:00:00+01:00",
-        "d": null,
+        "d": "Drowned By Locals in collaboration with Rhizome Parking Garage presents music made to be listened to in parking garages. Inspired by the parking garage as a symbol of “the inferno of the same” and the agony of uniformity. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/drowned-by-locals/episodes/drowned-by-locals-19th-may-2026"
       },
       {
         "n": "HTRK (R)",
@@ -171,34 +163,25 @@
         "j": null,
         "u": null,
         "p": "circuits"
+      },
+      {
+        "n": "MIDNITE MADNESS",
+        "s": "2026-05-20T00:00:00+01:00",
+        "e": "2026-05-20T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "midnitemadness"
       }
     ],
     "nts2": [
       {
-        "n": "Funk Freaks Radio w/ DJ ZEE & DOUGH BOY",
-        "s": "2026-05-18T21:00:00+01:00",
-        "e": "2026-05-18T22:03:00+01:00",
-        "d": "The notorious Orange County Funk Freaks crew take over the LA studio once a month with their signature brand of boogie, italo, and lowrider funk.",
-        "j": "DJ ZEE & DOUGH BOY",
-        "u": "https://www.nts.live/api/v2/shows/funk-freaks/episodes/funk-freaks-18th-may-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "IN FOCUS: ROMANTHONY (R)",
-        "s": "2026-05-18T22:03:00+01:00",
-        "e": "2026-05-18T23:00:00+01:00",
-        "d": "Pure dancefloor joy from one of house music's most soulful producers and charismatic vocalists. Selected by Finn.",
-        "j": "ROMANTHONY",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-romanthony-22nd-august-2025",
-        "t": "restream"
-      },
-      {
         "n": "DEBBIESTHUGLIFE",
         "s": "2026-05-18T23:00:00+01:00",
         "e": "2026-05-19T00:00:00+01:00",
-        "d": null,
+        "d": "London DJ and producer debbiesthuglife gets the crowd going with electronic, dance, rap and more.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/debbiesthuglife/episodes/debbiesthuglife-18th-may-2026",
         "t": "monthly",
         "p": "debbiesthuglife"
       },
@@ -206,9 +189,9 @@
         "n": "POPSTAR BENNY",
         "s": "2026-05-19T00:00:00+01:00",
         "e": "2026-05-19T01:00:00+01:00",
-        "d": null,
+        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-19th-may-2026",
         "t": "monthly",
         "p": "popstarbenny"
       },
@@ -338,18 +321,28 @@
         "j": null,
         "u": null,
         "p": "chasingechoes"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "tighe",
-        "s": "2026-05-18T21:00:00Z",
-        "e": "2026-05-18T22:00:00Z",
-        "d": "I’m a 19 year old DJ and producer from Newcastle upon Tyne, mainly playing and producing music around the 140bpm mark. I started out playing old 2-step and jungle records, before moving my focus to mainly dubstep and grime. Along with my friends Pirata and White Label, I run Newcastle’s only current 140 night, Well Irie. ",
+        "n": "SKINNY GIRL DIET",
+        "s": "2026-05-19T15:00:00+01:00",
+        "e": "2026-05-19T16:00:00+01:00",
+        "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "TUESDAY TRIPS w/ NAHHG",
+        "s": "2026-05-19T16:00:00+01:00",
+        "e": "2026-05-19T17:00:00+01:00",
+        "d": null,
+        "j": "NAHHG",
+        "u": null,
+        "t": "monthly",
+        "p": "tuesdaytrips"
+      }
+    ],
+    "subtle": [
       {
         "n": "Marcus Phillippe",
         "s": "2026-05-18T22:00:00Z",
@@ -1511,6 +1504,16 @@
         "u": null,
         "t": "monthly",
         "p": "chaz"
+      },
+      {
+        "n": "Lumeni",
+        "s": "2026-05-25T22:00:00Z",
+        "e": "2026-05-25T23:00:00Z",
+        "d": "London based DJ who enjoys exploring the darker, bassier corners of Jungle, Breaks, Techno and Drum & Bass, especially when it is laced with a bit of acid.",
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "lumeni"
       }
     ],
     "dublab": [
@@ -2047,16 +2050,6 @@
     ],
     "rinse": [
       {
-        "n": "Bluetoof",
-        "s": "2026-05-18T21:00:00Z",
-        "e": "2026-05-18T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "bluetoof"
-      },
-      {
         "n": "Night Service",
         "s": "2026-05-18T22:00:00Z",
         "e": "2026-05-18T23:00:00Z",
@@ -2232,15 +2225,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-18T19:00:00Z",
-        "e": "2026-05-18T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-18T22:00:00Z",
