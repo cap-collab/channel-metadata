@@ -1,41 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-05-18T19:25:57.362Z",
+  "updated": "2026-05-18T21:02:53.912Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SUNCUT",
-        "s": "2026-05-18T20:00:00+01:00",
-        "e": "2026-05-18T21:00:00+01:00",
-        "d": "Tune in to the sound of SUNCUT, boasting a heartfelt selection of some favourite 45’s through to classic bonafide soulful jams.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sun-cut/episodes/sun-cut-18th-may-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "ALL FRUITS RIPE W/ JACK SAPSED",
-        "s": "2026-05-18T21:00:00+01:00",
-        "e": "2026-05-18T22:00:00+01:00",
-        "d": "Ease in to delectations from our host, Jack Sapsed. A sea of sideways sounds: ambient tranquility and psychedelic folk; experimental dub to techno… ALL FRUITS RIPE",
-        "j": "JACK SAPSED",
-        "u": "https://www.nts.live/api/v2/shows/all-fruits-ripe/episodes/all-fruits-ripe-18th-may-2026",
-        "t": "monthly"
-      },
       {
         "n": "Ulyssa Vs The Volcano",
         "s": "2026-05-18T22:00:00+01:00",
         "e": "2026-05-18T23:00:00+01:00",
-        "d": null,
+        "d": "Obscurity obsessed DSP archaeologists Ulyssa bring forth discoveries from the bottomless pit. Sharing “Toejazz, pontoon spirituals, popilepsy and other heretofore unexplored nethergenres”.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ulyssa-vs-the-volcano-18th-may-2026"
       },
       {
         "n": "TORN HAWK",
         "s": "2026-05-18T23:00:00+01:00",
         "e": "2026-05-19T00:00:00+01:00",
-        "d": null,
+        "d": "Torn Hawk, also known as Luke Wyatt, brings his comedy talk show to the NTS airwaves. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/torn-hawk/episodes/torn-hawk-18th-may-2026",
         "t": "monthly",
         "p": "tornhawk"
       },
@@ -170,18 +152,28 @@
         "u": null,
         "t": "biweekly",
         "p": "channeling"
+      },
+      {
+        "n": "Minimal Wave w/ VERONICA VASICKA",
+        "s": "2026-05-19T20:00:00+01:00",
+        "e": "2026-05-19T22:00:00+01:00",
+        "d": null,
+        "j": "VERONICA VASICKA",
+        "u": null,
+        "t": "monthly",
+        "p": "veronicavasicka"
+      },
+      {
+        "n": "Circuits",
+        "s": "2026-05-19T22:00:00+01:00",
+        "e": "2026-05-20T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "circuits"
       }
     ],
     "nts2": [
-      {
-        "n": "BO NINGEN w/ Kohhei - Low Plateau",
-        "s": "2026-05-18T20:00:00+01:00",
-        "e": "2026-05-18T21:00:00+01:00",
-        "d": "London's infamous psychedelic outfit Bo Ningen takes over the NTS airwaves. Expect anything from video game sounds to noise rock.\nFrom the host: \"Bo Ningen May episode by Kohhei. Walking through ether landscape.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bo-ningen/episodes/bo-ningen-18th-may-2026",
-        "p": "boningen"
-      },
       {
         "n": "Funk Freaks Radio w/ DJ ZEE & DOUGH BOY",
         "s": "2026-05-18T21:00:00+01:00",
@@ -195,9 +187,9 @@
         "n": "IN FOCUS: ROMANTHONY (R)",
         "s": "2026-05-18T22:03:00+01:00",
         "e": "2026-05-18T23:00:00+01:00",
-        "d": null,
+        "d": "Pure dancefloor joy from one of house music's most soulful producers and charismatic vocalists. Selected by Finn.",
         "j": "ROMANTHONY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-romanthony-22nd-august-2025",
         "t": "restream"
       },
       {
@@ -337,28 +329,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Rainbow Conspiracy",
-        "s": "2026-05-18T19:00:00Z",
-        "e": "2026-05-18T20:00:00Z",
+        "n": "Chasing echoes w/ TOHÉ COMMARET + ARIANE KIKS",
+        "s": "2026-05-19T14:00:00+01:00",
+        "e": "2026-05-19T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "rainbowconspiracy"
-      },
-      {
-        "n": "In:flux Audio",
-        "s": "2026-05-18T20:00:00Z",
-        "e": "2026-05-18T21:00:00Z",
-        "d": "In:flux Audio are a record label based in Leeds, UK founded by production duo Tik&Borrow. Since the label's inception in October 2013, they have dabbled in multiple dance music styles with the emphasis always being on the tracks being unique, and packed full of bass. Today the primary output for the label is from their Dubstep roster and this is focus of their show on Subtle - giving the artists and remixers chance to showcase their sounds with an hour guest mix, all hosted by label bossman Tik.",
-        "j": "flux Audio",
-        "u": null,
-        "t": "monthly"
-      },
+        "p": "chasingechoes"
+      }
+    ],
+    "subtle": [
       {
         "n": "tighe",
         "s": "2026-05-18T21:00:00Z",
@@ -1509,18 +1491,29 @@
         "u": null,
         "t": "monthly",
         "p": "scandalsounds"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-05-18T19:00:00Z",
-        "e": "2026-05-18T21:00:00Z",
+        "n": "Saraphim",
+        "s": "2026-05-25T20:00:00Z",
+        "e": "2026-05-25T21:00:00Z",
+        "d": "Saraphim (aka RNS & RDubz) are two Essex based Producer/DJ’s currently focused on Dubstep & the 140 spectrum, mixing ethnical and grime influences into their music. You can expect anything from deep and melodic meditative vibes to high energy driven music.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "saraphim"
+      },
+      {
+        "n": "Chaz",
+        "s": "2026-05-25T21:00:00Z",
+        "e": "2026-05-25T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "chaz"
+      }
+    ],
+    "dublab": [
       {
         "n": "Rani de Leon - Tizita Radio",
         "s": "2026-05-18T21:00:00Z",
@@ -2053,25 +2046,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Hessle Audio",
-        "s": "2026-05-18T18:00:00Z",
-        "e": "2026-05-18T20:00:00Z",
-        "d": null,
-        "j": "Pearson Sound feat. Richard Akingbehin live from Open Ground",
-        "u": null,
-        "p": "hessleaudio"
-      },
-      {
-        "n": "Tasha B2B Victor",
-        "s": "2026-05-18T20:00:00Z",
-        "e": "2026-05-18T21:00:00Z",
-        "d": null,
-        "j": "Live from Open Ground (Part 2)",
-        "u": null,
-        "t": "monthly",
-        "p": "tasha"
-      },
       {
         "n": "Bluetoof",
         "s": "2026-05-18T21:00:00Z",
