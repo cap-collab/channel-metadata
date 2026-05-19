@@ -1,62 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-19T02:30:59.386Z",
+  "updated": "2026-05-19T07:36:58.532Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Blackest Ever Black (R)",
-        "s": "2026-05-19T02:00:00+01:00",
-        "e": "2026-05-19T04:00:00+01:00",
-        "d": "Blackest Ever Black doing what they do best – connecting the dots between early industrial, doom, drone and the contemporary dance scene, pounding out the dreary sound of 21st century malaise.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/blackest-ever-black/episodes/blackest-ever-black-23rd-may-2017",
-        "t": "restream"
-      },
-      {
-        "n": "RVNG Intl. (R)",
-        "s": "2026-05-19T04:00:00+01:00",
-        "e": "2026-05-19T05:00:00+01:00",
-        "d": "This episode of Friends & Fiends features a first – Japanese ambient pioneer Yoshio Ojima's debut mix, \"Ode to St.GIGA - Walk through a stream of the Ilissus\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rvngintl/episodes/friends-fiends-w-yoshio-ojima-3rd-april-2019",
-        "t": "restream"
-      },
-      {
-        "n": "FINE (R)",
-        "s": "2026-05-19T05:00:00+01:00",
-        "e": "2026-05-19T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "fine"
-      },
-      {
-        "n": "Acid Memories (R)",
-        "s": "2026-05-19T06:00:00+01:00",
-        "e": "2026-05-19T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "acidmemories"
-      },
       {
         "n": "The Early Bird Show w/ Andras",
         "s": "2026-05-19T07:00:00+01:00",
         "e": "2026-05-19T09:00:00+01:00",
-        "d": null,
+        "d": "Andras takes over early morning duties from Melbourne.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-andras-18th-may-2026",
         "p": "andras"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-05-19T09:00:00+01:00",
         "e": "2026-05-19T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-19th-may-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -172,71 +134,68 @@
         "j": "SPIRIT BLUE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-05-20T09:00:00+01:00",
+        "e": "2026-05-20T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-05-20T11:00:00+01:00",
+        "e": "2026-05-20T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-05-20T13:00:00+01:00",
+        "e": "2026-05-20T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
+      },
+      {
+        "n": "LOUISE CHEN",
+        "s": "2026-05-20T15:00:00+01:00",
+        "e": "2026-05-20T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "louisechen"
       }
     ],
     "nts2": [
       {
-        "n": "RUSH HOUR W/ JANA RUSH  (R)",
-        "s": "2026-05-19T03:00:00+01:00",
-        "e": "2026-05-19T04:00:00+01:00",
-        "d": "High speed electronics and dance soundtracks from the Chicago footwork auteur.",
-        "j": "JANA RUSH",
-        "u": "https://www.nts.live/api/v2/shows/jana-rush/episodes/jana-rush-14th-march-2026",
-        "t": "restream",
-        "p": "janarush"
-      },
-      {
-        "n": "LIVING GATLATO (R)",
-        "s": "2026-05-19T04:00:00+01:00",
-        "e": "2026-05-19T05:00:00+01:00",
-        "d": "FROM THE GREAT DIVIDE HE EMERGED. ONE FOOT IN THE WRETCHED. THE OTHER IN THE SUBLIME. FORWARD CLUB FOR A BACKWARD ERA. LIVING WILL KILL HIM. LIVING GATLATO.\nPhoto by João Victor Martins @torvic_ ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/living-gatlato/episodes/living-gatlato-14th-december-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Altered Soul Experiment (R)",
-        "s": "2026-05-19T05:00:00+01:00",
-        "e": "2026-05-19T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "ONY (R)",
-        "s": "2026-05-19T06:00:00+01:00",
-        "e": "2026-05-19T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "Sounds on Screen: Witches (R)",
-        "s": "2026-05-19T07:00:00+01:00",
-        "e": "2026-05-19T08:00:00+01:00",
-        "d": null,
-        "j": "Witches",
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "Lamin Fofana (R)",
         "s": "2026-05-19T08:00:00+01:00",
         "e": "2026-05-19T09:00:00+01:00",
-        "d": null,
+        "d": "Lamin Fofana is an artist and musician currently located in New York. His music contrasts the reality of our world with what’s beyond, and explores questions of movement, migration, alienation and belonging. His releases include Works In Metal, Here Lies Universality, Unsettling Scores, and The Open Boat. Fofana is the founder of the imprint Black Studies and phase4.zip",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lamin-fofana/episodes/lamin-fofana-9th-july-2025",
         "t": "restream"
       },
       {
         "n": "The Head Zone (R)",
         "s": "2026-05-19T09:00:00+01:00",
         "e": "2026-05-19T10:00:00+01:00",
-        "d": null,
+        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/moon-duo-22nd-august-2024",
         "t": "restream"
       },
       {
@@ -338,37 +297,54 @@
         "j": "Susobrino b2b hellotones",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Ritmos Cholulteka",
+        "s": "2026-05-19T22:00:00+01:00",
+        "e": "2026-05-19T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Neo Geodesia",
+        "s": "2026-05-19T23:00:00+01:00",
+        "e": "2026-05-20T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Optimo (R)",
+        "s": "2026-05-20T00:00:00+01:00",
+        "e": "2026-05-20T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "optimo"
+      },
+      {
+        "n": "BURIED LIGHT W/ ASHTREJINKINS",
+        "s": "2026-05-20T02:00:00+01:00",
+        "e": "2026-05-20T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ashtrejinkins"
+      },
+      {
+        "n": "Blooming In Filth w/ CRISIS ACTING (R)",
+        "s": "2026-05-20T03:00:00+01:00",
+        "e": "2026-05-20T04:00:00+01:00",
+        "d": null,
+        "j": "CRISIS ACTING",
+        "u": null,
+        "t": "restream",
+        "p": "crisisacting"
       }
     ],
     "subtle": [
-      {
-        "n": "6JJACOB",
-        "s": "2026-05-19T02:00:00Z",
-        "e": "2026-05-19T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Full Frontal",
-        "s": "2026-05-19T03:00:00Z",
-        "e": "2026-05-19T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "fullfrontal"
-      },
-      {
-        "n": "THE CULTURE HEAD w. SAINT VOX",
-        "s": "2026-05-19T06:00:00Z",
-        "e": "2026-05-19T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Ardishko",
         "s": "2026-05-19T07:00:00Z",
@@ -377,6 +353,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-19T08:00:00Z",
+        "e": "2026-05-19T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Albert Moon",
@@ -1504,37 +1489,56 @@
         "u": null,
         "t": "monthly",
         "p": "scangelous"
+      },
+      {
+        "n": "ALBH",
+        "s": "2026-05-26T03:00:00Z",
+        "e": "2026-05-26T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "albh"
+      },
+      {
+        "n": "Ms Chief",
+        "s": "2026-05-26T06:00:00Z",
+        "e": "2026-05-26T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "mschief"
+      },
+      {
+        "n": "Azadi Sound",
+        "s": "2026-05-26T07:00:00Z",
+        "e": "2026-05-26T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "azadisound"
       }
     ],
     "dublab": [
       {
-        "n": "Encarnación - Lucid Hour",
-        "s": "2026-05-19T01:00:00Z",
-        "e": "2026-05-19T03:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-19T07:00:00Z",
+        "e": "2026-05-19T09:00:00Z",
         "d": null,
-        "j": "Lucid Hour",
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
-        "n": "Jen Ferrer - Fish Whistle",
-        "s": "2026-05-19T03:00:00Z",
-        "e": "2026-05-19T05:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-19T09:00:00Z",
+        "e": "2026-05-19T11:00:00Z",
         "d": null,
-        "j": "Fish Whistle",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "jenferrer"
-      },
-      {
-        "n": "Brennan - Unresolved Dependencies",
-        "s": "2026-05-19T05:00:00Z",
-        "e": "2026-05-19T07:00:00Z",
-        "d": null,
-        "j": "Unresolved Dependencies",
-        "u": null,
-        "t": "monthly",
-        "p": "brennan"
+        "t": "playlist"
       },
       {
         "n": "Benson Taylor - TUSCAN JUNK FOOD",
@@ -2027,27 +2031,19 @@
         "u": null,
         "t": "monthly",
         "p": "elcocodrilo"
+      },
+      {
+        "n": "Aaron Paar - Stomping Grounds",
+        "s": "2026-05-26T03:00:00Z",
+        "e": "2026-05-26T05:00:00Z",
+        "d": null,
+        "j": "Stomping Grounds",
+        "u": null,
+        "t": "biweekly",
+        "p": "aaronpaar"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-05-19T01:00:00Z",
-        "e": "2026-05-19T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Lu.Re",
-        "s": "2026-05-19T05:00:00Z",
-        "e": "2026-05-19T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "lure"
-      },
       {
         "n": "Playlist",
         "s": "2026-05-19T06:00:00Z",
@@ -2343,15 +2339,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-18T22:00:00Z",
-        "e": "2026-05-19T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-19T07:00:00Z",
         "e": "2026-05-19T12:00:00Z",
         "d": null,
@@ -2360,9 +2347,92 @@
         "t": "playlist"
       },
       {
-        "n": "Poté",
+        "n": "Charlie 3000",
         "s": "2026-05-19T12:00:00Z",
-        "e": "2026-05-19T13:00:00Z",
+        "e": "2026-05-19T14:00:00Z",
+        "d": null,
+        "j": "invite Sieste Ensemble",
+        "u": null,
+        "t": "monthly",
+        "p": "charlie3000"
+      },
+      {
+        "n": "DEEJAY JO",
+        "s": "2026-05-19T14:00:00Z",
+        "e": "2026-05-19T15:00:00Z",
+        "d": null,
+        "j": "BRICKS TO WORLD",
+        "u": null
+      },
+      {
+        "n": "Jeune à Jamais",
+        "s": "2026-05-19T15:00:00Z",
+        "e": "2026-05-19T16:00:00Z",
+        "d": null,
+        "j": "Carte Blanche : Ambrr invite Trashie, kim0 et Chéri",
+        "u": null,
+        "t": "monthly",
+        "p": "jeunejamais"
+      },
+      {
+        "n": "Lola Ondikwa",
+        "s": "2026-05-19T16:00:00Z",
+        "e": "2026-05-19T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Nyege Nyege",
+        "s": "2026-05-19T17:00:00Z",
+        "e": "2026-05-19T18:00:00Z",
+        "d": null,
+        "j": "Nyege Nyege takeover x Azzi on the Beat",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ElectrAfrique",
+        "s": "2026-05-19T18:00:00Z",
+        "e": "2026-05-19T19:00:00Z",
+        "d": null,
+        "j": "invite CHAANEL RHYTHM",
+        "u": null,
+        "t": "monthly",
+        "p": "electrafrique"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-19T19:00:00Z",
+        "e": "2026-05-19T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-19T22:00:00Z",
+        "e": "2026-05-20T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-20T07:00:00Z",
+        "e": "2026-05-20T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Poté",
+        "s": "2026-05-20T12:00:00Z",
+        "e": "2026-05-20T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2370,16 +2440,16 @@
       },
       {
         "n": "Le Cercle",
-        "s": "2026-05-19T13:00:00Z",
-        "e": "2026-05-19T14:00:00Z",
+        "s": "2026-05-20T13:00:00Z",
+        "e": "2026-05-20T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "La Passe D avec Armel Bizzman",
-        "s": "2026-05-19T14:00:00Z",
-        "e": "2026-05-19T15:00:00Z",
+        "s": "2026-05-20T14:00:00Z",
+        "e": "2026-05-20T15:00:00Z",
         "d": null,
         "j": ": MEET THE BIZZ TAKEOVER",
         "u": null,
@@ -2387,8 +2457,8 @@
       },
       {
         "n": "CHÔ!",
-        "s": "2026-05-19T15:00:00Z",
-        "e": "2026-05-19T16:00:00Z",
+        "s": "2026-05-20T15:00:00Z",
+        "e": "2026-05-20T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2396,8 +2466,8 @@
       },
       {
         "n": "Not Sorry",
-        "s": "2026-05-19T16:00:00Z",
-        "e": "2026-05-19T17:00:00Z",
+        "s": "2026-05-20T16:00:00Z",
+        "e": "2026-05-20T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2405,8 +2475,8 @@
       },
       {
         "n": "Hyas",
-        "s": "2026-05-19T17:00:00Z",
-        "e": "2026-05-19T18:00:00Z",
+        "s": "2026-05-20T17:00:00Z",
+        "e": "2026-05-20T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2415,8 +2485,8 @@
       },
       {
         "n": "Mariad",
-        "s": "2026-05-19T18:00:00Z",
-        "e": "2026-05-19T19:00:00Z",
+        "s": "2026-05-20T18:00:00Z",
+        "e": "2026-05-20T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2424,8 +2494,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-19T19:00:00Z",
-        "e": "2026-05-19T20:00:00Z",
+        "s": "2026-05-20T19:00:00Z",
+        "e": "2026-05-20T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
