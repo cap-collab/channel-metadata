@@ -1,15 +1,16 @@
 {
   "v": 2,
-  "updated": "2026-05-19T21:12:07.328Z",
+  "updated": "2026-05-19T22:56:57.415Z",
   "stations": {
     "nts1": [
       {
-        "n": "Circuits",
+        "n": "Circuits w/ Olly Chubb: Chain Reaction Special",
         "s": "2026-05-19T22:00:00+01:00",
         "e": "2026-05-20T00:00:00+01:00",
         "d": "Connections in electronic music: the history of house and techno as presented to you by the wonderful Olly Chubb.",
-        "j": null,
+        "j": "Olly Chubb",
         "u": "https://www.nts.live/api/v2/shows/circuits/episodes/circuits-19th-may-2026",
+        "t": "monthly",
         "p": "circuits"
       },
       {
@@ -175,14 +176,6 @@
     ],
     "nts2": [
       {
-        "n": "Ritmos Cholulteka",
-        "s": "2026-05-19T22:00:00+01:00",
-        "e": "2026-05-19T23:00:00+01:00",
-        "d": "Selections from the Mexico-born, Portugal-based DJ and curator Ritmos Cholulteka, bringing cumbia and the sounds of pre-Columbian Central and South America to European shores.  ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ritmos-cholulteka-19th-may-2026"
-      },
-      {
         "n": "Neo Geodesia",
         "s": "2026-05-19T23:00:00+01:00",
         "e": "2026-05-20T00:00:00+01:00",
@@ -194,9 +187,9 @@
         "n": "Optimo (R)",
         "s": "2026-05-20T00:00:00+01:00",
         "e": "2026-05-20T02:00:00+01:00",
-        "d": null,
+        "d": "Optimo is JG Wilkes & JD Twitch; record label, and longstanding Glaswegian party. You can expect a lot from their new monthly slot, sure to dig up some obscurities from post-punk, new wave, EBM, house and techno. Bags of unreleased stuff, too.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/optimo/episodes/optimo-17th-march-2026",
         "t": "restream",
         "p": "optimo"
       },
@@ -346,18 +339,19 @@
         "j": "Clint Eastwood",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Amarillo on Everything w/ Hayden Pedigo",
+        "s": "2026-05-20T19:00:00+01:00",
+        "e": "2026-05-20T20:00:00+01:00",
+        "d": null,
+        "j": "Hayden Pedigo",
+        "u": null,
+        "t": "monthly",
+        "p": "haydenpedigo"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-19T21:00:00Z",
-        "e": "2026-05-19T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "The R.I.P Show",
         "s": "2026-05-19T22:00:00Z",
@@ -1525,6 +1519,16 @@
         "u": null,
         "t": "monthly",
         "p": "ovn"
+      },
+      {
+        "n": "ATKINS",
+        "s": "2026-05-26T22:00:00Z",
+        "e": "2026-05-26T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "atkins"
       }
     ],
     "dublab": [
@@ -2046,15 +2050,6 @@
     ],
     "rinse": [
       {
-        "n": "Reece Spooner",
-        "s": "2026-05-19T21:00:00Z",
-        "e": "2026-05-19T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Aletha",
         "s": "2026-05-19T22:00:00Z",
         "e": "2026-05-19T23:00:00Z",
@@ -2235,15 +2230,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-19T19:00:00Z",
-        "e": "2026-05-19T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-19T22:00:00Z",
