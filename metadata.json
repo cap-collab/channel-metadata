@@ -1,54 +1,34 @@
 {
   "v": 2,
-  "updated": "2026-05-19T07:36:58.532Z",
+  "updated": "2026-05-19T10:54:02.930Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Early Bird Show w/ Andras",
-        "s": "2026-05-19T07:00:00+01:00",
-        "e": "2026-05-19T09:00:00+01:00",
-        "d": "Andras takes over early morning duties from Melbourne.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-andras-18th-may-2026",
-        "p": "andras"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-05-19T09:00:00+01:00",
-        "e": "2026-05-19T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-19th-may-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-05-19T11:00:00+01:00",
         "e": "2026-05-19T13:00:00+01:00",
-        "d": null,
+        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-19th-may-2026",
         "p": "anu"
       },
       {
         "n": "Tropic of Love w/ Mafalda",
         "s": "2026-05-19T13:00:00+01:00",
         "e": "2026-05-19T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Vibrant eclecticism from Portuguese selector Mafalda, for two hours every month. ",
+        "j": "Mafalda",
+        "u": "https://www.nts.live/api/v2/shows/mafalda/episodes/mafalda-19th-may-2026",
+        "t": "monthly",
         "p": "mafalda"
       },
       {
-        "n": "Self Soothe w/ Margeaux",
+        "n": "Self Soothe w/ Gia Margaret",
         "s": "2026-05-19T15:00:00+01:00",
         "e": "2026-05-19T16:00:00+01:00",
         "d": null,
-        "j": "Margeaux",
-        "u": null,
-        "t": "weekly",
-        "p": "margeaux"
+        "j": null,
+        "u": null
       },
       {
         "n": "MILLIE MCKEE",
@@ -60,13 +40,12 @@
         "p": "milliemckee"
       },
       {
-        "n": "JENNIFER WALTON",
+        "n": "Jennifer Walton w/ Spencer Cullum & Annie Williams",
         "s": "2026-05-19T17:00:00+01:00",
         "e": "2026-05-19T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "jenniferwalton"
       },
       {
@@ -177,53 +156,42 @@
         "u": null,
         "t": "biweekly",
         "p": "louisechen"
+      },
+      {
+        "n": "Maison Aya w/ Aya",
+        "s": "2026-05-20T17:00:00+01:00",
+        "e": "2026-05-20T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "PEACH",
+        "s": "2026-05-20T18:00:00+01:00",
+        "e": "2026-05-20T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "peach"
       }
     ],
     "nts2": [
       {
-        "n": "Lamin Fofana (R)",
-        "s": "2026-05-19T08:00:00+01:00",
-        "e": "2026-05-19T09:00:00+01:00",
-        "d": "Lamin Fofana is an artist and musician currently located in New York. His music contrasts the reality of our world with what’s beyond, and explores questions of movement, migration, alienation and belonging. His releases include Works In Metal, Here Lies Universality, Unsettling Scores, and The Open Boat. Fofana is the founder of the imprint Black Studies and phase4.zip",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lamin-fofana/episodes/lamin-fofana-9th-july-2025",
-        "t": "restream"
-      },
-      {
-        "n": "The Head Zone (R)",
-        "s": "2026-05-19T09:00:00+01:00",
-        "e": "2026-05-19T10:00:00+01:00",
-        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/moon-duo-22nd-august-2024",
-        "t": "restream"
-      },
-      {
-        "n": "PLAY IT AS IT LATHES W/ ZACH COWIE (R)",
-        "s": "2026-05-19T10:00:00+01:00",
-        "e": "2026-05-19T11:00:00+01:00",
-        "d": null,
-        "j": "ZACH COWIE",
-        "u": null,
-        "t": "restream",
-        "p": "zachcowie"
-      },
-      {
         "n": "TIME IS AWAY - DEREK JARMAN: PROSPECT COTTAGE 1989 (R)",
         "s": "2026-05-19T11:00:00+01:00",
         "e": "2026-05-19T12:00:00+01:00",
-        "d": null,
+        "d": "Towards the end of his life, visionary artist, filmmaker and activist Derek Jarman moved to Dungeness in Kent. \nThere, on the shingle, around his small fisherman’s cottage, he created an iconic garden which has become a potent symbol of his legacy.\nThis month Prospect Cottage and its garden were saved from a private buyer following the largest ever arts crowdfunding campaign by the Art Fund.\nThis programme draws on Jarman’s beautiful memoir, ‘Modern Nature’, to recreate one year in the dream life of his garden and the stark landscape that surrounds it. \nWith love and thanks to Christina Petrie.",
         "j": "PROSPECT COTTAGE 1989",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/timeisaway/episodes/time-is-away-20th-april-2020",
         "t": "restream"
       },
       {
         "n": "MOIN",
         "s": "2026-05-19T12:00:00+01:00",
         "e": "2026-05-19T13:00:00+01:00",
-        "d": null,
+        "d": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moin/episodes/moin-19th-may-2026",
         "p": "moin"
       },
       {
@@ -254,14 +222,22 @@
         "t": "monthly"
       },
       {
-        "n": "TUESDAY TRIPS w/ NAHHG",
+        "n": "TUESDAY TRIPS w/ Aumni",
         "s": "2026-05-19T16:00:00+01:00",
         "e": "2026-05-19T17:00:00+01:00",
         "d": null,
-        "j": "NAHHG",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "tuesdaytrips"
+      },
+      {
+        "n": "IN FOCUS: GRACE JONES (R)",
+        "s": "2026-05-19T17:00:00+01:00",
+        "e": "2026-05-19T18:00:00+01:00",
+        "d": null,
+        "j": "GRACE JONES",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "INSOLAR w/ CAMI LAYÉ OKÚN",
@@ -342,40 +318,31 @@
         "u": null,
         "t": "restream",
         "p": "crisisacting"
+      },
+      {
+        "n": "UNDERGROUND & BLACK W/ ASH LAURYN (R)",
+        "s": "2026-05-20T04:00:00+01:00",
+        "e": "2026-05-20T05:00:00+01:00",
+        "d": null,
+        "j": "ASH LAURYN",
+        "u": null,
+        "t": "restream",
+        "p": "ash",
+        "ap": [
+          "ashlauryn"
+        ]
+      },
+      {
+        "n": "Ectotherm (R)",
+        "s": "2026-05-20T05:00:00+01:00",
+        "e": "2026-05-20T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Ardishko",
-        "s": "2026-05-19T07:00:00Z",
-        "e": "2026-05-19T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-19T08:00:00Z",
-        "e": "2026-05-19T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Albert Moon",
-        "s": "2026-05-19T09:00:00Z",
-        "e": "2026-05-19T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "albertmoon",
-        "ap": [
-          "albert"
-        ]
-      },
       {
         "n": " Ovrtic",
         "s": "2026-05-19T10:00:00Z",
@@ -1519,13 +1486,43 @@
         "u": null,
         "t": "monthly",
         "p": "azadisound"
+      },
+      {
+        "n": "Scampi",
+        "s": "2026-05-26T08:00:00Z",
+        "e": "2026-05-26T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "scampi"
+      },
+      {
+        "n": "Posh Mornings",
+        "s": "2026-05-26T09:00:00Z",
+        "e": "2026-05-26T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "poshmornings"
+      },
+      {
+        "n": "Local Movements",
+        "s": "2026-05-26T10:00:00Z",
+        "e": "2026-05-26T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "localmovements"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-19T07:00:00Z",
-        "e": "2026-05-19T09:00:00Z",
+        "s": "2026-05-19T09:00:00Z",
+        "e": "2026-05-19T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1533,8 +1530,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-19T09:00:00Z",
-        "e": "2026-05-19T11:00:00Z",
+        "s": "2026-05-19T11:00:00Z",
+        "e": "2026-05-19T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2045,24 +2042,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-05-19T06:00:00Z",
-        "e": "2026-05-19T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Papaoul",
-        "s": "2026-05-19T08:00:00Z",
-        "e": "2026-05-19T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Cara Crosby",
         "s": "2026-05-19T10:00:00Z",
         "e": "2026-05-19T11:00:00Z",
@@ -2084,18 +2063,22 @@
         "s": "2026-05-19T12:00:00Z",
         "e": "2026-05-19T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Sinead Murdoch",
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "Manuel Darquart",
+        "n": "Adventures In Paradise with Manuel Darquart",
         "s": "2026-05-19T13:00:00Z",
         "e": "2026-05-19T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "manueldarquart"
+        "t": "biweekly",
+        "p": "manueldarquart",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "Brighter Days Family",
@@ -2138,11 +2121,11 @@
         "p": "lala"
       },
       {
-        "n": "Surusinghe",
+        "n": "Suzuki Drifting with Surusinghe",
         "s": "2026-05-19T20:00:00Z",
         "e": "2026-05-19T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from The Carpet Shop",
         "u": null,
         "t": "monthly",
         "p": "surusinghe"
