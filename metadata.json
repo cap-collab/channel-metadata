@@ -1,33 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-20T21:43:37.989Z",
+  "updated": "2026-05-20T23:06:00.870Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GIGI FM - Gemini Purple Haze",
-        "s": "2026-05-20T22:00:00+01:00",
-        "e": "2026-05-20T23:00:00+01:00",
-        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM.\nFrom the host: \"This month GiGi FM drifts through Gemini season with Gemini Purple Haze ~ smoked-out hip hop instrumentals, swampy post-punk textures, dubby chug and sexy swamp energy for wandering minds and slow summer motion.\"",
-        "j": "Gemini Purple Haze",
-        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-20th-may-2026",
-        "t": "monthly",
-        "p": "gigifm"
-      },
-      {
-        "n": "A LONG STRANGE DREAM W/ DIALS",
-        "s": "2026-05-20T23:00:00+01:00",
-        "e": "2026-05-21T00:00:00+01:00",
-        "d": "A Long Strange Dream is Batu's latest series which allows him to showcase a selection of music not limited to peak time dancefloors. Expect a deep dive into the crates for an eclectic mix of influences and oddities as you transcend into a collective long strange dream.\nFrom the host: _\"New band DIALS, share some influences of their first single Mirror World… a deep, low-slung alt-pop track that pays homage to the dubby, downtempo sound synonymous with their city, Bristol.\nThe group consists of Batu, Memotone, SCALER's James Rushforth, Eldon and Silver Ley.\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/a-long-strange-dream-w-batu/episodes/a-long-strange-dream-w-batu-20th-may-2026"
-      },
       {
         "n": "MOTOR SYSTEM",
         "s": "2026-05-21T00:00:00+01:00",
         "e": "2026-05-21T01:00:00+01:00",
-        "d": null,
+        "d": "Lee Gamble in his ‘Motor System’ moniker bringing you the sound of his forward facing, club ready DJ sets exploring contemporary dance floor-mechanics. Expect futuristic club bangers..",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/motor-system/episodes/motor-system-21st-may-2026",
         "p": "motorsystem"
       },
       {
@@ -165,34 +147,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "RADIO SUPER W/ ROSA PISTOLA",
+        "s": "2026-05-21T22:00:00+01:00",
+        "e": "2026-05-21T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "radiosuper"
       }
     ],
     "nts2": [
       {
-        "n": "RAHILL",
-        "s": "2026-05-20T21:00:00+01:00",
-        "e": "2026-05-20T23:00:00+01:00",
-        "d": "New York based artist and musician Rahill selects a monthly medley of picks from her record collection, rooted in US jazz, with soul, folk and international sounds.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rahill/episodes/rahill-20th-may-2026",
-        "t": "monthly",
-        "p": "rahill"
-      },
-      {
-        "n": "Broken Social Scene",
-        "s": "2026-05-20T23:00:00+01:00",
-        "e": "2026-05-21T00:00:00+01:00",
-        "d": "Kevin and Charlie from pivotal Toronto indie band and musical collective Broken Social Scene stop by the London studio on the campaign trail for the band’s new record “Remember The Humans”. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/broken-social-scene-20th-may-2026"
-      },
-      {
         "n": "NO ID RADIO W/ ANYSIA KYM",
         "s": "2026-05-21T00:00:00+01:00",
         "e": "2026-05-21T01:00:00+01:00",
-        "d": null,
+        "d": "NYC-based producer, songwriter, and multi-instrumentalist Anysia Kym shares a monthly compilation of her favourite tracks, right now and of all time; she flips a song of her choice at the start of each hour-long episode.\nFrom the host: \"This episode includes unreleased tracks from: Lerado Khalil, Omari Lyseight, Milan, IanGT, and Ojtek Siwik.\"",
         "j": "ANYSIA KYM",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/anysia-kym/episodes/anysia-kym-21st-may-2026",
         "t": "monthly",
         "p": "anysiakym"
       },
@@ -331,28 +304,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "TEMPORAL COVE W/ Chapterhouse",
+        "s": "2026-05-21T20:00:00+01:00",
+        "e": "2026-05-21T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "temporalcove"
       }
     ],
     "subtle": [
-      {
-        "n": "Mr Beatnick",
-        "s": "2026-05-20T21:00:00Z",
-        "e": "2026-05-20T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "mrbeatnick"
-      },
-      {
-        "n": "Occyx",
-        "s": "2026-05-20T22:00:00Z",
-        "e": "2026-05-20T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "MRTN",
         "s": "2026-05-20T23:00:00Z",
@@ -1517,18 +1480,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Ashraf – (very rare)",
-        "s": "2026-05-20T21:00:00Z",
-        "e": "2026-05-20T23:00:00Z",
+        "n": "Riska",
+        "s": "2026-05-27T22:00:00Z",
+        "e": "2026-05-27T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "riska"
       },
+      {
+        "n": "Saga Sonica 22 w/ Ununu",
+        "s": "2026-05-27T23:00:00Z",
+        "e": "2026-05-28T00:00:00Z",
+        "d": null,
+        "j": "Ununu",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Sam Hockley-Smith - New Environments",
         "s": "2026-05-20T23:00:00Z",
@@ -1863,22 +1836,42 @@
         "p": "defsound"
       },
       {
-        "n": "RERUN",
+        "n": "RERUN: Björk",
         "s": "2026-05-24T23:00:00Z",
-        "e": "2026-05-25T01:00:00Z",
+        "e": "2026-05-24T23:19:00Z",
         "d": null,
-        "j": null,
+        "j": "Björk",
         "u": null,
         "t": "restream"
       },
       {
-        "n": "RERUN",
-        "s": "2026-05-25T01:00:00Z",
+        "n": "RERUN: Dor Wand – guest session",
+        "s": "2026-05-24T23:19:00Z",
+        "e": "2026-05-25T01:15:00Z",
+        "d": null,
+        "j": "Dor Wand – guest session",
+        "u": null,
+        "t": "restream",
+        "p": "dorwand"
+      },
+      {
+        "n": "RERUN: Dor Wand – guest session",
+        "s": "2026-05-25T01:15:00Z",
+        "e": "2026-05-25T02:35:00Z",
+        "d": null,
+        "j": "Dor Wand – guest session",
+        "u": null,
+        "t": "restream",
+        "p": "dorwand"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-25T02:35:00Z",
         "e": "2026-05-25T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "restream"
+        "t": "playlist"
       },
       {
         "n": "Gabie Strong and Ian Wellman - Zone Mapping",
@@ -2039,6 +2032,15 @@
         "p": "seano"
       },
       {
+        "n": "RERUN",
+        "s": "2026-05-27T17:00:00Z",
+        "e": "2026-05-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "Jennifer Herrema and Kurt Midness - The Banana Question",
         "s": "2026-05-27T19:00:00Z",
         "e": "2026-05-27T21:00:00Z",
@@ -2059,29 +2061,19 @@
         "j": null,
         "u": null,
         "p": "francisinfernoorchestra"
+      },
+      {
+        "n": "Tottie - Across the Pond",
+        "s": "2026-05-27T23:00:00Z",
+        "e": "2026-05-28T01:00:00Z",
+        "d": null,
+        "j": "Across the Pond",
+        "u": null,
+        "t": "monthly",
+        "p": "tottie"
       }
     ],
     "rinse": [
-      {
-        "n": "96 Back",
-        "s": "2026-05-20T21:00:00Z",
-        "e": "2026-05-20T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "96back"
-      },
-      {
-        "n": "Otik",
-        "s": "2026-05-20T22:00:00Z",
-        "e": "2026-05-20T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "otik"
-      },
       {
         "n": "ANTCONSTANTINO",
         "s": "2026-05-20T23:00:00Z",
@@ -2247,18 +2239,145 @@
         "u": null,
         "t": "monthly",
         "p": "tno"
-      }
-    ],
-    "rinsefr": [
+      },
       {
-        "n": "Playlist France",
-        "s": "2026-05-20T19:00:00Z",
-        "e": "2026-05-20T22:00:00Z",
+        "n": "LIZZ",
+        "s": "2026-05-21T23:00:00Z",
+        "e": "2026-05-22T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Just Jane",
+        "s": "2026-05-22T00:00:00Z",
+        "e": "2026-05-22T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "justjane"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-05-22T01:00:00Z",
+        "e": "2026-05-22T05:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
+      {
+        "n": "Eclecticist",
+        "s": "2026-05-22T05:00:00Z",
+        "e": "2026-05-22T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "eclecticist"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-05-22T06:00:00Z",
+        "e": "2026-05-22T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Uncle Dugs",
+        "s": "2026-05-22T10:00:00Z",
+        "e": "2026-05-22T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "uncledugs"
+      },
+      {
+        "n": "Mona Yim",
+        "s": "2026-05-22T13:00:00Z",
+        "e": "2026-05-22T14:30:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "monayim"
+      },
+      {
+        "n": "Qendresa",
+        "s": "2026-05-22T14:30:00Z",
+        "e": "2026-05-22T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "qendresa"
+      },
+      {
+        "n": "D Double E",
+        "s": "2026-05-22T16:00:00Z",
+        "e": "2026-05-22T16:30:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "IZCO",
+        "s": "2026-05-22T16:30:00Z",
+        "e": "2026-05-22T17:30:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "izco"
+      },
+      {
+        "n": "Novelist",
+        "s": "2026-05-22T17:30:00Z",
+        "e": "2026-05-22T18:15:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CONDUCTA",
+        "s": "2026-05-22T18:15:00Z",
+        "e": "2026-05-22T19:45:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Todd Edwards",
+        "s": "2026-05-22T19:45:00Z",
+        "e": "2026-05-22T21:15:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Scratcha B2B Tim Reaper",
+        "s": "2026-05-22T21:15:00Z",
+        "e": "2026-05-22T22:00:00Z",
+        "d": null,
+        "j": "Live from Rinse Summer Terrace Party 2025",
+        "u": null,
+        "p": "timreaper"
+      },
+      {
+        "n": "StressLess",
+        "s": "2026-05-22T22:00:00Z",
+        "e": "2026-05-22T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      }
+    ],
+    "rinsefr": [
       {
         "n": "Playlist France",
         "s": "2026-05-20T22:00:00Z",
@@ -2347,7 +2466,99 @@
       {
         "n": "Playlist France",
         "s": "2026-05-21T19:00:00Z",
-        "e": "2026-05-21T20:00:00Z",
+        "e": "2026-05-21T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-21T22:00:00Z",
+        "e": "2026-05-22T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-22T07:00:00Z",
+        "e": "2026-05-22T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "safecore",
+        "s": "2026-05-22T12:00:00Z",
+        "e": "2026-05-22T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Didi Han",
+        "s": "2026-05-22T13:00:00Z",
+        "e": "2026-05-22T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "didihan"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-05-22T14:00:00Z",
+        "e": "2026-05-22T15:00:00Z",
+        "d": null,
+        "j": "Lo Nuestro",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Boukan Records",
+        "s": "2026-05-22T15:00:00Z",
+        "e": "2026-05-22T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "boukanrecords"
+      },
+      {
+        "n": "Ohjeelo",
+        "s": "2026-05-22T16:00:00Z",
+        "e": "2026-05-22T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ohjeelo"
+      },
+      {
+        "n": "rougail space program",
+        "s": "2026-05-22T17:00:00Z",
+        "e": "2026-05-22T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ASIAN CORE",
+        "s": "2026-05-22T18:00:00Z",
+        "e": "2026-05-22T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-22T19:00:00Z",
+        "e": "2026-05-22T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2745,6 +2956,19 @@
         "u": null,
         "t": "monthly",
         "p": "infinitejess"
+      },
+      {
+        "n": "Strap2strap Online",
+        "s": "2026-06-20T22:00:00Z",
+        "e": "2026-06-21T00:00:00Z",
+        "d": null,
+        "j": "DJ Buck, discnogirl, Caro, & 40 Split",
+        "u": null,
+        "t": "monthly",
+        "p": "discnogirl",
+        "ap": [
+          "djbuck"
+        ]
       }
     ]
   }
