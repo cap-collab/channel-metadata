@@ -1,32 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-22T07:36:28.770Z",
+  "updated": "2026-05-22T10:42:21.477Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & BOB DESAULNIERS",
-        "s": "2026-05-22T07:00:00+01:00",
-        "e": "2026-05-22T09:00:00+01:00",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-22nd-may-2026"
-      },
-      {
-        "n": "The NTS Breakfast Show w/ LUPINI",
-        "s": "2026-05-22T09:00:00+01:00",
-        "e": "2026-05-22T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-lupini-22nd-may-2026",
-        "p": "lupini"
-      },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
         "s": "2026-05-22T11:00:00+01:00",
         "e": "2026-05-22T13:00:00+01:00",
-        "d": null,
+        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
         "j": "SCARY THINGS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-22nd-may-2026",
         "t": "biweekly",
         "p": "scarythings"
       },
@@ -34,9 +17,9 @@
         "n": "NTS GUIDE TO: SACRAMENTO RAP VOL. I (R)",
         "s": "2026-05-22T13:00:00+01:00",
         "e": "2026-05-22T14:00:00+01:00",
-        "d": null,
+        "d": "From the early 1990s a new strain of hip-hop was bubbling away in the Californian state capital of Sacramento. Pioneered by rappers from Brotha Lynch to Marvaless, the Sacramento rap sound was a darker and grittier twist on the classic G-Funk style popularised throughout the rest of the West Coast. ",
         "j": "SACRAMENTO RAP VOL. I",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-sacramento-rap-vol-i-27th-november-2024",
         "t": "restream"
       },
       {
@@ -105,13 +88,12 @@
         "p": "easternmargins"
       },
       {
-        "n": "BRBKO",
+        "n": "BRAK.FM w/ DANIEL OG",
         "s": "2026-05-22T21:00:00+01:00",
         "e": "2026-05-22T23:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "brbko"
+        "u": null
       },
       {
         "n": "Spaces In Between w/ Introspekt",
@@ -172,54 +154,44 @@
         "u": null,
         "t": "restream",
         "p": "postgeography"
-      }
-    ],
-    "nts2": [
+      },
       {
-        "n": "626 COMPANY RADIO (R)",
-        "s": "2026-05-22T08:00:00+01:00",
-        "e": "2026-05-22T09:00:00+01:00",
-        "d": "Shanghai, China collective 626 Company, headed up by Jackzebra deliver monthly broadcasts from the collective and their friends.\nFrom the host: \"Shanghai, China collective 626 Company, headed up by Jackzebra deliver monthly broadcasts from the collective and their friends.\"",
+        "n": "LUCIFER OVER LA (R)",
+        "s": "2026-05-23T06:00:00+01:00",
+        "e": "2026-05-23T07:00:00+01:00",
+        "d": null,
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jackzebra/episodes/jackzebra-12th-december-2025",
+        "u": null,
         "t": "restream"
       },
       {
-        "n": "LYRA PRAMUK PRESENTS: POP.SOIL (R)",
-        "s": "2026-05-22T09:00:00+01:00",
-        "e": "2026-05-22T10:00:00+01:00",
-        "d": "pop.soil is Lyra Pramuk’s bimonthly series exploring catharsis, transformation, and healing through sonic storytelling. ",
-        "j": "POP.SOIL",
-        "u": "https://www.nts.live/api/v2/shows/lyra-pramuk/episodes/lyra-pramuk-9th-april-2024",
-        "t": "restream",
-        "p": "lyrapramuk"
-      },
-      {
-        "n": "Claire Rousay (R)",
-        "s": "2026-05-22T10:00:00+01:00",
-        "e": "2026-05-22T11:00:00+01:00",
+        "n": "LUNG DART (R)",
+        "s": "2026-05-23T07:00:00+01:00",
+        "e": "2026-05-23T08:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "restream",
-        "p": "clairerousay"
-      },
+        "p": "lungdart"
+      }
+    ],
+    "nts2": [
       {
         "n": "In Focus: Irena & Vojtěch Havlovi",
         "s": "2026-05-22T11:00:00+01:00",
         "e": "2026-05-22T12:00:00+01:00",
         "d": null,
         "j": "Irena & Vojtěch Havlovi",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-irena-vojtech-havlovi-22nd-may-2026",
         "t": "weekly"
       },
       {
         "n": "Cities and Memory -  A Century Of Sound",
         "s": "2026-05-22T12:00:00+01:00",
         "e": "2026-05-22T13:00:00+01:00",
-        "d": null,
+        "d": "Cities and Memory presents A Century of Sound – a trip through one hundred years of sounds from all over the world, taken from the archives of the Pitt Rivers Museum in Oxford.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/cities-and-memory-a-century-of-sound-22nd-may-2026"
       },
       {
         "n": "FERVENT MOON",
@@ -340,37 +312,36 @@
         "j": "INDIETRONICA & FOLKTRONICA",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "DISCOSTAN (R)",
+        "s": "2026-05-23T03:00:00+01:00",
+        "e": "2026-05-23T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "discostan"
+      },
+      {
+        "n": "dreamcastmoe w/ HALIMA",
+        "s": "2026-05-23T04:00:00+01:00",
+        "e": "2026-05-23T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ONY (R)",
+        "s": "2026-05-23T05:00:00+01:00",
+        "e": "2026-05-23T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "ling linh",
-        "s": "2026-05-22T07:00:00Z",
-        "e": "2026-05-22T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "linglinh"
-      },
-      {
-        "n": "B-HIND",
-        "s": "2026-05-22T08:00:00Z",
-        "e": "2026-05-22T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "op99 / late dawn ",
-        "s": "2026-05-22T09:00:00Z",
-        "e": "2026-05-22T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " Household",
         "s": "2026-05-22T10:00:00Z",
@@ -1525,8 +1496,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-22T07:00:00Z",
-        "e": "2026-05-22T09:00:00Z",
+        "s": "2026-05-22T09:00:00Z",
+        "e": "2026-05-22T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1534,8 +1505,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-22T09:00:00Z",
-        "e": "2026-05-22T11:00:00Z",
+        "s": "2026-05-22T11:00:00Z",
+        "e": "2026-05-22T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2104,25 +2075,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-05-22T06:00:00Z",
-        "e": "2026-05-22T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Breakfast with DJ Polo",
-        "s": "2026-05-22T08:00:00Z",
-        "e": "2026-05-22T10:00:00Z",
-        "d": null,
-        "j": "SUNNY SIDE UP",
-        "u": null,
-        "t": "monthly",
-        "p": "djpolo"
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-05-22T10:00:00Z",
         "e": "2026-05-22T13:00:00Z",
@@ -2354,12 +2306,14 @@
         "t": "playlist"
       },
       {
-        "n": "safecore",
+        "n": "Flegon",
         "s": "2026-05-22T12:00:00Z",
         "e": "2026-05-22T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly",
+        "p": "flegon"
       },
       {
         "n": "Didi Han",
@@ -2413,7 +2367,7 @@
         "s": "2026-05-22T18:00:00Z",
         "e": "2026-05-22T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "INVITE PUTOCHINOMARICÓN",
         "u": null,
         "t": "biweekly"
       },
@@ -2459,7 +2413,7 @@
         "s": "2026-05-23T14:00:00Z",
         "e": "2026-05-23T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite Papy",
         "u": null,
         "p": "sevenbeatz"
       },
