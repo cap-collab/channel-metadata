@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-22T21:03:22.866Z",
+  "updated": "2026-05-22T22:51:02.816Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BRAK.FM w/ DANIEL OG",
-        "s": "2026-05-22T21:00:00+01:00",
-        "e": "2026-05-22T23:00:00+01:00",
-        "d": "The enigmatic polymath, producer and MC brbko takes over the NTS airwaves each month. Brak don't crack. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/brbko/episodes/brbko-22nd-may-2026"
-      },
       {
         "n": "Spaces In Between w/ Introspekt",
         "s": "2026-05-22T23:00:00+01:00",
@@ -25,9 +17,9 @@
         "n": "SPINEE",
         "s": "2026-05-23T00:00:00+01:00",
         "e": "2026-05-23T01:00:00+01:00",
-        "d": null,
+        "d": "Tune into this monthly offering from PC Music's Spinee: breakcore, bassline, hardstyle and dogs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/spinee/episodes/spinee-23rd-may-2026",
         "t": "monthly",
         "p": "spinee"
       },
@@ -169,17 +161,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FIELD WORK",
+        "s": "2026-05-23T20:00:00+01:00",
+        "e": "2026-05-23T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "Fire-Toolz",
-        "s": "2026-05-22T22:00:00+01:00",
-        "e": "2026-05-22T23:00:00+01:00",
-        "d": "Chicago multi-instrumentalist, producer, genre-smashing experimentalist and recent Warp Records signee Fire-Toolz brings the noise in a guest set. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/fire-toolz-22nd-may-2026"
-      },
       {
         "n": "ONDAS W/ DUBBY (R)",
         "s": "2026-05-22T23:00:00+01:00",
@@ -193,9 +186,9 @@
         "n": "Ganga Blues w/ Symrin (R)",
         "s": "2026-05-23T00:00:00+01:00",
         "e": "2026-05-23T01:00:00+01:00",
-        "d": null,
+        "d": "Tuck some tuberose behind your ears and float down the Ganga river with Symrin Chawla. Music inspired by India and her neighbors. Drizzled with country, folk and fantasy.",
         "j": "Symrin",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ganga-blues/episodes/ganga-blues-10th-july-2025",
         "t": "restream",
         "p": "gangablues"
       },
@@ -339,18 +332,17 @@
         "j": null,
         "u": null,
         "p": "beaubeaumont"
+      },
+      {
+        "n": "Kwes Darko",
+        "s": "2026-05-23T19:00:00+01:00",
+        "e": "2026-05-23T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": " Those Who Dance",
-        "s": "2026-05-22T21:00:00Z",
-        "e": "2026-05-22T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "NARA",
         "s": "2026-05-22T22:00:00Z",
@@ -1981,23 +1973,6 @@
     ],
     "rinse": [
       {
-        "n": "Todd Edwards",
-        "s": "2026-05-22T19:45:00Z",
-        "e": "2026-05-22T21:15:00Z",
-        "d": null,
-        "j": "LIVE FROM GALA 2026",
-        "u": null
-      },
-      {
-        "n": "Scratcha B2B Tim Reaper",
-        "s": "2026-05-22T21:15:00Z",
-        "e": "2026-05-22T22:00:00Z",
-        "d": null,
-        "j": "Live from Rinse Summer Terrace Party 2025",
-        "u": null,
-        "p": "timreaper"
-      },
-      {
         "n": "StressLess",
         "s": "2026-05-22T22:00:00Z",
         "e": "2026-05-22T23:00:00Z",
@@ -2139,15 +2114,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-22T19:00:00Z",
-        "e": "2026-05-22T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-22T22:00:00Z",
