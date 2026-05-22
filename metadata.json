@@ -1,49 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-21T22:58:07.774Z",
+  "updated": "2026-05-22T02:33:45.467Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Cuauhcalli w/ Ragazza XXI",
-        "s": "2026-05-21T23:00:00+01:00",
-        "e": "2026-05-22T00:00:00+01:00",
-        "d": "Paris-based Mexican DJ and producer Ragazza XXI shares an hour of future facing contemporary electronic music from Mexican artists.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/cuauhcalli-w-ragazza-xxi-21st-may-2026"
-      },
-      {
-        "n": "Kampire",
-        "s": "2026-05-22T00:00:00+01:00",
-        "e": "2026-05-22T01:00:00+01:00",
-        "d": "Cutting edge East African club sounds from Kampala's finest party starter.\nFrom the host: \"New and forthcoming from Bloomfeld, Sam Interface, Asna, Akiid, PIGMNT, Maganda Shakul and more!\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kampire/episodes/kampire-22nd-may-2026",
-        "p": "kampire"
-      },
-      {
-        "n": "INSOLAR W/ CAMI LAYÉ OKÚN (R)",
-        "s": "2026-05-22T01:00:00+01:00",
-        "e": "2026-05-22T02:00:00+01:00",
-        "d": null,
-        "j": "CAMI LAYÉ OKÚN",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "OLIVIA RODRIGO",
-        "s": "2026-05-22T02:00:00+01:00",
-        "e": "2026-05-22T03:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "LIQUID MIRROR W/ OLIVE KIMOTO (R)",
         "s": "2026-05-22T03:00:00+01:00",
         "e": "2026-05-22T04:00:00+01:00",
-        "d": null,
+        "d": "Liquid Mirror is the aural exploration of all intersections of ethereality with musician and artist Olive Kimoto. Interpreted eclectically, the monthly broadcast ranges from shoegaze and dream pop, to electronic and experimental.",
         "j": "OLIVE KIMOTO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/liquid-mirror/episodes/liquid-mirror-18th-august-2025",
         "t": "restream",
         "p": "liquidmirror"
       },
@@ -51,9 +17,9 @@
         "n": "ASHER G'S CARIBBEAN MEMORIES (R)",
         "s": "2026-05-22T04:00:00+01:00",
         "e": "2026-05-22T05:00:00+01:00",
-        "d": null,
+        "d": "Classic Jamaican records from the \"Rocksteady Daddy\" Asher G.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/asher-g/episodes/asher-g-8th-march-2026",
         "t": "restream"
       },
       {
@@ -168,60 +134,63 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "EASTERN MARGINS w/ Amanda Sze",
+        "s": "2026-05-22T20:00:00+01:00",
+        "e": "2026-05-22T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "easternmargins"
+      },
+      {
+        "n": "BRBKO",
+        "s": "2026-05-22T21:00:00+01:00",
+        "e": "2026-05-22T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "brbko"
+      },
+      {
+        "n": "Spaces In Between w/ Introspekt",
+        "s": "2026-05-22T23:00:00+01:00",
+        "e": "2026-05-23T00:00:00+01:00",
+        "d": null,
+        "j": "Introspekt",
+        "u": null,
+        "t": "monthly",
+        "p": "introspekt"
+      },
+      {
+        "n": "SPINEE",
+        "s": "2026-05-23T00:00:00+01:00",
+        "e": "2026-05-23T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "spinee"
       }
     ],
     "nts2": [
       {
-        "n": "Brown Acid Trippin' w/ Lance Barresi & DJ Tara Dactyl",
-        "s": "2026-05-21T23:00:00+01:00",
-        "e": "2026-05-22T00:00:00+01:00",
-        "d": "Life is short, have more fun. Lance Barresi of Permanent Records goes for all vinyl 45's, live and direct from the Los Angeles studio.\nFrom the host: \"An alphabetical journey through the Brown Acid Archives. All of these tracks come from real, vintage vinyl 45s released by Hard Rock, Heavy Psych, and Proto-Metal artists beginning with the letter S!”",
-        "j": "Lance Barresi & DJ Tara Dactyl",
-        "u": "https://www.nts.live/api/v2/shows/brown-acid-journey/episodes/brown-acid-journey-21st-may-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Mishka (R)",
-        "s": "2026-05-22T00:00:00+01:00",
-        "e": "2026-05-22T01:00:00+01:00",
-        "d": "An auditory exploration with SF native Mishka ranging from synth pop and balearic to softrock and global dance gems. One hour, once a month, with love. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mishka/episodes/mishka-24th-april-2026",
-        "t": "restream",
-        "p": "mishka"
-      },
-      {
-        "n": "Omichive's Bookshelf: Vocaloid",
-        "s": "2026-05-22T01:00:00+01:00",
-        "e": "2026-05-22T02:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "deadAir - Transmissions w/ d9lton",
-        "s": "2026-05-22T02:00:00+01:00",
-        "e": "2026-05-22T03:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "altar ♱ electronica w/ yeule (R)",
         "s": "2026-05-22T03:00:00+01:00",
         "e": "2026-05-22T04:00:00+01:00",
-        "d": null,
+        "d": "yeule, the cyborg alchemist coalescing the soundscapes of glitch-pop electronica, alt rock, and trip-hop. After their breakthrough sophomore album in 2022, Glitch Princess, Nat Ćmiel crystallised their place as alt electronica luminary with their boundary-breaking 2023 album softscars. Both albums were named Best New Music by Pitchfork with the latter lauded as a “riotous, high-energy journey” by the Guardian. With their forthcoming work, yeule paints us a picture with divine poise: fragmented shards of their persona non grata, or \"darker side,\" pieced together as the painterly fatale who burns through the canvas of post-modernity. With visual artworks captured by artist Vasso Vu, Ćmiel is seen here tethered to their role as a \"painter\" before performer. yeule, reincarnated again as a haunting facsimile of their past in Evangelic Girl is a Gun. Ćmiel paints an homage to the artist’s role—an artist that illuminates the neon glow of an ego death, and the transformative forms of love, immortalising in our physical reality, their dream within all dreams.",
         "j": "yeule",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yeule/episodes/yeule-2nd-january-2025",
         "t": "restream"
       },
       {
         "n": "CDMX Tapes w/ MIKITA & NEGRACONDA",
         "s": "2026-05-22T04:00:00+01:00",
         "e": "2026-05-22T06:00:00+01:00",
-        "d": null,
+        "d": "Mexican record label, Naafi, settle in at NTS for a showcase of the weirdest experimentations in club culture that have bubbled to the surface of Soundcloud. Dazed rhythms converging into Jersey stutters, and tumblr-era trap for two straight hours on a Monday.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/naafi/episodes/naafi-22nd-may-2026"
       },
       {
         "n": "ZULI (R)",
@@ -334,44 +303,44 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "The Mean Streets Show",
-        "s": "2026-05-21T21:00:00Z",
-        "e": "2026-05-21T23:00:00Z",
-        "d": "Responsible for “that massive grime tune with the Psycho strings”, UK producers/DJs Trends & Boylan are well versed in what the scene has to offer. They use this platform to showcase music from across the 140 spectrum from Grime to Dubstep. Anything goes!!",
-        "j": null,
+        "n": "Futuro Ancestral  w/ Antropoceno - Brazilian Avant-Folk",
+        "s": "2026-05-22T19:00:00+01:00",
+        "e": "2026-05-22T20:00:00+01:00",
+        "d": null,
+        "j": "Antropoceno",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Kutchi",
-        "s": "2026-05-21T23:00:00Z",
-        "e": "2026-05-22T00:00:00Z",
+        "n": "Confusing Mix - NYC 2005-2012 SPECIAL w/ Josh Da Costa",
+        "s": "2026-05-22T20:00:00+01:00",
+        "e": "2026-05-22T21:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": " Out of the Dark",
-        "s": "2026-05-22T00:00:00Z",
-        "e": "2026-05-22T01:00:00Z",
+        "n": "WABI SABI W/ TANA YONAS",
+        "s": "2026-05-22T21:00:00+01:00",
+        "e": "2026-05-22T22:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "TANA YONAS",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "tanayonas"
       },
       {
-        "n": "CHUFFED w/ David Lunch",
-        "s": "2026-05-22T01:00:00Z",
-        "e": "2026-05-22T02:00:00Z",
+        "n": "Fire-Toolz",
+        "s": "2026-05-22T22:00:00+01:00",
+        "e": "2026-05-22T23:00:00+01:00",
         "d": null,
-        "j": "David Lunch",
-        "u": null,
-        "t": "monthly"
-      },
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Subabuba",
         "s": "2026-05-22T02:00:00Z",
@@ -380,6 +349,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-22T04:00:00Z",
+        "e": "2026-05-22T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Out of Phase With Sam Ling",
@@ -1572,32 +1550,6 @@
     ],
     "dublab": [
       {
-        "n": "sounds of NOW",
-        "s": "2026-05-21T21:00:00Z",
-        "e": "2026-05-21T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Version Galore OR Pony Sweat",
-        "s": "2026-05-21T23:00:00Z",
-        "e": "2026-05-22T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Digital Drums OR NO ONE TURNED AWAY",
-        "s": "2026-05-22T00:00:00Z",
-        "e": "2026-05-22T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Psychic Skin OR Insula",
         "s": "2026-05-22T01:00:00Z",
         "e": "2026-05-22T03:00:00Z",
@@ -2147,38 +2099,28 @@
         "u": null,
         "t": "monthly",
         "p": "apiento"
+      },
+      {
+        "n": "Nanny Cantalouope",
+        "s": "2026-05-28T23:00:00Z",
+        "e": "2026-05-29T01:00:00Z",
+        "d": "\r\n\r\n",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "George Jensen and Heavy Hymns - Quietudes",
+        "s": "2026-05-29T01:00:00Z",
+        "e": "2026-05-29T03:00:00Z",
+        "d": null,
+        "j": "Quietudes",
+        "u": null,
+        "t": "monthly",
+        "p": "georgejensen"
       }
     ],
     "rinse": [
-      {
-        "n": "T.NO",
-        "s": "2026-05-21T22:00:00Z",
-        "e": "2026-05-21T23:00:00Z",
-        "d": null,
-        "j": "Lentekabinet Special",
-        "u": null,
-        "t": "monthly",
-        "p": "tno"
-      },
-      {
-        "n": "LIZZ",
-        "s": "2026-05-21T23:00:00Z",
-        "e": "2026-05-22T00:00:00Z",
-        "d": null,
-        "j": "Papi Scorpio",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Just Jane",
-        "s": "2026-05-22T00:00:00Z",
-        "e": "2026-05-22T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "justjane"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-05-22T01:00:00Z",
@@ -2305,6 +2247,137 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "ANTIDOTO",
+        "s": "2026-05-22T23:00:00Z",
+        "e": "2026-05-23T00:00:00Z",
+        "d": null,
+        "j": "Dani BM",
+        "u": null,
+        "p": "antidoto"
+      },
+      {
+        "n": "T.NO",
+        "s": "2026-05-23T00:00:00Z",
+        "e": "2026-05-23T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "tno"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-05-23T01:00:00Z",
+        "e": "2026-05-23T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Mr. Redley",
+        "s": "2026-05-23T05:00:00Z",
+        "e": "2026-05-23T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "mrredley"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-05-23T06:00:00Z",
+        "e": "2026-05-23T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Hi-Fidelity with Behind This Wall",
+        "s": "2026-05-23T10:00:00Z",
+        "e": "2026-05-23T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Counter Culture with Next Door Records",
+        "s": "2026-05-23T12:00:00Z",
+        "e": "2026-05-23T14:00:00Z",
+        "d": null,
+        "j": "Zaltsman & Alfie Aukett (Live Hardware)",
+        "u": null,
+        "p": "counterculture"
+      },
+      {
+        "n": "Lupe Fuentes presents In The Loop",
+        "s": "2026-05-23T14:00:00Z",
+        "e": "2026-05-23T15:00:00Z",
+        "d": null,
+        "j": "Live from Chinois Kaoz Theory Ibiza",
+        "u": null,
+        "p": "lupefuentes"
+      },
+      {
+        "n": "Heatstroke with Fifi",
+        "s": "2026-05-23T15:00:00Z",
+        "e": "2026-05-23T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "fifi"
+      },
+      {
+        "n": "Douvelle19",
+        "s": "2026-05-23T16:00:00Z",
+        "e": "2026-05-23T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "douvelle19"
+      },
+      {
+        "n": "Cinthie",
+        "s": "2026-05-23T17:00:00Z",
+        "e": "2026-05-23T19:00:00Z",
+        "d": null,
+        "j": "Summer Hot Tunes",
+        "u": null,
+        "t": "monthly",
+        "p": "cinthie"
+      },
+      {
+        "n": "Apollonia",
+        "s": "2026-05-23T19:00:00Z",
+        "e": "2026-05-23T21:00:00Z",
+        "d": null,
+        "j": "Shonky feat. Otis",
+        "u": null,
+        "t": "monthly",
+        "p": "apollonia"
+      },
+      {
+        "n": "Angel D'lite",
+        "s": "2026-05-23T21:00:00Z",
+        "e": "2026-05-23T22:00:00Z",
+        "d": null,
+        "j": "Hervé",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Cameo Blush",
+        "s": "2026-05-23T22:00:00Z",
+        "e": "2026-05-23T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "cameoblush"
       }
     ],
     "rinsefr": [
@@ -2327,68 +2400,62 @@
         "t": "playlist"
       },
       {
-        "n": "safecore",
+        "n": "Giorgi Pipia",
         "s": "2026-05-22T12:00:00Z",
-        "e": "2026-05-22T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Didi Han",
-        "s": "2026-05-22T13:00:00Z",
         "e": "2026-05-22T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "didihan"
+        "p": "giorgipipia"
       },
       {
-        "n": "Crocoqueen invite Hija de la Coca",
+        "n": "Sevenbeatz",
         "s": "2026-05-22T14:00:00Z",
         "e": "2026-05-22T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "sevenbeatz"
       },
       {
-        "n": "Boukan Records",
+        "n": "King Doudou",
         "s": "2026-05-22T15:00:00Z",
         "e": "2026-05-22T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "boukanrecords"
+        "t": "biweekly",
+        "p": "kingdoudou"
       },
       {
-        "n": "Ohjeelo",
+        "n": "Tomás Urquieta",
         "s": "2026-05-22T16:00:00Z",
         "e": "2026-05-22T17:00:00Z",
         "d": null,
-        "j": "invite Le Kla",
+        "j": null,
         "u": null,
         "t": "monthly",
-        "p": "ohjeelo"
+        "p": "tomsurquieta"
       },
       {
-        "n": "rougail space program",
+        "n": "Coffintexts",
         "s": "2026-05-22T17:00:00Z",
         "e": "2026-05-22T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "BERRAKKA",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "coffintexts"
       },
       {
-        "n": "ASIAN CORE",
+        "n": "Rinse France Guest Show",
         "s": "2026-05-22T18:00:00Z",
         "e": "2026-05-22T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Samantha Togni",
         "u": null,
-        "t": "monthly"
+        "t": "weekly"
       },
       {
         "n": "Playlist France",
