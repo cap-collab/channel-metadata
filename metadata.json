@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-22T19:23:57.360Z",
+  "updated": "2026-05-22T21:03:22.866Z",
   "stations": {
     "nts1": [
-      {
-        "n": "EASTERN MARGINS w/ Amanda Sze",
-        "s": "2026-05-22T20:00:00+01:00",
-        "e": "2026-05-22T21:00:00+01:00",
-        "d": "Regular transmissions from the London crew showcasing music from the margins of East & South-East Asia and its diaspora.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/eastern-margins/episodes/eastern-margins-22nd-may-2026",
-        "p": "easternmargins"
-      },
       {
         "n": "BRAK.FM w/ DANIEL OG",
         "s": "2026-05-22T21:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "Spaces In Between w/ Introspekt",
         "s": "2026-05-22T23:00:00+01:00",
         "e": "2026-05-23T00:00:00+01:00",
-        "d": null,
+        "d": "LA-based DJ and producer Introspekt delivers a monthly missive of UK garage, 2-step and more.",
         "j": "Introspekt",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/introspekt/episodes/introspekt-22nd-may-2026",
         "t": "monthly",
         "p": "introspekt"
       },
@@ -170,43 +161,32 @@
         "j": "Early summer ones",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Phil Geraldi",
+        "s": "2026-05-23T19:00:00+01:00",
+        "e": "2026-05-23T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Confusing Mix - NYC 2005-2012 SPECIAL w/ Josh Da Costa",
-        "s": "2026-05-22T20:00:00+01:00",
-        "e": "2026-05-22T21:00:00+01:00",
-        "d": "Lock in for a monthly transmission of leftfield sonics from Josh Da Costa live from LA.\nFrom the host: \"This is a special episode devoted to the artists, bands, musicians, and honestly just the friends that made living in NYC so inspiring to me when I was a late teenager / early 20s hipster looking for the magic. Enjoy.\"",
-        "j": "Josh Da Costa",
-        "u": "https://www.nts.live/api/v2/shows/confusing-mix/episodes/confusing-mix-22nd-may-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "WABI SABI W/ TANA YONAS",
-        "s": "2026-05-22T21:00:00+01:00",
-        "e": "2026-05-22T22:00:00+01:00",
-        "d": "Tana Yonas collects songs like souvenirs, each recalling precious moments found leafing through dusty foreign record shops or catching sonic fragments weathered by time from the radio of bumpy taxi rides. Listen as she delicately guilds together these memories and shares music from lesser known and under represented musical traditions from across the globe and decades.\nFrom the host: \"I've only realized this week that the weather in LA this year has been largely temperate and one-note. Frankly, it's produced a stale sort of feeling for me. When I made this mix, I wanted to push energies around, and I hope this string of tracks brings in waves, and brings in the movement <3\"",
-        "j": "TANA YONAS",
-        "u": "https://www.nts.live/api/v2/shows/tana-yonas/episodes/tana-yonas-22nd-may-2026",
-        "t": "monthly",
-        "p": "tanayonas"
-      },
-      {
         "n": "Fire-Toolz",
         "s": "2026-05-22T22:00:00+01:00",
         "e": "2026-05-22T23:00:00+01:00",
-        "d": null,
+        "d": "Chicago multi-instrumentalist, producer, genre-smashing experimentalist and recent Warp Records signee Fire-Toolz brings the noise in a guest set. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/fire-toolz-22nd-may-2026"
       },
       {
         "n": "ONDAS W/ DUBBY (R)",
         "s": "2026-05-22T23:00:00+01:00",
         "e": "2026-05-23T00:00:00+01:00",
-        "d": null,
+        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
         "j": "DUBBY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-8th-february-2026",
         "t": "restream"
       },
       {
@@ -341,17 +321,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "REIMAGINING COUNTRY W/ JAMAL KHADAR",
+        "s": "2026-05-23T17:00:00+01:00",
+        "e": "2026-05-23T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "reimaginingcountry"
+      },
+      {
+        "n": "BEAU BEAUMONT",
+        "s": "2026-05-23T18:00:00+01:00",
+        "e": "2026-05-23T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "beaubeaumont"
       }
     ],
     "subtle": [
-      {
-        "n": "No Formula",
-        "s": "2026-05-22T19:00:00Z",
-        "e": "2026-05-22T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": " Those Who Dance",
         "s": "2026-05-22T21:00:00Z",
@@ -1439,16 +1429,6 @@
     ],
     "dublab": [
       {
-        "n": "Callie Ryan - Cuts 01",
-        "s": "2026-05-22T19:00:00Z",
-        "e": "2026-05-22T21:00:00Z",
-        "d": null,
-        "j": "Cuts 01",
-        "u": null,
-        "t": "biweekly",
-        "p": "callieryan"
-      },
-      {
         "n": "Peak Oil - Tipping Point",
         "s": "2026-05-22T21:00:00Z",
         "e": "2026-05-22T23:00:00Z",
@@ -2000,15 +1980,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "CONDUCTA",
-        "s": "2026-05-22T18:15:00Z",
-        "e": "2026-05-22T19:45:00Z",
-        "d": null,
-        "j": "LIVE FROM GALA 2026",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Todd Edwards",
         "s": "2026-05-22T19:45:00Z",
