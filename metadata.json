@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-23T18:57:30.844Z",
+  "updated": "2026-05-23T20:39:05.861Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Phil Geraldi",
-        "s": "2026-05-23T19:00:00+01:00",
-        "e": "2026-05-23T20:00:00+01:00",
-        "d": "Phil Geraldi presents an hour of Feel-good alien country & other oddities. Ahead of his new release on Not Not Fun. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/phil-geraldi-23rd-may-2026"
-      },
       {
         "n": "FIELD WORK",
         "s": "2026-05-23T20:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "MUSIC TO EASE YOUR DISEASE",
         "s": "2026-05-23T22:00:00+01:00",
         "e": "2026-05-24T00:00:00+01:00",
-        "d": null,
+        "d": "Music to dent the canister",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/musictoeaseyourdisease/episodes/musictoeaseyourdisease-23rd-may-2026",
         "t": "monthly"
       },
       {
@@ -173,17 +165,19 @@
         "u": null,
         "t": "biweekly",
         "p": "billspencer"
+      },
+      {
+        "n": "m00dtapes",
+        "s": "2026-05-24T18:00:00+01:00",
+        "e": "2026-05-24T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "m00dtapes"
       }
     ],
     "nts2": [
-      {
-        "n": "Kwes Darko",
-        "s": "2026-05-23T19:00:00+01:00",
-        "e": "2026-05-23T21:00:00+01:00",
-        "d": "Songwriter, producer and sonic architect Kwes Darko shares two hours of entirely unreleased original music, celebrating his new project “God of the Youth”.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/kwes-darko-23rd-may-2026"
-      },
       {
         "n": "Nyxo Records",
         "s": "2026-05-23T21:00:00+01:00",
@@ -196,9 +190,9 @@
         "n": "Gayance",
         "s": "2026-05-23T22:00:00+01:00",
         "e": "2026-05-23T23:00:00+01:00",
-        "d": null,
+        "d": "Montreal-born, Lisbon-based producer, DJ, and dance music storyteller Gayance takes over the airwaves in a guest slot, sharing unreleased original productions and more.  ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/gayance-23rd-may-2026"
       },
       {
         "n": "FREEWATER W/ WASÉ TAIWO & VNTAGEPARADISE (R)",
@@ -341,28 +335,18 @@
         "u": null,
         "t": "restream",
         "p": "riodoce"
+      },
+      {
+        "n": "In Focus: SND (R)",
+        "s": "2026-05-24T18:00:00+01:00",
+        "e": "2026-05-24T20:00:00+01:00",
+        "d": null,
+        "j": "SND",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-23T18:00:00Z",
-        "e": "2026-05-23T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Danny Scrilla",
-        "s": "2026-05-23T19:00:00Z",
-        "e": "2026-05-23T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "dannyscrilla"
-      },
       {
         "n": "Biscuit Boy",
         "s": "2026-05-23T20:00:00Z",
@@ -1309,16 +1293,6 @@
     ],
     "dublab": [
       {
-        "n": "Greg Belson - Divine Chord Gospel Show",
-        "s": "2026-05-23T17:00:00Z",
-        "e": "2026-05-23T19:00:00Z",
-        "d": null,
-        "j": "Divine Chord Gospel Show",
-        "u": null,
-        "t": "biweekly",
-        "p": "gregbelson"
-      },
-      {
         "n": "Xandao - Sound Study",
         "s": "2026-05-23T19:00:00Z",
         "e": "2026-05-23T21:00:00Z",
@@ -1804,16 +1778,6 @@
     ],
     "rinse": [
       {
-        "n": "Cinthie",
-        "s": "2026-05-23T17:00:00Z",
-        "e": "2026-05-23T19:00:00Z",
-        "d": null,
-        "j": "Summer Hot Tunes",
-        "u": null,
-        "t": "monthly",
-        "p": "cinthie"
-      },
-      {
         "n": "Apollonia",
         "s": "2026-05-23T19:00:00Z",
         "e": "2026-05-23T21:00:00Z",
@@ -1981,14 +1945,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Samantha Togni",
-        "s": "2026-05-23T18:00:00Z",
-        "e": "2026-05-23T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-23T19:00:00Z",
