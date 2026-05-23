@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-23T09:44:16.697Z",
+  "updated": "2026-05-23T11:04:34.302Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
-        "s": "2026-05-23T10:00:00+01:00",
-        "e": "2026-05-23T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": "MACCA",
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-23rd-may-2026",
-        "t": "biweekly",
-        "p": "macca"
-      },
       {
         "n": "NTS GUIDE TO: ALBARIKA RECORDS (R)",
         "s": "2026-05-23T12:00:00+01:00",
@@ -26,9 +16,10 @@
         "n": "GILDED SOUND REFLECTION - REUNION w/ Jake McGowan",
         "s": "2026-05-23T14:00:00+01:00",
         "e": "2026-05-23T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Gilded Sound Reflection is the musical collective of Tai Thittichai and David Lane. They magnify the bleed between genre lines, blurring the boundaries of krautrock, jazz, psych, soul, pop and more – a monthly show, settle in for a meandering couple hours early in the afternoon.\nFrom the host: \"Tai is joined by old friend and former GSR host Jake McGowan for an afternoon of musical exchange\"",
+        "j": "Jake McGowan",
+        "u": "https://www.nts.live/api/v2/shows/gsr/episodes/gsr-23rd-may-2026",
+        "t": "monthly"
       },
       {
         "n": "Highlife & Sunshine Show w/ Tryb",
@@ -166,36 +157,25 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "TIME IS AWAY - DoE 003 (Jonathan Dee untitled cassette)",
+        "s": "2026-05-24T09:00:00+01:00",
+        "e": "2026-05-24T10:00:00+01:00",
+        "d": null,
+        "j": "DoE 003 (Jonathan Dee untitled cassette)",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Leila Samir (R)",
-        "s": "2026-05-23T10:00:00+01:00",
-        "e": "2026-05-23T11:00:00+01:00",
-        "d": "London producer & DJ Leila Samir presents an hour every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/leila-samir/episodes/leila-samir-15th-december-2024",
-        "t": "restream",
-        "p": "leilasamir"
-      },
-      {
-        "n": "FELISHA ledesma",
-        "s": "2026-05-23T11:00:00+01:00",
-        "e": "2026-05-23T12:00:00+01:00",
-        "d": "A monthly collection of blurred collage, aural experiments, and tonal in-betweens with sound artist and musician Felisha Ledesma.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/felisha-ledesma/episodes/felisha-ledesma-23rd-may-2026",
-        "t": "monthly",
-        "p": "felishaledesma"
-      },
-      {
         "n": "SPACE AFRIKA (R)",
         "s": "2026-05-23T12:00:00+01:00",
         "e": "2026-05-23T14:00:00+01:00",
-        "d": null,
+        "d": "Experimental ambience, dub, techno, and other crazy left shxt from Joshua Reid & Joshua Inyang, a.k.a Space Afrika… Please, enjoy.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/space-afrika/episodes/space-afrika-2nd-september-2025",
         "t": "restream",
         "p": "spaceafrika"
       },
@@ -203,9 +183,9 @@
         "n": "CHARLIE SATSUMAS",
         "s": "2026-05-23T14:00:00+01:00",
         "e": "2026-05-23T15:00:00+01:00",
-        "d": null,
+        "d": "Sheffield DJ and NTS regular Charlie Satsumas gets his own slot - an hour of easy peelers every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/charlie-satsumas/episodes/charlie-satsumas-23rd-may-2026",
         "t": "monthly",
         "p": "charliesatsumas"
       },
@@ -232,7 +212,7 @@
         "p": "absolutefiction"
       },
       {
-        "n": "REIMAGINING COUNTRY W/ JAMAL KHADAR",
+        "n": "REIMAGINING COUNTRY W/ KAÏA KATER",
         "s": "2026-05-23T17:00:00+01:00",
         "e": "2026-05-23T18:00:00+01:00",
         "d": null,
@@ -339,28 +319,28 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "TINNAI W/ GANAVYA (R)",
+        "s": "2026-05-24T08:00:00+01:00",
+        "e": "2026-05-24T09:00:00+01:00",
+        "d": null,
+        "j": "GANAVYA",
+        "u": null,
+        "t": "restream",
+        "p": "ganavya"
+      },
+      {
+        "n": "Post Punk Britain: Scotland (R)",
+        "s": "2026-05-24T09:00:00+01:00",
+        "e": "2026-05-24T11:00:00+01:00",
+        "d": null,
+        "j": "Scotland",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Dun Roamin w/ Tomi From Brockley",
-        "s": "2026-05-23T09:00:00Z",
-        "e": "2026-05-23T10:00:00Z",
-        "d": null,
-        "j": "Tomi From Brockley",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Afroasis",
-        "s": "2026-05-23T10:00:00Z",
-        "e": "2026-05-23T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "afroasis"
-      },
       {
         "n": "Solid Moves w/ Sophia & Ronaldo",
         "s": "2026-05-23T11:00:00Z",
@@ -1355,15 +1335,6 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-23T09:00:00Z",
-        "e": "2026-05-23T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
         "s": "2026-05-23T11:00:00Z",
         "e": "2026-05-23T15:00:00Z",
         "d": null,
@@ -1855,18 +1826,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-05-23T06:00:00Z",
-        "e": "2026-05-23T10:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-30T11:00:00Z",
+        "e": "2026-05-30T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Hi-Fidelity with Behind This Wall",
         "s": "2026-05-23T10:00:00Z",
