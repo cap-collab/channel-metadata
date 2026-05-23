@@ -1,35 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-23T06:28:28.517Z",
+  "updated": "2026-05-23T09:44:16.697Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUNG DART (R)",
-        "s": "2026-05-23T07:00:00+01:00",
-        "e": "2026-05-23T08:00:00+01:00",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-8th-september-2025",
-        "t": "restream",
-        "p": "lungdart"
-      },
-      {
-        "n": "Nāda Sonic w/ Sway Of The Verses",
-        "s": "2026-05-23T08:00:00+01:00",
-        "e": "2026-05-23T10:00:00+01:00",
-        "d": "Take a journey into Raga and Tala based music, and find out the intricacies of this ever evolving ancient musical tradition as we weave our way though musicians, instruments, ragas and time-cycles.",
-        "j": "Sway Of The Verses",
-        "u": "https://www.nts.live/api/v2/shows/sway-of-the-verses/episodes/sway-of-the-verses-23rd-may-2026",
-        "t": "monthly",
-        "p": "swayoftheverses"
-      },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-05-23T10:00:00+01:00",
         "e": "2026-05-23T12:00:00+01:00",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": "MACCA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-23rd-may-2026",
         "t": "biweekly",
         "p": "macca"
       },
@@ -37,9 +17,9 @@
         "n": "NTS GUIDE TO: ALBARIKA RECORDS (R)",
         "s": "2026-05-23T12:00:00+01:00",
         "e": "2026-05-23T14:00:00+01:00",
-        "d": null,
+        "d": "Based in Cotonou, Benin, which at the time was referred to as Dahomey, Albarika Records was founded by the French-born, Benin-based producer and entrepreneur, Emmanuel \"Manu\" Dibango, who had a significant influence on the local music scene. The label was instrumental in releasing records from some of the region's most prominent musicians during the golden age of African music.\nMany of the artists signed to Albarika Records were known for blending indigenous African rhythms with Western jazz, funk, and soul influences. This made their sound distinctive and part of a broader movement across West Africa during the 60s and 70s, as music became a form of social and political expression.",
         "j": "ALBARIKA RECORDS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-albarika-store-1st-february-2025",
         "t": "restream"
       },
       {
@@ -168,34 +148,34 @@
         "j": "Brandee Younger Live Performance",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "MARTIN NEWELL'S ODDCASTE",
+        "s": "2026-05-24T07:30:00+01:00",
+        "e": "2026-05-24T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Bumpin' On Sunset (R)",
+        "s": "2026-05-24T08:00:00+01:00",
+        "e": "2026-05-24T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "Shells (R)",
-        "s": "2026-05-23T07:00:00+01:00",
-        "e": "2026-05-23T08:00:00+01:00",
-        "d": "Michigan selector Shells plays 45s",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ccc---shells/episodes/ccc---shells-12th-december-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Mint Condition (R)",
-        "s": "2026-05-23T08:00:00+01:00",
-        "e": "2026-05-23T10:00:00+01:00",
-        "d": "A state of mind more than a grading scale, Mint Condition journeys deep into an abyss of new, classic, and obscure 12\" and 7\" records - with a focus toward high-end boogie, disco, two step, sweet soul, italo, house and modern funk.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mint-condition/episodes/mint-condition-2nd-august-2021",
-        "t": "restream"
-      },
-      {
         "n": "Leila Samir (R)",
         "s": "2026-05-23T10:00:00+01:00",
         "e": "2026-05-23T11:00:00+01:00",
-        "d": null,
+        "d": "London producer & DJ Leila Samir presents an hour every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/leila-samir/episodes/leila-samir-15th-december-2024",
         "t": "restream",
         "p": "leilasamir"
       },
@@ -203,9 +183,10 @@
         "n": "FELISHA ledesma",
         "s": "2026-05-23T11:00:00+01:00",
         "e": "2026-05-23T12:00:00+01:00",
-        "d": null,
+        "d": "A monthly collection of blurred collage, aural experiments, and tonal in-betweens with sound artist and musician Felisha Ledesma.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/felisha-ledesma/episodes/felisha-ledesma-23rd-may-2026",
+        "t": "monthly",
         "p": "felishaledesma"
       },
       {
@@ -339,28 +320,28 @@
         "u": null,
         "t": "restream",
         "p": "brassfoot"
+      },
+      {
+        "n": "Smerz (R)",
+        "s": "2026-05-24T06:00:00+01:00",
+        "e": "2026-05-24T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "smerz"
+      },
+      {
+        "n": "DOLLAR COUNTRY (R)",
+        "s": "2026-05-24T07:00:00+01:00",
+        "e": "2026-05-24T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-23T04:00:00Z",
-        "e": "2026-05-23T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Afroasis",
-        "s": "2026-05-23T07:00:00Z",
-        "e": "2026-05-23T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "afroasis"
-      },
       {
         "n": "Dun Roamin w/ Tomi From Brockley",
         "s": "2026-05-23T09:00:00Z",
@@ -1373,22 +1354,9 @@
     ],
     "dublab": [
       {
-        "n": "DJ Kerry - The Basement",
-        "s": "2026-05-23T05:00:00Z",
-        "e": "2026-05-23T07:00:00Z",
-        "d": null,
-        "j": "The Basement",
-        "u": null,
-        "t": "monthly",
-        "p": "djkerry",
-        "ap": [
-          "basement"
-        ]
-      },
-      {
         "n": "sounds of NOW",
-        "s": "2026-05-23T07:00:00Z",
-        "e": "2026-05-23T09:00:00Z",
+        "s": "2026-05-23T09:00:00Z",
+        "e": "2026-05-23T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1878,6 +1846,15 @@
         "ap": [
           "dirtydave"
         ]
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-30T07:00:00Z",
+        "e": "2026-05-30T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -2115,15 +2092,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-22T22:00:00Z",
-        "e": "2026-05-23T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-23T07:00:00Z",
         "e": "2026-05-23T12:00:00Z",
         "d": null,
@@ -2132,9 +2100,94 @@
         "t": "playlist"
       },
       {
-        "n": "Tom Val",
+        "n": "Giorgi Pipia",
         "s": "2026-05-23T12:00:00Z",
         "e": "2026-05-23T14:00:00Z",
+        "d": null,
+        "j": "LVN & Umbruter",
+        "u": null,
+        "t": "biweekly",
+        "p": "giorgipipia"
+      },
+      {
+        "n": "Sevenbeatz",
+        "s": "2026-05-23T14:00:00Z",
+        "e": "2026-05-23T15:00:00Z",
+        "d": null,
+        "j": "invite Papy",
+        "u": null,
+        "t": "monthly",
+        "p": "sevenbeatz"
+      },
+      {
+        "n": "King Doudou",
+        "s": "2026-05-23T15:00:00Z",
+        "e": "2026-05-23T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "kingdoudou"
+      },
+      {
+        "n": "Tomás Urquieta",
+        "s": "2026-05-23T16:00:00Z",
+        "e": "2026-05-23T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "tomsurquieta"
+      },
+      {
+        "n": "Coffintexts",
+        "s": "2026-05-23T17:00:00Z",
+        "e": "2026-05-23T18:00:00Z",
+        "d": null,
+        "j": "BERRAKKA",
+        "u": null,
+        "t": "biweekly",
+        "p": "coffintexts"
+      },
+      {
+        "n": "Samantha Togni",
+        "s": "2026-05-23T18:00:00Z",
+        "e": "2026-05-23T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-23T19:00:00Z",
+        "e": "2026-05-23T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-23T22:00:00Z",
+        "e": "2026-05-24T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-24T07:00:00Z",
+        "e": "2026-05-24T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Tom Val",
+        "s": "2026-05-24T12:00:00Z",
+        "e": "2026-05-24T14:00:00Z",
         "d": null,
         "j": "Le Jazz Est Dangereux",
         "u": null,
@@ -2143,8 +2196,8 @@
       },
       {
         "n": "Dubquake Records",
-        "s": "2026-05-23T14:00:00Z",
-        "e": "2026-05-23T15:00:00Z",
+        "s": "2026-05-24T14:00:00Z",
+        "e": "2026-05-24T15:00:00Z",
         "d": null,
         "j": "Induh Man",
         "u": null,
@@ -2153,8 +2206,8 @@
       },
       {
         "n": "POLAAR",
-        "s": "2026-05-23T15:00:00Z",
-        "e": "2026-05-23T16:00:00Z",
+        "s": "2026-05-24T15:00:00Z",
+        "e": "2026-05-24T16:00:00Z",
         "d": null,
         "j": "Prettybwoy \"Japan Classics Selection\"",
         "u": null,
@@ -2163,8 +2216,8 @@
       },
       {
         "n": "The Bass Society",
-        "s": "2026-05-23T16:00:00Z",
-        "e": "2026-05-23T17:00:00Z",
+        "s": "2026-05-24T16:00:00Z",
+        "e": "2026-05-24T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2173,8 +2226,8 @@
       },
       {
         "n": "Ifeoluwa",
-        "s": "2026-05-23T17:00:00Z",
-        "e": "2026-05-23T18:00:00Z",
+        "s": "2026-05-24T17:00:00Z",
+        "e": "2026-05-24T18:00:00Z",
         "d": null,
         "j": "Tears In The Club avec SHE Spells Doom",
         "u": null,
@@ -2182,17 +2235,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-23T18:00:00Z",
-        "e": "2026-05-23T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-05-23T19:00:00Z",
-        "e": "2026-05-23T20:00:00Z",
+        "s": "2026-05-24T18:00:00Z",
+        "e": "2026-05-24T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2201,16 +2245,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "TVOD",
-        "s": "2026-05-23T05:00:00Z",
-        "e": "2026-05-23T07:00:00Z",
-        "d": null,
-        "j": "Jason P",
-        "u": null,
-        "t": "weekly",
-        "p": "jasonp"
-      },
       {
         "n": "La Puteria Radio",
         "s": "2026-05-23T23:00:00Z",
