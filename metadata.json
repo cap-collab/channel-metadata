@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-23T20:39:05.861Z",
+  "updated": "2026-05-23T22:43:27.602Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FIELD WORK",
-        "s": "2026-05-23T20:00:00+01:00",
-        "e": "2026-05-23T22:00:00+01:00",
-        "d": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com.\nFrom the host: \"Field Work this month is dense and dark, with artwork inspired by all the back & forth about data centre emissions & the north sea, and the role of coal & other fossils in art & media.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fieldwork/episodes/fieldwork-23rd-may-2026",
-        "t": "monthly"
-      },
       {
         "n": "MUSIC TO EASE YOUR DISEASE",
         "s": "2026-05-23T22:00:00+01:00",
@@ -25,9 +16,10 @@
         "n": "NITETRAX - Warehouse Rave 1987-88",
         "s": "2026-05-24T00:00:00+01:00",
         "e": "2026-05-24T01:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Nitetrax presents a monthly exploration of classic and contemporary club and experimental music.\nFrom the host: \"The first of three 92 minute “rave tapes”. This first tape covers records that were released in 1987-88 and encompasses Chicago House, Detroit Techno, New York Freestyle and UK Acid. More info on my Instagram.\"",
+        "j": "Warehouse Rave 1987-88",
+        "u": "https://www.nts.live/api/v2/shows/nitetrax/episodes/nitetrax-24th-may-2026",
+        "t": "monthly",
         "p": "88",
         "ap": [
           "nitetrax"
@@ -175,32 +167,26 @@
         "u": null,
         "t": "monthly",
         "p": "m00dtapes"
+      },
+      {
+        "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE",
+        "s": "2026-05-24T19:00:00+01:00",
+        "e": "2026-05-24T20:00:00+01:00",
+        "d": null,
+        "j": "TEMI KOGBE",
+        "u": null,
+        "t": "monthly",
+        "p": "temikogbe"
       }
     ],
     "nts2": [
       {
-        "n": "Nyxo Records",
-        "s": "2026-05-23T21:00:00+01:00",
-        "e": "2026-05-23T22:00:00+01:00",
-        "d": "NYC record label NYXO share an hour of new and unreleased music from artists orbiting the label. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nyxo-records-23rd-may-2026"
-      },
-      {
-        "n": "Gayance",
-        "s": "2026-05-23T22:00:00+01:00",
-        "e": "2026-05-23T23:00:00+01:00",
-        "d": "Montreal-born, Lisbon-based producer, DJ, and dance music storyteller Gayance takes over the airwaves in a guest slot, sharing unreleased original productions and more.  ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/gayance-23rd-may-2026"
-      },
-      {
         "n": "FREEWATER W/ WASÉ TAIWO & VNTAGEPARADISE (R)",
         "s": "2026-05-23T23:00:00+01:00",
         "e": "2026-05-24T00:00:00+01:00",
-        "d": null,
+        "d": "Founders of Lagos’s new-age underground festival FREEWATER, Wasé Taiwo and VNTAGEPARADISE step in with a one-hour curation featuring artists from the inaugural lineup -  a bold glimpse into the next wave of Nigerian music.",
         "j": "WASÉ TAIWO & VNTAGEPARADISE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/freewater/episodes/freewater-ep1-7th-august-2025",
         "t": "restream",
         "p": "freewater"
       },
@@ -208,9 +194,9 @@
         "n": "In Focus: Outkast (R)",
         "s": "2026-05-24T00:00:00+01:00",
         "e": "2026-05-24T02:00:00+01:00",
-        "d": null,
+        "d": "The outré hip-hop duo credited for putting Atlanta on the map, Outkast were renowned for bringing a flair for the theatrical to hip-hop during the mid nineties, inspired as they were by their flamboyant funk forebears: Sly, Parliament-Funkadelic, Prince et al. \nAfter a streak of both critically acclaimed and commercially successful albums in the '90s and '00s, Andre 3000 and Big Boi moved onto solo careers, after the name Outkast had long become synonymous with musical eclecticism and infectious melody.\nThis episode of In Focus was mixed and compiled by OK Williams.",
         "j": "Outkast",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-outkast-19th-august-2020",
         "t": "restream"
       },
       {
@@ -344,19 +330,28 @@
         "j": "SND",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Biscuit Boy",
-        "s": "2026-05-23T20:00:00Z",
-        "e": "2026-05-23T21:00:00Z",
+        "n": "Women of Video Game Music: June Chikuma (R)",
+        "s": "2026-05-24T20:00:00+01:00",
+        "e": "2026-05-24T21:00:00+01:00",
+        "d": null,
+        "j": "June Chikuma",
+        "u": null,
+        "t": "restream",
+        "p": "junechikuma"
+      },
+      {
+        "n": "Defkon (R)",
+        "s": "2026-05-24T21:00:00+01:00",
+        "e": "2026-05-24T22:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "biscuitboy"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Undercurrent / .CO.UK",
         "s": "2026-05-23T21:00:00Z",
@@ -1293,15 +1288,6 @@
     ],
     "dublab": [
       {
-        "n": "Xandao - Sound Study",
-        "s": "2026-05-23T19:00:00Z",
-        "e": "2026-05-23T21:00:00Z",
-        "d": null,
-        "j": "Sound Study",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Derelict - Damage Control",
         "s": "2026-05-23T21:00:00Z",
         "e": "2026-05-23T23:00:00Z",
@@ -1778,25 +1764,6 @@
     ],
     "rinse": [
       {
-        "n": "Apollonia",
-        "s": "2026-05-23T19:00:00Z",
-        "e": "2026-05-23T21:00:00Z",
-        "d": null,
-        "j": "Shonky feat. Otis",
-        "u": null,
-        "t": "monthly",
-        "p": "apollonia"
-      },
-      {
-        "n": "Angel D'lite",
-        "s": "2026-05-23T21:00:00Z",
-        "e": "2026-05-23T22:00:00Z",
-        "d": null,
-        "j": "Hervé",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Cameo Blush",
         "s": "2026-05-23T22:00:00Z",
         "e": "2026-05-23T23:00:00Z",
@@ -1945,15 +1912,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-23T19:00:00Z",
-        "e": "2026-05-23T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-23T22:00:00Z",
