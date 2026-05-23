@@ -1,41 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-05-23T16:52:18.687Z",
+  "updated": "2026-05-23T18:57:30.844Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BAHAMIAN MOOR",
-        "s": "2026-05-23T17:00:00+01:00",
-        "e": "2026-05-23T18:00:00+01:00",
-        "d": "Live at GDANZA, spanners part 3, 19/07/24 - 6:31am",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bahamian-moor/episodes/bahamian-moor-23rd-may-2026",
-        "p": "bahamianmoor"
-      },
-      {
-        "n": "MUSIC 4 LOVERS - Early summer ones",
-        "s": "2026-05-23T18:00:00+01:00",
-        "e": "2026-05-23T19:00:00+01:00",
-        "d": "Jabu and Andy Payback bring us Music 4 Lovers once a month.",
-        "j": "Early summer ones",
-        "u": "https://www.nts.live/api/v2/shows/music-4-lovers/episodes/music-4-lovers-23rd-may-2026",
-        "t": "monthly"
-      },
       {
         "n": "Phil Geraldi",
         "s": "2026-05-23T19:00:00+01:00",
         "e": "2026-05-23T20:00:00+01:00",
-        "d": null,
+        "d": "Phil Geraldi presents an hour of Feel-good alien country & other oddities. Ahead of his new release on Not Not Fun. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/phil-geraldi-23rd-may-2026"
       },
       {
         "n": "FIELD WORK",
         "s": "2026-05-23T20:00:00+01:00",
         "e": "2026-05-23T22:00:00+01:00",
-        "d": null,
+        "d": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com.\nFrom the host: \"Field Work this month is dense and dark, with artwork inspired by all the back & forth about data centre emissions & the north sea, and the role of coal & other fossils in art & media.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/fieldwork/episodes/fieldwork-23rd-may-2026",
         "t": "monthly"
       },
       {
@@ -171,42 +153,44 @@
         "ap": [
           "paradisebangkok"
         ]
+      },
+      {
+        "n": "KHARTOUM ARRIVALS W/ BASMA",
+        "s": "2026-05-24T16:00:00+01:00",
+        "e": "2026-05-24T17:00:00+01:00",
+        "d": null,
+        "j": "BASMA",
+        "u": null,
+        "t": "monthly",
+        "p": "basma"
+      },
+      {
+        "n": "A Month of Sundays w/ Bill Spencer - DEMF Edition",
+        "s": "2026-05-24T17:00:00+01:00",
+        "e": "2026-05-24T18:00:00+01:00",
+        "d": null,
+        "j": "Bill Spencer",
+        "u": null,
+        "t": "biweekly",
+        "p": "billspencer"
       }
     ],
     "nts2": [
       {
-        "n": "REIMAGINING COUNTRY W/ KAÏA KATER",
-        "s": "2026-05-23T17:00:00+01:00",
-        "e": "2026-05-23T18:00:00+01:00",
-        "d": "Culture journalist Jamal Khadar takes a trip through country music’s hidden roots and surprising global connections—in search of a more personal, nuanced view of what it means to be a country fan. From African-Country crossovers to Jamaica’s country connection, and the continuous role of Southern Soul in remaking country.\nFrom the host: \"Grenadian-Canadian Kaïa Kater on growing up in the Canadian folk festival scene, reckoning with Grenadian revolutionary history through old-time music, and the influences - Solange, Steve Reich, the internet - behind her music. Plus a first listen of her new song about Sidney Poitier.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/reimagining-country/episodes/reimagining-country-23rd-may-2026",
-        "p": "reimaginingcountry"
-      },
-      {
-        "n": "BEAU BEAUMONT",
-        "s": "2026-05-23T18:00:00+01:00",
-        "e": "2026-05-23T19:00:00+01:00",
-        "d": "Era-spanning techno & experimental sonics from Beau Beaumont",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/beau-beaumont/episodes/beau-beaumont-23rd-may-2026",
-        "p": "beaubeaumont"
-      },
-      {
         "n": "Kwes Darko",
         "s": "2026-05-23T19:00:00+01:00",
         "e": "2026-05-23T21:00:00+01:00",
-        "d": null,
+        "d": "Songwriter, producer and sonic architect Kwes Darko shares two hours of entirely unreleased original music, celebrating his new project “God of the Youth”.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/kwes-darko-23rd-may-2026"
       },
       {
         "n": "Nyxo Records",
         "s": "2026-05-23T21:00:00+01:00",
         "e": "2026-05-23T22:00:00+01:00",
-        "d": null,
+        "d": "NYC record label NYXO share an hour of new and unreleased music from artists orbiting the label. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nyxo-records-23rd-may-2026"
       },
       {
         "n": "Gayance",
@@ -337,25 +321,37 @@
         "j": "A Guide to Shibuya-Kei",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Radio Jiro (R)",
+        "s": "2026-05-24T15:00:00+01:00",
+        "e": "2026-05-24T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "radiojiro"
+      },
+      {
+        "n": "RIO DOCE (R)",
+        "s": "2026-05-24T17:00:00+01:00",
+        "e": "2026-05-24T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "riodoce"
       }
     ],
     "subtle": [
       {
-        "n": "Scartip",
-        "s": "2026-05-23T16:00:00Z",
-        "e": "2026-05-23T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "DJ SK",
-        "s": "2026-05-23T17:00:00Z",
-        "e": "2026-05-23T18:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-05-23T18:00:00Z",
+        "e": "2026-05-23T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "Danny Scrilla",
@@ -1301,19 +1297,17 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "ARTI FM w/ ARTISOMA",
+        "s": "2026-05-30T17:00:00Z",
+        "e": "2026-05-30T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
-        "s": "2026-05-23T15:00:00Z",
-        "e": "2026-05-23T17:00:00Z",
-        "d": null,
-        "j": "The Sweeter the Juice",
-        "u": null,
-        "t": "biweekly",
-        "p": "illcamille"
-      },
       {
         "n": "Greg Belson - Divine Chord Gospel Show",
         "s": "2026-05-23T17:00:00Z",
@@ -1810,16 +1804,6 @@
     ],
     "rinse": [
       {
-        "n": "Douvelle19",
-        "s": "2026-05-23T16:00:00Z",
-        "e": "2026-05-23T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "douvelle19"
-      },
-      {
         "n": "Cinthie",
         "s": "2026-05-23T17:00:00Z",
         "e": "2026-05-23T19:00:00Z",
@@ -1997,26 +1981,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Tomás Urquieta",
-        "s": "2026-05-23T16:00:00Z",
-        "e": "2026-05-23T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "tomsurquieta"
-      },
-      {
-        "n": "Coffintexts",
-        "s": "2026-05-23T17:00:00Z",
-        "e": "2026-05-23T18:00:00Z",
-        "d": null,
-        "j": "BERRAKKA",
-        "u": null,
-        "t": "biweekly",
-        "p": "coffintexts"
-      },
       {
         "n": "Samantha Togni",
         "s": "2026-05-23T18:00:00Z",
