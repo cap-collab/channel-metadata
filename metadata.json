@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-24T11:08:03.460Z",
+  "updated": "2026-05-24T13:02:55.688Z",
   "stations": {
     "nts1": [
-      {
-        "n": "HOUSE CALL",
-        "s": "2026-05-24T12:00:00+01:00",
-        "e": "2026-05-24T13:00:00+01:00",
-        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-24th-may-2026",
-        "t": "biweekly"
-      },
       {
         "n": "DOING TIME",
         "s": "2026-05-24T13:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "PARADISE BANGKOK",
         "s": "2026-05-24T15:00:00+01:00",
         "e": "2026-05-24T16:00:00+01:00",
-        "d": null,
+        "d": "Chris Menist’s Paradise Bangkok label hits the NTS airwaves for a rundown of the best folk music from Africa, Indonesia and more. Reggae and Jazz rub shoulders with Gamalan as Menist uncovers classics; folk music without borders.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/paradise-bangkok/episodes/paradise-bangkok-24th-may-2026",
         "t": "monthly",
         "p": "paradise",
         "ap": [
@@ -177,43 +168,35 @@
         "j": "John Gómez",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "RAISA K",
+        "s": "2026-05-25T13:00:00+01:00",
+        "e": "2026-05-25T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "raisak"
       }
     ],
     "nts2": [
       {
-        "n": "Songs of Praise: Wake The Spirit w/ Ian Isiah (R)",
-        "s": "2026-05-24T12:00:00+01:00",
-        "e": "2026-05-24T13:00:00+01:00",
-        "d": "Cult US R&B icon Ian Isiah is a born performer – and he thanks gospel music for the spark of his musical origins. In this hour long special, Isiah picks out his favourite contemporary gospel records.",
-        "j": "Ian Isiah",
-        "u": "https://www.nts.live/api/v2/shows/songs-of-praise/episodes/songs-of-praise-guide-to-contemporary-gospel-w-ian-isiah-23rd-june-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Songs of Praise: Wake The Spirit w/ Ian Isiah (R)",
-        "s": "2026-05-24T13:00:00+01:00",
-        "e": "2026-05-24T14:00:00+01:00",
-        "d": "Cult US R&B icon Ian Isiah is a born performer – and he thanks gospel music for the spark of his musical origins. In this hour long special, Isiah picks out his favourite contemporary gospel records.",
-        "j": "Ian Isiah",
-        "u": "https://www.nts.live/api/v2/shows/songs-of-praise/episodes/songs-of-praise-guide-to-contemporary-gospel-w-ian-isiah-23rd-june-2024",
-        "t": "restream"
-      },
-      {
         "n": "Guitar World: A Guide to Shibuya-Kei (R)",
         "s": "2026-05-24T14:00:00+01:00",
         "e": "2026-05-24T15:00:00+01:00",
-        "d": null,
+        "d": "Translating literally as “Shibuya-style”, named after the shopping district of Tokyo, which during the ‘90s was the epicentre of the kitsch and Western retro throwback aesthetic, Shibuya-kei bands drew heavily from easy listening pop movements of the 1960s – bossa nova, psychedelia, yé-yé and more.",
         "j": "A Guide to Shibuya-Kei",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guitar-world/episodes/a-guide-to-shibuya-kei-1st-august-2022",
         "t": "restream"
       },
       {
         "n": "Radio Jiro (R)",
         "s": "2026-05-24T15:00:00+01:00",
         "e": "2026-05-24T17:00:00+01:00",
-        "d": null,
+        "d": "Radio Jiro is the two hour show of artist Jiro Bevis, every 4 weeks, Monday 2-4pm. The show features a wide variety of sounds from across the globe with previous specials covering themes such as Meditation, Italian, UK punk, Japanese Techno-Pop, Library and French.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/radio-jiro/episodes/radio-jiro-31st-march-2019",
         "t": "restream",
         "p": "radiojiro"
       },
@@ -345,27 +328,28 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-05-24T11:00:00Z",
-        "e": "2026-05-24T12:00:00Z",
+        "n": "Sofie Birch (R)",
+        "s": "2026-05-25T08:00:00+01:00",
+        "e": "2026-05-25T09:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream",
+        "p": "sofiebirch"
       },
       {
-        "n": "WAX HEAVY w/ VIOLENTLYILL",
-        "s": "2026-05-24T12:00:00Z",
-        "e": "2026-05-24T13:00:00Z",
+        "n": "SOS Radio (R)",
+        "s": "2026-05-25T09:00:00+01:00",
+        "e": "2026-05-25T11:00:00+01:00",
         "d": null,
-        "j": "VIOLENTLYILL",
+        "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": " Sarah Jones",
         "s": "2026-05-24T13:00:00Z",
@@ -1215,18 +1199,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ANDREA MAGGINO",
+        "s": "2026-05-31T12:00:00Z",
+        "e": "2026-05-31T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-05-24T10:00:00Z",
-        "e": "2026-05-24T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "djjs",
         "s": "2026-05-24T12:00:00Z",
@@ -1664,19 +1647,18 @@
         "j": "JF Chen Radio",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "djjs",
+        "s": "2026-05-31T12:00:00Z",
+        "e": "2026-05-31T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Dean Bryce",
-        "s": "2026-05-24T10:00:00Z",
-        "e": "2026-05-24T12:00:00Z",
-        "d": null,
-        "j": "Kerri Chandler",
-        "u": null,
-        "t": "biweekly",
-        "p": "kerrichandler"
-      },
       {
         "n": "Dance Regular",
         "s": "2026-05-24T12:00:00Z",
@@ -1870,12 +1852,13 @@
         "t": "monthly"
       },
       {
-        "n": "DJ Stingraypresents Zone 313",
+        "n": "DJ Stingray presents Zone 313",
         "s": "2026-05-25T19:00:00Z",
         "e": "2026-05-25T20:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "IMOGEN",
+        "u": null,
+        "p": "djstingray"
       },
       {
         "n": "Paranoid London",
@@ -1906,15 +1889,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-24T07:00:00Z",
-        "e": "2026-05-24T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Tom Val",
         "s": "2026-05-24T12:00:00Z",
