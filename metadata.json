@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-24T13:02:55.688Z",
+  "updated": "2026-05-24T14:55:58.633Z",
   "stations": {
     "nts1": [
-      {
-        "n": "DOING TIME",
-        "s": "2026-05-24T13:00:00+01:00",
-        "e": "2026-05-24T15:00:00+01:00",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-24th-may-2026",
-        "t": "monthly",
-        "p": "doingtime"
-      },
       {
         "n": "PARADISE BANGKOK",
         "s": "2026-05-24T15:00:00+01:00",
@@ -30,9 +20,9 @@
         "n": "KHARTOUM ARRIVALS W/ BASMA",
         "s": "2026-05-24T16:00:00+01:00",
         "e": "2026-05-24T17:00:00+01:00",
-        "d": null,
+        "d": "Basma shares songs and stories from passings through Khartoum and beyond.\nFrom the host: \"Mali and Sudan side by side on this month's show. Salam!\"",
         "j": "BASMA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-24th-may-2026",
         "t": "monthly",
         "p": "basma"
       },
@@ -178,18 +168,18 @@
         "u": null,
         "t": "monthly",
         "p": "raisak"
+      },
+      {
+        "n": "NTS GUIDE TO: MODERN EAST & SOUTH EAST ASIAN SHOEGAZE (R)",
+        "s": "2026-05-25T14:00:00+01:00",
+        "e": "2026-05-25T15:00:00+01:00",
+        "d": null,
+        "j": "MODERN EAST & SOUTH EAST ASIAN SHOEGAZE",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "Guitar World: A Guide to Shibuya-Kei (R)",
-        "s": "2026-05-24T14:00:00+01:00",
-        "e": "2026-05-24T15:00:00+01:00",
-        "d": "Translating literally as “Shibuya-style”, named after the shopping district of Tokyo, which during the ‘90s was the epicentre of the kitsch and Western retro throwback aesthetic, Shibuya-kei bands drew heavily from easy listening pop movements of the 1960s – bossa nova, psychedelia, yé-yé and more.",
-        "j": "A Guide to Shibuya-Kei",
-        "u": "https://www.nts.live/api/v2/shows/guitar-world/episodes/a-guide-to-shibuya-kei-1st-august-2022",
-        "t": "restream"
-      },
       {
         "n": "Radio Jiro (R)",
         "s": "2026-05-24T15:00:00+01:00",
@@ -204,9 +194,9 @@
         "n": "RIO DOCE (R)",
         "s": "2026-05-24T17:00:00+01:00",
         "e": "2026-05-24T18:00:00+01:00",
-        "d": null,
+        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-26th-february-2025",
         "t": "restream",
         "p": "riodoce"
       },
@@ -347,19 +337,19 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " Sarah Jones",
-        "s": "2026-05-24T13:00:00Z",
-        "e": "2026-05-24T14:00:00Z",
+        "n": "3XL",
+        "s": "2026-05-25T11:00:00+01:00",
+        "e": "2026-05-25T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "sarahjones"
-      },
+        "p": "3xl"
+      }
+    ],
+    "subtle": [
       {
         "n": "LIT CLIPS w/ DVS",
         "s": "2026-05-24T14:00:00Z",
@@ -1207,18 +1197,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Tahkhānā",
+        "s": "2026-05-31T14:00:00Z",
+        "e": "2026-05-31T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "djjs",
-        "s": "2026-05-24T12:00:00Z",
-        "e": "2026-05-24T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "djjs 2",
         "s": "2026-05-24T14:00:00Z",
@@ -1656,19 +1645,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "djjs 2",
+        "s": "2026-05-31T14:00:00Z",
+        "e": "2026-05-31T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Dance Regular",
-        "s": "2026-05-24T12:00:00Z",
-        "e": "2026-05-24T14:00:00Z",
-        "d": null,
-        "j": "Sentinel 793",
-        "u": null,
-        "t": "biweekly",
-        "p": "danceregular"
-      },
       {
         "n": "Roska",
         "s": "2026-05-24T14:00:00Z",
@@ -1704,10 +1692,13 @@
         "s": "2026-05-24T19:00:00Z",
         "e": "2026-05-24T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Hannah",
         "u": null,
         "t": "weekly",
-        "p": "oblig"
+        "p": "hannah",
+        "ap": [
+          "oblig"
+        ]
       },
       {
         "n": "Taiki Nulight",
@@ -1799,7 +1790,7 @@
         "s": "2026-05-25T11:00:00Z",
         "e": "2026-05-25T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Victor Calderone",
         "u": null,
         "t": "monthly"
       },
@@ -1889,16 +1880,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Tom Val",
-        "s": "2026-05-24T12:00:00Z",
-        "e": "2026-05-24T14:00:00Z",
-        "d": null,
-        "j": "Le Jazz Est Dangereux",
-        "u": null,
-        "t": "monthly",
-        "p": "tomval"
-      },
       {
         "n": "Dubquake Records",
         "s": "2026-05-24T14:00:00Z",
