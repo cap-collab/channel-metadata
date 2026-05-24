@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-24T09:48:11.007Z",
+  "updated": "2026-05-24T11:08:03.460Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Radiant Life w/ Ruby Savage",
-        "s": "2026-05-24T10:00:00+01:00",
-        "e": "2026-05-24T12:00:00+01:00",
-        "d": "Get radiant with Ruby Savage's mixed bag of goodies.",
-        "j": "Ruby Savage",
-        "u": "https://www.nts.live/api/v2/shows/ruby-savage/episodes/ruby-savage-24th-may-2026",
-        "t": "monthly",
-        "p": "rubysavage"
-      },
       {
         "n": "HOUSE CALL",
         "s": "2026-05-24T12:00:00+01:00",
@@ -26,9 +16,10 @@
         "n": "DOING TIME",
         "s": "2026-05-24T13:00:00+01:00",
         "e": "2026-05-24T15:00:00+01:00",
-        "d": null,
+        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-24th-may-2026",
+        "t": "monthly",
         "p": "doingtime"
       },
       {
@@ -177,43 +168,34 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-05-25T11:00:00+01:00",
+        "e": "2026-05-25T13:00:00+01:00",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "Post Punk Britain: Scotland (R)",
-        "s": "2026-05-24T09:00:00+01:00",
-        "e": "2026-05-24T11:00:00+01:00",
-        "d": "A Broad survey of the Scottish post-punk output, covering synth pop, industrial, minimal synth, new wave, goth rock, indie. Featuring obscurities, tracks from well known artists, and a number of interview segments from the era. \nCreated by Are You Before.",
-        "j": "Scotland",
-        "u": "https://www.nts.live/api/v2/shows/post-punk-in-britain/episodes/post-punk-in-britain-scottish-post-punk-10th-may-2023",
-        "t": "restream"
-      },
-      {
-        "n": "The Numero Group - Escape From Synth City (R)",
-        "s": "2026-05-24T11:00:00+01:00",
-        "e": "2026-05-24T12:00:00+01:00",
-        "d": "Chicago-based archival record label, The Numero Group, host a deep-digging once a month show. Expect comprehensive round ups from their crates, picking out the best old music and reissues, as well as some jubilant nerdy record chat.",
-        "j": "Escape From Synth City",
-        "u": "https://www.nts.live/api/v2/shows/radio-free-numero/episodes/the-numero-group-4th-april-2019",
-        "t": "restream"
-      },
-      {
         "n": "Songs of Praise: Wake The Spirit w/ Ian Isiah (R)",
         "s": "2026-05-24T12:00:00+01:00",
         "e": "2026-05-24T13:00:00+01:00",
-        "d": null,
+        "d": "Cult US R&B icon Ian Isiah is a born performer – and he thanks gospel music for the spark of his musical origins. In this hour long special, Isiah picks out his favourite contemporary gospel records.",
         "j": "Ian Isiah",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/songs-of-praise/episodes/songs-of-praise-guide-to-contemporary-gospel-w-ian-isiah-23rd-june-2024",
         "t": "restream"
       },
       {
         "n": "Songs of Praise: Wake The Spirit w/ Ian Isiah (R)",
         "s": "2026-05-24T13:00:00+01:00",
         "e": "2026-05-24T14:00:00+01:00",
-        "d": null,
+        "d": "Cult US R&B icon Ian Isiah is a born performer – and he thanks gospel music for the spark of his musical origins. In this hour long special, Isiah picks out his favourite contemporary gospel records.",
         "j": "Ian Isiah",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/songs-of-praise/episodes/songs-of-praise-guide-to-contemporary-gospel-w-ian-isiah-23rd-june-2024",
         "t": "restream"
       },
       {
@@ -345,26 +327,35 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "YOSHIMIO (R)",
+        "s": "2026-05-25T06:00:00+01:00",
+        "e": "2026-05-25T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "SIGOURNEY (R)",
+        "s": "2026-05-25T07:00:00+01:00",
+        "e": "2026-05-25T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
       {
-        "n": "Housewife (UK)",
-        "s": "2026-05-24T09:00:00Z",
-        "e": "2026-05-24T10:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-05-24T11:00:00Z",
+        "e": "2026-05-24T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Velvet Frequencies",
-        "s": "2026-05-24T10:00:00Z",
-        "e": "2026-05-24T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "WAX HEAVY w/ VIOLENTLYILL",
@@ -1216,18 +1207,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Locked Signal",
+        "s": "2026-05-31T11:00:00Z",
+        "e": "2026-05-31T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-05-24T08:00:00Z",
-        "e": "2026-05-24T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-05-24T10:00:00Z",
@@ -1677,16 +1667,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "FYI Robyn",
-        "s": "2026-05-24T08:00:00Z",
-        "e": "2026-05-24T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "fyirobyn"
-      },
       {
         "n": "Dean Bryce",
         "s": "2026-05-24T10:00:00Z",
