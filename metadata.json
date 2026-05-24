@@ -1,32 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-24T19:03:52.773Z",
+  "updated": "2026-05-24T20:43:29.063Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Tezez Tapes: Sounds from the Archive",
-        "s": "2026-05-24T20:00:00+01:00",
-        "e": "2026-05-24T21:00:00+01:00",
-        "d": "Semir from archival label Tezez Tapes curates from a cassette collection of Eritrean music from the 1980s–2000s, tracing eras, sounds, and the distinct voices that shaped them.\nFrom the host: \"Highlighting music from Eritrea’s early post-liberation years, 1991–1997\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tezez-tapes/episodes/tezez-tapes-24th-may-2026"
-      },
       {
         "n": "A COLOURFUL STORM - Wheels of Fortune",
         "s": "2026-05-24T21:00:00+01:00",
         "e": "2026-05-24T22:00:00+01:00",
-        "d": null,
+        "d": "A Colourful Storm from label head Moopie, featuring contemplative ambience, folksong and indie-pop melancholia, contemporary electronics and beyond.",
         "j": "Wheels of Fortune",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/a-colourful-storm/episodes/a-colourful-storm-24th-may-2026",
         "t": "monthly"
       },
       {
         "n": "NOSEDRIP",
         "s": "2026-05-24T22:00:00+01:00",
         "e": "2026-05-25T00:00:00+01:00",
-        "d": null,
+        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-24th-may-2026",
         "t": "monthly",
         "p": "nosedrip"
       },
@@ -161,35 +153,44 @@
         "u": null,
         "t": "weekly",
         "p": "cocomaria"
+      },
+      {
+        "n": "CALM ROOTS W/ ALEX RITA",
+        "s": "2026-05-25T20:00:00+01:00",
+        "e": "2026-05-25T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "calmroots"
+      },
+      {
+        "n": "CHERRYSTONES - ALL GOLD ALL REAL",
+        "s": "2026-05-25T22:00:00+01:00",
+        "e": "2026-05-26T00:00:00+01:00",
+        "d": null,
+        "j": "ALL GOLD ALL REAL",
+        "u": null,
+        "t": "monthly",
+        "p": "cherrystones"
       }
     ],
     "nts2": [
       {
-        "n": "Women of Video Game Music: June Chikuma (R)",
-        "s": "2026-05-24T20:00:00+01:00",
-        "e": "2026-05-24T21:00:00+01:00",
-        "d": "A Japanese composer whose work spans across TV, film, and commercials as well as video games, most gamers will recognise June Chikuma as the artist behind the effervescent and club-influenced tunes from Hudson Soft and Konami's long-running Bomberman series. ",
-        "j": "June Chikuma",
-        "u": "https://www.nts.live/api/v2/shows/women-of-video-game-music/episodes/women-of-video-game-music-june-chikuma-8th-march-2023",
-        "t": "restream",
-        "p": "junechikuma"
-      },
-      {
         "n": "Defkon (R)",
         "s": "2026-05-24T21:00:00+01:00",
         "e": "2026-05-24T22:00:00+01:00",
-        "d": null,
+        "d": "Khadija Al Hanafi, Diane Cluck, Tigers Jaw + some original productions from Defkon in this guest show.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/defkon-15th-august-2023",
         "t": "restream"
       },
       {
         "n": "TH4YS (R)",
         "s": "2026-05-24T22:00:00+01:00",
         "e": "2026-05-24T23:00:00+01:00",
-        "d": null,
+        "d": "Ahead of her performance at our funkBR - São Paulo compilation launch event in London, baile funk royalty th4ys returns to the NTS airwaves to deliver a mix of silky and sinister sounds from Brazil.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/th4ys-23rd-march-2024",
         "t": "restream"
       },
       {
@@ -319,18 +320,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "EBITDA",
-        "s": "2026-05-24T19:00:00Z",
-        "e": "2026-05-24T20:00:00Z",
+        "n": "COBY SEY",
+        "s": "2026-05-25T14:00:00+01:00",
+        "e": "2026-05-25T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "cobysey"
       },
+      {
+        "n": "Roadkill Ikebana",
+        "s": "2026-05-25T15:00:00+01:00",
+        "e": "2026-05-25T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "roadkillikebana"
+      }
+    ],
+    "subtle": [
       {
         "n": "Subtle.MIX_v4_FINAL w/ Celebrity Bitcrush & Guests",
         "s": "2026-05-24T20:00:00Z",
@@ -1582,19 +1592,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Oblig",
-        "s": "2026-05-24T19:00:00Z",
-        "e": "2026-05-24T20:00:00Z",
-        "d": null,
-        "j": "Hannah",
-        "u": null,
-        "t": "weekly",
-        "p": "hannah",
-        "ap": [
-          "oblig"
-        ]
-      },
       {
         "n": "Taiki Nulight",
         "s": "2026-05-24T20:00:00Z",
