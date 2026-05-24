@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-24T20:43:29.063Z",
+  "updated": "2026-05-24T22:48:48.578Z",
   "stations": {
     "nts1": [
-      {
-        "n": "A COLOURFUL STORM - Wheels of Fortune",
-        "s": "2026-05-24T21:00:00+01:00",
-        "e": "2026-05-24T22:00:00+01:00",
-        "d": "A Colourful Storm from label head Moopie, featuring contemplative ambience, folksong and indie-pop melancholia, contemporary electronics and beyond.",
-        "j": "Wheels of Fortune",
-        "u": "https://www.nts.live/api/v2/shows/a-colourful-storm/episodes/a-colourful-storm-24th-may-2026",
-        "t": "monthly"
-      },
       {
         "n": "NOSEDRIP",
         "s": "2026-05-24T22:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "Otologic (R)",
         "s": "2026-05-25T00:00:00+01:00",
         "e": "2026-05-25T02:00:00+01:00",
-        "d": null,
+        "d": "Australian duo Otologic traverse wave, post punk, outsider club & dubwise meanderings in constant delay.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/otologic/episodes/otologic-30th-june-2025",
         "t": "restream",
         "p": "otologic"
       },
@@ -172,43 +163,35 @@
         "u": null,
         "t": "monthly",
         "p": "cherrystones"
+      },
+      {
+        "n": "GRIBS",
+        "s": "2026-05-26T00:00:00+01:00",
+        "e": "2026-05-26T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "gribs"
       }
     ],
     "nts2": [
       {
-        "n": "Defkon (R)",
-        "s": "2026-05-24T21:00:00+01:00",
-        "e": "2026-05-24T22:00:00+01:00",
-        "d": "Khadija Al Hanafi, Diane Cluck, Tigers Jaw + some original productions from Defkon in this guest show.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/defkon-15th-august-2023",
-        "t": "restream"
-      },
-      {
-        "n": "TH4YS (R)",
-        "s": "2026-05-24T22:00:00+01:00",
-        "e": "2026-05-24T23:00:00+01:00",
-        "d": "Ahead of her performance at our funkBR - São Paulo compilation launch event in London, baile funk royalty th4ys returns to the NTS airwaves to deliver a mix of silky and sinister sounds from Brazil.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/th4ys-23rd-march-2024",
-        "t": "restream"
-      },
-      {
         "n": "DJ K (R)",
         "s": "2026-05-24T23:00:00+01:00",
         "e": "2026-05-25T00:00:00+01:00",
-        "d": null,
+        "d": "An hour of unreleased gothic \"Bruxaria\" baile funk from young Brazilian producer, DJ K.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dj-k-12th-july-2023",
         "t": "restream"
       },
       {
         "n": "No White Tees (R)",
         "s": "2026-05-25T00:00:00+01:00",
         "e": "2026-05-25T01:00:00+01:00",
-        "d": null,
+        "d": "Regional hip-hop of every persuasion from the No White Tees crew up in Manchester.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/no-white-tees/episodes/no-white-tees-6th-january-2018",
         "t": "restream"
       },
       {
@@ -338,22 +321,27 @@
         "j": null,
         "u": null,
         "p": "roadkillikebana"
+      },
+      {
+        "n": "GASSY",
+        "s": "2026-05-25T16:00:00+01:00",
+        "e": "2026-05-25T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "THE TRILOGY TAPES",
+        "s": "2026-05-25T17:00:00+01:00",
+        "e": "2026-05-25T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle.MIX_v4_FINAL w/ Celebrity Bitcrush & Guests",
-        "s": "2026-05-24T20:00:00Z",
-        "e": "2026-05-24T22:00:00Z",
-        "d": null,
-        "j": "Celebrity Bitcrush & Guests",
-        "u": null,
-        "t": "monthly",
-        "p": "guests",
-        "ap": [
-          "celebritybitcrush"
-        ]
-      },
       {
         "n": "Drusbă",
         "s": "2026-05-24T22:00:00Z",
@@ -1163,15 +1151,6 @@
     ],
     "dublab": [
       {
-        "n": "Flight Club",
-        "s": "2026-05-24T19:00:00Z",
-        "e": "2026-05-24T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Def Sound",
         "s": "2026-05-24T21:00:00Z",
         "e": "2026-05-24T23:00:00Z",
@@ -1593,16 +1572,6 @@
     ],
     "rinse": [
       {
-        "n": "Taiki Nulight",
-        "s": "2026-05-24T20:00:00Z",
-        "e": "2026-05-24T22:00:00Z",
-        "d": null,
-        "j": "B2B Flava D, Cesco, Nitepunk & Bluff",
-        "u": null,
-        "t": "monthly",
-        "p": "taikinulight"
-      },
-      {
         "n": "Nala Brown",
         "s": "2026-05-24T22:00:00Z",
         "e": "2026-05-24T23:00:00Z",
@@ -1772,15 +1741,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-24T18:00:00Z",
-        "e": "2026-05-24T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-24T22:00:00Z",
