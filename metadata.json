@@ -1,42 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-24T06:53:50.809Z",
+  "updated": "2026-05-24T09:48:11.007Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MARTIN NEWELL'S ODDCASTE",
-        "s": "2026-05-24T07:30:00+01:00",
-        "e": "2026-05-24T08:00:00+01:00",
-        "d": "The Cleaners From Venus frontman presents an eclectic mix of pop music, comedy, and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martin-newells-oddcaste/episodes/martin-newells-oddcaste-24th-may-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "Bumpin' On Sunset (R)",
-        "s": "2026-05-24T08:00:00+01:00",
-        "e": "2026-05-24T09:00:00+01:00",
-        "d": "Bumpin' on Sunset - the home of LA's smoothest soft rock and jazz fusion…it's drive time, baby, play it loud!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bumpin-on-sunset/episodes/bumpin-on-sunset-13th-may-2021",
-        "t": "restream"
-      },
-      {
-        "n": "TIME IS AWAY - DoE 003 (Jonathan Dee untitled cassette)",
-        "s": "2026-05-24T09:00:00+01:00",
-        "e": "2026-05-24T10:00:00+01:00",
-        "d": null,
-        "j": "DoE 003 (Jonathan Dee untitled cassette)",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Radiant Life w/ Ruby Savage",
         "s": "2026-05-24T10:00:00+01:00",
         "e": "2026-05-24T12:00:00+01:00",
-        "d": null,
+        "d": "Get radiant with Ruby Savage's mixed bag of goodies.",
         "j": "Ruby Savage",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ruby-savage/episodes/ruby-savage-24th-may-2026",
         "t": "monthly",
         "p": "rubysavage"
       },
@@ -44,9 +17,9 @@
         "n": "HOUSE CALL",
         "s": "2026-05-24T12:00:00+01:00",
         "e": "2026-05-24T13:00:00+01:00",
-        "d": null,
+        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-24th-may-2026",
         "t": "biweekly"
       },
       {
@@ -175,44 +148,54 @@
         "u": null,
         "t": "restream",
         "p": "adultzonly"
+      },
+      {
+        "n": "Le Jardin w/ Sarah Davachi (R)",
+        "s": "2026-05-25T06:00:00+01:00",
+        "e": "2026-05-25T07:00:00+01:00",
+        "d": null,
+        "j": "Sarah Davachi",
+        "u": null,
+        "t": "restream",
+        "p": "sarahdavachi"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ GANAVYA",
+        "s": "2026-05-25T07:00:00+01:00",
+        "e": "2026-05-25T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ganavya"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-05-25T09:00:00+01:00",
+        "e": "2026-05-25T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
       {
-        "n": "DOLLAR COUNTRY (R)",
-        "s": "2026-05-24T07:00:00+01:00",
-        "e": "2026-05-24T08:00:00+01:00",
-        "d": "All songs by bands with Country or Bluegrass in the name.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dollar-country/episodes/dollar-country-30th-august-2025",
-        "t": "restream"
-      },
-      {
-        "n": "TINNAI W/ GANAVYA (R)",
-        "s": "2026-05-24T08:00:00+01:00",
-        "e": "2026-05-24T09:00:00+01:00",
-        "d": "Hailed as “among modern music's most compelling vocalists (Wall Street Journal) \"extraordinary\" (DownBeat) and \"most enchanting\" (NPR), ganavya is a transdisciplinary scholar, vocalist, word-craftswoman, jalatarangam artist, and double-bassist.  ",
-        "j": "GANAVYA",
-        "u": "https://www.nts.live/api/v2/shows/ganavya/episodes/ganavya-11th-june-2024",
-        "t": "restream",
-        "p": "ganavya"
-      },
-      {
         "n": "Post Punk Britain: Scotland (R)",
         "s": "2026-05-24T09:00:00+01:00",
         "e": "2026-05-24T11:00:00+01:00",
-        "d": null,
+        "d": "A Broad survey of the Scottish post-punk output, covering synth pop, industrial, minimal synth, new wave, goth rock, indie. Featuring obscurities, tracks from well known artists, and a number of interview segments from the era. \nCreated by Are You Before.",
         "j": "Scotland",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/post-punk-in-britain/episodes/post-punk-in-britain-scottish-post-punk-10th-may-2023",
         "t": "restream"
       },
       {
         "n": "The Numero Group - Escape From Synth City (R)",
         "s": "2026-05-24T11:00:00+01:00",
         "e": "2026-05-24T12:00:00+01:00",
-        "d": null,
+        "d": "Chicago-based archival record label, The Numero Group, host a deep-digging once a month show. Expect comprehensive round ups from their crates, picking out the best old music and reissues, as well as some jubilant nerdy record chat.",
         "j": "Escape From Synth City",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/radio-free-numero/episodes/the-numero-group-4th-april-2019",
         "t": "restream"
       },
       {
@@ -344,27 +327,27 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "SOLAR DIN w/ Lý Trang (R)",
+        "s": "2026-05-25T04:00:00+01:00",
+        "e": "2026-05-25T05:00:00+01:00",
+        "d": null,
+        "j": "Lý Trang",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Antinote (R)",
+        "s": "2026-05-25T05:00:00+01:00",
+        "e": "2026-05-25T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-24T04:00:00Z",
-        "e": "2026-05-24T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": " All Fitz",
-        "s": "2026-05-24T07:00:00Z",
-        "e": "2026-05-24T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Housewife (UK)",
         "s": "2026-05-24T09:00:00Z",
@@ -1238,8 +1221,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-24T06:00:00Z",
-        "e": "2026-05-24T08:00:00Z",
+        "s": "2026-05-24T08:00:00Z",
+        "e": "2026-05-24T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1247,8 +1230,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-24T08:00:00Z",
-        "e": "2026-05-24T10:00:00Z",
+        "s": "2026-05-24T10:00:00Z",
+        "e": "2026-05-24T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1695,15 +1678,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-05-24T06:00:00Z",
-        "e": "2026-05-24T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "FYI Robyn",
         "s": "2026-05-24T08:00:00Z",
         "e": "2026-05-24T10:00:00Z",
@@ -1714,20 +1688,21 @@
         "p": "fyirobyn"
       },
       {
-        "n": "Dean Bryce presents Don't Sleep",
+        "n": "Dean Bryce",
         "s": "2026-05-24T10:00:00Z",
         "e": "2026-05-24T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Kerri Chandler",
         "u": null,
-        "t": "monthly"
+        "t": "biweekly",
+        "p": "kerrichandler"
       },
       {
         "n": "Dance Regular",
         "s": "2026-05-24T12:00:00Z",
         "e": "2026-05-24T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Sentinel 793",
         "u": null,
         "t": "biweekly",
         "p": "danceregular"
@@ -1787,7 +1762,7 @@
         "s": "2026-05-24T22:00:00Z",
         "e": "2026-05-24T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "JADA MORAES",
         "u": null,
         "t": "monthly",
         "p": "nalabrown"
@@ -1806,7 +1781,7 @@
         "s": "2026-05-25T00:00:00Z",
         "e": "2026-05-25T01:00:00Z",
         "d": null,
-        "j": null,
+        "j": "TCJ",
         "u": null,
         "t": "biweekly",
         "p": "teklife"
@@ -1953,15 +1928,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-23T22:00:00Z",
-        "e": "2026-05-24T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-24T07:00:00Z",
         "e": "2026-05-24T12:00:00Z",
         "d": null,
@@ -1970,17 +1936,94 @@
         "t": "playlist"
       },
       {
-        "n": "Zohar",
+        "n": "Tom Val",
         "s": "2026-05-24T12:00:00Z",
         "e": "2026-05-24T14:00:00Z",
+        "d": null,
+        "j": "Le Jazz Est Dangereux",
+        "u": null,
+        "t": "monthly",
+        "p": "tomval"
+      },
+      {
+        "n": "Dubquake Records",
+        "s": "2026-05-24T14:00:00Z",
+        "e": "2026-05-24T15:00:00Z",
+        "d": null,
+        "j": "Induh Man",
+        "u": null,
+        "t": "monthly",
+        "p": "dubquakerecords"
+      },
+      {
+        "n": "POLAAR",
+        "s": "2026-05-24T15:00:00Z",
+        "e": "2026-05-24T16:00:00Z",
+        "d": null,
+        "j": "Prettybwoy \"Japan Classics Selection\"",
+        "u": null,
+        "t": "monthly",
+        "p": "polaar"
+      },
+      {
+        "n": "The Bass Society",
+        "s": "2026-05-24T16:00:00Z",
+        "e": "2026-05-24T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "thebasssociety"
+      },
+      {
+        "n": "Ifeoluwa",
+        "s": "2026-05-24T17:00:00Z",
+        "e": "2026-05-24T18:00:00Z",
+        "d": null,
+        "j": "Tears In The Club avec SHE Spells Doom",
+        "u": null,
+        "t": "monthly",
+        "p": "ifeoluwa"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-24T18:00:00Z",
+        "e": "2026-05-24T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-24T22:00:00Z",
+        "e": "2026-05-25T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-25T07:00:00Z",
+        "e": "2026-05-25T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Zohar",
+        "s": "2026-05-25T12:00:00Z",
+        "e": "2026-05-25T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Sentaku",
-        "s": "2026-05-24T14:00:00Z",
-        "e": "2026-05-24T15:00:00Z",
+        "s": "2026-05-25T14:00:00Z",
+        "e": "2026-05-25T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1988,8 +2031,8 @@
       },
       {
         "n": "Soyoon",
-        "s": "2026-05-24T15:00:00Z",
-        "e": "2026-05-24T16:00:00Z",
+        "s": "2026-05-25T15:00:00Z",
+        "e": "2026-05-25T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1997,8 +2040,8 @@
       },
       {
         "n": "HORS-SOL",
-        "s": "2026-05-24T16:00:00Z",
-        "e": "2026-05-24T17:00:00Z",
+        "s": "2026-05-25T16:00:00Z",
+        "e": "2026-05-25T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2007,8 +2050,8 @@
       },
       {
         "n": "TEMƎT",
-        "s": "2026-05-24T17:00:00Z",
-        "e": "2026-05-24T18:00:00Z",
+        "s": "2026-05-25T17:00:00Z",
+        "e": "2026-05-25T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2016,8 +2059,8 @@
       },
       {
         "n": "Miley Serious",
-        "s": "2026-05-24T18:00:00Z",
-        "e": "2026-05-24T19:00:00Z",
+        "s": "2026-05-25T18:00:00Z",
+        "e": "2026-05-25T19:00:00Z",
         "d": null,
         "j": "INVITE TLIM SHUG",
         "u": null,
@@ -2026,8 +2069,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-24T19:00:00Z",
-        "e": "2026-05-24T20:00:00Z",
+        "s": "2026-05-25T19:00:00Z",
+        "e": "2026-05-25T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
