@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-25T08:13:03.687Z",
+  "updated": "2026-05-25T12:56:53.301Z",
   "stations": {
     "nts1": [
       {
@@ -15351,6 +15351,25 @@
         "j": null,
         "u": null,
         "p": "ganavya"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-05-25T09:00:00+01:00",
+        "e": "2026-05-25T11:00:00+01:00",
+        "d": "It's bank holiday Monday in the UK so Flo is off - but enjoy 2 hours of music selected and mixed for your morning enjoyment.",
+        "j": "FLO",
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-25th-may-2026",
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-05-25T11:00:00+01:00",
+        "e": "2026-05-25T13:00:00+01:00",
+        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
+        "j": "John Gómez",
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-25th-may-2026",
+        "t": "weekly"
       }
     ],
     "nts2": [
@@ -33482,6 +33501,34 @@
         "u": null,
         "t": "restream",
         "p": "sofiebirch"
+      },
+      {
+        "n": "SOS Radio (R)",
+        "s": "2026-05-25T09:00:00+01:00",
+        "e": "2026-05-25T11:00:00+01:00",
+        "d": "Stones Throw's Sofie presents SOS Radio - Everywhere Music 4 Every 1. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/sos-radio/episodes/sos-radio-w-sofie-27th-march-2018",
+        "t": "restream"
+      },
+      {
+        "n": "3XL",
+        "s": "2026-05-25T11:00:00+01:00",
+        "e": "2026-05-25T12:00:00+01:00",
+        "d": "Transmissions from the Outer Rim/Inner Edge. “you know the gates themselves are made of flood.” -Nadia Marcus\nFrom the host: a guest mix at 20 mins in w/ nueen who's got a record coming out (long time coming) on 3XL this summer",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/3xl/episodes/3xl-25th-may-2026",
+        "t": "monthly",
+        "p": "3xl"
+      },
+      {
+        "n": "C.A.R. : ON THE SLIP ROAD",
+        "s": "2026-05-25T12:00:00+01:00",
+        "e": "2026-05-25T13:00:00+01:00",
+        "d": null,
+        "j": "ON THE SLIP ROAD",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
@@ -50809,6 +50856,48 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Casual P",
+        "s": "2026-05-25T08:00:00Z",
+        "e": "2026-05-25T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "casualp"
+      },
+      {
+        "n": "Not a Baile Radio Show",
+        "s": "2026-05-25T09:00:00Z",
+        "e": "2026-05-25T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "notabaileradio",
+        "ap": [
+          "notabaileradioshow"
+        ]
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-05-25T10:00:00Z",
+        "e": "2026-05-25T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "ODJO",
+        "s": "2026-05-25T11:00:00Z",
+        "e": "2026-05-25T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "odjo"
       }
     ],
     "dublab": [
@@ -62705,6 +62794,24 @@
         "ap": [
           "ianwellman"
         ]
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-25T07:00:00Z",
+        "e": "2026-05-25T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-25T09:00:00Z",
+        "e": "2026-05-25T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -77560,70 +77667,92 @@
         "p": "danceregular"
       },
       {
-        "n": "Roska",
+        "n": "Isaac Carter",
+        "s": "2026-05-24T13:00:00Z",
+        "e": "2026-05-24T14:00:00Z",
+        "d": null,
+        "j": "Ten Years of GALA Takeover",
+        "u": null,
+        "t": "biweekly",
+        "p": "isaaccarter"
+      },
+      {
+        "n": "Supa D",
         "s": "2026-05-24T14:00:00Z",
         "e": "2026-05-24T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "roska"
+        "t": "monthly"
       },
       {
-        "n": "Flyo",
+        "n": "Ghoulish",
         "s": "2026-05-24T16:00:00Z",
         "e": "2026-05-24T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "flyo"
+        "t": "monthly",
+        "p": "ghoulish"
       },
       {
-        "n": "Plastician",
+        "n": "COIDO",
         "s": "2026-05-24T17:00:00Z",
+        "e": "2026-05-24T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "coido"
+      },
+      {
+        "n": "DJ Sprinter",
+        "s": "2026-05-24T18:00:00Z",
         "e": "2026-05-24T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "plastician"
+        "t": "monthly"
       },
       {
-        "n": "Oblig",
+        "n": "DJ Stingray presents Zone 313",
         "s": "2026-05-24T19:00:00Z",
         "e": "2026-05-24T20:00:00Z",
         "d": null,
-        "j": "Hannah",
+        "j": "IMOGEN",
         "u": null,
-        "t": "weekly",
-        "p": "hannah",
-        "ap": [
-          "oblig"
-        ]
+        "p": "djstingray"
       },
       {
-        "n": "Taiki Nulight",
+        "n": "Paranoid London",
         "s": "2026-05-24T20:00:00Z",
+        "e": "2026-05-24T21:00:00Z",
+        "d": null,
+        "j": "Eau & Gaz",
+        "u": null,
+        "p": "paranoidlondon"
+      },
+      {
+        "n": "HalfPint Presents Roundabout",
+        "s": "2026-05-24T21:00:00Z",
         "e": "2026-05-24T22:00:00Z",
         "d": null,
-        "j": "B2B Flava D, Cesco, Nitepunk & Bluff",
+        "j": null,
         "u": null,
         "t": "monthly",
-        "p": "taikinulight"
+        "p": "halfpint"
       },
       {
-        "n": "Nala Brown",
+        "n": "Left, Right & Centre",
         "s": "2026-05-24T22:00:00Z",
         "e": "2026-05-24T23:00:00Z",
         "d": null,
-        "j": "JADA MORAES",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "nalabrown"
+        "t": "monthly"
       },
       {
-        "n": "NLDC",
+        "n": "TMSV",
         "s": "2026-05-24T23:00:00Z",
         "e": "2026-05-25T00:00:00Z",
         "d": null,
@@ -77632,14 +77761,14 @@
         "t": "monthly"
       },
       {
-        "n": "TEKLIFE",
+        "n": "Nala Brown",
         "s": "2026-05-25T00:00:00Z",
         "e": "2026-05-25T01:00:00Z",
         "d": null,
-        "j": "TCJ",
+        "j": "JADA MORAES",
         "u": null,
         "t": "biweekly",
-        "p": "teklife"
+        "p": "nalabrown"
       },
       {
         "n": "Electronic Playlist",
@@ -77651,13 +77780,14 @@
         "t": "playlist"
       },
       {
-        "n": "Angel D'lite",
+        "n": "TEKLIFE",
         "s": "2026-05-25T05:00:00Z",
         "e": "2026-05-25T06:00:00Z",
         "d": null,
-        "j": null,
+        "j": "TCJ",
         "u": null,
-        "t": "weekly"
+        "t": "biweekly",
+        "p": "teklife"
       },
       {
         "n": "Playlist",
@@ -77667,6 +77797,34 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Papaoul",
+        "s": "2026-05-25T08:00:00Z",
+        "e": "2026-05-25T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Jumbi",
+        "s": "2026-05-25T10:00:00Z",
+        "e": "2026-05-25T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Anastazja",
+        "s": "2026-05-25T11:00:00Z",
+        "e": "2026-05-25T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "anastazja"
       }
     ],
     "rinsefr": [
@@ -86320,6 +86478,15 @@
         "n": "Playlist France",
         "s": "2026-05-24T19:00:00Z",
         "e": "2026-05-25T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-25T07:00:00Z",
+        "e": "2026-05-25T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
