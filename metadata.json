@@ -1,55 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-26T07:36:38.769Z",
+  "updated": "2026-05-26T14:47:07.333Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-05-26T07:00:00+01:00",
-        "e": "2026-05-26T09:00:00+01:00",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-26th-may-2026",
-        "t": "weekly",
-        "p": "mariasomerville"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-05-26T09:00:00+01:00",
-        "e": "2026-05-26T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-26th-may-2026",
-        "t": "regular",
-        "p": "flo"
-      },
-      {
-        "n": "SOUP TO NUTS W/ ANU",
-        "s": "2026-05-26T11:00:00+01:00",
-        "e": "2026-05-26T13:00:00+01:00",
-        "d": null,
-        "j": "ANU",
-        "u": null,
-        "t": "weekly",
-        "p": "anu"
-      },
-      {
-        "n": "Low Life Loves You w/ Bill Brewster",
-        "s": "2026-05-26T13:00:00+01:00",
-        "e": "2026-05-26T15:00:00+01:00",
-        "d": null,
-        "j": "Bill Brewster",
-        "u": null,
-        "t": "monthly",
-        "p": "billbrewster"
-      },
       {
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-05-26T15:00:00+01:00",
         "e": "2026-05-26T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.\nFrom the host: \"Some recent favorites, old and new, that I've been returning to this spring. A little bit of everything: deep cuts and new discoveries.\"",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-26th-may-2026",
         "t": "weekly",
         "p": "margeaux"
       },
@@ -57,9 +17,9 @@
         "n": "Exploring Earth Through Sound w/ Machi: Eclectic Sounds From Anywhere",
         "s": "2026-05-26T16:00:00+01:00",
         "e": "2026-05-26T17:00:00+01:00",
-        "d": null,
+        "d": "Machi is an Argentine who grew up in Brazil, Colombia, Miami (US), and is now based in Paris. He's on a mission to explore music from every corner of the globe while seeing how it's shaped by the culture, history, geography, and people of the places it comes from. He hopes encouraging people to be more open-minded about music can help them be more open-minded about the world. The episodes will either explore diverse & eclectic selections of music from all around the world, or focus on one (or a few) specific scenes in particular. I'm particularly interested not just in the \"typical\" music of places, but on how these sounds clashed with those that spread around the world in the 20th century, like rock, jazz, disco, funk, and many more.\nFrom the host: \"A mix of colorful & unique sounds from all corners of the globe.\nIncludes music from: Germany, Suriname, Togo, Kazakhshtan, Uruguay, Belarus, Italy, Hong Kong, Greenland, Hungary, Thailand, Pakistan, Palestine, Nicaragua, Sweden.\"",
         "j": "Machi",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/machi/episodes/machi-26th-may-2026",
         "t": "monthly",
         "p": "machi"
       },
@@ -166,71 +126,64 @@
         "j": "SPIRIT BLUE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO & LEAO (LIVE)",
+        "s": "2026-05-27T09:00:00+01:00",
+        "e": "2026-05-27T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-05-27T11:00:00+01:00",
+        "e": "2026-05-27T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-05-27T13:00:00+01:00",
+        "e": "2026-05-27T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
+      },
+      {
+        "n": "RHYTHM SECTION w/ Zoos",
+        "s": "2026-05-27T14:00:00+01:00",
+        "e": "2026-05-27T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "TUFF SHED (R)",
-        "s": "2026-05-26T08:00:00+01:00",
-        "e": "2026-05-26T10:00:00+01:00",
-        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-21st-october-2025",
-        "t": "restream",
-        "p": "tuffshed"
-      },
-      {
-        "n": "AN1MA (R)",
-        "s": "2026-05-26T10:00:00+01:00",
-        "e": "2026-05-26T11:00:00+01:00",
-        "d": "integration sounds from the source; an invitation into the shadow.\nFrom the host: \"<3\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-1st-december-2025",
-        "t": "restream"
-      },
-      {
-        "n": "TRUE AS FEW W/ MARK",
-        "s": "2026-05-26T11:00:00+01:00",
-        "e": "2026-05-26T12:00:00+01:00",
-        "d": null,
-        "j": "MARK",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "GREAT SOUTHERN LANDS W/ JAMES W",
-        "s": "2026-05-26T12:00:00+01:00",
-        "e": "2026-05-26T13:00:00+01:00",
-        "d": null,
-        "j": "JAMES W",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "ARRHYTHMIA",
-        "s": "2026-05-26T13:00:00+01:00",
-        "e": "2026-05-26T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "arrhythmia"
-      },
-      {
         "n": "Miles Davis at 100: The Early Years 1946-1955",
         "s": "2026-05-26T15:00:00+01:00",
         "e": "2026-05-26T16:00:00+01:00",
-        "d": null,
+        "d": "This opening episode traces the early years of Miles Davis, from his first recordings as a young trumpeter in the 1940s through to the sessions that established his unmistakable voice in modern jazz. Mixed and compiled by NTS.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/miles-davis-100/episodes/miles-davis-100-the-early-years-1946-1955-26th-may-2026"
       },
       {
         "n": "Miles Davis at 100: The Breakthrough",
         "s": "2026-05-26T16:00:00+01:00",
         "e": "2026-05-26T18:00:00+01:00",
-        "d": null,
+        "d": "This show follows Miles Davis as he steps fully into his role as bandleader, moving through the groups, sessions and recordings that shaped his breakthrough period, including the road towards Kind of Blue. Mixed and compiled by NTS.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/miles-davis-100/episodes/miles-davis-100-the-breakthrough-26th-may-2026"
       },
       {
         "n": "Miles Davis at 100: The Electric Period",
@@ -326,69 +279,57 @@
         "j": "CAMI LAYÉ OKÚN",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Forager Records (R)",
+        "s": "2026-05-27T08:00:00+01:00",
+        "e": "2026-05-27T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "foragerrecords"
+      },
+      {
+        "n": "A Colourful Storm - Mysterious Skin (R)",
+        "s": "2026-05-27T09:00:00+01:00",
+        "e": "2026-05-27T10:00:00+01:00",
+        "d": null,
+        "j": "Mysterious Skin",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Jim O'Rourke Steamroom (R)",
+        "s": "2026-05-27T10:00:00+01:00",
+        "e": "2026-05-27T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Still Light w/ Shida Shahabi",
+        "s": "2026-05-27T11:00:00+01:00",
+        "e": "2026-05-27T12:00:00+01:00",
+        "d": null,
+        "j": "Shida Shahabi",
+        "u": null,
+        "t": "monthly",
+        "p": "shidashahabi"
+      },
+      {
+        "n": "HTRK",
+        "s": "2026-05-27T12:00:00+01:00",
+        "e": "2026-05-27T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "htrk"
       }
     ],
     "subtle": [
-      {
-        "n": "Azadi Sound",
-        "s": "2026-05-26T07:00:00Z",
-        "e": "2026-05-26T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "azadisound"
-      },
-      {
-        "n": "Scampi",
-        "s": "2026-05-26T08:00:00Z",
-        "e": "2026-05-26T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "scampi"
-      },
-      {
-        "n": "Posh Mornings",
-        "s": "2026-05-26T09:00:00Z",
-        "e": "2026-05-26T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "poshmornings"
-      },
-      {
-        "n": "Local Movements",
-        "s": "2026-05-26T10:00:00Z",
-        "e": "2026-05-26T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "localmovements"
-      },
-      {
-        "n": "Liquid Vault w/ Half-Life",
-        "s": "2026-05-26T12:00:00Z",
-        "e": "2026-05-26T13:00:00Z",
-        "d": null,
-        "j": "Half",
-        "u": null,
-        "t": "monthly",
-        "p": "half"
-      },
-      {
-        "n": "Silk Road Sessions w/ YVES",
-        "s": "2026-05-26T13:00:00Z",
-        "e": "2026-05-26T14:00:00Z",
-        "d": null,
-        "j": "YVES",
-        "u": null,
-        "t": "monthly",
-        "p": "yves"
-      },
       {
         "n": "sophie",
         "s": "2026-05-26T14:00:00Z",
@@ -839,6 +780,15 @@
         "t": "monthly"
       },
       {
+        "n": "The Watercourse Way w/ Jamie Nu",
+        "s": "2026-05-29T09:00:00Z",
+        "e": "2026-05-29T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "thewatercourseway"
+      },
+      {
         "n": "SB Gentil",
         "s": "2026-05-29T14:00:00Z",
         "e": "2026-05-29T16:00:00Z",
@@ -1079,14 +1029,12 @@
         "p": "glosssd"
       },
       {
-        "n": "JDubz",
+        "n": "OneForty+",
         "s": "2026-06-01T19:00:00Z",
         "e": "2026-06-01T20:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "jdubz"
+        "u": null
       },
       {
         "n": "Polo Jaffa",
@@ -1159,22 +1107,78 @@
         "j": "Indiescotheque",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TorbM",
+        "s": "2026-06-02T08:00:00Z",
+        "e": "2026-06-02T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Leiiila",
+        "s": "2026-06-02T09:00:00Z",
+        "e": "2026-06-02T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "leiiila"
+      },
+      {
+        "n": "Octoroots",
+        "s": "2026-06-02T10:00:00Z",
+        "e": "2026-06-02T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Jakesy",
+        "s": "2026-06-02T11:00:00Z",
+        "e": "2026-06-02T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Bass Exchange",
+        "s": "2026-06-02T12:00:00Z",
+        "e": "2026-06-02T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bassexchange"
+      },
+      {
+        "n": "Aural Cynosures w/ ALITH BERNDARN",
+        "s": "2026-06-02T13:00:00Z",
+        "e": "2026-06-02T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Nicked Fawlty",
+        "s": "2026-06-02T14:00:00Z",
+        "e": "2026-06-02T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nickedfawlty"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-26T07:00:00Z",
-        "e": "2026-05-26T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-05-26T09:00:00Z",
-        "e": "2026-05-26T11:00:00Z",
+        "s": "2026-05-26T13:00:00Z",
+        "e": "2026-05-26T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1580,67 +1584,11 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-05-26T06:00:00Z",
-        "e": "2026-05-26T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Papaoul",
-        "s": "2026-05-26T08:00:00Z",
-        "e": "2026-05-26T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Jumbi",
-        "s": "2026-05-26T10:00:00Z",
-        "e": "2026-05-26T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Anastazja",
-        "s": "2026-05-26T11:00:00Z",
-        "e": "2026-05-26T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "anastazja"
-      },
-      {
-        "n": "Savannah Blake",
-        "s": "2026-05-26T12:00:00Z",
-        "e": "2026-05-26T13:00:00Z",
-        "d": null,
-        "j": "Col3trane",
-        "u": null,
-        "t": "biweekly",
-        "p": "savannahblake"
-      },
-      {
-        "n": "Kojay",
-        "s": "2026-05-26T13:00:00Z",
-        "e": "2026-05-26T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "kojay"
-      },
-      {
         "n": "Brighter Days Family",
         "s": "2026-05-26T14:00:00Z",
         "e": "2026-05-26T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "2Simila",
         "u": null,
         "t": "weekly",
         "p": "brighterdaysfamily"
@@ -1669,7 +1617,7 @@
         "s": "2026-05-26T18:00:00Z",
         "e": "2026-05-26T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Shonky & Alexander Skancke",
         "u": null,
         "t": "monthly",
         "p": "apollonia"
@@ -1760,7 +1708,7 @@
         "s": "2026-05-27T08:00:00Z",
         "e": "2026-05-27T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Laalls",
         "u": null,
         "t": "weekly",
         "p": "esk"
@@ -1877,43 +1825,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-05-26T07:00:00Z",
-        "e": "2026-05-26T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-05-26T10:00:00Z",
-        "e": "2026-05-26T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Anna Majidson",
-        "s": "2026-05-26T12:00:00Z",
-        "e": "2026-05-26T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "honeymel",
-        "s": "2026-05-26T13:00:00Z",
-        "e": "2026-05-26T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "honeymel"
-      },
-      {
         "n": "Romeoradio with Louis Romeo",
         "s": "2026-05-26T14:00:00Z",
         "e": "2026-05-26T15:00:00Z",
@@ -1926,7 +1837,7 @@
         "s": "2026-05-26T15:00:00Z",
         "e": "2026-05-26T16:00:00Z",
         "d": null,
-        "j": "Secret Gems Show",
+        "j": "présente Secret Gems Show avec Calde",
         "u": null,
         "t": "monthly",
         "p": "lorkestra"
@@ -1956,7 +1867,7 @@
         "s": "2026-05-26T18:00:00Z",
         "e": "2026-05-26T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Easy Life w/ NVST",
         "u": null,
         "t": "monthly",
         "p": "nvst"
@@ -2020,7 +1931,7 @@
         "s": "2026-05-27T15:00:00Z",
         "e": "2026-05-27T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ondi Kwa Show par Lola Ondi Kwa invite : (D)Juno - words of Azia - Kimberley Kipré",
         "u": null,
         "t": "biweekly"
       },
@@ -2029,7 +1940,7 @@
         "s": "2026-05-27T16:00:00Z",
         "e": "2026-05-27T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "D'n'B & Hip Hop instrumentals-vinyl only (Split #5)",
         "u": null,
         "t": "monthly",
         "p": "feadz"
