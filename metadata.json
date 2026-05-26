@@ -1,41 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-05-26T21:29:01.308Z",
+  "updated": "2026-05-26T23:02:01.436Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Soltera y Su Sonido Sex",
-        "s": "2026-05-26T22:00:00+01:00",
-        "e": "2026-05-26T23:00:00+01:00",
-        "d": "Down and dirty club sounds in the studio, courtesy of US/Colombian duo Solter y Sonido Sex.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/soltera-y-su-sonido-sexual-26th-may-2026",
-        "p": "soltera"
-      },
-      {
-        "n": "ELENA COLOMBI",
-        "s": "2026-05-26T23:00:00+01:00",
-        "e": "2026-05-27T00:00:00+01:00",
-        "d": "Elena Colombi helps to keep nights weird - expect a diverse range of up-and-at-'em records: from techno to post-punk, through EBM, industrial and -wave…\nFrom the host: \"LIVE AT SOUP MANCHESTER…excerpt recording of a special night ~ I hope you enjoy it!! <3\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/elena-colombi/episodes/elena-colombi-26th-may-2026",
-        "p": "elenacolombi"
-      },
       {
         "n": "The Kronicles w/ DJ Amir: Summer Vibes",
         "s": "2026-05-27T00:00:00+01:00",
         "e": "2026-05-27T01:00:00+01:00",
-        "d": null,
+        "d": "Sample excavator, music historian, and compilation curator DJ Amir selects a few influences each month - from house to disco, hip-hop to jazz.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-kronicles-featuring-dj-amir/episodes/the-kronicles-featuring-dj-amir-27th-may-2026"
       },
       {
         "n": "Minimal Effort 'Hallow Be Thy Wave…' (R)",
         "s": "2026-05-27T01:00:00+01:00",
         "e": "2026-05-27T03:00:00+01:00",
-        "d": null,
+        "d": "Ira demonstrates how to do extra soulful with a masterclass in vibes. It's easy when you know how.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/minimal-effort/episodes/minimal-effort-31st-october-2025",
         "t": "restream",
         "p": "minimaleffort"
       },
@@ -169,19 +151,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Rắn Cạp Đuôi",
+        "s": "2026-05-28T03:00:00+01:00",
+        "e": "2026-05-28T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Women of Video Game Music: Capcom Sound Team (R)",
+        "s": "2026-05-28T04:00:00+01:00",
+        "e": "2026-05-28T05:00:00+01:00",
+        "d": null,
+        "j": "Capcom Sound Team",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "BRWN w/ Ahwlee & Pink Siifu",
-        "s": "2026-05-26T22:00:00+01:00",
-        "e": "2026-05-27T00:00:00+01:00",
-        "d": "Ahwlee & Pink Siifu (B. Cool-Aid) head up BRWN, exploring hip hop's varied and far-reaching experimental corners - live once a month from Los Angeles.",
-        "j": "Ahwlee & Pink Siifu",
-        "u": "https://www.nts.live/api/v2/shows/brwn",
-        "t": "monthly",
-        "p": "brwn"
-      },
       {
         "n": "West Coast Fog: Deep Within",
         "s": "2026-05-27T00:00:00+01:00",
@@ -195,9 +184,10 @@
         "n": "RVNG Intl. Presents Friends & Fiends w/ Discovery Zone",
         "s": "2026-05-27T01:00:00+01:00",
         "e": "2026-05-27T02:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "RVNG Intl. presents Friends & Fiends, a monthly guest hosted show spotlighting resident artists and heads orbiting the label’s universe of forward-reaching, free, and (generally) fried music. ",
+        "j": "Discovery Zone",
+        "u": "https://www.nts.live/api/v2/shows/rvngintl/episodes/rvngintl-27th-may-2026",
+        "t": "monthly"
       },
       {
         "n": "Blooming in Filth w/ Ali Michael (Whorseteeth)",
@@ -333,29 +323,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "BLUE SCREEN w/ AMAR",
+        "s": "2026-05-27T19:00:00+01:00",
+        "e": "2026-05-27T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "bluescreen"
       }
     ],
     "subtle": [
-      {
-        "n": "OVN",
-        "s": "2026-05-26T21:00:00Z",
-        "e": "2026-05-26T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "ovn"
-      },
-      {
-        "n": "ATKINS",
-        "s": "2026-05-26T22:00:00Z",
-        "e": "2026-05-26T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "atkins"
-      },
       {
         "n": "GFTV w/ Neon Beats",
         "s": "2026-05-26T23:00:00Z",
@@ -1185,22 +1164,28 @@
         "u": null,
         "t": "monthly",
         "p": "stanton"
+      },
+      {
+        "n": "Minuscule Music Show with Bondy",
+        "s": "2026-06-02T22:00:00Z",
+        "e": "2026-06-02T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "KUBA KONOFALSKI",
+        "s": "2026-06-02T23:00:00Z",
+        "e": "2026-06-03T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kubakonofalski"
       }
     ],
     "dublab": [
-      {
-        "n": "Photay - Extravagant Frequencies",
-        "s": "2026-05-26T21:00:00Z",
-        "e": "2026-05-26T23:00:00Z",
-        "d": null,
-        "j": "Extravagant Frequencies",
-        "u": null,
-        "t": "monthly",
-        "p": "photay",
-        "ap": [
-          "extravagantfrequencies"
-        ]
-      },
       {
         "n": "Hoseh - Version Sounds",
         "s": "2026-05-26T23:00:00Z",
@@ -1612,29 +1597,19 @@
         "u": null,
         "t": "monthly",
         "p": "protectme"
+      },
+      {
+        "n": "Hoseh - Version Sounds",
+        "s": "2026-06-02T23:00:00Z",
+        "e": "2026-06-03T01:00:00Z",
+        "d": null,
+        "j": "Version Sounds",
+        "u": null,
+        "t": "weekly",
+        "p": "hoseh"
       }
     ],
     "rinse": [
-      {
-        "n": "Sarra Wild",
-        "s": "2026-05-26T21:00:00Z",
-        "e": "2026-05-26T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sarrawild"
-      },
-      {
-        "n": "Swimful",
-        "s": "2026-05-26T22:00:00Z",
-        "e": "2026-05-26T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "swimful"
-      },
       {
         "n": "Diffrent",
         "s": "2026-05-26T23:00:00Z",
@@ -1642,7 +1617,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "diffrent"
       },
       {
@@ -1804,6 +1779,172 @@
         "j": "untitled",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "OSSX",
+        "s": "2026-05-27T23:00:00Z",
+        "e": "2026-05-28T00:00:00Z",
+        "d": null,
+        "j": "TROMAC",
+        "u": null,
+        "t": "monthly",
+        "p": "ossx"
+      },
+      {
+        "n": "Swimful",
+        "s": "2026-05-28T00:00:00Z",
+        "e": "2026-05-28T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "swimful"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-05-28T01:00:00Z",
+        "e": "2026-05-28T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Diffrent",
+        "s": "2026-05-28T05:00:00Z",
+        "e": "2026-05-28T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "diffrent"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-05-28T06:00:00Z",
+        "e": "2026-05-28T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Yazmin Lacey",
+        "s": "2026-05-28T08:00:00Z",
+        "e": "2026-05-28T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "yazminlacey"
+      },
+      {
+        "n": "Chunky",
+        "s": "2026-05-28T10:00:00Z",
+        "e": "2026-05-28T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "chunky"
+      },
+      {
+        "n": "Rollo Jackson",
+        "s": "2026-05-28T11:00:00Z",
+        "e": "2026-05-28T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "rollojackson"
+      },
+      {
+        "n": "SK Vibemaker",
+        "s": "2026-05-28T12:00:00Z",
+        "e": "2026-05-28T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "skvibemaker"
+      },
+      {
+        "n": "Keyrah",
+        "s": "2026-05-28T13:00:00Z",
+        "e": "2026-05-28T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "keyrah"
+      },
+      {
+        "n": "Tom Ravenscroft",
+        "s": "2026-05-28T14:00:00Z",
+        "e": "2026-05-28T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "tomravenscroft"
+      },
+      {
+        "n": "Mona Yim",
+        "s": "2026-05-28T16:00:00Z",
+        "e": "2026-05-28T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "monayim"
+      },
+      {
+        "n": "Chamber45",
+        "s": "2026-05-28T17:00:00Z",
+        "e": "2026-05-28T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "chamber45"
+      },
+      {
+        "n": "JAEL",
+        "s": "2026-05-28T18:00:00Z",
+        "e": "2026-05-28T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "NIKS",
+        "s": "2026-05-28T20:00:00Z",
+        "e": "2026-05-28T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "niks"
+      },
+      {
+        "n": "Lil Silva",
+        "s": "2026-05-28T21:00:00Z",
+        "e": "2026-05-28T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "lilsilva"
+      },
+      {
+        "n": "Mixtress",
+        "s": "2026-05-28T22:00:00Z",
+        "e": "2026-05-28T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "mixtress"
       }
     ],
     "rinsefr": [
@@ -1835,67 +1976,60 @@
         "t": "playlist"
       },
       {
-        "n": "MENTAL HEALTH RADIO par Stencia",
+        "n": "TONAK.fm",
         "s": "2026-05-27T12:00:00Z",
-        "e": "2026-05-27T13:00:00Z",
+        "e": "2026-05-27T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "WEDOMiEL",
-        "s": "2026-05-27T13:00:00Z",
-        "e": "2026-05-27T14:00:00Z",
-        "d": null,
-        "j": "avec Clumsy B & MATSANDO!",
-        "u": null,
-        "t": "monthly",
-        "p": "wedomiel"
-      },
-      {
-        "n": "Vanyfox",
+        "n": "Naomi",
         "s": "2026-05-27T14:00:00Z",
         "e": "2026-05-27T15:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "présente R&B Gems",
+        "u": null,
+        "t": "monthly",
+        "p": "naomi"
       },
       {
-        "n": "Lola Ondikwa",
+        "n": "Kaïlys",
         "s": "2026-05-27T15:00:00Z",
         "e": "2026-05-27T16:00:00Z",
         "d": null,
-        "j": "Ondi Kwa Show par Lola Ondi Kwa invite : (D)Juno - words of Azia - Kimberley Kipré",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Scarlett",
+        "s": "2026-05-27T16:00:00Z",
+        "e": "2026-05-27T17:00:00Z",
+        "d": null,
+        "j": null,
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "Feadz",
-        "s": "2026-05-27T16:00:00Z",
-        "e": "2026-05-27T17:00:00Z",
-        "d": null,
-        "j": "D'n'B & Hip Hop instrumentals-vinyl only (Split #5)",
-        "u": null,
-        "t": "monthly",
-        "p": "feadz"
-      },
-      {
-        "n": "GЯEG",
+        "n": "Roulita",
         "s": "2026-05-27T17:00:00Z",
         "e": "2026-05-27T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite RUBBERAX",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "De Grandi",
+        "n": "To Van Kao",
         "s": "2026-05-27T18:00:00Z",
         "e": "2026-05-27T19:00:00Z",
         "d": null,
-        "j": "De Grandi b2b Xea",
-        "u": null
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "tovankao"
       },
       {
         "n": "Playlist France",
