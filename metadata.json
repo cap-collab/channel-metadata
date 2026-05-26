@@ -1,44 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-26T02:27:23.645Z",
+  "updated": "2026-05-26T07:36:38.769Z",
   "stations": {
     "nts1": [
-      {
-        "n": "5 GATE TEMPLE (R)",
-        "s": "2026-05-26T03:00:00+01:00",
-        "e": "2026-05-26T05:00:00+01:00",
-        "d": "2 hour bi-monthly excursions into sound and dissonance. Music label with John T. Gast. Regular guest selections from friends and affiliates.\nFrom the host: \"John T. Gast w/ full 2 hours. Live recording from recent EC1 excursion.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/5-gate-temple/episodes/5-gate-temple-30th-september-2025",
-        "t": "restream"
-      },
-      {
-        "n": "WAVE FORM W/ AURÉLIEN ARBET & PIERRE ROUSSEAU (R)",
-        "s": "2026-05-26T05:00:00+01:00",
-        "e": "2026-05-26T06:00:00+01:00",
-        "d": "During 'Wave Form', Aurélien Arbet and Pierre Rousseau explore an interpolation of various recordings, often at the margins of traditional formats and conventional styles of music. During an hour, a long oscillation is formed out of a selection of interviews, spoken word, poetry, music for dance or art, marginal pop attempts and various field recordings.\nAurélien Arbet is an art director, co-founder of the clothing brand and publishing house Études. Pierre Rousseau is a composer, producer and sound designer, crafting sounds for records, films, and art projects.",
-        "j": "AURÉLIEN ARBET & PIERRE ROUSSEAU",
-        "u": "https://www.nts.live/api/v2/shows/wave-form/episodes/wave-form-27th-july-2024",
-        "t": "restream",
-        "p": "waveform"
-      },
-      {
-        "n": "SOPHIA ZHURAVKOVA w/ Rhucle (R)",
-        "s": "2026-05-26T06:00:00+01:00",
-        "e": "2026-05-26T07:00:00+01:00",
-        "d": null,
-        "j": "Rhucle",
-        "u": null,
-        "t": "restream",
-        "p": "sophiazhuravkova"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-05-26T07:00:00+01:00",
         "e": "2026-05-26T09:00:00+01:00",
-        "d": null,
+        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
         "j": "MARIA SOMERVILLE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-26th-may-2026",
         "t": "weekly",
         "p": "mariasomerville"
       },
@@ -46,9 +17,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-05-26T09:00:00+01:00",
         "e": "2026-05-26T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-26th-may-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -89,7 +60,8 @@
         "d": null,
         "j": "Machi",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "machi"
       },
       {
         "n": "QUEST NO MORE W/ ELHEIST",
@@ -167,62 +139,43 @@
         "u": null,
         "t": "restream",
         "p": "minimaleffort"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Akito w/ Aeonfade",
-        "s": "2026-05-26T03:00:00+01:00",
-        "e": "2026-05-26T04:00:00+01:00",
-        "d": "Get to know Akito Hearnshaw - chief of the minimal club tracks. Tune in for his selections of burnt out, distorted, rhythmic movers. Bitcrushed, resonant snares clap and kicks punch…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/akito/episodes/akito-26th-may-2026",
-        "p": "akito"
       },
       {
-        "n": "Trekkie Trax",
-        "s": "2026-05-26T04:00:00+01:00",
-        "e": "2026-05-26T05:00:00+01:00",
-        "d": "Seimei, co-founder of prolific Tokyo label Trekkie Trax turns in a mix celebrating the best of the seminal club collective, featuring bass, techno, UK funky and club sounds from Fetus, Oyubi, Andrew, Carpainter and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/trekkie-trax-26th-may-2026"
-      },
-      {
-        "n": "Tears in the Club w/ Jeune Pouce (R)",
-        "s": "2026-05-26T05:00:00+01:00",
-        "e": "2026-05-26T06:00:00+01:00",
+        "n": "We Are… w/ Paul Camo (R)",
+        "s": "2026-05-27T03:00:00+01:00",
+        "e": "2026-05-27T05:00:00+01:00",
         "d": null,
-        "j": "Jeune Pouce",
-        "u": null,
-        "t": "restream",
-        "p": "jeunepouce"
-      },
-      {
-        "n": "Mishka  (R)",
-        "s": "2026-05-26T06:00:00+01:00",
-        "e": "2026-05-26T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "mishka"
-      },
-      {
-        "n": "Kiss Cafe w/ Maraschino (R)",
-        "s": "2026-05-26T07:00:00+01:00",
-        "e": "2026-05-26T08:00:00+01:00",
-        "d": null,
-        "j": "Maraschino",
+        "j": "Paul Camo",
         "u": null,
         "t": "restream"
       },
       {
-        "n": "TUFF SHED (R)",
-        "s": "2026-05-26T08:00:00+01:00",
-        "e": "2026-05-26T10:00:00+01:00",
+        "n": "SOUNDS OF THE DAWN (R)",
+        "s": "2026-05-27T05:00:00+01:00",
+        "e": "2026-05-27T07:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2026-05-27T07:00:00+01:00",
+        "e": "2026-05-27T09:00:00+01:00",
+        "d": null,
+        "j": "SPIRIT BLUE",
+        "u": null,
+        "t": "weekly"
+      }
+    ],
+    "nts2": [
+      {
+        "n": "TUFF SHED (R)",
+        "s": "2026-05-26T08:00:00+01:00",
+        "e": "2026-05-26T10:00:00+01:00",
+        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-21st-october-2025",
         "t": "restream",
         "p": "tuffshed"
       },
@@ -230,9 +183,9 @@
         "n": "AN1MA (R)",
         "s": "2026-05-26T10:00:00+01:00",
         "e": "2026-05-26T11:00:00+01:00",
-        "d": null,
+        "d": "integration sounds from the source; an invitation into the shadow.\nFrom the host: \"<3\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-1st-december-2025",
         "t": "restream"
       },
       {
@@ -329,39 +282,53 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Wheelchair Sports Camp",
+        "s": "2026-05-27T03:00:00+01:00",
+        "e": "2026-05-27T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DEMYSTIFICATION: BAILE DE CORREDOR SPECIAL",
+        "s": "2026-05-27T04:00:00+01:00",
+        "e": "2026-05-27T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Word of Command - Birthday Special",
+        "s": "2026-05-27T05:00:00+01:00",
+        "e": "2026-05-27T06:00:00+01:00",
+        "d": null,
+        "j": "Birthday Special",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Trinh - Calling All Angels (R)",
+        "s": "2026-05-27T06:00:00+01:00",
+        "e": "2026-05-27T07:00:00+01:00",
+        "d": null,
+        "j": "Calling All Angels",
+        "u": null,
+        "t": "restream",
+        "p": "trinh"
+      },
+      {
+        "n": "INSOLAR w/ CAMI LAYÉ OKÚN (R)",
+        "s": "2026-05-27T07:00:00+01:00",
+        "e": "2026-05-27T08:00:00+01:00",
+        "d": null,
+        "j": "CAMI LAYÉ OKÚN",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": " Scangelous",
-        "s": "2026-05-26T02:00:00Z",
-        "e": "2026-05-26T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "scangelous"
-      },
-      {
-        "n": "ALBH",
-        "s": "2026-05-26T03:00:00Z",
-        "e": "2026-05-26T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "albh"
-      },
-      {
-        "n": "Ms Chief",
-        "s": "2026-05-26T06:00:00Z",
-        "e": "2026-05-26T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "mschief"
-      },
       {
         "n": "Azadi Sound",
         "s": "2026-05-26T07:00:00Z",
@@ -1174,28 +1141,44 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Cartwright ",
+        "s": "2026-06-02T04:00:00Z",
+        "e": "2026-06-02T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Bristalo w/ Indiescotheque",
+        "s": "2026-06-02T06:00:00Z",
+        "e": "2026-06-02T07:00:00Z",
+        "d": null,
+        "j": "Indiescotheque",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "El Cocodrilo – Tropisónico",
-        "s": "2026-05-26T01:00:00Z",
-        "e": "2026-05-26T03:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-26T07:00:00Z",
+        "e": "2026-05-26T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "elcocodrilo"
+        "t": "playlist"
       },
       {
-        "n": "Aaron Paar - Stomping Grounds",
-        "s": "2026-05-26T03:00:00Z",
-        "e": "2026-05-26T05:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-05-26T09:00:00Z",
+        "e": "2026-05-26T11:00:00Z",
         "d": null,
-        "j": "Stomping Grounds",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "aaronpaar"
+        "t": "playlist"
       },
       {
         "n": "Davina Two Bears - Indigenous Voice",
@@ -1573,28 +1556,29 @@
         "u": null,
         "t": "monthly",
         "p": "trovarsi"
+      },
+      {
+        "n": "Monalisa Murray - Paths of Rhythm",
+        "s": "2026-06-02T03:00:00Z",
+        "e": "2026-06-02T05:00:00Z",
+        "d": null,
+        "j": "Paths of Rhythm",
+        "u": null,
+        "t": "monthly",
+        "p": "monalisa"
+      },
+      {
+        "n": "Jenny NONO - SS Extension Course",
+        "s": "2026-06-02T05:00:00Z",
+        "e": "2026-06-02T07:00:00Z",
+        "d": null,
+        "j": "SS Extension Course",
+        "u": null,
+        "t": "monthly",
+        "p": "jennynono"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-05-26T01:00:00Z",
-        "e": "2026-05-26T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "TEKLIFE",
-        "s": "2026-05-26T05:00:00Z",
-        "e": "2026-05-26T06:00:00Z",
-        "d": null,
-        "j": "TCJ",
-        "u": null,
-        "t": "biweekly",
-        "p": "teklife"
-      },
       {
         "n": "Playlist",
         "s": "2026-05-26T06:00:00Z",
@@ -1894,15 +1878,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-25T19:00:00Z",
-        "e": "2026-05-26T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-26T07:00:00Z",
         "e": "2026-05-26T10:00:00Z",
         "d": null,
@@ -1920,9 +1895,103 @@
         "t": "playlist"
       },
       {
-        "n": "MENTAL HEALTH RADIO par Stencia",
+        "n": "Anna Majidson",
         "s": "2026-05-26T12:00:00Z",
         "e": "2026-05-26T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "honeymel",
+        "s": "2026-05-26T13:00:00Z",
+        "e": "2026-05-26T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "honeymel"
+      },
+      {
+        "n": "Romeoradio with Louis Romeo",
+        "s": "2026-05-26T14:00:00Z",
+        "e": "2026-05-26T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Lorkestra",
+        "s": "2026-05-26T15:00:00Z",
+        "e": "2026-05-26T16:00:00Z",
+        "d": null,
+        "j": "Secret Gems Show",
+        "u": null,
+        "t": "monthly",
+        "p": "lorkestra"
+      },
+      {
+        "n": "Rebequita",
+        "s": "2026-05-26T16:00:00Z",
+        "e": "2026-05-26T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "rebequita"
+      },
+      {
+        "n": "Kokoprisci",
+        "s": "2026-05-26T17:00:00Z",
+        "e": "2026-05-26T18:00:00Z",
+        "d": null,
+        "j": "The Koko Show avec Priscilla",
+        "u": null,
+        "t": "monthly",
+        "p": "kokoprisci"
+      },
+      {
+        "n": "NVST",
+        "s": "2026-05-26T18:00:00Z",
+        "e": "2026-05-26T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nvst"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-26T19:00:00Z",
+        "e": "2026-05-27T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-27T07:00:00Z",
+        "e": "2026-05-27T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-27T10:00:00Z",
+        "e": "2026-05-27T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "MENTAL HEALTH RADIO par Stencia",
+        "s": "2026-05-27T12:00:00Z",
+        "e": "2026-05-27T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1930,8 +1999,8 @@
       },
       {
         "n": "WEDOMiEL",
-        "s": "2026-05-26T13:00:00Z",
-        "e": "2026-05-26T14:00:00Z",
+        "s": "2026-05-27T13:00:00Z",
+        "e": "2026-05-27T14:00:00Z",
         "d": null,
         "j": "avec Clumsy B & MATSANDO!",
         "u": null,
@@ -1940,16 +2009,16 @@
       },
       {
         "n": "Vanyfox",
-        "s": "2026-05-26T14:00:00Z",
-        "e": "2026-05-26T15:00:00Z",
+        "s": "2026-05-27T14:00:00Z",
+        "e": "2026-05-27T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Lola Ondikwa",
-        "s": "2026-05-26T15:00:00Z",
-        "e": "2026-05-26T16:00:00Z",
+        "s": "2026-05-27T15:00:00Z",
+        "e": "2026-05-27T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1957,8 +2026,8 @@
       },
       {
         "n": "Feadz",
-        "s": "2026-05-26T16:00:00Z",
-        "e": "2026-05-26T17:00:00Z",
+        "s": "2026-05-27T16:00:00Z",
+        "e": "2026-05-27T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1967,8 +2036,8 @@
       },
       {
         "n": "GЯEG",
-        "s": "2026-05-26T17:00:00Z",
-        "e": "2026-05-26T18:00:00Z",
+        "s": "2026-05-27T17:00:00Z",
+        "e": "2026-05-27T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1976,16 +2045,16 @@
       },
       {
         "n": "De Grandi",
-        "s": "2026-05-26T18:00:00Z",
-        "e": "2026-05-26T19:00:00Z",
+        "s": "2026-05-27T18:00:00Z",
+        "e": "2026-05-27T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-26T19:00:00Z",
-        "e": "2026-05-26T20:00:00Z",
+        "s": "2026-05-27T19:00:00Z",
+        "e": "2026-05-27T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
