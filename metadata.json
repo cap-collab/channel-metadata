@@ -1,49 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-05-26T18:18:13.051Z",
+  "updated": "2026-05-26T21:29:01.308Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SURF GANG RADIO",
-        "s": "2026-05-26T19:00:00+01:00",
-        "e": "2026-05-26T20:00:00+01:00",
-        "d": "A radio show curated by Surf Gang Records. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-26th-may-2026"
-      },
-      {
-        "n": "RUPTURE W/ MANTRA & DOUBLE O",
-        "s": "2026-05-26T20:00:00+01:00",
-        "e": "2026-05-26T21:00:00+01:00",
-        "d": "Sounds from the grass roots of jungle and drum & bass with London scene heroes Rupture - featuring selections from residents Mantra & Double O.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rupture/episodes/rupture-26th-may-2026",
-        "p": "rupture"
-      },
-      {
-        "n": "Local Boyz",
-        "s": "2026-05-26T21:00:00+01:00",
-        "e": "2026-05-26T22:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Soltera y Su Sonido Sex",
         "s": "2026-05-26T22:00:00+01:00",
         "e": "2026-05-26T23:00:00+01:00",
-        "d": null,
+        "d": "Down and dirty club sounds in the studio, courtesy of US/Colombian duo Solter y Sonido Sex.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/soltera-y-su-sonido-sexual-26th-may-2026",
         "p": "soltera"
       },
       {
         "n": "ELENA COLOMBI",
         "s": "2026-05-26T23:00:00+01:00",
         "e": "2026-05-27T00:00:00+01:00",
-        "d": null,
+        "d": "Elena Colombi helps to keep nights weird - expect a diverse range of up-and-at-'em records: from techno to post-punk, through EBM, industrial and -wave…\nFrom the host: \"LIVE AT SOUP MANCHESTER…excerpt recording of a special night ~ I hope you enjoy it!! <3\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/elena-colombi/episodes/elena-colombi-26th-may-2026",
         "p": "elenacolombi"
       },
       {
@@ -167,32 +142,43 @@
         "j": null,
         "u": null,
         "p": "giuliatess"
+      },
+      {
+        "n": "DJ Joe",
+        "s": "2026-05-27T21:00:00+01:00",
+        "e": "2026-05-27T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "TURMERIC W/ THE TWINS",
+        "s": "2026-05-27T22:00:00+01:00",
+        "e": "2026-05-27T23:00:00+01:00",
+        "d": null,
+        "j": "THE TWINS",
+        "u": null,
+        "t": "monthly",
+        "p": "thetwins"
+      },
+      {
+        "n": "LOW INCOME $QUAD",
+        "s": "2026-05-27T23:00:00+01:00",
+        "e": "2026-05-28T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Miles Davis at 100: The Electric Period",
-        "s": "2026-05-26T18:00:00+01:00",
-        "e": "2026-05-26T20:00:00+01:00",
-        "d": "This episode explores Miles Davis’ electric period, when he pushed jazz into heavier, stranger and more expansive territory, drawing on funk, rock, studio experimentation and open-ended improvisation. Mixed and compiled by NTS.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/miles-davis-100/episodes/miles-davis-100-the-electric-period-26th-may-2026"
-      },
-      {
-        "n": "Miles Davis at 100: Live",
-        "s": "2026-05-26T20:00:00+01:00",
-        "e": "2026-05-26T22:00:00+01:00",
-        "d": "This show focuses on Miles Davis in performance, gathering live recordings that capture the shifting intensity, looseness and invention of his bands on stage. Mixed and compiled by NTS.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/miles-davis-100/episodes/miles-davis-100-live-26th-may-2026"
-      },
-      {
         "n": "BRWN w/ Ahwlee & Pink Siifu",
         "s": "2026-05-26T22:00:00+01:00",
         "e": "2026-05-27T00:00:00+01:00",
-        "d": null,
+        "d": "Ahwlee & Pink Siifu (B. Cool-Aid) head up BRWN, exploring hip hop's varied and far-reaching experimental corners - live once a month from Los Angeles.",
         "j": "Ahwlee & Pink Siifu",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/brwn",
         "t": "monthly",
         "p": "brwn"
       },
@@ -200,9 +186,9 @@
         "n": "West Coast Fog: Deep Within",
         "s": "2026-05-27T00:00:00+01:00",
         "e": "2026-05-27T01:00:00+01:00",
-        "d": null,
+        "d": "West Coast Fog with Erik Bluhm, broadcasts monthly from far-flung natural environments, bringing along site specific, privately released meditational music from past decades for a deeply involved sensory experience.\nFrom the host:_ \"In which West Coast Fog and a dog venture into the depths of a remote canyon; wade through a boulder-strewn stream; encounter wildlife; and get be-nighted all the while listening to older music that felt appropriate at the time on a Sports Walkman.\"_",
         "j": "Deep Within",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/west-coast-fog/episodes/west-coast-fog-27th-may-2026",
         "t": "monthly"
       },
       {
@@ -330,38 +316,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Sika",
-        "s": "2026-05-26T18:00:00Z",
-        "e": "2026-05-26T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sika"
       },
       {
-        "n": "es.kay & Megwan",
-        "s": "2026-05-26T19:00:00Z",
-        "e": "2026-05-26T20:00:00Z",
+        "n": "KOKONUT TRIP w/ TIM KOH & Sun An",
+        "s": "2026-05-27T16:00:00+01:00",
+        "e": "2026-05-27T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "PENDER STREET STEPPERS",
+        "s": "2026-05-27T17:00:00+01:00",
+        "e": "2026-05-27T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
-      {
-        "n": "stuckinwaveforms",
-        "s": "2026-05-26T20:00:00Z",
-        "e": "2026-05-26T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "stuckinwaveforms"
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "OVN",
         "s": "2026-05-26T21:00:00Z",
@@ -1183,29 +1157,37 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "fantastic w/ absolutely",
+        "s": "2026-06-02T19:00:00Z",
+        "e": "2026-06-02T20:00:00Z",
+        "d": null,
+        "j": "absolutely",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Earnesto’s Essentials",
+        "s": "2026-06-02T20:00:00Z",
+        "e": "2026-06-02T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Stanton",
+        "s": "2026-06-02T21:00:00Z",
+        "e": "2026-06-02T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "stanton"
       }
     ],
     "dublab": [
-      {
-        "n": "Discotchari - Silk Road Secret Agents",
-        "s": "2026-05-26T17:00:00Z",
-        "e": "2026-05-26T19:00:00Z",
-        "d": null,
-        "j": "Silk Road Secret Agents",
-        "u": null,
-        "t": "monthly",
-        "p": "discotchari"
-      },
-      {
-        "n": "Patrick Shiroishi - Tangled",
-        "s": "2026-05-26T19:00:00Z",
-        "e": "2026-05-26T21:00:00Z",
-        "d": null,
-        "j": "Tangled",
-        "u": null,
-        "t": "monthly",
-        "p": "patrickshiroishi"
-      },
       {
         "n": "Photay - Extravagant Frequencies",
         "s": "2026-05-26T21:00:00Z",
@@ -1358,6 +1340,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "GUEST",
+        "s": "2026-05-28T17:00:00Z",
+        "e": "2026-05-28T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Jimmy Tamborello - Dying Songs",
@@ -1602,29 +1593,28 @@
         "u": null,
         "t": "monthly",
         "p": "jokohomo"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Apollonia",
-        "s": "2026-05-26T18:00:00Z",
-        "e": "2026-05-26T20:00:00Z",
-        "d": null,
-        "j": "Shonky & Alexander Skancke",
-        "u": null,
-        "t": "monthly",
-        "p": "apollonia"
       },
       {
-        "n": "Silencer",
-        "s": "2026-05-26T20:00:00Z",
-        "e": "2026-05-26T21:00:00Z",
+        "n": "OPEN SLOT",
+        "s": "2026-06-02T19:00:00Z",
+        "e": "2026-06-02T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Protect Me – PROPRO’s HIP-HOP PUNK HOUSE",
+        "s": "2026-06-02T21:00:00Z",
+        "e": "2026-06-02T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "silencer"
-      },
+        "p": "protectme"
+      }
+    ],
+    "rinse": [
       {
         "n": "Sarra Wild",
         "s": "2026-05-26T21:00:00Z",
@@ -1817,16 +1807,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "NVST",
-        "s": "2026-05-26T18:00:00Z",
-        "e": "2026-05-26T19:00:00Z",
-        "d": null,
-        "j": "Easy Life w/ NVST",
-        "u": null,
-        "t": "monthly",
-        "p": "nvst"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-26T19:00:00Z",
