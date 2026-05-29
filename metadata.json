@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-29T07:46:52.942Z",
+  "updated": "2026-05-29T11:20:20.782Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & Fergus Jones",
-        "s": "2026-05-29T07:00:00+01:00",
-        "e": "2026-05-29T09:00:00+01:00",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-29th-may-2026",
-        "p": "fergusjones"
-      },
-      {
-        "n": "The NTS Breakfast Show w/ Lil C",
-        "s": "2026-05-29T09:00:00+01:00",
-        "e": "2026-05-29T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": "Lil C",
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-lil-c-29th-may-2026",
-        "t": "monthly",
-        "p": "lilc"
-      },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
         "s": "2026-05-29T11:00:00+01:00",
@@ -33,13 +14,21 @@
         "p": "scarythings"
       },
       {
-        "n": "PUM PUM POWER HOUR W/ LIL C",
+        "n": "NTS GUIDE TO: MAFIA & FLUXY VERSIONS (R)",
+        "s": "2026-05-29T12:00:00+01:00",
+        "e": "2026-05-29T13:00:00+01:00",
+        "d": "Keeping things dubwise with an hour of versions from UK producers Mafia & Fluxy.",
+        "j": "MAFIA & FLUXY VERSIONS",
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-mafia-fluxy-versions-11th-august-2023",
+        "t": "restream"
+      },
+      {
+        "n": "PUM PUM POWER HOUR W/ LIL C & HALF QUEEN",
         "s": "2026-05-29T13:00:00+01:00",
         "e": "2026-05-29T14:00:00+01:00",
-        "d": null,
-        "j": "LIL C",
-        "u": null,
-        "t": "biweekly",
+        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-29th-may-2026",
         "p": "lilc"
       },
       {
@@ -81,11 +70,11 @@
         "p": "charissec"
       },
       {
-        "n": "RUF DUG",
+        "n": "RUF DUG - Live from Giant Steps",
         "s": "2026-05-29T18:00:00+01:00",
         "e": "2026-05-29T19:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Live from Giant Steps",
         "u": null,
         "t": "biweekly",
         "p": "rufdug"
@@ -120,6 +109,34 @@
         "ap": [
           "yusu"
         ]
+      },
+      {
+        "n": "LUKID (R)",
+        "s": "2026-05-29T23:00:00+01:00",
+        "e": "2026-05-30T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "lukid"
+      },
+      {
+        "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL (R)",
+        "s": "2026-05-30T00:00:00+01:00",
+        "e": "2026-05-30T01:00:00+01:00",
+        "d": null,
+        "j": "YAWNING PORTAL",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "NTS GUIDE TO: HIPPOS IN TANKS (R)",
+        "s": "2026-05-30T01:00:00+01:00",
+        "e": "2026-05-30T02:00:00+01:00",
+        "d": null,
+        "j": "HIPPOS IN TANKS",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Nosedrip (R)",
@@ -160,6 +177,15 @@
         "p": "ferventmoon"
       },
       {
+        "n": "YOUARELISTENING.TO (R)",
+        "s": "2026-05-30T08:00:00+01:00",
+        "e": "2026-05-30T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-05-30T10:00:00+01:00",
         "e": "2026-05-30T12:00:00+01:00",
@@ -192,57 +218,20 @@
     ],
     "nts2": [
       {
-        "n": "Trapdoor w/ Neil Krug (R)",
-        "s": "2026-05-29T08:00:00+01:00",
-        "e": "2026-05-29T09:00:00+01:00",
-        "d": "Neil Krug is an American visual artist, director, and photographer based in Los Angeles. Tune in for a sonic lysergic tale of love, heartbreak, and redemption.",
-        "j": "Neil Krug",
-        "u": "https://www.nts.live/api/v2/shows/neil-krug/episodes/neil-krug-19th-december-2024",
-        "t": "restream",
-        "p": "neilkrug"
-      },
-      {
-        "n": "ICHIKO AOBA (R)",
-        "s": "2026-05-29T09:00:00+01:00",
-        "e": "2026-05-29T10:00:00+01:00",
-        "d": "Diving into the dreamscape of Japanese ambient folk phenomenon Ichiko Aoba. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ichiko-aoba/episodes/ichiko-aoba-19th-november-2025",
-        "t": "restream"
-      },
-      {
-        "n": "LA BRIGADE CYNOPHILE (R)",
-        "s": "2026-05-29T10:00:00+01:00",
-        "e": "2026-05-29T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "In Focus: Marilyn Mcleod",
-        "s": "2026-05-29T11:00:00+01:00",
-        "e": "2026-05-29T12:00:00+01:00",
-        "d": null,
-        "j": "Marilyn Mcleod",
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "PERFECT SOUND FOREVER",
         "s": "2026-05-29T12:00:00+01:00",
         "e": "2026-05-29T14:00:00+01:00",
-        "d": null,
+        "d": "Enter the reveries of Perfect Sound Forever - a two-hour excursion through the various strains of psych, dream-pop and all kinds of ambience; from film soundtracks through to old cassettes… Deep music primed for late night listening. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/perfect-sound-forever/episodes/perfect-sound-forever-29th-may-2026"
       },
       {
         "n": "CAROLINA SOUL: Astro Travel Jazz",
         "s": "2026-05-29T14:00:00+01:00",
         "e": "2026-05-29T16:00:00+01:00",
-        "d": null,
+        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-29th-may-2026"
       },
       {
         "n": "DISCO PICKLES W/ DRY CLEANING",
@@ -353,27 +342,46 @@
         "u": null,
         "t": "restream",
         "p": "eyedress"
+      },
+      {
+        "n": "Image Search (R)",
+        "s": "2026-05-30T07:00:00+01:00",
+        "e": "2026-05-30T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "imagesearch"
+      },
+      {
+        "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
+        "s": "2026-05-30T08:00:00+01:00",
+        "e": "2026-05-30T10:00:00+01:00",
+        "d": null,
+        "j": "EXOTIC GARDENS",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "SOFAY & RIBEKA (R)",
+        "s": "2026-05-30T10:00:00+01:00",
+        "e": "2026-05-30T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Rough Version w/ Jenna Sutela",
+        "s": "2026-05-30T11:00:00+01:00",
+        "e": "2026-05-30T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "roughversion"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-05-29T00:00:00Z",
-        "e": "2026-05-29T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "The Watercourse Way w/ Jamie Nu",
-        "s": "2026-05-29T09:00:00Z",
-        "e": "2026-05-29T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "thewatercourseway"
-      },
       {
         "n": "ling linh",
         "s": "2026-05-29T11:00:00Z",
@@ -1245,13 +1253,51 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "L.J. Violet",
+        "s": "2026-06-05T08:00:00Z",
+        "e": "2026-06-05T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "violet"
+      },
+      {
+        "n": "Mid Morning Matters w/ Alfie Danger",
+        "s": "2026-06-05T09:00:00Z",
+        "e": "2026-06-05T10:00:00Z",
+        "d": null,
+        "j": "Alfie Danger",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Reggie Crookes",
+        "s": "2026-06-05T10:00:00Z",
+        "e": "2026-06-05T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "reggiecrookes"
+      },
+      {
+        "n": "Red Can",
+        "s": "2026-06-05T11:00:00Z",
+        "e": "2026-06-05T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-29T07:00:00Z",
-        "e": "2026-05-29T09:00:00Z",
+        "s": "2026-05-29T11:00:00Z",
+        "e": "2026-05-29T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1259,8 +1305,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-29T09:00:00Z",
-        "e": "2026-05-29T11:00:00Z",
+        "s": "2026-05-29T13:00:00Z",
+        "e": "2026-05-29T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1799,27 +1845,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-05-29T06:00:00Z",
-        "e": "2026-05-29T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Donsurf & Marvin Jupiter",
-        "s": "2026-05-29T09:00:00Z",
-        "e": "2026-05-29T10:00:00Z",
-        "d": null,
-        "j": "Part 1",
-        "u": null,
-        "p": "donsurf",
-        "ap": [
-          "jupiter"
-        ]
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-05-29T10:00:00Z",
         "e": "2026-05-29T13:00:00Z",
@@ -1886,14 +1911,13 @@
         "p": "nyra"
       },
       {
-        "n": "Studio Barnhus",
+        "n": "StressLess",
         "s": "2026-05-29T22:00:00Z",
         "e": "2026-05-29T23:00:00Z",
         "d": null,
-        "j": "Axel Boman",
+        "j": "002",
         "u": null,
-        "t": "biweekly",
-        "p": "studiobarnhus"
+        "t": "biweekly"
       },
       {
         "n": "X CLUB. presents HIDE THE JUNK",
@@ -2023,15 +2047,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-29T07:00:00Z",
-        "e": "2026-05-29T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-29T10:00:00Z",
         "e": "2026-05-29T12:00:00Z",
         "d": null,
@@ -2040,13 +2055,12 @@
         "t": "playlist"
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "Audrey Bélanger",
         "s": "2026-05-29T12:00:00Z",
         "e": "2026-05-29T13:00:00Z",
         "d": null,
-        "j": "Audrey Bélanger",
-        "u": null,
-        "t": "regular"
+        "j": null,
+        "u": null
       },
       {
         "n": "Rinse France Guest Show",
@@ -2054,8 +2068,7 @@
         "e": "2026-05-29T14:00:00Z",
         "d": null,
         "j": "Kinji00 & LB66",
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Adam BFD",
@@ -2066,13 +2079,12 @@
         "u": null
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "MAGO B2B LE MOM",
         "s": "2026-05-29T15:00:00Z",
         "e": "2026-05-29T16:00:00Z",
         "d": null,
-        "j": "Mago b2b Le Mom",
-        "u": null,
-        "t": "regular"
+        "j": null,
+        "u": null
       },
       {
         "n": "Rinse France Guest Show",
@@ -2080,8 +2092,7 @@
         "e": "2026-05-29T17:00:00Z",
         "d": null,
         "j": "Azo",
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Chiguiro&Friends",
@@ -2097,8 +2108,7 @@
         "e": "2026-05-29T19:00:00Z",
         "d": null,
         "j": "Dua Lity B2B israfil",
-        "u": null,
-        "t": "regular"
+        "u": null
       },
       {
         "n": "Playlist France",
@@ -2144,12 +2154,13 @@
         "u": null
       },
       {
-        "n": "Kythmos",
+        "n": "ERNA",
         "s": "2026-05-30T14:00:00Z",
         "e": "2026-05-30T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "CBS & Rigo",
