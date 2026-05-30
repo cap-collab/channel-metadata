@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-30T19:00:40.475Z",
+  "updated": "2026-05-30T20:44:59.380Z",
   "stations": {
     "nts1": [
       {
@@ -15,9 +15,9 @@
         "n": "BLACK IMPULSE",
         "s": "2026-05-30T22:00:00+01:00",
         "e": "2026-05-31T00:00:00+01:00",
-        "d": null,
+        "d": "From 10 till midnight, Black Impulse’s shows are packed with transatlantic camaraderie and a distortion heavy stroll though metal, noise, gutter garage, trash blues, prog, hardcore, hip-hop, free jazz and anything else.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/black-impulse/episodes/black-impulse-30th-may-2026",
         "p": "blackimpulse"
       },
       {
@@ -161,34 +161,26 @@
         "u": null,
         "t": "monthly",
         "p": "noelspiva"
+      },
+      {
+        "n": "LEILA SAMIR",
+        "s": "2026-05-31T16:00:00+01:00",
+        "e": "2026-05-31T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "leilasamir"
       }
     ],
     "nts2": [
       {
-        "n": "SOUNDS ON SCREEN: ATOM EGOYAN (R)",
-        "s": "2026-05-30T18:00:00+01:00",
-        "e": "2026-05-30T20:05:00+01:00",
-        "d": "Sounds from the cinematic universe of Atom Egoyan, the Canadian director who emerged in the 1980s as a part of the loosely categorised \"Toronto New Wave\". \nSelected by Florence Scott-Anderton.",
-        "j": "ATOM EGOYAN",
-        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-atom-egoyan-4th-july-2023",
-        "t": "restream"
-      },
-      {
-        "n": "THE ULINE CATALOG W/ CALVIN LECOMPTE (R)",
-        "s": "2026-05-30T20:05:00+01:00",
-        "e": "2026-05-30T21:05:00+01:00",
-        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
-        "j": "CALVIN LECOMPTE",
-        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-25th-november-2022",
-        "t": "restream"
-      },
-      {
         "n": "DAY DREAMERS ONLY W/ KIERA (R)",
         "s": "2026-05-30T21:05:00+01:00",
         "e": "2026-05-30T22:00:00+01:00",
-        "d": null,
+        "d": "DJ Kiera coming through with dreamy, breezy mix of soft rock, folk, vintage pop, & other delights.",
         "j": "KIERA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/day-dreamers-only/episodes/day-dreamers-only-4th-march-2024",
         "t": "restream",
         "p": "kiera"
       },
@@ -196,9 +188,9 @@
         "n": "M00DTAPES W/ ROD COOMBES (R)",
         "s": "2026-05-30T22:00:00+01:00",
         "e": "2026-05-31T00:00:00+01:00",
-        "d": null,
+        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.\nFrom the host: \"This is a very special episode that I’ve been wanting to do for a long time. Curated with my father Rod Coombes – Drummer (Stealers Wheel / Strawbs), music savant, creative genius, gentle and warm soul, this is a collection of tracks that have shaped and bonded us as family and music lovers.\"",
         "j": "ROD COOMBES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-7th-december-2025",
         "t": "restream",
         "p": "m00dtapes"
       },
@@ -336,6 +328,26 @@
         "j": "MUSIC FROM JAPAN’S CD-ERA ELECTRONIC UNDERGROUND",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "BLUE CANDY W/ CASEY MQ (R)",
+        "s": "2026-05-31T19:00:00+01:00",
+        "e": "2026-05-31T20:00:00+01:00",
+        "d": null,
+        "j": "CASEY MQ",
+        "u": null,
+        "t": "restream",
+        "p": "caseymq"
+      },
+      {
+        "n": "CHASING ECHOES W/ ARIANE KIKS & TOHÉ COMMARET (R)",
+        "s": "2026-05-31T20:00:00+01:00",
+        "e": "2026-05-31T21:00:00+01:00",
+        "d": null,
+        "j": "ARIANE KIKS & TOHÉ COMMARET",
+        "u": null,
+        "t": "restream",
+        "p": "chasingechoes"
       }
     ],
     "subtle": [
@@ -1359,6 +1371,15 @@
         "u": null,
         "t": "monthly",
         "p": "jon1st"
+      },
+      {
+        "n": "Minus - Flow State",
+        "s": "2026-06-06T20:00:00Z",
+        "e": "2026-06-06T22:00:00Z",
+        "d": null,
+        "j": "Flow State",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "dublab": [
@@ -1901,15 +1922,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Of Paradise",
-        "s": "2026-05-30T19:00:00Z",
-        "e": "2026-05-30T20:00:00Z",
-        "d": null,
-        "j": "Paul P & Silent Era",
-        "u": null,
-        "p": "paradise"
-      },
       {
         "n": "Of Paradise",
         "s": "2026-05-30T20:00:00Z",
