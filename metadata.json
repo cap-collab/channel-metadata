@@ -1,34 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-30T06:40:33.957Z",
+  "updated": "2026-05-30T09:51:19.726Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Fervent Moon (R)",
-        "s": "2026-05-30T07:00:00+01:00",
-        "e": "2026-05-30T08:00:00+01:00",
-        "d": "DJ: “… I don’t know, I didn’t… I didn’t think I’d be the one holding the air, I never spoke live before the event consumed the many. I’ve no news for the desperate survivors and… and I can’t… well, I can hope that this next song might help us survive a little longer…\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fervent-moon/episodes/fervent-moon-19th-august-2022",
-        "t": "restream",
-        "p": "ferventmoon"
-      },
-      {
-        "n": "YOUARELISTENING.TO (R)",
-        "s": "2026-05-30T08:00:00+01:00",
-        "e": "2026-05-30T10:00:00+01:00",
-        "d": "Youarelistening.to mixes ambient music with police scanner radio, air-traffic control, numbers stations, spoken word & a bunch of other random things. Found footage, musique concrete, and the perfect ambience.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/youarelisteningto/episodes/youarelisteningto-5th-april-2025",
-        "t": "restream"
-      },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-05-30T10:00:00+01:00",
         "e": "2026-05-30T12:00:00+01:00",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": "MACCA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-30th-may-2026",
         "t": "biweekly",
         "p": "macca"
       },
@@ -36,9 +17,9 @@
         "n": "ROSS ALLEN",
         "s": "2026-05-30T12:00:00+01:00",
         "e": "2026-05-30T14:00:00+01:00",
-        "d": null,
+        "d": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ross-allen/episodes/ross-allen-30th-may-2026",
         "t": "biweekly",
         "p": "rossallen"
       },
@@ -172,44 +153,47 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "ONDAS W/ DUBBY: Dedicated to Chris Stoker",
+        "s": "2026-05-31T08:00:00+01:00",
+        "e": "2026-05-31T09:00:00+01:00",
+        "d": null,
+        "j": "DUBBY",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Thea HD - Easy Listening Special",
+        "s": "2026-05-31T09:00:00+01:00",
+        "e": "2026-05-31T10:00:00+01:00",
+        "d": null,
+        "j": "Easy Listening Special",
+        "u": null,
+        "t": "biweekly",
+        "p": "hd",
+        "ap": [
+          "theahd"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "Image Search (R)",
-        "s": "2026-05-30T07:00:00+01:00",
-        "e": "2026-05-30T08:00:00+01:00",
-        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month.\nEmail: animalimagesearch@gmail.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-8th-may-2025",
-        "t": "restream",
-        "p": "imagesearch"
-      },
-      {
-        "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
-        "s": "2026-05-30T08:00:00+01:00",
-        "e": "2026-05-30T10:00:00+01:00",
-        "d": "Slayron of Peaking Lights heads up Rockers Delight, two hours of all things dub, reggae, and lovers rock once a month from the LA studio.",
-        "j": "EXOTIC GARDENS",
-        "u": "https://www.nts.live/api/v2/shows/peaking-lights/episodes/peaking-lights-8th-november-2024",
-        "t": "restream"
-      },
-      {
         "n": "SOFAY & RIBEKA (R)",
         "s": "2026-05-30T10:00:00+01:00",
         "e": "2026-05-30T11:00:00+01:00",
-        "d": null,
+        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-10th-september-2024",
         "t": "restream"
       },
       {
         "n": "Rough Version w/ Jenna Sutela",
         "s": "2026-05-30T11:00:00+01:00",
         "e": "2026-05-30T12:00:00+01:00",
-        "d": null,
+        "d": "Francesca Gavin talks to contemporary artists about their work, music, and the relationships between. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rough-version/episodes/rough-version-30th-may-2026",
         "p": "roughversion"
       },
       {
@@ -337,6 +321,25 @@
         "u": null,
         "t": "restream",
         "p": "skyapnea"
+      },
+      {
+        "n": "Post-Geography (R)",
+        "s": "2026-05-31T06:00:00+01:00",
+        "e": "2026-05-31T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "postgeography"
+      },
+      {
+        "n": "THE WITCHING HOUR (R)",
+        "s": "2026-05-31T07:00:00+01:00",
+        "e": "2026-05-31T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -1329,22 +1332,22 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "La Sopa Demoniaca ",
+        "s": "2026-06-06T08:00:00Z",
+        "e": "2026-06-06T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-30T05:00:00Z",
-        "e": "2026-05-30T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-05-30T07:00:00Z",
-        "e": "2026-05-30T09:00:00Z",
+        "s": "2026-05-30T09:00:00Z",
+        "e": "2026-05-30T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1876,6 +1879,15 @@
         "u": null,
         "t": "monthly",
         "p": "danieltroberg"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-06-06T07:00:00Z",
+        "e": "2026-06-06T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -2112,15 +2124,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-29T18:00:00Z",
-        "e": "2026-05-30T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-05-30T07:00:00Z",
         "e": "2026-05-30T10:00:00Z",
         "d": null,
@@ -2138,32 +2141,32 @@
         "t": "playlist"
       },
       {
-        "n": "LLANAMOUR",
+        "n": "sanpadre",
         "s": "2026-05-30T12:00:00Z",
         "e": "2026-05-30T13:00:00Z",
         "d": null,
-        "j": "CARDIO SHOW",
+        "j": "my little masc fantasy",
         "u": null
       },
       {
-        "n": "MayalaBae",
+        "n": "Kuuma",
         "s": "2026-05-30T13:00:00Z",
         "e": "2026-05-30T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Raising Voices : A Black Music Journey",
         "u": null
       },
       {
-        "n": "Meli Mena",
+        "n": "ERNA",
         "s": "2026-05-30T14:00:00Z",
         "e": "2026-05-30T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
-        "n": "Fatale Furylax",
+        "n": "CBS & Rigo",
         "s": "2026-05-30T15:00:00Z",
         "e": "2026-05-30T16:00:00Z",
         "d": null,
@@ -2171,9 +2174,87 @@
         "u": null
       },
       {
-        "n": "Naomi x Paloma Colombe – B2B live at Badaboum",
+        "n": "KAVAL",
         "s": "2026-05-30T16:00:00Z",
+        "e": "2026-05-30T17:00:00Z",
+        "d": null,
+        "j": "B2B FARKONER",
+        "u": null
+      },
+      {
+        "n": "Boukan Records",
+        "s": "2026-05-30T17:00:00Z",
         "e": "2026-05-30T18:00:00Z",
+        "d": null,
+        "j": "alys(alys)alys b2b Cashu",
+        "u": null,
+        "t": "biweekly",
+        "p": "boukanrecords"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-30T18:00:00Z",
+        "e": "2026-05-31T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-31T07:00:00Z",
+        "e": "2026-05-31T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-31T10:00:00Z",
+        "e": "2026-05-31T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "LLANAMOUR",
+        "s": "2026-05-31T12:00:00Z",
+        "e": "2026-05-31T13:00:00Z",
+        "d": null,
+        "j": "CARDIO SHOW",
+        "u": null
+      },
+      {
+        "n": "MayalaBae",
+        "s": "2026-05-31T13:00:00Z",
+        "e": "2026-05-31T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Meli Mena",
+        "s": "2026-05-31T14:00:00Z",
+        "e": "2026-05-31T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Fatale Furylax",
+        "s": "2026-05-31T15:00:00Z",
+        "e": "2026-05-31T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Naomi x Paloma Colombe – B2B live at Badaboum",
+        "s": "2026-05-31T16:00:00Z",
+        "e": "2026-05-31T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2184,8 +2265,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-30T18:00:00Z",
-        "e": "2026-05-30T19:00:00Z",
+        "s": "2026-05-31T18:00:00Z",
+        "e": "2026-05-31T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2194,16 +2275,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "TVOD",
-        "s": "2026-05-30T05:00:00Z",
-        "e": "2026-05-30T07:00:00Z",
-        "d": null,
-        "j": "Jason P",
-        "u": null,
-        "t": "weekly",
-        "p": "jasonp"
-      },
       {
         "n": "Celluloid Mixtape",
         "s": "2026-05-31T23:00:00Z",

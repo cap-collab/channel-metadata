@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-30T06:41:20.881Z",
+  "updated": "2026-05-30T09:51:54.348Z",
   "stations": {
     "nts1": [
       {
@@ -16154,6 +16154,25 @@
         "d": null,
         "j": "Sample Drill",
         "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Fervent Moon (R)",
+        "s": "2026-05-30T07:00:00+01:00",
+        "e": "2026-05-30T08:00:00+01:00",
+        "d": "DJ: “… I don’t know, I didn’t… I didn’t think I’d be the one holding the air, I never spoke live before the event consumed the many. I’ve no news for the desperate survivors and… and I can’t… well, I can hope that this next song might help us survive a little longer…\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/fervent-moon/episodes/fervent-moon-19th-august-2022",
+        "t": "restream",
+        "p": "ferventmoon"
+      },
+      {
+        "n": "YOUARELISTENING.TO (R)",
+        "s": "2026-05-30T08:00:00+01:00",
+        "e": "2026-05-30T10:00:00+01:00",
+        "d": "Youarelistening.to mixes ambient music with police scanner radio, air-traffic control, numbers stations, spoken word & a bunch of other random things. Found footage, musique concrete, and the perfect ambience.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/youarelisteningto/episodes/youarelisteningto-5th-april-2025",
         "t": "restream"
       }
     ],
@@ -35239,6 +35258,25 @@
         "u": null,
         "t": "restream",
         "p": "eyedress"
+      },
+      {
+        "n": "Image Search (R)",
+        "s": "2026-05-30T07:00:00+01:00",
+        "e": "2026-05-30T08:00:00+01:00",
+        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month.\nEmail: animalimagesearch@gmail.com",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-8th-may-2025",
+        "t": "restream",
+        "p": "imagesearch"
+      },
+      {
+        "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
+        "s": "2026-05-30T08:00:00+01:00",
+        "e": "2026-05-30T10:00:00+01:00",
+        "d": "Slayron of Peaking Lights heads up Rockers Delight, two hours of all things dub, reggae, and lovers rock once a month from the LA studio.",
+        "j": "EXOTIC GARDENS",
+        "u": "https://www.nts.live/api/v2/shows/peaking-lights/episodes/peaking-lights-8th-november-2024",
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -65887,6 +65925,24 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-30T05:00:00Z",
+        "e": "2026-05-30T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-30T07:00:00Z",
+        "e": "2026-05-30T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -90747,12 +90803,13 @@
         "p": "boukanrecords"
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "Playlist France",
         "s": "2026-05-29T18:00:00Z",
-        "e": "2026-05-29T19:00:00Z",
+        "e": "2026-05-30T07:00:00Z",
         "d": null,
-        "j": "Dua Lity B2B israfil",
-        "u": null
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "newtown": [
@@ -95743,6 +95800,16 @@
         "d": null,
         "j": "DJ Deadname",
         "u": null
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-05-30T05:00:00Z",
+        "e": "2026-05-30T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
       }
     ]
   }
