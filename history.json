@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-30T20:45:44.382Z",
+  "updated": "2026-05-30T22:50:28.653Z",
   "stations": {
     "nts1": [
       {
@@ -16236,6 +16236,14 @@
         "ap": [
           "testpressing"
         ]
+      },
+      {
+        "n": "LDLDN",
+        "s": "2026-05-30T20:00:00+01:00",
+        "e": "2026-05-30T22:00:00+01:00",
+        "d": "LD and guests deliver a slice of realness via jazz, fusion, deep soul, funk, warm techno and the rest. Expect music you can move to from the long-time DJ and producer.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/spacebass/episodes/spacebass-30th-may-2026"
       }
     ],
     "nts2": [
@@ -35427,6 +35435,16 @@
         "j": "CALVIN LECOMPTE",
         "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-25th-november-2022",
         "t": "restream"
+      },
+      {
+        "n": "DAY DREAMERS ONLY W/ KIERA (R)",
+        "s": "2026-05-30T21:05:00+01:00",
+        "e": "2026-05-30T22:00:00+01:00",
+        "d": "DJ Kiera coming through with dreamy, breezy mix of soft rock, folk, vintage pop, & other delights.",
+        "j": "KIERA",
+        "u": "https://www.nts.live/api/v2/shows/day-dreamers-only/episodes/day-dreamers-only-4th-march-2024",
+        "t": "restream",
+        "p": "kiera"
       }
     ],
     "subtle": [
@@ -66172,6 +66190,24 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "RERUN Archivo13",
+        "s": "2026-05-30T19:00:00Z",
+        "e": "2026-05-30T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "RERUN Flight Club",
+        "s": "2026-05-30T21:00:00Z",
+        "e": "2026-05-30T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "rinse": [
@@ -82012,6 +82048,24 @@
         "j": "Paul P & Silent Era",
         "u": null,
         "p": "paradise"
+      },
+      {
+        "n": "Of Paradise",
+        "s": "2026-05-30T20:00:00Z",
+        "e": "2026-05-30T21:00:00Z",
+        "d": null,
+        "j": "Hünter",
+        "u": null,
+        "p": "paradise"
+      },
+      {
+        "n": "Of Paradise",
+        "s": "2026-05-30T21:00:00Z",
+        "e": "2026-05-30T22:00:00Z",
+        "d": null,
+        "j": "Soreab",
+        "u": null,
+        "p": "paradise"
       }
     ],
     "rinsefr": [
@@ -91125,32 +91179,31 @@
         "t": "playlist"
       },
       {
-        "n": "sanpadre",
+        "n": "LLANAMOUR",
         "s": "2026-05-30T12:00:00Z",
         "e": "2026-05-30T13:00:00Z",
         "d": null,
-        "j": "my little masc fantasy",
+        "j": "CARDIO SHOW",
         "u": null
       },
       {
-        "n": "Kuuma",
+        "n": "MayalaBae",
         "s": "2026-05-30T13:00:00Z",
         "e": "2026-05-30T14:00:00Z",
         "d": null,
-        "j": "Raising Voices : A Black Music Journey",
+        "j": null,
         "u": null
       },
       {
-        "n": "ERNA",
+        "n": "Meli Mena",
         "s": "2026-05-30T14:00:00Z",
         "e": "2026-05-30T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
-        "n": "CBS & Rigo",
+        "n": "Fatale Furylax",
         "s": "2026-05-30T15:00:00Z",
         "e": "2026-05-30T16:00:00Z",
         "d": null,
@@ -91158,12 +91211,16 @@
         "u": null
       },
       {
-        "n": "KAVAL",
+        "n": "Naomi x Paloma Colombe – B2B live at Badaboum",
         "s": "2026-05-30T16:00:00Z",
-        "e": "2026-05-30T17:00:00Z",
+        "e": "2026-05-30T18:00:00Z",
         "d": null,
-        "j": "B2B FARKONER",
-        "u": null
+        "j": null,
+        "u": null,
+        "p": "naomi",
+        "ap": [
+          "palomacolombe"
+        ]
       },
       {
         "n": "Boukan Records",
@@ -91174,6 +91231,15 @@
         "u": null,
         "t": "biweekly",
         "p": "boukanrecords"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-30T18:00:00Z",
+        "e": "2026-05-30T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "newtown": [
