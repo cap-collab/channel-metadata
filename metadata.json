@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-30T09:51:19.726Z",
+  "updated": "2026-05-30T11:13:38.657Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
-        "s": "2026-05-30T10:00:00+01:00",
-        "e": "2026-05-30T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": "MACCA",
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-30th-may-2026",
-        "t": "biweekly",
-        "p": "macca"
-      },
       {
         "n": "ROSS ALLEN",
         "s": "2026-05-30T12:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "TARZSA",
         "s": "2026-05-30T14:00:00+01:00",
         "e": "2026-05-30T15:00:00+01:00",
-        "d": null,
+        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-30th-may-2026",
         "t": "monthly",
         "p": "tarzsa"
       },
@@ -175,42 +165,34 @@
         "ap": [
           "theahd"
         ]
+      },
+      {
+        "n": "THE SLIP",
+        "s": "2026-05-31T10:00:00+01:00",
+        "e": "2026-05-31T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "slip"
       }
     ],
     "nts2": [
       {
-        "n": "SOFAY & RIBEKA (R)",
-        "s": "2026-05-30T10:00:00+01:00",
-        "e": "2026-05-30T11:00:00+01:00",
-        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-10th-september-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Rough Version w/ Jenna Sutela",
-        "s": "2026-05-30T11:00:00+01:00",
-        "e": "2026-05-30T12:00:00+01:00",
-        "d": "Francesca Gavin talks to contemporary artists about their work, music, and the relationships between. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rough-version/episodes/rough-version-30th-may-2026",
-        "p": "roughversion"
-      },
-      {
         "n": "Dialled In w/ Kaali Duniya (BamBoy)",
         "s": "2026-05-30T12:00:00+01:00",
         "e": "2026-05-30T13:00:00+01:00",
-        "d": null,
+        "d": "Bringing a sonic protest, confronting the weight of caste oppression and social hierarchies through sound. Expect a ton of his original music and a dubstep master class.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/bamboy/episodes/bamboy-30th-may-2026"
       },
       {
         "n": "Dialled In w/ EXCISE DEPARTMENT",
         "s": "2026-05-30T13:00:00+01:00",
         "e": "2026-05-30T14:00:00+01:00",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dialled-in-w-excise-department-30th-may-2026"
       },
       {
         "n": "YOUTH w/ Lyster",
@@ -340,6 +322,25 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "80s Rampwalk (R)",
+        "s": "2026-05-31T08:00:00+01:00",
+        "e": "2026-05-31T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "MORI-RA: JAPANESE BREEZE 13 (R)",
+        "s": "2026-05-31T09:00:00+01:00",
+        "e": "2026-05-31T11:00:00+01:00",
+        "d": null,
+        "j": "JAPANESE BREEZE 13",
+        "u": null,
+        "t": "restream",
+        "p": "breeze"
       }
     ],
     "subtle": [
@@ -1341,18 +1342,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Matty Banton - Roots & Dubs",
+        "s": "2026-06-06T10:00:00Z",
+        "e": "2026-06-06T11:00:00Z",
+        "d": null,
+        "j": "Roots & Dubs",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-05-30T09:00:00Z",
-        "e": "2026-05-30T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-05-30T11:00:00Z",
@@ -1888,18 +1889,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-05-30T06:00:00Z",
-        "e": "2026-05-30T10:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-06-06T11:00:00Z",
+        "e": "2026-06-06T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Hi-Fidelity with New Forms",
         "s": "2026-05-30T10:00:00Z",
@@ -2122,15 +2123,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-05-30T07:00:00Z",
-        "e": "2026-05-30T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-05-30T10:00:00Z",
