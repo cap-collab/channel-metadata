@@ -1,33 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-29T23:04:32.051Z",
+  "updated": "2026-05-30T02:12:28.990Z",
   "stations": {
     "nts1": [
-      {
-        "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL (R)",
-        "s": "2026-05-30T00:00:00+01:00",
-        "e": "2026-05-30T01:00:00+01:00",
-        "d": "Zzzzzzzzzzzz… Shhhh… There's a baby sleeping in the house!",
-        "j": "YAWNING PORTAL",
-        "u": "https://www.nts.live/api/v2/shows/under-sleepy-moon/episodes/under-sleepy-moon-18th-december-2024",
-        "t": "restream"
-      },
-      {
-        "n": "NTS GUIDE TO: HIPPOS IN TANKS (R)",
-        "s": "2026-05-30T01:00:00+01:00",
-        "e": "2026-05-30T02:00:00+01:00",
-        "d": null,
-        "j": "HIPPOS IN TANKS",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Nosedrip (R)",
         "s": "2026-05-30T02:00:00+01:00",
         "e": "2026-05-30T04:00:00+01:00",
-        "d": null,
+        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-13th-june-2024",
         "t": "restream",
         "p": "nosedrip"
       },
@@ -35,9 +17,9 @@
         "n": "OKONKOLE Y TROMPA W/ PAM & ELLA BLOU (R)",
         "s": "2026-05-30T04:00:00+01:00",
         "e": "2026-05-30T06:00:00+01:00",
-        "d": null,
+        "d": "Pam invites Ella Blou for a mix that evokes the bouncy plastic world they grew up in - in the late 1990's, early 2000's",
         "j": "PAM & ELLA BLOU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/okonkole-y-trompa/episodes/okonkole-y-trompa-3rd-november-2021",
         "t": "restream"
       },
       {
@@ -163,42 +145,53 @@
         "j": "Armenian Classical Special",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "CLAIRO (R)",
+        "s": "2026-05-31T02:00:00+01:00",
+        "e": "2026-05-31T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Janie Jones (R)",
+        "s": "2026-05-31T03:00:00+01:00",
+        "e": "2026-05-31T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "janiejones"
+      },
+      {
+        "n": "AN1MA (R)",
+        "s": "2026-05-31T04:00:00+01:00",
+        "e": "2026-05-31T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "Bump City w/ Billy Goods & Yamagucci",
-        "s": "2026-05-30T00:00:00+01:00",
-        "e": "2026-05-30T02:00:00+01:00",
-        "d": "Funkmosphere resident Billy Goods heads up a 2 hour slot with James Yamagucci - all vinyl, all live and direct from our LA studio.\nFrom the host: \"BUMP CITY 065 Mix: 2 hours of disco, boogie & tropical soul.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/billy-goods/episodes/billy-goods-30th-may-2026"
-      },
-      {
-        "n": "Hood Rave x Dweller w/ FORCE PLACEMENT (R)",
-        "s": "2026-05-30T02:00:00+01:00",
-        "e": "2026-05-30T03:00:00+01:00",
-        "d": null,
-        "j": "FORCE PLACEMENT",
-        "u": null,
-        "t": "restream",
-        "p": "forceplacement"
-      },
-      {
         "n": "Topias w/ Speech Patterns",
         "s": "2026-05-30T03:00:00+01:00",
         "e": "2026-05-30T05:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Monthly hub for club geographies, place-specific constructions, architectural musics and the production of sonic space and scale.",
+        "j": "Speech Patterns",
+        "u": "https://www.nts.live/api/v2/shows/astral-plane/episodes/astral-plane-30th-may-2026",
+        "t": "monthly"
       },
       {
         "n": "Stephane (R)",
         "s": "2026-05-30T05:00:00+01:00",
         "e": "2026-05-30T06:00:00+01:00",
-        "d": null,
+        "d": "contemporary french + international rap presented by Stephane.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gelato/episodes/gelato-w-stephane-6th-january-2023",
         "t": "restream"
       },
       {
@@ -314,6 +307,35 @@
         "e": "2026-05-30T21:05:00+01:00",
         "d": null,
         "j": "CALVIN LECOMPTE",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "DAY DREAMERS ONLY W/ KIERA (R)",
+        "s": "2026-05-30T21:05:00+01:00",
+        "e": "2026-05-30T22:00:00+01:00",
+        "d": null,
+        "j": "KIERA",
+        "u": null,
+        "t": "restream",
+        "p": "kiera"
+      },
+      {
+        "n": "M00DTAPES W/ ROD COOMBES (R)",
+        "s": "2026-05-30T22:00:00+01:00",
+        "e": "2026-05-31T00:00:00+01:00",
+        "d": null,
+        "j": "ROD COOMBES",
+        "u": null,
+        "t": "restream",
+        "p": "m00dtapes"
+      },
+      {
+        "n": "DRIZLE.FM W/ PLO MAN (R)",
+        "s": "2026-05-31T00:00:00+01:00",
+        "e": "2026-05-31T02:00:00+01:00",
+        "d": null,
+        "j": "PLO MAN",
         "u": null,
         "t": "restream"
       }
@@ -1289,28 +1311,28 @@
         "u": null,
         "t": "monthly",
         "p": "programmldn"
+      },
+      {
+        "n": "RHOMBI",
+        "s": "2026-06-06T01:00:00Z",
+        "e": "2026-06-06T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "rhombi"
+      },
+      {
+        "n": "B-Pushr",
+        "s": "2026-06-06T02:00:00Z",
+        "e": "2026-06-06T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN: Heidi Lawden – Proton Drive MIx",
-        "s": "2026-05-29T21:00:00Z",
-        "e": "2026-05-29T23:10:00Z",
-        "d": null,
-        "j": "Heidi Lawden – Proton Drive MIx",
-        "u": null,
-        "t": "restream",
-        "p": "heidilawden"
-      },
-      {
-        "n": "RERUN: DaM-Funk – Proton Drive",
-        "s": "2026-05-29T23:10:00Z",
-        "e": "2026-05-30T01:00:00Z",
-        "d": null,
-        "j": "DaM-Funk – Proton Drive",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "RERUN: Egyptian Luvr – Proton Drive",
         "s": "2026-05-30T01:00:00Z",
@@ -1319,6 +1341,15 @@
         "j": "Egyptian Luvr – Proton Drive",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-30T03:00:00Z",
+        "e": "2026-05-30T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
@@ -1825,22 +1856,19 @@
         "j": null,
         "u": null,
         "p": "dorwand"
+      },
+      {
+        "n": "Jeffery Plansker - Jazz Advance",
+        "s": "2026-06-06T01:00:00Z",
+        "e": "2026-06-06T03:00:00Z",
+        "d": null,
+        "j": "Jazz Advance",
+        "u": null,
+        "t": "monthly",
+        "p": "jefferyplansker"
       }
     ],
     "rinse": [
-      {
-        "n": "X CLUB. presents HIDE THE JUNK",
-        "s": "2026-05-29T23:00:00Z",
-        "e": "2026-05-30T01:00:00Z",
-        "d": null,
-        "j": "Dusky",
-        "u": null,
-        "t": "monthly",
-        "p": "dusky",
-        "ap": [
-          "xclub"
-        ]
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-05-30T01:00:00Z",
