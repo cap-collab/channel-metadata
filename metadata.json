@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-31T15:13:06.893Z",
+  "updated": "2026-05-31T16:57:37.770Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LEILA SAMIR",
-        "s": "2026-05-31T16:00:00+01:00",
-        "e": "2026-05-31T17:00:00+01:00",
-        "d": "London producer & DJ Leila Samir presents an hour every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/leila-samir/episodes/leila-samir-31st-may-2026",
-        "t": "monthly",
-        "p": "leilasamir"
-      },
       {
         "n": "LOOSE BONES (R)",
         "s": "2026-05-31T17:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "THE REIGN SET",
         "s": "2026-05-31T19:00:00+01:00",
         "e": "2026-05-31T20:00:00+01:00",
-        "d": null,
+        "d": "DJ, vinyl archivist and presenter Gary The Tall’s show’s sole objective is to shine a light to the environs of outsider artists and their innovative endeavours where he unveils obscure post-punk, dub, synth, psychedelic rock and left-field cosmic excursions. \nFollow him on Instagram here ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/thereignset/episodes/thereignset-31st-may-2026",
         "t": "monthly"
       },
       {
@@ -52,13 +42,12 @@
         "p": "midnightmarauders"
       },
       {
-        "n": "OTOLOGIC (R)",
+        "n": "OTOLOGIC",
         "s": "2026-06-01T00:00:00+01:00",
         "e": "2026-06-01T02:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "restream",
         "p": "otologic"
       },
       {
@@ -147,14 +136,13 @@
         "p": "melodiesinternational"
       },
       {
-        "n": "System Olympia",
+        "n": "System Olympia: Pop Porn",
         "s": "2026-06-01T15:00:00+01:00",
         "e": "2026-06-01T16:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Pop Porn",
         "u": null,
-        "t": "monthly",
-        "p": "systemolympia"
+        "t": "monthly"
       },
       {
         "n": "OHBLIV - Summer Heat",
@@ -173,22 +161,17 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CLUB COCO w/ Kay Suzuki",
+        "s": "2026-06-01T18:00:00+01:00",
+        "e": "2026-06-01T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "NATALIA PANZER (R)",
-        "s": "2026-05-31T16:00:00+01:00",
-        "e": "2026-05-31T17:00:00+01:00",
-        "d": "Curio earworms and other obsessions from Krakow's Natalia Panzer.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-24th-september-2023",
-        "t": "restream",
-        "p": "natalia",
-        "ap": [
-          "nataliapanzer"
-        ]
-      },
       {
         "n": "NTS GUIDE TO: MUSIC FROM JAPAN’S CD-ERA ELECTRONIC UNDERGROUND (R)",
         "s": "2026-05-31T17:00:00+01:00",
@@ -202,9 +185,9 @@
         "n": "BLUE CANDY W/ CASEY MQ (R)",
         "s": "2026-05-31T19:00:00+01:00",
         "e": "2026-05-31T20:00:00+01:00",
-        "d": null,
+        "d": "Artist, producer, and composer Casey MQ shares the music that inspires him through a misplaced nostalgic lens on Blue Candy. Drawing from electronic and classical influences, his music fixates on harmony and its alluring path, with a continuous bed of original synthesizer recordings from Casey throughout.\nFrom the host: \"This ep of Blue Candy continues with my pads and synths scattered throughout the mix. I made this one right before I had to go to the airport so I let that inform the first official resident episode…\"",
         "j": "CASEY MQ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/casey-mq/episodes/casey-mq-26th-february-2026",
         "t": "restream",
         "p": "caseymq"
       },
@@ -350,6 +333,14 @@
         "j": null,
         "u": null,
         "p": "whybe"
+      },
+      {
+        "n": "PAVEL MILYAKOV Presents KENNYKRAZYWORLD",
+        "s": "2026-06-01T13:00:00+01:00",
+        "e": "2026-06-01T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -1487,18 +1478,18 @@
         "j": "eatmybeat",
         "u": "https://www.subtleradio.com/artists/extrasaus-w-eatmybeat/",
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs 2",
-        "s": "2026-05-31T14:00:00Z",
-        "e": "2026-05-31T16:00:00Z",
+        "n": "THEODORE",
+        "s": "2026-06-07T16:00:00Z",
+        "e": "2026-06-07T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Kenneth Bager - Music for Dreams",
         "s": "2026-05-31T16:00:00Z",
@@ -1508,6 +1499,15 @@
         "u": null,
         "t": "weekly",
         "p": "kennethbager"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-31T17:00:00Z",
+        "e": "2026-05-31T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "RERUN: Henry Sugar – Saccharine Sundays",
@@ -2015,19 +2015,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-06-07T16:00:00Z",
+        "e": "2026-06-07T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "Kitty Amor",
-        "s": "2026-05-31T14:00:00Z",
-        "e": "2026-05-31T16:00:00Z",
-        "d": null,
-        "j": "Remixia",
-        "u": null,
-        "t": "biweekly",
-        "p": "kittyamor"
-      },
       {
         "n": "Zenker Brothers",
         "s": "2026-05-31T16:00:00Z",
@@ -2205,14 +2205,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Fatale Furylax",
-        "s": "2026-05-31T15:00:00Z",
-        "e": "2026-05-31T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Naomi x Paloma Colombe – B2B live at Badaboum",
         "s": "2026-05-31T16:00:00Z",
