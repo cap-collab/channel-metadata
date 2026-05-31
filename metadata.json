@@ -1,10 +1,10 @@
 {
   "v": 2,
-  "updated": "2026-05-31T19:04:13.967Z",
+  "updated": "2026-05-31T20:50:22.313Z",
   "stations": {
     "nts1": [
       {
-        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
+        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD: MILES DAVIS CENTENARY",
         "s": "2026-05-31T20:00:00+01:00",
         "e": "2026-05-31T22:00:00+01:00",
         "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
@@ -171,16 +171,6 @@
     ],
     "nts2": [
       {
-        "n": "CHASING ECHOES W/ ARIANE KIKS & TOHÉ COMMARET (R)",
-        "s": "2026-05-31T20:00:00+01:00",
-        "e": "2026-05-31T21:00:00+01:00",
-        "d": "Experimental documentary filmmaker Tohé Commaret and photographer/musician Ariane Kiks collide for an hour of sonic exploration.",
-        "j": "ARIANE KIKS & TOHÉ COMMARET",
-        "u": "https://www.nts.live/api/v2/shows/chasing-echoes/episodes/chasing-echoes-ep1-8th-july-2025",
-        "t": "restream",
-        "p": "chasingechoes"
-      },
-      {
         "n": "THE WINDMILLS OF YOUR MIND W/ TAYLOR ROWLEY (R)",
         "s": "2026-05-31T21:00:00+01:00",
         "e": "2026-05-31T22:00:00+01:00",
@@ -193,9 +183,9 @@
         "n": "DEATH IS NOT THE END - CLASSICAL GUITAR SPECIAL (R)",
         "s": "2026-05-31T22:00:00+01:00",
         "e": "2026-06-01T00:00:00+01:00",
-        "d": null,
+        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.",
         "j": "CLASSICAL GUITAR SPECIAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-8th-june-2025",
         "t": "restream"
       },
       {
@@ -337,6 +327,16 @@
         "j": null,
         "u": null,
         "p": "chanelbeads"
+      },
+      {
+        "n": "SMERZ",
+        "s": "2026-06-01T16:00:00+01:00",
+        "e": "2026-06-01T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "smerz"
       }
     ],
     "subtle": [
@@ -1484,6 +1484,16 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Kitschko",
+        "s": "2026-06-07T20:00:00Z",
+        "e": "2026-06-07T21:00:00Z",
+        "d": "Born in Sunderland, based in London, Kitschko's productions and selections display a deep appreciation of UK club culture, and an affinity for late night, introspective sounds.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kitschko"
       }
     ],
     "dublab": [
@@ -1491,6 +1501,15 @@
         "n": "sounds of NOW",
         "s": "2026-05-31T19:00:00Z",
         "e": "2026-05-31T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-31T21:00:00Z",
+        "e": "2026-05-31T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2030,19 +2049,19 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Oblig",
-        "s": "2026-05-31T19:00:00Z",
-        "e": "2026-05-31T20:00:00Z",
+        "n": "Mary Nagakawa – Underscore",
+        "s": "2026-06-07T20:00:00Z",
+        "e": "2026-06-07T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "oblig"
-      },
+        "t": "monthly",
+        "p": "marynagakawa"
+      }
+    ],
+    "rinse": [
       {
         "n": "Sicaria Sound with Taiko, Kabz & Commodo",
         "s": "2026-05-31T20:00:00Z",
