@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-05-31T20:50:22.313Z",
+  "updated": "2026-05-31T22:51:30.122Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD: MILES DAVIS CENTENARY",
-        "s": "2026-05-31T20:00:00+01:00",
-        "e": "2026-05-31T22:00:00+01:00",
-        "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
-        "j": "ERNESTO CHAHOUD",
-        "u": "https://www.nts.live/api/v2/shows/ernesto-chahoud/episodes/ernesto-chahoud-31st-may-2026",
-        "t": "monthly",
-        "p": "ernestochahoud"
-      },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
         "s": "2026-05-31T22:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "OTOLOGIC",
         "s": "2026-06-01T00:00:00+01:00",
         "e": "2026-06-01T02:00:00+01:00",
-        "d": null,
+        "d": "Australian duo Otologic traverse wave, post punk, outsider club & dubwise meanderings in constant delay.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/otologic/episodes/otologic-1st-june-2026",
         "p": "otologic"
       },
       {
@@ -167,18 +157,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ORGAN TAPES w/ DJ CORPMANE & DJ RISH",
+        "s": "2026-06-01T22:00:00+01:00",
+        "e": "2026-06-01T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "organtapes"
       }
     ],
     "nts2": [
-      {
-        "n": "THE WINDMILLS OF YOUR MIND W/ TAYLOR ROWLEY (R)",
-        "s": "2026-05-31T21:00:00+01:00",
-        "e": "2026-05-31T22:00:00+01:00",
-        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures. ",
-        "j": "TAYLOR ROWLEY",
-        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-26th-november-2025",
-        "t": "restream"
-      },
       {
         "n": "DEATH IS NOT THE END - CLASSICAL GUITAR SPECIAL (R)",
         "s": "2026-05-31T22:00:00+01:00",
@@ -192,9 +182,9 @@
         "n": "ADVENTURES W/ CLARISSA CONNELLY (R)",
         "s": "2026-06-01T00:00:00+01:00",
         "e": "2026-06-01T01:00:00+01:00",
-        "d": null,
+        "d": "Musical adventures.",
         "j": "CLARISSA CONNELLY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/clarissa-connelly/episodes/clarissa-connelly-20th-may-2025",
         "t": "restream",
         "p": "clarissaconnelly"
       },
@@ -285,13 +275,13 @@
         "t": "restream"
       },
       {
-        "n": "BLOODZ BOI",
+        "n": "BLOODZ BOI (R)",
         "s": "2026-06-01T11:00:00+01:00",
         "e": "2026-06-01T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "restream",
         "p": "bloodzboi"
       },
       {
@@ -337,6 +327,15 @@
         "u": null,
         "t": "monthly",
         "p": "smerz"
+      },
+      {
+        "n": "CLAIRE ROUSAY",
+        "s": "2026-06-01T17:00:00+01:00",
+        "e": "2026-06-01T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "clairerousay"
       }
     ],
     "subtle": [
@@ -1494,13 +1493,32 @@
         "u": null,
         "t": "monthly",
         "p": "kitschko"
+      },
+      {
+        "n": "Envelop",
+        "s": "2026-06-07T21:00:00Z",
+        "e": "2026-06-07T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Chacho",
+        "s": "2026-06-07T22:00:00Z",
+        "e": "2026-06-07T23:00:00Z",
+        "d": "As a drummer since childhood, Chacho has always had an insatiable appetite for new and unique beats.\r\nCombining his love of global percussion, dark grooves and deeper low end frequencies, \r\nhis sets feature a blend of dubstep, grime, garage, breaks, hip hop and other flavours from around the world.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "chacho"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-05-31T19:00:00Z",
-        "e": "2026-05-31T21:00:00Z",
+        "s": "2026-05-31T21:00:00Z",
+        "e": "2026-05-31T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1508,8 +1526,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-05-31T21:00:00Z",
-        "e": "2026-05-31T23:00:00Z",
+        "s": "2026-05-31T23:00:00Z",
+        "e": "2026-06-01T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2059,18 +2077,19 @@
         "u": null,
         "t": "monthly",
         "p": "marynagakawa"
+      },
+      {
+        "n": "Mas Exitos con Ganas",
+        "s": "2026-06-07T21:00:00Z",
+        "e": "2026-06-07T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ganas"
       }
     ],
     "rinse": [
-      {
-        "n": "Sicaria Sound with Taiko, Kabz & Commodo",
-        "s": "2026-05-31T20:00:00Z",
-        "e": "2026-05-31T22:00:00Z",
-        "d": null,
-        "j": "(2018)",
-        "u": null,
-        "p": "sicaria"
-      },
       {
         "n": "Baalti",
         "s": "2026-05-31T22:00:00Z",
@@ -2217,15 +2236,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-05-31T18:00:00Z",
-        "e": "2026-06-01T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-06-01T07:00:00Z",
         "e": "2026-06-01T10:00:00Z",
         "d": null,
@@ -2249,7 +2259,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Bloodsport",
@@ -2258,7 +2268,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "bloodsport"
       },
       {
@@ -2268,7 +2278,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Rythme Brisé",
@@ -2277,7 +2287,7 @@
         "d": null,
         "j": "invite Takuya Nakamura",
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Bambi",
@@ -2296,7 +2306,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "weekly",
         "p": "hewanaman"
       },
       {
@@ -2306,7 +2316,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Playlist France",

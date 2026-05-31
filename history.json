@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-05-31T20:51:07.701Z",
+  "updated": "2026-05-31T22:52:14.974Z",
   "stations": {
     "nts1": [
       {
@@ -16425,6 +16425,16 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/thereignset/episodes/thereignset-31st-may-2026",
         "t": "monthly"
+      },
+      {
+        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD: MILES DAVIS CENTENARY",
+        "s": "2026-05-31T20:00:00+01:00",
+        "e": "2026-05-31T22:00:00+01:00",
+        "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
+        "j": "ERNESTO CHAHOUD",
+        "u": "https://www.nts.live/api/v2/shows/ernesto-chahoud/episodes/ernesto-chahoud-31st-may-2026",
+        "t": "monthly",
+        "p": "ernestochahoud"
       }
     ],
     "nts2": [
@@ -35792,6 +35802,15 @@
         "u": "https://www.nts.live/api/v2/shows/chasing-echoes/episodes/chasing-echoes-ep1-8th-july-2025",
         "t": "restream",
         "p": "chasingechoes"
+      },
+      {
+        "n": "THE WINDMILLS OF YOUR MIND W/ TAYLOR ROWLEY (R)",
+        "s": "2026-05-31T21:00:00+01:00",
+        "e": "2026-05-31T22:00:00+01:00",
+        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures. ",
+        "j": "TAYLOR ROWLEY",
+        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-26th-november-2025",
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -66743,6 +66762,15 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-05-31T19:00:00Z",
+        "e": "2026-05-31T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -82727,6 +82755,15 @@
         "u": null,
         "t": "weekly",
         "p": "oblig"
+      },
+      {
+        "n": "Sicaria Sound with Taiko, Kabz & Commodo",
+        "s": "2026-05-31T20:00:00Z",
+        "e": "2026-05-31T22:00:00Z",
+        "d": null,
+        "j": "(2018)",
+        "u": null,
+        "p": "sicaria"
       }
     ],
     "rinsefr": [
@@ -91922,48 +91959,79 @@
         "t": "playlist"
       },
       {
-        "n": "LLANAMOUR",
+        "n": "Aho Ssan",
         "s": "2026-05-31T12:00:00Z",
         "e": "2026-05-31T13:00:00Z",
         "d": null,
-        "j": "CARDIO SHOW",
-        "u": null
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       },
       {
-        "n": "MayalaBae",
+        "n": "Bloodsport",
         "s": "2026-05-31T13:00:00Z",
         "e": "2026-05-31T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly",
+        "p": "bloodsport"
       },
       {
-        "n": "Meli Mena",
+        "n": "Glitter55",
         "s": "2026-05-31T14:00:00Z",
         "e": "2026-05-31T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
-        "n": "Fatale Furylax",
+        "n": "Rythme Brisé",
         "s": "2026-05-31T15:00:00Z",
         "e": "2026-05-31T16:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "invite Takuya Nakamura",
+        "u": null,
+        "t": "biweekly"
       },
       {
-        "n": "Naomi x Paloma Colombe – B2B live at Badaboum",
+        "n": "Bambi",
         "s": "2026-05-31T16:00:00Z",
+        "e": "2026-05-31T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bambi"
+      },
+      {
+        "n": "Hewan Aman",
+        "s": "2026-05-31T17:00:00Z",
         "e": "2026-05-31T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "naomi",
-        "ap": [
-          "palomacolombe"
-        ]
+        "t": "weekly",
+        "p": "hewanaman"
+      },
+      {
+        "n": "HALFPIPE RECORDS",
+        "s": "2026-05-31T18:00:00Z",
+        "e": "2026-05-31T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-05-31T19:00:00Z",
+        "e": "2026-05-31T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "newtown": [
