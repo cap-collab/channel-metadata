@@ -1,50 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-05-30T22:49:42.714Z",
+  "updated": "2026-05-31T02:37:59.755Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BLACK IMPULSE",
-        "s": "2026-05-30T22:00:00+01:00",
-        "e": "2026-05-31T00:00:00+01:00",
-        "d": "From 10 till midnight, Black Impulse’s shows are packed with transatlantic camaraderie and a distortion heavy stroll though metal, noise, gutter garage, trash blues, prog, hardcore, hip-hop, free jazz and anything else.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/black-impulse/episodes/black-impulse-30th-may-2026",
-        "p": "blackimpulse"
-      },
-      {
-        "n": "DIDDY WAH",
-        "s": "2026-05-31T00:00:00+01:00",
-        "e": "2026-05-31T01:00:00+01:00",
-        "d": "Adam digs deep into his box of 45s and pulls out a wild selection of 1950s and '60s blues, surf, rockabilly, R&B, gospel, garage, soul and rock'n'roll.\nFrom the host: \"Played a pretty wide mix of records. Some new ones too!\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/diddywah/episodes/diddywah-31st-may-2026"
-      },
-      {
-        "n": "Panorama Yerevan: Armenian Classical Special (R)",
-        "s": "2026-05-31T01:00:00+01:00",
-        "e": "2026-05-31T02:00:00+01:00",
-        "d": null,
-        "j": "Armenian Classical Special",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "CLAIRO (R)",
-        "s": "2026-05-31T02:00:00+01:00",
-        "e": "2026-05-31T03:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Janie Jones (R)",
         "s": "2026-05-31T03:00:00+01:00",
         "e": "2026-05-31T04:00:00+01:00",
-        "d": null,
+        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-21st-april-2024",
         "t": "restream",
         "p": "janiejones"
       },
@@ -52,9 +17,9 @@
         "n": "AN1MA (R)",
         "s": "2026-05-31T04:00:00+01:00",
         "e": "2026-05-31T05:00:00+01:00",
-        "d": null,
+        "d": "integration sounds from the source; an invitation into the shadow.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-22nd-february-2023",
         "t": "restream"
       },
       {
@@ -173,53 +138,63 @@
         "u": null,
         "t": "monthly",
         "p": "loosebones"
+      },
+      {
+        "n": "THE REIGN SET",
+        "s": "2026-05-31T19:00:00+01:00",
+        "e": "2026-05-31T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
+        "s": "2026-05-31T20:00:00+01:00",
+        "e": "2026-05-31T22:00:00+01:00",
+        "d": null,
+        "j": "ERNESTO CHAHOUD",
+        "u": null,
+        "t": "monthly",
+        "p": "ernestochahoud"
+      },
+      {
+        "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
+        "s": "2026-05-31T22:00:00+01:00",
+        "e": "2026-06-01T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "midnightmarauders"
+      },
+      {
+        "n": "OTOLOGIC (R)",
+        "s": "2026-06-01T00:00:00+01:00",
+        "e": "2026-06-01T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "otologic"
       }
     ],
     "nts2": [
       {
-        "n": "M00DTAPES W/ ROD COOMBES (R)",
-        "s": "2026-05-30T22:00:00+01:00",
-        "e": "2026-05-31T00:00:00+01:00",
-        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.\nFrom the host: \"This is a very special episode that I’ve been wanting to do for a long time. Curated with my father Rod Coombes – Drummer (Stealers Wheel / Strawbs), music savant, creative genius, gentle and warm soul, this is a collection of tracks that have shaped and bonded us as family and music lovers.\"",
-        "j": "ROD COOMBES",
-        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-7th-december-2025",
-        "t": "restream",
-        "p": "m00dtapes"
-      },
-      {
-        "n": "DRIZLE.FM W/ PLO MAN (R)",
-        "s": "2026-05-31T00:00:00+01:00",
-        "e": "2026-05-31T02:00:00+01:00",
-        "d": "forwards and backwards through bits of a [mostly] electronic music timeline. reverence for BCR. records i’ve played forever and new records i’ve just found. boil it down. one z in drizle.",
-        "j": "PLO MAN",
-        "u": "https://www.nts.live/api/v2/shows/drizlefm-w-plo-man/episodes/drizlefm-w-plo-man-9th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Séance Centre (R)",
-        "s": "2026-05-31T02:00:00+01:00",
-        "e": "2026-05-31T03:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "No Weapon Is Absolute (R)",
         "s": "2026-05-31T03:00:00+01:00",
         "e": "2026-05-31T04:00:00+01:00",
-        "d": null,
+        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-14th-december-2022",
         "t": "restream"
       },
       {
         "n": "SKYAPNEA (R)",
         "s": "2026-05-31T04:00:00+01:00",
         "e": "2026-05-31T06:00:00+01:00",
-        "d": null,
+        "d": "Broken club, dubbed out sounds, experimental electronics and atonal drifts: Gio’s monthly broadcasts are high contrast assemblages that move at a slow pace.\nFrom the host: \"This week’s show is an odd one for me because for the first time I’ve decided to use an edited recording of a set. in particular this is the set I performed at Fuori Festival in Spoleto last summer. The selection was pretty chilled and I felt like it would work nicely for the show.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/skyapnea/episodes/skyapnea-24th-november-2025",
         "t": "restream",
         "p": "skyapnea"
       },
@@ -349,6 +324,35 @@
         "j": "TAYLOR ROWLEY",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "DEATH IS NOT THE END - CLASSICAL GUITAR SPECIAL (R)",
+        "s": "2026-05-31T22:00:00+01:00",
+        "e": "2026-06-01T00:00:00+01:00",
+        "d": null,
+        "j": "CLASSICAL GUITAR SPECIAL",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ADVENTURES W/ CLARISSA CONNELLY (R)",
+        "s": "2026-06-01T00:00:00+01:00",
+        "e": "2026-06-01T01:00:00+01:00",
+        "d": null,
+        "j": "CLARISSA CONNELLY",
+        "u": null,
+        "t": "restream",
+        "p": "clarissaconnelly"
+      },
+      {
+        "n": "Keel Her (R)",
+        "s": "2026-06-01T01:00:00+01:00",
+        "e": "2026-06-01T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "keelher"
       }
     ],
     "subtle": [
@@ -1390,46 +1394,37 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Dread or Dead Records",
+        "s": "2026-06-06T23:00:00Z",
+        "e": "2026-06-07T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Phoebe's Playlist",
+        "s": "2026-06-07T00:00:00Z",
+        "e": "2026-06-07T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Polar Dance w/Winter Games",
+        "s": "2026-06-07T01:00:00Z",
+        "e": "2026-06-07T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "polardance"
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN Encarnacion",
-        "s": "2026-05-30T22:00:00Z",
-        "e": "2026-05-30T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "RERUN Teebs",
-        "s": "2026-05-30T23:00:00Z",
-        "e": "2026-05-31T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "teebs"
-      },
-      {
-        "n": "RERUN MSD",
-        "s": "2026-05-31T00:00:00Z",
-        "e": "2026-05-31T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "REERUN Sevyn",
-        "s": "2026-05-31T01:00:00Z",
-        "e": "2026-05-31T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "sevyn"
-      },
       {
         "n": "RERUN Zama Dube",
         "s": "2026-05-31T02:00:00Z",
@@ -1921,36 +1916,33 @@
         "u": null,
         "t": "monthly",
         "p": "mmarz"
+      },
+      {
+        "n": "Callie Ryan - Storage Container",
+        "s": "2026-06-06T23:00:00Z",
+        "e": "2026-06-07T01:00:00Z",
+        "d": null,
+        "j": "Storage Container",
+        "u": null,
+        "t": "biweekly",
+        "p": "callieryan"
+      },
+      {
+        "n": "Andy Oro and Akumen - Made to Move",
+        "s": "2026-06-07T01:00:00Z",
+        "e": "2026-06-07T03:00:00Z",
+        "d": null,
+        "j": "Made to Move",
+        "u": null,
+        "t": "monthly",
+        "p": "akumen",
+        "ap": [
+          "andyoro",
+          "madetomove"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "Of Paradise",
-        "s": "2026-05-30T22:00:00Z",
-        "e": "2026-05-30T23:00:00Z",
-        "d": null,
-        "j": "Mercy System",
-        "u": null,
-        "p": "paradise"
-      },
-      {
-        "n": "Of Paradise",
-        "s": "2026-05-30T23:00:00Z",
-        "e": "2026-05-31T00:00:00Z",
-        "d": null,
-        "j": "KROTONE",
-        "u": null,
-        "p": "paradise"
-      },
-      {
-        "n": "DJ RED",
-        "s": "2026-05-31T00:00:00Z",
-        "e": "2026-05-31T01:00:00Z",
-        "d": null,
-        "j": "Donato Dozzy",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-05-31T01:00:00Z",
@@ -2062,15 +2054,145 @@
       {
         "n": "Baalti",
         "s": "2026-05-31T22:00:00Z",
-        "e": "2026-05-31T23:00:00Z",
+        "e": "2026-06-01T00:00:00Z",
         "d": null,
         "j": "1OO1O",
         "u": null,
         "t": "biweekly",
         "p": "baalti"
+      },
+      {
+        "n": "ESC",
+        "s": "2026-06-01T00:00:00Z",
+        "e": "2026-06-01T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "esc"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-06-01T01:00:00Z",
+        "e": "2026-06-01T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "CONDUCTA",
+        "s": "2026-06-01T05:00:00Z",
+        "e": "2026-06-01T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-06-01T06:00:00Z",
+        "e": "2026-06-01T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Tim Garcia",
+        "s": "2026-06-01T08:00:00Z",
+        "e": "2026-06-01T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Donsurf",
+        "s": "2026-06-01T10:00:00Z",
+        "e": "2026-06-01T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "donsurf"
+      },
+      {
+        "n": "Niall Smith",
+        "s": "2026-06-01T11:00:00Z",
+        "e": "2026-06-01T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "niallsmith"
+      },
+      {
+        "n": "Charles Green",
+        "s": "2026-06-01T13:00:00Z",
+        "e": "2026-06-01T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "charlesgreen"
+      },
+      {
+        "n": "Scratcha",
+        "s": "2026-06-01T14:00:00Z",
+        "e": "2026-06-01T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "re:lax",
+        "s": "2026-06-01T16:00:00Z",
+        "e": "2026-06-01T18:00:00Z",
+        "d": null,
+        "j": "re:ni & laksa",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Hessle Audio",
+        "s": "2026-06-01T18:00:00Z",
+        "e": "2026-06-01T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "hessleaudio"
+      },
+      {
+        "n": "DJ Polo",
+        "s": "2026-06-01T21:00:00Z",
+        "e": "2026-06-01T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "djpolo"
+      },
+      {
+        "n": "Well Street Records",
+        "s": "2026-06-01T22:00:00Z",
+        "e": "2026-06-01T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinsefr": [
+      {
+        "n": "Playlist France",
+        "s": "2026-05-30T18:00:00Z",
+        "e": "2026-05-31T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
       {
         "n": "Playlist France",
         "s": "2026-05-31T07:00:00Z",
@@ -2090,53 +2212,75 @@
         "t": "playlist"
       },
       {
-        "n": "LLANAMOUR",
+        "n": "Aho Ssan",
         "s": "2026-05-31T12:00:00Z",
         "e": "2026-05-31T13:00:00Z",
         "d": null,
-        "j": "CARDIO SHOW",
-        "u": null
+        "j": null,
+        "u": null,
+        "t": "monthly"
       },
       {
-        "n": "MayalaBae",
+        "n": "Bloodsport",
         "s": "2026-05-31T13:00:00Z",
         "e": "2026-05-31T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly",
+        "p": "bloodsport"
       },
       {
-        "n": "Meli Mena",
+        "n": "Glitter55",
         "s": "2026-05-31T14:00:00Z",
         "e": "2026-05-31T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
-        "n": "Fatale Furylax",
+        "n": "Rythme Brisé",
         "s": "2026-05-31T15:00:00Z",
         "e": "2026-05-31T16:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "invite Takuya Nakamura",
+        "u": null,
+        "t": "monthly"
       },
       {
-        "n": "Naomi x Paloma Colombe – B2B live at Badaboum",
+        "n": "Bambi",
         "s": "2026-05-31T16:00:00Z",
+        "e": "2026-05-31T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bambi"
+      },
+      {
+        "n": "Hewan Aman",
+        "s": "2026-05-31T17:00:00Z",
         "e": "2026-05-31T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "naomi",
-        "ap": [
-          "palomacolombe"
-        ]
+        "t": "biweekly",
+        "p": "hewanaman"
+      },
+      {
+        "n": "HALFPIPE RECORDS",
+        "s": "2026-05-31T18:00:00Z",
+        "e": "2026-05-31T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "Playlist France",
-        "s": "2026-05-31T18:00:00Z",
-        "e": "2026-05-31T19:00:00Z",
+        "s": "2026-05-31T19:00:00Z",
+        "e": "2026-05-31T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2560,6 +2704,16 @@
         "ap": [
           "occo"
         ]
+      },
+      {
+        "n": "Modern Speech",
+        "s": "2026-07-01T00:00:00Z",
+        "e": "2026-07-01T02:00:00Z",
+        "d": null,
+        "j": "Young Drums",
+        "u": null,
+        "t": "monthly",
+        "p": "youngdrums"
       }
     ]
   }
