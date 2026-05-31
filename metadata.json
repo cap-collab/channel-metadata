@@ -1,45 +1,26 @@
 {
   "v": 2,
-  "updated": "2026-05-31T13:17:36.172Z",
+  "updated": "2026-05-31T15:13:06.893Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PALM WINE CLUB (R)",
-        "s": "2026-05-31T14:00:00+01:00",
-        "e": "2026-05-31T15:00:00+01:00",
-        "d": "Palm Wine Club was born in the basement of the London EDITION almost eight years ago. Evolving from party to radio show to travelling arts club - Palm Wine Club celebrates art, life + enjoyment.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/palmwineclub/episodes/palmwineclub-1st-june-2025",
-        "t": "restream"
-      },
-      {
-        "n": "NOEL SPIVA",
-        "s": "2026-05-31T15:00:00+01:00",
-        "e": "2026-05-31T16:00:00+01:00",
-        "d": "St. Louis multidimensional visual artist Noel Spiva brings a regular hour of warming, soulful selections merging smooth rap & inspiring jazzy tracks…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/noel-spiva/episodes/noel-spiva-31st-may-2026",
-        "t": "monthly",
-        "p": "noelspiva"
-      },
       {
         "n": "LEILA SAMIR",
         "s": "2026-05-31T16:00:00+01:00",
         "e": "2026-05-31T17:00:00+01:00",
-        "d": null,
+        "d": "London producer & DJ Leila Samir presents an hour every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/leila-samir/episodes/leila-samir-31st-may-2026",
         "t": "monthly",
         "p": "leilasamir"
       },
       {
-        "n": "LOOSE BONES",
+        "n": "LOOSE BONES (R)",
         "s": "2026-05-31T17:00:00+01:00",
         "e": "2026-05-31T19:00:00+01:00",
-        "d": null,
+        "d": "NTS hosts since early doors, Loose Bones take you on a freewheeling trip through filmic soundscapes, psychedelia, vintage experimentalism, fuzzed out rock and other esoteric surprises. Every single month. ",
         "j": null,
-        "u": null,
-        "t": "monthly",
+        "u": "https://www.nts.live/api/v2/shows/loose-bones/episodes/loose-bones-6th-april-2025",
+        "t": "restream",
         "p": "loosebones"
       },
       {
@@ -174,35 +155,34 @@
         "u": null,
         "t": "monthly",
         "p": "systemolympia"
+      },
+      {
+        "n": "OHBLIV - Summer Heat",
+        "s": "2026-06-01T16:00:00+01:00",
+        "e": "2026-06-01T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ohbliv"
+      },
+      {
+        "n": "ATHENS OF THE NORTH",
+        "s": "2026-06-01T17:00:00+01:00",
+        "e": "2026-06-01T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "IN FOCUS: DARYL HALL & JOHN OATES (R)",
-        "s": "2026-05-31T13:00:00+01:00",
-        "e": "2026-05-31T15:00:00+01:00",
-        "d": "Daryl Hall and John Oates are one of the most commercially successful musical duos of all time – first collaborating in the early 1970s, Hall and Oates were already versed in the burgeoning Philly soul sound, performing in various bands in the city in the late 1960s.\nThey took the Philadelphia soul sound into immaculately produced pop territory in the late 1970s and into their heydey in the 1980s, weaving in rock and new wave elements, with taut, catchy songwriting always at the heart of their music. \nMixed by Theo and Marc Schlossman. ",
-        "j": "DARYL HALL & JOHN OATES",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-hall-oates-27th-february-2026",
-        "t": "restream"
-      },
-      {
-        "n": "Trapdoor w/ Neil Krug (R)",
-        "s": "2026-05-31T15:00:00+01:00",
-        "e": "2026-05-31T16:00:00+01:00",
-        "d": "Neil Krug is an American visual artist, director, and photographer based in Los Angeles. Tune in for a sonic lysergic tale of love, heartbreak, and redemption.",
-        "j": "Neil Krug",
-        "u": "https://www.nts.live/api/v2/shows/neil-krug/episodes/neil-krug-12th-april-2025",
-        "t": "restream",
-        "p": "neilkrug"
-      },
-      {
         "n": "NATALIA PANZER (R)",
         "s": "2026-05-31T16:00:00+01:00",
         "e": "2026-05-31T17:00:00+01:00",
-        "d": null,
+        "d": "Curio earworms and other obsessions from Krakow's Natalia Panzer.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-24th-september-2023",
         "t": "restream",
         "p": "natalia",
         "ap": [
@@ -213,9 +193,9 @@
         "n": "NTS GUIDE TO: MUSIC FROM JAPAN’S CD-ERA ELECTRONIC UNDERGROUND (R)",
         "s": "2026-05-31T17:00:00+01:00",
         "e": "2026-05-31T19:00:00+01:00",
-        "d": null,
+        "d": "A journey through Japan’s quietly radical independent underground of the late ‘90s and early 2000s. Drawn from small-run CDs, obscure compilations, and deeply interconnected label networks, reflecting a moment where ambient, glitch, IDM, and experimental club sounds flourished into new forms — shaped by a generation of artists working across clubs, galleries, and record shops.\nCreated by Cameron Cullen",
         "j": "MUSIC FROM JAPAN’S CD-ERA ELECTRONIC UNDERGROUND",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-data-haiku-music-from-japan-s-cd-era-electronic-underground-8th-july-2025",
         "t": "restream"
       },
       {
@@ -351,25 +331,36 @@
         "j": "Felice Bauer",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "BLOODZ BOI",
+        "s": "2026-06-01T11:00:00+01:00",
+        "e": "2026-06-01T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bloodzboi"
+      },
+      {
+        "n": "WHY BE - CURSED SUMMER",
+        "s": "2026-06-01T12:00:00+01:00",
+        "e": "2026-06-01T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "whybe"
       }
     ],
     "subtle": [
       {
         "n": "Subtle Selects",
-        "s": "2026-05-31T13:00:00Z",
-        "e": "2026-05-31T14:00:00Z",
+        "s": "2026-05-31T15:00:00Z",
+        "e": "2026-05-31T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "Tahkhānā",
-        "s": "2026-05-31T14:00:00Z",
-        "e": "2026-05-31T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
         "n": "KZXK",
@@ -1060,6 +1051,15 @@
         "p": "startdancingnow"
       },
       {
+        "n": "Surrealist",
+        "s": "2026-06-04T14:00:00Z",
+        "e": "2026-06-04T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
         "n": "Resonant Sound",
         "s": "2026-06-04T15:00:00Z",
         "e": "2026-06-04T16:00:00Z",
@@ -1406,6 +1406,14 @@
         "p": "polardance"
       },
       {
+        "n": "dogofthemonth",
+        "s": "2026-06-07T02:00:00Z",
+        "e": "2026-06-07T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "wañuy",
         "s": "2026-06-07T04:00:00Z",
         "e": "2026-06-07T05:00:00Z",
@@ -1470,18 +1478,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "ExtraSauce w/ eatmybeat",
+        "s": "2026-06-07T14:00:00Z",
+        "e": "2026-06-07T16:00:00Z",
+        "d": "Established in 2013, eatmybeat is a hybrid record label & club brand that was brought together by a group of friends with a passion for electronic music and building community. With diverse tastes, they support and champion the underground bass music scene through events and releases on the label. Refusing to be pigeonholed into a specific sound, they showcase everything from hip-hop, bass & breaks, through to techno, jungle, dubstep and grime. As long as it's tasty and full fat, you best believe eatmybeat are snacking on it.",
+        "j": "eatmybeat",
+        "u": "https://www.subtleradio.com/artists/extrasaus-w-eatmybeat/",
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "djjs",
-        "s": "2026-05-31T12:00:00Z",
-        "e": "2026-05-31T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "djjs 2",
         "s": "2026-05-31T14:00:00Z",
@@ -1998,19 +2006,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "djjs 2",
+        "s": "2026-06-07T14:00:00Z",
+        "e": "2026-06-07T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Dance Regular",
-        "s": "2026-05-31T12:00:00Z",
-        "e": "2026-05-31T14:00:00Z",
-        "d": null,
-        "j": "Matica & EVM128",
-        "u": null,
-        "t": "biweekly",
-        "p": "danceregular"
-      },
       {
         "n": "Kitty Amor",
         "s": "2026-05-31T14:00:00Z",
@@ -2198,22 +2205,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "MayalaBae",
-        "s": "2026-05-31T13:00:00Z",
-        "e": "2026-05-31T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Meli Mena",
-        "s": "2026-05-31T14:00:00Z",
-        "e": "2026-05-31T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Fatale Furylax",
         "s": "2026-05-31T15:00:00Z",
