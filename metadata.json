@@ -1,58 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-06-01T15:49:01.674Z",
+  "updated": "2026-06-01T20:10:52.913Z",
   "stations": {
     "nts1": [
-      {
-        "n": "OHBLIV - Summer Heat",
-        "s": "2026-06-01T16:00:00+01:00",
-        "e": "2026-06-01T17:00:00+01:00",
-        "d": "Hip-hop and soul-inflected sounds from Richmond's Ohbliv.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ohbliv/episodes/ohbliv-1st-june-2026",
-        "p": "ohbliv"
-      },
-      {
-        "n": "ATHENS OF THE NORTH",
-        "s": "2026-06-01T17:00:00+01:00",
-        "e": "2026-06-01T18:00:00+01:00",
-        "d": "Edinburgh based party and reissue label present rarities and classics every month.\nFrom the host \"A Summer mixtape with love from Scotland.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/athens-of-the-north/episodes/athens-of-the-north-1st-june-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "CLUB COCO w/ Kay Suzuki",
-        "s": "2026-06-01T18:00:00+01:00",
-        "e": "2026-06-01T20:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "SUNCUT",
-        "s": "2026-06-01T20:00:00+01:00",
-        "e": "2026-06-01T21:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "WOODGRAIN w/ DENNIS.EXP",
         "s": "2026-06-01T21:00:00+01:00",
         "e": "2026-06-01T22:00:00+01:00",
-        "d": null,
+        "d": "Dennis specialises in selections ranging from new wave electronics, lo-fi hip-hop, downtempo house and everything in-between. Also a member of the wider music and production group, Woodgrain Vicious.\nFrom the host: \"Some songs that remind me of the sun\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/baadnews/episodes/baadnews-1st-june-2026"
       },
       {
         "n": "ORGAN TAPES w/ DJ CORPMANE & DJ RISH",
         "s": "2026-06-01T22:00:00+01:00",
         "e": "2026-06-01T23:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Organ Tapes and friends play disparate music plied and wrenched together with religious fervour. Sound of E5 上海 monthly on a Monday.",
+        "j": "DJ CORPMANE & DJ RISH",
+        "u": "https://www.nts.live/api/v2/shows/organ-tapes/episodes/organ-tapes-1st-june-2026",
+        "t": "monthly",
         "p": "organtapes"
       },
       {
@@ -165,76 +131,65 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Self Soothe w/ Margeaux",
+        "s": "2026-06-02T15:00:00+01:00",
+        "e": "2026-06-02T16:00:00+01:00",
+        "d": null,
+        "j": "Margeaux",
+        "u": null,
+        "t": "weekly",
+        "p": "margeaux"
+      },
+      {
+        "n": "AWE W/ LAUREL HALO",
+        "s": "2026-06-02T16:00:00+01:00",
+        "e": "2026-06-02T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "laurelhalo"
+      },
+      {
+        "n": "FERGUS CLARK",
+        "s": "2026-06-02T17:00:00+01:00",
+        "e": "2026-06-02T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "fergusclark"
+      },
+      {
+        "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "s": "2026-06-02T18:00:00+01:00",
+        "e": "2026-06-02T20:00:00+01:00",
+        "d": null,
+        "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
+        "u": null,
+        "t": "biweekly",
+        "p": "channeling"
       }
     ],
     "nts2": [
       {
-        "n": "SMERZ - FRENCH RIVIERA DECEMBER DRIVE (R)",
-        "s": "2026-06-01T16:00:00+01:00",
-        "e": "2026-06-01T17:00:00+01:00",
-        "d": "Henriette and Catharina of Smerz take over the NTS airwaves once a month with a selection of classical, folk, ambient, pop and more.",
-        "j": "FRENCH RIVIERA DECEMBER DRIVE",
-        "u": "https://www.nts.live/api/v2/shows/smerz/episodes/smerz-16th-december-2024",
-        "t": "restream",
-        "p": "december",
-        "ap": [
-          "smerz"
-        ]
-      },
-      {
-        "n": "CLAIRE ROUSAY",
-        "s": "2026-06-01T17:00:00+01:00",
-        "e": "2026-06-01T18:00:00+01:00",
-        "d": "Los Angeles producer & sound artist claire rousay journeys through healing plaintive electronics, quotidian field recordings & minimalist compositions.\nFrom the host: \"This episode features music from the San Antonio \"life-affirming art-rock band\" Buttercup and their related projects. Since 2004, the band has released 10 records and a DVD documentary. Their unique live show incorporates visual art, performance art and installation.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/claire-rousay/episodes/claire-rousay-1st-june-2026",
-        "p": "clairerousay"
-      },
-      {
-        "n": "AMBIENT ABRACADABRA W/ SOFIE BIRCH",
-        "s": "2026-06-01T18:00:00+01:00",
-        "e": "2026-06-01T19:00:00+01:00",
-        "d": null,
-        "j": "SOFIE BIRCH",
-        "u": null,
-        "t": "monthly",
-        "p": "sofiebirch"
-      },
-      {
-        "n": "Lost in the Bitrate w/ Lena Raine",
-        "s": "2026-06-01T19:00:00+01:00",
-        "e": "2026-06-01T20:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "lenaraine"
-      },
-      {
-        "n": "LE JARDIN W/ SARAH DAVACHI",
-        "s": "2026-06-01T20:00:00+01:00",
-        "e": "2026-06-01T21:00:00+01:00",
-        "d": null,
-        "j": "SARAH DAVACHI",
-        "u": null,
-        "t": "monthly",
-        "p": "sarahdavachi"
-      },
-      {
         "n": "NTS Guide to: Armadillo World Headquarters",
         "s": "2026-06-01T21:00:00+01:00",
         "e": "2026-06-01T22:00:00+01:00",
-        "d": null,
+        "d": "An hour long ride through the music orbiting Austin's famous venue and beer garden, Armadillo World Headquarters. Opening its doors in the summer of 1970, \"The 'Dillo\" as it would become affectionately known,  was ground zero for the counter-cultural energy that Austin would become famous for, where the free wheeling spirit of California rock met the Texas roots country sound. \nOver its ten-year history the landmark venue played host to artists as diverse as Ravi Shankar, Jerry Garcia, and Leon Russell. \nSelected and mixed by Jocelyn Romo.",
         "j": "Armadillo World Headquarters",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-armadillo-world-headquarters-1st-june-2026",
         "t": "weekly"
       },
       {
         "n": "Day Care - Street Soul, Downtempo, Dancehall w/ The Alaia of CQQL Records",
         "s": "2026-06-01T22:00:00+01:00",
         "e": "2026-06-02T00:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "CQQL Records founders DJ Randy Ellis and The Alaia bring you Day Care, a 2-hour monthly afternoon curriculum of Boogie Funk, Disco, R&B, G-Funk, House, Modern Soul wax, and way way more. Expect to be powdered and pampered by these audio obsessives.\nfrom the host: \"Mish mash of street soul, dancehall, downtempo and the likes on vinyl (mostly). Majority of tracks are from '87 to '96, plus a few from this decade <3\"",
+        "j": "The Alaia of CQQL Records",
+        "u": "https://www.nts.live/api/v2/shows/day-care/episodes/day-care-1st-june-2026",
+        "t": "monthly"
       },
       {
         "n": "Solid State Survivor w/ Shags Chamberlain (R)",
@@ -247,7 +202,7 @@
         "p": "shagschamberlain"
       },
       {
-        "n": "WHAT MEANS THE WORLD 2 U W/ THEO BARK",
+        "n": "What Means The World 2 U: Rare Prince Pt. 2 w/ Fat Tony",
         "s": "2026-06-02T01:00:00+01:00",
         "e": "2026-06-02T02:00:00+01:00",
         "d": null,
@@ -337,54 +292,56 @@
         "u": null,
         "t": "monthly",
         "p": "lukid"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "A.N.T Below the Surface",
-        "s": "2026-06-01T15:00:00Z",
-        "e": "2026-06-01T16:00:00Z",
+        "n": "Adultz Only",
+        "s": "2026-06-02T13:00:00+01:00",
+        "e": "2026-06-02T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "adultzonly"
+      },
+      {
+        "n": "YOU'LL SOON KNOW W Fitz Ambro$e & Minami Taiki",
+        "s": "2026-06-02T14:00:00+01:00",
+        "e": "2026-06-02T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Drumphill",
-        "s": "2026-06-01T16:00:00Z",
-        "e": "2026-06-01T17:00:00Z",
+        "n": "TONE",
+        "s": "2026-06-02T15:00:00+01:00",
+        "e": "2026-06-02T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "drumphill"
+        "p": "tone"
       },
       {
-        "n": "Underground Credentials",
-        "s": "2026-06-01T17:00:00Z",
-        "e": "2026-06-01T18:00:00Z",
+        "n": "UNITED IDENTITIES w/ CARISTA",
+        "s": "2026-06-02T16:00:00+01:00",
+        "e": "2026-06-02T17:00:00+01:00",
+        "d": null,
+        "j": "CARISTA",
+        "u": null,
+        "t": "monthly",
+        "p": "carista"
+      },
+      {
+        "n": "The Big Happy Show",
+        "s": "2026-06-02T17:00:00+01:00",
+        "e": "2026-06-02T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
-      {
-        "n": "glosssd",
-        "s": "2026-06-01T18:00:00Z",
-        "e": "2026-06-01T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "glosssd"
-      },
-      {
-        "n": "OneForty+",
-        "s": "2026-06-01T19:00:00Z",
-        "e": "2026-06-01T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Polo Jaffa",
         "s": "2026-06-01T20:00:00Z",
@@ -1478,29 +1435,46 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Thalma de Freitas – THALMA PLAYS BRASIL",
-        "s": "2026-06-01T15:00:00Z",
-        "e": "2026-06-01T17:00:00Z",
+        "n": "PADWICK",
+        "s": "2026-06-08T16:00:00Z",
+        "e": "2026-06-08T18:00:00Z",
+        "d": "Representing UK Bass Music Culture across a range of styles, sounds and tempos.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "OK.DJ",
+        "s": "2026-06-08T18:00:00Z",
+        "e": "2026-06-08T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Elrobo's Selectas",
+        "s": "2026-06-08T19:00:00Z",
+        "e": "2026-06-08T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Zubz Dubz",
+        "s": "2026-06-08T20:00:00Z",
+        "e": "2026-06-08T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "thalmadefreitas"
-      },
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-06-01T17:00:00Z",
-        "e": "2026-06-01T19:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
+        "p": "zubzdubz"
+      }
+    ],
+    "dublab": [
       {
         "n": "LUPE - RECENTS",
         "s": "2026-06-01T19:00:00Z",
@@ -2073,36 +2047,29 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Rene Contreras - Viva! Talks",
+        "s": "2026-06-08T17:00:00Z",
+        "e": "2026-06-08T19:00:00Z",
+        "d": null,
+        "j": "Viva! Talks",
+        "u": null,
+        "t": "weekly",
+        "p": "renecontreras"
+      },
+      {
+        "n": "Colloboh - Everything Inbetween",
+        "s": "2026-06-08T19:00:00Z",
+        "e": "2026-06-08T21:00:00Z",
+        "d": null,
+        "j": "Everything Inbetween",
+        "u": null,
+        "t": "monthly",
+        "p": "colloboh"
       }
     ],
     "rinse": [
-      {
-        "n": "Scratcha",
-        "s": "2026-06-01T14:00:00Z",
-        "e": "2026-06-01T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "re:lax",
-        "s": "2026-06-01T16:00:00Z",
-        "e": "2026-06-01T18:00:00Z",
-        "d": null,
-        "j": "Laksa",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Hessle Audio",
-        "s": "2026-06-01T18:00:00Z",
-        "e": "2026-06-01T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "hessleaudio"
-      },
       {
         "n": "size? x PUMA present The Cell",
         "s": "2026-06-01T20:00:00Z",
@@ -2292,44 +2259,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Rythme Brisé",
-        "s": "2026-06-01T15:00:00Z",
-        "e": "2026-06-01T16:00:00Z",
-        "d": null,
-        "j": "invite Takuya Nakamura",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Bambi",
-        "s": "2026-06-01T16:00:00Z",
-        "e": "2026-06-01T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "bambi"
-      },
-      {
-        "n": "Hewan Aman",
-        "s": "2026-06-01T17:00:00Z",
-        "e": "2026-06-01T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "hewanaman"
-      },
-      {
-        "n": "HALFPIPE RECORDS",
-        "s": "2026-06-01T18:00:00Z",
-        "e": "2026-06-01T19:00:00Z",
-        "d": null,
-        "j": "invite Povoa x Madge",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Playlist France",
         "s": "2026-06-01T19:00:00Z",
