@@ -1,52 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-02T13:52:12.405Z",
+  "updated": "2026-06-02T17:59:50.939Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Atlas Mnemosyne w/ Martyna Basta",
-        "s": "2026-06-02T14:00:00+01:00",
-        "e": "2026-06-02T15:00:00+01:00",
-        "d": "Polish composer Martyna Basta presents an ambitious high concept radio show inspired by Aby Warburg’s “Atlas Mnemosyne”, tracing the threads between renaissance and medieval music to contemporary sounds – from the Goldberg Variations to Babyxsosa, from Couperin to Maxwell Sterling.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/atlas-mnemosyne-w-martyna-basta-2nd-june-2026"
-      },
-      {
-        "n": "Self Soothe w/ Margeaux",
-        "s": "2026-06-02T15:00:00+01:00",
-        "e": "2026-06-02T16:00:00+01:00",
-        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
-        "j": "Margeaux",
-        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-2nd-june-2026",
-        "t": "weekly",
-        "p": "margeaux"
-      },
-      {
-        "n": "AWE W/ LAUREL HALO",
-        "s": "2026-06-02T16:00:00+01:00",
-        "e": "2026-06-02T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "laurelhalo"
-      },
-      {
-        "n": "FERGUS CLARK",
-        "s": "2026-06-02T17:00:00+01:00",
-        "e": "2026-06-02T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "fergusclark"
-      },
       {
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
         "s": "2026-06-02T18:00:00+01:00",
         "e": "2026-06-02T20:00:00+01:00",
-        "d": null,
+        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
         "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-2nd-june-2026",
         "t": "biweekly",
         "p": "channeling"
       },
@@ -54,9 +17,9 @@
         "n": "Trevor Jackson",
         "s": "2026-06-02T20:00:00+01:00",
         "e": "2026-06-02T22:00:00+01:00",
-        "d": null,
+        "d": "Audio-visual adventurer Trevor Jackson presents a broad spectrum of brand new experimental music, along with ancient oddities of every perceivable genre. A fortnightly uncompromising journey into the unexpected.\nMusic for sick minds and warm hearts",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/trevorjackson/episodes/trevorjackson-2nd-june-2026",
         "t": "monthly"
       },
       {
@@ -88,11 +51,11 @@
         "p": "helm"
       },
       {
-        "n": "OPEN HAND REAL FLAMES",
+        "n": "OPEN HAND REAL FLAMES - Yamaha DX7 Special",
         "s": "2026-06-03T02:00:00+01:00",
         "e": "2026-06-03T03:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Yamaha DX7 Special",
         "u": null,
         "t": "monthly"
       },
@@ -106,22 +69,23 @@
         "t": "restream"
       },
       {
-        "n": "Studio One - Dub Specialist (R)",
+        "n": "Studio One (R)",
         "s": "2026-06-03T04:00:00+01:00",
         "e": "2026-06-03T05:00:00+01:00",
         "d": null,
-        "j": "Dub Specialist",
+        "j": null,
         "u": null,
         "t": "restream"
       },
       {
-        "n": "Carlos René: Ta Mwen Ce Taw - Compas, Cadence and Zouk (R)",
+        "n": "Carlos René (R)",
         "s": "2026-06-03T05:00:00+01:00",
         "e": "2026-06-03T06:00:00+01:00",
         "d": null,
-        "j": "Ta Mwen Ce Taw - Compas, Cadence and Zouk",
+        "j": null,
         "u": null,
-        "t": "restream"
+        "t": "restream",
+        "p": "carlos"
       },
       {
         "n": "ONDAS W/ DUBBY (R)",
@@ -174,54 +138,50 @@
         "ap": [
           "lunchclub"
         ]
+      },
+      {
+        "n": "NTS Guide to: Rap français 1996",
+        "s": "2026-06-03T14:00:00+01:00",
+        "e": "2026-06-03T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LOUISE CHEN",
+        "s": "2026-06-03T15:00:00+01:00",
+        "e": "2026-06-03T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "louisechen"
+      },
+      {
+        "n": "DJ co.kr b2b h4rdy",
+        "s": "2026-06-03T17:00:00+01:00",
+        "e": "2026-06-03T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LILEN",
+        "s": "2026-06-03T18:00:00+01:00",
+        "e": "2026-06-03T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "YOU'LL SOON KNOW W Fitz Ambro$e & Minami Taiki",
-        "s": "2026-06-02T14:00:00+01:00",
-        "e": "2026-06-02T15:00:00+01:00",
-        "d": "Tim Parker explores the experimental corners of beats and hip hop, weaving together jazz, underground cuts and global sounds - live once a month from London & Amsterdam.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/youll-soon-know/episodes/youll-soon-know-2nd-june-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "TONE",
-        "s": "2026-06-02T15:00:00+01:00",
-        "e": "2026-06-02T16:00:00+01:00",
-        "d": "A feel-good hour of deep grooves and soulful selections served up by Tone.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tone/episodes/tone-2nd-june-2026",
-        "t": "monthly",
-        "p": "tone"
-      },
-      {
-        "n": "UNITED IDENTITIES w/ CARISTA",
-        "s": "2026-06-02T16:00:00+01:00",
-        "e": "2026-06-02T17:00:00+01:00",
-        "d": null,
-        "j": "CARISTA",
-        "u": null,
-        "t": "monthly",
-        "p": "carista"
-      },
-      {
-        "n": "The Big Happy Show",
-        "s": "2026-06-02T17:00:00+01:00",
-        "e": "2026-06-02T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE - AFRO BOOGIE (R)",
         "s": "2026-06-02T18:00:00+01:00",
         "e": "2026-06-02T19:00:00+01:00",
-        "d": null,
+        "d": "Lagos based collector and DJ Temi Kogbe traces connections in African popular culture through vinyl. ",
         "j": "TEMI KOGBE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/temi-kogbe/episodes/temi-kogbe-7th-december-2025",
         "t": "restream",
         "p": "temikogbe"
       },
@@ -229,9 +189,9 @@
         "n": "MUSIC FOR A HEALING EARTH W/ THE COSMIC TONES RESEARCH TRIO - Sounds from PDX",
         "s": "2026-06-02T19:00:00+01:00",
         "e": "2026-06-02T20:00:00+01:00",
-        "d": null,
+        "d": "Healing and restorative sonic transmissions for all beings.\nFrom the host: \"Sharing music from Portland, OR based artists.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-cosmic-tones-research-trio/episodes/the-cosmic-tones-research-trio-2nd-june-2026",
         "p": "thecosmictonesresearchtrio"
       },
       {
@@ -310,20 +270,20 @@
         "t": "restream"
       },
       {
-        "n": "Séance Centre - Music For Young Lovers (R)",
+        "n": "Séance Centre (R)",
         "s": "2026-06-03T07:00:00+01:00",
         "e": "2026-06-03T08:00:00+01:00",
         "d": null,
-        "j": "Music For Young Lovers",
+        "j": null,
         "u": null,
         "t": "restream"
       },
       {
-        "n": "Death Is Not The End - Jah Shaka Tribute (R)",
+        "n": "Death Is Not The End (R)",
         "s": "2026-06-03T08:00:00+01:00",
         "e": "2026-06-03T10:00:00+01:00",
         "d": null,
-        "j": "Jah Shaka Tribute",
+        "j": null,
         "u": null,
         "t": "restream"
       },
@@ -345,46 +305,44 @@
         "u": null,
         "t": "monthly",
         "p": "carladalforno"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Aural Cynosures w/ ALITH BERNDARN",
-        "s": "2026-06-02T13:00:00Z",
-        "e": "2026-06-02T14:00:00Z",
+        "n": "ACID MEMORIES w/ SAHARA GRIM",
+        "s": "2026-06-03T12:00:00+01:00",
+        "e": "2026-06-03T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "acidmemories"
+      },
+      {
+        "n": "SHUKAI - Ukrainians abroad",
+        "s": "2026-06-03T13:00:00+01:00",
+        "e": "2026-06-03T14:00:00+01:00",
+        "d": null,
+        "j": "Ukrainians abroad",
+        "u": null,
+        "t": "monthly",
+        "p": "shukai"
+      },
+      {
+        "n": "80's RAMPWALK",
+        "s": "2026-06-03T14:00:00+01:00",
+        "e": "2026-06-03T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Nicked Fawlty",
-        "s": "2026-06-02T14:00:00Z",
-        "e": "2026-06-02T15:00:00Z",
+        "n": "IKR. IMPRINT",
+        "s": "2026-06-03T15:00:00+01:00",
+        "e": "2026-06-03T16:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "nickedfawlty"
-      },
-      {
-        "n": "Get On festival ",
-        "s": "2026-06-02T15:00:00Z",
-        "e": "2026-06-02T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "getonfestival"
-      },
-      {
-        "n": "SECH",
-        "s": "2026-06-02T16:00:00Z",
-        "e": "2026-06-02T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": " Karishma",
         "s": "2026-06-02T17:00:00Z",
@@ -1492,37 +1450,36 @@
         "u": null,
         "t": "monthly",
         "p": "hyrah"
+      },
+      {
+        "n": "Tayzwurld",
+        "s": "2026-06-09T15:00:00Z",
+        "e": "2026-06-09T16:00:00Z",
+        "d": "Rolling through varied tempo's and genres, Jimmy 2 Shoes brings dance floor orientated vibes and flows to wriggle your toes to. Expect eclectic selections and the freshest sounds from the UK underground. ",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Captain Lew",
+        "s": "2026-06-09T16:00:00Z",
+        "e": "2026-06-09T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Phasmid",
+        "s": "2026-06-09T17:00:00Z",
+        "e": "2026-06-09T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-06-02T13:00:00Z",
-        "e": "2026-06-02T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-06-02T15:00:00Z",
-        "e": "2026-06-02T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Chandler Poling - Studio Soundtracks",
-        "s": "2026-06-02T16:00:00Z",
-        "e": "2026-06-02T17:00:00Z",
-        "d": null,
-        "j": "Studio Soundtracks",
-        "u": null,
-        "t": "monthly",
-        "p": "chandlerpoling"
-      },
       {
         "n": "Joko Homo - Discoteca Imaginaria",
         "s": "2026-06-02T17:00:00Z",
@@ -2074,39 +2031,22 @@
         "u": null,
         "t": "monthly",
         "p": "danielt"
+      },
+      {
+        "n": "Mike Harding and Bana Haffar - Long Wave",
+        "s": "2026-06-09T15:00:00Z",
+        "e": "2026-06-09T17:00:00Z",
+        "d": null,
+        "j": "Long Wave",
+        "u": null,
+        "t": "monthly",
+        "p": "banahaffar",
+        "ap": [
+          "mikeharding"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "LILA",
-        "s": "2026-06-02T13:00:00Z",
-        "e": "2026-06-02T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "lila"
-      },
-      {
-        "n": "Brighter Days Family",
-        "s": "2026-06-02T14:00:00Z",
-        "e": "2026-06-02T16:00:00Z",
-        "d": null,
-        "j": "SamTheMan",
-        "u": null,
-        "t": "weekly",
-        "p": "brighterdaysfamily"
-      },
-      {
-        "n": "Prozak",
-        "s": "2026-06-02T16:00:00Z",
-        "e": "2026-06-02T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "prozak"
-      },
       {
         "n": "Dyslecta",
         "s": "2026-06-02T17:00:00Z",
@@ -2151,7 +2091,7 @@
         "s": "2026-06-02T22:00:00Z",
         "e": "2026-06-02T23:00:00Z",
         "d": null,
-        "j": "youwhatmate",
+        "j": "Goldie Quaker",
         "u": null
       },
       {
@@ -2210,7 +2150,7 @@
         "s": "2026-06-03T08:00:00Z",
         "e": "2026-06-03T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Duke Boara",
         "u": null,
         "t": "weekly",
         "p": "esk"
@@ -2259,7 +2199,7 @@
         "s": "2026-06-03T14:00:00Z",
         "e": "2026-06-03T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "JJAMZ",
         "u": null,
         "t": "weekly",
         "p": "utopiapresents"
@@ -2313,43 +2253,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Izzy Lindqwister",
-        "s": "2026-06-02T13:00:00Z",
-        "e": "2026-06-02T14:00:00Z",
-        "d": null,
-        "j": "Licence To Weed",
-        "u": null,
-        "p": "izzylindqwister"
-      },
-      {
-        "n": "Roi Luis - Spiiiiicy!",
-        "s": "2026-06-02T14:00:00Z",
-        "e": "2026-06-02T15:00:00Z",
-        "d": null,
-        "j": "Aujourd'hui c'est : Back to Back",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "restonsflex",
-        "s": "2026-06-02T15:00:00Z",
-        "e": "2026-06-02T16:00:00Z",
-        "d": null,
-        "j": "Latest Jawns",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "renoiterrible",
-        "s": "2026-06-02T16:00:00Z",
-        "e": "2026-06-02T17:00:00Z",
-        "d": null,
-        "j": "& Miss Sheitana",
-        "u": null,
-        "t": "monthly",
-        "p": "misssheitana"
-      },
       {
         "n": "Amor Satyr",
         "s": "2026-06-02T17:00:00Z",
@@ -2417,16 +2320,16 @@
         "s": "2026-06-03T14:00:00Z",
         "e": "2026-06-03T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Invite Vibina",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Sauti",
+        "n": "Heezy",
         "s": "2026-06-03T15:00:00Z",
         "e": "2026-06-03T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Sauti On Air",
         "u": null
       },
       {
