@@ -1,42 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-02T20:53:01.355Z",
+  "updated": "2026-06-02T23:27:48.145Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Trevor Jackson",
-        "s": "2026-06-02T20:00:00+01:00",
-        "e": "2026-06-02T22:00:00+01:00",
-        "d": "Audio-visual adventurer Trevor Jackson presents a broad spectrum of brand new experimental music, along with ancient oddities of every perceivable genre. A fortnightly uncompromising journey into the unexpected.\nMusic for sick minds and warm hearts",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/trevorjackson/episodes/trevorjackson-2nd-june-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "CRYSTALLMESS",
-        "s": "2026-06-02T22:00:00+01:00",
-        "e": "2026-06-02T23:00:00+01:00",
-        "d": "The French producer, DJ & Work In Progress 2019 alumna Crystallmess is Unleashed - bleeding edge club sounds & emotional content every month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/crystallmess/episodes/crystallmess-2nd-june-2026",
-        "t": "monthly",
-        "p": "crystallmess"
-      },
-      {
-        "n": "djmegan23",
-        "s": "2026-06-02T23:00:00+01:00",
-        "e": "2026-06-03T00:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "After dark w/ HELM",
         "s": "2026-06-03T00:00:00+01:00",
         "e": "2026-06-03T02:00:00+01:00",
-        "d": null,
+        "d": "Luke Younger heads up 2 hours of weirdo music, experiments and recordings once a month. ",
         "j": "HELM",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/helm/episodes/helm-3rd-june-2026",
         "t": "monthly",
         "p": "helm"
       },
@@ -44,9 +17,9 @@
         "n": "OPEN HAND REAL FLAMES - Yamaha DX7 Special",
         "s": "2026-06-03T02:00:00+01:00",
         "e": "2026-06-03T03:00:00+01:00",
-        "d": null,
+        "d": "OPEN HAND REAL FLAMES is a monthly show presented by Bass Clef. Each episode has a theme - usually a specific musical instrument or process, perhaps an artist or composer, sometimes a record label. Ranging wide over centuries and genres, looking for connections and joy. Always welcomes contributions, music, suggestions. For old Floating World Music shows click here\nFrom the host: \"An hour of music made with the iconic Yamaha DX7 FM synth - as heard on every pop hit of the 1980s - but we'll be exploring some stranger sounds and more modern interpretations too\"",
         "j": "Yamaha DX7 Special",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/open-hand-real-flames/episodes/open-hand-real-flames-3rd-june-2026",
         "t": "monthly"
       },
       {
@@ -171,35 +144,47 @@
         "j": null,
         "u": null,
         "p": "timreaper"
+      },
+      {
+        "n": "MARTELO",
+        "s": "2026-06-03T20:00:00+01:00",
+        "e": "2026-06-03T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "martelo"
+      },
+      {
+        "n": "HOOVERSOUND W/ SHERELLE & NAINA",
+        "s": "2026-06-03T21:00:00+01:00",
+        "e": "2026-06-03T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "hooversound",
+        "ap": [
+          "sherelle"
+        ]
+      },
+      {
+        "n": "NKISI invites Angel-Ho",
+        "s": "2026-06-03T22:00:00+01:00",
+        "e": "2026-06-03T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "nkisi"
       }
     ],
     "nts2": [
       {
-        "n": "TUFF SHED",
-        "s": "2026-06-02T21:00:00+01:00",
-        "e": "2026-06-02T23:00:00+01:00",
-        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-2nd-june-2026",
-        "t": "monthly",
-        "p": "tuffshed"
-      },
-      {
-        "n": "ABBY IMPERIAL",
-        "s": "2026-06-02T23:00:00+01:00",
-        "e": "2026-06-03T00:00:00+01:00",
-        "d": "The eclectic and diverse frequencies from a true East Bay Area native, Abby Imperial is ready to bring the soulful sounds of Rnb, g-funk, deep house, jungle & more..\nFrom the host: \"This Gospel Raggae & Dancehall mix is dedicated to Kingdom Beef, a Christian-owned Bay Area business serving authentic Jamaican beef patties. Follow them on IG @kingdombeef ! God bless!\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/abby-imperial/episodes/abby-imperial-2nd-june-2026",
-        "p": "abbyimperial"
-      },
-      {
         "n": "Post-Geography w/ Gravity Pleasure (R)",
         "s": "2026-06-03T00:00:00+01:00",
         "e": "2026-06-03T01:00:00+01:00",
-        "d": null,
+        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
         "j": "Gravity Pleasure",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-30th-october-2025",
         "t": "restream",
         "p": "postgeography"
       },
@@ -207,9 +192,9 @@
         "n": "btwn Earth+Sky: Lara Sarkissian",
         "s": "2026-06-03T01:00:00+01:00",
         "e": "2026-06-03T02:00:00+01:00",
-        "d": null,
+        "d": "btwn Earth+Sky is Lara Sarkissian's conceptual platform in which sound and music are prioritized across visual art realms and immersive experiences. Sonically, the label encourages collaboration between electronic music producers and musicians, to create ephemeral, once in a lifetime recordings and live performance.\nLara Sarkissian is a sound artist, electronic composer, filmmaker and former cofounder of label CLUB CHAI. Emerging from multidisciplinary practices, she invites you into her world of music spanning across genres and regions which inspire her production; sounds encountered from film, archives, the dance/electronic underground and Armenian, SWANA performance communities.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lara-sarkissian/episodes/lara-sarkissian-3rd-june-2026",
         "p": "larasarkissian"
       },
       {
@@ -337,37 +322,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Trinket w/ Stephen Star",
+        "s": "2026-06-03T19:00:00+01:00",
+        "e": "2026-06-03T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Panorama Heaven w/ Horse Vision",
+        "s": "2026-06-03T20:00:00+01:00",
+        "e": "2026-06-03T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "panoramaheaven"
       }
     ],
     "subtle": [
-      {
-        "n": "Earnesto’s Essentials",
-        "s": "2026-06-02T20:00:00Z",
-        "e": "2026-06-02T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Stanton",
-        "s": "2026-06-02T21:00:00Z",
-        "e": "2026-06-02T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "stanton"
-      },
-      {
-        "n": "Minuscule Music Show with Bondy",
-        "s": "2026-06-02T22:00:00Z",
-        "e": "2026-06-02T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "KUBA KONOFALSKI",
         "s": "2026-06-02T23:00:00Z",
@@ -1474,28 +1448,36 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "OPEN SLOT",
-        "s": "2026-06-02T19:00:00Z",
-        "e": "2026-06-02T21:00:00Z",
+        "n": "DHR Presents",
+        "s": "2026-06-09T21:00:00Z",
+        "e": "2026-06-09T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Protect Me – PROPRO’s HIP-HOP PUNK HOUSE",
-        "s": "2026-06-02T21:00:00Z",
-        "e": "2026-06-02T23:00:00Z",
+        "n": "DCBL",
+        "s": "2026-06-09T22:00:00Z",
+        "e": "2026-06-09T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "protectme"
+        "t": "monthly"
       },
+      {
+        "n": "Stereopants",
+        "s": "2026-06-09T23:00:00Z",
+        "e": "2026-06-10T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Hoseh - Version Sounds",
         "s": "2026-06-02T23:00:00Z",
@@ -1634,14 +1616,22 @@
         "t": "weekly"
       },
       {
-        "n": "Dustin Wong – Why Did Why Did Why Did",
-        "s": "2026-06-04T17:00:00Z",
-        "e": "2026-06-04T19:00:00Z",
+        "n": "GAY RERUN ;)",
+        "s": "2026-06-04T16:00:00Z",
+        "e": "2026-06-04T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "dustinwong"
+        "t": "restream"
+      },
+      {
+        "n": "GAY RERUN ;)",
+        "s": "2026-06-04T17:00:00Z",
+        "e": "2026-06-04T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Jimmy Tamborello - Dying Songs",
@@ -2033,6 +2023,15 @@
         ]
       },
       {
+        "n": "RERUN JF Chen",
+        "s": "2026-06-09T17:00:00Z",
+        "e": "2026-06-09T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "Sonrisita – Butterfly Beat",
         "s": "2026-06-09T19:00:00Z",
         "e": "2026-06-09T21:00:00Z",
@@ -2041,36 +2040,29 @@
         "u": null,
         "t": "monthly",
         "p": "sonrisita"
+      },
+      {
+        "n": "RERUN hannah + noelle",
+        "s": "2026-06-09T21:00:00Z",
+        "e": "2026-06-09T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "hannah"
+      },
+      {
+        "n": "Hoseh - Version Sounds",
+        "s": "2026-06-09T23:00:00Z",
+        "e": "2026-06-10T01:00:00Z",
+        "d": null,
+        "j": "Version Sounds",
+        "u": null,
+        "t": "weekly",
+        "p": "hoseh"
       }
     ],
     "rinse": [
-      {
-        "n": "Suzuki Drifting with Surusinghe",
-        "s": "2026-06-02T20:00:00Z",
-        "e": "2026-06-02T21:00:00Z",
-        "d": null,
-        "j": "Live from The Carpet Shop",
-        "u": null,
-        "t": "monthly",
-        "p": "surusinghe"
-      },
-      {
-        "n": "Kassian",
-        "s": "2026-06-02T21:00:00Z",
-        "e": "2026-06-02T22:00:00Z",
-        "d": null,
-        "j": "Live from Sisyphos, Berlin",
-        "u": null,
-        "p": "kassian"
-      },
-      {
-        "n": "Hold A Corner Records",
-        "s": "2026-06-02T22:00:00Z",
-        "e": "2026-06-02T23:00:00Z",
-        "d": null,
-        "j": "Goldie Quaker",
-        "u": null
-      },
       {
         "n": "DJ RED",
         "s": "2026-06-02T23:00:00Z",
@@ -2227,6 +2219,172 @@
         "u": null,
         "t": "monthly",
         "p": "allecto"
+      },
+      {
+        "n": "Doctor Jeep",
+        "s": "2026-06-03T23:00:00Z",
+        "e": "2026-06-04T00:00:00Z",
+        "d": null,
+        "j": "Latin America Focus",
+        "u": null,
+        "t": "monthly",
+        "p": "doctorjeep"
+      },
+      {
+        "n": "Prozak",
+        "s": "2026-06-04T00:00:00Z",
+        "e": "2026-06-04T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "prozak"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-06-04T01:00:00Z",
+        "e": "2026-06-04T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Kassian",
+        "s": "2026-06-04T05:00:00Z",
+        "e": "2026-06-04T06:00:00Z",
+        "d": null,
+        "j": "Live from Sisyphos, Berlin",
+        "u": null,
+        "t": "monthly",
+        "p": "kassian"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-06-04T06:00:00Z",
+        "e": "2026-06-04T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Yazmin Lacey",
+        "s": "2026-06-04T08:00:00Z",
+        "e": "2026-06-04T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "yazminlacey"
+      },
+      {
+        "n": "Jordan Mae",
+        "s": "2026-06-04T10:00:00Z",
+        "e": "2026-06-04T11:00:00Z",
+        "d": null,
+        "j": "Soul Selections - Summer Forever",
+        "u": null,
+        "t": "weekly",
+        "p": "jordanmae"
+      },
+      {
+        "n": "Nathan Evans",
+        "s": "2026-06-04T11:00:00Z",
+        "e": "2026-06-04T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "nathanevans"
+      },
+      {
+        "n": "SK Vibemaker",
+        "s": "2026-06-04T12:00:00Z",
+        "e": "2026-06-04T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "skvibemaker"
+      },
+      {
+        "n": "The Black Wine Club Show with Mr. Redley",
+        "s": "2026-06-04T13:00:00Z",
+        "e": "2026-06-04T14:00:00Z",
+        "d": null,
+        "j": "B2B Heléna Star",
+        "u": null,
+        "t": "biweekly",
+        "p": "mrredley"
+      },
+      {
+        "n": "Tom Ravenscroft",
+        "s": "2026-06-04T14:00:00Z",
+        "e": "2026-06-04T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "tomravenscroft"
+      },
+      {
+        "n": "malix",
+        "s": "2026-06-04T16:00:00Z",
+        "e": "2026-06-04T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "malix"
+      },
+      {
+        "n": "Arthi",
+        "s": "2026-06-04T17:00:00Z",
+        "e": "2026-06-04T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "arthi"
+      },
+      {
+        "n": "Anfisa Letyago",
+        "s": "2026-06-04T18:00:00Z",
+        "e": "2026-06-04T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "anfisaletyago"
+      },
+      {
+        "n": "Pariah presents Voam",
+        "s": "2026-06-04T20:00:00Z",
+        "e": "2026-06-04T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "pariah"
+      },
+      {
+        "n": "DJ Plead",
+        "s": "2026-06-04T21:00:00Z",
+        "e": "2026-06-04T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "djplead"
+      },
+      {
+        "n": "Alicia",
+        "s": "2026-06-04T22:00:00Z",
+        "e": "2026-06-04T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "alicia"
       }
     ],
     "rinsefr": [
@@ -2258,63 +2416,68 @@
         "t": "playlist"
       },
       {
-        "n": "Chloé Sarraméa",
+        "n": "Léna Daniel",
         "s": "2026-06-03T12:00:00Z",
         "e": "2026-06-03T13:00:00Z",
-        "d": null,
-        "j": "PREMIERES W/ CÉLINE DESSBERG",
-        "u": null
-      },
-      {
-        "n": "Simon Alfred",
-        "s": "2026-06-03T13:00:00Z",
-        "e": "2026-06-03T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "LeZduA",
-        "s": "2026-06-03T14:00:00Z",
-        "e": "2026-06-03T15:00:00Z",
+        "n": "DOUBLE-O-THEATRE",
+        "s": "2026-06-03T13:00:00Z",
+        "e": "2026-06-03T14:00:00Z",
         "d": null,
-        "j": "Invite Vibina",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Heezy",
+        "n": "Louise Pétrouchka",
+        "s": "2026-06-03T14:00:00Z",
+        "e": "2026-06-03T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "louiseptrouchka"
+      },
+      {
+        "n": "ARTEM",
         "s": "2026-06-03T15:00:00Z",
         "e": "2026-06-03T16:00:00Z",
         "d": null,
-        "j": "Sauti On Air",
-        "u": null
+        "j": "invite Najskuplje",
+        "u": null,
+        "t": "monthly"
       },
       {
-        "n": "Lil Rosy",
+        "n": "Playlist France",
         "s": "2026-06-03T16:00:00Z",
         "e": "2026-06-03T17:00:00Z",
         "d": null,
-        "j": "& Zepequenaï",
-        "u": null
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
-        "n": "Triple G Records",
+        "n": "Anaco",
         "s": "2026-06-03T17:00:00Z",
         "e": "2026-06-03T18:00:00Z",
         "d": null,
-        "j": "present Lefblom",
-        "u": null
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "anaco"
       },
       {
-        "n": "Lisa More",
+        "n": "2much",
         "s": "2026-06-03T18:00:00Z",
         "e": "2026-06-03T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "lisamore"
+        "t": "monthly"
       },
       {
         "n": "Playlist France",
