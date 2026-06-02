@@ -1,51 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-06-02T08:20:22.880Z",
+  "updated": "2026-06-02T13:52:12.405Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-06-02T09:00:00+01:00",
-        "e": "2026-06-02T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-2nd-june-2026",
-        "t": "regular",
-        "p": "flo"
-      },
-      {
-        "n": "SOUP TO NUTS W/ ANU",
-        "s": "2026-06-02T11:00:00+01:00",
-        "e": "2026-06-02T13:00:00+01:00",
-        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
-        "j": "ANU",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-2nd-june-2026",
-        "t": "weekly",
-        "p": "anu"
-      },
-      {
-        "n": "Devon Ross",
-        "s": "2026-06-02T13:00:00+01:00",
-        "e": "2026-06-02T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Atlas Mnemosyne w/ Martyna Basta",
         "s": "2026-06-02T14:00:00+01:00",
         "e": "2026-06-02T15:00:00+01:00",
-        "d": null,
+        "d": "Polish composer Martyna Basta presents an ambitious high concept radio show inspired by Aby Warburg’s “Atlas Mnemosyne”, tracing the threads between renaissance and medieval music to contemporary sounds – from the Goldberg Variations to Babyxsosa, from Couperin to Maxwell Sterling.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/atlas-mnemosyne-w-martyna-basta-2nd-june-2026"
       },
       {
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-06-02T15:00:00+01:00",
         "e": "2026-06-02T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-2nd-june-2026",
         "t": "weekly",
         "p": "margeaux"
       },
@@ -125,6 +97,15 @@
         "t": "monthly"
       },
       {
+        "n": "INSOLAR W/ CAMI LAYÉ OKÚN (R)",
+        "s": "2026-06-03T03:00:00+01:00",
+        "e": "2026-06-03T04:00:00+01:00",
+        "d": null,
+        "j": "CAMI LAYÉ OKÚN",
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "Studio One - Dub Specialist (R)",
         "s": "2026-06-03T04:00:00+01:00",
         "e": "2026-06-03T05:00:00+01:00",
@@ -152,13 +133,14 @@
         "t": "restream"
       },
       {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "n": "The Early Bird Show w/ Bitter Babe",
         "s": "2026-06-03T07:00:00+01:00",
         "e": "2026-06-03T09:00:00+01:00",
         "d": null,
-        "j": "SPIRIT BLUE",
+        "j": "Bitter Babe",
         "u": null,
-        "t": "weekly"
+        "t": "monthly",
+        "p": "bitterbabe"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -169,63 +151,48 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-06-03T11:00:00+01:00",
+        "e": "2026-06-03T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-06-03T13:00:00+01:00",
+        "e": "2026-06-03T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "Dimension Door (R)",
-        "s": "2026-06-02T09:00:00+01:00",
-        "e": "2026-06-02T10:00:00+01:00",
-        "d": "It, and the mountain on its northern border, were the only features in all of Icewind Dale with any mentionable quantities of rock, as if they had been misplaced by some god in the earliest days of creation.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-9th-october-2025",
-        "t": "restream",
-        "p": "dimensiondoor"
-      },
-      {
-        "n": "NTS GUIDE TO: ENJA RECORDS (R)",
-        "s": "2026-06-02T10:00:00+01:00",
-        "e": "2026-06-02T12:00:00+01:00",
-        "d": "Two hours of music from the lauded German jazz imprint Enja Records, responsible for releasing the cutting edge of European, Japanese and US jazz, including artists like Mal Waldon, Freddie Hubbard, Yōsuke Yamashita, Alexander von Schlippenbach and many more. ",
-        "j": "ENJA RECORDS",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-enja-records-15th-august-2025",
-        "t": "restream"
-      },
-      {
-        "n": "LUKID",
-        "s": "2026-06-02T12:00:00+01:00",
-        "e": "2026-06-02T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lukid"
-      },
-      {
-        "n": "Adultz Only",
-        "s": "2026-06-02T13:00:00+01:00",
-        "e": "2026-06-02T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "adultzonly"
-      },
-      {
         "n": "YOU'LL SOON KNOW W Fitz Ambro$e & Minami Taiki",
         "s": "2026-06-02T14:00:00+01:00",
         "e": "2026-06-02T15:00:00+01:00",
-        "d": null,
+        "d": "Tim Parker explores the experimental corners of beats and hip hop, weaving together jazz, underground cuts and global sounds - live once a month from London & Amsterdam.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/youll-soon-know/episodes/youll-soon-know-2nd-june-2026",
+        "t": "monthly"
       },
       {
         "n": "TONE",
         "s": "2026-06-02T15:00:00+01:00",
         "e": "2026-06-02T16:00:00+01:00",
-        "d": null,
+        "d": "A feel-good hour of deep grooves and soulful selections served up by Tone.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tone/episodes/tone-2nd-june-2026",
         "t": "monthly",
         "p": "tone"
       },
@@ -247,6 +214,16 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE - AFRO BOOGIE (R)",
+        "s": "2026-06-02T18:00:00+01:00",
+        "e": "2026-06-02T19:00:00+01:00",
+        "d": null,
+        "j": "TEMI KOGBE",
+        "u": null,
+        "t": "restream",
+        "p": "temikogbe"
       },
       {
         "n": "MUSIC FOR A HEALING EARTH W/ THE COSMIC TONES RESEARCH TRIO - Sounds from PDX",
@@ -340,56 +317,37 @@
         "j": "Music For Young Lovers",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Death Is Not The End - Jah Shaka Tribute (R)",
+        "s": "2026-06-03T08:00:00+01:00",
+        "e": "2026-06-03T10:00:00+01:00",
+        "d": null,
+        "j": "Jah Shaka Tribute",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "OREN AMBARCHI (R)",
+        "s": "2026-06-03T10:00:00+01:00",
+        "e": "2026-06-03T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "CARLA DAL FORNO",
+        "s": "2026-06-03T11:00:00+01:00",
+        "e": "2026-06-03T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "carladalforno"
       }
     ],
     "subtle": [
-      {
-        "n": "TorbM",
-        "s": "2026-06-02T08:00:00Z",
-        "e": "2026-06-02T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Leiiila",
-        "s": "2026-06-02T09:00:00Z",
-        "e": "2026-06-02T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "leiiila"
-      },
-      {
-        "n": "Octoroots",
-        "s": "2026-06-02T10:00:00Z",
-        "e": "2026-06-02T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Jakesy",
-        "s": "2026-06-02T11:00:00Z",
-        "e": "2026-06-02T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Bass Exchange",
-        "s": "2026-06-02T12:00:00Z",
-        "e": "2026-06-02T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "bassexchange"
-      },
       {
         "n": "Aural Cynosures w/ ALITH BERNDARN",
         "s": "2026-06-02T13:00:00Z",
@@ -1495,13 +1453,52 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Lucidik ",
+        "s": "2026-06-09T10:00:00Z",
+        "e": "2026-06-09T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Radio Roshy",
+        "s": "2026-06-09T11:00:00Z",
+        "e": "2026-06-09T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "radioroshy"
+      },
+      {
+        "n": "CONE",
+        "s": "2026-06-09T12:00:00Z",
+        "e": "2026-06-09T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "cone"
+      },
+      {
+        "n": "Hyrah ",
+        "s": "2026-06-09T13:00:00Z",
+        "e": "2026-06-09T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "hyrah"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-02T07:00:00Z",
-        "e": "2026-06-02T09:00:00Z",
+        "s": "2026-06-02T13:00:00Z",
+        "e": "2026-06-02T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1509,8 +1506,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-06-02T09:00:00Z",
-        "e": "2026-06-02T11:00:00Z",
+        "s": "2026-06-02T15:00:00Z",
+        "e": "2026-06-02T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2081,42 +2078,6 @@
     ],
     "rinse": [
       {
-        "n": "Papaoul",
-        "s": "2026-06-02T08:00:00Z",
-        "e": "2026-06-02T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Bel Cobain",
-        "s": "2026-06-02T10:00:00Z",
-        "e": "2026-06-02T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Ed Gillett",
-        "s": "2026-06-02T11:00:00Z",
-        "e": "2026-06-02T12:00:00Z",
-        "d": null,
-        "j": "Redtek",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Suzie Bakos",
-        "s": "2026-06-02T12:00:00Z",
-        "e": "2026-06-02T13:00:00Z",
-        "d": null,
-        "j": "Chantel Yeung",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "LILA",
         "s": "2026-06-02T13:00:00Z",
         "e": "2026-06-02T14:00:00Z",
@@ -2131,7 +2092,7 @@
         "s": "2026-06-02T14:00:00Z",
         "e": "2026-06-02T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "SamTheMan",
         "u": null,
         "t": "weekly",
         "p": "brighterdaysfamily"
@@ -2167,11 +2128,11 @@
         "p": "djlag"
       },
       {
-        "n": "Surusinghe",
+        "n": "Suzuki Drifting with Surusinghe",
         "s": "2026-06-02T20:00:00Z",
         "e": "2026-06-02T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from The Carpet Shop",
         "u": null,
         "t": "monthly",
         "p": "surusinghe"
@@ -2190,7 +2151,7 @@
         "s": "2026-06-02T22:00:00Z",
         "e": "2026-06-02T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "youwhatmate",
         "u": null
       },
       {
@@ -2353,33 +2314,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-06-02T07:00:00Z",
-        "e": "2026-06-02T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-06-02T10:00:00Z",
-        "e": "2026-06-02T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Lysiane N.",
-        "s": "2026-06-02T12:00:00Z",
-        "e": "2026-06-02T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Izzy Lindqwister",
         "s": "2026-06-02T13:00:00Z",
         "e": "2026-06-02T14:00:00Z",
@@ -2389,11 +2323,11 @@
         "p": "izzylindqwister"
       },
       {
-        "n": "Roi Luis",
+        "n": "Roi Luis - Spiiiiicy!",
         "s": "2026-06-02T14:00:00Z",
         "e": "2026-06-02T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Aujourd'hui c'est : Back to Back",
         "u": null,
         "t": "biweekly"
       },
@@ -2402,7 +2336,7 @@
         "s": "2026-06-02T15:00:00Z",
         "e": "2026-06-02T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Latest Jawns",
         "u": null,
         "t": "biweekly"
       },
@@ -2467,17 +2401,16 @@
         "s": "2026-06-03T12:00:00Z",
         "e": "2026-06-03T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "PREMIERES W/ CÉLINE DESSBERG",
         "u": null
       },
       {
-        "n": "Playlist France",
+        "n": "Simon Alfred",
         "s": "2026-06-03T13:00:00Z",
         "e": "2026-06-03T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "playlist"
+        "u": null
       },
       {
         "n": "LeZduA",
@@ -2509,7 +2442,7 @@
         "s": "2026-06-03T17:00:00Z",
         "e": "2026-06-03T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "present Lefblom",
         "u": null
       },
       {
