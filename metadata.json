@@ -1,53 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-04T02:48:52.753Z",
+  "updated": "2026-06-04T08:12:27.596Z",
   "stations": {
     "nts1": [
-      {
-        "n": "DON'T TRIP W/ MARGARITA (R)",
-        "s": "2026-06-04T03:00:00+01:00",
-        "e": "2026-06-04T05:00:00+01:00",
-        "d": "Somewhere between banging your head against a brick wall and holding your breath under water.",
-        "j": "MARGARITA",
-        "u": "https://www.nts.live/api/v2/shows/dont-trip/episodes/dont-trip-4th-april-2025",
-        "t": "restream"
-      },
-      {
-        "n": "SARA A (R)",
-        "s": "2026-06-04T05:00:00+01:00",
-        "e": "2026-06-04T06:00:00+01:00",
-        "d": "Lesser heard sounds with a focus on femmes in punk from artist and musician Sara A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-3rd-may-2024",
-        "t": "restream",
-        "p": "saraa"
-      },
-      {
-        "n": "KRANKY (R)",
-        "s": "2026-06-04T06:00:00+01:00",
-        "e": "2026-06-04T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "kranky"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-06-04T07:00:00+01:00",
-        "e": "2026-06-04T09:00:00+01:00",
-        "d": null,
-        "j": "PAM",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-06-04T09:00:00+01:00",
         "e": "2026-06-04T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-4th-june-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -55,9 +17,9 @@
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-06-04T11:00:00+01:00",
         "e": "2026-06-04T13:00:00+01:00",
-        "d": null,
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
         "j": "BABYSCHÖN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-4th-june-2026",
         "t": "weekly"
       },
       {
@@ -167,88 +129,63 @@
         "j": "JACK ROLLO",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW w/ TASH LC",
+        "s": "2026-06-05T09:00:00+01:00",
+        "e": "2026-06-05T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "tashlc"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SCARY THINGS",
+        "s": "2026-06-05T11:00:00+01:00",
+        "e": "2026-06-05T13:00:00+01:00",
+        "d": null,
+        "j": "SCARY THINGS",
+        "u": null,
+        "t": "biweekly",
+        "p": "scarythings"
+      },
+      {
+        "n": "RAJI RAGS",
+        "s": "2026-06-05T13:00:00+01:00",
+        "e": "2026-06-05T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "rajirags"
+      },
+      {
+        "n": "ADONIS w/ Jaye Ward",
+        "s": "2026-06-05T15:00:00+01:00",
+        "e": "2026-06-05T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "adonis"
       }
     ],
     "nts2": [
       {
-        "n": "Club Aerobics w/ Bianca Oblivion",
-        "s": "2026-06-04T03:00:00+01:00",
-        "e": "2026-06-04T04:00:00+01:00",
-        "d": "LA-based DJ and producer Bianca Oblivion highlights dance floor gems from artists worldwide. Featuring special guests every month. Make ‘em sweat.\nFrom the host: \"Locked in for the full hour this month, no guests. Peak time 4x4 mix with heavy percussive tracks--hardgroove, house, latincore + more.\"",
-        "j": "Bianca Oblivion",
-        "u": "https://www.nts.live/api/v2/shows/club-aerobics/episodes/club-aerobics-4th-june-2026",
-        "t": "monthly",
-        "p": "biancaoblivion",
-        "ap": [
-          "clubaerobics",
-          "clubaerobics"
-        ]
-      },
-      {
-        "n": "System Olympia - Truth & Pleasure  (R)",
-        "s": "2026-06-04T04:00:00+01:00",
-        "e": "2026-06-04T05:00:00+01:00",
-        "d": "System Olympia joins us for an hour a month.",
-        "j": "Truth & Pleasure",
-        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-20th-october-2025",
-        "t": "restream",
-        "p": "systemolympia",
-        "ap": [
-          "truth"
-        ]
-      },
-      {
-        "n": "Guitar World: UK Indie Singles 1990-1998",
-        "s": "2026-06-04T05:00:00+01:00",
-        "e": "2026-06-04T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Awe w/ Laurel Halo (R)",
-        "s": "2026-06-04T06:00:00+01:00",
-        "e": "2026-06-04T07:00:00+01:00",
-        "d": null,
-        "j": "Laurel Halo",
-        "u": null,
-        "t": "restream",
-        "p": "laurelhalo"
-      },
-      {
-        "n": "ANADOL (R)",
-        "s": "2026-06-04T07:00:00+01:00",
-        "e": "2026-06-04T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "HOUSE CALL (R)",
-        "s": "2026-06-04T08:00:00+01:00",
-        "e": "2026-06-04T09:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "IN FOCUS: MEHDI HASSAN (R)",
         "s": "2026-06-04T09:00:00+01:00",
         "e": "2026-06-04T11:00:00+01:00",
-        "d": null,
+        "d": "Highlights from the career of Mehdi Hassan, the Pakistani vocalist with a haunting baritone voice, who helped introduce the ancient Arabic poetic form of the ghazal to the wider world. \nSelected and mixed by Nāda Sonics",
         "j": "MEHDI HASSAN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-medhi-hassan-5th-december-2025",
         "t": "restream"
       },
       {
         "n": "Akira Saito",
         "s": "2026-06-04T11:00:00+01:00",
         "e": "2026-06-04T12:00:00+01:00",
-        "d": null,
+        "d": "Jazz collector and writer Akira Saito presents sounds from the cutting edge of contemporary Japanese jazz",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/akira-saito-4th-june-2026"
       },
       {
         "n": "On the Road w/ Adelina S - Rewind a Little /Pt. 4",
@@ -341,36 +278,61 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Feral Frequencies w/ Pinks",
-        "s": "2026-06-04T02:00:00Z",
-        "e": "2026-06-04T03:00:00Z",
+        "n": "PARIDE MARIA CALVIA - VANILLAJELLABA",
+        "s": "2026-06-04T23:00:00+01:00",
+        "e": "2026-06-05T00:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Wandah",
-        "s": "2026-06-04T03:00:00Z",
-        "e": "2026-06-04T04:00:00Z",
+        "n": "No Bells w/ Mano Sundaresan",
+        "s": "2026-06-05T00:00:00+01:00",
+        "e": "2026-06-05T01:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "nobells"
       },
       {
-        "n": "Lauden ",
-        "s": "2026-06-04T06:00:00Z",
-        "e": "2026-06-04T07:00:00Z",
+        "n": "TeamSESH: hnrk's \"Asphaltomen\" EP Release Special",
+        "s": "2026-06-05T01:00:00+01:00",
+        "e": "2026-06-05T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Rap Vacation w/ Shamon Cassette",
+        "s": "2026-06-05T02:00:00+01:00",
+        "e": "2026-06-05T04:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "lauden"
+        "p": "rapvacation"
       },
+      {
+        "n": "FIXED ABODE (R)",
+        "s": "2026-06-05T04:00:00+01:00",
+        "e": "2026-06-05T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "THEY ARE GUTTING A BODY OF WATER (R)",
+        "s": "2026-06-05T05:00:00+01:00",
+        "e": "2026-06-05T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": " In The Rotation w/ Su",
         "s": "2026-06-04T08:00:00Z",
@@ -1452,37 +1414,54 @@
         "u": null,
         "t": "monthly",
         "p": "rowthedecks"
+      },
+      {
+        "n": "kikitza",
+        "s": "2026-06-11T03:00:00Z",
+        "e": "2026-06-11T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Making Hay w/ natdav",
+        "s": "2026-06-11T07:00:00Z",
+        "e": "2026-06-11T08:00:00Z",
+        "d": null,
+        "j": "natdav",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Deep Awake by Semaj",
+        "s": "2026-06-11T08:00:00Z",
+        "e": "2026-06-11T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "deepawakebysemaj"
       }
     ],
     "dublab": [
       {
-        "n": "Kins – Footnotes",
-        "s": "2026-06-04T01:00:00Z",
-        "e": "2026-06-04T03:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-06-04T07:00:00Z",
+        "e": "2026-06-04T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "kins"
+        "t": "playlist"
       },
       {
-        "n": "GOGO – The Wavelength",
-        "s": "2026-06-04T03:00:00Z",
-        "e": "2026-06-04T05:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-06-04T09:00:00Z",
+        "e": "2026-06-04T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "gogo"
-      },
-      {
-        "n": "James Axon - Hearing Color",
-        "s": "2026-06-04T05:00:00Z",
-        "e": "2026-06-04T07:00:00Z",
-        "d": null,
-        "j": "Hearing Color",
-        "u": null,
-        "t": "monthly",
-        "p": "jamesaxon"
+        "t": "playlist"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -2029,37 +2008,29 @@
         "u": null,
         "t": "monthly",
         "p": "byronwestbrook"
+      },
+      {
+        "n": "Rusty Santos - Microworlds",
+        "s": "2026-06-11T03:00:00Z",
+        "e": "2026-06-11T05:00:00Z",
+        "d": null,
+        "j": "Microworlds",
+        "u": null,
+        "t": "monthly",
+        "p": "rustysantos"
+      },
+      {
+        "n": "Richard Chartier – between two points",
+        "s": "2026-06-11T05:00:00Z",
+        "e": "2026-06-11T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "richardchartier"
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-06-04T01:00:00Z",
-        "e": "2026-06-04T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Kassian",
-        "s": "2026-06-04T05:00:00Z",
-        "e": "2026-06-04T06:00:00Z",
-        "d": null,
-        "j": "Live from Sisyphos, Berlin",
-        "u": null,
-        "t": "monthly",
-        "p": "kassian"
-      },
-      {
-        "n": "Playlist",
-        "s": "2026-06-04T06:00:00Z",
-        "e": "2026-06-04T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Yazmin Lacey",
         "s": "2026-06-04T08:00:00Z",
@@ -2298,15 +2269,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-06-03T19:00:00Z",
-        "e": "2026-06-04T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-06-04T07:00:00Z",
         "e": "2026-06-04T10:00:00Z",
         "d": null,
@@ -2324,9 +2286,99 @@
         "t": "playlist"
       },
       {
-        "n": "Technopol",
+        "n": "Léna Daniel",
         "s": "2026-06-04T12:00:00Z",
         "e": "2026-06-04T13:00:00Z",
+        "d": null,
+        "j": "Preciouscargo.fm with BEA1991",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "DOUBLE-O-THEATRE",
+        "s": "2026-06-04T13:00:00Z",
+        "e": "2026-06-04T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Louise Pétrouchka",
+        "s": "2026-06-04T14:00:00Z",
+        "e": "2026-06-04T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "louiseptrouchka"
+      },
+      {
+        "n": "ARTEM",
+        "s": "2026-06-04T15:00:00Z",
+        "e": "2026-06-04T16:00:00Z",
+        "d": null,
+        "j": "invite Najskuplje",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-04T16:00:00Z",
+        "e": "2026-06-04T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "ANACO B2B GЯEG",
+        "s": "2026-06-04T17:00:00Z",
+        "e": "2026-06-04T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "anaco"
+      },
+      {
+        "n": "2much",
+        "s": "2026-06-04T18:00:00Z",
+        "e": "2026-06-04T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-04T19:00:00Z",
+        "e": "2026-06-05T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-05T07:00:00Z",
+        "e": "2026-06-05T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-05T10:00:00Z",
+        "e": "2026-06-05T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Technopol",
+        "s": "2026-06-05T12:00:00Z",
+        "e": "2026-06-05T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2335,8 +2387,8 @@
       },
       {
         "n": "Tigersushi",
-        "s": "2026-06-04T13:00:00Z",
-        "e": "2026-06-04T14:00:00Z",
+        "s": "2026-06-05T13:00:00Z",
+        "e": "2026-06-05T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2344,8 +2396,8 @@
       },
       {
         "n": "Queer Cult",
-        "s": "2026-06-04T14:00:00Z",
-        "e": "2026-06-04T15:00:00Z",
+        "s": "2026-06-05T14:00:00Z",
+        "e": "2026-06-05T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2354,8 +2406,8 @@
       },
       {
         "n": "LA CREOLE",
-        "s": "2026-06-04T15:00:00Z",
-        "e": "2026-06-04T16:00:00Z",
+        "s": "2026-06-05T15:00:00Z",
+        "e": "2026-06-05T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2364,8 +2416,8 @@
       },
       {
         "n": "Carlos do Complexo",
-        "s": "2026-06-04T16:00:00Z",
-        "e": "2026-06-04T17:00:00Z",
+        "s": "2026-06-05T16:00:00Z",
+        "e": "2026-06-05T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2373,8 +2425,8 @@
       },
       {
         "n": "Mariad",
-        "s": "2026-06-04T17:00:00Z",
-        "e": "2026-06-04T18:00:00Z",
+        "s": "2026-06-05T17:00:00Z",
+        "e": "2026-06-05T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2382,8 +2434,8 @@
       },
       {
         "n": "SOA420",
-        "s": "2026-06-04T18:00:00Z",
-        "e": "2026-06-04T19:00:00Z",
+        "s": "2026-06-05T18:00:00Z",
+        "e": "2026-06-05T19:00:00Z",
         "d": null,
         "j": "invite Sîn : Deep Medi Special",
         "u": null,
@@ -2392,8 +2444,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-06-04T19:00:00Z",
-        "e": "2026-06-04T20:00:00Z",
+        "s": "2026-06-05T19:00:00Z",
+        "e": "2026-06-05T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2402,35 +2454,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "the moment",
-        "s": "2026-06-04T02:00:00Z",
-        "e": "2026-06-04T03:00:00Z",
-        "d": null,
-        "j": "just another bitch",
-        "u": null,
-        "t": "monthly",
-        "p": "justanotherbitch"
-      },
-      {
-        "n": "ek",
-        "s": "2026-06-04T03:00:00Z",
-        "e": "2026-06-04T04:00:00Z",
-        "d": null,
-        "j": "ek",
-        "u": null,
-        "t": "monthly",
-        "p": "ek"
-      },
-      {
-        "n": "A / Void",
-        "s": "2026-06-04T04:00:00Z",
-        "e": "2026-06-04T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Seelene's Mooncast",
         "s": "2026-06-05T02:00:00Z",
