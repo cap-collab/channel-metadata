@@ -1,32 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-04T21:24:47.970Z",
+  "updated": "2026-06-04T23:01:35.424Z",
   "stations": {
     "nts1": [
-      {
-        "n": "AQUECIMENTO W/ Linguini",
-        "s": "2026-06-04T22:00:00+01:00",
-        "e": "2026-06-04T23:00:00+01:00",
-        "d": "“Aquecimento\" dives into Brazil’s widely eclectic and regional Electronic / Baile Funk music scene with Producer/DJ VHOOR. The show connects the past and present while providing hints to the future, highlighting the bubbling underground community, and providing a platform for a more diverse array of artists to be exposed to a worldwide audience.\nFrom the host: \"Special new mix from my good friend, Linguini, who is a Producer/DJ and music researcher from Belo Horizonte, Brazil.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/vhoor/episodes/vhoor-4th-june-2026"
-      },
-      {
-        "n": "NTS GUIDE TO: MIAMI BASS (R)",
-        "s": "2026-06-04T23:00:00+01:00",
-        "e": "2026-06-05T00:00:00+01:00",
-        "d": "An hour of raucous booty bass from the 80s and 90s.",
-        "j": "MIAMI BASS",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-miami-bass-14th-june-2023",
-        "t": "restream"
-      },
       {
         "n": "A MONTH OF SUNDAYS W/ BILL SPENCER (R)",
         "s": "2026-06-05T00:00:00+01:00",
         "e": "2026-06-05T01:00:00+01:00",
-        "d": null,
+        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.",
         "j": "BILL SPENCER",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-25th-october-2025",
         "t": "restream",
         "p": "billspencer"
       },
@@ -166,32 +149,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "DEEP MEDI",
+        "s": "2026-06-05T22:00:00+01:00",
+        "e": "2026-06-05T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "deepmedi"
       }
     ],
     "nts2": [
       {
-        "n": "Alex Ho w/ Airs",
-        "s": "2026-06-04T22:00:00+01:00",
-        "e": "2026-06-04T23:00:00+01:00",
-        "d": "LA event series, Moony Habits, Alex Ho takes over - live from our Los Angeles studio.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moony-habits/episodes/moony-habits-4th-june-2026"
-      },
-      {
-        "n": "PARIDE MARIA CALVIA - VANILLAJELLABA",
-        "s": "2026-06-04T23:00:00+01:00",
-        "e": "2026-06-05T00:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/paride-maria-calvia-vanillajellaba/episodes/paride-maria-calvia-vanillajellaba-4th-june-2026"
-      },
-      {
         "n": "No Bells w/ Mano Sundaresan",
         "s": "2026-06-05T00:00:00+01:00",
         "e": "2026-06-05T01:00:00+01:00",
-        "d": null,
+        "d": "The sounds of the rap abyss and beyond, presented by the music blog No Bells. Hosted by Mano Sundaresan with special guests.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/no-bells/episodes/no-bells-5th-june-2026",
         "p": "nobells"
       },
       {
@@ -328,27 +304,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "J:Kenzo ",
-        "s": "2026-06-04T20:00:00Z",
-        "e": "2026-06-04T22:00:00Z",
-        "d": "J:KENZO is a producer and record label owner (Artikal Music & Lion Charge) from the UK. Known for his minimalistic dark tribal sound in the both the dubstep and drum and bass scenes since 2006. ",
-        "j": "Kenzo",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Subtle Selects",
-        "s": "2026-06-04T22:00:00Z",
-        "e": "2026-06-04T23:00:00Z",
+        "n": "Trinh",
+        "s": "2026-06-05T20:00:00+01:00",
+        "e": "2026-06-05T21:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "trinh"
+      }
+    ],
+    "subtle": [
       {
         "n": "Crawl Space w/ Stork",
         "s": "2026-06-04T23:00:00Z",
@@ -1423,18 +1391,28 @@
         "u": null,
         "t": "monthly",
         "p": "benteki"
+      },
+      {
+        "n": "Matt Frost ",
+        "s": "2026-06-11T22:00:00Z",
+        "e": "2026-06-11T23:00:00Z",
+        "d": "Potent Funk records’ Matt Frost - Well known for his technical abilities and Sleazy bass music style, Frost covers all angles from UK alt Rap to the LA beat scene.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "mattfrost"
+      },
+      {
+        "n": " Dubstar Records Show w/ Dubfreq",
+        "s": "2026-06-11T23:00:00Z",
+        "e": "2026-06-12T00:00:00Z",
+        "d": null,
+        "j": "Dubfreq",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Deepbody – Digi Drift",
-        "s": "2026-06-04T21:00:00Z",
-        "e": "2026-06-04T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "deepbody"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-06-04T23:00:00Z",
@@ -2016,29 +1994,19 @@
           "hannahrubin",
           "noellearmstrong"
         ]
+      },
+      {
+        "n": "Frankie Jax No Mad - Not Evil Radio",
+        "s": "2026-06-11T23:00:00Z",
+        "e": "2026-06-12T01:00:00Z",
+        "d": null,
+        "j": "Not Evil Radio",
+        "u": null,
+        "t": "monthly",
+        "p": "frankiejaxnomad"
       }
     ],
     "rinse": [
-      {
-        "n": "DJ Plead",
-        "s": "2026-06-04T21:00:00Z",
-        "e": "2026-06-04T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "djplead"
-      },
-      {
-        "n": "Alicia",
-        "s": "2026-06-04T22:00:00Z",
-        "e": "2026-06-04T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "alicia"
-      },
       {
         "n": "LIZZ",
         "s": "2026-06-04T23:00:00Z",
@@ -2174,6 +2142,157 @@
         "u": null,
         "t": "biweekly",
         "p": "esc"
+      },
+      {
+        "n": "Huey Mnemonic",
+        "s": "2026-06-05T23:00:00Z",
+        "e": "2026-06-06T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "hueymnemonic"
+      },
+      {
+        "n": "Pariah presents Voam",
+        "s": "2026-06-06T00:00:00Z",
+        "e": "2026-06-06T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "pariah"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-06-06T01:00:00Z",
+        "e": "2026-06-06T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Jordan Mae",
+        "s": "2026-06-06T05:00:00Z",
+        "e": "2026-06-06T06:00:00Z",
+        "d": null,
+        "j": "Soul Selections - Summer Forever",
+        "u": null,
+        "t": "weekly",
+        "p": "jordanmae"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-06-06T06:00:00Z",
+        "e": "2026-06-06T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Breakfast with Mr. Redley",
+        "s": "2026-06-06T08:00:00Z",
+        "e": "2026-06-06T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "mrredley"
+      },
+      {
+        "n": "Hi-Fidelity",
+        "s": "2026-06-06T10:00:00Z",
+        "e": "2026-06-06T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Counter Culture",
+        "s": "2026-06-06T12:00:00Z",
+        "e": "2026-06-06T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "counterculture"
+      },
+      {
+        "n": "Interstellar Funk",
+        "s": "2026-06-06T14:00:00Z",
+        "e": "2026-06-06T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Danny Rankin",
+        "s": "2026-06-06T15:00:00Z",
+        "e": "2026-06-06T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "dannyrankin"
+      },
+      {
+        "n": "DREA",
+        "s": "2026-06-06T16:00:00Z",
+        "e": "2026-06-06T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "drea"
+      },
+      {
+        "n": "George FitzGerald",
+        "s": "2026-06-06T17:00:00Z",
+        "e": "2026-06-06T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "georgefitzgerald"
+      },
+      {
+        "n": "CASE",
+        "s": "2026-06-06T18:00:00Z",
+        "e": "2026-06-06T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "case"
+      },
+      {
+        "n": "sim0ne",
+        "s": "2026-06-06T19:00:00Z",
+        "e": "2026-06-06T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sim0ne"
+      },
+      {
+        "n": "AMMARA",
+        "s": "2026-06-06T21:00:00Z",
+        "e": "2026-06-06T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ammara"
+      },
+      {
+        "n": "STLLRD",
+        "s": "2026-06-06T22:00:00Z",
+        "e": "2026-06-06T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinsefr": [
@@ -2205,71 +2324,69 @@
         "t": "playlist"
       },
       {
-        "n": "Technopol",
+        "n": "Rinse France Guest Show",
         "s": "2026-06-05T12:00:00Z",
         "e": "2026-06-05T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "technopol"
+        "t": "weekly"
       },
       {
-        "n": "Tigersushi",
+        "n": "Mensonges",
         "s": "2026-06-05T13:00:00Z",
         "e": "2026-06-05T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "tigersushi"
+        "p": "mensonges"
       },
       {
-        "n": "Queer Cult",
+        "n": "Griffes d'Anges",
         "s": "2026-06-05T14:00:00Z",
         "e": "2026-06-05T15:00:00Z",
         "d": null,
-        "j": "DJ Monique invite Soulmates",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "queercult"
+        "t": "monthly"
       },
       {
-        "n": "LA CREOLE",
+        "n": "Rama",
         "s": "2026-06-05T15:00:00Z",
         "e": "2026-06-05T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "lacreole"
-      },
-      {
-        "n": "Carlos do Complexo",
-        "s": "2026-06-05T16:00:00Z",
-        "e": "2026-06-05T17:00:00Z",
-        "d": null,
-        "j": "Complexcity",
-        "u": null,
-        "p": "carlos"
-      },
-      {
-        "n": "Mariad",
-        "s": "2026-06-05T17:00:00Z",
-        "e": "2026-06-05T18:00:00Z",
-        "d": null,
-        "j": "invite UNISHAINN",
-        "u": null,
         "t": "monthly"
       },
       {
-        "n": "SOA420",
+        "n": "RAAR",
+        "s": "2026-06-05T16:00:00Z",
+        "e": "2026-06-05T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "raar"
+      },
+      {
+        "n": "Vanille",
+        "s": "2026-06-05T17:00:00Z",
+        "e": "2026-06-05T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "vanille"
+      },
+      {
+        "n": "Playlist France",
         "s": "2026-06-05T18:00:00Z",
         "e": "2026-06-05T19:00:00Z",
         "d": null,
-        "j": "invite Sîn : Deep Medi Special",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "deepmedi"
+        "t": "playlist"
       },
       {
         "n": "Playlist France",
