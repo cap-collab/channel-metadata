@@ -1,32 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-05T07:59:39.883Z",
+  "updated": "2026-06-05T11:30:10.938Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & Ayami Suzuki",
-        "s": "2026-06-05T07:00:00+01:00",
-        "e": "2026-06-05T09:00:00+01:00",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-5th-june-2026"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW w/ TASH LC",
-        "s": "2026-06-05T09:00:00+01:00",
-        "e": "2026-06-05T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-tash-lc-5th-june-2026",
-        "p": "tashlc"
-      },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
         "s": "2026-06-05T11:00:00+01:00",
         "e": "2026-06-05T13:00:00+01:00",
-        "d": null,
+        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
         "j": "SCARY THINGS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-5th-june-2026",
         "t": "biweekly",
         "p": "scarythings"
       },
@@ -34,9 +17,9 @@
         "n": "RAJI RAGS",
         "s": "2026-06-05T13:00:00+01:00",
         "e": "2026-06-05T15:00:00+01:00",
-        "d": null,
+        "d": "Raj Chaudhuri - aka Raji Rags. NTS since day one. Always eclectic, never boring. Raj rustles up a seamless monthly mix that journeys through the BPMs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/raji-rags/episodes/raji-rags-5th-june-2026",
         "t": "monthly",
         "p": "rajirags"
       },
@@ -50,7 +33,7 @@
         "p": "adonis"
       },
       {
-        "n": "WAYA FYAM W/ PRIESTE$$ TELZZZZZZ",
+        "n": "WAYA FYAM W/ PRIESTE$$ TELZZZZZZ - Bashment essentials",
         "s": "2026-06-05T16:00:00+01:00",
         "e": "2026-06-05T17:00:00+01:00",
         "d": null,
@@ -76,13 +59,22 @@
         "u": null
       },
       {
-        "n": "HOPPER1000 RADIO",
+        "n": "HOOVERSOUND W/ NAINA (R)",
+        "s": "2026-06-05T19:00:00+01:00",
+        "e": "2026-06-05T20:00:00+01:00",
+        "d": null,
+        "j": "NAINA",
+        "u": null,
+        "t": "restream",
+        "p": "hooversound"
+      },
+      {
+        "n": "HOPPER1000 RADIO w/ LazyGod",
         "s": "2026-06-05T20:00:00+01:00",
         "e": "2026-06-05T21:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Príncipe w/ Nuno Beats",
@@ -93,7 +85,7 @@
         "u": null
       },
       {
-        "n": "DEEP MEDI",
+        "n": "DEEP MEDI w/ Swindle",
         "s": "2026-06-05T22:00:00+01:00",
         "e": "2026-06-05T23:00:00+01:00",
         "d": null,
@@ -166,44 +158,35 @@
         "u": null,
         "t": "restream",
         "p": "desirepaths"
+      },
+      {
+        "n": "RAGA VIBRATIONS",
+        "s": "2026-06-06T08:00:00+01:00",
+        "e": "2026-06-06T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ragavibrations"
       }
     ],
     "nts2": [
       {
-        "n": "Under Sleepy Moon w/ Yawning Portal (R)",
-        "s": "2026-06-05T08:00:00+01:00",
-        "e": "2026-06-05T09:00:00+01:00",
-        "d": "Zzzzzzzzzzzz… Shhhh… There's a baby sleeping in the house!",
-        "j": "Yawning Portal",
-        "u": "https://www.nts.live/api/v2/shows/under-sleepy-moon/episodes/under-sleepy-moon-6th-october-2025",
+        "n": "ALL NIGHT FLIGHT W/ KAITY FOX (R)",
+        "s": "2026-06-05T12:00:00+01:00",
+        "e": "2026-06-05T13:00:00+01:00",
+        "d": "A winding journey through the catalogue of All Night Flight's Stockport record store, spanning from modern classical and free-flowing jazz to a wide soundscape of dark ambient, folk and techno… with All Night Flight, anything goes!",
+        "j": "KAITY FOX",
+        "u": "https://www.nts.live/api/v2/shows/all-night-flight/episodes/all-night-flight-25th-january-2026",
         "t": "restream"
-      },
-      {
-        "n": "VIBRATIONS FOR A BETTER WORLD W/ AOKI TAKAMASA (R)",
-        "s": "2026-06-05T09:00:00+01:00",
-        "e": "2026-06-05T11:00:00+01:00",
-        "d": "Sticky Groove for Every Direction.",
-        "j": "AOKI TAKAMASA",
-        "u": "https://www.nts.live/api/v2/shows/aoki-takamasa/episodes/aoki-takamasa-5th-february-2025",
-        "t": "restream",
-        "p": "aokitakamasa"
-      },
-      {
-        "n": "In Focus: Jesse Rae",
-        "s": "2026-06-05T11:00:00+01:00",
-        "e": "2026-06-05T12:00:00+01:00",
-        "d": null,
-        "j": "Jesse Rae",
-        "u": null,
-        "t": "weekly"
       },
       {
         "n": "Kiss The Sky - NTS Guide to: 00's Stoner & Doom Metal",
         "s": "2026-06-05T13:00:00+01:00",
         "e": "2026-06-05T15:00:00+01:00",
-        "d": null,
+        "d": "Into a haze with sludgy riffs, freeform jams and trance inducing chord progressions from the stoned metal offshoots.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-00-s-stoner-doom-metal-5th-june-2026"
       },
       {
         "n": "THE ULINE CATALOG",
@@ -223,14 +206,17 @@
         "t": "monthly"
       },
       {
-        "n": "BRADEN WELLS",
+        "n": "BRADEN WELLS W/ FINE (R)",
         "s": "2026-06-05T17:00:00+01:00",
         "e": "2026-06-05T18:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "FINE",
         "u": null,
-        "t": "monthly",
-        "p": "bradenwells"
+        "t": "restream",
+        "p": "bradenwells",
+        "ap": [
+          "fine"
+        ]
       },
       {
         "n": "The Sagegazers",
@@ -330,47 +316,29 @@
         "j": "Leelee",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "BLUE CANDY W/ CASEY MQ (R)",
+        "s": "2026-06-06T06:00:00+01:00",
+        "e": "2026-06-06T07:00:00+01:00",
+        "d": null,
+        "j": "CASEY MQ",
+        "u": null,
+        "t": "restream",
+        "p": "caseymq"
+      },
+      {
+        "n": "Phambinho (R)",
+        "s": "2026-06-06T07:00:00+01:00",
+        "e": "2026-06-06T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "phambinho"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-06-05T07:00:00Z",
-        "e": "2026-06-05T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "L.J. Violet",
-        "s": "2026-06-05T08:00:00Z",
-        "e": "2026-06-05T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "violet"
-      },
-      {
-        "n": "Mid Morning Matters w/ Alfie Danger",
-        "s": "2026-06-05T09:00:00Z",
-        "e": "2026-06-05T10:00:00Z",
-        "d": null,
-        "j": "Alfie Danger",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Reggie Crookes",
-        "s": "2026-06-05T10:00:00Z",
-        "e": "2026-06-05T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "reggiecrookes"
-      },
       {
         "n": "Red Can",
         "s": "2026-06-05T11:00:00Z",
@@ -1426,13 +1394,41 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Holy Crow w/ Isis Moray",
+        "s": "2026-06-12T09:00:00Z",
+        "e": "2026-06-12T10:00:00Z",
+        "d": null,
+        "j": "Isis Moray",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Tom Ferrare",
+        "s": "2026-06-12T10:00:00Z",
+        "e": "2026-06-12T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Electrolytes with Joly",
+        "s": "2026-06-12T11:00:00Z",
+        "e": "2026-06-12T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "electrolyteswithjoly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-05T07:00:00Z",
-        "e": "2026-06-05T09:00:00Z",
+        "s": "2026-06-05T11:00:00Z",
+        "e": "2026-06-05T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1440,8 +1436,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-06-05T09:00:00Z",
-        "e": "2026-06-05T11:00:00Z",
+        "s": "2026-06-05T13:00:00Z",
+        "e": "2026-06-05T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2023,24 +2019,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-06-05T06:00:00Z",
-        "e": "2026-06-05T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Breakfast with Adam John (Ghoulish)",
-        "s": "2026-06-05T08:00:00Z",
-        "e": "2026-06-05T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "ghoulish"
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-06-05T10:00:00Z",
         "e": "2026-06-05T13:00:00Z",
@@ -2055,7 +2033,7 @@
         "s": "2026-06-05T13:00:00Z",
         "e": "2026-06-05T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Stepping Into The Weekend",
         "u": null,
         "t": "monthly",
         "p": "continentalgt"
@@ -2258,7 +2236,7 @@
         "s": "2026-06-06T21:00:00Z",
         "e": "2026-06-06T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "IN A TRANCE",
         "u": null,
         "t": "monthly",
         "p": "ammara"
@@ -2273,15 +2251,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-06-05T07:00:00Z",
-        "e": "2026-06-05T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-06-05T10:00:00Z",
@@ -2418,7 +2387,7 @@
         "s": "2026-06-06T15:00:00Z",
         "e": "2026-06-06T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Qow",
         "u": null,
         "t": "monthly"
       },
