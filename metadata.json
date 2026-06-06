@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-06-06T20:54:45.302Z",
+  "updated": "2026-06-06T22:55:49.068Z",
   "stations": {
     "nts1": [
-      {
-        "n": "That Good Sh*t Radio",
-        "s": "2026-06-06T21:00:00+01:00",
-        "e": "2026-06-06T22:00:00+01:00",
-        "d": "New NYC music curators, platform and community That Good Sh*t spill an hour of unreleased and exclusive tracks from artists they love. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/that-good-sh-t-radio-6th-june-2026"
-      },
-      {
-        "n": "Angel Bat Dawid - B.I.B.L.E Gurlzz Show w/ Georgia Ann Muldrow",
-        "s": "2026-06-06T22:00:00+01:00",
-        "e": "2026-06-06T23:00:00+01:00",
-        "d": "Monthly vibrance & light from the Chicago based composer, pianist, clarinetist & jazz oracle.\nFrom the host: \"Angel Bat Dawid hosts avant-garde soul pioneer Georgia Anne Muldrow on the B.I.B.L.E Gurlzz Show. Expect an in-depth interview paired with a curated selection of spiritual jazz, hip-hop, and ancestral praise & worship. Two radical sonic innovators connect to discuss creative lineage.\"",
-        "j": "Georgia Ann Muldrow",
-        "u": "https://www.nts.live/api/v2/shows/angel-bat-dawid/episodes/angel-bat-dawid-6th-june-2026",
-        "t": "monthly",
-        "p": "georgia"
-      },
       {
         "n": "Blank Forms",
         "s": "2026-06-06T23:00:00+01:00",
         "e": "2026-06-07T00:00:00+01:00",
-        "d": null,
+        "d": "Blank Forms Artistic Director Lawrence Kumpf compiles mixes pulled from the New York based non-profit’s forthcoming releases, back-catalog, and publications. These are interspersed with a selection of synergistic tracks and artists moving between references and affinities. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/blank-forms/episodes/blank-forms-6th-june-2026",
         "p": "blankforms"
       },
       {
         "n": "GETTING WARMER W/ JEN MONROE (R)",
         "s": "2026-06-07T00:00:00+01:00",
         "e": "2026-06-07T01:00:00+01:00",
-        "d": null,
+        "d": "Jen Monroe writes the album download blog Listen To This!, which focuses on Japanese and new age records: Listen to This\nFrom the host: \"Drippy, yearny, violin-heavy romantic classical for Valentine's Day. Lay it on thick!\"",
         "j": "JEN MONROE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jen-monroe/episodes/jen-monroe-11th-february-2026",
         "t": "restream",
         "p": "jenmonroe"
       },
@@ -172,19 +154,25 @@
         "u": null,
         "t": "monthly",
         "p": "lupini"
+      },
+      {
+        "n": "AD 93 w/ TASKER",
+        "s": "2026-06-07T20:00:00+01:00",
+        "e": "2026-06-07T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DEATH IS NOT THE END",
+        "s": "2026-06-07T22:00:00+01:00",
+        "e": "2026-06-08T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "JANA RUSH",
-        "s": "2026-06-06T21:00:00+01:00",
-        "e": "2026-06-06T22:00:00+01:00",
-        "d": "High speed electronics and dance soundtracks from the Chicago footwork auteur.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jana-rush/episodes/jana-rush-6th-june-2026",
-        "t": "monthly",
-        "p": "janarush"
-      },
       {
         "n": "IN FOCUS: LARRY HEARD (R)",
         "s": "2026-06-06T22:00:00+01:00",
@@ -198,9 +186,9 @@
         "n": "TEENAGE MEXICAN DAYDREAM W/ RAFA & CHARLES T.",
         "s": "2026-06-07T00:00:00+01:00",
         "e": "2026-06-07T01:00:00+01:00",
-        "d": null,
+        "d": "A coming-of-age in Mexico City. Indie rock, electronic detours, and the songs everyone secretly knows. From burned CDs to late-night rides, this mix moves from teenage taste to full-on nostalgia: cumbias, pop, and the sounds we danced to in the early 2000s.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-teenage-mexican-daydream-w-rafa-charles-t-7th-june-2026"
       },
       {
         "n": "TEENAGE TREATS W/ JOLIE ASUNCION",
@@ -321,18 +309,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Up Yours! w/ Simon Ward",
+        "s": "2026-06-07T16:00:00+01:00",
+        "e": "2026-06-07T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Minus - Flow State",
-        "s": "2026-06-06T20:00:00Z",
-        "e": "2026-06-06T22:00:00Z",
-        "d": null,
-        "j": "Flow State",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "seiko",
         "s": "2026-06-06T22:00:00Z",
@@ -1441,19 +1428,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Time Away with Maral",
-        "s": "2026-06-06T19:00:00Z",
-        "e": "2026-06-06T21:00:00Z",
+        "n": "Crude Oil",
+        "s": "2026-06-13T21:00:00Z",
+        "e": "2026-06-13T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Katarina",
+        "s": "2026-06-13T22:00:00Z",
+        "e": "2026-06-13T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "maral"
-      },
+        "p": "katarina"
+      }
+    ],
+    "dublab": [
       {
         "n": "mmarz",
         "s": "2026-06-06T21:00:00Z",
@@ -2034,28 +2029,19 @@
           "lewisthompson",
           "niamichelle"
         ]
+      },
+      {
+        "n": "D Tiberio - Patterns of Lorena",
+        "s": "2026-06-13T21:00:00Z",
+        "e": "2026-06-13T23:00:00Z",
+        "d": null,
+        "j": "Patterns of Lorena",
+        "u": null,
+        "t": "monthly",
+        "p": "dtiberio"
       }
     ],
     "rinse": [
-      {
-        "n": "sim0ne",
-        "s": "2026-06-06T19:00:00Z",
-        "e": "2026-06-06T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "sim0ne"
-      },
-      {
-        "n": "AMMARA",
-        "s": "2026-06-06T21:00:00Z",
-        "e": "2026-06-06T22:00:00Z",
-        "d": null,
-        "j": "IN A TRANCE",
-        "u": null,
-        "t": "monthly",
-        "p": "ammara"
-      },
       {
         "n": "STLLRD",
         "s": "2026-06-06T22:00:00Z",
@@ -2202,15 +2188,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-06-06T18:00:00Z",
-        "e": "2026-06-07T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-06-07T07:00:00Z",
         "e": "2026-06-07T10:00:00Z",
         "d": null,
@@ -2233,8 +2210,7 @@
         "e": "2026-06-07T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Hadj Sameer",
@@ -2243,7 +2219,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "hadjsameer"
       },
       {
@@ -2260,8 +2235,7 @@
         "e": "2026-06-07T16:00:00Z",
         "d": null,
         "j": "\"The Bling Ring\" by Kahi Baby",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Bait",
@@ -2270,7 +2244,6 @@
         "d": null,
         "j": "présente ex.sses (100% production mix)",
         "u": null,
-        "t": "monthly",
         "p": "bait"
       },
       {
@@ -2703,6 +2676,19 @@
         "u": null,
         "t": "monthly",
         "p": "kosmik"
+      },
+      {
+        "n": "Natural Selection",
+        "s": "2026-07-07T22:00:00Z",
+        "e": "2026-07-08T00:00:00Z",
+        "d": null,
+        "j": "DJ Buck & Zack Zoom",
+        "u": null,
+        "t": "monthly",
+        "p": "djbuck",
+        "ap": [
+          "zackzoom"
+        ]
       }
     ]
   }
