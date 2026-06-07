@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-06-07T21:01:27.474Z",
+  "updated": "2026-06-07T22:56:27.577Z",
   "stations": {
     "nts1": [
       {
@@ -173,14 +173,6 @@
     ],
     "nts2": [
       {
-        "n": "Loser Music Theory w/ Astrid Ortega",
-        "s": "2026-06-07T22:00:00+01:00",
-        "e": "2026-06-07T23:00:00+01:00",
-        "d": "I keep telling people I’m in a 2006 phase, not literally since some songs are later but it is about a feeling of being fifteen in memory even if I was not. I call it loser music theory, (not actually loser music) just coming of age songs for people who were not at the party. Maybe a little unpopular but mostly cooler than everyone else. I was six in 2006. This is what would have been on my iPod. (It is.)",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-loser-music-theory-w-astrid-ortega-7th-june-2026"
-      },
-      {
         "n": "Penpal Essentials w/ Ursula Cee",
         "s": "2026-06-07T23:00:00+01:00",
         "e": "2026-06-08T00:00:00+01:00",
@@ -192,9 +184,9 @@
         "n": "BLUE TRIO RADIO W/ FULL BODY 2 (R)",
         "s": "2026-06-08T00:00:00+01:00",
         "e": "2026-06-08T01:00:00+01:00",
-        "d": null,
+        "d": "A regular hour from Philly-based digital shoegazers, Full Body 2 - made up of Cassidy Rose Hammond and Dylan Vaisey.",
         "j": "FULL BODY 2",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/full-body-2/episodes/full-body-2-16th-april-2025",
         "t": "restream",
         "p": "fullbody2"
       },
@@ -328,18 +320,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "NATIVE SOUNDSYSTEM W/ SHOLZ",
+        "s": "2026-06-08T18:00:00+01:00",
+        "e": "2026-06-08T19:00:00+01:00",
+        "d": null,
+        "j": "SHOLZ",
+        "u": null,
+        "t": "monthly",
+        "p": "nativesoundsystem"
       }
     ],
     "subtle": [
-      {
-        "n": "Envelop",
-        "s": "2026-06-07T21:00:00Z",
-        "e": "2026-06-07T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Chacho",
         "s": "2026-06-07T22:00:00Z",
@@ -2062,15 +2055,6 @@
     ],
     "rinse": [
       {
-        "n": "Logan Sama",
-        "s": "2026-06-07T20:00:00Z",
-        "e": "2026-06-07T22:00:00Z",
-        "d": null,
-        "j": "Ruff Sqwad & Jon E Cash (Black Ops)",
-        "u": null,
-        "p": "logansama"
-      },
-      {
         "n": "Nancy June",
         "s": "2026-06-07T22:00:00Z",
         "e": "2026-06-07T23:00:00Z",
@@ -2142,17 +2126,20 @@
         "s": "2026-06-08T10:00:00Z",
         "e": "2026-06-08T11:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Reek0",
         "u": null,
         "t": "monthly",
-        "p": "camillemunn"
+        "p": "camillemunn",
+        "ap": [
+          "reek0"
+        ]
       },
       {
         "n": "Christine Kakaire",
         "s": "2026-06-08T11:00:00Z",
         "e": "2026-06-08T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Katharin Ahrend",
         "u": null,
         "t": "monthly"
       },
@@ -2248,15 +2235,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-06-07T18:00:00Z",
-        "e": "2026-06-08T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-06-08T07:00:00Z",
         "e": "2026-06-08T10:00:00Z",
         "d": null,
@@ -2299,7 +2277,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "saborami"
       },
       {
