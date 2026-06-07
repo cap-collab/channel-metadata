@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-07T17:05:57.860Z",
+  "updated": "2026-06-07T19:07:49.114Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUPINI",
-        "s": "2026-06-07T18:00:00+01:00",
-        "e": "2026-06-07T20:00:00+01:00",
-        "d": "A little bit sweet, a little bit sad, a little bit silly - Lupini keeps it (mainly) horizontal with a mix of dubwise sounds, psychedelic rock, synth-pop and new wave.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-7th-june-2026",
-        "t": "monthly",
-        "p": "lupini"
-      },
       {
         "n": "Guide to: New Weird America (R)",
         "s": "2026-06-07T20:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "DEATH IS NOT THE END",
         "s": "2026-06-07T22:00:00+01:00",
         "e": "2026-06-08T00:00:00+01:00",
-        "d": null,
+        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.\nFrom the Host: \"A collection of music composed by pioneering choreographer Alwin Nikolais, 1956-1989.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-7th-june-2026"
       },
       {
         "n": "NTS GUIDE TO: THE WAVE (R)",
@@ -170,40 +160,33 @@
         "j": null,
         "u": null,
         "p": "leegamble"
+      },
+      {
+        "n": "MAKE-BELIEVE W/ OBJECT BLUE",
+        "s": "2026-06-08T23:00:00+01:00",
+        "e": "2026-06-09T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "objectblue"
       }
     ],
     "nts2": [
       {
-        "n": "GET BENT! W/ MORAL COMPASS",
-        "s": "2026-06-07T18:00:00+01:00",
-        "e": "2026-06-07T19:00:00+01:00",
-        "d": "Turn back time with an after-school special full of jukebox jives, drive-in dreamboats, and first bell fancies. Don’t flip your lid; cut a rug!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-get-bent-w-moral-compass-7th-june-2026"
-      },
-      {
-        "n": "Sur de Noche w/ Noise Casino",
-        "s": "2026-06-07T19:00:00+01:00",
-        "e": "2026-06-07T20:00:00+01:00",
-        "d": "Before you were old enough, you built nightlife in your head. For a kid growing up in 90s South America like me, tecno-pop & post-punk (en español) were the undercurrent, the alternative to the family-friendly salsa and cumbia. This is the mix my teenage self never had. The nightlife I never got to.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-sur-de-noche-w-noise-casino-7th-june-2026"
-      },
-      {
         "n": "Going Online w/ Christian",
         "s": "2026-06-07T20:00:00+01:00",
         "e": "2026-06-07T21:00:00+01:00",
-        "d": null,
+        "d": "I was a teenager in the 2010s. I was online, bored, high, and sexually frustrated. Much like late-night drives around my small town, these tracks take you through the emotions of coming of age. Angst, lust, musing.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-going-online-w-christian-7th-june-2026"
       },
       {
         "n": "Music for Skateboarding",
         "s": "2026-06-07T21:00:00+01:00",
         "e": "2026-06-07T22:00:00+01:00",
-        "d": null,
+        "d": "This is the music that we would listen to on cassette from a Toshiba boom box while skateboarding through various parts of Southern California in the late 80s and early 90s.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-music-for-skateboarding-7th-june-2026"
       },
       {
         "n": "Loser Music Theory w/ Astrid Ortega",
@@ -325,18 +308,27 @@
         "j": null,
         "u": null,
         "p": "skyapnea"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "THEODORE",
-        "s": "2026-06-07T16:00:00Z",
-        "e": "2026-06-07T18:00:00Z",
+        "n": "Pacing The Platform w/ upsammy",
+        "s": "2026-06-08T14:00:00+01:00",
+        "e": "2026-06-08T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "upsammy"
       },
+      {
+        "n": "MALA JUNTA",
+        "s": "2026-06-08T15:00:00+01:00",
+        "e": "2026-06-08T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "malajunta"
+      }
+    ],
+    "subtle": [
       {
         "n": "Ned Spencer",
         "s": "2026-06-07T18:00:00Z",
@@ -1485,19 +1477,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DIG n SPIN W/ STAN",
+        "s": "2026-06-14T18:00:00Z",
+        "e": "2026-06-14T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "FKOF",
+        "s": "2026-06-14T19:00:00Z",
+        "e": "2026-06-14T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "fkof"
       }
     ],
     "dublab": [
-      {
-        "n": "Chris Kissel and Chuck Soo-Hoo - Contact Wave",
-        "s": "2026-06-07T17:00:00Z",
-        "e": "2026-06-07T19:00:00Z",
-        "d": null,
-        "j": "Contact Wave",
-        "u": null,
-        "t": "monthly",
-        "p": "chriskissel"
-      },
       {
         "n": "CLUB CRAIG OR Oral Fixation",
         "s": "2026-06-07T19:00:00Z",
@@ -2064,21 +2064,19 @@
         "u": null,
         "t": "monthly",
         "p": "marionette"
+      },
+      {
+        "n": "Becky Ebenkamp – Bubblegum & Other Delights",
+        "s": "2026-06-14T19:00:00Z",
+        "e": "2026-06-14T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "beckyebenkamp"
       }
     ],
     "rinse": [
-      {
-        "n": "Oneman with Papa Nugs",
-        "s": "2026-06-07T17:00:00Z",
-        "e": "2026-06-07T19:00:00Z",
-        "d": null,
-        "j": "(2022)",
-        "u": null,
-        "p": "oneman",
-        "ap": [
-          "papanugs"
-        ]
-      },
       {
         "n": "Oblig",
         "s": "2026-06-07T19:00:00Z",
@@ -2274,14 +2272,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Olga B.",
-        "s": "2026-06-07T17:00:00Z",
-        "e": "2026-06-07T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Playlist France",
         "s": "2026-06-07T18:00:00Z",
