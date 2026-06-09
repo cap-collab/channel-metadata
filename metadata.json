@@ -1,35 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-09T07:37:59.474Z",
+  "updated": "2026-06-09T10:52:19.960Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-06-09T07:00:00+01:00",
-        "e": "2026-06-09T09:00:00+01:00",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-9th-june-2026",
-        "t": "weekly",
-        "p": "mariasomerville"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-06-09T09:00:00+01:00",
-        "e": "2026-06-09T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-9th-june-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-06-09T11:00:00+01:00",
         "e": "2026-06-09T13:00:00+01:00",
-        "d": null,
+        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
         "j": "ANU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-9th-june-2026",
         "t": "weekly",
         "p": "anu"
       },
@@ -37,21 +17,19 @@
         "n": "PROSUMER",
         "s": "2026-06-09T13:00:00+01:00",
         "e": "2026-06-09T15:00:00+01:00",
-        "d": null,
+        "d": "Berlin techno aficionado Prosumer lays it out for all the wannabes. A harmonious lecture in house and soul, Prosumer’s here to share. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/prosumer/episodes/prosumer-9th-june-2026",
         "t": "monthly",
         "p": "prosumer"
       },
       {
-        "n": "Self Soothe w/ Margeaux",
+        "n": "Self Soothe w/ Helado Negro",
         "s": "2026-06-09T15:00:00+01:00",
         "e": "2026-06-09T16:00:00+01:00",
         "d": null,
-        "j": "Margeaux",
-        "u": null,
-        "t": "weekly",
-        "p": "margeaux"
+        "j": null,
+        "u": null
       },
       {
         "n": "BASKET OF LIGHT W/ LIANA FLORES",
@@ -63,13 +41,13 @@
         "p": "lianaflores"
       },
       {
-        "n": "SNO",
+        "n": "IN FOCUS: EDU LOBO (R)",
         "s": "2026-06-09T17:00:00+01:00",
         "e": "2026-06-09T18:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "EDU LOBO",
         "u": null,
-        "p": "sno"
+        "t": "restream"
       },
       {
         "n": "Club Yeke Presents DJ Diaki",
@@ -104,7 +82,7 @@
         "u": null
       },
       {
-        "n": "Space Afrika",
+        "n": "Space Afrika x matryoshka",
         "s": "2026-06-09T22:00:00+01:00",
         "e": "2026-06-10T00:00:00+01:00",
         "d": null,
@@ -170,52 +148,52 @@
         "ap": [
           "jenniferwalton"
         ]
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-06-10T11:00:00+01:00",
+        "e": "2026-06-10T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-06-10T13:00:00+01:00",
+        "e": "2026-06-10T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "the wadden sea teenage trip, reimagined w/ oscar kangro",
-        "s": "2026-06-09T08:00:00+01:00",
-        "e": "2026-06-09T09:00:00+01:00",
-        "d": "It was on a trip to the danish west coast, I first got blown away by the combination of iPod-ambient and the scenic marshlands like only a teenager could. This year, I returned to the Wadden Sea as an adult. This is how I imagine the music played back then would have sounded now.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-the-wadden-sea-teenage-trip-reimagined-w-oscar-kangro-9th-june-2026"
-      },
-      {
-        "n": "GÁOU BÍOU W/ CALLIOPE",
-        "s": "2026-06-09T09:00:00+01:00",
-        "e": "2026-06-09T10:00:00+01:00",
-        "d": "GÁOU BÍOU. This is what they call the clueless person, the “spacey” one, or the one who doesn’t “get it.” Short and simple. As sharp as it is ridiculous. This is my GÁOU BÍOU mixtape for all the music that shaped me. For carefreeness, freedom, and creative naivety.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-gaou-biou-w-calliope-9th-june-2026"
-      },
-      {
-        "n": "1995, the year my teenage broke w/ Guillaume F",
-        "s": "2026-06-09T10:00:00+01:00",
-        "e": "2026-06-09T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Pianpianino w/ DJ Fine",
         "s": "2026-06-09T11:00:00+01:00",
         "e": "2026-06-09T12:00:00+01:00",
-        "d": null,
+        "d": "Geneva's DJ Fine plays piano-centered pieces, often accompanying compositions with spoken world and poems.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dj-fine/episodes/dj-fine-9th-june-2026"
       },
       {
-        "n": "Phambinho",
+        "n": "Phambinho W/ Lorry Lorry G & Ting Run Run",
         "s": "2026-06-09T12:00:00+01:00",
         "e": "2026-06-09T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Monthly enqiuries into encounters in harmony, forms of hearing, and occasionally responding.\nFrom the host:'After being an NTS backup dancer for many years, Lorry Lorry G (@lorenzolandicho) makes his formal debut with the idol, Ting Run Run (@tingrunrun) ahead of Philippine Independence Day, bringing you a lunchtime dose of 'swaggy six seven electronic bangers' that will make you wanna ask claude ’teach\"-",
+        "j": "Lorry Lorry G & Ting Run Run",
+        "u": "https://www.nts.live/api/v2/shows/phambinho/episodes/phambinho-9th-june-2026",
+        "t": "monthly",
         "p": "phambinho"
       },
       {
-        "n": "MARK LECKEY",
+        "n": "MARK LECKEY w/ Avocado Ibuprofen & Alexander Iezzi",
         "s": "2026-06-09T13:00:00+01:00",
         "e": "2026-06-09T14:00:00+01:00",
         "d": null,
@@ -234,13 +212,12 @@
         "p": "lorainejames"
       },
       {
-        "n": "magic mashups w/ miss sheitana",
+        "n": "magic mashups w/ miss sheitana & i-vye",
         "s": "2026-06-09T15:00:00+01:00",
         "e": "2026-06-09T16:00:00+01:00",
         "d": null,
-        "j": "miss sheitana",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "misssheitana"
       },
       {
@@ -332,27 +309,37 @@
         "u": null,
         "t": "monthly",
         "p": "boombip"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Breakfast Spoons w/ Boruch",
-        "s": "2026-06-09T07:00:00Z",
-        "e": "2026-06-09T08:00:00Z",
-        "d": null,
-        "j": "Boruch",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Gingerly",
-        "s": "2026-06-09T08:00:00Z",
-        "e": "2026-06-09T09:00:00Z",
+        "n": "The Last Playlist w/ Luis Felipe Farfán - Guide To The Saddest Songs In The World",
+        "s": "2026-06-10T03:00:00+01:00",
+        "e": "2026-06-10T04:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
+      {
+        "n": "Cxema w/ Sasha Tessio (R)",
+        "s": "2026-06-10T04:00:00+01:00",
+        "e": "2026-06-10T05:00:00+01:00",
+        "d": null,
+        "j": "Sasha Tessio",
+        "u": null,
+        "t": "restream",
+        "p": "cxema"
+      },
+      {
+        "n": "BREAKING PEOPLE W/ NOA KURZWEIL (R)",
+        "s": "2026-06-10T05:00:00+01:00",
+        "e": "2026-06-10T06:00:00+01:00",
+        "d": null,
+        "j": "NOA KURZWEIL",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Lucidik ",
         "s": "2026-06-09T10:00:00Z",
@@ -1519,13 +1506,36 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Albert Moon",
+        "s": "2026-06-16T09:00:00Z",
+        "e": "2026-06-16T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "albertmoon",
+        "ap": [
+          "albert"
+        ]
+      },
+      {
+        "n": " Ovrtic",
+        "s": "2026-06-16T10:00:00Z",
+        "e": "2026-06-16T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ovrtic"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-09T07:00:00Z",
-        "e": "2026-06-09T09:00:00Z",
+        "s": "2026-06-09T09:00:00Z",
+        "e": "2026-06-09T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1533,8 +1543,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-06-09T09:00:00Z",
-        "e": "2026-06-09T11:00:00Z",
+        "s": "2026-06-09T11:00:00Z",
+        "e": "2026-06-09T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2128,24 +2138,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-06-09T06:00:00Z",
-        "e": "2026-06-09T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Papaoul",
-        "s": "2026-06-09T08:00:00Z",
-        "e": "2026-06-09T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Jumbi",
         "s": "2026-06-09T10:00:00Z",
         "e": "2026-06-09T11:00:00Z",
@@ -2178,10 +2170,13 @@
         "s": "2026-06-09T13:00:00Z",
         "e": "2026-06-09T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "TONE RARRI",
         "u": null,
         "t": "biweekly",
-        "p": "habitat"
+        "p": "habitat",
+        "ap": [
+          "tone"
+        ]
       },
       {
         "n": "Brighter Days Family",
@@ -2216,7 +2211,7 @@
       {
         "n": "Silva Bumpa",
         "s": "2026-06-09T18:00:00Z",
-        "e": "2026-06-09T20:00:00Z",
+        "e": "2026-06-09T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2224,23 +2219,17 @@
         "p": "silvabumpa"
       },
       {
-        "n": "Y U QT",
-        "s": "2026-06-09T20:00:00Z",
-        "e": "2026-06-09T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "yuqt"
-      },
-      {
         "n": "Jay Carder",
         "s": "2026-06-09T21:00:00Z",
         "e": "2026-06-09T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Dave Harvey",
         "u": null,
         "t": "biweekly",
-        "p": "jaycarder"
+        "p": "daveharvey",
+        "ap": [
+          "jaycarder"
+        ]
       },
       {
         "n": "Earful of Wax",
@@ -2479,7 +2468,7 @@
         "s": "2026-06-09T17:00:00Z",
         "e": "2026-06-09T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Kā : Oversoul premiere",
         "u": null,
         "t": "biweekly",
         "p": "imer6ia"
