@@ -1,54 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-09T02:12:28.702Z",
+  "updated": "2026-06-09T07:37:59.474Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NEUE TANZ W/ JULES (R)",
-        "s": "2026-06-09T03:00:00+01:00",
-        "e": "2026-06-09T04:00:00+01:00",
-        "d": "Playing anything from ambient and experimental textures interwoven through eccentric new wave, forgotten b-sides and contemporary dance music; one can expect almost anything from the Neue Tanz show. Hosted monthly by Jules, with friends or on his own. \nhttps://soundcloud.com/jules-bethmann",
-        "j": "JULES",
-        "u": "https://www.nts.live/api/v2/shows/jules/episodes/neue-tanz-2nd-october-2019",
-        "t": "restream",
-        "p": "jules"
-      },
-      {
-        "n": "SKEE MASK PRESENTS: FEIERABEND (R)",
-        "s": "2026-06-09T04:00:00+01:00",
-        "e": "2026-06-09T05:00:00+01:00",
-        "d": "Skee's insight through his daily listening habits, from guilty pleasures to casual recommendations and in between…",
-        "j": "FEIERABEND",
-        "u": "https://www.nts.live/api/v2/shows/skee-mask/episodes/skee-mask-13th-september-2024",
-        "t": "restream",
-        "p": "skeemask"
-      },
-      {
-        "n": "SOFAY & RIBEKA (R)",
-        "s": "2026-06-09T05:00:00+01:00",
-        "e": "2026-06-09T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "COLD PIZZA W/ STUD1NT (R)",
-        "s": "2026-06-09T06:00:00+01:00",
-        "e": "2026-06-09T07:00:00+01:00",
-        "d": null,
-        "j": "STUD1NT",
-        "u": null,
-        "t": "restream",
-        "p": "coldpizza"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-06-09T07:00:00+01:00",
         "e": "2026-06-09T09:00:00+01:00",
-        "d": null,
+        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
         "j": "MARIA SOMERVILLE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-9th-june-2026",
         "t": "weekly",
         "p": "mariasomerville"
       },
@@ -56,9 +17,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-06-09T09:00:00+01:00",
         "e": "2026-06-09T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-9th-june-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -169,67 +130,64 @@
         "j": null,
         "u": null,
         "p": "plasticlanguage"
+      },
+      {
+        "n": "Furniture without Memories w/ livwutang (R)",
+        "s": "2026-06-10T04:00:00+01:00",
+        "e": "2026-06-10T05:00:00+01:00",
+        "d": null,
+        "j": "livwutang",
+        "u": null,
+        "t": "restream",
+        "p": "livwutang"
+      },
+      {
+        "n": "YU SU (R)",
+        "s": "2026-06-10T05:00:00+01:00",
+        "e": "2026-06-10T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "yusu"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2026-06-10T07:00:00+01:00",
+        "e": "2026-06-10T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO & Jennifer Walton",
+        "s": "2026-06-10T09:00:00+01:00",
+        "e": "2026-06-10T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "flo",
+        "ap": [
+          "jenniferwalton"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "DELIVERY PRESENTS: HAAN",
-        "s": "2026-06-09T03:00:00+01:00",
-        "e": "2026-06-09T04:00:00+01:00",
-        "d": "Delivery presents: 'HAAN', live for an hour a month, straight from our LA studio. ",
-        "j": "HAAN",
-        "u": "https://www.nts.live/api/v2/shows/delivery/episodes/delivery-9th-june-2026",
-        "t": "monthly",
-        "p": "delivery"
-      },
-      {
-        "n": "Yunji",
-        "s": "2026-06-09T04:00:00+01:00",
-        "e": "2026-06-09T05:00:00+01:00",
-        "d": "Seoul-based DJ and producer yunji goes live from the London studio with their signature twist on UK club sounds.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/yunji-9th-june-2026"
-      },
-      {
-        "n": "ALL STYLES ALL SMILES (R)",
-        "s": "2026-06-09T05:00:00+01:00",
-        "e": "2026-06-09T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "Yikes w/ Tiny Bliss",
-        "s": "2026-06-09T06:00:00+01:00",
-        "e": "2026-06-09T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Trip Hop Traum W/ Dj City V.I.P.",
-        "s": "2026-06-09T07:00:00+01:00",
-        "e": "2026-06-09T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "the wadden sea teenage trip, reimagined w/ oscar kangro",
         "s": "2026-06-09T08:00:00+01:00",
         "e": "2026-06-09T09:00:00+01:00",
-        "d": null,
+        "d": "It was on a trip to the danish west coast, I first got blown away by the combination of iPod-ambient and the scenic marshlands like only a teenager could. This year, I returned to the Wadden Sea as an adult. This is how I imagine the music played back then would have sounded now.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-the-wadden-sea-teenage-trip-reimagined-w-oscar-kangro-9th-june-2026"
       },
       {
         "n": "GÁOU BÍOU W/ CALLIOPE",
         "s": "2026-06-09T09:00:00+01:00",
         "e": "2026-06-09T10:00:00+01:00",
-        "d": null,
+        "d": "GÁOU BÍOU. This is what they call the clueless person, the “spacey” one, or the one who doesn’t “get it.” Short and simple. As sharp as it is ridiculous. This is my GÁOU BÍOU mixtape for all the music that shaped me. For carefreeness, freedom, and creative naivety.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-gaou-biou-w-calliope-9th-june-2026"
       },
       {
         "n": "1995, the year my teenage broke w/ Guillaume F",
@@ -328,46 +286,55 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Ethereal DJ",
-        "s": "2026-06-09T02:00:00Z",
-        "e": "2026-06-09T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Subtle Selects",
-        "s": "2026-06-09T03:00:00Z",
-        "e": "2026-06-09T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "DJ Moement",
-        "s": "2026-06-09T04:00:00Z",
-        "e": "2026-06-09T05:00:00Z",
+        "n": "LOS HITTERS",
+        "s": "2026-06-09T22:00:00+01:00",
+        "e": "2026-06-09T23:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "djmoement"
+        "p": "loshitters"
       },
       {
-        "n": "Sparring Sessions",
-        "s": "2026-06-09T06:00:00Z",
-        "e": "2026-06-09T07:00:00Z",
+        "n": "Fusion Batches w/ DJ Morse Code & Selecta",
+        "s": "2026-06-09T23:00:00+01:00",
+        "e": "2026-06-10T00:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "fusionbatches"
       },
+      {
+        "n": "The Outside Insight Hour - D'Angelo Tribute (R)",
+        "s": "2026-06-10T00:00:00+01:00",
+        "e": "2026-06-10T01:00:00+01:00",
+        "d": null,
+        "j": "D'Angelo Tribute",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ms*gloom",
+        "s": "2026-06-10T01:00:00+01:00",
+        "e": "2026-06-10T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "BOOM BIP",
+        "s": "2026-06-10T02:00:00+01:00",
+        "e": "2026-06-10T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "boombip"
+      }
+    ],
+    "subtle": [
       {
         "n": "Breakfast Spoons w/ Boruch",
         "s": "2026-06-09T07:00:00Z",
@@ -1524,38 +1491,54 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Terrell Brooke – TheyHouse",
-        "s": "2026-06-09T01:00:00Z",
-        "e": "2026-06-09T03:00:00Z",
+        "n": "Full Frontal",
+        "s": "2026-06-16T03:00:00Z",
+        "e": "2026-06-16T04:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "terrellbrooke"
+        "p": "fullfrontal"
       },
       {
-        "n": "Aaron Paar - Stomping Grounds",
-        "s": "2026-06-09T03:00:00Z",
-        "e": "2026-06-09T05:00:00Z",
+        "n": "THE CULTURE HEAD w. SAINT VOX",
+        "s": "2026-06-16T06:00:00Z",
+        "e": "2026-06-16T07:00:00Z",
         "d": null,
-        "j": "Stomping Grounds",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "aaronpaar"
+        "t": "monthly"
       },
       {
-        "n": "Daniel T - Crosseyed and Painless",
-        "s": "2026-06-09T05:00:00Z",
-        "e": "2026-06-09T07:00:00Z",
+        "n": "Ardishko",
+        "s": "2026-06-16T07:00:00Z",
+        "e": "2026-06-16T08:00:00Z",
         "d": null,
-        "j": "Crosseyed and Painless",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "danielt"
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
+      {
+        "n": "sounds of NOW",
+        "s": "2026-06-09T07:00:00Z",
+        "e": "2026-06-09T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-06-09T09:00:00Z",
+        "e": "2026-06-09T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Mike Harding and Bana Haffar - Long Wave",
@@ -2121,27 +2104,29 @@
         "j": "Lucid Hour",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Jen Ferrer - Fish Whistle",
+        "s": "2026-06-16T03:00:00Z",
+        "e": "2026-06-16T05:00:00Z",
+        "d": null,
+        "j": "Fish Whistle",
+        "u": null,
+        "t": "monthly",
+        "p": "jenferrer"
+      },
+      {
+        "n": "Brennan - Unresolved Dependencies",
+        "s": "2026-06-16T05:00:00Z",
+        "e": "2026-06-16T07:00:00Z",
+        "d": null,
+        "j": "Unresolved Dependencies",
+        "u": null,
+        "t": "monthly",
+        "p": "brennan"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-06-09T01:00:00Z",
-        "e": "2026-06-09T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "shekdash",
-        "s": "2026-06-09T05:00:00Z",
-        "e": "2026-06-09T06:00:00Z",
-        "d": null,
-        "j": "RAVERS DELIGHT",
-        "u": null,
-        "p": "shekdash"
-      },
       {
         "n": "Playlist",
         "s": "2026-06-09T06:00:00Z",
@@ -2435,15 +2420,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-06-08T22:00:00Z",
-        "e": "2026-06-09T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-06-09T07:00:00Z",
         "e": "2026-06-09T12:00:00Z",
         "d": null,
@@ -2452,69 +2428,76 @@
         "t": "playlist"
       },
       {
-        "n": "Black Square Club",
+        "n": "La Passe D avec Armel Bizzman",
         "s": "2026-06-09T12:00:00Z",
-        "e": "2026-06-09T14:00:00Z",
+        "e": "2026-06-09T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "lapassedavecarmelbizzman"
       },
       {
-        "n": "ShayBySchai",
+        "n": "Kiala Ogawa",
+        "s": "2026-06-09T13:00:00Z",
+        "e": "2026-06-09T14:00:00Z",
+        "d": null,
+        "j": "Maiden Voyage : Sounds of Japan",
+        "u": null,
+        "t": "biweekly",
+        "p": "kialaogawa"
+      },
+      {
+        "n": "RONY",
         "s": "2026-06-09T14:00:00Z",
         "e": "2026-06-09T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "shaybyschai"
+        "t": "monthly"
       },
       {
-        "n": "Andy4000",
+        "n": "Hey Bony B2B Sirens of Lesbos",
         "s": "2026-06-09T15:00:00Z",
         "e": "2026-06-09T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "heybony"
+      },
+      {
+        "n": "Missy Da Kunt",
+        "s": "2026-06-09T16:00:00Z",
+        "e": "2026-06-09T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Menace Progressive",
-        "s": "2026-06-09T16:00:00Z",
-        "e": "2026-06-09T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "menace",
-        "ap": [
-          "menaceprogressive"
-        ]
-      },
-      {
-        "n": "Maoupa Mazzocchetti",
+        "n": "Imer6ia",
         "s": "2026-06-09T17:00:00Z",
         "e": "2026-06-09T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "maoupamazzocchetti"
+        "t": "biweekly",
+        "p": "imer6ia"
       },
       {
-        "n": "RONI",
+        "n": "carin kelly",
         "s": "2026-06-09T18:00:00Z",
         "e": "2026-06-09T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "roni"
+        "p": "carinkelly"
       },
       {
         "n": "Playlist France",
         "s": "2026-06-09T19:00:00Z",
-        "e": "2026-06-09T20:00:00Z",
+        "e": "2026-06-09T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2576,8 +2559,7 @@
         "p": "menace",
         "ap": [
           "menaceprogressive"
-        ],
-        "t": "weekly"
+        ]
       },
       {
         "n": "Maoupa Mazzocchetti",
@@ -2586,6 +2568,7 @@
         "d": null,
         "j": null,
         "u": null,
+        "t": "monthly",
         "p": "maoupamazzocchetti"
       },
       {
@@ -3017,6 +3000,25 @@
         "ap": [
           "fine"
         ]
+      },
+      {
+        "n": "The Blurred Crusade",
+        "s": "2026-07-10T03:00:00Z",
+        "e": "2026-07-10T05:00:00Z",
+        "d": null,
+        "j": "Matt",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-07-10T05:00:00Z",
+        "e": "2026-07-10T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
       }
     ]
   }
