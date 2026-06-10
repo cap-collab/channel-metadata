@@ -1,27 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-10T08:00:06.960Z",
+  "updated": "2026-06-10T11:41:06.918Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO & Jennifer Walton",
-        "s": "2026-06-10T09:00:00+01:00",
-        "e": "2026-06-10T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-10th-june-2026",
-        "p": "flo",
-        "ap": [
-          "jenniferwalton"
-        ]
-      },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-06-10T11:00:00+01:00",
         "e": "2026-06-10T13:00:00+01:00",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-10th-june-2026",
         "t": "weekly",
         "p": "shyone"
       },
@@ -29,9 +17,9 @@
         "n": "LUNCH CLUB w/ FINN",
         "s": "2026-06-10T13:00:00+01:00",
         "e": "2026-06-10T14:00:00+01:00",
-        "d": null,
+        "d": "Dance music with feeling, lunch time with Finn",
         "j": "FINN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lunch-club/episodes/lunch-club-10th-june-2026",
         "t": "weekly",
         "p": "finn",
         "ap": [
@@ -165,40 +153,43 @@
         "j": "Calvin LeCompte",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "United In Flames w/ Evian Christ & Malibu (R)",
+        "s": "2026-06-11T06:00:00+01:00",
+        "e": "2026-06-11T07:00:00+01:00",
+        "d": null,
+        "j": "Evian Christ & Malibu",
+        "u": null,
+        "t": "restream",
+        "p": "malibu"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "s": "2026-06-11T07:00:00+01:00",
+        "e": "2026-06-11T09:00:00+01:00",
+        "d": null,
+        "j": "PAM",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "Atonal Hormonal w/ Edie Le Blancq",
-        "s": "2026-06-10T09:00:00+01:00",
-        "e": "2026-06-10T10:00:00+01:00",
-        "d": "Songs to play in the background while your hormones fluctuate, pour yourself a pint of Clearasil benzoyl peroxide facial cleanser and wear a beltless, super-feminine napkin.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-atonal-hormonal-w-edie-le-blancq-10th-june-2026"
-      },
-      {
-        "n": "Teenergy drink w/ atmos.vera",
-        "s": "2026-06-10T10:00:00+01:00",
-        "e": "2026-06-10T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Explorations w/ DIGGING IN INDIA",
         "s": "2026-06-10T11:00:00+01:00",
         "e": "2026-06-10T13:00:00+01:00",
-        "d": null,
+        "d": "“Explorations” is an attempt to shed light on offbeat music from India and around the world. Digging In India aka Nishant Mittal is a music archivist, DJ and record store owner based in New Delhi.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/digging-in-india/episodes/digging-in-india-10th-june-2026"
       },
       {
         "n": "Shakshouka w/ Cheb Mimo",
         "s": "2026-06-10T13:00:00+01:00",
         "e": "2026-06-10T14:00:00+01:00",
-        "d": null,
+        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.",
         "j": "Cheb Mimo",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-10th-june-2026",
         "t": "monthly",
         "p": "chebmimo"
       },
@@ -223,13 +214,12 @@
         "p": "laminfofana"
       },
       {
-        "n": "THE BADDIS SOUND W/ DANNIELLA DEE",
+        "n": "THE BADDIS SOUND W/ DANNIELLA DEE & E.T ROCKERS - DAD AND DAWTA!",
         "s": "2026-06-10T16:00:00+01:00",
         "e": "2026-06-10T17:00:00+01:00",
         "d": null,
-        "j": "DANNIELLA DEE",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "dannielladee"
       },
       {
@@ -240,6 +230,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "ARCHITECTS W/ BRONTË JANE: KIM DEAL SPECIAL (R)",
+        "s": "2026-06-10T18:00:00+01:00",
+        "e": "2026-06-10T19:00:00+01:00",
+        "d": null,
+        "j": "BRONTË JANE",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Aloha Got Soul",
@@ -321,36 +320,26 @@
         "j": null,
         "u": null,
         "p": "gangablues"
+      },
+      {
+        "n": "Benedek (R)",
+        "s": "2026-06-11T05:00:00+01:00",
+        "e": "2026-06-11T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Rotting Fruit w/ Alfredo Travieso aka Secta Satanica",
+        "s": "2026-06-11T06:00:00+01:00",
+        "e": "2026-06-11T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "AR1AH ",
-        "s": "2026-06-10T08:00:00Z",
-        "e": "2026-06-10T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DAT_URA w/ KOSO",
-        "s": "2026-06-10T09:00:00Z",
-        "e": "2026-06-10T10:00:00Z",
-        "d": null,
-        "j": "KOSO",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Domestic Fred",
-        "s": "2026-06-10T10:00:00Z",
-        "e": "2026-06-10T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "GREGGO",
         "s": "2026-06-10T11:00:00Z",
@@ -841,16 +830,6 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      },
-      {
-        "n": "Niamh",
-        "s": "2026-06-13T15:00:00Z",
-        "e": "2026-06-13T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "niamh"
       },
       {
         "n": "BirdE",
@@ -1522,13 +1501,32 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "In The Loop w/ Sam Groves",
+        "s": "2026-06-17T10:00:00Z",
+        "e": "2026-06-17T11:00:00Z",
+        "d": null,
+        "j": "Sam Groves",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Stroke of Sound by Tia",
+        "s": "2026-06-17T11:00:00Z",
+        "e": "2026-06-17T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "tia"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-10T07:00:00Z",
-        "e": "2026-06-10T09:00:00Z",
+        "s": "2026-06-10T11:00:00Z",
+        "e": "2026-06-10T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1536,8 +1534,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-06-10T09:00:00Z",
-        "e": "2026-06-10T11:00:00Z",
+        "s": "2026-06-10T13:00:00Z",
+        "e": "2026-06-10T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2118,31 +2116,11 @@
     ],
     "rinse": [
       {
-        "n": "Esk",
-        "s": "2026-06-10T08:00:00Z",
-        "e": "2026-06-10T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "esk"
-      },
-      {
-        "n": "Cuppa Sounds",
-        "s": "2026-06-10T10:00:00Z",
-        "e": "2026-06-10T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "cuppasounds"
-      },
-      {
         "n": "Eclecticist",
         "s": "2026-06-10T11:00:00Z",
         "e": "2026-06-10T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "World Cup Special",
         "u": null,
         "t": "weekly",
         "p": "eclecticist"
@@ -2227,11 +2205,21 @@
       {
         "n": "Woozy with EMA",
         "s": "2026-06-10T22:00:00Z",
-        "e": "2026-06-11T00:00:00Z",
+        "e": "2026-06-10T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "p": "ema"
+      },
+      {
+        "n": "MoMA Ready",
+        "s": "2026-06-10T23:00:00Z",
+        "e": "2026-06-11T00:00:00Z",
+        "d": null,
+        "j": "013",
+        "u": null,
+        "t": "biweekly",
+        "p": "momaready"
       },
       {
         "n": "riria",
@@ -2304,12 +2292,22 @@
       {
         "n": "SK Vibemaker",
         "s": "2026-06-11T12:00:00Z",
-        "e": "2026-06-11T14:00:00Z",
+        "e": "2026-06-11T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly",
         "p": "skvibemaker"
+      },
+      {
+        "n": "Kojay",
+        "s": "2026-06-11T13:00:00Z",
+        "e": "2026-06-11T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kojay"
       },
       {
         "n": "Tom Ravenscroft",
