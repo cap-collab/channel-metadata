@@ -1,43 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-06-12T19:55:11.580Z",
+  "updated": "2026-06-12T21:25:14.079Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MINIMAL EFFORT",
-        "s": "2026-06-12T19:00:00+01:00",
-        "e": "2026-06-12T21:00:00+01:00",
-        "d": "Ira demonstrates how to do extra soulful with a masterclass in vibes. It's easy when you know how.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/minimal-effort/episodes/minimal-effort-12th-june-2026",
-        "t": "monthly",
-        "p": "minimaleffort"
-      },
-      {
-        "n": "GABRIELLE KWARTENG",
-        "s": "2026-06-12T21:00:00+01:00",
-        "e": "2026-06-12T22:00:00+01:00",
-        "d": "In an era of everything at once, Gabrielle Kwarteng is a DJ who weaves stories that often look to the past, while always focusing on possible futures. Dip in to hear a range of dance music from downtempo to deep house to techno rollers - and everything in between. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gabrielle-kwarteng/episodes/gabrielle-kwarteng-12th-june-2026",
-        "t": "monthly",
-        "p": "gabriellekwarteng"
-      },
       {
         "n": "INNERVISIONS ÜBERALL W/ AXEL BOMAN",
         "s": "2026-06-12T22:00:00+01:00",
         "e": "2026-06-12T23:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Innervisions brings its sound to NTS with monthly shows featuring its core artists and special guests.",
+        "j": "AXEL BOMAN",
+        "u": "https://www.nts.live/api/v2/shows/innervisions/episodes/innervisions-12th-june-2026",
+        "t": "monthly"
       },
       {
         "n": "ENDLESS RADIO",
         "s": "2026-06-12T23:00:00+01:00",
         "e": "2026-06-13T00:00:00+01:00",
-        "d": null,
+        "d": "ENDLESS rolls through NTS on a monthly basis. Sounding like Empyrean cracked open, the airwaves morph into into a tunnel linking South London to the end of the world through blown-out drums & and redlined ambience. Including exclusive dubs and guest mixes from friends.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/endless/episodes/endless-12th-june-2026",
+        "t": "monthly"
       },
       {
         "n": "Bubble Gum Violence w/ RESTLESS TAXIS x LINO RECORDINGS",
@@ -167,19 +149,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "CHERRIE FLAVA",
+        "s": "2026-06-13T20:00:00+01:00",
+        "e": "2026-06-13T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Anamanaguchi",
+        "s": "2026-06-13T22:00:00+01:00",
+        "e": "2026-06-13T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "CROSSED WIRES W/ AMANDA SIEGEL",
-        "s": "2026-06-12T20:00:00+01:00",
-        "e": "2026-06-12T22:00:00+01:00",
-        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.\nFrom the host: \"All vinyl set recorded live at the Gold Line bar in Los Angeles on May 27th, 2026.\"",
-        "j": "AMANDA SIEGEL",
-        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-12th-june-2026",
-        "t": "monthly",
-        "p": "amandasiegel"
-      },
       {
         "n": "ALL ABOUT OUR LOVE W/ HARRIET BROWN",
         "s": "2026-06-12T22:00:00+01:00",
@@ -194,9 +183,9 @@
         "n": "East Never Loses: NU CHINA HYPERPOP w/ Angie QQ",
         "s": "2026-06-12T23:00:00+01:00",
         "e": "2026-06-13T00:00:00+01:00",
-        "d": null,
+        "d": "Enter a world of mahjong, star-crossed lovers, and cigarette smoke. Tune in for sounds of the past and the present across the Asian diaspora. \nFrom the host: \"This mix showcases artists from China’s emerging Nu China movement, a thriving underground scene where young producers are reshaping hyperpop through fast-paced, emotionally charged sounds that blend trap, club music, and internet-born experimentation. Featuring artists including Billionhappy, it hi.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/angie-qq/episodes/angie-qq-12th-june-2026",
         "p": "angieqq"
       },
       {
@@ -327,25 +316,27 @@
         "j": "BOB HOLMES (SUSS)",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "BRADEN WELLS (R)",
+        "s": "2026-06-13T16:00:00+01:00",
+        "e": "2026-06-13T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "bradenwells"
       }
     ],
     "subtle": [
       {
-        "n": "Pent.1",
-        "s": "2026-06-12T19:00:00Z",
-        "e": "2026-06-12T20:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-06-12T21:00:00Z",
+        "e": "2026-06-12T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Locked Signal w/ Vincebyvince",
-        "s": "2026-06-12T20:00:00Z",
-        "e": "2026-06-12T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "t": "playlist"
       },
       {
         "n": "1V & Broken Boxes",
@@ -1520,19 +1511,19 @@
         "u": null,
         "t": "monthly",
         "p": "machinewoman"
+      },
+      {
+        "n": "CICELY",
+        "s": "2026-06-19T20:00:00Z",
+        "e": "2026-06-19T22:00:00Z",
+        "d": "Cicely is a northern raised London based music photographer and DJ. From learning to mix during lockdown, she has since played at clubs across the country in venues such as Fabric, Corsica and Fold.\r\n\r\nCicely runs a collective and events night under the name NRG CRU which focus heavily on the high energy rave sound. She is highly influenced by the northern sound she grew up with, and you can hear this within her sets. Expect heavy blends of techno and hardcore while she shines the light on her favourite northern artists.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "cicely"
       }
     ],
     "dublab": [
-      {
-        "n": "Xica Soul - SoundProof",
-        "s": "2026-06-12T19:00:00Z",
-        "e": "2026-06-12T21:00:00Z",
-        "d": null,
-        "j": "SoundProof",
-        "u": null,
-        "t": "monthly",
-        "p": "xicasoul"
-      },
       {
         "n": "DJ Bird of Paradigm –  Paradigm Power Hour",
         "s": "2026-06-12T21:00:00Z",
@@ -2088,27 +2079,19 @@
         "j": null,
         "u": null,
         "p": "swamisound"
+      },
+      {
+        "n": "Zama Dube - The Witch's Flight",
+        "s": "2026-06-19T21:00:00Z",
+        "e": "2026-06-19T23:00:00Z",
+        "d": null,
+        "j": "The Witch's Flight",
+        "u": null,
+        "t": "monthly",
+        "p": "zamadube"
       }
     ],
     "rinse": [
-      {
-        "n": "p-rallel with Jet Seth",
-        "s": "2026-06-12T18:00:00Z",
-        "e": "2026-06-12T20:00:00Z",
-        "d": null,
-        "j": "NEVERMIND OPERATED",
-        "u": null
-      },
-      {
-        "n": "Amber's",
-        "s": "2026-06-12T20:00:00Z",
-        "e": "2026-06-12T21:00:00Z",
-        "d": null,
-        "j": "Hutch B2B KT",
-        "u": null,
-        "t": "biweekly",
-        "p": "hutch"
-      },
       {
         "n": "UNFOLD",
         "s": "2026-06-12T21:00:00Z",
