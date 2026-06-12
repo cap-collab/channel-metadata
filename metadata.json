@@ -1,41 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-06-12T21:25:14.079Z",
+  "updated": "2026-06-12T23:08:22.129Z",
   "stations": {
     "nts1": [
-      {
-        "n": "INNERVISIONS ÜBERALL W/ AXEL BOMAN",
-        "s": "2026-06-12T22:00:00+01:00",
-        "e": "2026-06-12T23:00:00+01:00",
-        "d": "Innervisions brings its sound to NTS with monthly shows featuring its core artists and special guests.",
-        "j": "AXEL BOMAN",
-        "u": "https://www.nts.live/api/v2/shows/innervisions/episodes/innervisions-12th-june-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ENDLESS RADIO",
-        "s": "2026-06-12T23:00:00+01:00",
-        "e": "2026-06-13T00:00:00+01:00",
-        "d": "ENDLESS rolls through NTS on a monthly basis. Sounding like Empyrean cracked open, the airwaves morph into into a tunnel linking South London to the end of the world through blown-out drums & and redlined ambience. Including exclusive dubs and guest mixes from friends.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/endless/episodes/endless-12th-june-2026",
-        "t": "monthly"
-      },
       {
         "n": "Bubble Gum Violence w/ RESTLESS TAXIS x LINO RECORDINGS",
         "s": "2026-06-13T00:00:00+01:00",
         "e": "2026-06-13T01:00:00+01:00",
-        "d": null,
+        "d": "Katie Vick presents Bubble Gum Violence.\nFrom the host: \"Embark with Lino Recordings upon a bombastic adventure through this restless blend of shoegaze, noise, dub, baile, bouyon, levantine folk, reggae, hardcore, jungle, gabber, afrobeats and dancehall.\"\nLino Recordings is a DIY label formed by Michael Asukyle, of Restless Taxis.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/bubble-gum-violence/episodes/bubble-gum-violence-13th-june-2026"
       },
       {
         "n": "MOBBS (R)",
         "s": "2026-06-13T01:00:00+01:00",
         "e": "2026-06-13T03:00:00+01:00",
-        "d": null,
+        "d": "MOBBS chopping up whatever he finds \nohm.mobbs@protonmail.com",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mobbs/episodes/mobbs-15th-september-2023",
         "t": "restream",
         "p": "mobbs"
       },
@@ -166,44 +148,43 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Yardsale",
+        "s": "2026-06-13T23:00:00+01:00",
+        "e": "2026-06-14T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SANPO DISCO W/ DJ SOFA (R)",
+        "s": "2026-06-14T00:00:00+01:00",
+        "e": "2026-06-14T02:00:00+01:00",
+        "d": null,
+        "j": "DJ SOFA",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "ALL ABOUT OUR LOVE W/ HARRIET BROWN",
-        "s": "2026-06-12T22:00:00+01:00",
-        "e": "2026-06-12T23:00:00+01:00",
-        "d": "Tenderness, yearning, spirituality and sensuality come together on Harriet Brown’s monthly show.\nFrom the host: \"This episode is a choral special – only voices, spacious inside and out. For heavy feeling, but also soothing. For remembering you are small and connecting to whatever you believe to be your higher power.\"",
-        "j": "HARRIET BROWN",
-        "u": "https://www.nts.live/api/v2/shows/harriet-brown/episodes/harriet-brown-12th-june-2026",
-        "t": "monthly",
-        "p": "harrietbrown"
-      },
-      {
-        "n": "East Never Loses: NU CHINA HYPERPOP w/ Angie QQ",
-        "s": "2026-06-12T23:00:00+01:00",
-        "e": "2026-06-13T00:00:00+01:00",
-        "d": "Enter a world of mahjong, star-crossed lovers, and cigarette smoke. Tune in for sounds of the past and the present across the Asian diaspora. \nFrom the host: \"This mix showcases artists from China’s emerging Nu China movement, a thriving underground scene where young producers are reshaping hyperpop through fast-paced, emotionally charged sounds that blend trap, club music, and internet-born experimentation. Featuring artists including Billionhappy, it hi.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/angie-qq/episodes/angie-qq-12th-june-2026",
-        "p": "angieqq"
-      },
-      {
         "n": "HYPERSENSITIVITY W/ BAE BAE",
         "s": "2026-06-13T00:00:00+01:00",
         "e": "2026-06-13T01:00:00+01:00",
-        "d": null,
+        "d": "Tender R&B, blistering breaks, and diasporic riddims with LA dj/producer BAE BAE.  ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/baexploitation/episodes/baexploitation-13th-june-2026",
         "p": "baebae"
       },
       {
         "n": "PUFFY W/ BAPARI",
         "s": "2026-06-13T01:00:00+01:00",
         "e": "2026-06-13T02:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Tune in to a monthly show where Bapari's goal is to put the spotlight on emerging\nunderground talent.",
+        "j": "BAPARI",
+        "u": "https://www.nts.live/api/v2/shows/puffy-w-bapari/episodes/puffy-w-bapari-13th-june-2026",
+        "t": "monthly"
       },
       {
         "n": "Heaven is in You w/ ADAB",
@@ -326,27 +307,28 @@
         "u": null,
         "t": "restream",
         "p": "bradenwells"
+      },
+      {
+        "n": "ANNABEL FRASER",
+        "s": "2026-06-13T17:00:00+01:00",
+        "e": "2026-06-13T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "annabelfraser"
+      },
+      {
+        "n": "Mutualism w/ BFTT",
+        "s": "2026-06-13T19:00:00+01:00",
+        "e": "2026-06-13T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "mutualism"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-06-12T21:00:00Z",
-        "e": "2026-06-12T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "1V & Broken Boxes",
-        "s": "2026-06-12T22:00:00Z",
-        "e": "2026-06-12T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Luwi Won",
         "s": "2026-06-12T23:00:00Z",
@@ -1521,29 +1503,27 @@
         "u": null,
         "t": "monthly",
         "p": "cicely"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "DJ Bird of Paradigm –  Paradigm Power Hour",
-        "s": "2026-06-12T21:00:00Z",
-        "e": "2026-06-12T22:00:00Z",
+        "n": "TMANTUS",
+        "s": "2026-06-19T22:00:00Z",
+        "e": "2026-06-19T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "birdofparadigm"
+        "t": "monthly"
       },
       {
-        "n": "DJ The Witching Hours - Centrifugues",
-        "s": "2026-06-12T22:00:00Z",
-        "e": "2026-06-12T23:00:00Z",
+        "n": "Yancey Presents: The Co-Lab",
+        "s": "2026-06-19T23:00:00Z",
+        "e": "2026-06-20T00:00:00Z",
         "d": null,
-        "j": "Centrifugues",
+        "j": "The Co-Lab",
         "u": null,
-        "t": "monthly",
-        "p": "djthewitchinghours"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Matt McDermott – En Plein Air",
         "s": "2026-06-12T23:00:00Z",
@@ -2089,19 +2069,23 @@
         "u": null,
         "t": "monthly",
         "p": "zamadube"
+      },
+      {
+        "n": "Hymnal and Mixmaster Wolf - Psychedelic Stax",
+        "s": "2026-06-19T23:00:00Z",
+        "e": "2026-06-20T01:00:00Z",
+        "d": null,
+        "j": "Psychedelic Stax",
+        "u": null,
+        "t": "monthly",
+        "p": "hymnal",
+        "ap": [
+          "mixmasterwolf",
+          "psychedelicstax"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "UNFOLD",
-        "s": "2026-06-12T21:00:00Z",
-        "e": "2026-06-12T23:00:00Z",
-        "d": null,
-        "j": "Gareth Wild",
-        "u": null,
-        "t": "monthly",
-        "p": "unfold"
-      },
       {
         "n": "ELOQ",
         "s": "2026-06-12T23:00:00Z",
@@ -2247,18 +2231,143 @@
         "u": null,
         "t": "biweekly",
         "p": "curve"
-      }
-    ],
-    "rinsefr": [
+      },
       {
-        "n": "Playlist France",
-        "s": "2026-06-12T19:00:00Z",
-        "e": "2026-06-12T22:00:00Z",
+        "n": "7ip7o3",
+        "s": "2026-06-13T23:00:00Z",
+        "e": "2026-06-14T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "7ip7o3"
+      },
+      {
+        "n": "UNFOLD",
+        "s": "2026-06-14T00:00:00Z",
+        "e": "2026-06-14T01:00:00Z",
+        "d": null,
+        "j": "Gareth Wild",
+        "u": null,
+        "t": "biweekly",
+        "p": "unfold"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-06-14T01:00:00Z",
+        "e": "2026-06-14T05:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
+      {
+        "n": "Amber's",
+        "s": "2026-06-14T05:00:00Z",
+        "e": "2026-06-14T06:00:00Z",
+        "d": null,
+        "j": "Hutch B2B KT",
+        "u": null,
+        "t": "biweekly",
+        "p": "hutch"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-06-14T06:00:00Z",
+        "e": "2026-06-14T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Wisdom Teeth",
+        "s": "2026-06-14T08:00:00Z",
+        "e": "2026-06-14T10:00:00Z",
+        "d": null,
+        "j": "Coppice Takeover with Iglew",
+        "u": null,
+        "t": "biweekly",
+        "p": "wisdomteeth"
+      },
+      {
+        "n": "Dean Bryce presents Don't Sleep",
+        "s": "2026-06-14T10:00:00Z",
+        "e": "2026-06-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Shuffle 'n' Swing",
+        "s": "2026-06-14T12:00:00Z",
+        "e": "2026-06-14T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Kitty Amor",
+        "s": "2026-06-14T14:00:00Z",
+        "e": "2026-06-14T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "kittyamor"
+      },
+      {
+        "n": "Jamo Beatz",
+        "s": "2026-06-14T16:00:00Z",
+        "e": "2026-06-14T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "jamobeatz"
+      },
+      {
+        "n": "RIZ LA TEEF",
+        "s": "2026-06-14T17:00:00Z",
+        "e": "2026-06-14T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "rizlateef"
+      },
+      {
+        "n": "Oblig",
+        "s": "2026-06-14T19:00:00Z",
+        "e": "2026-06-14T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "oblig"
+      },
+      {
+        "n": "Oneman B2B J-Cush with D Double, Jammer & More",
+        "s": "2026-06-14T20:00:00Z",
+        "e": "2026-06-14T22:00:00Z",
+        "d": null,
+        "j": "(2014)",
+        "u": null,
+        "p": "oneman"
+      },
+      {
+        "n": "Nio-B",
+        "s": "2026-06-14T22:00:00Z",
+        "e": "2026-06-14T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "rinsefr": [
       {
         "n": "Playlist France",
         "s": "2026-06-12T22:00:00Z",
@@ -2329,7 +2438,92 @@
       {
         "n": "Playlist France",
         "s": "2026-06-13T18:00:00Z",
-        "e": "2026-06-13T19:00:00Z",
+        "e": "2026-06-13T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-13T22:00:00Z",
+        "e": "2026-06-14T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-14T07:00:00Z",
+        "e": "2026-06-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "La Sunday Abidjan",
+        "s": "2026-06-14T12:00:00Z",
+        "e": "2026-06-14T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lasundayabidjan"
+      },
+      {
+        "n": "ElectrAfrique",
+        "s": "2026-06-14T13:00:00Z",
+        "e": "2026-06-14T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "electrafrique"
+      },
+      {
+        "n": "Eclipse Tribez",
+        "s": "2026-06-14T14:00:00Z",
+        "e": "2026-06-14T15:00:00Z",
+        "d": null,
+        "j": "invite Vazda Garant",
+        "u": null,
+        "t": "monthly",
+        "p": "eclipsetribez"
+      },
+      {
+        "n": "Paloma Colombe",
+        "s": "2026-06-14T15:00:00Z",
+        "e": "2026-06-14T16:00:00Z",
+        "d": null,
+        "j": "Koumiya",
+        "u": null,
+        "p": "palomacolombe"
+      },
+      {
+        "n": "[re]sources",
+        "s": "2026-06-14T16:00:00Z",
+        "e": "2026-06-14T17:00:00Z",
+        "d": null,
+        "j": "avec Oskar",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Imer6ia",
+        "s": "2026-06-14T17:00:00Z",
+        "e": "2026-06-14T18:00:00Z",
+        "d": null,
+        "j": "Kā : Oversoul premiere",
+        "u": null,
+        "t": "biweekly",
+        "p": "imer6ia"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-14T18:00:00Z",
+        "e": "2026-06-14T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
