@@ -1,34 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-12T08:16:42.787Z",
+  "updated": "2026-06-12T12:49:18.246Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ RUBY SAVAGE",
-        "s": "2026-06-12T09:00:00+01:00",
-        "e": "2026-06-12T11:00:00+01:00",
-        "d": "Ruby is back on breakfast duties. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-ruby-savage-12th-june-2026",
-        "p": "rubysavage"
-      },
-      {
-        "n": "SOUP TO NUTS W/ SCARY THINGS",
-        "s": "2026-06-12T11:00:00+01:00",
-        "e": "2026-06-12T13:00:00+01:00",
-        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
-        "j": "SCARY THINGS",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-12th-june-2026",
-        "t": "biweekly",
-        "p": "scarythings"
-      },
       {
         "n": "PUM PUM POWER HOUR W/ LIL C",
         "s": "2026-06-12T13:00:00+01:00",
         "e": "2026-06-12T14:00:00+01:00",
-        "d": null,
+        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
         "j": "LIL C",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-12th-june-2026",
         "t": "biweekly",
         "p": "lilc"
       },
@@ -36,9 +17,9 @@
         "n": "TEARS IN THE CLUB W/ JEUNE POUCE",
         "s": "2026-06-12T14:00:00+01:00",
         "e": "2026-06-12T15:00:00+01:00",
-        "d": null,
+        "d": "\"Tears in the Club\" presents a unique blend of structured and chaotic music, combining intense hip hop, drum and bass, footwork, jersey club, and sometimes Afro rhythms. This multi-genre musical show explores diverse musical landscapes, creating a striking contrast between genres, while also showcasing new artists.",
         "j": "JEUNE POUCE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jeune-pouce/episodes/jeune-pouce-12th-june-2026",
         "t": "monthly",
         "p": "jeunepouce"
       },
@@ -169,50 +150,42 @@
         "u": null,
         "t": "restream",
         "p": "postgeography"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Coming Of Age In Plattenbau W/ Franziska",
-        "s": "2026-06-12T09:00:00+01:00",
-        "e": "2026-06-12T10:00:00+01:00",
-        "d": "Music I listened to in the early Ninetees (and later) when I lived and grow up there in the Plattenbau on the sixth floor, no lift…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-coming-of-age-in-plattenbau-w-franziska-12th-june-2026"
       },
       {
-        "n": "TEENAGE NOISE W/ LARRY",
-        "s": "2026-06-12T10:00:00+01:00",
-        "e": "2026-06-12T11:00:00+01:00",
-        "d": "Teenage rebellion, for me, was taking my parents' dad rock and finding the bands who'd feed it back through amplifiers until it became something unrecognisable.\nI loved being told to turn that noise off.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-teenage-noise-w-larry-12th-june-2026"
-      },
-      {
-        "n": "In Focus: Grupo Niche",
-        "s": "2026-06-12T11:00:00+01:00",
-        "e": "2026-06-12T13:00:00+01:00",
-        "d": null,
-        "j": "Grupo Niche",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Orpheu The Wizard",
-        "s": "2026-06-12T13:00:00+01:00",
-        "e": "2026-06-12T14:00:00+01:00",
+        "n": "SOUNDS OF THE DAWN",
+        "s": "2026-06-13T08:00:00+01:00",
+        "e": "2026-06-13T10:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
+        "n": "The One Glove Breakfast Show w/ Grace",
+        "s": "2026-06-13T10:00:00+01:00",
+        "e": "2026-06-13T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "nts2": [
+      {
+        "n": "Orpheu The Wizard",
+        "s": "2026-06-12T13:00:00+01:00",
+        "e": "2026-06-12T14:00:00+01:00",
+        "d": "Amsterdam selector Orpheu The Wizard connects oddball and straight forward jams from different decades and different record shelves in a monthly show. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/orpheu-the-wizard/episodes/orpheu-the-wizard-12th-june-2026",
+        "t": "monthly"
+      },
+      {
         "n": "ANTINOTE",
         "s": "2026-06-12T14:00:00+01:00",
         "e": "2026-06-12T15:00:00+01:00",
-        "d": null,
+        "d": "Monthly sessions from Zaltan, the mind behind Paris-based leftfield dance, electronic & downtempo imprint Antinote, with occasional appearances from friends and artists on the label. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zaltan/episodes/zaltan-12th-june-2026",
         "t": "monthly"
       },
       {
@@ -334,45 +307,41 @@
         "u": null,
         "t": "restream",
         "p": "popstarbenny"
+      },
+      {
+        "n": "A Dance Revolution w/ F4TW",
+        "s": "2026-06-13T06:00:00+01:00",
+        "e": "2026-06-13T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Beginnings of Trap in Spain W/ A100 & MC Pepinho",
+        "s": "2026-06-13T07:00:00+01:00",
+        "e": "2026-06-13T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "UK Cheeky 2012-2017 w/ Bavs",
+        "s": "2026-06-13T08:00:00+01:00",
+        "e": "2026-06-13T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
       {
         "n": "Subtle Selects",
-        "s": "2026-06-12T04:00:00Z",
-        "e": "2026-06-12T09:00:00Z",
+        "s": "2026-06-12T12:00:00Z",
+        "e": "2026-06-12T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "Holy Crow w/ Isis Moray",
-        "s": "2026-06-12T09:00:00Z",
-        "e": "2026-06-12T10:00:00Z",
-        "d": null,
-        "j": "Isis Moray",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Tom Ferrare",
-        "s": "2026-06-12T10:00:00Z",
-        "e": "2026-06-12T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Electrolytes with Joly",
-        "s": "2026-06-12T11:00:00Z",
-        "e": "2026-06-12T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "electrolyteswithjoly"
       },
       {
         "n": "Sauce Collective ",
@@ -1527,13 +1496,40 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Ozzy",
+        "s": "2026-06-19T09:00:00Z",
+        "e": "2026-06-19T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Systema Naturae by lucii.",
+        "s": "2026-06-19T10:00:00Z",
+        "e": "2026-06-19T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Gwero b2b Nightshade",
+        "s": "2026-06-19T11:00:00Z",
+        "e": "2026-06-19T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-12T07:00:00Z",
-        "e": "2026-06-12T09:00:00Z",
+        "s": "2026-06-12T11:00:00Z",
+        "e": "2026-06-12T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1541,8 +1537,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-06-12T09:00:00Z",
-        "e": "2026-06-12T11:00:00Z",
+        "s": "2026-06-12T13:00:00Z",
+        "e": "2026-06-12T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2108,15 +2104,6 @@
     ],
     "rinse": [
       {
-        "n": "Breakfast with Charles Green & Anthony Faulkner",
-        "s": "2026-06-12T08:00:00Z",
-        "e": "2026-06-12T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "charlesgreen"
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-06-12T10:00:00Z",
         "e": "2026-06-12T13:00:00Z",
@@ -2270,7 +2257,7 @@
         "s": "2026-06-13T14:00:00Z",
         "e": "2026-06-13T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Joey London Style",
         "u": null,
         "t": "biweekly",
         "p": "paradise"
@@ -2290,7 +2277,7 @@
         "s": "2026-06-13T16:00:00Z",
         "e": "2026-06-13T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Hangaelle",
         "u": null,
         "t": "monthly",
         "p": "lamsi"
@@ -2298,27 +2285,19 @@
       {
         "n": "Man Power",
         "s": "2026-06-13T17:00:00Z",
-        "e": "2026-06-13T19:00:00Z",
+        "e": "2026-06-13T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Timo Deeprhythms",
         "u": null,
         "t": "monthly",
         "p": "manpower"
-      },
-      {
-        "n": "Hyperdub with DJ Spinn, DJ Paypal & Taso",
-        "s": "2026-06-13T19:00:00Z",
-        "e": "2026-06-13T21:00:00Z",
-        "d": null,
-        "j": "(2015)",
-        "u": null
       },
       {
         "n": "CONDUCTA",
         "s": "2026-06-13T21:00:00Z",
         "e": "2026-06-13T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live From GALA 2026",
         "u": null,
         "t": "biweekly"
       },
@@ -2334,15 +2313,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-06-12T07:00:00Z",
-        "e": "2026-06-12T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Club Mycélium",
         "s": "2026-06-12T12:00:00Z",
@@ -2478,7 +2448,7 @@
         "s": "2026-06-13T17:00:00Z",
         "e": "2026-06-13T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "MYN invite VAZHMARR",
         "u": null,
         "t": "monthly",
         "p": "publicsystemrecordings"
