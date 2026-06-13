@@ -1,32 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-06-13T19:09:58.917Z",
+  "updated": "2026-06-13T21:03:34.980Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CHERRIE FLAVA",
-        "s": "2026-06-13T20:00:00+01:00",
-        "e": "2026-06-13T22:00:00+01:00",
-        "d": "Cherrie Flava, the boss of MIC Records, the London label behind releases from LAPS, Mike Collins, Lord Tusk & more, joins us once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mic-records/episodes/mic-records-13th-june-2026",
-        "t": "monthly"
-      },
       {
         "n": "Anamanaguchi",
         "s": "2026-06-13T22:00:00+01:00",
         "e": "2026-06-13T23:00:00+01:00",
-        "d": null,
+        "d": "pete & luke from anamanaguchi play serene and healing video game soundtracks",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/anamanaguchi-13th-june-2026"
       },
       {
         "n": "Yardsale",
         "s": "2026-06-13T23:00:00+01:00",
         "e": "2026-06-14T00:00:00+01:00",
-        "d": null,
+        "d": "Incoming transmissions from South East London based skate and fashion company Yardsale - trips thru ambient, dub, deep house and beyond. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yardsale/episodes/yardsale-13th-june-2026",
         "p": "yardsale"
       },
       {
@@ -161,26 +152,34 @@
         "j": null,
         "u": null,
         "p": "janiejones"
+      },
+      {
+        "n": "Perfect Lives w/ Bruno & Daniel",
+        "s": "2026-06-14T20:00:00+01:00",
+        "e": "2026-06-14T21:00:00+01:00",
+        "d": null,
+        "j": "Bruno & Daniel",
+        "u": null,
+        "t": "monthly",
+        "p": "perfectlives"
+      },
+      {
+        "n": "The treehouse club w/ Sparklmami",
+        "s": "2026-06-14T21:00:00+01:00",
+        "e": "2026-06-14T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "KIM LANA",
-        "s": "2026-06-13T20:00:00+01:00",
-        "e": "2026-06-13T22:00:00+01:00",
-        "d": "Todmorden's finest, Kim Lana joins us in the Manchester studio once a month for 2 hours of bumping and pumping golden era house & techno.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kim-lana/episodes/kim-lana-13th-june-2026",
-        "t": "monthly",
-        "p": "kimlana"
-      },
-      {
         "n": "BERGSONIST",
         "s": "2026-06-13T22:00:00+01:00",
         "e": "2026-06-13T23:00:00+01:00",
-        "d": null,
+        "d": "From the host: \"Going solo this month, playing music I've been listening to lately; old and new releases, featuring: Severed Heads, Smersh, Coldreams, Edgar, Sepehr, Martial Canterel, Fallbeil and more. Thanks for tuning in!\" ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bergsonist/episodes/bergsonist-13th-june-2026",
         "t": "monthly",
         "p": "bergsonist"
       },
@@ -188,9 +187,9 @@
         "n": "HUNG, DRAWN & QUARTERED (R)",
         "s": "2026-06-13T23:00:00+01:00",
         "e": "2026-06-14T00:00:00+01:00",
-        "d": null,
+        "d": "They should return to the place from whence they came, from thence be drawn to the common place of execution upon hurdles, and there to be hanged by the necks, then cut down alive, their privy-Members cut off, and bowels taken out to be burned before their faces, their Heads to be severed from their bodies, and their bodies divided into four parts, to be disposed of as the King should think fit.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hung-drawn-quartered/episodes/hung-drawn-quartered-3rd-september-2020",
         "t": "restream"
       },
       {
@@ -325,18 +324,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "NTS GUIDE TO: LEBANESE DISCO ORIENTALE (R)",
+        "s": "2026-06-14T19:00:00+01:00",
+        "e": "2026-06-14T20:00:00+01:00",
+        "d": null,
+        "j": "LEBANESE DISCO ORIENTALE",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Fixed Abode w/ Rainy Miller",
+        "s": "2026-06-14T20:00:00+01:00",
+        "e": "2026-06-14T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Kimber & Kid Kun",
-        "s": "2026-06-13T19:00:00Z",
-        "e": "2026-06-13T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Crude Oil",
         "s": "2026-06-13T21:00:00Z",
@@ -1525,31 +1532,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Eklekt1k",
+        "s": "2026-06-20T20:00:00Z",
+        "e": "2026-06-20T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "eklekt1k"
+      },
+      {
+        "n": "The Wheel Up Show w/ Tripta",
+        "s": "2026-06-20T21:00:00Z",
+        "e": "2026-06-20T22:00:00Z",
+        "d": null,
+        "j": "Tripta",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-06-13T19:00:00Z",
-        "e": "2026-06-13T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Nia Michelle, Jordan Collins, Lewis Thompson – Channels",
-        "s": "2026-06-13T20:00:00Z",
-        "e": "2026-06-13T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "jordancollins",
-        "ap": [
-          "lewisthompson",
-          "niamichelle"
-        ]
-      },
       {
         "n": "D Tiberio - Patterns of Lorena",
         "s": "2026-06-13T21:00:00Z",
@@ -2081,18 +2085,18 @@
         "u": null,
         "t": "monthly",
         "p": "elynkazarian"
+      },
+      {
+        "n": "Beats of All-Nations",
+        "s": "2026-06-20T21:00:00Z",
+        "e": "2026-06-20T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Eastenderz with Priku",
-        "s": "2026-06-13T19:00:00Z",
-        "e": "2026-06-13T21:00:00Z",
-        "d": null,
-        "j": "(2021)",
-        "u": null,
-        "p": "eastenderz"
-      },
       {
         "n": "CONDUCTA",
         "s": "2026-06-13T21:00:00Z",
