@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-06-13T02:35:35.366Z",
+  "updated": "2026-06-13T07:40:30.057Z",
   "stations": {
     "nts1": [
       {
@@ -2569,7 +2569,8 @@
         "d": "A monthly 120 minute slot from the brains behind the Sanpo Disco mix series and Melbourne parties. All the way from up-beat disco escapism through to J-Pop or rose-tinted balearic smooth rock. ",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/sanpo-disco/episodes/sanpo-disco-21st-august-2019",
-        "t": "restream"
+        "t": "restream",
+        "p": "sanpodisco"
       },
       {
         "n": "THE EARLY BIRD SHOW W/ MUSIC 4 LOVERS",
@@ -18474,6 +18475,45 @@
         "u": "https://www.nts.live/api/v2/shows/mobbs/episodes/mobbs-15th-september-2023",
         "t": "restream",
         "p": "mobbs"
+      },
+      {
+        "n": "KHARTOUM ARRIVALS W/ BASMA (R)",
+        "s": "2026-06-13T03:00:00+01:00",
+        "e": "2026-06-13T04:00:00+01:00",
+        "d": "Basma shares songs and stories from passings through Khartoum and beyond.",
+        "j": "BASMA",
+        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-25th-may-2025",
+        "t": "restream",
+        "p": "basma"
+      },
+      {
+        "n": "GiGi FM Presents Mareena (R)",
+        "s": "2026-06-13T04:00:00+01:00",
+        "e": "2026-06-13T05:00:00+01:00",
+        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-3rd-january-2024",
+        "t": "restream",
+        "p": "gigifm"
+      },
+      {
+        "n": "Japan Blues (R)",
+        "s": "2026-06-13T05:00:00+01:00",
+        "e": "2026-06-13T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Post-Geography (R)",
+        "s": "2026-06-13T07:00:00+01:00",
+        "e": "2026-06-13T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "postgeography"
       }
     ],
     "nts2": [
@@ -40258,6 +40298,42 @@
         "j": null,
         "u": null,
         "p": "adab"
+      },
+      {
+        "n": "FLOATING POINTS (R)",
+        "s": "2026-06-13T03:00:00+01:00",
+        "e": "2026-06-13T05:00:00+01:00",
+        "d": "Sam Shepherd a.k.a Floating Points barely needs introduction. Cataloguing depths uncharted to expose some of the best jazz, soul, rare groove and disco around. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/floating-points/episodes/floating-points-21st-november-2022",
+        "t": "restream",
+        "p": "floatingpoints"
+      },
+      {
+        "n": "Popstar Benny (R)",
+        "s": "2026-06-13T05:00:00+01:00",
+        "e": "2026-06-13T06:00:00+01:00",
+        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-2nd-december-2025",
+        "t": "restream",
+        "p": "popstarbenny"
+      },
+      {
+        "n": "A Dance Revolution w/ F4TW",
+        "s": "2026-06-13T06:00:00+01:00",
+        "e": "2026-06-13T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Beginnings of Trap in Spain W/ A100 & MC Pepinho",
+        "s": "2026-06-13T07:00:00+01:00",
+        "e": "2026-06-13T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -60835,6 +60911,25 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TheComplexCurve",
+        "s": "2026-06-13T02:00:00Z",
+        "e": "2026-06-13T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "thecomplexcurve"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-06-13T03:00:00Z",
+        "e": "2026-06-13T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "dublab": [
@@ -75070,6 +75165,37 @@
         "u": null,
         "t": "monthly",
         "p": "mattmcdermott"
+      },
+      {
+        "n": "Gum.mp3 - Black Audio Society",
+        "s": "2026-06-13T01:00:00Z",
+        "e": "2026-06-13T03:00:00Z",
+        "d": null,
+        "j": "Black Audio Society",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "RERUN",
+        "s": "2026-06-13T03:00:00Z",
+        "e": "2026-06-13T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "88 - Club Paradise",
+        "s": "2026-06-13T05:00:00Z",
+        "e": "2026-06-13T07:00:00Z",
+        "d": null,
+        "j": "Club Paradise",
+        "u": null,
+        "t": "monthly",
+        "p": "88",
+        "ap": [
+          "paradise"
+        ]
       }
     ],
     "rinse": [
@@ -86197,7 +86323,10 @@
         "d": null,
         "j": "Ten Years of GALA Takeover",
         "u": null,
-        "p": "isaaccarter"
+        "p": "gala",
+        "ap": [
+          "isaaccarter"
+        ]
       },
       {
         "n": "NIKS",
@@ -86207,7 +86336,10 @@
         "j": "Ten Years of GALA Takeover",
         "u": null,
         "t": "biweekly",
-        "p": "niks"
+        "p": "gala",
+        "ap": [
+          "niks"
+        ]
       },
       {
         "n": "Manami",
@@ -86217,7 +86349,10 @@
         "j": "Ten Years of GALA Takeover",
         "u": null,
         "t": "biweekly",
-        "p": "manami"
+        "p": "gala",
+        "ap": [
+          "manami"
+        ]
       },
       {
         "n": "Mr. Redley",
@@ -86227,7 +86362,10 @@
         "j": "Ten Years of GALA Takeover",
         "u": null,
         "t": "biweekly",
-        "p": "mrredley"
+        "p": "gala",
+        "ap": [
+          "mrredley"
+        ]
       },
       {
         "n": "Carl Craig",
@@ -86415,7 +86553,10 @@
         "d": null,
         "j": "Ten Years of GALA Takeover",
         "u": null,
-        "p": "isaaccarter"
+        "p": "gala",
+        "ap": [
+          "isaaccarter"
+        ]
       },
       {
         "n": "Electronic Playlist",
@@ -86434,7 +86575,10 @@
         "j": "Ten Years of GALA Takeover",
         "u": null,
         "t": "biweekly",
-        "p": "niks"
+        "p": "gala",
+        "ap": [
+          "niks"
+        ]
       },
       {
         "n": "Playlist",
@@ -89645,7 +89789,10 @@
         "j": "LIVE FROM GALA 2026",
         "u": null,
         "t": "monthly",
-        "p": "monayim"
+        "p": "gala",
+        "ap": [
+          "monayim"
+        ]
       },
       {
         "n": "Qendresa",
@@ -89654,7 +89801,10 @@
         "d": null,
         "j": "LIVE FROM GALA 2026",
         "u": null,
-        "p": "qendresa"
+        "p": "gala",
+        "ap": [
+          "qendresa"
+        ]
       },
       {
         "n": "D Double E",
@@ -89662,7 +89812,8 @@
         "e": "2026-05-22T16:30:00Z",
         "d": null,
         "j": "LIVE FROM GALA 2026",
-        "u": null
+        "u": null,
+        "p": "gala"
       },
       {
         "n": "IZCO",
@@ -89671,7 +89822,10 @@
         "d": null,
         "j": "LIVE FROM GALA 2026",
         "u": null,
-        "p": "izco"
+        "p": "gala",
+        "ap": [
+          "izco"
+        ]
       },
       {
         "n": "Novelist",
@@ -89679,7 +89833,8 @@
         "e": "2026-05-22T18:15:00Z",
         "d": null,
         "j": "LIVE FROM GALA 2026",
-        "u": null
+        "u": null,
+        "p": "gala"
       },
       {
         "n": "CONDUCTA",
@@ -89688,7 +89843,8 @@
         "d": null,
         "j": "LIVE FROM GALA 2026",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "gala"
       },
       {
         "n": "Todd Edwards",
@@ -89696,7 +89852,8 @@
         "e": "2026-05-22T21:15:00Z",
         "d": null,
         "j": "LIVE FROM GALA 2026",
-        "u": null
+        "u": null,
+        "p": "gala"
       },
       {
         "n": "Scratcha B2B Tim Reaper",
@@ -89934,7 +90091,10 @@
         "j": "Ten Years of GALA Takeover",
         "u": null,
         "t": "biweekly",
-        "p": "isaaccarter"
+        "p": "gala",
+        "ap": [
+          "isaaccarter"
+        ]
       },
       {
         "n": "Supa D",
@@ -90306,7 +90466,10 @@
         "j": "Ten Years of GALA Takeover",
         "u": null,
         "t": "biweekly",
-        "p": "niks"
+        "p": "gala",
+        "ap": [
+          "niks"
+        ]
       },
       {
         "n": "Apollonia",
@@ -92928,6 +93091,25 @@
         "u": null,
         "t": "biweekly",
         "p": "ryota"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-06-13T01:00:00Z",
+        "e": "2026-06-13T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Maey",
+        "s": "2026-06-13T05:00:00Z",
+        "e": "2026-06-13T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "maey"
       }
     ],
     "rinsefr": [
@@ -103272,6 +103454,15 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-12T22:00:00Z",
+        "e": "2026-06-13T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "newtown": [
@@ -108482,6 +108673,16 @@
         "u": null,
         "t": "weekly",
         "p": "jasonp"
+      },
+      {
+        "n": "Temple of Dreams",
+        "s": "2026-06-13T03:00:00Z",
+        "e": "2026-06-13T05:00:00Z",
+        "d": null,
+        "j": "Tristes Tropiques",
+        "u": null,
+        "t": "monthly",
+        "p": "tristestropiques"
       }
     ]
   }
