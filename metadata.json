@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-13T07:39:39.882Z",
+  "updated": "2026-06-13T10:21:55.217Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUNDS OF THE DAWN",
-        "s": "2026-06-13T08:00:00+01:00",
-        "e": "2026-06-13T10:00:00+01:00",
-        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-13th-june-2026",
-        "t": "monthly"
-      },
       {
         "n": "The One Glove Breakfast Show w/ Grace",
         "s": "2026-06-13T10:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "ROSS ALLEN",
         "s": "2026-06-13T12:00:00+01:00",
         "e": "2026-06-13T14:00:00+01:00",
-        "d": null,
+        "d": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ross-allen/episodes/ross-allen-13th-june-2026",
         "t": "biweekly",
         "p": "rossallen"
       },
@@ -164,48 +155,37 @@
         "j": null,
         "u": null,
         "p": "sophiazhuravkova"
+      },
+      {
+        "n": "THEA HD",
+        "s": "2026-06-14T09:00:00+01:00",
+        "e": "2026-06-14T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "hd",
+        "ap": [
+          "theahd"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "UK Cheeky 2012-2017 w/ Bavs",
-        "s": "2026-06-13T08:00:00+01:00",
-        "e": "2026-06-13T09:00:00+01:00",
-        "d": "Coinciding with the 2012 olympics, a tidal wave of cheeky tunes hit London. This is an imagined adolescence: snatches of clubland heard through radio hits, bluetooth mp3s and youtube mixes. Once old enough to enter the dancefloor, traces of the old sound are there but does the cheek remain?",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-uk-cheeky-2012-2017-w-bavs-13th-june-2026"
-      },
-      {
-        "n": "A Quiet Rebellion W/ Collapse Ensemble",
-        "s": "2026-06-13T09:00:00+01:00",
-        "e": "2026-06-13T10:00:00+01:00",
-        "d": "15 year old me was surrounded by nature, wood pigeons, sour gooseberries and stinging nettles, it was lush. Being the only brown teenager in town, let alone being the only queer (that I knew of) was a big thing in a very white and conservative town.\nSo this goes out to anyone who is in that situation now. Our cool art teacher allowed the students play cassettes in class, one student brought in The Orb. It blew my mind…So, my rebellion was quiet and internal, but being surrounded by nature, powerful.\nI hope I’ve put a bit of that vibe for you to enjoy.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-a-quiet-rebellion-w-collapse-ensemble-13th-june-2026"
-      },
-      {
-        "n": "Sixth Form Burnout w/ Dominic Squire",
-        "s": "2026-06-13T10:00:00+01:00",
-        "e": "2026-06-13T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Just A Thought W/ +44K: Hermeneutics",
         "s": "2026-06-13T11:00:00+01:00",
         "e": "2026-06-13T12:00:00+01:00",
-        "d": null,
+        "d": "From the host: \"'Damn it, Hanny. \"We all have our reasons\", I meant…' - Aldous Harding\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/plus44kaligula/episodes/plus44kaligula-11th-june-2026"
       },
       {
         "n": "NAEMI (R)",
         "s": "2026-06-13T12:00:00+01:00",
         "e": "2026-06-13T13:00:00+01:00",
-        "d": null,
+        "d": "Stark ambience and downtempo trips with Berlin producer Naemi. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/naemi-26th-june-2024",
         "t": "restream"
       },
       {
@@ -330,36 +310,38 @@
         "u": null,
         "t": "restream",
         "p": "riodoce"
+      },
+      {
+        "n": "SOUNDS ON SCREEN: HENRY MANCINI (R)",
+        "s": "2026-06-14T07:00:00+01:00",
+        "e": "2026-06-14T09:00:00+01:00",
+        "d": null,
+        "j": "HENRY MANCINI",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "A MONTH OF SUNDAYS W/ BILL SPENCER (R)",
+        "s": "2026-06-14T09:00:00+01:00",
+        "e": "2026-06-14T10:00:00+01:00",
+        "d": null,
+        "j": "BILL SPENCER",
+        "u": null,
+        "t": "restream",
+        "p": "billspencer"
+      },
+      {
+        "n": "MUSIC FOR A HEALING EARTH W/ THE COSMIC TONES RESEARCH TRIO (R)",
+        "s": "2026-06-14T10:00:00+01:00",
+        "e": "2026-06-14T11:00:00+01:00",
+        "d": null,
+        "j": "THE COSMIC TONES RESEARCH TRIO",
+        "u": null,
+        "t": "restream",
+        "p": "thecosmictonesresearchtrio"
       }
     ],
     "subtle": [
-      {
-        "n": "REFERENCES...w/ KPB",
-        "s": "2026-06-13T07:00:00Z",
-        "e": "2026-06-13T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-06-13T08:00:00Z",
-        "e": "2026-06-13T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": " SCOPE__EM",
-        "s": "2026-06-13T09:00:00Z",
-        "e": "2026-06-13T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Poolside Convo w/ Gabe",
         "s": "2026-06-13T10:00:00Z",
@@ -1527,18 +1509,28 @@
         "u": null,
         "t": "monthly",
         "p": "carlos"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-06-13T07:00:00Z",
-        "e": "2026-06-13T09:00:00Z",
+        "n": "call curtis",
+        "s": "2026-06-20T09:00:00Z",
+        "e": "2026-06-20T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "callcurtis"
       },
+      {
+        "n": "Luc presents: Cable",
+        "s": "2026-06-20T10:00:00Z",
+        "e": "2026-06-20T11:00:00Z",
+        "d": null,
+        "j": "Cable",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-06-13T09:00:00Z",
@@ -2105,25 +2097,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-06-13T06:00:00Z",
-        "e": "2026-06-13T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Breakfast with Adam John (Ghoulish)",
-        "s": "2026-06-13T08:00:00Z",
-        "e": "2026-06-13T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "ghoulish"
-      },
       {
         "n": "Hi-Fidelity",
         "s": "2026-06-13T10:00:00Z",
