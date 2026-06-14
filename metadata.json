@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-14T15:43:11.392Z",
+  "updated": "2026-06-14T17:09:53.906Z",
   "stations": {
     "nts1": [
-      {
-        "n": "KIT GRILL",
-        "s": "2026-06-14T16:00:00+01:00",
-        "e": "2026-06-14T17:00:00+01:00",
-        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kit-grill/episodes/kit-grill-14th-june-2026",
-        "t": "monthly",
-        "p": "kitgrill"
-      },
       {
         "n": "ALL TRADES W/ CHUGGY",
         "s": "2026-06-14T17:00:00+01:00",
@@ -25,9 +15,9 @@
         "n": "JANIE JONES",
         "s": "2026-06-14T19:00:00+01:00",
         "e": "2026-06-14T20:00:00+01:00",
-        "d": null,
+        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-14th-june-2026",
         "p": "janiejones"
       },
       {
@@ -166,19 +156,19 @@
         "j": "DRAKEFORD",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-06-15T18:00:00+01:00",
+        "e": "2026-06-15T20:00:00+01:00",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
       }
     ],
     "nts2": [
-      {
-        "n": "EDV3CTOR",
-        "s": "2026-06-14T16:00:00+01:00",
-        "e": "2026-06-14T17:00:00+01:00",
-        "d": "From the host: \"future music from the present past, nuggets from the Colne Valley electronic music underground. off world traversing w/ thematic hybrid variations & folkloric traditions… the usual unusual illusions!\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/edv3ctor/episodes/edv3ctor-14th-june-2026",
-        "t": "monthly",
-        "p": "edv3ctor"
-      },
       {
         "n": "RED LASER RECORDS",
         "s": "2026-06-14T17:00:00+01:00",
@@ -192,9 +182,9 @@
         "n": "NTS GUIDE TO: LEBANESE DISCO ORIENTALE (R)",
         "s": "2026-06-14T19:00:00+01:00",
         "e": "2026-06-14T20:00:00+01:00",
-        "d": null,
+        "d": "An hour-long trip into the world of Disco Orientale, the style of hybrid dance music pioneered by Lebanese composer, arranger and musician Ihsan Al Munzer alongside Elias Rahbani in the late 1970s and early 1980s. Often also called \"oriental disco\" or \"belly dance disco\", the style fused western disco rhythms with Arabic music. \nThe work of Al-Munzer, Rahbani and other artists blended popular disco hits of the era with folkloric Arabic melodies and also original compositions that seamlessly combined both musical systems. These productions featured modern synthesizers, electric guitars and drums with traditional Arabic percussion sections, and lush string arrangements.\nThis style shows the monumental influence that disco had on popular music culture in the Arabic-speaking world.\nCreated by Ernesto Chahoud ",
         "j": "LEBANESE DISCO ORIENTALE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-oriental-disco-2nd-march-2026",
         "t": "restream"
       },
       {
@@ -331,29 +321,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Breaking People w/ Noa Kurzweil",
+        "s": "2026-06-15T12:00:00+01:00",
+        "e": "2026-06-15T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "The Garage Garden",
-        "s": "2026-06-14T15:00:00Z",
-        "e": "2026-06-14T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "garagegarden"
-      },
-      {
-        "n": " NULLIFY",
-        "s": "2026-06-14T16:00:00Z",
-        "e": "2026-06-14T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "nullify"
-      },
       {
         "n": "Marchborn",
         "s": "2026-06-14T17:00:00Z",
@@ -1521,28 +1499,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs 2",
-        "s": "2026-06-14T14:00:00Z",
-        "e": "2026-06-14T16:00:00Z",
+        "n": "SETTINGS",
+        "s": "2026-06-21T16:00:00Z",
+        "e": "2026-06-21T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-06-14T16:00:00Z",
-        "e": "2026-06-14T17:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly",
-        "p": "kennethbager"
-      },
+        "t": "monthly",
+        "p": "settings"
+      }
+    ],
+    "dublab": [
       {
         "n": "Bob Baker Marionette Theater – Puppetphonic",
         "s": "2026-06-14T17:00:00Z",
@@ -2071,29 +2040,28 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Kitty Amor",
-        "s": "2026-06-14T14:00:00Z",
-        "e": "2026-06-14T16:00:00Z",
-        "d": null,
-        "j": "Kingdonna",
-        "u": null,
-        "t": "biweekly",
-        "p": "kittyamor"
       },
       {
-        "n": "Jamo Beatz",
-        "s": "2026-06-14T16:00:00Z",
-        "e": "2026-06-14T17:00:00Z",
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-06-21T16:00:00Z",
+        "e": "2026-06-21T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
+      },
+      {
+        "n": "Burgers – DOSTI",
+        "s": "2026-06-21T17:00:00Z",
+        "e": "2026-06-21T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "jamobeatz"
-      },
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "RIZ LA TEEF",
         "s": "2026-06-14T17:00:00Z",
@@ -2300,25 +2268,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Paloma Colombe",
-        "s": "2026-06-14T15:00:00Z",
-        "e": "2026-06-14T16:00:00Z",
-        "d": null,
-        "j": "Koumiya",
-        "u": null,
-        "t": "monthly",
-        "p": "palomacolombe"
-      },
-      {
-        "n": "[re]sources",
-        "s": "2026-06-14T16:00:00Z",
-        "e": "2026-06-14T17:00:00Z",
-        "d": null,
-        "j": "avec Oskar",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Imer6ia",
         "s": "2026-06-14T17:00:00Z",
