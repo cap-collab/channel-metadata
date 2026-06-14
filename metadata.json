@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-14T11:49:18.775Z",
+  "updated": "2026-06-14T13:41:10.549Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Tommasi",
-        "s": "2026-06-14T12:00:00+01:00",
-        "e": "2026-06-14T14:00:00+01:00",
-        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-14th-june-2026",
-        "t": "monthly",
-        "p": "tommasi"
-      },
       {
         "n": "CORTICEPS W/ MINUS KENDAL",
         "s": "2026-06-14T14:00:00+01:00",
@@ -27,9 +17,10 @@
         "n": "KIT GRILL",
         "s": "2026-06-14T16:00:00+01:00",
         "e": "2026-06-14T17:00:00+01:00",
-        "d": null,
+        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kit-grill/episodes/kit-grill-14th-june-2026",
+        "t": "monthly",
         "p": "kitgrill"
       },
       {
@@ -168,43 +159,33 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DACTYLIAN & PALO SANTO DISCOS",
+        "s": "2026-06-15T15:00:00+01:00",
+        "e": "2026-06-15T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "TOUGH MATTER",
-        "s": "2026-06-14T12:00:00+01:00",
-        "e": "2026-06-14T13:00:00+01:00",
-        "d": "Monthly broadcast by Ashley Holmes, multidisciplinary artist based in Sheffield working across sound, installation, radio broadcasts and performance.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ashley-plenty-vibes/episodes/ashley-plenty-vibes-14th-june-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ALOHA GOT SOUL PRESENTS: HOME GROWN (R)",
-        "s": "2026-06-14T13:00:00+01:00",
-        "e": "2026-06-14T14:00:00+01:00",
-        "d": "An exploration into obscure, underground, and lesser known music from Hawaii, bound not by genre or generation but by a connection to the islands. Hosted by Roger Bong of Aloha Got Soul, a record label and record store in Honolulu. ",
-        "j": "HOME GROWN",
-        "u": "https://www.nts.live/api/v2/shows/aloha-got-soul/episodes/aloha-got-soul-21st-may-2023",
-        "t": "restream"
-      },
-      {
         "n": "CHILDREN OF ZEUS",
         "s": "2026-06-14T14:00:00+01:00",
         "e": "2026-06-14T15:00:00+01:00",
-        "d": null,
+        "d": "Children of Zeus's Konny Kon takes over our Manchester studio once a month to play upfront Soul, Classic Hip Hop & New RnB.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/children-of-zeus/episodes/children-of-zeus-14th-june-2026",
         "t": "monthly"
       },
       {
         "n": "Abena",
         "s": "2026-06-14T15:00:00+01:00",
         "e": "2026-06-14T16:00:00+01:00",
-        "d": null,
+        "d": "All Hands On Deck co-founder Abena jumps on once a month - music to help loosen your joints, live from the Manchester studio. Expect dub, techno & a bit of ambient.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abena/episodes/abena-14th-june-2026",
         "t": "monthly",
         "p": "abena"
       },
@@ -338,26 +319,25 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "COPYPASTE w/ KLS.RDR ",
-        "s": "2026-06-14T11:00:00Z",
-        "e": "2026-06-14T12:00:00Z",
-        "d": null,
-        "j": "KLS.RDR",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "FORZUG w/ Óriah ",
-        "s": "2026-06-14T12:00:00Z",
-        "e": "2026-06-14T13:00:00Z",
+        "n": "BABY WE'LL BE FINE W/ ANNA POLETTI",
+        "s": "2026-06-15T08:00:00+01:00",
+        "e": "2026-06-15T09:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "BINT BLADI w/ shiishi44",
+        "s": "2026-06-15T09:00:00+01:00",
+        "e": "2026-06-15T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Comfy Bella",
         "s": "2026-06-14T13:00:00Z",
@@ -1526,18 +1506,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-06-14T11:00:00Z",
-        "e": "2026-06-14T12:00:00Z",
+        "n": "ItsJermayne",
+        "s": "2026-06-21T12:00:00Z",
+        "e": "2026-06-21T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "itsjermayne"
       },
+      {
+        "n": " What's The Weather, Selecta? w/ Megan Wroe",
+        "s": "2026-06-21T13:00:00Z",
+        "e": "2026-06-21T14:00:00Z",
+        "d": null,
+        "j": "Megan Wroe",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "djjs",
         "s": "2026-06-14T12:00:00Z",
@@ -2076,18 +2066,18 @@
         "j": "Elevation Through Sound",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Dean Bryce presents Don't Sleep",
-        "s": "2026-06-14T10:00:00Z",
-        "e": "2026-06-14T12:00:00Z",
+        "n": "djjs",
+        "s": "2026-06-21T12:00:00Z",
+        "e": "2026-06-21T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "Shuffle 'n' Swing",
         "s": "2026-06-14T12:00:00Z",
@@ -2215,12 +2205,32 @@
       {
         "n": "Donsurf",
         "s": "2026-06-15T10:00:00Z",
-        "e": "2026-06-15T13:00:00Z",
+        "e": "2026-06-15T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
         "p": "donsurf"
+      },
+      {
+        "n": "Niall Smith",
+        "s": "2026-06-15T11:00:00Z",
+        "e": "2026-06-15T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "niallsmith"
+      },
+      {
+        "n": "Joe Armon-Jones",
+        "s": "2026-06-15T12:00:00Z",
+        "e": "2026-06-15T13:00:00Z",
+        "d": null,
+        "j": "Journey Into Sunshine Funk",
+        "u": null,
+        "t": "biweekly",
+        "p": "joearmonjones"
       },
       {
         "n": "Tommy Gold",
@@ -2303,25 +2313,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-06-14T07:00:00Z",
-        "e": "2026-06-14T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "La Sunday Abidjan",
-        "s": "2026-06-14T12:00:00Z",
-        "e": "2026-06-14T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lasundayabidjan"
-      },
       {
         "n": "ElectrAfrique",
         "s": "2026-06-14T13:00:00Z",
