@@ -1,52 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-06-16T09:17:25.925Z",
+  "updated": "2026-06-16T14:52:06.669Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-06-16T09:00:00+01:00",
-        "e": "2026-06-16T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-16th-june-2026",
-        "t": "regular",
-        "p": "flo"
-      },
-      {
-        "n": "SOUP TO NUTS W/ ANU",
-        "s": "2026-06-16T11:00:00+01:00",
-        "e": "2026-06-16T13:00:00+01:00",
-        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
-        "j": "ANU",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-16th-june-2026",
-        "t": "weekly",
-        "p": "anu"
-      },
-      {
-        "n": "Tropic of Love w/ Mafalda & Mark Sexton",
-        "s": "2026-06-16T13:00:00+01:00",
-        "e": "2026-06-16T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "mafalda"
-      },
       {
         "n": "Self Soothe w/ Kalia Vandever",
         "s": "2026-06-16T15:00:00+01:00",
         "e": "2026-06-16T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.\nFrom the host: \"Playing my favorites to slow down the nervous system and soothe the mind and body.\"",
+        "j": "Kalia Vandever",
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-16th-june-2026",
+        "t": "weekly"
       },
       {
         "n": "REBE",
         "s": "2026-06-16T16:00:00+01:00",
         "e": "2026-06-16T17:00:00+01:00",
-        "d": null,
+        "d": "Rebe, \"the only official Princess of Spain\", hijacks the radio, Playing Romanian and Spanish folk, flamenco pop, soundtracks, originals and many more mysteries. Radio-Rebe, Radio-Ready’s worst nightmare.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rebe/episodes/rebe-16th-june-2026",
         "p": "rebe"
       },
       {
@@ -170,69 +142,67 @@
         "u": null,
         "t": "weekly",
         "p": "shyone"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "For those innocent days w/ oneninesix",
-        "s": "2026-06-16T10:00:00+01:00",
-        "e": "2026-06-16T11:00:00+01:00",
-        "d": "Let's enjoy a ride through Taiwan from the late ’90s into the early 2000s, a time when these sounds opened doors and expanded the way people saw the world. From Taiwanese indie and underground punk to post-rock, pop, Japanese rock and animation music, these sounds capture a period charged with resistance, imagination and the urge to create change, but also the youthfulness and shyness of coming of age. It was that time and place that shaped the energy still alive in us today.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-for-those-innocent-days-w-oneninesix-16th-june-2026"
       },
       {
-        "n": "EIKO ISHIBASHI",
-        "s": "2026-06-16T11:00:00+01:00",
-        "e": "2026-06-16T12:00:00+01:00",
-        "d": "Regular transmissions from the Japanese songwriter & composer Eiko Ishibashi, sharing favourites traversing folk, jazz, avant-garde composition and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/eiko-ishibashi/episodes/eiko-ishibashi-16th-june-2026",
-        "p": "eikoishibashi"
-      },
-      {
-        "n": "KATIE SHANNON w/ Erotechre",
-        "s": "2026-06-16T12:00:00+01:00",
-        "e": "2026-06-16T13:00:00+01:00",
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-06-17T13:00:00+01:00",
+        "e": "2026-06-17T14:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "FINN",
         "u": null,
-        "p": "katieshannon"
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
       },
       {
-        "n": "SOFAY AND RIBEKA",
-        "s": "2026-06-16T13:00:00+01:00",
-        "e": "2026-06-16T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Vanilla Glint w/ Mag & Gustavio",
-        "s": "2026-06-16T14:00:00+01:00",
-        "e": "2026-06-16T15:00:00+01:00",
+        "n": "Cantik Manis w/ Rahel",
+        "s": "2026-06-17T14:00:00+01:00",
+        "e": "2026-06-17T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "SKINNY GIRL DIET",
-        "s": "2026-06-16T15:00:00+01:00",
-        "e": "2026-06-16T16:00:00+01:00",
+        "n": "LOUISE CHEN",
+        "s": "2026-06-17T15:00:00+01:00",
+        "e": "2026-06-17T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
+        "t": "biweekly",
+        "p": "louisechen"
+      }
+    ],
+    "nts2": [
+      {
+        "n": "SKINNY GIRL DIET",
+        "s": "2026-06-16T15:00:00+01:00",
+        "e": "2026-06-16T16:00:00+01:00",
+        "d": "Skinny Girl Diet are London's foremost riot grrrl duo. Delilah Holliday and Ursula Holliday. Post-punk, glam, garage and all things nice… or something like that.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/skinny-girl-diet/episodes/skinny-girl-diet-16th-june-2026",
         "t": "monthly"
       },
       {
         "n": "TUESDAY TRIPS w/ Wev",
         "s": "2026-06-16T16:00:00+01:00",
         "e": "2026-06-16T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "NahhG hosts Tuesday Trips, exploring the different sounds of underground beats and hip-hop alongside special guest mixes from current beatmakers and curators. - Live once a month\nFrom the host: \"Today we have an incredible special guest, the illustrious Wev. He's promoting his new album OST, that's out wherever you stream your music or you can support him directly at worldwidewev.bandcamp.com. Mix is filled with House and DnB bangers, make sure to turn your up volume to the max!\"",
+        "j": "Wev",
+        "u": "https://www.nts.live/api/v2/shows/tuesday-trips/episodes/tuesday-trips-16th-june-2026",
+        "t": "monthly",
         "p": "tuesdaytrips"
+      },
+      {
+        "n": "IN FOCUS: DOLLAR BRAND (R)",
+        "s": "2026-06-16T17:00:00+01:00",
+        "e": "2026-06-16T19:00:00+01:00",
+        "d": null,
+        "j": "DOLLAR BRAND",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "INSOLAR w/ CAMI LAYÉ OKÚN",
@@ -342,52 +312,41 @@
         "j": "LIA & TRED",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Sleazy Old Man Bangers",
+        "s": "2026-06-17T06:00:00+01:00",
+        "e": "2026-06-17T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Normal Things w/ Moxy Martinez",
+        "s": "2026-06-17T07:00:00+01:00",
+        "e": "2026-06-17T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Grazing w/ Coweeee",
+        "s": "2026-06-17T08:00:00+01:00",
+        "e": "2026-06-17T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Breath Of Resistance w/ Pierre Antoine",
+        "s": "2026-06-17T09:00:00+01:00",
+        "e": "2026-06-17T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Albert Moon",
-        "s": "2026-06-16T09:00:00Z",
-        "e": "2026-06-16T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "albertmoon",
-        "ap": [
-          "albert"
-        ]
-      },
-      {
-        "n": " Ovrtic",
-        "s": "2026-06-16T10:00:00Z",
-        "e": "2026-06-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "ovrtic"
-      },
-      {
-        "n": "drisk",
-        "s": "2026-06-16T12:00:00Z",
-        "e": "2026-06-16T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "drisk"
-      },
-      {
-        "n": "Launcher",
-        "s": "2026-06-16T13:00:00Z",
-        "e": "2026-06-16T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "launcher"
-      },
       {
         "n": "Seah",
         "s": "2026-06-16T14:00:00Z",
@@ -1514,22 +1473,53 @@
         "u": null,
         "t": "monthly",
         "p": "poshmornings"
+      },
+      {
+        "n": "Local Movements",
+        "s": "2026-06-23T10:00:00Z",
+        "e": "2026-06-23T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "localmovements"
+      },
+      {
+        "n": "Liquid Vault w/ Half-Life",
+        "s": "2026-06-23T12:00:00Z",
+        "e": "2026-06-23T13:00:00Z",
+        "d": null,
+        "j": "Half",
+        "u": null,
+        "t": "monthly",
+        "p": "half"
+      },
+      {
+        "n": "Silk Road Sessions w/ YVES",
+        "s": "2026-06-23T13:00:00Z",
+        "e": "2026-06-23T14:00:00Z",
+        "d": null,
+        "j": "YVES",
+        "u": null,
+        "t": "monthly",
+        "p": "yves"
+      },
+      {
+        "n": "sophie",
+        "s": "2026-06-23T14:00:00Z",
+        "e": "2026-06-23T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "sophie"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-16T09:00:00Z",
-        "e": "2026-06-16T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-06-16T11:00:00Z",
-        "e": "2026-06-16T13:00:00Z",
+        "s": "2026-06-16T13:00:00Z",
+        "e": "2026-06-16T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2069,59 +2059,17 @@
     ],
     "rinse": [
       {
-        "n": "Papaoul",
-        "s": "2026-06-16T08:00:00Z",
-        "e": "2026-06-16T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Cara Crosby",
-        "s": "2026-06-16T10:00:00Z",
-        "e": "2026-06-16T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Ed Gillett",
-        "s": "2026-06-16T11:00:00Z",
-        "e": "2026-06-16T12:00:00Z",
-        "d": null,
-        "j": "Lauren Martin",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Suzie Bakos",
-        "s": "2026-06-16T12:00:00Z",
-        "e": "2026-06-16T13:00:00Z",
-        "d": null,
-        "j": "Victoria & Tilly of Nando's Culture & Marketing team",
-        "u": null,
-        "t": "biweekly",
-        "p": "tilly"
-      },
-      {
-        "n": "Manuel Darquart",
-        "s": "2026-06-16T13:00:00Z",
-        "e": "2026-06-16T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "manueldarquart"
-      },
-      {
         "n": "Brighter Days Family",
         "s": "2026-06-16T14:00:00Z",
         "e": "2026-06-16T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Reek0",
         "u": null,
         "t": "weekly",
-        "p": "brighterdaysfamily"
+        "p": "brighterdaysfamily",
+        "ap": [
+          "reek0"
+        ]
       },
       {
         "n": "Papa Nugs",
@@ -2343,41 +2291,12 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-06-16T07:00:00Z",
-        "e": "2026-06-16T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-06-16T10:00:00Z",
-        "e": "2026-06-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Charlie 3000",
-        "s": "2026-06-16T12:00:00Z",
-        "e": "2026-06-16T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "charlie3000"
-      },
-      {
-        "n": "Rinse France Guest Show",
+        "n": "Finesse Frequency",
         "s": "2026-06-16T14:00:00Z",
         "e": "2026-06-16T15:00:00Z",
         "d": null,
-        "j": "Fallon invite Les Nubians",
-        "u": null,
-        "t": "weekly"
+        "j": "avec Les Nubians",
+        "u": null
       },
       {
         "n": "Jeune à Jamais",
@@ -2394,7 +2313,7 @@
         "s": "2026-06-16T16:00:00Z",
         "e": "2026-06-16T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "From New York With Love",
         "u": null
       },
       {
