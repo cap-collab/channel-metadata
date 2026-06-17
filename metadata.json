@@ -1,54 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-06-17T08:53:48.036Z",
+  "updated": "2026-06-17T13:36:00.682Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ PAM",
-        "s": "2026-06-17T09:00:00+01:00",
-        "e": "2026-06-17T11:00:00+01:00",
-        "d": "PAM taking over breakfast. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-pam-17th-june-2026"
-      },
-      {
-        "n": "SOUP TO NUTS W/ SHY ONE",
-        "s": "2026-06-17T11:00:00+01:00",
-        "e": "2026-06-17T13:00:00+01:00",
-        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
-        "j": "SHY ONE",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-17th-june-2026",
-        "t": "weekly",
-        "p": "shyone"
-      },
-      {
-        "n": "LUNCH CLUB w/ FINN",
-        "s": "2026-06-17T13:00:00+01:00",
-        "e": "2026-06-17T14:00:00+01:00",
-        "d": null,
-        "j": "FINN",
-        "u": null,
-        "t": "weekly",
-        "p": "finn",
-        "ap": [
-          "lunchclub"
-        ]
-      },
       {
         "n": "Cantik Manis w/ Rahel",
         "s": "2026-06-17T14:00:00+01:00",
         "e": "2026-06-17T15:00:00+01:00",
-        "d": null,
+        "d": "“Pretty and sweet” Indonesian sounds inspired by chef and writer Rahel’s new cook book Cantik Manis.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/cantik-manis-w-rahel-17th-june-2026"
       },
       {
         "n": "LOUISE CHEN",
         "s": "2026-06-17T15:00:00+01:00",
         "e": "2026-06-17T17:00:00+01:00",
-        "d": null,
+        "d": "Parisian party instigator Louise Chen pulls from a timeless well of classic & modern house, disco, soul, pop, & more. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/louise-chen/episodes/louise-chen-17th-june-2026",
         "t": "biweekly",
         "p": "louisechen"
       },
@@ -172,81 +141,60 @@
         "u": null,
         "t": "restream",
         "p": "doingtime"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Breath Of Resistance w/ Pierre Antoine",
-        "s": "2026-06-17T09:00:00+01:00",
-        "e": "2026-06-17T10:00:00+01:00",
-        "d": "Migration never ends. Between the south and the north, between who I was and who I was becoming. The fear in between. This is the soundtrack I needed but never had. Brown and displaced, finding my people through their songs of resistance and dignity.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-breath-of-resistance-w-pierre-antoine-17th-june-2026"
       },
       {
-        "n": "Punk Rock Mutations w/ Nicolas Parker",
-        "s": "2026-06-17T10:00:00+01:00",
-        "e": "2026-06-17T11:00:00+01:00",
-        "d": "A selection of instrumental raw early punk recordings. Rare cuts and cassette mixtape rips from the formative years, tracing early movements and mapping a scene finding its identity. Focused on niche instrumentals, from stripped-down raw rebellion to faster, harder sounds and sonic explorations.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-punk-rock-mutations-w-nicolas-parker-17th-june-2026"
-      },
-      {
-        "n": "Natalia Panzer",
-        "s": "2026-06-17T11:00:00+01:00",
-        "e": "2026-06-17T12:00:00+01:00",
+        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "s": "2026-06-18T07:00:00+01:00",
+        "e": "2026-06-18T09:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "PAM",
         "u": null,
-        "t": "monthly",
-        "p": "natalia",
-        "ap": [
-          "nataliapanzer"
-        ]
+        "t": "biweekly"
       },
       {
-        "n": "Tara Clerkin Trio",
-        "s": "2026-06-17T12:00:00+01:00",
-        "e": "2026-06-17T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "qwqwqwqwa",
-        "s": "2026-06-17T13:00:00+01:00",
-        "e": "2026-06-17T14:00:00+01:00",
+        "n": "The NTS Breakfast Show w/ NIC TASKER",
+        "s": "2026-06-18T09:00:00+01:00",
+        "e": "2026-06-18T11:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-06-18T11:00:00+01:00",
+        "e": "2026-06-18T13:00:00+01:00",
+        "d": null,
+        "j": "BABYSCHÖN",
+        "u": null,
+        "t": "weekly"
+      }
+    ],
+    "nts2": [
+      {
         "n": "HIGH JAZZ* W/ ILL DUBIO",
         "s": "2026-06-17T14:00:00+01:00",
         "e": "2026-06-17T15:00:00+01:00",
-        "d": null,
+        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
         "j": "ILL DUBIO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-17th-june-2026",
         "t": "monthly"
       },
       {
-        "n": "ARUSHI JAIN",
+        "n": "ARUSHI JAIN - Summertime Ragas Pt 1",
         "s": "2026-06-17T15:00:00+01:00",
         "e": "2026-06-17T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "All-genre NTS monthly by New York–based, New Delhi–born Arushi Jain fka modularprincess\nFrom the host: \"Pt 1: slow intense heat with Pandit Harisprasad Chaurasia: Raga Bhimpalasi (for summertime afternoons), followed by Raga Marwa by Shivkumar Sharma (for transitional, sultry evenings of summer); finally, Raga Brindabani Sarang by Harisprasad Chaurasia (of summertime Sarang family, a 12pm love raga)\"",
+        "j": "Summertime Ragas Pt 1",
+        "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-17th-june-2026",
         "t": "monthly"
       },
       {
-        "n": "ZEL ZELE",
+        "n": "ZEL ZELE  w/ ECE DUZGIT & EDO POVERACCI - Down Under",
         "s": "2026-06-17T16:00:00+01:00",
         "e": "2026-06-17T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "zelzele"
       },
       {
@@ -267,7 +215,7 @@
         "u": null
       },
       {
-        "n": "SÉANCE CENTRE",
+        "n": "SÉANCE CENTRE: UK Digidub w/ Eiji Taniguchi",
         "s": "2026-06-17T20:00:00+01:00",
         "e": "2026-06-17T21:00:00+01:00",
         "d": null,
@@ -336,47 +284,51 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Otaku: Ode to Nintendo DS (R)",
+        "s": "2026-06-18T05:00:00+01:00",
+        "e": "2026-06-18T06:00:00+01:00",
+        "d": null,
+        "j": "Ode to Nintendo DS",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Mixtress 9's The Art of the Extended Mix",
+        "s": "2026-06-18T06:00:00+01:00",
+        "e": "2026-06-18T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "mixtress"
+      },
+      {
+        "n": "CAT TAIL RADIO W/ VIV",
+        "s": "2026-06-18T07:00:00+01:00",
+        "e": "2026-06-18T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Radovan Marek",
+        "s": "2026-06-18T08:00:00+01:00",
+        "e": "2026-06-18T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Jawani Diwani w/ Afrodesi",
+        "s": "2026-06-18T09:00:00+01:00",
+        "e": "2026-06-18T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "TSZ INVITES FITS ME FUNNY",
-        "s": "2026-06-17T08:00:00Z",
-        "e": "2026-06-17T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "In The Loop w/ Sam Groves",
-        "s": "2026-06-17T10:00:00Z",
-        "e": "2026-06-17T11:00:00Z",
-        "d": null,
-        "j": "Sam Groves",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Stroke of Sound by Tia",
-        "s": "2026-06-17T11:00:00Z",
-        "e": "2026-06-17T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "tia"
-      },
-      {
-        "n": "0x54",
-        "s": "2026-06-17T12:00:00Z",
-        "e": "2026-06-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "0x54"
-      },
       {
         "n": "Nabes",
         "s": "2026-06-17T13:00:00Z",
@@ -1503,22 +1455,55 @@
         "u": null,
         "t": "monthly",
         "p": "sportmode"
+      },
+      {
+        "n": "Touching Bass w/ timfromsales",
+        "s": "2026-06-24T10:00:00Z",
+        "e": "2026-06-24T11:00:00Z",
+        "d": null,
+        "j": "timfromsales",
+        "u": null,
+        "t": "monthly",
+        "p": "timfromsales",
+        "ap": [
+          "touchingbass"
+        ]
+      },
+      {
+        "n": "Selectors Support",
+        "s": "2026-06-24T11:00:00Z",
+        "e": "2026-06-24T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Kon Radd",
+        "s": "2026-06-24T12:00:00Z",
+        "e": "2026-06-24T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "konradd"
+      },
+      {
+        "n": "bin",
+        "s": "2026-06-24T13:00:00Z",
+        "e": "2026-06-24T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bin"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-17T07:00:00Z",
-        "e": "2026-06-17T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-06-17T09:00:00Z",
-        "e": "2026-06-17T11:00:00Z",
+        "s": "2026-06-17T13:00:00Z",
+        "e": "2026-06-17T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2102,44 +2087,6 @@
     ],
     "rinse": [
       {
-        "n": "Esk",
-        "s": "2026-06-17T08:00:00Z",
-        "e": "2026-06-17T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "esk"
-      },
-      {
-        "n": "Jumbi",
-        "s": "2026-06-17T10:00:00Z",
-        "e": "2026-06-17T11:00:00Z",
-        "d": null,
-        "j": "joshua.s",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Eclecticist",
-        "s": "2026-06-17T11:00:00Z",
-        "e": "2026-06-17T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "eclecticist"
-      },
-      {
-        "n": "In Amongst It with Morf",
-        "s": "2026-06-17T12:00:00Z",
-        "e": "2026-06-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "morf"
-      },
-      {
         "n": "Storm Mollison",
         "s": "2026-06-17T13:00:00Z",
         "e": "2026-06-17T14:00:00Z",
@@ -2300,18 +2247,19 @@
         "s": "2026-06-18T12:00:00Z",
         "e": "2026-06-18T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Cass The Gas",
         "u": null,
         "t": "weekly",
         "p": "skvibemaker"
       },
       {
-        "n": "Mr. Redley presents The Black Wine Club Show",
+        "n": "The Black Wine Club Show with Mr. Redley",
         "s": "2026-06-18T13:00:00Z",
         "e": "2026-06-18T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B Heléna Star",
         "u": null,
+        "t": "biweekly",
         "p": "mrredley"
       },
       {
@@ -2359,7 +2307,7 @@
         "s": "2026-06-18T20:00:00Z",
         "e": "2026-06-18T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJ Carpenter",
         "u": null,
         "t": "monthly",
         "p": "steelcitydancediscs"
@@ -2387,40 +2335,14 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-06-17T07:00:00Z",
-        "e": "2026-06-17T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-06-17T10:00:00Z",
-        "e": "2026-06-17T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
-        "s": "2026-06-17T12:00:00Z",
-        "e": "2026-06-17T13:00:00Z",
-        "d": null,
-        "j": "EP 07 :  L’humilité, ça paye ?",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "MOMENTUM Highlight",
         "s": "2026-06-17T13:00:00Z",
         "e": "2026-06-17T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ajuchan & Alicia.",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "alicia"
       },
       {
         "n": "ADRIXXX",
@@ -2436,7 +2358,7 @@
         "s": "2026-06-17T15:00:00Z",
         "e": "2026-06-17T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite Shantan Ichiban",
         "u": null,
         "t": "monthly"
       },
@@ -2450,13 +2372,12 @@
         "t": "monthly"
       },
       {
-        "n": "Hyas",
+        "n": "Hyas B2B Mad Rey",
         "s": "2026-06-17T17:00:00Z",
         "e": "2026-06-17T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "hyas"
       },
       {
