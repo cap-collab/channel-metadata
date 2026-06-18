@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-06-18T08:38:37.824Z",
+  "updated": "2026-06-18T12:46:53.202Z",
   "stations": {
     "nts1": [
       {
@@ -19330,6 +19330,23 @@
         "j": "PAM",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ NIC TASKER",
+        "s": "2026-06-18T09:00:00+01:00",
+        "e": "2026-06-18T11:00:00+01:00",
+        "d": "Wake up with NTS…",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-nic-tasker-18th-june-2026"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-06-18T11:00:00+01:00",
+        "e": "2026-06-18T13:00:00+01:00",
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
+        "j": "BABYSCHÖN",
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-18th-june-2026",
+        "t": "weekly"
       }
     ],
     "nts2": [
@@ -42136,6 +42153,41 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Jawani Diwani w/ Afrodesi",
+        "s": "2026-06-18T09:00:00+01:00",
+        "e": "2026-06-18T10:00:00+01:00",
+        "d": "This Mix is a reflection  of the music that shaped my teenage years and music I discovered in my later life, but equally evokes memories of my teenage years",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-jawani-diwani-w-afrodesi-18th-june-2026"
+      },
+      {
+        "n": "Neon Love Stories w/ mesajah",
+        "s": "2026-06-18T10:00:00+01:00",
+        "e": "2026-06-18T11:00:00+01:00",
+        "d": "A 15-year NTS transmission of youth: first love, desire and confusion unfolding into heartbreak and reflection. Late-night fragments where emotion, memory and music blur into one continuous coming-of-age signal.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-neon-love-stories-w-mesajah-18th-june-2026"
+      },
+      {
+        "n": "Westward Ho! w/ Ashley Wales",
+        "s": "2026-06-18T11:00:00+01:00",
+        "e": "2026-06-18T12:00:00+01:00",
+        "d": null,
+        "j": "Ashley Wales",
+        "u": null,
+        "t": "monthly",
+        "p": "ashleywales"
+      },
+      {
+        "n": "Conrad Standish",
+        "s": "2026-06-18T12:00:00+01:00",
+        "e": "2026-06-18T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "conradstandish"
       }
     ],
     "subtle": [
@@ -63728,6 +63780,44 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "source",
+        "s": "2026-06-18T08:00:00Z",
+        "e": "2026-06-18T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "source"
+      },
+      {
+        "n": "In The Rotation w/ Su",
+        "s": "2026-06-18T09:00:00Z",
+        "e": "2026-06-18T10:00:00Z",
+        "d": null,
+        "j": "Su",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Housekeeping",
+        "s": "2026-06-18T10:00:00Z",
+        "e": "2026-06-18T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "housekeeping"
+      },
+      {
+        "n": "Exit Portal + J.Low",
+        "s": "2026-06-18T11:00:00Z",
+        "e": "2026-06-18T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -78582,6 +78672,24 @@
         "u": null,
         "t": "monthly",
         "p": "richardchartier"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-06-18T08:00:00Z",
+        "e": "2026-06-18T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-06-18T10:00:00Z",
+        "e": "2026-06-18T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -97284,6 +97392,33 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Yazmin Lacey",
+        "s": "2026-06-18T08:00:00Z",
+        "e": "2026-06-18T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "yazminlacey"
+      },
+      {
+        "n": "Greentea Peng",
+        "s": "2026-06-18T10:00:00Z",
+        "e": "2026-06-18T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Meena Sears",
+        "s": "2026-06-18T11:00:00Z",
+        "e": "2026-06-18T12:00:00Z",
+        "d": null,
+        "j": "Jesse Bernand",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "rinsefr": [
@@ -108075,6 +108210,24 @@
         "n": "Playlist France",
         "s": "2026-06-17T19:00:00Z",
         "e": "2026-06-18T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-18T07:00:00Z",
+        "e": "2026-06-18T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-18T10:00:00Z",
+        "e": "2026-06-18T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,

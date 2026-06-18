@@ -1,40 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-06-18T08:37:46.621Z",
+  "updated": "2026-06-18T12:45:59.735Z",
   "stations": {
     "nts1": [
       {
-        "n": "The NTS Breakfast Show w/ NIC TASKER",
-        "s": "2026-06-18T09:00:00+01:00",
-        "e": "2026-06-18T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-nic-tasker-18th-june-2026"
-      },
-      {
-        "n": "SOUP TO NUTS W/ BABYSCHÖN",
-        "s": "2026-06-18T11:00:00+01:00",
-        "e": "2026-06-18T13:00:00+01:00",
-        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
-        "j": "BABYSCHÖN",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-18th-june-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "SHANTI CELESTE",
+        "n": "SHANTI CELESTE w/ Milly On Air",
         "s": "2026-06-18T13:00:00+01:00",
         "e": "2026-06-18T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.\nFrom the host: \"The usual vibes from me and joined by the amazing multitalented Dj, Broadcaster and promoter Milly On Air! x\"",
+        "j": "Milly On Air",
+        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanticeleste-18th-june-2026",
+        "t": "monthly",
+        "p": "millyonair"
       },
       {
         "n": "SITUATIONSHIP W/ JENNY CARA & ALIS.",
         "s": "2026-06-18T15:00:00+01:00",
         "e": "2026-06-18T16:00:00+01:00",
-        "d": null,
+        "d": "Zurich-based Jenny Cara brings the heat with a blend of cheerful and hard-hitting house, creating a space that celebrates community, history, and pure energy.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/jenny-cara/episodes/jenny-cara-18th-june-2026"
       },
       {
         "n": "Chef Dee",
@@ -166,60 +151,42 @@
         "j": "JACK ROLLO",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW w/ NICKY SOFT TOUCH",
+        "s": "2026-06-19T09:00:00+01:00",
+        "e": "2026-06-19T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SOUP TO NUTS W/ SCARY THINGS",
+        "s": "2026-06-19T11:00:00+01:00",
+        "e": "2026-06-19T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "scarythings"
       }
     ],
     "nts2": [
       {
-        "n": "Jawani Diwani w/ Afrodesi",
-        "s": "2026-06-18T09:00:00+01:00",
-        "e": "2026-06-18T10:00:00+01:00",
-        "d": "This Mix is a reflection  of the music that shaped my teenage years and music I discovered in my later life, but equally evokes memories of my teenage years",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-jawani-diwani-w-afrodesi-18th-june-2026"
-      },
-      {
-        "n": "Neon Love Stories w/ mesajah",
-        "s": "2026-06-18T10:00:00+01:00",
-        "e": "2026-06-18T11:00:00+01:00",
-        "d": "A 15-year NTS transmission of youth: first love, desire and confusion unfolding into heartbreak and reflection. Late-night fragments where emotion, memory and music blur into one continuous coming-of-age signal.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-neon-love-stories-w-mesajah-18th-june-2026"
-      },
-      {
-        "n": "Westward Ho! w/ Ashley Wales",
-        "s": "2026-06-18T11:00:00+01:00",
-        "e": "2026-06-18T12:00:00+01:00",
-        "d": null,
-        "j": "Ashley Wales",
-        "u": null,
-        "t": "monthly",
-        "p": "ashleywales"
-      },
-      {
-        "n": "Conrad Standish",
-        "s": "2026-06-18T12:00:00+01:00",
-        "e": "2026-06-18T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "conradstandish"
-      },
-      {
         "n": "THE NUMERO GROUP - Jejune Special",
         "s": "2026-06-18T13:00:00+01:00",
         "e": "2026-06-18T14:00:00+01:00",
-        "d": null,
+        "d": "Chicago-based archival record label, The Numero Group, host a deep-digging once a month show. Expect comprehensive round ups from their crates, picking out the best old music and reissues, as well as some jubilant nerdy record chat.",
         "j": "Jejune Special",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/radio-free-numero/episodes/radio-free-numero-18th-june-2026",
         "t": "monthly"
       },
       {
         "n": "Wu-Lu and POiSON ANNA",
         "s": "2026-06-18T14:00:00+01:00",
         "e": "2026-06-18T15:00:00+01:00",
-        "d": null,
+        "d": "Two of London’s most innovative musicians Wu-Lu and POiSON ANNA united for a collaboratIve EP “Bakerz Dozen”, they share influences in a guest session. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/wu-lu-and-poison-anna-18th-june-2026"
       },
       {
         "n": "TOM FURSE",
@@ -331,47 +298,41 @@
         "j": null,
         "u": null,
         "p": "deadairtransmissions"
+      },
+      {
+        "n": "Foreign Hour",
+        "s": "2026-06-19T03:00:00+01:00",
+        "e": "2026-06-19T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CDMX TAPES",
+        "s": "2026-06-19T04:00:00+01:00",
+        "e": "2026-06-19T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SOUND OF CONFUSION W/ ALONSO FLORES",
+        "s": "2026-06-19T06:00:00+01:00",
+        "e": "2026-06-19T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "days to count and number w/ BabaJeda",
+        "s": "2026-06-19T07:00:00+01:00",
+        "e": "2026-06-19T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "source",
-        "s": "2026-06-18T08:00:00Z",
-        "e": "2026-06-18T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "source"
-      },
-      {
-        "n": "In The Rotation w/ Su",
-        "s": "2026-06-18T09:00:00Z",
-        "e": "2026-06-18T10:00:00Z",
-        "d": null,
-        "j": "Su",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Housekeeping",
-        "s": "2026-06-18T10:00:00Z",
-        "e": "2026-06-18T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "housekeeping"
-      },
-      {
-        "n": "Exit Portal + J.Low",
-        "s": "2026-06-18T11:00:00Z",
-        "e": "2026-06-18T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "BICHETTE",
         "s": "2026-06-18T12:00:00Z",
@@ -1517,13 +1478,49 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TRANSISTOR RHYTHMS",
+        "s": "2026-06-25T09:00:00Z",
+        "e": "2026-06-25T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Jordan Scudder",
+        "s": "2026-06-25T10:00:00Z",
+        "e": "2026-06-25T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Brooklyn Loves UKG",
+        "s": "2026-06-25T11:00:00Z",
+        "e": "2026-06-25T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "UNTZ",
+        "s": "2026-06-25T12:00:00Z",
+        "e": "2026-06-25T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-18T08:00:00Z",
-        "e": "2026-06-18T10:00:00Z",
+        "s": "2026-06-18T12:00:00Z",
+        "e": "2026-06-18T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1531,8 +1528,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-06-18T10:00:00Z",
-        "e": "2026-06-18T12:00:00Z",
+        "s": "2026-06-18T14:00:00Z",
+        "e": "2026-06-18T15:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2099,33 +2096,6 @@
     ],
     "rinse": [
       {
-        "n": "Yazmin Lacey",
-        "s": "2026-06-18T08:00:00Z",
-        "e": "2026-06-18T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
-        "n": "Greentea Peng",
-        "s": "2026-06-18T10:00:00Z",
-        "e": "2026-06-18T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Meena Sears",
-        "s": "2026-06-18T11:00:00Z",
-        "e": "2026-06-18T12:00:00Z",
-        "d": null,
-        "j": "Jesse Bernand",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "SK Vibemaker",
         "s": "2026-06-18T12:00:00Z",
         "e": "2026-06-18T13:00:00Z",
@@ -2256,12 +2226,22 @@
       {
         "n": "Breakfast with Charles Green & Anthony Faulkner",
         "s": "2026-06-19T08:00:00Z",
-        "e": "2026-06-19T13:00:00Z",
+        "e": "2026-06-19T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly",
         "p": "charlesgreen"
+      },
+      {
+        "n": "Uncle Dugs",
+        "s": "2026-06-19T10:00:00Z",
+        "e": "2026-06-19T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "uncledugs"
       },
       {
         "n": "Jeremy Sylvester",
@@ -2284,13 +2264,12 @@
         "p": "rizlateef"
       },
       {
-        "n": "Ella Knight",
+        "n": "Ella Knight with Bear Winder",
         "s": "2026-06-19T16:00:00Z",
         "e": "2026-06-19T18:30:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Ella Knight's House Party",
         "u": null,
-        "t": "monthly",
         "p": "ellaknight"
       },
       {
@@ -2321,24 +2300,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-06-18T07:00:00Z",
-        "e": "2026-06-18T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-06-18T10:00:00Z",
-        "e": "2026-06-18T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Vie Garantie",
         "s": "2026-06-18T12:00:00Z",
@@ -2372,7 +2333,7 @@
         "s": "2026-06-18T15:00:00Z",
         "e": "2026-06-18T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "SIDEQUEST",
         "u": null,
         "t": "biweekly"
       },
@@ -2484,7 +2445,7 @@
         "s": "2026-06-19T17:00:00Z",
         "e": "2026-06-19T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "tongues",
         "u": null,
         "t": "monthly"
       },
