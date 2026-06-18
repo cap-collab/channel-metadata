@@ -1,41 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-18T12:45:59.735Z",
+  "updated": "2026-06-18T16:51:08.110Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SHANTI CELESTE w/ Milly On Air",
-        "s": "2026-06-18T13:00:00+01:00",
-        "e": "2026-06-18T15:00:00+01:00",
-        "d": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.\nFrom the host: \"The usual vibes from me and joined by the amazing multitalented Dj, Broadcaster and promoter Milly On Air! x\"",
-        "j": "Milly On Air",
-        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanticeleste-18th-june-2026",
-        "t": "monthly",
-        "p": "millyonair"
-      },
-      {
-        "n": "SITUATIONSHIP W/ JENNY CARA & ALIS.",
-        "s": "2026-06-18T15:00:00+01:00",
-        "e": "2026-06-18T16:00:00+01:00",
-        "d": "Zurich-based Jenny Cara brings the heat with a blend of cheerful and hard-hitting house, creating a space that celebrates community, history, and pure energy.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jenny-cara/episodes/jenny-cara-18th-june-2026"
-      },
-      {
-        "n": "Chef Dee",
-        "s": "2026-06-18T16:00:00+01:00",
-        "e": "2026-06-18T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "CHICO BLANCO",
         "s": "2026-06-18T17:00:00+01:00",
         "e": "2026-06-18T18:00:00+01:00",
-        "d": null,
+        "d": "Andalusian, Berlin-based producer and DJ Chico Blanco drops in monthly with a mix of his top picks — shades of house, underground Spanish pop, dreamy romantic melodies, plus guest spots from longtime friends sharing their favourites.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/chico-blanco/episodes/chico-blanco-18th-june-2026",
         "t": "monthly",
         "p": "chicoblanco"
       },
@@ -43,9 +17,9 @@
         "n": "AFRICA ONLY: AO RADIO PRESENTS KENYAN UNDERGROUND W/ LILMAINA, ASHA, AMARI MOTO & ROSEMARY",
         "s": "2026-06-18T18:00:00+01:00",
         "e": "2026-06-18T19:00:00+01:00",
-        "d": null,
+        "d": "Africa Only is an ongoing cultural and musical project exploring underground sounds, scenes and artistic movements across the African continent and the diaspora. Curated by the artist Paxslim, the series highlights artists, communities and sonic histories rooted in African and Afro-diasporic identity. Each episode focuses on a different scene, bringing together music, research and storytelling to spotlight emerging and influential voices shaping contemporary underground culture.\nFrom the host: \"Featuring selections from artist and DJ Lilmaina, model, creative and stylist Asha, storyteller and Escape Plan founder Amari Moto, and creative director, designer and stylist Rosemary. Mixed by Haram, Paxslim's longtime producer.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/paxslim/episodes/paxslim-18th-june-2026"
       },
       {
         "n": "TED DRAWS",
@@ -58,12 +32,13 @@
         "p": "teddraws"
       },
       {
-        "n": "THE TIM & BARRY SHOW",
+        "n": "THE TIM & BARRY SHOW w/ Ian Mcquaid",
         "s": "2026-06-18T20:00:00+01:00",
         "e": "2026-06-18T22:00:00+01:00",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Ian Mcquaid",
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "LIGHTER DANCE W/ Oluwa",
@@ -168,59 +143,51 @@
         "j": null,
         "u": null,
         "p": "scarythings"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "THE NUMERO GROUP - Jejune Special",
-        "s": "2026-06-18T13:00:00+01:00",
-        "e": "2026-06-18T14:00:00+01:00",
-        "d": "Chicago-based archival record label, The Numero Group, host a deep-digging once a month show. Expect comprehensive round ups from their crates, picking out the best old music and reissues, as well as some jubilant nerdy record chat.",
-        "j": "Jejune Special",
-        "u": "https://www.nts.live/api/v2/shows/radio-free-numero/episodes/radio-free-numero-18th-june-2026",
-        "t": "monthly"
       },
       {
-        "n": "Wu-Lu and POiSON ANNA",
-        "s": "2026-06-18T14:00:00+01:00",
-        "e": "2026-06-18T15:00:00+01:00",
-        "d": "Two of London’s most innovative musicians Wu-Lu and POiSON ANNA united for a collaboratIve EP “Bakerz Dozen”, they share influences in a guest session. ",
+        "n": "NTS Guide to: Rhythm & Grime",
+        "s": "2026-06-19T13:00:00+01:00",
+        "e": "2026-06-19T14:00:00+01:00",
+        "d": null,
+        "j": "Rhythm & Grime",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Paula Tape",
+        "s": "2026-06-19T14:00:00+01:00",
+        "e": "2026-06-19T15:00:00+01:00",
+        "d": null,
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/wu-lu-and-poison-anna-18th-june-2026"
+        "u": null
       },
       {
-        "n": "TOM FURSE",
-        "s": "2026-06-18T15:00:00+01:00",
-        "e": "2026-06-18T16:00:00+01:00",
+        "n": "COURTESY",
+        "s": "2026-06-19T15:00:00+01:00",
+        "e": "2026-06-19T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "tomfurse"
-      },
-      {
-        "n": "John Roberts",
-        "s": "2026-06-18T16:00:00+01:00",
-        "e": "2026-06-18T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
+        "p": "courtesy"
+      }
+    ],
+    "nts2": [
       {
         "n": "TWISTED DREAM DIARY W/ OKO DJ",
         "s": "2026-06-18T17:00:00+01:00",
         "e": "2026-06-18T18:00:00+01:00",
-        "d": null,
+        "d": "OKO DJ, shares an hour of music inspired by dreams – a realm of musical introspection, endless imagination and non sense compositions…\nFrom the host: \"I dreamed I was leaving the world of horses for aviation. The stable unfolded into clouds, the horses dissolved into constellations, and their hooves became runway lights. I stepped into a cockpit of moonlight and took off through a sky that felt more like a memory than a place.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/oko-dj/episodes/oko-dj-18th-june-2026"
       },
       {
         "n": "Blue Candy w/ Casey MQ",
         "s": "2026-06-18T18:00:00+01:00",
         "e": "2026-06-18T19:00:00+01:00",
-        "d": null,
+        "d": "Artist, producer, and composer Casey MQ  shares the music that inspires him through a misplaced nostalgic lens on Blue Candy. Drawing from electronic and classical influences, his music fixates on harmony and its alluring path, with a continuous bed of original synthesizer recordings from Casey throughout.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/casey-mq/episodes/casey-mq-18th-june-2026",
         "p": "caseymq"
       },
       {
@@ -291,13 +258,12 @@
         "p": "abiu"
       },
       {
-        "n": "deadAir transmissions",
+        "n": "deadAir - Transmissions w/ MIFFLE",
         "s": "2026-06-19T02:00:00+01:00",
         "e": "2026-06-19T03:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "deadairtransmissions"
+        "u": null
       },
       {
         "n": "Foreign Hour",
@@ -330,45 +296,42 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
-      {
-        "n": "BICHETTE",
-        "s": "2026-06-18T12:00:00Z",
-        "e": "2026-06-18T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "dbeater",
-        "s": "2026-06-18T13:00:00Z",
-        "e": "2026-06-18T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "dbeater"
-      },
-      {
-        "n": "Aaliana",
-        "s": "2026-06-18T14:00:00Z",
-        "e": "2026-06-18T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Etched w/ Falsey",
-        "s": "2026-06-18T15:00:00Z",
-        "e": "2026-06-18T16:00:00Z",
+        "n": "BRANDON HILL W/ LUCA",
+        "s": "2026-06-19T08:00:00+01:00",
+        "e": "2026-06-19T09:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "Bakisimbatronics Vol 3 w/ Maganda Shakul",
+        "s": "2026-06-19T09:00:00+01:00",
+        "e": "2026-06-19T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "The Coronation of Marie Antoinette w/ Mattia Barro Splendore",
+        "s": "2026-06-19T10:00:00+01:00",
+        "e": "2026-06-19T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "In Focus: Donna Regina",
+        "s": "2026-06-19T11:00:00+01:00",
+        "e": "2026-06-19T12:00:00+01:00",
+        "d": null,
+        "j": "Donna Regina",
+        "u": null,
+        "t": "weekly"
+      }
+    ],
+    "subtle": [
       {
         "n": "Dance Practice",
         "s": "2026-06-18T16:00:00Z",
@@ -377,6 +340,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-06-18T17:00:00Z",
+        "e": "2026-06-18T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Pull up w/ Niceup",
@@ -1514,36 +1486,46 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "ZERO Dijits",
+        "s": "2026-06-25T13:00:00Z",
+        "e": "2026-06-25T14:00:00Z",
+        "d": "\"The calm before summer\"",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "mmmarsh",
+        "s": "2026-06-25T14:00:00Z",
+        "e": "2026-06-25T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "mmmarsh"
+      },
+      {
+        "n": "Strange Signals",
+        "s": "2026-06-25T15:00:00Z",
+        "e": "2026-06-25T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Locked On Records",
+        "s": "2026-06-25T16:00:00Z",
+        "e": "2026-06-25T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-06-18T12:00:00Z",
-        "e": "2026-06-18T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-06-18T14:00:00Z",
-        "e": "2026-06-18T15:30:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "LARAAJI and OUT THERE",
-        "s": "2026-06-18T15:30:00Z",
-        "e": "2026-06-18T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "RERUN: Inner Ear",
         "s": "2026-06-18T16:00:00Z",
@@ -2092,39 +2074,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-06-18T12:00:00Z",
-        "e": "2026-06-18T13:00:00Z",
-        "d": null,
-        "j": "Cass The Gas",
-        "u": null,
-        "t": "weekly",
-        "p": "skvibemaker"
       },
       {
-        "n": "The Black Wine Club Show with Mr. Redley",
-        "s": "2026-06-18T13:00:00Z",
-        "e": "2026-06-18T14:00:00Z",
-        "d": null,
-        "j": "B2B Heléna Star",
-        "u": null,
-        "t": "biweekly",
-        "p": "mrredley"
-      },
-      {
-        "n": "Tom Ravenscroft",
-        "s": "2026-06-18T14:00:00Z",
-        "e": "2026-06-18T16:00:00Z",
+        "n": "LARAAJI and OUT THERE",
+        "s": "2026-06-25T15:30:00Z",
+        "e": "2026-06-25T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "tomravenscroft"
+        "t": "weekly"
       },
+      {
+        "n": "Ariella – CryBaby Hour",
+        "s": "2026-06-25T16:00:00Z",
+        "e": "2026-06-25T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "SKALAH",
         "s": "2026-06-18T16:00:00Z",
@@ -2300,43 +2270,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Vie Garantie",
-        "s": "2026-06-18T12:00:00Z",
-        "e": "2026-06-18T13:00:00Z",
-        "d": null,
-        "j": "w/ Mulan Serrico",
-        "u": null,
-        "t": "monthly",
-        "p": "viegarantie"
-      },
-      {
-        "n": "Mattias Mimoun",
-        "s": "2026-06-18T13:00:00Z",
-        "e": "2026-06-18T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "mattiasmimoun"
-      },
-      {
-        "n": "Track One (Marge et Camille Doe)",
-        "s": "2026-06-18T14:00:00Z",
-        "e": "2026-06-18T15:00:00Z",
-        "d": null,
-        "j": "invite MZA et S-Diamah",
-        "u": null
-      },
-      {
-        "n": "ERNA",
-        "s": "2026-06-18T15:00:00Z",
-        "e": "2026-06-18T16:00:00Z",
-        "d": null,
-        "j": "SIDEQUEST",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "TTristana",
         "s": "2026-06-18T16:00:00Z",
