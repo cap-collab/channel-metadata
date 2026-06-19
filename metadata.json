@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-19T19:27:12.775Z",
+  "updated": "2026-06-19T21:01:46.307Z",
   "stations": {
     "nts1": [
-      {
-        "n": "EASTERN MARGINS w/ ali rq & Jeremiah Jim",
-        "s": "2026-06-19T20:00:00+01:00",
-        "e": "2026-06-19T21:00:00+01:00",
-        "d": "Regular transmissions from the London crew showcasing music from the margins of East & South-East Asia and its diaspora.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/eastern-margins/episodes/eastern-margins-19th-june-2026",
-        "p": "easternmargins"
-      },
       {
         "n": "TRAVS",
         "s": "2026-06-19T21:00:00+01:00",
@@ -24,9 +15,10 @@
         "n": "INTROSPEKT",
         "s": "2026-06-19T23:00:00+01:00",
         "e": "2026-06-20T00:00:00+01:00",
-        "d": null,
+        "d": "LA-based DJ and producer Introspekt delivers a monthly missive of UK garage, 2-step and more.\nFrom the host: \"Happy Juneteenth! For this month's episode I kept it a bit funky and a bit driving with a mix of Techno-Electro-Breaks & Bass goodness. Thanks for tuning in!\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/introspekt/episodes/introspekt-19th-june-2026",
+        "t": "monthly",
         "p": "introspekt"
       },
       {
@@ -167,45 +159,33 @@
         "j": null,
         "u": null,
         "p": "bahamianmoor"
+      },
+      {
+        "n": "MUSIC 4 LOVERS w/ Anina",
+        "s": "2026-06-20T18:00:00+01:00",
+        "e": "2026-06-20T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "CONFUSING MIX W/ JOSH DA COSTA",
-        "s": "2026-06-19T20:00:00+01:00",
-        "e": "2026-06-19T21:00:00+01:00",
-        "d": "Lock in for a monthly transmission of leftfield sonics from Josh Da Costa live from LA.\nFrom the host: \"This episode is partially a chronicle of my past month spent traveling with friends followed by a lovely return home, reunited with a portion of my record collection after grabbing some boxes out of storage. Shout out Jack J for big inspo and Andrew Vanwyngarden for sharing 'Strangers' by The Deep!\"",
-        "j": "JOSH DA COSTA",
-        "u": "https://www.nts.live/api/v2/shows/confusing-mix/episodes/confusing-mix-19th-june-2026",
-        "t": "monthly",
-        "p": "confusingmix"
-      },
-      {
-        "n": "WABI SABI W/ TANA YONAS",
-        "s": "2026-06-19T21:00:00+01:00",
-        "e": "2026-06-19T22:00:00+01:00",
-        "d": "Tana Yonas collects songs like souvenirs, each recalling precious moments found leafing through dusty foreign record shops or catching sonic fragments weathered by time from the radio of bumpy taxi rides. Listen as she delicately guilds together these memories and shares music from lesser known and under represented musical traditions from across the globe and decades.\nFrom the host: \"We made it to the Solstice! Hope everyone on the Northside of the equator is relishing in the abundance of sun, and my friends in the Southside are finding this season a perfect excuse to pause and get cozy. This mix should fit both circumstances equally :)\"",
-        "j": "TANA YONAS",
-        "u": "https://www.nts.live/api/v2/shows/tana-yonas/episodes/tana-yonas-19th-june-2026",
-        "t": "monthly",
-        "p": "tanayonas"
-      },
-      {
         "n": "NTS GUIDE TO: ITALIAN LIBRARY, SOUNDTRACKS AND OSTS (R)",
         "s": "2026-06-19T22:00:00+01:00",
         "e": "2026-06-20T00:00:00+01:00",
-        "d": null,
+        "d": "In the era immediately following WWII, Italy experienced an economic recovery incomparable to any other Western European country. The Italian state transformed from a mostly rural nation into a global industrial power. A newly wealthy class of Italians bought new appliances, elegant clothes, and sleek sports cars. This was La Dolce Vita: the sweet life. \nItalian films followed suit – they presented Italy to the outside world as romantic, sophisticated, and aspirational. The film soundtracks, composed by masters like Stelvio Cipriani, Ennio Morricone, and Piero Umiliani, are plush mood pieces, rich with exotic instrumentation and performed by world-class studio musicians. They are the most potent cultural artefacts from this era. \nLiving la dolce vita with two hours of sophisticated '60s and '70s Italian Library, film scores and OSTs.",
         "j": "ITALIAN LIBRARY, SOUNDTRACKS AND OSTS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-italian-library-soundtracks-and-osts-25th-february-2026",
         "t": "restream"
       },
       {
         "n": "SACRED SPACE W/ RADHA",
         "s": "2026-06-20T00:00:00+01:00",
         "e": "2026-06-20T01:00:00+01:00",
-        "d": null,
+        "d": "Enter Radha's spiritual soundscape - of special tunes near and dear to her.\nFrom the host: \"lock in this month to a dark, dubby, glitchy, other worldly ep of sacred space… ft a sample from a youtube ab workout that bangs\nx\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sacred-space/episodes/sacred-space-20th-june-2026",
         "p": "radha",
         "ap": [
           "sacredspace"
@@ -332,19 +312,27 @@
         "j": "YUKA MIZUHARA",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Machine Woman",
-        "s": "2026-06-19T19:00:00Z",
-        "e": "2026-06-19T20:00:00Z",
+        "n": "REIMAGINING COUNTRY W/ JAMAL KHADAR",
+        "s": "2026-06-20T17:00:00+01:00",
+        "e": "2026-06-20T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "machinewoman"
+        "p": "reimaginingcountry"
       },
+      {
+        "n": "SAMUEL KERRIDGE",
+        "s": "2026-06-20T18:00:00+01:00",
+        "e": "2026-06-20T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "samuelkerridge"
+      }
+    ],
+    "subtle": [
       {
         "n": "CICELY",
         "s": "2026-06-19T20:00:00Z",
@@ -1566,18 +1554,18 @@
         "j": "Free",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Swami Sound – Crash Course",
-        "s": "2026-06-19T19:00:00Z",
-        "e": "2026-06-19T21:00:00Z",
+        "n": "Bin b2b Shfoosja",
+        "s": "2026-06-26T21:00:00Z",
+        "e": "2026-06-26T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "swamisound"
-      },
+        "p": "bin"
+      }
+    ],
+    "dublab": [
       {
         "n": "Zama Dube - The Witch's Flight",
         "s": "2026-06-19T21:00:00Z",
@@ -2130,17 +2118,19 @@
         "u": null,
         "t": "biweekly",
         "p": "callieryan"
+      },
+      {
+        "n": "Peak Oil - Tipping Point",
+        "s": "2026-06-26T21:00:00Z",
+        "e": "2026-06-26T23:00:00Z",
+        "d": "Peak Oil records presents ‘tipping point’; a monthly journey through the record collections of brian and brion. Leaving no good genre unturned, enjoy two hours of esoterica, conversation and guests.",
+        "j": "Tipping Point",
+        "u": null,
+        "t": "monthly",
+        "p": "peakoil"
       }
     ],
     "rinse": [
-      {
-        "n": "Olivia Babe",
-        "s": "2026-06-19T18:30:00Z",
-        "e": "2026-06-19T19:45:00Z",
-        "d": null,
-        "j": "Live from SÓNAR 2026",
-        "u": null
-      },
       {
         "n": "riria",
         "s": "2026-06-19T19:45:00Z",
