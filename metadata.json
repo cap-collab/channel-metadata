@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-19T21:01:46.307Z",
+  "updated": "2026-06-19T22:44:18.952Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TRAVS",
-        "s": "2026-06-19T21:00:00+01:00",
-        "e": "2026-06-19T23:00:00+01:00",
-        "d": "Grime collective Travs Presents with DJ’s Chamber.45 And SI*BL bring their own variation on the sound, and as always - ending the 2-hour show with an energetic set from some of the best MC’s in the scene.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/travs-presents/episodes/travs-presents-19th-june-2026"
-      },
       {
         "n": "INTROSPEKT",
         "s": "2026-06-19T23:00:00+01:00",
@@ -25,9 +17,9 @@
         "n": "SPINEE",
         "s": "2026-06-20T00:00:00+01:00",
         "e": "2026-06-20T01:00:00+01:00",
-        "d": null,
+        "d": "Tune into this monthly offering from PC Music's Spinee: breakcore, bassline, hardstyle and dogs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/spinee/episodes/spinee-20th-june-2026",
         "t": "monthly",
         "p": "spinee"
       },
@@ -167,6 +159,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "PANORAMA HEAVEN W/ BIANCA LEXIS (R)",
+        "s": "2026-06-20T19:00:00+01:00",
+        "e": "2026-06-20T20:00:00+01:00",
+        "d": null,
+        "j": "BIANCA LEXIS",
+        "u": null,
+        "t": "restream",
+        "p": "biancalexis",
+        "ap": [
+          "panoramaheaven"
+        ]
       }
     ],
     "nts2": [
@@ -333,16 +338,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "CICELY",
-        "s": "2026-06-19T20:00:00Z",
-        "e": "2026-06-19T22:00:00Z",
-        "d": "Cicely is a northern raised London based music photographer and DJ. From learning to mix during lockdown, she has since played at clubs across the country in venues such as Fabric, Corsica and Fold.\r\n\r\nCicely runs a collective and events night under the name NRG CRU which focus heavily on the high energy rave sound. She is highly influenced by the northern sound she grew up with, and you can hear this within her sets. Expect heavy blends of techno and hardcore while she shines the light on her favourite northern artists.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "cicely"
-      },
       {
         "n": "TMANTUS",
         "s": "2026-06-19T22:00:00Z",
@@ -1563,6 +1558,16 @@
         "j": null,
         "u": null,
         "p": "bin"
+      },
+      {
+        "n": "NARA",
+        "s": "2026-06-26T22:00:00Z",
+        "e": "2026-06-26T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nara"
       }
     ],
     "dublab": [
@@ -2132,24 +2137,6 @@
     ],
     "rinse": [
       {
-        "n": "riria",
-        "s": "2026-06-19T19:45:00Z",
-        "e": "2026-06-19T21:30:00Z",
-        "d": null,
-        "j": "Live from SÓNAR 2026",
-        "u": null,
-        "t": "biweekly",
-        "p": "riria"
-      },
-      {
-        "n": "TAYHANA",
-        "s": "2026-06-19T21:30:00Z",
-        "e": "2026-06-19T22:30:00Z",
-        "d": null,
-        "j": "Live from SÓNAR 2026",
-        "u": null
-      },
-      {
         "n": "Zora Jones",
         "s": "2026-06-19T22:30:00Z",
         "e": "2026-06-19T23:30:00Z",
@@ -2315,15 +2302,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-06-19T19:00:00Z",
-        "e": "2026-06-20T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-06-20T07:00:00Z",
         "e": "2026-06-20T10:00:00Z",
         "d": null,
@@ -2367,7 +2345,8 @@
         "d": null,
         "j": "invite Jackin Trax",
         "u": null,
-        "p": "bunkaball"
+        "p": "bunkaball",
+        "t": "monthly"
       },
       {
         "n": "Shampain",
@@ -2386,7 +2365,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "sylvere"
+        "p": "sylvere",
+        "t": "monthly"
       },
       {
         "n": "Tijolo Records",
@@ -2404,7 +2384,8 @@
         "e": "2026-06-20T19:00:00Z",
         "d": null,
         "j": "invite Linds",
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Playlist France",
