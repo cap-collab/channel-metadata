@@ -1,33 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-06-20T19:10:47.440Z",
+  "updated": "2026-06-20T21:05:32.616Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FIELD WORK",
-        "s": "2026-06-20T20:00:00+01:00",
-        "e": "2026-06-20T22:00:00+01:00",
-        "d": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com.\nFrom the host: \"Fieldwork's summer solstice show, inspired by walks around the wind and wave eroded cliffs of Filey, East Yorkshire\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fieldwork/episodes/fieldwork-20th-june-2026",
-        "t": "monthly"
-      },
       {
         "n": "MUSIC TO EASE YOUR DISEASE",
         "s": "2026-06-20T22:00:00+01:00",
         "e": "2026-06-21T00:00:00+01:00",
-        "d": null,
+        "d": "Music to dent the canister",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/musictoeaseyourdisease/episodes/musictoeaseyourdisease-20th-june-2026",
         "t": "monthly"
       },
       {
         "n": "NITETRAX - Warehouse Rave 1989-90",
         "s": "2026-06-21T00:00:00+01:00",
         "e": "2026-06-21T01:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Nitetrax presents a monthly exploration of classic and contemporary club and experimental music.\nFrom the host: \"This second of three 92 minute “rave tapes\" covers some of the classic sounds released in 1989-90, from the cleanest bleeps to the ruffest breaks. More info on my Instagram.\"",
+        "j": "Warehouse Rave 1989-90",
+        "u": "https://www.nts.live/api/v2/shows/nitetrax/episodes/nitetrax-21st-june-2026",
+        "t": "monthly",
         "p": "nitetrax"
       },
       {
@@ -162,25 +154,36 @@
         "u": null,
         "t": "monthly",
         "p": "basma"
+      },
+      {
+        "n": "A Month of Sundays w/ Bill Spencer",
+        "s": "2026-06-21T17:00:00+01:00",
+        "e": "2026-06-21T18:00:00+01:00",
+        "d": null,
+        "j": "Bill Spencer",
+        "u": null,
+        "t": "biweekly",
+        "p": "billspencer"
+      },
+      {
+        "n": "m00dtapes",
+        "s": "2026-06-21T18:00:00+01:00",
+        "e": "2026-06-21T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "m00dtapes"
       }
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: REDMAN INTERNATIONAL (R)",
-        "s": "2026-06-20T20:00:00+01:00",
-        "e": "2026-06-20T22:00:00+01:00",
-        "d": "Two hours of 80s & 90s digidub and dancehall productions from Jamaican label Redman International.",
-        "j": "REDMAN INTERNATIONAL",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-redman-international-25th-august-2023",
-        "t": "restream"
-      },
-      {
         "n": "BEAUTIFUL SWIMMERS (R)",
         "s": "2026-06-20T22:00:00+01:00",
         "e": "2026-06-21T00:00:00+01:00",
-        "d": null,
+        "d": "Eazy-breezy dancefloor eclecticism from the DC wonder duo…\nFrom the host: \"Beautiful Swimmers start in the club, and then float down the hallway, and then lift-off out front into space. Pass it this way, please.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/beautiful-swimmers/episodes/beautiful-swimmers-21st-march-2026",
         "t": "restream",
         "p": "beautifulswimmers"
       },
@@ -188,9 +191,9 @@
         "n": "Angst and Harmony W/ Cynnie",
         "s": "2026-06-21T00:00:00+01:00",
         "e": "2026-06-21T01:00:00+01:00",
-        "d": null,
+        "d": "A tender mix comprised of jangle pop woes, post punk lows, and indie highs. These are tracks that helped define the sort of gloomy yet hopeful feeling I felt during my teenage years. Enjoy this somewhat wintery and sunny feeling with me.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-angst-and-harmony-w-cynnie-21st-june-2026"
       },
       {
         "n": "Midwest Decay W/ Cericyan",
@@ -304,28 +307,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Slow Orbit w/ emeliad218",
+        "s": "2026-06-21T15:00:00+01:00",
+        "e": "2026-06-21T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Teenage Garage Dreams",
+        "s": "2026-06-21T16:00:00+01:00",
+        "e": "2026-06-21T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "DNS",
-        "s": "2026-06-20T19:00:00Z",
-        "e": "2026-06-20T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Eklekt1k",
-        "s": "2026-06-20T20:00:00Z",
-        "e": "2026-06-20T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "eklekt1k"
-      },
       {
         "n": "The Wheel Up Show w/ Tripta",
         "s": "2026-06-20T21:00:00Z",
@@ -1542,19 +1542,28 @@
         "u": null,
         "t": "monthly",
         "p": "dannyscrilla"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Elyn Kazarian – Her Vision Her Voice",
-        "s": "2026-06-20T19:00:00Z",
-        "e": "2026-06-20T21:00:00Z",
+        "n": "Biscuit Boy",
+        "s": "2026-06-27T20:00:00Z",
+        "e": "2026-06-27T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "elynkazarian"
+        "p": "biscuitboy"
       },
+      {
+        "n": "Undercurrent / .CO.UK",
+        "s": "2026-06-27T21:00:00Z",
+        "e": "2026-06-27T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Beats of All-Nations",
         "s": "2026-06-20T21:00:00Z",
@@ -2113,17 +2122,19 @@
         "j": "Sound Study",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Derelict - Damage Control",
+        "s": "2026-06-27T21:00:00Z",
+        "e": "2026-06-27T23:00:00Z",
+        "d": null,
+        "j": "Damage Control",
+        "u": null,
+        "t": "monthly",
+        "p": "derelict"
       }
     ],
     "rinse": [
-      {
-        "n": "Isa",
-        "s": "2026-06-20T18:30:00Z",
-        "e": "2026-06-20T19:40:00Z",
-        "d": null,
-        "j": "Live from SÓNAR 2026",
-        "u": null
-      },
       {
         "n": "Akua",
         "s": "2026-06-20T19:40:00Z",
@@ -2133,16 +2144,16 @@
         "u": null
       },
       {
-        "n": "Wata Igarashi",
+        "n": "DJ Maria.",
         "s": "2026-06-20T21:10:00Z",
-        "e": "2026-06-20T22:20:00Z",
+        "e": "2026-06-20T23:35:00Z",
         "d": null,
         "j": "Live from SÓNAR 2026",
         "u": null
       },
       {
-        "n": "DJ Maria.",
-        "s": "2026-06-20T22:20:00Z",
+        "n": "Wata Igarashi",
+        "s": "2026-06-20T23:35:00Z",
         "e": "2026-06-20T23:45:00Z",
         "d": null,
         "j": "Live from SÓNAR 2026",
