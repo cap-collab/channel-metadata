@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-06-20T15:29:06.770Z",
+  "updated": "2026-06-20T17:16:34.320Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TIM KOH: KOKONUT TRIP (R)",
-        "s": "2026-06-20T16:00:00+01:00",
-        "e": "2026-06-20T17:00:00+01:00",
-        "d": "Take a Kokonut Trip with Tim Koh, playing vintage pop, kaleidoscopic rock & folk, and whatever else he feels.",
-        "j": "KOKONUT TRIP",
-        "u": "https://www.nts.live/api/v2/shows/tim-koh/episodes/tim-koh-10th-january-2024",
-        "t": "restream"
-      },
-      {
-        "n": "BAHAMIAN MOOR w/ Rhizocorp",
-        "s": "2026-06-20T17:00:00+01:00",
-        "e": "2026-06-20T18:00:00+01:00",
-        "d": "Music will be played once a month.",
-        "j": "Rhizocorp",
-        "u": "https://www.nts.live/api/v2/shows/bahamian-moor/episodes/bahamian-moor-20th-june-2026",
-        "t": "monthly",
-        "p": "bahamianmoor"
-      },
       {
         "n": "MUSIC 4 LOVERS w/ Anina",
         "s": "2026-06-20T18:00:00+01:00",
         "e": "2026-06-20T19:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Jabu and Andy Payback bring us Music 4 Lovers once a month.\nFrom the host: \"Hazy / Psych / dubbed out show feat Bristol legend Anina\"",
+        "j": "Anina",
+        "u": "https://www.nts.live/api/v2/shows/music-4-lovers/episodes/music-4-lovers-20th-june-2026",
+        "t": "monthly"
       },
       {
         "n": "PANORAMA HEAVEN W/ BIANCA LEXIS (R)",
         "s": "2026-06-20T19:00:00+01:00",
         "e": "2026-06-20T20:00:00+01:00",
-        "d": null,
+        "d": "LA native Bianca Lexis showcases a monthly, genre-blending hour, exploring the different facets of pop, rock, synth and house music. all in panoramic view, for you.",
         "j": "BIANCA LEXIS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/panorama-heaven/episodes/panorama-heaven-4th-june-2025",
         "t": "restream",
         "p": "biancalexis",
         "ap": [
@@ -169,43 +151,50 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "DOING TIME",
+        "s": "2026-06-21T13:00:00+01:00",
+        "e": "2026-06-21T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "doingtime"
+      },
+      {
+        "n": "PARADISE BANGKOK",
+        "s": "2026-06-21T15:00:00+01:00",
+        "e": "2026-06-21T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "paradise",
+        "ap": [
+          "paradisebangkok"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "WAVE FLOWER W/ YUKA MIZUHARA (R)",
-        "s": "2026-06-20T16:00:00+01:00",
-        "e": "2026-06-20T17:00:00+01:00",
-        "d": "Japanese DJ Yuka Mizuhara joins us for an hour every month, selecting the most feel good classic house and disco. Dig!  ",
-        "j": "YUKA MIZUHARA",
-        "u": "https://www.nts.live/api/v2/shows/groove-in-the-heart-w-yuka-mizuhara/episodes/groove-in-the-heart-w-yuka-mizuhara-20th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "REIMAGINING COUNTRY W/ JAMAL KHADAR",
-        "s": "2026-06-20T17:00:00+01:00",
-        "e": "2026-06-20T18:00:00+01:00",
-        "d": "Culture journalist Jamal Khadar takes a trip through country music’s hidden roots and surprising global connections—in search of a more personal, nuanced view of what it means to be a country fan. From African-Country crossovers to Jamaica’s country connection, and the continuous role of Southern Soul in remaking country.\nFrom the host: \"A globe-spanning hour drifting from the South African jazz of the late, great Abdullah Ibrahim (Dollar Brand) to Zimbabwean country-guitar, Cajun bayous, cowpunk and Korean rockabilly along the way.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/reimagining-country/episodes/reimagining-country-20th-june-2026",
-        "p": "reimaginingcountry"
-      },
-      {
         "n": "SAMUEL KERRIDGE - HYBRID LIVE AT TRESOR",
         "s": "2026-06-20T18:00:00+01:00",
         "e": "2026-06-20T19:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "The Contort champion takes a bludgeon to the NTS Manchester once a month with an hour offering of wonky electronics and avant-garde sound. ",
+        "j": "HYBRID LIVE AT TRESOR",
+        "u": "https://www.nts.live/api/v2/shows/samuel-kerridge/episodes/samuel-kerridge-20th-june-2026",
+        "t": "monthly",
         "p": "samuelkerridge"
       },
       {
         "n": "Sendspaace - 10TH ANNIVERSARY SPECIAL w/ Sharp Veins",
         "s": "2026-06-20T19:00:00+01:00",
         "e": "2026-06-20T20:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Jamie Hudson brings a monthly hour of hyper-terrestial, futuristic sounds straight from the information superhighway.\nFrom the host: \"Celebrating 10 years of Sendspaace with a collaborative mix featuring Sharp Veins. Out to the listeners <3\"",
+        "j": "Sharp Veins",
+        "u": "https://www.nts.live/api/v2/shows/sendspaace/episodes/sendspaace-20th-june-2026",
+        "t": "monthly"
       },
       {
         "n": "NTS GUIDE TO: REDMAN INTERNATIONAL (R)",
@@ -322,28 +311,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "for the bookshelves of my childhood home w/ mckenna",
+        "s": "2026-06-21T12:00:00+01:00",
+        "e": "2026-06-21T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "TEENAGE CAS W/ VICKY CASIS",
+        "s": "2026-06-21T13:00:00+01:00",
+        "e": "2026-06-21T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Bunker",
-        "s": "2026-06-20T15:00:00Z",
-        "e": "2026-06-20T16:00:00Z",
-        "d": "DJ & Producer hailing from Watford influenced by Hip-Hop, Dubstep, Grime with releases on NSX records & Ghost Phone, spinning electronic genres from R&B edits, Drum and Bass and everything in between.",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Hurst",
-        "s": "2026-06-20T16:00:00Z",
-        "e": "2026-06-20T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "hurst"
-      },
       {
         "n": "Highlander",
         "s": "2026-06-20T17:00:00Z",
@@ -1569,18 +1555,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-06-20T15:00:00Z",
-        "e": "2026-06-20T17:00:00Z",
+        "n": "DJ SK",
+        "s": "2026-06-27T17:00:00Z",
+        "e": "2026-06-27T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-06-20T17:00:00Z",
@@ -2148,60 +2134,58 @@
         "u": null,
         "t": "biweekly",
         "p": "illcamille"
+      },
+      {
+        "n": "Greg Belson - Divine Chord Gospel Show",
+        "s": "2026-06-27T17:00:00Z",
+        "e": "2026-06-27T19:00:00Z",
+        "d": null,
+        "j": "Divine Chord Gospel Show",
+        "u": null,
+        "t": "biweekly",
+        "p": "gregbelson"
       }
     ],
     "rinse": [
       {
-        "n": "Juba",
-        "s": "2026-06-20T15:00:00Z",
-        "e": "2026-06-20T16:00:00Z",
+        "n": "Night Slugs",
+        "s": "2026-06-20T17:00:00Z",
+        "e": "2026-06-20T19:00:00Z",
         "d": null,
-        "j": "Azzi On The Beat",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nightslugs"
+      },
+      {
+        "n": "Oblig",
+        "s": "2026-06-20T19:00:00Z",
+        "e": "2026-06-20T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "oblig"
+      },
+      {
+        "n": "DaMetalMessiah",
+        "s": "2026-06-20T20:00:00Z",
+        "e": "2026-06-20T22:00:00Z",
+        "d": null,
+        "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "juba"
+        "p": "dametalmessiah"
       },
       {
-        "n": "Oscar Farrell",
-        "s": "2026-06-20T16:00:00Z",
-        "e": "2026-06-20T18:30:00Z",
+        "n": "Lu.Re",
+        "s": "2026-06-20T22:00:00Z",
+        "e": "2026-06-20T23:00:00Z",
         "d": null,
-        "j": "Live from Colour Factory, London",
+        "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "oscarfarrell"
-      },
-      {
-        "n": "Isa",
-        "s": "2026-06-20T18:30:00Z",
-        "e": "2026-06-20T19:40:00Z",
-        "d": null,
-        "j": "Live from SÓNAR 2026",
-        "u": null
-      },
-      {
-        "n": "Akua",
-        "s": "2026-06-20T19:40:00Z",
-        "e": "2026-06-20T21:10:00Z",
-        "d": null,
-        "j": "Live from SÓNAR 2026",
-        "u": null
-      },
-      {
-        "n": "Wata Igarashi",
-        "s": "2026-06-20T21:10:00Z",
-        "e": "2026-06-20T22:20:00Z",
-        "d": null,
-        "j": "Live from SÓNAR 2026",
-        "u": null
-      },
-      {
-        "n": "DJ Maria.",
-        "s": "2026-06-20T22:20:00Z",
-        "e": "2026-06-20T23:45:00Z",
-        "d": null,
-        "j": "Live from SÓNAR 2026",
-        "u": null
+        "p": "lure"
       },
       {
         "n": "The Hacker",
@@ -2280,7 +2264,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "El Londo",
@@ -2319,7 +2303,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "dametalmessiah"
       },
       {
@@ -2329,31 +2313,11 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "lure"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Shampain",
-        "s": "2026-06-20T15:00:00Z",
-        "e": "2026-06-20T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "shampain"
-      },
-      {
-        "n": "SYLVERE",
-        "s": "2026-06-20T16:00:00Z",
-        "e": "2026-06-20T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sylvere"
-      },
       {
         "n": "Tijolo Records",
         "s": "2026-06-20T17:00:00Z",
