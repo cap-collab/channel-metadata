@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-06-20T21:06:27.564Z",
+  "updated": "2026-06-20T22:59:47.798Z",
   "stations": {
     "nts1": [
       {
@@ -65110,6 +65110,15 @@
         "u": null,
         "t": "monthly",
         "p": "eklekt1k"
+      },
+      {
+        "n": "The Wheel Up Show w/ Tripta",
+        "s": "2026-06-20T21:00:00Z",
+        "e": "2026-06-20T22:00:00Z",
+        "d": null,
+        "j": "Tripta",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -99265,12 +99274,21 @@
         "u": null
       },
       {
-        "n": "The Hacker",
+        "n": "Wata Igarashi",
+        "s": "2026-06-19T23:35:00Z",
+        "e": "2026-06-19T23:45:00Z",
+        "d": null,
+        "j": "Live from SÓNAR 2026",
+        "u": null
+      },
+      {
+        "n": "Kilopatrah Jones",
         "s": "2026-06-19T23:45:00Z",
         "e": "2026-06-20T00:45:00Z",
         "d": null,
         "j": "Live from SÓNAR 2026",
-        "u": null
+        "u": null,
+        "p": "kilopatrahjones"
       },
       {
         "n": "RONI B2B Lovefoxy",
@@ -99404,6 +99422,26 @@
         "d": null,
         "j": "Live from SÓNAR 2026",
         "u": null
+      },
+      {
+        "n": "Oblig",
+        "s": "2026-06-20T19:00:00Z",
+        "e": "2026-06-20T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "oblig"
+      },
+      {
+        "n": "DaMetalMessiah",
+        "s": "2026-06-20T20:00:00Z",
+        "e": "2026-06-20T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "dametalmessiah"
       }
     ],
     "rinsefr": [
@@ -110405,34 +110443,33 @@
         "t": "playlist"
       },
       {
-        "n": "Yaël Ohayon",
+        "n": "Playlist France",
         "s": "2026-06-20T12:00:00Z",
         "e": "2026-06-20T13:00:00Z",
         "d": null,
-        "j": "Press Play",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "yalohayon"
+        "t": "playlist"
       },
       {
-        "n": "Human Disease Network",
+        "n": "Blokys",
         "s": "2026-06-20T13:00:00Z",
         "e": "2026-06-20T14:00:00Z",
         "d": null,
-        "j": "présente Vanadís B2B M.Bleiz [ÖND]",
+        "j": null,
         "u": null,
         "t": "monthly",
-        "p": "humandiseasenetwork"
+        "p": "blokys"
       },
       {
-        "n": "Bunkaball",
+        "n": "Promesses",
         "s": "2026-06-20T14:00:00Z",
-        "e": "2026-06-20T15:00:00Z",
+        "e": "2026-06-20T16:00:00Z",
         "d": null,
-        "j": "invite Jackin Trax",
+        "j": "invite mariad b2b acheve",
         "u": null,
         "t": "monthly",
-        "p": "bunkaball"
+        "p": "promesses"
       },
       {
         "n": "Shampain",
@@ -110445,33 +110482,46 @@
         "p": "shampain"
       },
       {
-        "n": "SYLVERE",
+        "n": "Jokkoo Collective",
         "s": "2026-06-20T16:00:00Z",
         "e": "2026-06-20T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Marcolan",
         "u": null,
         "t": "monthly",
-        "p": "sylvere"
+        "p": "collective",
+        "ap": [
+          "jokkoocollective"
+        ]
       },
       {
-        "n": "Tijolo Records",
+        "n": "MUTEK",
         "s": "2026-06-20T17:00:00Z",
         "e": "2026-06-20T18:00:00Z",
         "d": null,
-        "j": "RXFX",
+        "j": "invite ANDY MARTIN",
         "u": null,
         "t": "monthly",
-        "p": "tijolorecords"
+        "p": "mutek"
       },
       {
-        "n": "2much",
+        "n": "LU2K",
         "s": "2026-06-20T18:00:00Z",
         "e": "2026-06-20T19:00:00Z",
         "d": null,
-        "j": "invite Linds",
+        "j": "INVITES MAGNIFIQUE",
         "u": null,
-        "t": "biweekly"
+        "t": "monthly",
+        "p": "lu2k"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-20T19:00:00Z",
+        "e": "2026-06-20T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "newtown": [
@@ -115783,6 +115833,16 @@
         "u": null,
         "t": "weekly",
         "p": "jasonp"
+      },
+      {
+        "n": "The Saturday Morning Comedown",
+        "s": "2026-06-20T18:00:00Z",
+        "e": "2026-06-20T22:00:00Z",
+        "d": null,
+        "j": "Infinite Jess",
+        "u": null,
+        "t": "monthly",
+        "p": "infinitejess"
       }
     ]
   }
