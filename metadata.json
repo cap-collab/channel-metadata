@@ -1,35 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-23T07:40:24.795Z",
+  "updated": "2026-06-23T10:55:28.952Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-06-23T07:00:00+01:00",
-        "e": "2026-06-23T09:00:00+01:00",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-23rd-june-2026",
-        "t": "weekly",
-        "p": "mariasomerville"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ Fergus Clark",
-        "s": "2026-06-23T09:00:00+01:00",
-        "e": "2026-06-23T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": "Fergus Clark",
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-fergus-clark-23rd-june-2026",
-        "t": "monthly",
-        "p": "fergusclark"
-      },
       {
         "n": "SOUP TO NUTS W/ ANU",
         "s": "2026-06-23T11:00:00+01:00",
         "e": "2026-06-23T13:00:00+01:00",
-        "d": null,
+        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
         "j": "ANU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-23rd-june-2026",
         "t": "weekly",
         "p": "anu"
       },
@@ -37,9 +17,9 @@
         "n": "Low Life Loves You w/ Bill Brewster",
         "s": "2026-06-23T13:00:00+01:00",
         "e": "2026-06-23T15:00:00+01:00",
-        "d": null,
+        "d": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
         "j": "Bill Brewster",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bill-brewster/episodes/bill-brewster-23rd-june-2026",
         "t": "monthly",
         "p": "billbrewster"
       },
@@ -72,7 +52,7 @@
         "t": "monthly"
       },
       {
-        "n": "Leicester's Finest w/ Mohammad Five",
+        "n": "Leicester's Finest w/ Mohammad Five - Modern Warfare",
         "s": "2026-06-23T18:00:00+01:00",
         "e": "2026-06-23T19:00:00+01:00",
         "d": null,
@@ -80,12 +60,13 @@
         "u": null
       },
       {
-        "n": "SURF GANG RADIO",
+        "n": "SURF GANG RADIO W/ ANYSIA KYM",
         "s": "2026-06-23T19:00:00+01:00",
         "e": "2026-06-23T20:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "anysiakym"
       },
       {
         "n": "RUPTURE W/ MANTRA & DOUBLE O",
@@ -169,49 +150,47 @@
         "u": null,
         "t": "weekly",
         "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-06-24T13:00:00+01:00",
+        "e": "2026-06-24T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
+      },
+      {
+        "n": "BRADLEY ZERO PRESENTS: RHYTHM SECTION",
+        "s": "2026-06-24T14:00:00+01:00",
+        "e": "2026-06-24T15:00:00+01:00",
+        "d": null,
+        "j": "RHYTHM SECTION",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "permenant trap w/ Cat",
-        "s": "2026-06-23T08:00:00+01:00",
-        "e": "2026-06-23T09:00:00+01:00",
-        "d": "It is summer, and you are fifteen years old. You spend your time drudging across listless fields, blaring the songs that your dad loved in his youth. The August rain sweeps and wraps itself around you - you feel a sense of creeping melancholy and elation as the opening chords of the Cocteau Twins song that your close friend recently shared with you. You retreat beneath the covers of your bed.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-permenant-trap-w-cat-23rd-june-2026"
-      },
-      {
-        "n": "Dual state: from heartbreak to HEAT",
-        "s": "2026-06-23T09:00:00+01:00",
-        "e": "2026-06-23T10:00:00+01:00",
-        "d": "Ths special mix is a journey through love and heartbreak that slowly opens into release.\nStarting in a more emotional space and moving into playful soca and bouyon, the energy shifts into bouncy percussion, cheeky rhythms and pure waistline.\nIt’s about feeling everything… crying if you need to, but ending up whining anyways.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-dual-state-from-heartbreak-to-heat-23rd-june-2026"
-      },
-      {
-        "n": "Walkman Warrior w/ Sample Platter",
-        "s": "2026-06-23T10:00:00+01:00",
-        "e": "2026-06-23T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "TRUE AS FEW W/ MARK",
         "s": "2026-06-23T11:00:00+01:00",
         "e": "2026-06-23T12:00:00+01:00",
-        "d": null,
+        "d": "Diving into classical composition with Mark aka Klon Dump…\nFrom the host: \"This episode traverses the various landscapes of Elden Ring, focussing on its softer, barely-there compositions.\"",
         "j": "MARK",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/true-as-few/episodes/true-as-few-23rd-june-2026",
         "t": "monthly"
       },
       {
         "n": "GREAT SOUTHERN LANDS W/ JAMES W",
         "s": "2026-06-23T12:00:00+01:00",
         "e": "2026-06-23T13:00:00+01:00",
-        "d": null,
+        "d": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
         "j": "JAMES W",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/great-southern-lands/episodes/great-southern-lands-23rd-june-2026",
         "t": "monthly"
       },
       {
@@ -331,39 +310,33 @@
         "j": "Pride Mix 2026",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "teenager feelings and discoveries w/ thilda",
+        "s": "2026-06-24T06:00:00+01:00",
+        "e": "2026-06-24T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "I CAN STILL HEAR THEM SING W/ MATTIA",
+        "s": "2026-06-24T07:00:00+01:00",
+        "e": "2026-06-24T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "numerals",
+        "s": "2026-06-24T08:00:00+01:00",
+        "e": "2026-06-24T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Azadi Sound",
-        "s": "2026-06-23T07:00:00Z",
-        "e": "2026-06-23T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "azadisound"
-      },
-      {
-        "n": "Scampi",
-        "s": "2026-06-23T08:00:00Z",
-        "e": "2026-06-23T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "scampi"
-      },
-      {
-        "n": "Posh Mornings",
-        "s": "2026-06-23T09:00:00Z",
-        "e": "2026-06-23T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "poshmornings"
-      },
       {
         "n": "Local Movements",
         "s": "2026-06-23T10:00:00Z",
@@ -373,6 +346,15 @@
         "u": null,
         "t": "monthly",
         "p": "localmovements"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-06-23T11:00:00Z",
+        "e": "2026-06-23T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Liquid Vault w/ Half-Life",
@@ -1341,8 +1323,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-23T07:00:00Z",
-        "e": "2026-06-23T09:00:00Z",
+        "s": "2026-06-23T09:00:00Z",
+        "e": "2026-06-23T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1350,8 +1332,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-06-23T09:00:00Z",
-        "e": "2026-06-23T11:00:00Z",
+        "s": "2026-06-23T11:00:00Z",
+        "e": "2026-06-23T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1835,29 +1817,11 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-06-23T06:00:00Z",
-        "e": "2026-06-23T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Papaoul",
-        "s": "2026-06-23T08:00:00Z",
-        "e": "2026-06-23T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Jumbi",
         "s": "2026-06-23T10:00:00Z",
         "e": "2026-06-23T11:00:00Z",
         "d": null,
-        "j": "KAMI",
+        "j": "YDLR",
         "u": null,
         "t": "weekly"
       },
@@ -1964,12 +1928,21 @@
       {
         "n": "Diffrent",
         "s": "2026-06-23T23:00:00Z",
-        "e": "2026-06-24T01:00:00Z",
+        "e": "2026-06-24T00:00:00Z",
         "d": null,
         "j": "Live from Phonox",
         "u": null,
         "t": "biweekly",
         "p": "diffrent"
+      },
+      {
+        "n": "HalfPint",
+        "s": "2026-06-24T00:00:00Z",
+        "e": "2026-06-24T01:00:00Z",
+        "d": null,
+        "j": "KT & Trixie",
+        "u": null,
+        "p": "halfpint"
       },
       {
         "n": "Playlist",
@@ -2111,15 +2084,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-06-23T07:00:00Z",
-        "e": "2026-06-23T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-06-23T10:00:00Z",
         "e": "2026-06-23T12:00:00Z",
         "d": null,
@@ -2183,19 +2147,18 @@
         "s": "2026-06-23T17:00:00Z",
         "e": "2026-06-23T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "The Koko Show avec angie!",
         "u": null,
         "t": "monthly",
         "p": "kokoprisci"
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "Piu Piu Records Asian Sounds by Scarry Potter",
         "s": "2026-06-23T18:00:00Z",
         "e": "2026-06-23T19:00:00Z",
         "d": null,
-        "j": "Piu Piu Records Asian Sounds by Scarry Potter",
-        "u": null,
-        "t": "weekly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Playlist France",
