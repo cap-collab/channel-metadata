@@ -1,44 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-25T14:05:26.103Z",
+  "updated": "2026-06-25T18:03:39.790Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PENDER STREET STEPPERS (R)",
-        "s": "2026-06-25T15:00:00+01:00",
-        "e": "2026-06-25T17:00:00+01:00",
-        "d": "The breezy sound of the Canadian Riviera, from Mood Hut's Pender Street Steppers. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/pender-street-steppers/episodes/pender-street-steppers-31st-march-2026",
-        "t": "restream"
-      },
-      {
-        "n": "ANZ",
-        "s": "2026-06-25T17:00:00+01:00",
-        "e": "2026-06-25T18:00:00+01:00",
-        "d": "Anz runs the spectrum of bass music and club sounds every month from the Manchester studio - expect high energy bangers, big blends aplenty with lots of soul to boot.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/anz/episodes/anz-25th-june-2026",
-        "t": "monthly",
-        "p": "anz"
-      },
-      {
-        "n": "OK WILLIAMS",
-        "s": "2026-06-25T18:00:00+01:00",
-        "e": "2026-06-25T19:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "okwilliams"
-      },
       {
         "n": "game!of patience w/ redkoffee",
         "s": "2026-06-25T19:00:00+01:00",
         "e": "2026-06-25T20:00:00+01:00",
-        "d": null,
+        "d": "Paris-based poet and DJ Clarisse Prévost, aka redkoffee, takes a day off from her Imagine Soundtracks residency for a no-nonsense, club-ready guest mix. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/game-of-patience-w-redkoffee-25th-june-2026",
         "p": "redkoffee"
       },
       {
@@ -169,55 +140,36 @@
         "j": null,
         "u": null,
         "p": "charissec"
+      },
+      {
+        "n": "RUF DUG",
+        "s": "2026-06-26T18:00:00+01:00",
+        "e": "2026-06-26T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "rufdug"
+      },
+      {
+        "n": "OH OH W KO_OL & CO",
+        "s": "2026-06-26T19:00:00+01:00",
+        "e": "2026-06-26T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "GEORGIA",
-        "s": "2026-06-25T15:00:00+01:00",
-        "e": "2026-06-25T16:00:00+01:00",
-        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-25th-june-2026",
-        "t": "monthly",
-        "p": "georgia"
-      },
-      {
-        "n": "AUTOTUNE THE WORLD W/ CHRISTOPHER KIRKLEY",
-        "s": "2026-06-25T16:00:00+01:00",
-        "e": "2026-06-25T17:00:00+01:00",
-        "d": "International portal for contemporary pop, leaning into the autotuned future… from the mind of Christopher Kirkley, the mastermind behind record label Sahel Sounds.\nFrom the host: \"A mix of Bhojpuri dance-pop/film music from the cassette-to-YouTube era (2006–2015). High energy, synthed out, and rapid fire music popular with lyrics that lean heavy into double entendre. Popular music in weddings and the arkestra circuit in eastern Uttar Pradesh and Bihar.\"",
-        "j": "CHRISTOPHER KIRKLEY",
-        "u": "https://www.nts.live/api/v2/shows/christopher-kirkley/episodes/christopher-kirkley-25th-june-2026",
-        "t": "monthly",
-        "p": "christopherkirkley"
-      },
-      {
-        "n": "RICH & JOHNNY PRESENT INZANE MICHIGAN: THE GORIES",
-        "s": "2026-06-25T17:00:00+01:00",
-        "e": "2026-06-25T18:00:00+01:00",
-        "d": null,
-        "j": "THE GORIES",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Prison Divorce Bombshell w/ Karly Hartzman",
-        "s": "2026-06-25T18:00:00+01:00",
-        "e": "2026-06-25T19:00:00+01:00",
-        "d": null,
-        "j": "Karly Hartzman",
-        "u": null,
-        "t": "monthly",
-        "p": "karlyhartzman"
-      },
-      {
         "n": "SACRED POOLS W/ FASO",
         "s": "2026-06-25T19:00:00+01:00",
         "e": "2026-06-25T20:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Sacred Pools is a monthly show, rotating between DJ October, Faso and Toshiki Ohta. All three hosts showcase a varied and intriguing combination of music on the Sacred Pools show - from harshly metallic noise rock, unhinged post-punk, chillingly minimal synth, breakbeat rave and pervy wedding disco. ",
+        "j": "FASO",
+        "u": "https://www.nts.live/api/v2/shows/sacred-pools/episodes/sacred-pools-25th-june-2026",
+        "t": "monthly",
         "p": "sacredpools"
       },
       {
@@ -335,46 +287,35 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Crawley to Camden w/ Charlie Croft",
+        "s": "2026-06-26T10:00:00+01:00",
+        "e": "2026-06-26T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "In Focus: Richard Pinhas",
+        "s": "2026-06-26T11:00:00+01:00",
+        "e": "2026-06-26T13:00:00+01:00",
+        "d": null,
+        "j": "Richard Pinhas",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "CAROLINA SOUL - FUNK WILL SAVE THE WORLD",
+        "s": "2026-06-26T13:00:00+01:00",
+        "e": "2026-06-26T15:00:00+01:00",
+        "d": null,
+        "j": "FUNK WILL SAVE THE WORLD",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "mmmarsh",
-        "s": "2026-06-25T14:00:00Z",
-        "e": "2026-06-25T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "mmmarsh"
-      },
-      {
-        "n": "Strange Signals",
-        "s": "2026-06-25T15:00:00Z",
-        "e": "2026-06-25T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Locked On Records",
-        "s": "2026-06-25T16:00:00Z",
-        "e": "2026-06-25T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Kishan",
-        "s": "2026-06-25T17:00:00Z",
-        "e": "2026-06-25T18:00:00Z",
-        "d": "Kishan is a DJ and Producer currently based in London. Actively involved in the music scene already, he produces and mixes a wide range of genres including UK Garage, Drum & Bass, House, Disco and Afrobeat. ",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Gabriella",
         "s": "2026-06-25T18:00:00Z",
@@ -1120,13 +1061,12 @@
         "p": "glittcherz"
       },
       {
-        "n": "Surrealist",
+        "n": "Afterimage",
         "s": "2026-07-02T00:00:00Z",
         "e": "2026-07-02T01:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly"
+        "u": null
       },
       {
         "n": "K-CO",
@@ -1217,37 +1157,46 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
-      }
-    ],
-    "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-06-25T14:00:00Z",
-        "e": "2026-06-25T15:30:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
       {
-        "n": "LARAAJI and OUT THERE",
-        "s": "2026-06-25T15:30:00Z",
-        "e": "2026-06-25T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Ariella – CryBaby Hour",
-        "s": "2026-06-25T16:00:00Z",
-        "e": "2026-06-25T17:00:00Z",
+        "n": "Resonant Sound",
+        "s": "2026-07-02T15:00:00Z",
+        "e": "2026-07-02T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Lily London",
+        "s": "2026-07-02T16:00:00Z",
+        "e": "2026-07-02T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Darz (Percy Digs)",
+        "s": "2026-07-02T17:00:00Z",
+        "e": "2026-07-02T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "B-Say",
+        "s": "2026-07-02T18:00:00Z",
+        "e": "2026-07-02T19:00:00Z",
+        "d": "DJ & Producer, B-Say has been a Subtle resident DJ for over 3 years.\r\n\r\nHis radio shows tend to focus on the 140 bass music scene and aims to showcase unreleased/forthcoming music from upcoming artists, as well as premiering his own unreleased material. \r\n\r\nMore recently B-Say has ventured out from solely DJ'ing Dubstep, with his bi-monthly 'Dub & Steppers Show' which he uses to premier his own productions.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "GAY RERUN",
         "s": "2026-06-25T17:00:00Z",
@@ -1645,39 +1594,28 @@
         "u": null,
         "t": "monthly",
         "p": "jamesaxon"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Tom Ravenscroft",
-        "s": "2026-06-25T14:00:00Z",
-        "e": "2026-06-25T16:00:00Z",
+        "n": "LARAAJI and OUT THERE",
+        "s": "2026-07-02T15:30:00Z",
+        "e": "2026-07-02T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "tomravenscroft"
+        "t": "weekly"
       },
       {
-        "n": "Mona Yim",
-        "s": "2026-06-25T16:00:00Z",
-        "e": "2026-06-25T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "monayim"
-      },
-      {
-        "n": "Chamber45",
-        "s": "2026-06-25T17:00:00Z",
-        "e": "2026-06-25T18:00:00Z",
+        "n": "Dustin Wong – Why Did Why Did Why Did",
+        "s": "2026-07-02T17:00:00Z",
+        "e": "2026-07-02T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "chamber45"
-      },
+        "p": "dustinwong"
+      }
+    ],
+    "rinse": [
       {
         "n": "JAEL",
         "s": "2026-06-25T18:00:00Z",
@@ -1849,42 +1787,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Naomi",
-        "s": "2026-06-25T14:00:00Z",
-        "e": "2026-06-25T15:00:00Z",
-        "d": null,
-        "j": "invite Yucky",
-        "u": null,
-        "t": "biweekly",
-        "p": "naomi"
-      },
-      {
-        "n": "Laboshadory by Kaïlys",
-        "s": "2026-06-25T15:00:00Z",
-        "e": "2026-06-25T16:00:00Z",
-        "d": null,
-        "j": "Tdesu",
-        "u": null
-      },
-      {
-        "n": "Scarlett",
-        "s": "2026-06-25T16:00:00Z",
-        "e": "2026-06-25T17:00:00Z",
-        "d": null,
-        "j": "Queer Talk : Scarlett invite Crustasex",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Roulita",
-        "s": "2026-06-25T17:00:00Z",
-        "e": "2026-06-25T18:00:00Z",
-        "d": null,
-        "j": "invite Iris Leidenschaft",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "To Van Kao",
         "s": "2026-06-25T18:00:00Z",
         "e": "2026-06-25T19:00:00Z",
@@ -1997,25 +1899,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "TELEMETRY",
-        "s": "2026-06-25T13:00:00Z",
-        "e": "2026-06-25T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "NEUPORT & ROSE TRANSMISSION",
-        "s": "2026-06-25T15:00:00Z",
-        "e": "2026-06-25T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "transmission"
-      },
       {
         "n": "LET'S TALK HIP HOP",
         "s": "2026-06-25T17:00:00Z",
