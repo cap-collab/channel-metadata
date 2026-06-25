@@ -1,34 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-06-25T07:35:01.727Z",
+  "updated": "2026-06-25T10:34:51.991Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ TROTH",
-        "s": "2026-06-25T07:00:00+01:00",
-        "e": "2026-06-25T09:00:00+01:00",
-        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-troth-25th-june-2026",
-        "p": "troth"
-      },
-      {
-        "n": "The NTS Breakfast Show w/ APIENTO",
-        "s": "2026-06-25T09:00:00+01:00",
-        "e": "2026-06-25T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-apiento-25th-june-2026",
-        "p": "apiento"
-      },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN & CHEB MIMO",
         "s": "2026-06-25T11:00:00+01:00",
         "e": "2026-06-25T13:00:00+01:00",
-        "d": null,
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-25th-june-2026",
         "p": "chebmimo"
+      },
+      {
+        "n": "IN FOCUS: CHAKA KHAN (R)",
+        "s": "2026-06-25T13:00:00+01:00",
+        "e": "2026-06-25T14:00:00+01:00",
+        "d": "Two hours of powerful vocal performances and pop glamour from Illinois' \"Queen of Funk\". \nSelected by Emel.",
+        "j": "CHAKA KHAN",
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-chaka-kahn-13th-december-2024",
+        "t": "restream"
       },
       {
         "n": "Fauzia",
@@ -131,6 +122,15 @@
         "t": "biweekly"
       },
       {
+        "n": "The NTS Breakfast Show w/ Macca",
+        "s": "2026-06-26T09:00:00+01:00",
+        "e": "2026-06-26T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "macca"
+      },
+      {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
         "s": "2026-06-26T11:00:00+01:00",
         "e": "2026-06-26T13:00:00+01:00",
@@ -172,36 +172,12 @@
     ],
     "nts2": [
       {
-        "n": "(out)grow w/ hazy sofia",
-        "s": "2026-06-25T08:00:00+01:00",
-        "e": "2026-06-25T09:00:00+01:00",
-        "d": "adolescence is full of confusing dichotomies: friends turn into strangers, fomo clashes with solitude and joys are paired with regrets. these introspective songs embody the teenage experience and remind me that while our dreams and personalities change over time, we can never outgrow our inner child.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-out-grow-w-hazy-sofia-25th-june-2026"
-      },
-      {
-        "n": "ANGSTY TEENS W/ HAMBURGERLADY",
-        "s": "2026-06-25T09:00:00+01:00",
-        "e": "2026-06-25T10:00:00+01:00",
-        "d": "I remember turning 15, looking through my dad's record collection and stumbling upon this odd LP with a giant neon star on its cover. It was Big Star's first record, #1 Record. I had this crappy turntable, I put it on and my ears discovered a brand new world: the world of power pop. My teenage years quickly became associated with this genre. Between the heartaches of Game Theory's The Big Shot Chronicles and the fun of The Pleasers' Thamesbeat, I found a world of jangly guitars and harmonious vocals. Despite all that, what I resonated with the most was the bittersweet feeling that power pop songs carried in their sound. \nThis mix explores almost 3 decades of power pop, from the early 1970s with Big Star and ending in the late 1990s with Fountains of Wayne.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-angsty-teens-w-hamburgerlady-25th-june-2026"
-      },
-      {
-        "n": "(NO) ROOTS W/ TELLURIAN THOMAS",
-        "s": "2026-06-25T10:00:00+01:00",
-        "e": "2026-06-25T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "YL HOOI - My teenage music pt. 1",
         "s": "2026-06-25T11:00:00+01:00",
         "e": "2026-06-25T12:00:00+01:00",
-        "d": null,
+        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…\nFrom the host: \"Music I loved from 14yr -19yr pt. 1\"",
         "j": "My teenage music pt. 1",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-25th-june-2026",
         "t": "monthly",
         "p": "ylhooi"
       },
@@ -209,12 +185,12 @@
         "n": "Mountain Cry w/ Marylou - the heatwave special",
         "s": "2026-06-25T12:00:00+01:00",
         "e": "2026-06-25T13:00:00+01:00",
-        "d": null,
+        "d": "French selector Marylou invites us on a trip through genre-defying and cinematic selections, weaving ambient, dub, noise, traditional music, jazz dance, footwork and more, always guided by \"intuition and a soft refusal of codes.\".\nFrom the host: \"a selection of spiritual jazz , experimental & dub to elevate the soul and cool down temperatures.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/marylou/episodes/marylou-25th-june-2026"
       },
       {
-        "n": "Tough Clouds W/ AGATHE ROUSSELLE",
+        "n": "Tough Clouds w/ AGATHE ROUSSELLE",
         "s": "2026-06-25T13:00:00+01:00",
         "e": "2026-06-25T14:00:00+01:00",
         "d": null,
@@ -337,36 +313,33 @@
         "ap": [
           "screwbossradio"
         ]
+      },
+      {
+        "n": "Toxic Ranch w/ Slothrop",
+        "s": "2026-06-26T04:00:00+01:00",
+        "e": "2026-06-26T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "BLOOD BLOOM BLUR W/ YONGLIN",
+        "s": "2026-06-26T05:00:00+01:00",
+        "e": "2026-06-26T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "These Important Years",
+        "s": "2026-06-26T06:00:00+01:00",
+        "e": "2026-06-26T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "On Wax w/ Samuel Alexander",
-        "s": "2026-06-25T07:00:00Z",
-        "e": "2026-06-25T08:00:00Z",
-        "d": null,
-        "j": "Samuel Alexander",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "POSER",
-        "s": "2026-06-25T08:00:00Z",
-        "e": "2026-06-25T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "TRANSISTOR RHYTHMS",
-        "s": "2026-06-25T09:00:00Z",
-        "e": "2026-06-25T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Jordan Scudder",
         "s": "2026-06-25T10:00:00Z",
@@ -1229,13 +1202,40 @@
         "u": null,
         "t": "monthly",
         "p": "lauden"
+      },
+      {
+        "n": " In The Rotation w/ Su",
+        "s": "2026-07-02T08:00:00Z",
+        "e": "2026-07-02T09:00:00Z",
+        "d": null,
+        "j": "Su",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Adele Tondu",
+        "s": "2026-07-02T09:00:00Z",
+        "e": "2026-07-02T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "DIASPORA with Ben Fitzperc",
+        "s": "2026-07-02T10:00:00Z",
+        "e": "2026-07-02T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-25T06:00:00Z",
-        "e": "2026-06-25T08:00:00Z",
+        "s": "2026-06-25T10:00:00Z",
+        "e": "2026-06-25T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1243,8 +1243,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-06-25T08:00:00Z",
-        "e": "2026-06-25T10:00:00Z",
+        "s": "2026-06-25T12:00:00Z",
+        "e": "2026-06-25T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1669,36 +1669,14 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-06-25T06:00:00Z",
-        "e": "2026-06-25T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Yazmin Lacey",
-        "s": "2026-06-25T08:00:00Z",
-        "e": "2026-06-25T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
         "n": "Chunky",
         "s": "2026-06-25T10:00:00Z",
         "e": "2026-06-25T11:00:00Z",
         "d": null,
-        "j": "Reggie Crookes, conair, Dr Mystery & ThisGuy",
+        "j": "GUIDO, MAKO & RAKA ASHOK",
         "u": null,
         "t": "biweekly",
-        "p": "chunky",
-        "ap": [
-          "reggiecrookes"
-        ]
+        "p": "chunky"
       },
       {
         "n": "Rollo Jackson",
@@ -1715,7 +1693,7 @@
         "s": "2026-06-25T12:00:00Z",
         "e": "2026-06-25T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Erykah Badu Mix",
         "u": null,
         "t": "weekly",
         "p": "skvibemaker"
@@ -1932,15 +1910,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-06-25T07:00:00Z",
-        "e": "2026-06-25T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-06-25T10:00:00Z",
         "e": "2026-06-25T12:00:00Z",
         "d": null,
@@ -2054,7 +2023,7 @@
         "s": "2026-06-26T14:00:00Z",
         "e": "2026-06-26T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "\"Futur noir\" - Invite KAY B",
         "u": null
       },
       {
@@ -2091,7 +2060,7 @@
         "s": "2026-06-26T18:00:00Z",
         "e": "2026-06-26T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "INVITE MELAIEA",
         "u": null,
         "t": "monthly"
       },
