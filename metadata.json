@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-25T21:22:51.625Z",
+  "updated": "2026-06-25T23:08:49.849Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Picture",
-        "s": "2026-06-25T22:00:00+01:00",
-        "e": "2026-06-26T00:00:00+01:00",
-        "d": "Two hours of exploratory techno productions in a special guest mix from Århus’ own Natal Zaks aka Picture. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/picture-25th-june-2026"
-      },
       {
         "n": "DON'T TRIP W/ MARGARITA",
         "s": "2026-06-26T00:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "SPACE AFRIKA (R)",
         "s": "2026-06-26T02:00:00+01:00",
         "e": "2026-06-26T04:00:00+01:00",
-        "d": null,
+        "d": "Experimental ambience, dub, techno, and other crazy left shxt from Joshua Reid & Joshua Inyang, a.k.a Space Afrika… Please, enjoy.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/space-afrika/episodes/space-afrika-2nd-september-2025",
         "t": "restream",
         "p": "spaceafrika"
       },
@@ -170,35 +162,24 @@
         "u": null,
         "t": "restream",
         "p": "mobilegirl"
+      },
+      {
+        "n": "LATE NIGHT BILLIARDS",
+        "s": "2026-06-26T23:00:00+01:00",
+        "e": "2026-06-27T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Carlos René: Ardiente - Tropical discoteque",
-        "s": "2026-06-25T22:00:00+01:00",
-        "e": "2026-06-25T23:00:00+01:00",
-        "d": "Join us for monthly sessions with Carlos René, co-founder of Casa Calypso record shop in Mexico City. Carlos specializes in uncovering rare Latin American recordings and has a passion for a diverse range of genres, including cumbia, Latin funk, Mexican garage rock & psych, boogaloo, and other rare grooves. Let Carlos take you on a captivating musical journey through the vibrant sounds of Latin America that will keep you grooving any time of the day.\nFrom the host: \"Latin funk, tropical disco & groovy sounds from Mexico, Colombia, Perú & Spain.  Recorded from original vinyl.\"",
-        "j": "Ardiente - Tropical discoteque",
-        "u": "https://www.nts.live/api/v2/shows/carlos-rene/episodes/carlos-rene-25th-june-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "BUDGIE",
-        "s": "2026-06-25T23:00:00+01:00",
-        "e": "2026-06-26T00:00:00+01:00",
-        "d": "BUDGIE – serving up jazz, hip-hop, soul, beats & more from his sprawling record collection, once a month from our LA studio.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/budgie/episodes/budgie-25th-june-2026",
-        "t": "monthly",
-        "p": "budgie"
-      },
-      {
         "n": "Cold Pizza w/ Stud1nt (R)",
         "s": "2026-06-26T00:00:00+01:00",
         "e": "2026-06-26T01:00:00+01:00",
-        "d": null,
+        "d": "for you and me\nFrom the host: \"all for nothing\"",
         "j": "Stud1nt",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cold-pizza/episodes/cold-pizza-9th-april-2026",
         "t": "restream",
         "p": "coldpizza"
       },
@@ -206,9 +187,9 @@
         "n": "THE LARGE",
         "s": "2026-06-26T01:00:00+01:00",
         "e": "2026-06-26T02:00:00+01:00",
-        "d": null,
+        "d": "Joyful global club sounds with NYC via London party starter The Large\nFrom the host: \"hella new music from jamaica, south africa, brazil, mexico, colombia…\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-large/episodes/the-large-26th-june-2026",
         "t": "monthly",
         "p": "thelarge"
       },
@@ -335,18 +316,26 @@
         "j": null,
         "u": null,
         "p": "saraa"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Cue:Rated",
-        "s": "2026-06-25T21:00:00Z",
-        "e": "2026-06-25T23:00:00Z",
+        "n": "Ginkgo Records",
+        "s": "2026-06-26T19:00:00+01:00",
+        "e": "2026-06-26T20:00:00+01:00",
         "d": null,
-        "j": "Rated",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "High Noon: Play Misty For Me w/ Dina J",
+        "s": "2026-06-26T20:00:00+01:00",
+        "e": "2026-06-26T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Kutchi",
         "s": "2026-06-25T23:00:00Z",
@@ -1198,19 +1187,18 @@
         "j": "Kenzo",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Crawl Space w/ Stork",
+        "s": "2026-07-02T23:00:00Z",
+        "e": "2026-07-03T01:00:00Z",
+        "d": null,
+        "j": "Stork",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Apiento’s New Age Dance Show",
-        "s": "2026-06-25T21:00:00Z",
-        "e": "2026-06-25T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "apiento"
-      },
       {
         "n": "Nanny Cantalouope",
         "s": "2026-06-25T23:00:00Z",
@@ -1622,26 +1610,6 @@
     ],
     "rinse": [
       {
-        "n": "Lil Silva",
-        "s": "2026-06-25T21:00:00Z",
-        "e": "2026-06-25T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lilsilva"
-      },
-      {
-        "n": "Mixtress",
-        "s": "2026-06-25T22:00:00Z",
-        "e": "2026-06-25T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "mixtress"
-      },
-      {
         "n": "Chippy Nonstop",
         "s": "2026-06-25T23:00:00Z",
         "e": "2026-06-26T00:00:00Z",
@@ -1769,6 +1737,128 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "ANTIDOTO",
+        "s": "2026-06-26T23:00:00Z",
+        "e": "2026-06-27T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "antidoto"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-06-27T01:00:00Z",
+        "e": "2026-06-27T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Chamber45",
+        "s": "2026-06-27T05:00:00Z",
+        "e": "2026-06-27T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "chamber45"
+      },
+      {
+        "n": "Hi-Fidelity with Cafe 1001",
+        "s": "2026-06-27T10:00:00Z",
+        "e": "2026-06-27T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Counter Culture with Inverted Audio Record Store",
+        "s": "2026-06-27T12:00:00Z",
+        "e": "2026-06-27T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "counterculture"
+      },
+      {
+        "n": "Lupe Fuentes presents In The Loop",
+        "s": "2026-06-27T14:00:00Z",
+        "e": "2026-06-27T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "lupefuentes"
+      },
+      {
+        "n": "FIFI",
+        "s": "2026-06-27T15:00:00Z",
+        "e": "2026-06-27T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "fifi"
+      },
+      {
+        "n": "Douvelle19",
+        "s": "2026-06-27T16:00:00Z",
+        "e": "2026-06-27T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "douvelle19"
+      },
+      {
+        "n": "Cinthie",
+        "s": "2026-06-27T17:00:00Z",
+        "e": "2026-06-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "cinthie"
+      },
+      {
+        "n": "Tasha",
+        "s": "2026-06-27T19:00:00Z",
+        "e": "2026-06-27T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "tasha"
+      },
+      {
+        "n": "Ehua",
+        "s": "2026-06-27T20:00:00Z",
+        "e": "2026-06-27T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ehua"
+      },
+      {
+        "n": "Angel D'lite",
+        "s": "2026-06-27T21:00:00Z",
+        "e": "2026-06-27T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Cameo Blush",
+        "s": "2026-06-27T22:00:00Z",
+        "e": "2026-06-27T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "cameoblush"
       }
     ],
     "rinsefr": [
@@ -1800,69 +1890,65 @@
         "t": "playlist"
       },
       {
-        "n": "Broodoo Ramses",
+        "n": "Giorgi Pipia",
         "s": "2026-06-26T12:00:00Z",
-        "e": "2026-06-26T13:00:00Z",
+        "e": "2026-06-26T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "broodooramses"
+        "p": "giorgipipia"
       },
       {
-        "n": "Rinse France Guest Show",
-        "s": "2026-06-26T13:00:00Z",
-        "e": "2026-06-26T14:00:00Z",
-        "d": null,
-        "j": "Lo Nuestro",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Dann SSV",
+        "n": "Merca Bae",
         "s": "2026-06-26T14:00:00Z",
         "e": "2026-06-26T15:00:00Z",
         "d": null,
-        "j": "\"Futur noir\" - Invite KAY B",
+        "j": null,
         "u": null
       },
       {
-        "n": "Boukan Records",
+        "n": "King Doudou",
         "s": "2026-06-26T15:00:00Z",
         "e": "2026-06-26T16:00:00Z",
         "d": null,
-        "j": "invite Kontronatura",
+        "j": "Invite Gurafiku",
         "u": null,
-        "t": "biweekly",
-        "p": "boukanrecords"
+        "t": "monthly",
+        "p": "kingdoudou"
       },
       {
-        "n": "Ohjeelo",
+        "n": "Tomás Urquieta",
         "s": "2026-06-26T16:00:00Z",
         "e": "2026-06-26T17:00:00Z",
         "d": null,
-        "j": "Bougé Cho : Ohjeelo invite Eau Vive",
+        "j": "opalescent field special release",
         "u": null,
         "t": "monthly",
-        "p": "ohjeelo"
+        "p": "tomsurquieta"
       },
       {
-        "n": "rougail space program",
+        "n": "Coffintexts",
         "s": "2026-06-26T17:00:00Z",
         "e": "2026-06-26T18:00:00Z",
         "d": null,
-        "j": "invite Daviaa",
+        "j": "invite Marie Nyx",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "coffintexts",
+        "ap": [
+          "marienyx"
+        ]
       },
       {
-        "n": "ASIAN CORE",
+        "n": "POLAAR",
         "s": "2026-06-26T18:00:00Z",
         "e": "2026-06-26T19:00:00Z",
         "d": null,
-        "j": "INVITE MELAIEA",
+        "j": "Flore b2b Nahash at SAT Montreal",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "polaar"
       },
       {
         "n": "Playlist France",
@@ -1875,15 +1961,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "CENTURY EGG RADIO",
-        "s": "2026-06-25T21:00:00Z",
-        "e": "2026-06-25T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "SCAM LIKELY",
         "s": "2026-06-25T23:00:00Z",
@@ -2565,6 +2642,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Celluloid Mixtape",
+        "s": "2026-07-26T23:00:00Z",
+        "e": "2026-07-27T00:00:00Z",
+        "d": null,
+        "j": "Topazu",
+        "u": null,
+        "t": "monthly"
       }
     ]
   }
