@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-06-25T02:31:33.212Z",
+  "updated": "2026-06-25T07:35:58.009Z",
   "stations": {
     "nts1": [
       {
@@ -20469,6 +20469,41 @@
         "j": "MOLINARO",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Rắn Cạp Đuôi",
+        "s": "2026-06-25T03:00:00+01:00",
+        "e": "2026-06-25T04:00:00+01:00",
+        "d": "Traversing East and South East Asian contemporary music with Ho Chi Minh City crew Rắn Cạp Đuôi. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/ran-cap-duoi/episodes/ran-cap-duoi-25th-june-2026"
+      },
+      {
+        "n": "Women of Video Game Music: Capcom Sound Team (R)",
+        "s": "2026-06-25T04:00:00+01:00",
+        "e": "2026-06-25T05:00:00+01:00",
+        "d": "Often working on rudimentary and opaquely designed \"chiptune\" hardware, and asked to use pseudonyms to avoid the approaches of rival video game companies, the women of Capcom's seminal Sound Team composed a multitude of now iconic video game standards. \nThis one hour special covers everything from Manami Matsumae and Tamayo Kawamoto's work on early SNES classics such as Mega Man & No Way Home to Akari Kaida & Sayaka Fujita's contributions to the groundbreaking survival horror of Resident Evil & Dino Crisis",
+        "j": "Capcom Sound Team",
+        "u": "https://www.nts.live/api/v2/shows/women-of-video-game-music/episodes/women-of-video-game-music-capcom-sound-team-8th-march-2023",
+        "t": "restream"
+      },
+      {
+        "n": "Claire Milbrath - Halloween Special II (R)",
+        "s": "2026-06-25T05:00:00+01:00",
+        "e": "2026-06-25T06:00:00+01:00",
+        "d": null,
+        "j": "Halloween Special II",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Benedek (R)",
+        "s": "2026-06-25T06:00:00+01:00",
+        "e": "2026-06-25T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
@@ -36146,7 +36181,10 @@
         "d": "Limerick band Some Images of Paradise share an hour of selections in an hour long guest show, reflecting the eclectic reference points of their ambitious debut album “i expect the same of u”.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/guests/episodes/some-images-of-paradise-12th-may-2026",
-        "p": "paradise"
+        "p": "ofparadise",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "Basement Dreams W/ Salvatore",
@@ -44598,6 +44636,49 @@
         "j": null,
         "u": null,
         "p": "troth"
+      },
+      {
+        "n": "DISCOSTAN",
+        "s": "2026-06-25T03:00:00+01:00",
+        "e": "2026-06-25T04:00:00+01:00",
+        "d": "Past, present and future soundtracks from Beirut to Bangkok via Bombay.\nFrom the host: \"In honor of strange and beautiful summer nights, a selection of mostly Tamil hits from the 1980s.\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/discostan/episodes/discostan-25th-june-2026",
+        "t": "monthly",
+        "p": "discostan"
+      },
+      {
+        "n": "Abiu - Miles Davis: Remastered by Seigen Ono",
+        "s": "2026-06-25T04:00:00+01:00",
+        "e": "2026-06-25T05:00:00+01:00",
+        "d": "Tokyo-based DJ & composer Abiu taking you to a higher state, playing tracks from across the house axis.\nFrom the host: \"Japanese recording engineer, mastering engineer, music producer, composer, and spatial audio designer Seigen Ono has remastered these Miles Davis recordings especially for Abiu. We hope you enjoy this opportunity to rediscover the electric period of Miles Davis.\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/abiu/episodes/abiu-25th-june-2026"
+      },
+      {
+        "n": "THE HEAD ZONE W/ RIPLEY JOHNSON",
+        "s": "2026-06-25T05:00:00+01:00",
+        "e": "2026-06-25T06:00:00+01:00",
+        "d": null,
+        "j": "RIPLEY JOHNSON",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Me @ 19 w/ MikRo.wav",
+        "s": "2026-06-25T06:00:00+01:00",
+        "e": "2026-06-25T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Lonely in Gorgeous w/ pururinda",
+        "s": "2026-06-25T07:00:00+01:00",
+        "e": "2026-06-25T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -67455,6 +67536,33 @@
         "j": "Simge",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Night Wanderings w/ Stourm",
+        "s": "2026-06-25T02:00:00Z",
+        "e": "2026-06-25T03:00:00Z",
+        "d": null,
+        "j": "Stourm",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-06-25T03:00:00Z",
+        "e": "2026-06-25T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Insider Trading w/ APOLLO",
+        "s": "2026-06-25T06:00:00Z",
+        "e": "2026-06-25T07:00:00Z",
+        "d": null,
+        "j": "APOLLO",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -83135,6 +83243,34 @@
         "u": null,
         "t": "monthly",
         "p": "tottie"
+      },
+      {
+        "n": "Addae – Safe in Sound",
+        "s": "2026-06-25T01:00:00Z",
+        "e": "2026-06-25T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "addae"
+      },
+      {
+        "n": "Father/Daughter Funk Hour",
+        "s": "2026-06-25T03:00:00Z",
+        "e": "2026-06-25T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Change of Heart",
+        "s": "2026-06-25T05:00:00Z",
+        "e": "2026-06-25T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
@@ -99015,7 +99151,10 @@
         "d": null,
         "j": "Paul P & Silent Era",
         "u": null,
-        "p": "paradise"
+        "p": "ofparadise",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "Of Paradise",
@@ -99024,7 +99163,10 @@
         "d": null,
         "j": "Hünter",
         "u": null,
-        "p": "paradise"
+        "p": "ofparadise",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "Of Paradise",
@@ -99033,7 +99175,10 @@
         "d": null,
         "j": "Soreab",
         "u": null,
-        "p": "paradise"
+        "p": "ofparadise",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "Of Paradise",
@@ -99042,7 +99187,10 @@
         "d": null,
         "j": "Mercy System",
         "u": null,
-        "p": "paradise"
+        "p": "ofparadise",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "Of Paradise",
@@ -99051,7 +99199,10 @@
         "d": null,
         "j": "KROTONE",
         "u": null,
-        "p": "paradise"
+        "p": "ofparadise",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "DJ RED",
@@ -99356,7 +99507,10 @@
         "d": null,
         "j": "KROTONE",
         "u": null,
-        "p": "paradise"
+        "p": "ofparadise",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "Playlist",
@@ -102900,6 +103054,25 @@
         "u": null,
         "t": "biweekly",
         "p": "momaready"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-06-25T01:00:00Z",
+        "e": "2026-06-25T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Breaka",
+        "s": "2026-06-25T05:00:00Z",
+        "e": "2026-06-25T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "breaka"
       }
     ],
     "rinsefr": [
@@ -109107,7 +109280,10 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "paradise"
+        "p": "ofparadise",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "Ellen Allien",
@@ -114342,7 +114518,7 @@
       {
         "n": "Playlist France",
         "s": "2026-06-24T19:00:00Z",
-        "e": "2026-06-24T20:00:00Z",
+        "e": "2026-06-25T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -122005,6 +122181,24 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "LET'S GO SWIMMING",
+        "s": "2026-06-25T02:00:00Z",
+        "e": "2026-06-25T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TIMMY LOVED JUDAS PRIEST",
+        "s": "2026-06-25T04:00:00Z",
+        "e": "2026-06-25T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "sutro": [
@@ -122897,6 +123091,26 @@
         "u": null,
         "t": "biweekly",
         "p": "zz"
+      },
+      {
+        "n": "Notes of Moss",
+        "s": "2026-06-25T02:00:00Z",
+        "e": "2026-06-25T03:00:00Z",
+        "d": null,
+        "j": "ZZ",
+        "u": null,
+        "t": "biweekly",
+        "p": "zz"
+      },
+      {
+        "n": "Out of Order",
+        "s": "2026-06-25T03:00:00Z",
+        "e": "2026-06-25T05:00:00Z",
+        "d": null,
+        "j": "Aepricity",
+        "u": null,
+        "t": "monthly",
+        "p": "aepricity"
       }
     ]
   }
