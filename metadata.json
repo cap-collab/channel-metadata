@@ -1,44 +1,36 @@
 {
   "v": 2,
-  "updated": "2026-06-26T07:42:35.561Z",
+  "updated": "2026-06-26T10:43:45.029Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
-        "s": "2026-06-26T07:00:00+01:00",
-        "e": "2026-06-26T09:00:00+01:00",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": "JACK ROLLO",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-26th-june-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "The NTS Breakfast Show w/ Macca",
-        "s": "2026-06-26T09:00:00+01:00",
-        "e": "2026-06-26T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-macca-26th-june-2026",
-        "p": "macca"
-      },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
         "s": "2026-06-26T11:00:00+01:00",
         "e": "2026-06-26T13:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "SCARY THINGS",
         "u": null,
+        "p": "scarythings",
+        "t": "weekly"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SCARY THINGS",
+        "s": "2026-06-26T11:10:00+01:00",
+        "e": "2026-06-26T13:00:00+01:00",
+        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
+        "j": "SCARY THINGS",
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-26th-june-2026",
+        "t": "weekly",
         "p": "scarythings"
       },
       {
-        "n": "PUM PUM POWER HOUR W/ LIL C",
+        "n": "NTS GUIDE TO: G-FUNK VOL. 3 (R)",
         "s": "2026-06-26T13:00:00+01:00",
         "e": "2026-06-26T14:00:00+01:00",
-        "d": null,
-        "j": "LIL C",
-        "u": null,
-        "t": "biweekly",
-        "p": "lilc"
+        "d": "Laid back G-Funk sounds for another edition of this guide to.",
+        "j": "G-FUNK VOL. 3",
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-g-funk-vol3-2nd-january-2024",
+        "t": "restream"
       },
       {
         "n": "FREEWATER W/ MINORA",
@@ -126,7 +118,7 @@
         "p": "mobilegirl"
       },
       {
-        "n": "LATE NIGHT BILLIARDS",
+        "n": "LATE NIGHT BILLIARDS w/ Joan Trip",
         "s": "2026-06-26T23:00:00+01:00",
         "e": "2026-06-27T00:00:00+01:00",
         "d": null,
@@ -170,49 +162,43 @@
         "j": "Japanese '70s Folk Special",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Fervent Moon (R)",
+        "s": "2026-06-27T07:00:00+01:00",
+        "e": "2026-06-27T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "ferventmoon"
+      },
+      {
+        "n": "YOUARELISTENING.TO",
+        "s": "2026-06-27T08:00:00+01:00",
+        "e": "2026-06-27T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "BOGOTÁ 2017-2019 W/ buenosdiaz",
-        "s": "2026-06-26T08:00:00+01:00",
-        "e": "2026-06-26T09:00:00+01:00",
-        "d": "noisy, hectic, melancholic and like a fist to your face. \na selection of releases from 2017-2019 from growing up in bogotá during one of the greatest DIY/Indie scene waves. \nsongs about messy teenage love, smoking in parks and social and political commentary, enjoy :)",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-bogota-2017-2019-w-buenosdiaz-26th-june-2026"
-      },
-      {
-        "n": "IPS Mix w/ Ipsoolka",
-        "s": "2026-06-26T09:00:00+01:00",
-        "e": "2026-06-26T10:00:00+01:00",
-        "d": "This mix combines the feeling of freedom and childhood. You are sitting in front of the computer screen again and exploring the vastness of the Internet, stumbling upon unusual, mysterious and frightening video clips with sounds that will leave their mark on your future musical taste.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-ips-mix-w-ipsoolka-26th-june-2026"
-      },
-      {
-        "n": "Crawley to Camden w/ Charlie Croft",
-        "s": "2026-06-26T10:00:00+01:00",
-        "e": "2026-06-26T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "In Focus: Richard Pinhas",
         "s": "2026-06-26T11:00:00+01:00",
         "e": "2026-06-26T13:00:00+01:00",
-        "d": null,
+        "d": "This episode of In Focus looks back at the discography of French guitarist and electronic composer Richard Pinhas. A former philosophy student of Gilles Deleuze, Pinhas channelled continental thought, science fiction and Fripp-inspired guitar into a singular catalogue spanning prog, kosmische, industrial electronics and noise. Take a trip through his 70s space-rock experiments fronting Heldon, solo synth pieces and late-career collaborations with Merzbow, Oren Ambarchi, Pascal Comelade and more.\nMixed & compiled by Sofay. ",
         "j": "Richard Pinhas",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-richard-pinhas-26th-june-2026",
         "t": "weekly"
       },
       {
         "n": "CAROLINA SOUL - FUNK WILL SAVE THE WORLD",
         "s": "2026-06-26T13:00:00+01:00",
         "e": "2026-06-26T15:00:00+01:00",
-        "d": null,
+        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
         "j": "FUNK WILL SAVE THE WORLD",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-26th-june-2026",
         "t": "monthly"
       },
       {
@@ -235,7 +221,7 @@
         "p": "drycleaning"
       },
       {
-        "n": "OLIVIA O",
+        "n": "OLIVIA O w/ Truman Sinclair",
         "s": "2026-06-26T17:00:00+01:00",
         "e": "2026-06-26T18:00:00+01:00",
         "d": null,
@@ -330,37 +316,36 @@
         "u": null,
         "t": "restream",
         "p": "eyedress"
+      },
+      {
+        "n": "Image Search (R)",
+        "s": "2026-06-27T07:00:00+01:00",
+        "e": "2026-06-27T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "imagesearch"
+      },
+      {
+        "n": "OMICHIVE'S BOOKSHELF (R)",
+        "s": "2026-06-27T08:00:00+01:00",
+        "e": "2026-06-27T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "I WAS A TEENAGE ARMCHAIR HONVED FAN",
+        "s": "2026-06-27T09:00:00+01:00",
+        "e": "2026-06-27T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "ling linh",
-        "s": "2026-06-26T07:00:00Z",
-        "e": "2026-06-26T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "linglinh"
-      },
-      {
-        "n": "B-HIND",
-        "s": "2026-06-26T08:00:00Z",
-        "e": "2026-06-26T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "op99 / late dawn ",
-        "s": "2026-06-26T09:00:00Z",
-        "e": "2026-06-26T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " Household",
         "s": "2026-06-26T10:00:00Z",
@@ -1184,13 +1169,42 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "L.J. Violet",
+        "s": "2026-07-03T08:00:00Z",
+        "e": "2026-07-03T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "violet"
+      },
+      {
+        "n": "Mid Morning Matters w/ Alfie Danger",
+        "s": "2026-07-03T09:00:00Z",
+        "e": "2026-07-03T10:00:00Z",
+        "d": null,
+        "j": "Alfie Danger",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Reggie Crookes",
+        "s": "2026-07-03T10:00:00Z",
+        "e": "2026-07-03T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "reggiecrookes"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-26T07:00:00Z",
-        "e": "2026-06-26T09:00:00Z",
+        "s": "2026-06-26T09:00:00Z",
+        "e": "2026-06-26T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1198,8 +1212,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-06-26T09:00:00Z",
-        "e": "2026-06-26T11:00:00Z",
+        "s": "2026-06-26T11:00:00Z",
+        "e": "2026-06-26T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1598,24 +1612,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-06-26T06:00:00Z",
-        "e": "2026-06-26T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Breakfast with IG Culture",
-        "s": "2026-06-26T08:00:00Z",
-        "e": "2026-06-26T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-06-26T10:00:00Z",
         "e": "2026-06-26T13:00:00Z",
@@ -1813,15 +1809,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-06-26T07:00:00Z",
-        "e": "2026-06-26T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-06-26T10:00:00Z",
         "e": "2026-06-26T12:00:00Z",
         "d": null,
@@ -1994,15 +1981,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-06-26T05:00:00Z",
-        "e": "2026-06-26T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "MILES PER HOUR",
         "s": "2026-06-26T10:00:00Z",
