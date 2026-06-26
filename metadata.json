@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-26T21:13:06.995Z",
+  "updated": "2026-06-26T22:58:58.304Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOBILEGIRL (R)",
-        "s": "2026-06-26T22:00:00+01:00",
-        "e": "2026-06-26T23:00:00+01:00",
-        "d": "Live for a guest hour, Berlin-based DJ mobilegirl plays some all time favourite references.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/mobilegirl-15th-february-2024",
-        "t": "restream",
-        "p": "mobilegirl"
-      },
       {
         "n": "LATE NIGHT BILLIARDS w/ Joan Trip",
         "s": "2026-06-26T23:00:00+01:00",
@@ -25,9 +15,9 @@
         "n": "SKYAPNEA W/ MIKA OKI (R)",
         "s": "2026-06-27T00:00:00+01:00",
         "e": "2026-06-27T02:00:00+01:00",
-        "d": null,
+        "d": "Broken club, dubbed out sounds, experimental electronics and atonal drifts: Gio’s monthly broadcasts are high contrast assemblages that move at a slow pace.\nFrom the host: \"This month my friend Mika joins me with a wonderful guest mix, as usual in the second half of the show.\"",
         "j": "MIKA OKI",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/skyapnea/episodes/skyapnea-16th-february-2026",
         "t": "restream",
         "p": "skyapnea"
       },
@@ -173,18 +163,18 @@
         "u": null,
         "t": "restream",
         "p": "panoramayerevan"
+      },
+      {
+        "n": "CLAIRO (R)",
+        "s": "2026-06-28T02:00:00+01:00",
+        "e": "2026-06-28T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "Machines of Loving Grace w/ Mico Nonet",
-        "s": "2026-06-26T22:00:00+01:00",
-        "e": "2026-06-26T23:00:00+01:00",
-        "d": "Midwife’s multi-instrumentalist and recording engineer Madeline Johnston presents “Machines of Loving Grace,” a monthly transmission featuring her new finds and old favorites with a focus on the golden age of DIY community, cosmic sentimentalism, world music, and experimental pop. “Machines of Loving Grace” is a gateway into Johnston’s process and personal soundtrack. Inspired by the Richard Brautigan poem, Midwife’s curated playlists explore the idea of “a cybernetic ecology;” acoustic and electronic sources reflect on our humanity as well as our animalistic nature in the context of a digital landscape.\nFrom the host: \"Ambient chamber music with vintage synths and principal orchestra members. Songs from Mico Nonet's The Cardboard Falcoln and The Marmalade Balloon. More info here: https://www.micononet.com/\"",
-        "j": "Mico Nonet",
-        "u": "https://www.nts.live/api/v2/shows/midwife/episodes/midwife-26th-june-2026",
-        "t": "monthly"
-      },
       {
         "n": "Cry Later - Maysa Special w/ Tropic of Cancer",
         "s": "2026-06-26T23:00:00+01:00",
@@ -199,9 +189,9 @@
         "n": "Bump City w/ Billy Goods & Yamagucci",
         "s": "2026-06-27T00:00:00+01:00",
         "e": "2026-06-27T02:00:00+01:00",
-        "d": null,
+        "d": "Funkmosphere resident Billy Goods heads up a 2 hour slot with James Yamagucci - all vinyl, all live and direct from our LA studio.\nFrom the host: \"Bump City 066 Mix - 2 hours of signature sounds to ride to with residents Yamagucci & Billy Goods.\"",
         "j": "Billy Goods & Yamagucci",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/billy-goods/episodes/billy-goods-27th-june-2026",
         "t": "monthly"
       },
       {
@@ -335,18 +325,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "WAVE FORM W/ AURÉLIEN ARBET & PIERRE ROUSSEAU (R)",
+        "s": "2026-06-27T18:00:00+01:00",
+        "e": "2026-06-27T19:00:00+01:00",
+        "d": null,
+        "j": "AURÉLIEN ARBET & PIERRE ROUSSEAU",
+        "u": null,
+        "t": "restream",
+        "p": "waveform"
       }
     ],
     "subtle": [
-      {
-        "n": "Bin b2b Shfoosja",
-        "s": "2026-06-26T21:00:00Z",
-        "e": "2026-06-26T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "bin"
-      },
       {
         "n": "NARA",
         "s": "2026-06-26T22:00:00Z",
@@ -467,6 +458,14 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Dubruvvas",
+        "s": "2026-06-27T16:00:00Z",
+        "e": "2026-06-27T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "DJ SK",
@@ -1335,6 +1334,16 @@
         "p": "motorist"
       },
       {
+        "n": "RERUN: Juneteenth with Juke Bounce Werk",
+        "s": "2026-06-28T03:00:00Z",
+        "e": "2026-06-28T05:00:00Z",
+        "d": null,
+        "j": "Juneteenth with Juke Bounce Werk",
+        "u": null,
+        "t": "restream",
+        "p": "jukebouncewerk"
+      },
+      {
         "n": "djjs",
         "s": "2026-06-28T12:00:00Z",
         "e": "2026-06-28T14:00:00Z",
@@ -1411,26 +1420,6 @@
         "ap": [
           "ianwellman"
         ]
-      },
-      {
-        "n": "Hoseh - Version Sounds",
-        "s": "2026-06-30T23:00:00Z",
-        "e": "2026-07-01T01:00:00Z",
-        "d": null,
-        "j": "Version Sounds",
-        "u": null,
-        "t": "weekly",
-        "p": "hoseh"
-      },
-      {
-        "n": "Echo Park Film Center - Optical Track",
-        "s": "2026-07-01T03:00:00Z",
-        "e": "2026-07-01T05:00:00Z",
-        "d": null,
-        "j": "Optical Track",
-        "u": null,
-        "t": "weekly",
-        "p": "echoparkfilmcenter"
       },
       {
         "n": "in plain sight radio",
@@ -1605,16 +1594,6 @@
     ],
     "rinse": [
       {
-        "n": "Nyra",
-        "s": "2026-06-26T21:00:00Z",
-        "e": "2026-06-26T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "nyra"
-      },
-      {
         "n": "CONDUCTA",
         "s": "2026-06-26T22:00:00Z",
         "e": "2026-06-26T23:00:00Z",
@@ -1749,15 +1728,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-06-26T19:00:00Z",
-        "e": "2026-06-27T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-06-27T07:00:00Z",
         "e": "2026-06-27T10:00:00Z",
         "d": null,
@@ -1790,7 +1760,8 @@
         "e": "2026-06-27T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "King Doudou",
@@ -1799,7 +1770,7 @@
         "d": null,
         "j": "Invite Gurafiku",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "kingdoudou"
       },
       {
