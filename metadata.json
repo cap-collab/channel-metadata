@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-27T11:24:33.060Z",
+  "updated": "2026-06-27T13:13:29.241Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ROSS ALLEN",
-        "s": "2026-06-27T12:00:00+01:00",
-        "e": "2026-06-27T14:00:00+01:00",
-        "d": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ross-allen/episodes/ross-allen-27th-june-2026",
-        "t": "biweekly",
-        "p": "rossallen"
-      },
       {
         "n": "TARZSA Presents Micaela",
         "s": "2026-06-27T14:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
         "s": "2026-06-27T15:00:00+01:00",
         "e": "2026-06-27T17:00:00+01:00",
-        "d": null,
+        "d": "Long time record collector and purveyor of fine musical flavours Mr. Pedro cooks up a banquet of aural delights every other week: afrobeat to disco and more, time to liven up. ",
         "j": "MR PEDRO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-extended-play-sessions/episodes/the-extended-play-sessions-27th-june-2026",
         "t": "biweekly"
       },
       {
@@ -175,43 +165,34 @@
         "j": "Post Punk In Dub Vol. 2",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "High Hopes w/ Liz Johnson Artur",
+        "s": "2026-06-28T12:00:00+01:00",
+        "e": "2026-06-28T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Nordic Archive w/ Sara Parkman & Mats Erlandsson",
-        "s": "2026-06-27T12:00:00+01:00",
-        "e": "2026-06-27T13:00:00+01:00",
-        "d": "Stockholm-based musicians and composers Sara Parkman and Mats Erlandsson return with an hour of old and contemporary traditional music from the Nordic countries.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nordic-archive-w-sara-parkman-mats-erlandsson-27th-june-2026"
-      },
-      {
-        "n": "JUNE MCDOOM (R)",
-        "s": "2026-06-27T13:00:00+01:00",
-        "e": "2026-06-27T14:00:00+01:00",
-        "d": "New York based neo-folk songwriter June McDoom takes over for regular trips into vintage folk, reggae, soul, experimental sounds and more.\nFrom the host: \"Snowbound in New York.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/june-mcdoom/episodes/june-mcdoom-20th-february-2026",
-        "t": "restream",
-        "p": "junemcdoom"
-      },
-      {
         "n": "YOUTH",
         "s": "2026-06-27T14:00:00+01:00",
         "e": "2026-06-27T15:00:00+01:00",
-        "d": null,
+        "d": "Andrew Lyster's YOUTH takes over the NTS airwaves live from MO6B in Stockport once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/youth/episodes/youth-27th-june-2026",
+        "t": "monthly",
         "p": "youth"
       },
       {
         "n": "Kat Duma",
         "s": "2026-06-27T15:00:00+01:00",
         "e": "2026-06-27T16:00:00+01:00",
-        "d": null,
+        "d": "Toronto based Belgrade born songwriter Kat Duma released her sophomore album “Lullaby” last month - she shares an hour of current favourites and inspirations for the record in a guest session. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/kat-duma-27th-june-2026"
       },
       {
         "n": "CheckMate",
@@ -342,27 +323,28 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "KRISTIN KONTROL PRESENTS: OUT OF VOGUE (R)",
+        "s": "2026-06-28T09:00:00+01:00",
+        "e": "2026-06-28T10:00:00+01:00",
+        "d": null,
+        "j": "OUT OF VOGUE",
+        "u": null,
+        "t": "restream",
+        "p": "kristinkontrol"
+      },
+      {
+        "n": "IN FOCUS: ALICE COLTRANE (R)",
+        "s": "2026-06-28T10:00:00+01:00",
+        "e": "2026-06-28T12:00:00+01:00",
+        "d": null,
+        "j": "ALICE COLTRANE",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Solid Moves w/ Sophia & Ronaldo",
-        "s": "2026-06-27T11:00:00Z",
-        "e": "2026-06-27T12:00:00Z",
-        "d": null,
-        "j": "Sophia & Ronaldo",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-06-27T12:00:00Z",
-        "e": "2026-06-27T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Collectors' Cuts",
         "s": "2026-06-27T13:00:00Z",
@@ -1176,6 +1158,25 @@
         "j": "Roots & Dubs",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Live & Direct w/ Hannah",
+        "s": "2026-07-04T12:00:00Z",
+        "e": "2026-07-04T13:00:00Z",
+        "d": "Live & Direct is the show that promises to make you dance and make you laugh, with your fave tunes that make you go 'Rahhh ain't hear this in time' and all the cheesy jokes from me, Hannah :) Lock in for the sickest guests and the most relatable stories about daily slips and hilarious situations I find myself in.",
+        "j": "Hannah",
+        "u": "https://www.subtleradio.com/artists/live-direct-w-hannah/",
+        "t": "biweekly",
+        "p": "hannah"
+      },
+      {
+        "n": "soltura",
+        "s": "2026-07-04T13:00:00Z",
+        "e": "2026-07-04T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1700,15 +1701,6 @@
     ],
     "rinse": [
       {
-        "n": "Hi-Fidelity with Cafe 1001",
-        "s": "2026-06-27T10:00:00Z",
-        "e": "2026-06-27T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Counter Culture with Inverted Audio Record Store",
         "s": "2026-06-27T12:00:00Z",
         "e": "2026-06-27T14:00:00Z",
@@ -1942,15 +1934,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-06-27T10:00:00Z",
-        "e": "2026-06-27T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Giorgi Pipia",
         "s": "2026-06-27T12:00:00Z",
@@ -2243,15 +2226,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-06-27T04:00:00Z",
-        "e": "2026-06-27T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "DON BOY 718 SPORTS",
         "s": "2026-06-27T12:00:00Z",
