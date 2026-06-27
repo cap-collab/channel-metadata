@@ -1,20 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-27T09:56:55.529Z",
+  "updated": "2026-06-27T11:24:33.060Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA & Ri Mistry",
-        "s": "2026-06-27T10:00:00+01:00",
-        "e": "2026-06-27T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-27th-june-2026",
-        "p": "macca",
-        "ap": [
-          "rimistry"
-        ]
-      },
       {
         "n": "ROSS ALLEN",
         "s": "2026-06-27T12:00:00+01:00",
@@ -29,9 +17,10 @@
         "n": "TARZSA Presents Micaela",
         "s": "2026-06-27T14:00:00+01:00",
         "e": "2026-06-27T15:00:00+01:00",
-        "d": null,
+        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-27th-june-2026",
+        "t": "monthly",
         "p": "tarzsa"
       },
       {
@@ -177,41 +166,33 @@
         "ap": [
           "theahd"
         ]
+      },
+      {
+        "n": "NTS Guide to: Post Punk In Dub Vol. 2",
+        "s": "2026-06-28T10:00:00+01:00",
+        "e": "2026-06-28T12:00:00+01:00",
+        "d": null,
+        "j": "Post Punk In Dub Vol. 2",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "Boys Bleed Too w/ Crizia",
-        "s": "2026-06-27T10:00:00+01:00",
-        "e": "2026-06-27T11:00:00+01:00",
-        "d": "Deep cuts by women in rock’n’roll, garage punk, and lo-fi, mostly from the 2000s onward. Full of lipstick, attitude, and refusal to become somebody’s good girl. For all the rock’n’rollers still carrying a teenager inside.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/coming-of-age/episodes/coming-of-age-boys-bleed-too-w-crizia-24th-june-2026"
-      },
-      {
-        "n": "ROUGH VERSION W/ Tori Wranes",
-        "s": "2026-06-27T11:00:00+01:00",
-        "e": "2026-06-27T12:00:00+01:00",
-        "d": "Francesca Gavin talks to contemporary artists about their work, music, and the relationships between. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rough-version/episodes/rough-version-27th-june-2026",
-        "p": "roughversion"
-      },
-      {
         "n": "Nordic Archive w/ Sara Parkman & Mats Erlandsson",
         "s": "2026-06-27T12:00:00+01:00",
         "e": "2026-06-27T13:00:00+01:00",
-        "d": null,
+        "d": "Stockholm-based musicians and composers Sara Parkman and Mats Erlandsson return with an hour of old and contemporary traditional music from the Nordic countries.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/nordic-archive-w-sara-parkman-mats-erlandsson-27th-june-2026"
       },
       {
         "n": "JUNE MCDOOM (R)",
         "s": "2026-06-27T13:00:00+01:00",
         "e": "2026-06-27T14:00:00+01:00",
-        "d": null,
+        "d": "New York based neo-folk songwriter June McDoom takes over for regular trips into vintage folk, reggae, soul, experimental sounds and more.\nFrom the host: \"Snowbound in New York.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/june-mcdoom/episodes/june-mcdoom-20th-february-2026",
         "t": "restream",
         "p": "junemcdoom"
       },
@@ -343,28 +324,27 @@
         "u": null,
         "t": "restream",
         "p": "postgeography"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Dun Roamin w/ Tomi From Brockley",
-        "s": "2026-06-27T09:00:00Z",
-        "e": "2026-06-27T10:00:00Z",
-        "d": null,
-        "j": "Tomi From Brockley",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": " Afroasis",
-        "s": "2026-06-27T10:00:00Z",
-        "e": "2026-06-27T11:00:00Z",
+        "n": "THE WITCHING HOUR (R)",
+        "s": "2026-06-28T07:00:00+01:00",
+        "e": "2026-06-28T08:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "afroasis"
+        "t": "restream"
       },
+      {
+        "n": "80s Rampwalk (R)",
+        "s": "2026-06-28T08:00:00+01:00",
+        "e": "2026-06-28T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Solid Moves w/ Sophia & Ronaldo",
         "s": "2026-06-27T11:00:00Z",
@@ -373,6 +353,15 @@
         "j": "Sophia & Ronaldo",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-06-27T12:00:00Z",
+        "e": "2026-06-27T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Collectors' Cuts",
@@ -1178,18 +1167,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Matty Banton - Roots & Dubs",
+        "s": "2026-07-04T10:00:00Z",
+        "e": "2026-07-04T11:00:00Z",
+        "d": null,
+        "j": "Roots & Dubs",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-06-27T09:00:00Z",
-        "e": "2026-06-27T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-06-27T11:00:00Z",
@@ -1698,21 +1687,20 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-07-04T11:00:00Z",
+        "e": "2026-07-04T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
       {
-        "n": "FYI Robyn",
-        "s": "2026-06-27T08:00:00Z",
-        "e": "2026-06-27T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "fyirobyn"
-      },
-      {
-        "n": "Dean Bryce",
+        "n": "Hi-Fidelity with Cafe 1001",
         "s": "2026-06-27T10:00:00Z",
         "e": "2026-06-27T12:00:00Z",
         "d": null,
@@ -1721,64 +1709,76 @@
         "t": "biweekly"
       },
       {
-        "n": "Dance Regular",
+        "n": "Counter Culture with Inverted Audio Record Store",
         "s": "2026-06-27T12:00:00Z",
         "e": "2026-06-27T14:00:00Z",
         "d": null,
-        "j": "Conduit Sound & LILA",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "danceregular",
-        "ap": [
-          "lila"
-        ]
+        "p": "counterculture"
       },
       {
-        "n": "Roska",
+        "n": "Lupe Fuentes presents In The Loop",
         "s": "2026-06-27T14:00:00Z",
+        "e": "2026-06-27T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lupefuentes"
+      },
+      {
+        "n": "FIFI",
+        "s": "2026-06-27T15:00:00Z",
         "e": "2026-06-27T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "roska"
+        "p": "fifi"
       },
       {
-        "n": "Flyo",
+        "n": "Douvelle19",
         "s": "2026-06-27T16:00:00Z",
         "e": "2026-06-27T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "flyo"
+        "p": "douvelle19"
       },
       {
-        "n": "Plastician",
+        "n": "Cinthie",
         "s": "2026-06-27T17:00:00Z",
         "e": "2026-06-27T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "plastician"
+        "t": "monthly",
+        "p": "cinthie"
       },
       {
-        "n": "Oblig",
+        "n": "Tasha",
         "s": "2026-06-27T19:00:00Z",
         "e": "2026-06-27T20:00:00Z",
         "d": null,
-        "j": "Hannah",
+        "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "hannah",
-        "ap": [
-          "oblig"
-        ]
+        "t": "biweekly",
+        "p": "tasha"
       },
       {
-        "n": "Left, Right & Centre",
+        "n": "Ehua",
         "s": "2026-06-27T20:00:00Z",
+        "e": "2026-06-27T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ehua"
+      },
+      {
+        "n": "Angel D'lite",
+        "s": "2026-06-27T21:00:00Z",
         "e": "2026-06-27T22:00:00Z",
         "d": null,
         "j": null,
@@ -1786,14 +1786,14 @@
         "t": "biweekly"
       },
       {
-        "n": "Nala Brown",
+        "n": "Cameo Blush",
         "s": "2026-06-27T22:00:00Z",
         "e": "2026-06-27T23:00:00Z",
         "d": null,
-        "j": "Brutuzz",
+        "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "nalabrown"
+        "p": "cameoblush"
       },
       {
         "n": "IsGwan",
@@ -1905,7 +1905,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
+        "t": "monthly",
         "p": "plastician"
       },
       {
@@ -1928,7 +1928,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "Nala Brown",
@@ -1942,15 +1942,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-06-27T07:00:00Z",
-        "e": "2026-06-27T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-06-27T10:00:00Z",
