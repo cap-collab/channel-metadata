@@ -1,51 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-06-27T22:56:07.168Z",
+  "updated": "2026-06-28T02:38:33.298Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BLACK IMPULSE W/ VACUUM",
-        "s": "2026-06-27T22:00:00+01:00",
-        "e": "2026-06-28T00:00:00+01:00",
-        "d": "From 10 till midnight, Black Impulse’s shows are packed with transatlantic camaraderie and a distortion heavy stroll though metal, noise, gutter garage, trash blues, prog, hardcore, hip-hop, free jazz and anything else.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/black-impulse/episodes/black-impulse-27th-june-2026",
-        "p": "blackimpulse"
-      },
-      {
-        "n": "Diddy Wah w/ Gabriel Olivier Hernandez",
-        "s": "2026-06-28T00:00:00+01:00",
-        "e": "2026-06-28T01:00:00+01:00",
-        "d": "Adam digs deep into his box of 45s and pulls out a wild selection of 1950s and '60s blues, surf, rockabilly, R&B, gospel, garage, soul and rock'n'roll.\nFrom The Host: \"Gabriel from the Human Fly mag dropped by again to chat about issue #3, the upcoming issue launch at the Old Bar, and The Cramps.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/diddywah/episodes/diddywah-28th-june-2026"
-      },
-      {
-        "n": "Panorama Yerevan (R)",
-        "s": "2026-06-28T01:00:00+01:00",
-        "e": "2026-06-28T02:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "panoramayerevan"
-      },
-      {
-        "n": "CLAIRO (R)",
-        "s": "2026-06-28T02:00:00+01:00",
-        "e": "2026-06-28T03:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Janie Jones (R)",
         "s": "2026-06-28T03:00:00+01:00",
         "e": "2026-06-28T04:00:00+01:00",
-        "d": null,
+        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-21st-april-2024",
         "t": "restream",
         "p": "janiejones"
       },
@@ -53,9 +17,9 @@
         "n": "AN1MA (R)",
         "s": "2026-06-28T04:00:00+01:00",
         "e": "2026-06-28T05:00:00+01:00",
-        "d": null,
+        "d": "integration sounds from the source; an invitation into the shadow.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-22nd-february-2023",
         "t": "restream"
       },
       {
@@ -172,53 +136,63 @@
         "u": null,
         "t": "monthly",
         "p": "loosebones"
+      },
+      {
+        "n": "THE REIGN SET",
+        "s": "2026-06-28T19:00:00+01:00",
+        "e": "2026-06-28T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
+        "s": "2026-06-28T20:00:00+01:00",
+        "e": "2026-06-28T22:00:00+01:00",
+        "d": null,
+        "j": "ERNESTO CHAHOUD",
+        "u": null,
+        "t": "monthly",
+        "p": "ernestochahoud"
+      },
+      {
+        "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
+        "s": "2026-06-28T22:00:00+01:00",
+        "e": "2026-06-29T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "midnightmarauders"
+      },
+      {
+        "n": "OTOLOGIC",
+        "s": "2026-06-29T00:00:00+01:00",
+        "e": "2026-06-29T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "otologic"
       }
     ],
     "nts2": [
       {
-        "n": "YU SU (R)",
-        "s": "2026-06-27T23:00:00+01:00",
-        "e": "2026-06-28T00:00:00+01:00",
-        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-31st-march-2026",
-        "t": "restream",
-        "p": "yusu"
-      },
-      {
-        "n": "DRIZLE.FM W/ PLO MAN (R)",
-        "s": "2026-06-28T00:00:00+01:00",
-        "e": "2026-06-28T02:00:00+01:00",
-        "d": "forwards and backwards through bits of a [mostly] electronic music timeline. reverence for BCR. records i’ve played forever and new records i’ve just found. boil it down. one z in drizle.",
-        "j": "PLO MAN",
-        "u": "https://www.nts.live/api/v2/shows/drizlefm-w-plo-man/episodes/drizlefm-w-plo-man-21st-august-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Séance Centre (R)",
-        "s": "2026-06-28T02:00:00+01:00",
-        "e": "2026-06-28T03:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "No Weapon Is Absolute (R)",
         "s": "2026-06-28T03:00:00+01:00",
         "e": "2026-06-28T04:00:00+01:00",
-        "d": null,
+        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-14th-december-2022",
         "t": "restream"
       },
       {
         "n": "SKYAPNEA (R)",
         "s": "2026-06-28T04:00:00+01:00",
         "e": "2026-06-28T06:00:00+01:00",
-        "d": null,
+        "d": "Broken club, dubbed out sounds, experimental electronics and atonal drifts: Gio’s monthly broadcasts are high contrast assemblages that move at a slow pace.\nFrom the host: \"This week’s show is an odd one for me because for the first time I’ve decided to use an edited recording of a set. in particular this is the set I performed at Fuori Festival in Spoleto last summer. The selection was pretty chilled and I felt like it would work nicely for the show.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/skyapnea/episodes/skyapnea-24th-november-2025",
         "t": "restream",
         "p": "skyapnea"
       },
@@ -337,46 +311,38 @@
         "j": "CZECH TEAROOM AMBIENT",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "TRINH - HERE, THERE & EVERYWHERE (R)",
+        "s": "2026-06-28T22:00:00+01:00",
+        "e": "2026-06-28T23:00:00+01:00",
+        "d": null,
+        "j": "HERE, THERE & EVERYWHERE",
+        "u": null,
+        "t": "restream",
+        "p": "trinh"
+      },
+      {
+        "n": "MUSIC TO RELAX W/ MYDREAMFEVER - 4. MOUNTAIN STILL BREATHING (R)",
+        "s": "2026-06-28T23:00:00+01:00",
+        "e": "2026-06-29T00:00:00+01:00",
+        "d": null,
+        "j": "MYDREAMFEVER",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ADVENTURES W/ CLARISSA CONNELLY (R)",
+        "s": "2026-06-29T00:00:00+01:00",
+        "e": "2026-06-29T01:00:00+01:00",
+        "d": null,
+        "j": "CLARISSA CONNELLY",
+        "u": null,
+        "t": "restream",
+        "p": "clarissaconnelly"
       }
     ],
     "subtle": [
-      {
-        "n": "Undercurrent / .CO.UK",
-        "s": "2026-06-27T21:00:00Z",
-        "e": "2026-06-27T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Sunday Bass Service w/ Raggo",
-        "s": "2026-06-27T23:00:00Z",
-        "e": "2026-06-28T00:00:00Z",
-        "d": null,
-        "j": "Raggo",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Breeze",
-        "s": "2026-06-28T00:00:00Z",
-        "e": "2026-06-28T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "breeze"
-      },
-      {
-        "n": "Bits Beats & Breaks w/ D.Mo",
-        "s": "2026-06-28T01:00:00Z",
-        "e": "2026-06-28T02:00:00Z",
-        "d": null,
-        "j": "D.Mo",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Evo",
         "s": "2026-06-28T02:00:00Z",
@@ -1145,28 +1111,46 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
-      {
-        "n": "Derelict - Damage Control",
-        "s": "2026-06-27T21:00:00Z",
-        "e": "2026-06-27T23:00:00Z",
-        "d": null,
-        "j": "Damage Control",
-        "u": null,
-        "t": "monthly",
-        "p": "derelict"
       },
       {
-        "n": "Jenn Zelmer - Thread the Needle",
-        "s": "2026-06-27T23:00:00Z",
-        "e": "2026-06-28T01:00:00Z",
+        "n": "Dread or Dead Records",
+        "s": "2026-07-04T23:00:00Z",
+        "e": "2026-07-05T00:00:00Z",
         "d": null,
-        "j": "Thread the Needle",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": " Phoebe's Playlist",
+        "s": "2026-07-05T00:00:00Z",
+        "e": "2026-07-05T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Polar Dance w/Winter Games",
+        "s": "2026-07-05T01:00:00Z",
+        "e": "2026-07-05T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "polardance"
+      },
+      {
+        "n": "dogofthemonth",
+        "s": "2026-07-05T02:00:00Z",
+        "e": "2026-07-05T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Motorist – Continuum",
         "s": "2026-06-28T01:00:00Z",
@@ -1656,39 +1640,33 @@
         "u": null,
         "t": "monthly",
         "p": "mmarz"
+      },
+      {
+        "n": "Callie Ryan - Storage Container",
+        "s": "2026-07-04T23:00:00Z",
+        "e": "2026-07-05T01:00:00Z",
+        "d": null,
+        "j": "Storage Container",
+        "u": null,
+        "t": "biweekly",
+        "p": "callieryan"
+      },
+      {
+        "n": "Andy Oro and Akumen - Made to Move",
+        "s": "2026-07-05T01:00:00Z",
+        "e": "2026-07-05T03:00:00Z",
+        "d": null,
+        "j": "Made to Move",
+        "u": null,
+        "t": "monthly",
+        "p": "akumen",
+        "ap": [
+          "andyoro",
+          "madetomove"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "Cameo Blush",
-        "s": "2026-06-27T22:00:00Z",
-        "e": "2026-06-27T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "cameoblush"
-      },
-      {
-        "n": "IsGwan",
-        "s": "2026-06-27T23:00:00Z",
-        "e": "2026-06-28T00:00:00Z",
-        "d": null,
-        "j": "PJ Bridger",
-        "u": null,
-        "t": "biweekly",
-        "p": "isgwan"
-      },
-      {
-        "n": "ANTIDOTO",
-        "s": "2026-06-28T00:00:00Z",
-        "e": "2026-06-28T01:00:00Z",
-        "d": null,
-        "j": "Dani BM",
-        "u": null,
-        "t": "monthly",
-        "p": "antidoto"
-      },
       {
         "n": "Playlist",
         "s": "2026-06-28T01:00:00Z",
@@ -1813,45 +1791,171 @@
         "u": null,
         "t": "biweekly",
         "p": "nalabrown"
+      },
+      {
+        "n": "NLDC",
+        "s": "2026-06-28T23:00:00Z",
+        "e": "2026-06-29T00:00:00Z",
+        "d": null,
+        "j": "Third Birthday Special",
+        "u": null
+      },
+      {
+        "n": "TEKLIFE",
+        "s": "2026-06-29T00:00:00Z",
+        "e": "2026-06-29T01:00:00Z",
+        "d": null,
+        "j": "MEL G",
+        "u": null,
+        "t": "biweekly",
+        "p": "mel",
+        "ap": [
+          "teklife"
+        ]
+      },
+      {
+        "n": "Kush Jones",
+        "s": "2026-06-29T01:00:00Z",
+        "e": "2026-06-29T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "kushjones"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-06-29T02:00:00Z",
+        "e": "2026-06-29T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Douvelle19",
+        "s": "2026-06-29T05:00:00Z",
+        "e": "2026-06-29T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "douvelle19"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-06-29T06:00:00Z",
+        "e": "2026-06-29T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Tim Garcia",
+        "s": "2026-06-29T08:00:00Z",
+        "e": "2026-06-29T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Ghost Phone",
+        "s": "2026-06-29T10:00:00Z",
+        "e": "2026-06-29T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ghostphone"
+      },
+      {
+        "n": "Interplanetary Criminal",
+        "s": "2026-06-29T11:00:00Z",
+        "e": "2026-06-29T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "interplanetarycriminal"
+      },
+      {
+        "n": "Eliza Rose",
+        "s": "2026-06-29T12:00:00Z",
+        "e": "2026-06-29T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "elizarose"
+      },
+      {
+        "n": "Wisdom Teeth",
+        "s": "2026-06-29T14:00:00Z",
+        "e": "2026-06-29T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "wisdomteeth"
+      },
+      {
+        "n": "Night Slugs",
+        "s": "2026-06-29T16:00:00Z",
+        "e": "2026-06-29T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "nightslugs"
+      },
+      {
+        "n": "Joe Milli",
+        "s": "2026-06-29T17:00:00Z",
+        "e": "2026-06-29T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "joemilli"
+      },
+      {
+        "n": "X CLUB.",
+        "s": "2026-06-29T18:00:00Z",
+        "e": "2026-06-29T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "PXSSY PALACE",
+        "s": "2026-06-29T20:00:00Z",
+        "e": "2026-06-29T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Mason Collective",
+        "s": "2026-06-29T21:00:00Z",
+        "e": "2026-06-29T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "collective",
+        "ap": [
+          "masoncollective"
+        ]
+      },
+      {
+        "n": "VNEE",
+        "s": "2026-06-29T22:00:00Z",
+        "e": "2026-06-29T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "vnee"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-27T22:00:00Z",
-        "e": "2026-06-27T23:00:00Z",
-        "d": null,
-        "j": "Lido Burrone",
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-27T23:00:00Z",
-        "e": "2026-06-28T00:00:00Z",
-        "d": null,
-        "j": "Manila Ice",
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-28T00:00:00Z",
-        "e": "2026-06-28T01:00:00Z",
-        "d": null,
-        "j": "Kaattchu (Babydoll)",
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-28T01:00:00Z",
-        "e": "2026-06-28T02:00:00Z",
-        "d": null,
-        "j": "Sempiona",
-        "u": null,
-        "p": "queercult"
-      },
       {
         "n": "Queer Cult Takeover",
         "s": "2026-06-28T02:00:00Z",
@@ -2029,23 +2133,221 @@
       {
         "n": "Queer Cult Takeover",
         "s": "2026-06-28T21:00:00Z",
-        "e": "2026-06-28T22:00:00Z",
+        "e": "2026-06-28T23:00:00Z",
         "d": null,
         "j": "Crustasex",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-28T23:00:00Z",
+        "e": "2026-06-29T00:00:00Z",
+        "d": null,
+        "j": "DJ Crybaby",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T00:00:00Z",
+        "e": "2026-06-29T01:00:00Z",
+        "d": null,
+        "j": "Juleeo B2B Nonsmash",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T01:00:00Z",
+        "e": "2026-06-29T02:00:00Z",
+        "d": null,
+        "j": "Monsieurmadam B2B Ekitwanda",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T02:00:00Z",
+        "e": "2026-06-29T03:00:00Z",
+        "d": null,
+        "j": "HAAi",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T03:00:00Z",
+        "e": "2026-06-29T04:00:00Z",
+        "d": null,
+        "j": "Ines Rau",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T04:00:00Z",
+        "e": "2026-06-29T05:00:00Z",
+        "d": null,
+        "j": "Vjuan Allure",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T05:00:00Z",
+        "e": "2026-06-29T06:00:00Z",
+        "d": null,
+        "j": "Studio Manager",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T06:00:00Z",
+        "e": "2026-06-29T07:00:00Z",
+        "d": null,
+        "j": "Erna B2B Egna",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T07:00:00Z",
+        "e": "2026-06-29T08:00:00Z",
+        "d": null,
+        "j": "Cernobori",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T08:00:00Z",
+        "e": "2026-06-29T09:00:00Z",
+        "d": null,
+        "j": "(LA)HORDE",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T09:00:00Z",
+        "e": "2026-06-29T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-06-29T10:00:00Z",
+        "e": "2026-06-29T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T11:00:00Z",
+        "e": "2026-06-29T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T12:00:00Z",
+        "e": "2026-06-29T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T13:00:00Z",
+        "e": "2026-06-29T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T14:00:00Z",
+        "e": "2026-06-29T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T15:00:00Z",
+        "e": "2026-06-29T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T16:00:00Z",
+        "e": "2026-06-29T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T17:00:00Z",
+        "e": "2026-06-29T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T18:00:00Z",
+        "e": "2026-06-29T19:00:00Z",
+        "d": null,
+        "j": "LOV",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T19:00:00Z",
+        "e": "2026-06-29T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T20:00:00Z",
+        "e": "2026-06-29T21:00:00Z",
+        "d": null,
+        "j": "Ariezzz",
+        "u": null,
+        "p": "queercult"
+      },
+      {
+        "n": "Queer Cult Takeover",
+        "s": "2026-06-29T21:00:00Z",
+        "e": "2026-06-29T22:00:00Z",
+        "d": null,
+        "j": "Jumer",
         "u": null,
         "p": "queercult"
       }
     ],
     "newtown": [
-      {
-        "n": "DISCO JUICE",
-        "s": "2026-06-27T22:00:00Z",
-        "e": "2026-06-28T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "WHATEVER RADIO",
         "s": "2026-06-28T01:00:00Z",
@@ -2550,6 +2852,16 @@
         "ap": [
           "occo"
         ]
+      },
+      {
+        "n": "Modern Speech",
+        "s": "2026-07-29T00:00:00Z",
+        "e": "2026-07-29T02:00:00Z",
+        "d": null,
+        "j": "Young Drums",
+        "u": null,
+        "t": "monthly",
+        "p": "youngdrums"
       }
     ]
   }
