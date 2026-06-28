@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-28T20:51:59.931Z",
+  "updated": "2026-06-28T22:55:35.621Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
-        "s": "2026-06-28T20:00:00+01:00",
-        "e": "2026-06-28T22:00:00+01:00",
-        "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
-        "j": "ERNESTO CHAHOUD",
-        "u": "https://www.nts.live/api/v2/shows/ernesto-chahoud/episodes/ernesto-chahoud-28th-june-2026",
-        "t": "monthly",
-        "p": "ernestochahoud"
-      },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO & DIVORCE FROM NEW YORK",
         "s": "2026-06-28T22:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "OTOLOGIC",
         "s": "2026-06-29T00:00:00+01:00",
         "e": "2026-06-29T02:00:00+01:00",
-        "d": null,
+        "d": "Australian duo Otologic traverse wave, post punk, outsider club & dubwise meanderings in constant delay.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/otologic/episodes/otologic-29th-june-2026",
         "t": "monthly",
         "p": "otologic"
       },
@@ -168,44 +158,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ORGAN TAPES",
+        "s": "2026-06-29T22:00:00+01:00",
+        "e": "2026-06-29T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "organtapes"
       }
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: CZECH TEAROOM AMBIENT (R)",
-        "s": "2026-06-28T21:00:00+01:00",
-        "e": "2026-06-28T22:00:00+01:00",
-        "d": "Tearooms in post-revolution Czechoslovakia symbolised places through which new spiritualities were flowing, and the influx of largely uncharted ways of life closely intertwined with new age, ambient, folk and minimalism. With their minds altered thanks to smuggled records by Fripp & Eno or Steve Reich, this loose network of musicians had begun composing meditative music, using loops and handmade instruments, with a different sensibility. Compared to the boisterous Zappa-adjacent and booze-soaked underground movement, which was led by Plastic People of the Universe and provoked the state authorities, this music was meant instead for tea rooms and spiritual sites like churches or monasteries, as if occupying some place where time flows anticlockwise. Music journalist Pavel Klusák dubbed this 1990s scene a “tearoom alternative”. Experimental folk singer Oldřich Janota, Jaroslav Kořán’s various ensembles like Modrá or Orloj Snivců (The Horologe of Dreamers) or Irena and Vojtěch Havlovi were drawn by the light and composed music that didn’t match the fast pace of newly imported capitalism.\nMix created by: Miloš Hroch",
-        "j": "CZECH TEAROOM AMBIENT",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-tearoom-ambient-16th-june-2025",
-        "t": "restream"
-      },
-      {
-        "n": "TRINH - HERE, THERE & EVERYWHERE (R)",
-        "s": "2026-06-28T22:00:00+01:00",
-        "e": "2026-06-28T23:00:00+01:00",
-        "d": "TRiNH - an hour of covers and nostalgic feels, playing a wide range of genres with a focus on L-O-V-E.\nFrom the host: \"Here, There & Everywhere…\"",
-        "j": "HERE, THERE & EVERYWHERE",
-        "u": "https://www.nts.live/api/v2/shows/trinh/episodes/trinh-16th-january-2026",
-        "t": "restream",
-        "p": "trinh"
-      },
-      {
         "n": "MUSIC TO RELAX W/ MYDREAMFEVER - 4. MOUNTAIN STILL BREATHING (R)",
         "s": "2026-06-28T23:00:00+01:00",
         "e": "2026-06-29T00:00:00+01:00",
-        "d": null,
+        "d": "Dreamlike shoegaze and distorted confessionals from Seoul’s anonymous underground wunderkind.\nFrom the host: \"I wanted to create music without learning a single guitar chord. This is the purest form I could make with a real instrument. The sound quality is very poor. Also the lyrics are in Vonlenska.\"",
         "j": "MYDREAMFEVER",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/parannoul/episodes/parannoul-14th-january-2026",
         "t": "restream"
       },
       {
         "n": "ADVENTURES W/ CLARISSA CONNELLY (R)",
         "s": "2026-06-29T00:00:00+01:00",
         "e": "2026-06-29T01:00:00+01:00",
-        "d": null,
+        "d": "Musical adventures.",
         "j": "CLARISSA CONNELLY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/clarissa-connelly/episodes/clarissa-connelly-20th-may-2025",
         "t": "restream",
         "p": "clarissaconnelly"
       },
@@ -339,22 +319,29 @@
         "u": null,
         "t": "monthly",
         "p": "smerz"
+      },
+      {
+        "n": "CLAIRE ROUSAY",
+        "s": "2026-06-29T17:00:00+01:00",
+        "e": "2026-06-29T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "clairerousay"
+      },
+      {
+        "n": "AMBIENT ABRACADABRA W/ SOFIE BIRCH",
+        "s": "2026-06-29T18:00:00+01:00",
+        "e": "2026-06-29T19:00:00+01:00",
+        "d": null,
+        "j": "SOFIE BIRCH",
+        "u": null,
+        "t": "monthly",
+        "p": "sofiebirch"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle.MIX_v4_FINAL w/ Celebrity Bitcrush & Guests",
-        "s": "2026-06-28T20:00:00Z",
-        "e": "2026-06-28T22:00:00Z",
-        "d": null,
-        "j": "Celebrity Bitcrush & Guests",
-        "u": null,
-        "t": "monthly",
-        "p": "guests",
-        "ap": [
-          "celebritybitcrush"
-        ]
-      },
       {
         "n": "Drusbă",
         "s": "2026-06-28T22:00:00Z",
@@ -363,6 +350,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-06-28T23:00:00Z",
+        "e": "2026-06-29T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Subspace presents: Polish Camel",
@@ -1141,18 +1137,28 @@
         "u": null,
         "t": "monthly",
         "p": "kitschko"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Flight Club",
-        "s": "2026-06-28T19:00:00Z",
-        "e": "2026-06-28T21:00:00Z",
+        "n": "Envelop",
+        "s": "2026-07-05T21:00:00Z",
+        "e": "2026-07-05T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Chacho",
+        "s": "2026-07-05T22:00:00Z",
+        "e": "2026-07-05T23:00:00Z",
+        "d": "As a drummer since childhood, Chacho has always had an insatiable appetite for new and unique beats.\r\nCombining his love of global percussion, dark grooves and deeper low end frequencies, \r\nhis sets feature a blend of dubstep, grime, garage, breaks, hip hop and other flavours from around the world.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "chacho"
+      }
+    ],
+    "dublab": [
       {
         "n": "Def Sound",
         "s": "2026-06-28T21:00:00Z",
@@ -1675,18 +1681,19 @@
         "u": null,
         "t": "monthly",
         "p": "marynagakawa"
+      },
+      {
+        "n": "Mas Exitos con Ganas",
+        "s": "2026-07-05T21:00:00Z",
+        "e": "2026-07-05T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ganas"
       }
     ],
     "rinse": [
-      {
-        "n": "Left, Right & Centre",
-        "s": "2026-06-28T20:00:00Z",
-        "e": "2026-06-28T22:00:00Z",
-        "d": null,
-        "j": "Korzi & Spinelli",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Nala Brown",
         "s": "2026-06-28T22:00:00Z",
@@ -1861,24 +1868,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-28T20:00:00Z",
-        "e": "2026-06-28T21:00:00Z",
-        "d": null,
-        "j": "Fallon",
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-28T21:00:00Z",
-        "e": "2026-06-28T23:00:00Z",
-        "d": null,
-        "j": "Crustasex",
-        "u": null,
-        "p": "queercult"
-      },
       {
         "n": "Queer Cult Takeover",
         "s": "2026-06-28T23:00:00Z",
@@ -2088,15 +2077,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "RADIO CLASH",
-        "s": "2026-06-28T20:00:00Z",
-        "e": "2026-06-28T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "BIG CATZ RADIO",
         "s": "2026-06-28T22:00:00Z",
