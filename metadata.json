@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-06-28T15:12:38.094Z",
+  "updated": "2026-06-28T16:59:13.445Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LEILA SAMIR",
-        "s": "2026-06-28T16:00:00+01:00",
-        "e": "2026-06-28T17:00:00+01:00",
-        "d": "London producer & DJ Leila Samir presents an hour every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/leila-samir/episodes/leila-samir-28th-june-2026",
-        "t": "monthly",
-        "p": "leilasamir"
-      },
       {
         "n": "LOOSE BONES",
         "s": "2026-06-28T17:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "THE REIGN SET",
         "s": "2026-06-28T19:00:00+01:00",
         "e": "2026-06-28T20:00:00+01:00",
-        "d": null,
+        "d": "DJ, vinyl archivist and presenter Gary The Tall’s show’s sole objective is to shine a light to the environs of outsider artists and their innovative endeavours where he unveils obscure post-punk, dub, synth, psychedelic rock and left-field cosmic excursions. \nFollow him on Instagram here ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/thereignset/episodes/thereignset-28th-june-2026",
         "t": "monthly"
       },
       {
@@ -62,13 +52,13 @@
         "p": "otologic"
       },
       {
-        "n": "DOWN AT THE END OF THE GARDEN W/ FLYING NUN RECORDS",
+        "n": "Down at the End of the Garden: Summertime in Aotearoa (R)",
         "s": "2026-06-29T02:00:00+01:00",
         "e": "2026-06-29T03:00:00+01:00",
         "d": null,
-        "j": "FLYING NUN RECORDS",
+        "j": "Summertime in Aotearoa",
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
       {
         "n": "GREAT SOUTHERN LANDS W/ JAMES W (R)",
@@ -170,17 +160,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-06-29T18:00:00+01:00",
+        "e": "2026-06-29T20:00:00+01:00",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
       }
     ],
     "nts2": [
-      {
-        "n": "Wonder Cabinet 3 Years w/ DJ DAR",
-        "s": "2026-06-28T15:40:00+01:00",
-        "e": "2026-06-28T16:40:00+01:00",
-        "d": "Sounds and recordings from resident artists at the Wonder Cabinet space in Cremisan Valley, Bethlehem.\nFrom the host: \"DJ DAR is the musical alias of Derrar Ghanem, a Palestinian DJ, selector, curator, and co-founder of UNION Collective, a community of DJs, artists, and music enthusiasts that helped organize electronic music events across Palestine. Emerging from Palestine’s electronic music community, his sets weave together deep, hypnotic rhythms, percussive textures, obscure discoveries, and unexpected musical connections. Known for thoughtful selections and long-form storytelling, DJ DAR builds journeys that move between dancefloor energy. He has appeared on Zawya Radio, The Lot Radio, Beatport, and platforms across Palestine and beyond.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-wonder-cabinet/episodes/the-wonder-cabinet-wonder-cabinet-3-years-w-dj-dar-28th-june-2026"
-      },
       {
         "n": "MAC DEMARCO (R)",
         "s": "2026-06-28T16:40:00+01:00",
@@ -194,9 +186,9 @@
         "n": "RAHILL (R)",
         "s": "2026-06-28T18:00:00+01:00",
         "e": "2026-06-28T20:00:00+01:00",
-        "d": null,
+        "d": "New York based artist and musician Rahill selects a monthly medley of picks from her record collection, rooted in US jazz, with soul, folk and international sounds.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rahill/episodes/rahill-13th-august-2025",
         "t": "restream",
         "p": "rahill"
       },
@@ -342,18 +334,18 @@
         "u": null,
         "t": "monthly",
         "p": "bloodzboi"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Dyls Dems",
-        "s": "2026-06-28T15:00:00Z",
-        "e": "2026-06-28T16:00:00Z",
+        "n": "Corin",
+        "s": "2026-06-29T12:00:00+01:00",
+        "e": "2026-06-29T13:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "p": "corin"
+      }
+    ],
+    "subtle": [
       {
         "n": "2Step Selects ",
         "s": "2026-06-28T16:00:00Z",
@@ -1152,18 +1144,18 @@
         "j": "eatmybeat",
         "u": "https://www.subtleradio.com/artists/extrasaus-w-eatmybeat/",
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs 2",
-        "s": "2026-06-28T14:00:00Z",
-        "e": "2026-06-28T16:00:00Z",
+        "n": "THEODORE",
+        "s": "2026-07-05T16:00:00Z",
+        "e": "2026-07-05T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Kenneth Bager - Music for Dreams",
         "s": "2026-06-28T16:00:00Z",
@@ -1677,19 +1669,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-07-05T16:00:00Z",
+        "e": "2026-07-05T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "Roska",
-        "s": "2026-06-28T14:00:00Z",
-        "e": "2026-06-28T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "roska"
-      },
       {
         "n": "Flyo",
         "s": "2026-06-28T16:00:00Z",
@@ -1715,13 +1707,10 @@
         "s": "2026-06-28T19:00:00Z",
         "e": "2026-06-28T20:00:00Z",
         "d": null,
-        "j": "Hannah",
+        "j": null,
         "u": null,
         "t": "weekly",
-        "p": "hannah",
-        "ap": [
-          "oblig"
-        ]
+        "p": "oblig"
       },
       {
         "n": "Left, Right & Centre",
@@ -1906,15 +1895,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-28T15:00:00Z",
-        "e": "2026-06-28T16:00:00Z",
-        "d": null,
-        "j": "Charleeps",
-        "u": null,
-        "p": "queercult"
-      },
       {
         "n": "Queer Cult Takeover",
         "s": "2026-06-28T16:00:00Z",
@@ -2178,15 +2158,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "VORTEX.FM",
-        "s": "2026-06-28T14:00:00Z",
-        "e": "2026-06-28T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "NUMBERS STATION",
         "s": "2026-06-28T16:00:00Z",
