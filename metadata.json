@@ -1,54 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-06-29T13:58:29.474Z",
+  "updated": "2026-06-29T16:52:04.939Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Melodies International w/ Seiji Ono",
-        "s": "2026-06-29T13:00:00+01:00",
-        "e": "2026-06-29T15:00:00+01:00",
-        "d": "From dusty crates and dingy basements to the NTS airwaves - reissue label Melodies International bring special, undiscovered, and beautiful records from across the world their show, every month. ",
-        "j": "Seiji Ono",
-        "u": "https://www.nts.live/api/v2/shows/melodies-international/episodes/melodies-international-seiji-ono-29th-june-2026",
-        "t": "monthly",
-        "p": "melodiesinternational"
-      },
-      {
-        "n": "System Olympia - \"Did I Dream It?\" w/ Daisybelle",
-        "s": "2026-06-29T15:00:00+01:00",
-        "e": "2026-06-29T16:00:00+01:00",
-        "d": "System Olympia joins us for an hour a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-29th-june-2026"
-      },
-      {
-        "n": "OHBLIV - Summer Special",
-        "s": "2026-06-29T16:00:00+01:00",
-        "e": "2026-06-29T17:00:00+01:00",
-        "d": null,
-        "j": "Summer Special",
-        "u": null,
-        "t": "monthly",
-        "p": "ohbliv"
-      },
       {
         "n": "ATHENS OF THE NORTH",
         "s": "2026-06-29T17:00:00+01:00",
         "e": "2026-06-29T18:00:00+01:00",
-        "d": null,
+        "d": "Edinburgh based party and reissue label present rarities and classics every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/athens-of-the-north/episodes/athens-of-the-north-29th-june-2026",
         "t": "monthly"
       },
       {
-        "n": "CLUB COCO w/ COCO MARIA",
+        "n": "CLUB COCO w/ Palo Santo Discos",
         "s": "2026-06-29T18:00:00+01:00",
         "e": "2026-06-29T20:00:00+01:00",
-        "d": null,
-        "j": "COCO MARIA",
-        "u": null,
-        "t": "weekly",
-        "p": "cocomaria"
+        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-29th-june-2026"
       },
       {
         "n": "SUNCUT",
@@ -93,6 +63,16 @@
         "u": null,
         "t": "monthly",
         "p": "suizhen"
+      },
+      {
+        "n": "MISSISSIPPI RECORDS (R)",
+        "s": "2026-06-30T03:00:00+01:00",
+        "e": "2026-06-30T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "mississippirecords"
       },
       {
         "n": "Music For Days Like These w/ John Talabot (R)",
@@ -168,35 +148,35 @@
         "j": null,
         "u": null,
         "p": "margeaux"
+      },
+      {
+        "n": "AWE W/ LAUREL HALO",
+        "s": "2026-06-30T16:00:00+01:00",
+        "e": "2026-06-30T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "laurelhalo"
+      },
+      {
+        "n": "FERGUS CLARK",
+        "s": "2026-06-30T17:00:00+01:00",
+        "e": "2026-06-30T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "fergusclark"
       }
     ],
     "nts2": [
       {
-        "n": "IN FOCUS: PORTISHEAD (R)",
-        "s": "2026-06-29T14:00:00+01:00",
-        "e": "2026-06-29T16:00:00+01:00",
-        "d": "Two hours of twilit and soulful sounds from the influential Bristol band Portishead. \nSelected by Dr. Mystery.",
-        "j": "PORTISHEAD",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-portishead-28th-february-2025",
-        "t": "restream"
-      },
-      {
-        "n": "SMERZ",
-        "s": "2026-06-29T16:00:00+01:00",
-        "e": "2026-06-29T17:00:00+01:00",
-        "d": "Henriette and Catharina of Smerz take over the NTS airwaves once a month with a selection of classical, folk, ambient, pop and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/smerz/episodes/smerz-29th-june-2026",
-        "t": "monthly",
-        "p": "smerz"
-      },
-      {
         "n": "CLAIRE ROUSAY",
         "s": "2026-06-29T17:00:00+01:00",
         "e": "2026-06-29T18:00:00+01:00",
-        "d": null,
+        "d": "Los Angeles producer & sound artist claire rousay journeys through healing plaintive electronics, quotidian field recordings & minimalist compositions.\nFrom the host: \"fascination with the spoken word, fidelity indifference, stuck in the past\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/claire-rousay/episodes/claire-rousay-29th-june-2026",
         "t": "monthly",
         "p": "clairerousay"
       },
@@ -204,9 +184,9 @@
         "n": "AMBIENT ABRACADABRA W/ SOFIE BIRCH",
         "s": "2026-06-29T18:00:00+01:00",
         "e": "2026-06-29T19:00:00+01:00",
-        "d": null,
+        "d": "Relaxing & spiritual sounds with Copenhagen-based composer & producer Sofie Birch.",
         "j": "SOFIE BIRCH",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sofie-birch/episodes/sofie-birch-29th-june-2026",
         "t": "monthly",
         "p": "sofiebirch"
       },
@@ -330,12 +310,32 @@
         "p": "dimensiondoor"
       },
       {
+        "n": "ELENA COLOMBI (R)",
+        "s": "2026-06-30T10:00:00+01:00",
+        "e": "2026-06-30T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "elenacolombi"
+      },
+      {
         "n": "Adults Play Radio",
         "s": "2026-06-30T11:00:00+01:00",
         "e": "2026-06-30T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "LUKID",
+        "s": "2026-06-30T12:00:00+01:00",
+        "e": "2026-06-30T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lukid"
       }
     ],
     "subtle": [
@@ -1269,18 +1269,37 @@
         "u": null,
         "t": "monthly",
         "p": "enable"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-06-29T13:00:00Z",
-        "e": "2026-06-29T15:00:00Z",
+        "n": "L!pi",
+        "s": "2026-07-06T14:00:00Z",
+        "e": "2026-07-06T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "A.N.T Below the Surface",
+        "s": "2026-07-06T15:00:00Z",
+        "e": "2026-07-06T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Drumphill",
+        "s": "2026-07-06T16:00:00Z",
+        "e": "2026-07-06T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "drumphill"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-06-29T15:00:00Z",
@@ -1830,28 +1849,19 @@
         "u": null,
         "t": "monthly",
         "p": "yves"
+      },
+      {
+        "n": "Thalma de Freitas – THALMA PLAYS BRASIL",
+        "s": "2026-07-06T15:00:00Z",
+        "e": "2026-07-06T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "thalmadefreitas"
       }
     ],
     "rinse": [
-      {
-        "n": "Eliza Rose",
-        "s": "2026-06-29T12:00:00Z",
-        "e": "2026-06-29T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "elizarose"
-      },
-      {
-        "n": "Wisdom Teeth",
-        "s": "2026-06-29T14:00:00Z",
-        "e": "2026-06-29T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "wisdomteeth"
-      },
       {
         "n": "Night Slugs",
         "s": "2026-06-29T16:00:00Z",
@@ -1889,7 +1899,7 @@
         "s": "2026-06-29T20:00:00Z",
         "e": "2026-06-29T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "OLUWA",
         "u": null
       },
       {
@@ -1920,7 +1930,7 @@
         "s": "2026-06-29T23:00:00Z",
         "e": "2026-06-30T00:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Balera",
         "u": null,
         "t": "monthly",
         "p": "clementaum"
@@ -2056,37 +2066,10 @@
     "rinsefr": [
       {
         "n": "Queer Cult Takeover",
-        "s": "2026-06-29T13:00:00Z",
-        "e": "2026-06-29T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-29T14:00:00Z",
-        "e": "2026-06-29T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-29T15:00:00Z",
-        "e": "2026-06-29T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Queer Cult Takeover",
         "s": "2026-06-29T16:00:00Z",
         "e": "2026-06-29T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Kennymphe",
         "u": null,
         "p": "queercult"
       },
@@ -2095,7 +2078,7 @@
         "s": "2026-06-29T17:00:00Z",
         "e": "2026-06-29T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Guyzin",
         "u": null,
         "p": "queercult"
       },
@@ -2104,7 +2087,7 @@
         "s": "2026-06-29T18:00:00Z",
         "e": "2026-06-29T19:00:00Z",
         "d": null,
-        "j": "LOV",
+        "j": "DJ Music",
         "u": null,
         "p": "queercult"
       },
@@ -2113,7 +2096,7 @@
         "s": "2026-06-29T19:00:00Z",
         "e": "2026-06-29T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Franssouax",
         "u": null,
         "p": "queercult"
       },
