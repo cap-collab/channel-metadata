@@ -1,42 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-06-29T08:50:21.474Z",
+  "updated": "2026-06-29T13:58:29.474Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-06-29T09:00:00+01:00",
-        "e": "2026-06-29T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-29th-june-2026",
-        "p": "flo"
-      },
-      {
-        "n": "Soup To Nuts w/ John Gómez",
-        "s": "2026-06-29T11:00:00+01:00",
-        "e": "2026-06-29T13:00:00+01:00",
-        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
-        "j": "John Gómez",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-29th-june-2026",
-        "t": "weekly"
-      },
       {
         "n": "Melodies International w/ Seiji Ono",
         "s": "2026-06-29T13:00:00+01:00",
         "e": "2026-06-29T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "From dusty crates and dingy basements to the NTS airwaves - reissue label Melodies International bring special, undiscovered, and beautiful records from across the world their show, every month. ",
+        "j": "Seiji Ono",
+        "u": "https://www.nts.live/api/v2/shows/melodies-international/episodes/melodies-international-seiji-ono-29th-june-2026",
+        "t": "monthly",
         "p": "melodiesinternational"
       },
       {
         "n": "System Olympia - \"Did I Dream It?\" w/ Daisybelle",
         "s": "2026-06-29T15:00:00+01:00",
         "e": "2026-06-29T16:00:00+01:00",
-        "d": null,
+        "d": "System Olympia joins us for an hour a month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-29th-june-2026"
       },
       {
         "n": "OHBLIV - Summer Special",
@@ -94,7 +77,7 @@
         "p": "organtapes"
       },
       {
-        "n": "ALL STYLES ALL SMILES",
+        "n": "ALL STYLES ALL SMILES w/ JAVYBZ & MARIA TERIAEVA",
         "s": "2026-06-30T00:00:00+01:00",
         "e": "2026-06-30T02:00:00+01:00",
         "d": null,
@@ -168,70 +151,42 @@
         "u": null,
         "t": "weekly",
         "p": "anu"
+      },
+      {
+        "n": "La Danza del Selector w/ backyardmango",
+        "s": "2026-06-30T13:00:00+01:00",
+        "e": "2026-06-30T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Self Soothe w/ Margeaux",
+        "s": "2026-06-30T15:00:00+01:00",
+        "e": "2026-06-30T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "margeaux"
       }
     ],
     "nts2": [
       {
-        "n": "Austral w/ AYLU (R)",
-        "s": "2026-06-29T09:00:00+01:00",
-        "e": "2026-06-29T10:00:00+01:00",
-        "d": "This episode is a special made from Basel, Switzerland. While I am on a residency from Pro-Helvetia, I watched for the first time an acoustic concert by Mercedes Sosa played in 1980 in Lugano, Switzerland. After being detained in 1978 while playing live in the city of La Plata, Argentina by the government during the last military coup, and receiving death threats, she exiled to France. This concert is a clear manifestation of her sadness and her longing for returning, while also expressing hope, love and faith in the wisdom of music. ",
-        "j": "AYLU",
-        "u": "https://www.nts.live/api/v2/shows/aylu/episodes/aylu-26th-may-2025",
-        "t": "restream",
-        "p": "aylu"
-      },
-      {
-        "n": "CLAIRE MILBRATH (R)",
-        "s": "2026-06-29T10:00:00+01:00",
-        "e": "2026-06-29T11:00:00+01:00",
-        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-13th-april-2026",
-        "t": "restream"
-      },
-      {
-        "n": "BLOODZ BOI",
-        "s": "2026-06-29T11:00:00+01:00",
-        "e": "2026-06-29T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "bloodzboi"
-      },
-      {
-        "n": "Corin",
-        "s": "2026-06-29T12:00:00+01:00",
-        "e": "2026-06-29T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "corin"
-      },
-      {
-        "n": "PAVEL MILYAKOV",
-        "s": "2026-06-29T13:00:00+01:00",
-        "e": "2026-06-29T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "PALESTINIAN SOUND ARCHIVE",
+        "n": "IN FOCUS: PORTISHEAD (R)",
         "s": "2026-06-29T14:00:00+01:00",
-        "e": "2026-06-29T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "e": "2026-06-29T16:00:00+01:00",
+        "d": "Two hours of twilit and soulful sounds from the influential Bristol band Portishead. \nSelected by Dr. Mystery.",
+        "j": "PORTISHEAD",
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-portishead-28th-february-2025",
+        "t": "restream"
       },
       {
         "n": "SMERZ",
         "s": "2026-06-29T16:00:00+01:00",
         "e": "2026-06-29T17:00:00+01:00",
-        "d": null,
+        "d": "Henriette and Catharina of Smerz take over the NTS airwaves once a month with a selection of classical, folk, ambient, pop and more.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/smerz/episodes/smerz-29th-june-2026",
         "t": "monthly",
         "p": "smerz"
       },
@@ -354,6 +309,33 @@
         "u": null,
         "t": "restream",
         "p": "chebmimo"
+      },
+      {
+        "n": "NTS Guide to: '60s Lebanese Beat, Garage Rock, and Yé Yé (R)",
+        "s": "2026-06-30T08:00:00+01:00",
+        "e": "2026-06-30T09:00:00+01:00",
+        "d": null,
+        "j": "'60s Lebanese Beat, Garage Rock, and Yé Yé",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Dimension Door (R)",
+        "s": "2026-06-30T09:00:00+01:00",
+        "e": "2026-06-30T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "dimensiondoor"
+      },
+      {
+        "n": "Adults Play Radio",
+        "s": "2026-06-30T11:00:00+01:00",
+        "e": "2026-06-30T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -808,14 +790,12 @@
         "t": "monthly"
       },
       {
-        "n": " Reggie Crookes",
+        "n": "Sounds of the Underground w/Missy T",
         "s": "2026-07-03T10:00:00Z",
         "e": "2026-07-03T11:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "reggiecrookes"
+        "u": null
       },
       {
         "n": "Red Can",
@@ -827,14 +807,12 @@
         "t": "monthly"
       },
       {
-        "n": "The Hybrid House Show",
+        "n": "BASS ZEALOTS",
         "s": "2026-07-03T12:00:00Z",
         "e": "2026-07-03T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "thehybridhouseshow"
+        "u": null
       },
       {
         "n": "Taking the Peel w/ Badly Drawn Banana",
@@ -1254,13 +1232,50 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Room Service",
+        "s": "2026-07-06T10:00:00Z",
+        "e": "2026-07-06T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Afro-Elected w/ IXYALA",
+        "s": "2026-07-06T11:00:00Z",
+        "e": "2026-07-06T12:00:00Z",
+        "d": null,
+        "j": "IXYALA",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "DINNERPLATEZ w/ KRETEKBOYZ ",
+        "s": "2026-07-06T12:00:00Z",
+        "e": "2026-07-06T13:00:00Z",
+        "d": null,
+        "j": "KRETEKBOYZ",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Enable",
+        "s": "2026-07-06T13:00:00Z",
+        "e": "2026-07-06T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "enable"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-06-29T07:00:00Z",
-        "e": "2026-06-29T09:00:00Z",
+        "s": "2026-06-29T13:00:00Z",
+        "e": "2026-06-29T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1268,8 +1283,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-06-29T09:00:00Z",
-        "e": "2026-06-29T11:00:00Z",
+        "s": "2026-06-29T15:00:00Z",
+        "e": "2026-06-29T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1819,33 +1834,6 @@
     ],
     "rinse": [
       {
-        "n": "Tim Garcia",
-        "s": "2026-06-29T08:00:00Z",
-        "e": "2026-06-29T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Ghost Phone",
-        "s": "2026-06-29T10:00:00Z",
-        "e": "2026-06-29T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "ghostphone"
-      },
-      {
-        "n": "Interplanetary Criminal",
-        "s": "2026-06-29T11:00:00Z",
-        "e": "2026-06-29T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "interplanetarycriminal"
-      },
-      {
         "n": "Eliza Rose",
         "s": "2026-06-29T12:00:00Z",
         "e": "2026-06-29T14:00:00Z",
@@ -1874,21 +1862,27 @@
         "p": "nightslugs"
       },
       {
-        "n": "Joe Milli",
+        "n": "Amaliah",
         "s": "2026-06-29T17:00:00Z",
         "e": "2026-06-29T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "joemilli"
+        "t": "monthly",
+        "p": "amaliah"
       },
       {
-        "n": "X CLUB.",
+        "n": "X CLUB. presents HIDE THE JUNK",
         "s": "2026-06-29T18:00:00Z",
         "e": "2026-06-29T20:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "B2B Notion",
+        "u": null,
+        "t": "monthly",
+        "p": "notion",
+        "ap": [
+          "xclub"
+        ]
       },
       {
         "n": "PXSSY PALACE",
@@ -1903,7 +1897,7 @@
         "s": "2026-06-29T21:00:00Z",
         "e": "2026-06-29T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "pres. The Whippin Show",
         "u": null,
         "t": "monthly",
         "p": "collective",
@@ -2060,51 +2054,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-29T08:00:00Z",
-        "e": "2026-06-29T09:00:00Z",
-        "d": null,
-        "j": "(LA)HORDE",
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-29T09:00:00Z",
-        "e": "2026-06-29T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-06-29T10:00:00Z",
-        "e": "2026-06-29T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-29T11:00:00Z",
-        "e": "2026-06-29T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "queercult"
-      },
-      {
-        "n": "Queer Cult Takeover",
-        "s": "2026-06-29T12:00:00Z",
-        "e": "2026-06-29T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "queercult"
-      },
       {
         "n": "Queer Cult Takeover",
         "s": "2026-06-29T13:00:00Z",
@@ -2409,17 +2358,7 @@
         ]
       }
     ],
-    "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-06-29T04:00:00Z",
-        "e": "2026-06-29T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      }
-    ],
+    "newtown": [],
     "sutro": [
       {
         "n": "Modern Speech",
