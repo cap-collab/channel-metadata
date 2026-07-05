@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-05T20:48:26.942Z",
+  "updated": "2026-07-05T22:53:36.881Z",
   "stations": {
     "nts1": [
-      {
-        "n": "IN FOCUS: BEACH HOUSE (R)",
-        "s": "2026-07-05T20:00:00+01:00",
-        "e": "2026-07-05T22:00:00+01:00",
-        "d": "Since first meeting in 2004 in Baltimore's independent rock scene, Victoria Legrand and Alex Scally's interplay as Beach House has explored and expanded the sonic possibilities of dream pop, from the charming lo-fi moods of their early releases to the expansive orchestration and electronic flourishes of later projects.",
-        "j": "BEACH HOUSE",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-beach-house-5th-march-2026",
-        "t": "restream"
-      },
       {
         "n": "Death Is Not The End - In Search of Revolutionary Voices: Early Mexican Recordings",
         "s": "2026-07-05T22:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "NTS GUIDE TO: QAWWALI (R)",
         "s": "2026-07-06T00:00:00+01:00",
         "e": "2026-07-06T01:00:00+01:00",
-        "d": null,
+        "d": "Qawwali is intended to act as a bridge towards the experience of Sufi mystical love; a shared experience where the use of religious chants and chanted poetry, build in energy and tempo to induce a trance-like, hypnotic state, affecting both the musicians and audience resulting in a captivating musical performance transcending cultural boundaries.\nFusing Persian, Arabic, Turkic and Indian traditions in the late 13th century, the creation of Qawwali is credited to the singer, musician, poet and scholar, Amir Khusrow\nSelected and mixed by Nāda Sonics",
         "j": "QAWWALI",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-qawwali-17th-november-2025",
         "t": "restream"
       },
       {
@@ -171,18 +162,18 @@
         "j": null,
         "u": null,
         "p": "bodymotion"
+      },
+      {
+        "n": "FRACTAL MEAT ON A SPONGY BONE",
+        "s": "2026-07-07T01:00:00+01:00",
+        "e": "2026-07-07T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "ORGANIC MUSIC TOKYO W/ CHEE SHIMIZU (R)",
-        "s": "2026-07-05T21:00:00+01:00",
-        "e": "2026-07-05T22:00:00+01:00",
-        "d": "The man behind Tokyo's revered Organic Music record store takes to the airwaves for a monthly 60 minute journey through his extensive collection…",
-        "j": "CHEE SHIMIZU",
-        "u": "https://www.nts.live/api/v2/shows/organic-music/episodes/organic-music-27th-march-2024",
-        "t": "restream"
-      },
       {
         "n": "CROSSED WIRES W/ AMANDA & CORINNE - IT'S COLD UP NORTH (R)",
         "s": "2026-07-05T22:00:00+01:00",
@@ -196,9 +187,9 @@
         "n": "BLUE TRIO RADIO W/ FULL BODY 2 (R)",
         "s": "2026-07-06T00:00:00+01:00",
         "e": "2026-07-06T01:00:00+01:00",
-        "d": null,
+        "d": "A regular hour from Philly-based digital shoegazers, Full Body 2 - made up of Cassidy Rose Hammond and Dylan Vaisey.",
         "j": "FULL BODY 2",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/full-body-2/episodes/full-body-2-9th-july-2025",
         "t": "restream",
         "p": "fullbody2"
       },
@@ -305,11 +296,11 @@
         "p": "malajunta"
       },
       {
-        "n": "ARCHIVED W/ ROTATIONAL",
+        "n": "Archived w/ Rotational - Street Kuduro 2",
         "s": "2026-07-06T16:00:00+01:00",
         "e": "2026-07-06T17:00:00+01:00",
         "d": null,
-        "j": "ROTATIONAL",
+        "j": "Rotational",
         "u": null,
         "t": "monthly",
         "p": "rotational"
@@ -341,28 +332,18 @@
         "j": null,
         "u": null,
         "p": "hd"
+      },
+      {
+        "n": "Get Grimy w/ Jamie 3:26",
+        "s": "2026-07-06T20:00:00+01:00",
+        "e": "2026-07-06T22:00:00+01:00",
+        "d": null,
+        "j": "Jamie 3",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Kitschko",
-        "s": "2026-07-05T20:00:00Z",
-        "e": "2026-07-05T21:00:00Z",
-        "d": "Born in Sunderland, based in London, Kitschko's productions and selections display a deep appreciation of UK club culture, and an affinity for late night, introspective sounds.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "kitschko"
-      },
-      {
-        "n": "Envelop",
-        "s": "2026-07-05T21:00:00Z",
-        "e": "2026-07-05T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Chacho",
         "s": "2026-07-05T22:00:00Z",
@@ -1535,19 +1516,27 @@
         "u": null,
         "t": "monthly",
         "p": "fkof"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Mary Nagakawa – Underscore",
-        "s": "2026-07-05T20:00:00Z",
-        "e": "2026-07-05T21:00:00Z",
+        "n": "VitalArea",
+        "s": "2026-07-12T21:00:00Z",
+        "e": "2026-07-12T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "marynagakawa"
+        "t": "monthly"
       },
+      {
+        "n": "Eva de Ree",
+        "s": "2026-07-12T22:00:00Z",
+        "e": "2026-07-12T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Mas Exitos con Ganas",
         "s": "2026-07-05T21:00:00Z",
@@ -2155,18 +2144,18 @@
         "u": null,
         "t": "monthly",
         "p": "beckyebenkamp"
+      },
+      {
+        "n": "Archivo13 - Escuchar al Istmo",
+        "s": "2026-07-12T21:00:00Z",
+        "e": "2026-07-12T23:00:00Z",
+        "d": null,
+        "j": "Escuchar al Istmo",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Logan Sama feat. Merky ACE",
-        "s": "2026-07-05T20:00:00Z",
-        "e": "2026-07-05T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "logansama"
-      },
       {
         "n": "Nancy June",
         "s": "2026-07-05T22:00:00Z",
@@ -2332,15 +2321,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-05T18:00:00Z",
-        "e": "2026-07-05T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-05T22:00:00Z",
