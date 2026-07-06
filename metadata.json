@@ -1,34 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-06T13:38:03.341Z",
+  "updated": "2026-07-06T16:47:41.199Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GOD'S WAITING ROOM W/ DAVID HOLMES",
-        "s": "2026-07-06T13:00:00+01:00",
-        "e": "2026-07-06T15:00:00+01:00",
-        "d": "God's Waiting Room: a round-about selection of the cinematic, library music, rock 'n' roll, psych, experimental, unclassifiable and independent. From the mind of DJ, producer and creator of original soundtracks, David Holmes. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/david-holmes/episodes/david-holmes-6th-july-2026",
-        "p": "davidholmes"
-      },
-      {
-        "n": "DONNA LEAKE",
-        "s": "2026-07-06T15:00:00+01:00",
-        "e": "2026-07-06T17:00:00+01:00",
-        "d": "Dive into Donna Leake's ever developing taste, drawing sounds from all over the globe and all over the clock including jazz, reggae and psych. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/donna-leake/episodes/donna-leake-6th-july-2026",
-        "t": "monthly",
-        "p": "donnaleake"
-      },
       {
         "n": "NAOMI ASA",
         "s": "2026-07-06T17:00:00+01:00",
         "e": "2026-07-06T18:00:00+01:00",
-        "d": null,
+        "d": "Naomi Asa on the NTS airwaves, delivering soothing soul and spiritual jazz. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/naomi-asaturyan/episodes/naomi-asaturyan-6th-july-2026",
         "t": "monthly",
         "p": "naomi"
       },
@@ -36,9 +17,9 @@
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-07-06T18:00:00+01:00",
         "e": "2026-07-06T20:00:00+01:00",
-        "d": null,
+        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
         "j": "COCO MARIA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-6th-july-2026",
         "t": "weekly",
         "p": "cocomaria"
       },
@@ -174,54 +155,42 @@
         "u": null,
         "t": "weekly",
         "p": "margeaux"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "LUKE MELE (R)",
-        "s": "2026-07-06T14:00:00+01:00",
-        "e": "2026-07-06T15:00:00+01:00",
-        "d": "Soft-touch home listening selections live from LA every month with Luke Mele. Traversing ambient, jazz, guitar tones and more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/luke-mele/episodes/luke-mele-11th-february-2026",
-        "t": "restream",
-        "p": "lukemele"
       },
       {
-        "n": "MALA JUNTA",
-        "s": "2026-07-06T15:00:00+01:00",
-        "e": "2026-07-06T16:00:00+01:00",
-        "d": "Monthly mixes and \"Bad behaviour\" from the crew behind Berlin's acclaimed Mala Junta parties. Expect throwback trance, souped up '90s basslines and party music of a high tempo flavour.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mala-junta/episodes/mala-junta-6th-july-2026",
-        "t": "monthly",
-        "p": "malajunta"
-      },
-      {
-        "n": "Archived w/ Rotational - Street Kuduro 2",
-        "s": "2026-07-06T16:00:00+01:00",
-        "e": "2026-07-06T17:00:00+01:00",
-        "d": null,
-        "j": "Rotational",
-        "u": null,
-        "t": "monthly",
-        "p": "rotational"
-      },
-      {
-        "n": "HIT A LICK RADIO w/ ALACARTE MUSIC",
-        "s": "2026-07-06T17:00:00+01:00",
-        "e": "2026-07-06T18:00:00+01:00",
+        "n": "WAVE FLOWER W/ YUKA MIZUHARA",
+        "s": "2026-07-07T16:00:00+01:00",
+        "e": "2026-07-07T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "NATIVE SOUNDSYSTEM W/ GILLIVND",
-        "s": "2026-07-06T18:00:00+01:00",
-        "e": "2026-07-06T19:00:00+01:00",
+        "n": "SNO",
+        "s": "2026-07-07T17:00:00+01:00",
+        "e": "2026-07-07T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
+        "p": "sno"
+      }
+    ],
+    "nts2": [
+      {
+        "n": "HIT A LICK RADIO w/ ALACARTE MUSIC",
+        "s": "2026-07-06T17:00:00+01:00",
+        "e": "2026-07-06T18:00:00+01:00",
+        "d": "Chester, PA’s DJ FINNAHITALICK (Blackwealth in the club) is a seasoned sound archivist of Underground Hip-hop. Starting Hit A Lick Radio in 2016, DJ FINNAHITALICK explores rap’s extensive subgenres and regional epicenters, ranging from DMV crank and Atlanta Plugg to Milwaukee low-end, Michigan punch-rap and beyond. His fast-paced mixes encapsulate Underground Hip-hop’s diverse landscape, and are not for the weak-hearted. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/hit-a-lick/episodes/hit-a-lick-6th-july-2026"
+      },
+      {
+        "n": "NATIVE SOUNDSYSTEM W/ GILLIVND",
+        "s": "2026-07-06T18:00:00+01:00",
+        "e": "2026-07-06T19:00:00+01:00",
+        "d": "Native Sound System join us once a month, breaking the latest sounds from Lagos",
+        "j": "GILLIVND",
+        "u": "https://www.nts.live/api/v2/shows/native-soundsystem/episodes/native-soundsystem-6th-july-2026",
+        "t": "monthly",
         "p": "nativesoundsystem"
       },
       {
@@ -344,37 +313,45 @@
         "j": "ASHA BHOSLE",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Imagine Soundtracks w/ redkoffee: Wings of Desire (R)",
+        "s": "2026-07-07T10:00:00+01:00",
+        "e": "2026-07-07T11:00:00+01:00",
+        "d": null,
+        "j": "redkoffee",
+        "u": null,
+        "t": "restream",
+        "p": "redkoffee"
+      },
+      {
+        "n": "NTS x DistroKid: City Signal w/ Lilith",
+        "s": "2026-07-07T11:00:00+01:00",
+        "e": "2026-07-07T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Phambinho",
+        "s": "2026-07-07T12:00:00+01:00",
+        "e": "2026-07-07T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "phambinho"
+      },
+      {
+        "n": "MARK LECKEY Presents Conditions",
+        "s": "2026-07-07T13:00:00+01:00",
+        "e": "2026-07-07T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "markleckey"
       }
     ],
     "subtle": [
-      {
-        "n": "Enable",
-        "s": "2026-07-06T13:00:00Z",
-        "e": "2026-07-06T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "enable"
-      },
-      {
-        "n": "L!pi",
-        "s": "2026-07-06T14:00:00Z",
-        "e": "2026-07-06T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "A.N.T Below the Surface",
-        "s": "2026-07-06T15:00:00Z",
-        "e": "2026-07-06T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Drumphill",
         "s": "2026-07-06T16:00:00Z",
@@ -1511,18 +1488,27 @@
         "u": null,
         "t": "monthly",
         "p": "louisselwyn"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-07-06T13:00:00Z",
-        "e": "2026-07-06T15:00:00Z",
+        "n": "Suga House",
+        "s": "2026-07-13T15:00:00Z",
+        "e": "2026-07-13T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "PADWICK",
+        "s": "2026-07-13T16:00:00Z",
+        "e": "2026-07-13T18:00:00Z",
+        "d": "Representing UK Bass Music Culture across a range of styles, sounds and tempos.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Thalma de Freitas – THALMA PLAYS BRASIL",
         "s": "2026-07-06T15:00:00Z",
@@ -2128,28 +2114,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Middle Pillar Sounds",
+        "s": "2026-07-13T15:00:00Z",
+        "e": "2026-07-13T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Charles Green",
-        "s": "2026-07-06T13:00:00Z",
-        "e": "2026-07-06T14:00:00Z",
-        "d": null,
-        "j": "Nu Skool Garage Special (2004-2008)",
-        "u": null,
-        "t": "biweekly",
-        "p": "charlesgreen"
-      },
-      {
-        "n": "Scratcha",
-        "s": "2026-07-06T14:00:00Z",
-        "e": "2026-07-06T16:00:00Z",
-        "d": null,
-        "j": "Marcus Nasty & Suspect",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Delilah",
         "s": "2026-07-06T16:00:00Z",
@@ -2165,7 +2141,7 @@
         "s": "2026-07-06T17:00:00Z",
         "e": "2026-07-06T18:00:00Z",
         "d": null,
-        "j": "lax",
+        "j": "Laksa",
         "u": null,
         "t": "monthly"
       },
@@ -2212,7 +2188,7 @@
         "s": "2026-07-06T23:00:00Z",
         "e": "2026-07-07T01:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Presents R&S Records Takeover with Antagonist, Subject 13 & Dharma",
         "u": null,
         "p": "oneman"
       },
@@ -2267,7 +2243,7 @@
         "s": "2026-07-07T12:00:00Z",
         "e": "2026-07-07T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "SOL SESSIONS with Deto Black",
         "u": null,
         "t": "biweekly",
         "p": "savannahblake"
@@ -2342,33 +2318,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Bloodsport",
-        "s": "2026-07-06T13:00:00Z",
-        "e": "2026-07-06T14:00:00Z",
-        "d": null,
-        "j": "invite ABUL3EES",
-        "u": null,
-        "p": "bloodsport"
-      },
-      {
-        "n": "Glitter55",
-        "s": "2026-07-06T14:00:00Z",
-        "e": "2026-07-06T15:00:00Z",
-        "d": null,
-        "j": "PRÉSENTE ATAY TIME AVEC KHTEK, THE X TOUR",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Rythme Brisé",
-        "s": "2026-07-06T15:00:00Z",
-        "e": "2026-07-06T16:00:00Z",
-        "d": null,
-        "j": "Ultrasoul Records Takeover",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Bambi",
         "s": "2026-07-06T16:00:00Z",
         "e": "2026-07-06T17:00:00Z",
@@ -2436,7 +2385,7 @@
         "s": "2026-07-07T13:00:00Z",
         "e": "2026-07-07T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Licence To Weed",
         "u": null,
         "t": "biweekly",
         "p": "izzylindqwister"
