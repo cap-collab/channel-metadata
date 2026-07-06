@@ -1,43 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-06T08:11:04.162Z",
+  "updated": "2026-07-06T13:38:03.341Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-07-06T09:00:00+01:00",
-        "e": "2026-07-06T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-6th-july-2026",
-        "t": "regular",
-        "p": "flo"
-      },
-      {
-        "n": "Soup To Nuts w/ John Gómez",
-        "s": "2026-07-06T11:00:00+01:00",
-        "e": "2026-07-06T13:00:00+01:00",
-        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
-        "j": "John Gómez",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-6th-july-2026",
-        "t": "weekly"
-      },
       {
         "n": "GOD'S WAITING ROOM W/ DAVID HOLMES",
         "s": "2026-07-06T13:00:00+01:00",
         "e": "2026-07-06T15:00:00+01:00",
-        "d": null,
+        "d": "God's Waiting Room: a round-about selection of the cinematic, library music, rock 'n' roll, psych, experimental, unclassifiable and independent. From the mind of DJ, producer and creator of original soundtracks, David Holmes. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/david-holmes/episodes/david-holmes-6th-july-2026",
         "p": "davidholmes"
       },
       {
         "n": "DONNA LEAKE",
         "s": "2026-07-06T15:00:00+01:00",
         "e": "2026-07-06T17:00:00+01:00",
-        "d": null,
+        "d": "Dive into Donna Leake's ever developing taste, drawing sounds from all over the globe and all over the clock including jazz, reggae and psych. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/donna-leake/episodes/donna-leake-6th-july-2026",
         "t": "monthly",
         "p": "donnaleake"
       },
@@ -62,6 +43,16 @@
         "p": "cocomaria"
       },
       {
+        "n": "Lloyd 'Musclehead' Saxon",
+        "s": "2026-07-06T20:00:00+01:00",
+        "e": "2026-07-06T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lloyd"
+      },
+      {
         "n": "BEACH NOIR W/ NICK LEÓN - Existential Grown & Sexy",
         "s": "2026-07-06T22:00:00+01:00",
         "e": "2026-07-06T23:00:00+01:00",
@@ -70,7 +61,7 @@
         "u": null
       },
       {
-        "n": "FURNITURE WITHOUT MEMORIES W/ LIVWUTANG",
+        "n": "FURNITURE WITHOUT MEMORIES W/ LIVWUTANG & Koku",
         "s": "2026-07-06T23:00:00+01:00",
         "e": "2026-07-07T00:00:00+01:00",
         "d": null,
@@ -156,14 +147,13 @@
         "p": "flo"
       },
       {
-        "n": "SOUP TO NUTS W/ ANU",
+        "n": "Soup To Nuts w/ Fergus Clark",
         "s": "2026-07-07T11:00:00+01:00",
         "e": "2026-07-07T13:00:00+01:00",
         "d": null,
-        "j": "ANU",
+        "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "anu"
+        "p": "fergusclark"
       },
       {
         "n": "PROSUMER",
@@ -174,53 +164,37 @@
         "u": null,
         "t": "monthly",
         "p": "prosumer"
+      },
+      {
+        "n": "Self Soothe w/ Margeaux",
+        "s": "2026-07-07T15:00:00+01:00",
+        "e": "2026-07-07T16:00:00+01:00",
+        "d": null,
+        "j": "Margeaux",
+        "u": null,
+        "t": "weekly",
+        "p": "margeaux"
       }
     ],
     "nts2": [
       {
-        "n": "ALICE COLTRANE SPECIAL: GOD'S CHILD IN THE MOTOR CITY: AN INTRODUCTION (R)",
-        "s": "2026-07-06T09:00:00+01:00",
-        "e": "2026-07-06T10:05:00+01:00",
-        "d": "This opening episode reflects on Alice Coltrane's earliest formative musical experiences. Detroit based harpist and multidisciplinary artist, Ahya Simone reads extracts and explores the chapter, ‘God's Child In The Motor City’, from the book ‘Monument Eternal: The Music of Alice Coltrane’ written by Professor Franya J. Berkman.\nThis show begins with a short introduction by Erin Christovale, the curator of the exhibition Alice Coltrane, Monument Eternal open from Feb 9 – May 4, 2025 at The Hammer Museum in LA.\nIn this 60 minute show, we delve into the musician’s early life as a church pianist and organist, highlighting her time as a progressive bebop musician, as well as her influences from jazz greats Ernest Farrow, Terry Pollard, Bud Powell and later, John Coltrane.\nThis special show is credited to the late Professor of Ethnomusicology Franya J. Berkman. Here is a link to Ms Berkman's book, ‘Monument Eternal: The Music of Alice Coltrane’ for anyone wishing to study and find out more.",
-        "j": "GOD'S CHILD IN THE MOTOR CITY: AN INTRODUCTION",
-        "u": "https://www.nts.live/api/v2/shows/alice-coltrane-special-2025/episodes/alice-coltrane-special-2025-god-s-child-in-the-motor-city-an-introduction-9th-february-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Alice Coltrane Special: Symrin Chawla (R)",
-        "s": "2026-07-06T10:05:00+01:00",
-        "e": "2026-07-06T11:00:00+01:00",
-        "d": "NTS resident, Symrin Chawla selects an hour of Hindustani classical raags, bhajans and thumris, sung by some of the most influential and experimental Indian female vocalists of the Gharana tradition - all making music before, during and after Alice Coltrane’s first visit to India.",
-        "j": "Symrin Chawla",
-        "u": "https://www.nts.live/api/v2/shows/alice-coltrane-special-2025/episodes/alice-coltrane-special-2025-symrin-chawla-9th-february-2025",
-        "t": "restream"
-      },
-      {
-        "n": "THE WONDER CABINET",
-        "s": "2026-07-06T11:00:00+01:00",
-        "e": "2026-07-06T12:00:00+01:00",
-        "d": null,
+        "n": "LUKE MELE (R)",
+        "s": "2026-07-06T14:00:00+01:00",
+        "e": "2026-07-06T15:00:00+01:00",
+        "d": "Soft-touch home listening selections live from LA every month with Luke Mele. Traversing ambient, jazz, guitar tones and more. ",
         "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "SKYAPNEA",
-        "s": "2026-07-06T12:00:00+01:00",
-        "e": "2026-07-06T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "skyapnea"
+        "u": "https://www.nts.live/api/v2/shows/luke-mele/episodes/luke-mele-11th-february-2026",
+        "t": "restream",
+        "p": "lukemele"
       },
       {
         "n": "MALA JUNTA",
         "s": "2026-07-06T15:00:00+01:00",
         "e": "2026-07-06T16:00:00+01:00",
-        "d": null,
+        "d": "Monthly mixes and \"Bad behaviour\" from the crew behind Berlin's acclaimed Mala Junta parties. Expect throwback trance, souped up '90s basslines and party music of a high tempo flavour.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mala-junta/episodes/mala-junta-6th-july-2026",
+        "t": "monthly",
         "p": "malajunta"
       },
       {
@@ -234,22 +208,20 @@
         "p": "rotational"
       },
       {
-        "n": "HIT A LICK RADIO",
+        "n": "HIT A LICK RADIO w/ ALACARTE MUSIC",
         "s": "2026-07-06T17:00:00+01:00",
         "e": "2026-07-06T18:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
-        "n": "NATIVE SOUNDSYSTEM W/ SHOLZ",
+        "n": "NATIVE SOUNDSYSTEM W/ GILLIVND",
         "s": "2026-07-06T18:00:00+01:00",
         "e": "2026-07-06T19:00:00+01:00",
         "d": null,
-        "j": "SHOLZ",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "nativesoundsystem"
       },
       {
@@ -345,54 +317,36 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "MUSIQUE TOPS (R)",
+        "s": "2026-07-07T06:00:00+01:00",
+        "e": "2026-07-07T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "babyschön (R)",
+        "s": "2026-07-07T07:00:00+01:00",
+        "e": "2026-07-07T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "IN FOCUS: ASHA BHOSLE (R)",
+        "s": "2026-07-07T08:00:00+01:00",
+        "e": "2026-07-07T10:00:00+01:00",
+        "d": null,
+        "j": "ASHA BHOSLE",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Lugovskiy",
-        "s": "2026-07-06T08:00:00Z",
-        "e": "2026-07-06T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-07-06T09:00:00Z",
-        "e": "2026-07-06T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Room Service",
-        "s": "2026-07-06T10:00:00Z",
-        "e": "2026-07-06T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Afro-Elected w/ IXYALA",
-        "s": "2026-07-06T11:00:00Z",
-        "e": "2026-07-06T12:00:00Z",
-        "d": null,
-        "j": "IXYALA",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DINNERPLATEZ w/ KRETEKBOYZ ",
-        "s": "2026-07-06T12:00:00Z",
-        "e": "2026-07-06T13:00:00Z",
-        "d": null,
-        "j": "KRETEKBOYZ",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Enable",
         "s": "2026-07-06T13:00:00Z",
@@ -1493,13 +1447,12 @@
         "t": "monthly"
       },
       {
-        "n": "Izzla",
+        "n": "K-SHA",
         "s": "2026-07-13T02:00:00Z",
         "e": "2026-07-13T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "5p3c141",
@@ -1520,22 +1473,51 @@
         "u": null,
         "t": "monthly",
         "p": "tribalismo"
+      },
+      {
+        "n": "syncop8",
+        "s": "2026-07-13T10:00:00Z",
+        "e": "2026-07-13T11:00:00Z",
+        "d": "ixxi and Fei take you on a percussive journey with their show syncop8, moving from downtempo ambient to breaks, polyrhythms, and high energy beats, exploring every rhythmic and textural nuance in between.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "lot five two",
+        "s": "2026-07-13T11:00:00Z",
+        "e": "2026-07-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lotfivetwo"
+      },
+      {
+        "n": "Bittersweet Sounds w/ Mass Hysteria",
+        "s": "2026-07-13T12:00:00Z",
+        "e": "2026-07-13T13:00:00Z",
+        "d": null,
+        "j": "Mass Hysteria",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Louis Selwyn",
+        "s": "2026-07-13T13:00:00Z",
+        "e": "2026-07-13T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "louisselwyn"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-06T07:00:00Z",
-        "e": "2026-07-06T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-07-06T09:00:00Z",
-        "e": "2026-07-06T11:00:00Z",
+        "s": "2026-07-06T13:00:00Z",
+        "e": "2026-07-06T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2150,44 +2132,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-06T06:00:00Z",
-        "e": "2026-07-06T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Tim Garcia",
-        "s": "2026-07-06T09:00:00Z",
-        "e": "2026-07-06T11:00:00Z",
-        "d": null,
-        "j": "Baba T",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Donsurf",
-        "s": "2026-07-06T11:00:00Z",
-        "e": "2026-07-06T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "donsurf"
-      },
-      {
-        "n": "Niall Smith",
-        "s": "2026-07-06T12:00:00Z",
-        "e": "2026-07-06T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "niallsmith"
-      },
-      {
         "n": "Charles Green",
         "s": "2026-07-06T13:00:00Z",
         "e": "2026-07-06T14:00:00Z",
@@ -2371,33 +2315,32 @@
       {
         "n": "DJ Lag",
         "s": "2026-07-07T18:00:00Z",
-        "e": "2026-07-07T19:00:00Z",
+        "e": "2026-07-07T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
         "p": "djlag"
+      },
+      {
+        "n": "Daniel Avery",
+        "s": "2026-07-07T20:00:00Z",
+        "e": "2026-07-07T21:00:00Z",
+        "d": null,
+        "j": "(2015)",
+        "u": null,
+        "p": "danielavery"
+      },
+      {
+        "n": "JAEL",
+        "s": "2026-07-07T21:00:00Z",
+        "e": "2026-07-07T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-06T07:00:00Z",
-        "e": "2026-07-06T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Aho Ssan",
-        "s": "2026-07-06T12:00:00Z",
-        "e": "2026-07-06T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Bloodsport",
         "s": "2026-07-06T13:00:00Z",
@@ -2412,7 +2355,7 @@
         "s": "2026-07-06T14:00:00Z",
         "e": "2026-07-06T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "PRÉSENTE ATAY TIME AVEC KHTEK, THE X TOUR",
         "u": null,
         "t": "monthly"
       },
@@ -2421,7 +2364,7 @@
         "s": "2026-07-06T15:00:00Z",
         "e": "2026-07-06T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ultrasoul Records Takeover",
         "u": null,
         "t": "monthly"
       },
@@ -2430,7 +2373,7 @@
         "s": "2026-07-06T16:00:00Z",
         "e": "2026-07-06T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite Caldera",
         "u": null,
         "t": "monthly",
         "p": "bambi"
@@ -2440,7 +2383,7 @@
         "s": "2026-07-06T17:00:00Z",
         "e": "2026-07-06T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "présente Kimchi Fermenté avec Kalysta",
         "u": null
       },
       {
@@ -2448,7 +2391,7 @@
         "s": "2026-07-06T18:00:00Z",
         "e": "2026-07-06T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Zonda with Me & George b2b Unsho",
         "u": null,
         "t": "monthly"
       },
