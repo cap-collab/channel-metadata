@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-06T21:22:05.607Z",
+  "updated": "2026-07-06T22:58:55.323Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BEACH NOIR W/ NICK LEÓN - Existential Grown & Sexy",
-        "s": "2026-07-06T22:00:00+01:00",
-        "e": "2026-07-06T23:00:00+01:00",
-        "d": "An invitation to dissociate on the beach inside your mind. Musical postcards from New York in the realm of ambient, wavy & all things murky. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nick-leon/episodes/nick-leon-6th-july-2026"
-      },
       {
         "n": "FURNITURE WITHOUT MEMORIES W/ LIVWUTANG & Koku",
         "s": "2026-07-06T23:00:00+01:00",
@@ -24,9 +16,10 @@
         "n": "BODY MOTION",
         "s": "2026-07-07T00:00:00+01:00",
         "e": "2026-07-07T01:00:00+01:00",
-        "d": null,
+        "d": "The signal is strong. Body Motion monthly on NTS1.\nFrom the host: \"Body Motion regular SEEP plays an hour of dub ambience. Melt away\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/body-motion/episodes/body-motion-7th-july-2026",
+        "t": "monthly",
         "p": "bodymotion"
       },
       {
@@ -168,19 +161,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "BLUE TRIO RADIO W/ FULL BODY 2",
+        "s": "2026-07-08T00:00:00+01:00",
+        "e": "2026-07-08T01:00:00+01:00",
+        "d": null,
+        "j": "FULL BODY 2",
+        "u": null,
+        "t": "monthly",
+        "p": "fullbody2"
       }
     ],
     "nts2": [
-      {
-        "n": "Beyond The Clouds - ode to Japan w/ Masha Mar (R)",
-        "s": "2026-07-06T22:00:00+01:00",
-        "e": "2026-07-06T23:00:00+01:00",
-        "d": "Slowed Down, sun kissed journeys through dub, synth, cosmic & balearic beats. Brought to you from LA each month.\nFrom the host: \"An ode to Japan, inspired by a recent trip\"",
-        "j": "Masha Mar",
-        "u": "https://www.nts.live/api/v2/shows/masha/episodes/masha-6th-may-2026",
-        "t": "restream",
-        "p": "mashamar"
-      },
       {
         "n": "ASTRAL GARDEN W/ NAILAH HUNTER",
         "s": "2026-07-06T23:00:00+01:00",
@@ -194,9 +187,9 @@
         "n": "Blue Candy w/ Casey MQ (R)",
         "s": "2026-07-07T00:00:00+01:00",
         "e": "2026-07-07T01:00:00+01:00",
-        "d": null,
+        "d": "Artist, producer, and composer Casey MQ shares the music that inspires him through a misplaced nostalgic lens on Blue Candy. Drawing from electronic and classical influences, his music fixates on harmony and its alluring path, with a continuous bed of original synthesizer recordings from Casey throughout.\nFrom the host: \"I'm back with the keyboards and the songs that soundtracked the last two months while being on tour with oklou <3 lots of love!\"",
         "j": "Casey MQ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/casey-mq/episodes/casey-mq-23rd-april-2026",
         "t": "restream",
         "p": "caseymq"
       },
@@ -337,18 +330,19 @@
         "u": null,
         "t": "monthly",
         "p": "wesbaggaley"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "LATO",
-        "s": "2026-07-06T21:00:00Z",
-        "e": "2026-07-06T22:00:00Z",
+        "n": "OPTIMO",
+        "s": "2026-07-07T17:00:00+01:00",
+        "e": "2026-07-07T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "monthly",
+        "p": "optimo"
+      }
+    ],
+    "subtle": [
       {
         "n": "H2 w/ SUS-R",
         "s": "2026-07-06T22:00:00Z",
@@ -1484,6 +1478,15 @@
         "j": "Preet",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Factory Floor ",
+        "s": "2026-07-13T22:00:00Z",
+        "e": "2026-07-13T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2122,15 +2125,6 @@
     ],
     "rinse": [
       {
-        "n": "Zenker Brothers",
-        "s": "2026-07-06T21:00:00Z",
-        "e": "2026-07-06T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "OSSX",
         "s": "2026-07-06T22:00:00Z",
         "e": "2026-07-06T23:00:00Z",
@@ -2276,15 +2270,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-06T19:00:00Z",
-        "e": "2026-07-07T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-07T07:00:00Z",
         "e": "2026-07-07T10:00:00Z",
         "d": null,
@@ -2327,7 +2312,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Playlist France",
@@ -2344,7 +2329,8 @@
         "e": "2026-07-07T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "Teddy Kitano",
