@@ -1,54 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-07T02:10:58.800Z",
+  "updated": "2026-07-07T07:29:46.850Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NEUE TANZ W/ JULES (R)",
-        "s": "2026-07-07T03:00:00+01:00",
-        "e": "2026-07-07T04:00:00+01:00",
-        "d": "Playing anything from ambient and experimental textures interwoven through eccentric new wave, forgotten b-sides and contemporary dance music; one can expect almost anything from the Neue Tanz show. Hosted monthly by Jules, with friends or on his own. \nhttps://soundcloud.com/jules-bethmann",
-        "j": "JULES",
-        "u": "https://www.nts.live/api/v2/shows/jules/episodes/neue-tanz-2nd-october-2019",
-        "t": "restream",
-        "p": "jules"
-      },
-      {
-        "n": "SKEE MASK PRESENTS: FEIERABEND (R)",
-        "s": "2026-07-07T04:00:00+01:00",
-        "e": "2026-07-07T05:00:00+01:00",
-        "d": "Skee's insight through his daily listening habits, from guilty pleasures to casual recommendations and in between…",
-        "j": "FEIERABEND",
-        "u": "https://www.nts.live/api/v2/shows/skee-mask/episodes/skee-mask-22nd-february-2024",
-        "t": "restream",
-        "p": "skeemask"
-      },
-      {
-        "n": "SOFAY & RIBEKA (R)",
-        "s": "2026-07-07T05:00:00+01:00",
-        "e": "2026-07-07T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "COLD PIZZA W/ STUD1NT (R)",
-        "s": "2026-07-07T06:00:00+01:00",
-        "e": "2026-07-07T07:00:00+01:00",
-        "d": null,
-        "j": "STUD1NT",
-        "u": null,
-        "t": "restream",
-        "p": "coldpizza"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-07-07T07:00:00+01:00",
         "e": "2026-07-07T09:00:00+01:00",
-        "d": null,
+        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
         "j": "MARIA SOMERVILLE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-7th-july-2026",
         "t": "weekly",
         "p": "mariasomerville"
       },
@@ -56,9 +17,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-07-07T09:00:00+01:00",
         "e": "2026-07-07T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-7th-july-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -172,72 +133,67 @@
         "u": null,
         "t": "restream",
         "p": "yusu"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2026-07-08T07:00:00+01:00",
+        "e": "2026-07-08T09:00:00+01:00",
+        "d": null,
+        "j": "SPIRIT BLUE",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-07-08T09:00:00+01:00",
+        "e": "2026-07-08T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-07-08T11:00:00+01:00",
+        "e": "2026-07-08T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-07-08T13:00:00+01:00",
+        "e": "2026-07-08T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "DELIVERY PRESENTS: HAAN",
-        "s": "2026-07-07T03:00:00+01:00",
-        "e": "2026-07-07T04:00:00+01:00",
-        "d": "Delivery presents: 'HAAN', live for an hour a month, straight from our LA studio. ",
-        "j": "HAAN",
-        "u": "https://www.nts.live/api/v2/shows/delivery/episodes/delivery-7th-july-2026",
-        "t": "monthly",
-        "p": "delivery"
-      },
-      {
-        "n": "Akito & ECIV_TAKIZUMI (R)",
-        "s": "2026-07-07T04:00:00+01:00",
-        "e": "2026-07-07T05:00:00+01:00",
-        "d": "From host: \"NTS 10 year anniversary show with Osaka-based DJ ECIVTAKIZUMI\" _",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/akito/episodes/akito-13th-october-2025",
-        "t": "restream",
-        "p": "akito"
-      },
-      {
-        "n": "ALL STYLES ALL SMILES (R)",
-        "s": "2026-07-07T05:00:00+01:00",
-        "e": "2026-07-07T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "MUSIQUE TOPS (R)",
-        "s": "2026-07-07T06:00:00+01:00",
-        "e": "2026-07-07T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "babyschön (R)",
-        "s": "2026-07-07T07:00:00+01:00",
-        "e": "2026-07-07T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "IN FOCUS: ASHA BHOSLE (R)",
         "s": "2026-07-07T08:00:00+01:00",
         "e": "2026-07-07T10:00:00+01:00",
-        "d": null,
+        "d": "Music from Asha Bhosle, one of the most beloved vocalists singers in Hindi cinema. \nSelected and mixed by Sway of the Verses.\nWatch the film scenes featuring the music on this mix.",
         "j": "ASHA BHOSLE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-asha-bhosle-24th-april-2026",
         "t": "restream"
       },
       {
         "n": "Imagine Soundtracks w/ redkoffee: Wings of Desire (R)",
         "s": "2026-07-07T10:00:00+01:00",
         "e": "2026-07-07T11:00:00+01:00",
-        "d": null,
+        "d": "Words, illustrations, and images all possess atmospheres. Imagine Soundtracks depicts the musical emotions that animations, literature, manga, movies, or video games inspire. This series, curated by Paris-based poet and DJ Clarisse Prévost, aka redkoffee, is presented with interpreted dialogues from the explored selection.\nFrom the host: \"redkoffee aka Clarisse Prévost pays tribute to movie Wings of Desire, released by Wim Winders in 1987. It’s the story of an angel who falls in love, and wishes to be human to be able to live, understand, feel things.\"",
         "j": "redkoffee",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/redkoffee/episodes/redkoffee-wings-of-desire-5th-december-2025",
         "t": "restream",
         "p": "redkoffee"
       },
@@ -339,35 +295,64 @@
         "u": null,
         "t": "monthly",
         "p": "loshitters"
+      },
+      {
+        "n": "FUSION BATCHES W/ DJ MORSE CODE",
+        "s": "2026-07-07T23:00:00+01:00",
+        "e": "2026-07-08T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "fusionbatches"
+      },
+      {
+        "n": "Programming w/ DJ Kita",
+        "s": "2026-07-08T00:00:00+01:00",
+        "e": "2026-07-08T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "djkita"
+      },
+      {
+        "n": "Bodywork w/ Kaili (R)",
+        "s": "2026-07-08T01:00:00+01:00",
+        "e": "2026-07-08T02:00:00+01:00",
+        "d": null,
+        "j": "Kaili",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "BOOM BIP",
+        "s": "2026-07-08T02:00:00+01:00",
+        "e": "2026-07-08T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "boombip"
+      },
+      {
+        "n": "Space In Between w/ Introspekt & Linda Lo (R)",
+        "s": "2026-07-08T03:00:00+01:00",
+        "e": "2026-07-08T04:00:00+01:00",
+        "d": null,
+        "j": "Introspekt & Linda Lo",
+        "u": null,
+        "t": "restream",
+        "p": "introspekt"
       }
     ],
     "subtle": [
       {
         "n": "Subtle Selects",
-        "s": "2026-07-07T02:00:00Z",
-        "e": "2026-07-07T04:00:00Z",
+        "s": "2026-07-07T07:00:00Z",
+        "e": "2026-07-07T08:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "Cartwright ",
-        "s": "2026-07-07T04:00:00Z",
-        "e": "2026-07-07T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Bristalo w/ Indiescotheque",
-        "s": "2026-07-07T06:00:00Z",
-        "e": "2026-07-07T07:00:00Z",
-        "d": null,
-        "j": "Indiescotheque",
-        "u": null,
-        "t": "monthly"
       },
       {
         "n": "TorbM",
@@ -1497,38 +1482,54 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DJ Moement",
+        "s": "2026-07-14T04:00:00Z",
+        "e": "2026-07-14T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "djmoement"
+      },
+      {
+        "n": "Sparring Sessions",
+        "s": "2026-07-14T06:00:00Z",
+        "e": "2026-07-14T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Breakfast Spoons w/ Boruch",
+        "s": "2026-07-14T07:00:00Z",
+        "e": "2026-07-14T08:00:00Z",
+        "d": null,
+        "j": "Boruch",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Trovarsi - Signal",
-        "s": "2026-07-07T02:00:00Z",
-        "e": "2026-07-07T03:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-07-07T07:00:00Z",
+        "e": "2026-07-07T09:00:00Z",
         "d": null,
-        "j": "Signal",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "trovarsi"
+        "t": "playlist"
       },
       {
-        "n": "Monalisa Murray - Paths of Rhythm",
-        "s": "2026-07-07T03:00:00Z",
-        "e": "2026-07-07T05:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-07-07T09:00:00Z",
+        "e": "2026-07-07T11:00:00Z",
         "d": null,
-        "j": "Paths of Rhythm",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "monalisa"
-      },
-      {
-        "n": "Jenny NONO - SS Extension Course",
-        "s": "2026-07-07T05:00:00Z",
-        "e": "2026-07-07T07:00:00Z",
-        "d": null,
-        "j": "SS Extension Course",
-        "u": null,
-        "t": "monthly",
-        "p": "jennynono"
+        "t": "playlist"
       },
       {
         "n": "Gulniyal - gtalks! radio",
@@ -2112,28 +2113,29 @@
         "u": null,
         "t": "monthly",
         "p": "terrellbrooke"
+      },
+      {
+        "n": "Aaron Paar - Stomping Grounds",
+        "s": "2026-07-14T03:00:00Z",
+        "e": "2026-07-14T05:00:00Z",
+        "d": null,
+        "j": "Stomping Grounds",
+        "u": null,
+        "t": "biweekly",
+        "p": "aaronpaar"
+      },
+      {
+        "n": "Daniel T - Crosseyed and Painless",
+        "s": "2026-07-14T05:00:00Z",
+        "e": "2026-07-14T07:00:00Z",
+        "d": null,
+        "j": "Crosseyed and Painless",
+        "u": null,
+        "t": "monthly",
+        "p": "danielt"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-07-07T01:00:00Z",
-        "e": "2026-07-07T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Freshta",
-        "s": "2026-07-07T05:00:00Z",
-        "e": "2026-07-07T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "freshta"
-      },
       {
         "n": "Playlist",
         "s": "2026-07-07T06:00:00Z",
@@ -2398,15 +2400,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-06T19:00:00Z",
-        "e": "2026-07-07T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-07T07:00:00Z",
         "e": "2026-07-07T10:00:00Z",
         "d": null,
@@ -2424,9 +2417,102 @@
         "t": "playlist"
       },
       {
-        "n": "Black Square Club",
+        "n": "Lysiane N.",
         "s": "2026-07-07T12:00:00Z",
+        "e": "2026-07-07T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Izzy Lindqwister",
+        "s": "2026-07-07T13:00:00Z",
         "e": "2026-07-07T14:00:00Z",
+        "d": null,
+        "j": "Licence To Weed",
+        "u": null,
+        "t": "biweekly",
+        "p": "izzylindqwister"
+      },
+      {
+        "n": "Roi Luis",
+        "s": "2026-07-07T14:00:00Z",
+        "e": "2026-07-07T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-07T15:00:00Z",
+        "e": "2026-07-07T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "renoiterrible",
+        "s": "2026-07-07T16:00:00Z",
+        "e": "2026-07-07T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Teddy Kitano",
+        "s": "2026-07-07T17:00:00Z",
+        "e": "2026-07-07T18:00:00Z",
+        "d": null,
+        "j": "invite Sho Gabi",
+        "u": null,
+        "p": "gabi",
+        "ap": [
+          "teddykitano"
+        ]
+      },
+      {
+        "n": "STL-P",
+        "s": "2026-07-07T18:00:00Z",
+        "e": "2026-07-07T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-07T19:00:00Z",
+        "e": "2026-07-08T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-08T07:00:00Z",
+        "e": "2026-07-08T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-08T10:00:00Z",
+        "e": "2026-07-08T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Black Square Club",
+        "s": "2026-07-08T12:00:00Z",
+        "e": "2026-07-08T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2434,8 +2520,8 @@
       },
       {
         "n": "ShayBySchai",
-        "s": "2026-07-07T14:00:00Z",
-        "e": "2026-07-07T15:00:00Z",
+        "s": "2026-07-08T14:00:00Z",
+        "e": "2026-07-08T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2444,8 +2530,8 @@
       },
       {
         "n": "Andy4000",
-        "s": "2026-07-07T15:00:00Z",
-        "e": "2026-07-07T16:00:00Z",
+        "s": "2026-07-08T15:00:00Z",
+        "e": "2026-07-08T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2453,8 +2539,8 @@
       },
       {
         "n": "Menace Progressive",
-        "s": "2026-07-07T16:00:00Z",
-        "e": "2026-07-07T17:00:00Z",
+        "s": "2026-07-08T16:00:00Z",
+        "e": "2026-07-08T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2466,8 +2552,8 @@
       },
       {
         "n": "The Iueke Show",
-        "s": "2026-07-07T17:00:00Z",
-        "e": "2026-07-07T18:00:00Z",
+        "s": "2026-07-08T17:00:00Z",
+        "e": "2026-07-08T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2475,8 +2561,8 @@
       },
       {
         "n": "RONI",
-        "s": "2026-07-07T18:00:00Z",
-        "e": "2026-07-07T19:00:00Z",
+        "s": "2026-07-08T18:00:00Z",
+        "e": "2026-07-08T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2485,8 +2571,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-07T19:00:00Z",
-        "e": "2026-07-07T20:00:00Z",
+        "s": "2026-07-08T19:00:00Z",
+        "e": "2026-07-08T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2922,6 +3008,16 @@
         "j": "Seelene",
         "u": null,
         "p": "seelene"
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-08-07T05:00:00Z",
+        "e": "2026-08-07T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
       }
     ]
   }
