@@ -1,42 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-07-08T17:25:44.429Z",
+  "updated": "2026-07-08T19:09:07.704Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MOTIVE w/ Lily London",
-        "s": "2026-07-08T18:00:00+01:00",
-        "e": "2026-07-08T19:00:00+01:00",
-        "d": "Theo Motive takes you on a monthly journey through upfront Hip Hop, Beats, Grime, Bass & everything in between.",
-        "j": "Lily London",
-        "u": "https://www.nts.live/api/v2/shows/motive/episodes/motive-8th-july-2026",
-        "t": "monthly",
-        "p": "motive"
-      },
-      {
-        "n": "Steven Julien Presents: The Apron Show",
-        "s": "2026-07-08T19:00:00+01:00",
-        "e": "2026-07-08T20:00:00+01:00",
-        "d": "The Apron Records boss takes his anything goes approach to an continually surprising hour of radio every month, featuring everything from dusty leftfield house to energetic jazz, and anything else that he's feeling. ",
-        "j": "The Apron Show",
-        "u": "https://www.nts.live/api/v2/shows/funkineven/episodes/funkineven-8th-july-2026",
-        "t": "monthly"
-      },
       {
         "n": "Bloomfeld",
         "s": "2026-07-08T20:00:00+01:00",
         "e": "2026-07-08T21:00:00+01:00",
-        "d": null,
+        "d": "Berlin-based producer Bloomfeld steps into the NTS studio, sharing an hour of full unreleased originals, spanning the breadth of underground electronics.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/bloomfeld-8th-july-2026"
       },
       {
         "n": "WIGS W/ IMOGEN",
         "s": "2026-07-08T21:00:00+01:00",
         "e": "2026-07-08T22:00:00+01:00",
-        "d": null,
+        "d": "London-based DJ Imogen takes on the NTS airwaves, bouncing between fuzzy electro and punishing techno. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/imogen/episodes/imogen-8th-july-2026"
       },
       {
         "n": "WORD OF COMMAND (R)",
@@ -166,42 +147,43 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "NILE TO BANK w/ NIHAL",
+        "s": "2026-07-09T20:00:00+01:00",
+        "e": "2026-07-09T21:00:00+01:00",
+        "d": null,
+        "j": "NIHAL",
+        "u": null,
+        "t": "monthly",
+        "p": "nihal"
+      },
+      {
+        "n": "PEKING SPRING w/ JON K",
+        "s": "2026-07-09T21:00:00+01:00",
+        "e": "2026-07-09T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "SUBJECT TO CHANGE W/ TIMMHOTEP - r7b - Summer '26",
-        "s": "2026-07-08T18:00:00+01:00",
-        "e": "2026-07-08T19:00:00+01:00",
-        "d": "Cultural critic and curator Timmhotep Aku explores the intersections of black music, life, metaphor, and meaning through songs and found audio footage.\nFrom the host: \"R&B is experimental; always has been.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/subject-to-change-w-timmhotep/episodes/subject-to-change-w-timmhotep-8th-july-2026"
-      },
-      {
-        "n": "Aloha Got Soul",
-        "s": "2026-07-08T19:00:00+01:00",
-        "e": "2026-07-08T20:00:00+01:00",
-        "d": "An exploration into obscure, underground, and lesser known music from Hawaii, bound not by genre or generation but by a connection to the islands. Hosted by Roger Bong of Aloha Got Soul, a record label and record store in Honolulu. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/aloha-got-soul/episodes/aloha-got-soul-8th-july-2026",
-        "t": "monthly"
-      },
-      {
         "n": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
         "s": "2026-07-08T20:00:00+01:00",
         "e": "2026-07-08T21:00:00+01:00",
-        "d": null,
+        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures. ",
         "j": "Taylor Rowley",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-8th-july-2026",
         "t": "biweekly"
       },
       {
         "n": "SEA to SEA: Southeast Asian Synthesized Special w/ Diana Ratsamee",
         "s": "2026-07-08T21:00:00+01:00",
         "e": "2026-07-08T22:00:00+01:00",
-        "d": null,
+        "d": "Seattle DJ and collector Diana Ratsamee digs out musical discoveries from across the world, notably sharing music from Lao and Thailand and Southeast Asia - airing rock, disco, soul and psychedelic records, as well as diving into present day musical movements in the region. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/diana-ratsamee/episodes/diana-ratsamee-8th-july-2026",
         "p": "dianaratsamee"
       },
       {
@@ -330,28 +312,26 @@
         "j": null,
         "u": null,
         "p": "dove"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "SQUARED: STARKEYE",
-        "s": "2026-07-08T17:00:00Z",
-        "e": "2026-07-08T18:00:00Z",
-        "d": null,
-        "j": "STARKEYE",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": " We Kill Culture",
-        "s": "2026-07-08T18:00:00Z",
-        "e": "2026-07-08T19:00:00Z",
+        "n": "PACING THE PLATFORM W/ UPSAMMY",
+        "s": "2026-07-09T13:00:00+01:00",
+        "e": "2026-07-09T14:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "wekillculture"
+        "p": "upsammy"
       },
+      {
+        "n": "Rezzett",
+        "s": "2026-07-09T14:00:00+01:00",
+        "e": "2026-07-09T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "Hazel",
         "s": "2026-07-08T19:00:00Z",
@@ -1500,19 +1480,27 @@
         "u": null,
         "t": "monthly",
         "p": "antisocialrecords"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "The Programme with Larry G",
-        "s": "2026-07-08T17:00:00Z",
-        "e": "2026-07-08T19:00:00Z",
+        "n": "Rebekah Abdeen",
+        "s": "2026-07-15T18:00:00Z",
+        "e": "2026-07-15T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "larryg"
+        "t": "monthly"
       },
+      {
+        "n": "Sumgii",
+        "s": "2026-07-15T19:00:00Z",
+        "e": "2026-07-15T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Jeff Weiss - POW Radio",
         "s": "2026-07-08T19:00:00Z",
@@ -2115,19 +2103,19 @@
         "j": null,
         "u": null,
         "p": "juanizguerra"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "cu.rve",
-        "s": "2026-07-08T17:00:00Z",
-        "e": "2026-07-08T18:00:00Z",
+        "n": "Heidi Lawden – Magic Roundabout",
+        "s": "2026-07-15T19:00:00Z",
+        "e": "2026-07-15T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "curve"
-      },
+        "t": "monthly",
+        "p": "heidilawden"
+      }
+    ],
+    "rinse": [
       {
         "n": "X CLUB. presents HIDE THE JUNK",
         "s": "2026-07-08T18:00:00Z",
@@ -2312,25 +2300,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "The Iueke Show",
-        "s": "2026-07-08T17:00:00Z",
-        "e": "2026-07-08T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "theiuekeshow"
-      },
-      {
-        "n": "RONI",
-        "s": "2026-07-08T18:00:00Z",
-        "e": "2026-07-08T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "roni"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-08T19:00:00Z",
