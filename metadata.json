@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-08T08:09:40.940Z",
+  "updated": "2026-07-08T11:42:15.383Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-07-08T09:00:00+01:00",
-        "e": "2026-07-08T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-8th-july-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-07-08T11:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "LUNCH CLUB w/ FINN",
         "s": "2026-07-08T13:00:00+01:00",
         "e": "2026-07-08T14:00:00+01:00",
-        "d": null,
+        "d": "Dance music with feeling, lunch time with Finn",
         "j": "FINN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lunch-club/episodes/lunch-club-8th-july-2026",
         "t": "weekly",
         "p": "finn",
         "ap": [
@@ -170,51 +160,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "MAÏ-LINH",
+        "s": "2026-07-09T14:00:00+01:00",
+        "e": "2026-07-09T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "malinh"
       }
     ],
     "nts2": [
       {
-        "n": "IN FOCUS: DAVID MUNROW (R)",
-        "s": "2026-07-08T08:00:00+01:00",
-        "e": "2026-07-08T10:00:00+01:00",
-        "d": "The musician and early music historian David Munrow was only 33 years old when he passed away. Yet his legacy befits a man more than twice his age. A staggeringly prolific musician and educator, Munrow travelled the world soaking up the music of different cultures. He learned new musical systems and obscure instruments in the span days or weeks. \nHe is most famous as the figurehead of the Early Music movement, performing and teaching music from the early Medieval period onward. His BBC radio show \"Pied Piper\" - was a centuries spanning, 600+ episode education in the history of music – from Monteverdi to Pentangle.\nAs well as his radio and television work, Munrow also released well over 50 albums in his short lifetime, a body of work which has since altered our perception of music history. \nSelected and mixed by Aki.",
-        "j": "DAVID MUNROW",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-david-munrow-17th-april-2026",
-        "t": "restream"
-      },
-      {
-        "n": "3XL (R)",
-        "s": "2026-07-08T10:00:00+01:00",
-        "e": "2026-07-08T11:00:00+01:00",
-        "d": "Transmissions from the Outer Rim/Inner Edge.\n“you know the gates themselves are made of flood.”\n-Nadia Marcus",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/3xl/episodes/3xl-21st-july-2025",
-        "t": "restream",
-        "p": "3xl"
-      },
-      {
-        "n": "Explorations w/ DIGGING IN INDIA & SPARKLMAMI",
-        "s": "2026-07-08T11:00:00+01:00",
-        "e": "2026-07-08T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Sounds Of Resistance: Korean social movement songs (80s-00s)",
         "s": "2026-07-08T12:00:00+01:00",
         "e": "2026-07-08T13:00:00+01:00",
-        "d": null,
+        "d": "In the 1980s, the South Korean democracy movement came to a head against the brutal Chun Doo Hwan military regime. As a part of the cultural movement against authoritarianism, capitalist exploitation, and US imperialism, Korean students and workers composed songs that expressed the spirit of the \"minjung\" - the people. \nNoraereul Channeun Saramdeul (The Song Seekers) was one of many noraepae singing clubs that served as the face of the movement, but in the 90s and 2000s a flood of other groups emerged, melding Western folk idioms, Soviet-style choirs, MIDI programming, and Korean traditional rhythms. This mix highlights the peak of minjung gayo (people’s songs” from the 1980s-2000s. Selected by DJ Hotpot.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/sounds-of-resistance/episodes/sounds-of-resistance-korean-social-movement-songs-80s-00s-8th-july-2026"
       },
       {
         "n": "Shakshouka w/ Cheb Mimo",
         "s": "2026-07-08T13:00:00+01:00",
         "e": "2026-07-08T14:00:00+01:00",
-        "d": null,
+        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.",
         "j": "Cheb Mimo",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-8th-july-2026",
         "t": "monthly",
         "p": "chebmimo"
       },
@@ -237,7 +210,7 @@
         "p": "laminfofana"
       },
       {
-        "n": "THE BADDIS SOUND W/ DANNIELLA DEE",
+        "n": "THE BADDIS SOUND W/ DANNIELLA DEE - HEATWAVE!",
         "s": "2026-07-08T16:00:00+01:00",
         "e": "2026-07-08T17:00:00+01:00",
         "d": null,
@@ -255,7 +228,7 @@
         "u": null
       },
       {
-        "n": "SUBJECT TO CHANGE W/ TIMMHOTEP",
+        "n": "SUBJECT TO CHANGE W/ TIMMHOTEP - r7b - Summer '26",
         "s": "2026-07-08T18:00:00+01:00",
         "e": "2026-07-08T19:00:00+01:00",
         "d": null,
@@ -333,36 +306,37 @@
         "j": "Edu Lobo",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "SOLID STATE SURVIVOR W/ SHAGS CHAMBERLAIN (R)",
+        "s": "2026-07-09T04:00:00+01:00",
+        "e": "2026-07-09T05:00:00+01:00",
+        "d": null,
+        "j": "SHAGS CHAMBERLAIN",
+        "u": null,
+        "t": "restream",
+        "p": "shagschamberlain"
+      },
+      {
+        "n": "Benedek (R)",
+        "s": "2026-07-09T05:00:00+01:00",
+        "e": "2026-07-09T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "MUSIC 4 LOVERS W/ JABU & ANDY PAYBACK (R)",
+        "s": "2026-07-09T06:00:00+01:00",
+        "e": "2026-07-09T07:00:00+01:00",
+        "d": null,
+        "j": "JABU & ANDY PAYBACK",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "AR1AH ",
-        "s": "2026-07-08T08:00:00Z",
-        "e": "2026-07-08T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DAT_URA w/ KOSO",
-        "s": "2026-07-08T09:00:00Z",
-        "e": "2026-07-08T10:00:00Z",
-        "d": null,
-        "j": "KOSO",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Domestic Fred",
-        "s": "2026-07-08T10:00:00Z",
-        "e": "2026-07-08T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "GREGGO",
         "s": "2026-07-08T11:00:00Z",
@@ -595,23 +569,25 @@
         "t": "monthly"
       },
       {
-        "n": "D-Code & Psylence",
-        "s": "2026-07-09T20:00:00Z",
+        "n": "Benteki & Capo Lee",
+        "s": "2026-07-09T19:00:00Z",
         "e": "2026-07-09T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "p": "benteki",
+        "ap": [
+          "capolee"
+        ]
       },
       {
-        "n": "Benteki",
+        "n": "D-Code & Psylence",
         "s": "2026-07-09T21:00:00Z",
         "e": "2026-07-09T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "benteki"
+        "t": "monthly"
       },
       {
         "n": "Matt Frost ",
@@ -721,6 +697,14 @@
         "n": "KINESIS",
         "s": "2026-07-10T15:00:00Z",
         "e": "2026-07-10T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": " Locked in with Lexii",
+        "s": "2026-07-10T17:00:00Z",
+        "e": "2026-07-10T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1498,13 +1482,32 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "In The Loop w/ Sam Groves",
+        "s": "2026-07-15T10:00:00Z",
+        "e": "2026-07-15T11:00:00Z",
+        "d": null,
+        "j": "Sam Groves",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Stroke of Sound by Tia",
+        "s": "2026-07-15T11:00:00Z",
+        "e": "2026-07-15T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "tia"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-08T07:00:00Z",
-        "e": "2026-07-08T09:00:00Z",
+        "s": "2026-07-08T11:00:00Z",
+        "e": "2026-07-08T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1512,8 +1515,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-08T09:00:00Z",
-        "e": "2026-07-08T11:00:00Z",
+        "s": "2026-07-08T13:00:00Z",
+        "e": "2026-07-08T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2126,25 +2129,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-08T06:00:00Z",
-        "e": "2026-07-08T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Esk",
-        "s": "2026-07-08T09:00:00Z",
-        "e": "2026-07-08T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "esk"
-      },
-      {
         "n": "Cuppa Sounds",
         "s": "2026-07-08T11:00:00Z",
         "e": "2026-07-08T12:00:00Z",
@@ -2178,20 +2162,20 @@
         "s": "2026-07-08T14:00:00Z",
         "e": "2026-07-08T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "JJAMZ",
         "u": null,
         "t": "weekly",
         "p": "utopiapresents"
       },
       {
-        "n": "DJ Love",
+        "n": "Serenda",
         "s": "2026-07-08T16:00:00Z",
         "e": "2026-07-08T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "djlove"
+        "t": "biweekly",
+        "p": "serenda"
       },
       {
         "n": "cu.rve",
@@ -2229,7 +2213,7 @@
         "s": "2026-07-08T21:00:00Z",
         "e": "2026-07-08T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Staffan Lindberg",
         "u": null,
         "t": "monthly",
         "p": "studiobarnhus"
@@ -2305,20 +2289,10 @@
       {
         "n": "Mad Cats",
         "s": "2026-07-09T11:00:00Z",
-        "e": "2026-07-09T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Elle Clark",
-        "s": "2026-07-09T12:00:00Z",
         "e": "2026-07-09T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "elleclark"
+        "u": null
       },
       {
         "n": "Isaac Carter presents OCHI",
@@ -2389,15 +2363,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-08T07:00:00Z",
-        "e": "2026-07-08T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-08T10:00:00Z",
         "e": "2026-07-08T12:00:00Z",
         "d": null,
@@ -2429,7 +2394,7 @@
         "s": "2026-07-08T15:00:00Z",
         "e": "2026-07-08T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Andyrekt : TALK 2 ANDY w/ May Hi",
         "u": null,
         "t": "monthly"
       },
