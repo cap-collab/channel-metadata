@@ -1,33 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-08T05:13:19.822Z",
+  "updated": "2026-07-08T08:09:40.940Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PURE AT CAFÉ DEL MAR W/ TORUS (R)",
-        "s": "2026-07-08T06:00:00+01:00",
-        "e": "2026-07-08T07:00:00+01:00",
-        "d": "El sol desapareciendo en el horizonte.\nPURE at Café Del Mar, Ibiza. Music for sunsets, directed by Evian Christ and Slam Jam.",
-        "j": "TORUS",
-        "u": "https://www.nts.live/api/v2/shows/pure/episodes/pure-torus-5th-october-2025",
-        "t": "restream"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
-        "s": "2026-07-08T07:00:00+01:00",
-        "e": "2026-07-08T09:00:00+01:00",
-        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
-        "j": "SPIRIT BLUE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-8th-july-2026",
-        "t": "weekly"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-07-08T09:00:00+01:00",
         "e": "2026-07-08T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-8th-july-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -35,9 +17,9 @@
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-07-08T11:00:00+01:00",
         "e": "2026-07-08T13:00:00+01:00",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-8th-july-2026",
         "t": "weekly",
         "p": "shyone"
       },
@@ -170,44 +152,43 @@
         "j": "PAM",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-07-09T09:00:00+01:00",
+        "e": "2026-07-09T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ DANNY BUSHES",
+        "s": "2026-07-09T11:00:00+01:00",
+        "e": "2026-07-09T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Lung Dart (R)",
-        "s": "2026-07-08T06:00:00+01:00",
-        "e": "2026-07-08T07:00:00+01:00",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-21st-april-2025",
-        "t": "restream",
-        "p": "lungdart"
-      },
-      {
-        "n": "PHILIP FM (R)",
-        "s": "2026-07-08T07:00:00+01:00",
-        "e": "2026-07-08T08:00:00+01:00",
-        "d": "i love music",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/philip-fm/episodes/philip-fm-28th-june-2024",
-        "t": "restream"
-      },
-      {
         "n": "IN FOCUS: DAVID MUNROW (R)",
         "s": "2026-07-08T08:00:00+01:00",
         "e": "2026-07-08T10:00:00+01:00",
-        "d": null,
+        "d": "The musician and early music historian David Munrow was only 33 years old when he passed away. Yet his legacy befits a man more than twice his age. A staggeringly prolific musician and educator, Munrow travelled the world soaking up the music of different cultures. He learned new musical systems and obscure instruments in the span days or weeks. \nHe is most famous as the figurehead of the Early Music movement, performing and teaching music from the early Medieval period onward. His BBC radio show \"Pied Piper\" - was a centuries spanning, 600+ episode education in the history of music – from Monteverdi to Pentangle.\nAs well as his radio and television work, Munrow also released well over 50 albums in his short lifetime, a body of work which has since altered our perception of music history. \nSelected and mixed by Aki.",
         "j": "DAVID MUNROW",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-david-munrow-17th-april-2026",
         "t": "restream"
       },
       {
         "n": "3XL (R)",
         "s": "2026-07-08T10:00:00+01:00",
         "e": "2026-07-08T11:00:00+01:00",
-        "d": null,
+        "d": "Transmissions from the Outer Rim/Inner Edge.\n“you know the gates themselves are made of flood.”\n-Nadia Marcus",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/3xl/episodes/3xl-21st-july-2025",
         "t": "restream",
         "p": "3xl"
       },
@@ -335,18 +316,26 @@
         "j": null,
         "u": null,
         "p": "mixedfruit"
+      },
+      {
+        "n": "WHODIS? W/ DJ +1",
+        "s": "2026-07-09T01:00:00+01:00",
+        "e": "2026-07-09T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "In Focus: Edu Lobo (R)",
+        "s": "2026-07-09T03:00:00+01:00",
+        "e": "2026-07-09T04:00:00+01:00",
+        "d": null,
+        "j": "Edu Lobo",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-07-08T03:00:00Z",
-        "e": "2026-07-08T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "AR1AH ",
         "s": "2026-07-08T08:00:00Z",
@@ -1481,23 +1470,50 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SJH",
+        "s": "2026-07-15T06:00:00Z",
+        "e": "2026-07-15T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "sjh"
+      },
+      {
+        "n": "BLACK SHEEP RADIO by LEFTY",
+        "s": "2026-07-15T07:00:00Z",
+        "e": "2026-07-15T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TSZ INVITES FITS ME FUNNY",
+        "s": "2026-07-15T08:00:00Z",
+        "e": "2026-07-15T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Kaustin - Subsurface Radio",
-        "s": "2026-07-08T05:00:00Z",
-        "e": "2026-07-08T07:00:00Z",
-        "d": null,
-        "j": "Subsurface Radio",
-        "u": null,
-        "t": "monthly",
-        "p": "kaustin"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-07-08T07:00:00Z",
         "e": "2026-07-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-07-08T09:00:00Z",
+        "e": "2026-07-08T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2110,15 +2126,6 @@
     ],
     "rinse": [
       {
-        "n": "Donsurf",
-        "s": "2026-07-08T05:00:00Z",
-        "e": "2026-07-08T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "donsurf"
-      },
-      {
         "n": "Playlist",
         "s": "2026-07-08T06:00:00Z",
         "e": "2026-07-08T09:00:00Z",
@@ -2382,15 +2389,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-07T19:00:00Z",
-        "e": "2026-07-08T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-08T07:00:00Z",
         "e": "2026-07-08T10:00:00Z",
         "d": null,
@@ -2408,9 +2406,96 @@
         "t": "playlist"
       },
       {
-        "n": "JP MANO",
+        "n": "Black Square Club",
         "s": "2026-07-08T12:00:00Z",
         "e": "2026-07-08T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ShayBySchai",
+        "s": "2026-07-08T14:00:00Z",
+        "e": "2026-07-08T15:00:00Z",
+        "d": null,
+        "j": "invite Kuro B2B NK",
+        "u": null,
+        "t": "monthly",
+        "p": "shaybyschai"
+      },
+      {
+        "n": "Andy4000",
+        "s": "2026-07-08T15:00:00Z",
+        "e": "2026-07-08T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Menace Progressive",
+        "s": "2026-07-08T16:00:00Z",
+        "e": "2026-07-08T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "menace",
+        "ap": [
+          "menaceprogressive"
+        ]
+      },
+      {
+        "n": "The Iueke Show",
+        "s": "2026-07-08T17:00:00Z",
+        "e": "2026-07-08T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "theiuekeshow"
+      },
+      {
+        "n": "RONI",
+        "s": "2026-07-08T18:00:00Z",
+        "e": "2026-07-08T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "roni"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-08T19:00:00Z",
+        "e": "2026-07-09T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-09T07:00:00Z",
+        "e": "2026-07-09T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-09T10:00:00Z",
+        "e": "2026-07-09T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "JP MANO",
+        "s": "2026-07-09T12:00:00Z",
+        "e": "2026-07-09T14:00:00Z",
         "d": null,
         "j": "\"On Parle Musique\" by DJ JP MANO/w Olivia & Samplecafe",
         "u": null,
@@ -2418,16 +2503,16 @@
       },
       {
         "n": "Twerkistan",
-        "s": "2026-07-08T14:00:00Z",
-        "e": "2026-07-08T15:00:00Z",
+        "s": "2026-07-09T14:00:00Z",
+        "e": "2026-07-09T15:00:00Z",
         "d": null,
         "j": "Backstage feat DJ RAY",
         "u": null
       },
       {
         "n": "Tysha Cee",
-        "s": "2026-07-08T15:00:00Z",
-        "e": "2026-07-08T16:00:00Z",
+        "s": "2026-07-09T15:00:00Z",
+        "e": "2026-07-09T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2436,8 +2521,8 @@
       },
       {
         "n": "Bad Tips",
-        "s": "2026-07-08T16:00:00Z",
-        "e": "2026-07-08T17:00:00Z",
+        "s": "2026-07-09T16:00:00Z",
+        "e": "2026-07-09T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2445,8 +2530,8 @@
       },
       {
         "n": "Vitaline",
-        "s": "2026-07-08T17:00:00Z",
-        "e": "2026-07-08T18:00:00Z",
+        "s": "2026-07-09T17:00:00Z",
+        "e": "2026-07-09T18:00:00Z",
         "d": null,
         "j": "Chris Sam & Yambow",
         "u": null,
@@ -2454,16 +2539,16 @@
       },
       {
         "n": "Élise Massoni",
-        "s": "2026-07-08T18:00:00Z",
-        "e": "2026-07-08T19:00:00Z",
+        "s": "2026-07-09T18:00:00Z",
+        "e": "2026-07-09T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-08T19:00:00Z",
-        "e": "2026-07-08T20:00:00Z",
+        "s": "2026-07-09T19:00:00Z",
+        "e": "2026-07-09T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
