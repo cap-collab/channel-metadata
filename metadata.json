@@ -1,70 +1,35 @@
 {
   "v": 2,
-  "updated": "2026-07-09T10:56:34.151Z",
+  "updated": "2026-07-09T14:33:08.486Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ DANNY BUSHES",
-        "s": "2026-07-09T11:00:00+01:00",
-        "e": "2026-07-09T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "SOUP TO NUTS W/ DANNY BUSHES",
-        "s": "2026-07-09T11:15:00+01:00",
-        "e": "2026-07-09T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-danny-bushes-9th-july-2026"
-      },
-      {
-        "n": "2MANYDJS: HARUOMI HOSONO/YMO DAY (R)",
-        "s": "2026-07-09T13:00:00+01:00",
-        "e": "2026-07-09T14:00:00+01:00",
-        "d": "A 15-hour tribute to the influential Japanese songwriter, Haruomi Hosono, known from his prolific productions and work in the electronic trio, Yellow Magic Orchestra. Expect mixes exploring his career and adjacent music from NTS' most dedicated Hosono-philes.",
-        "j": "HARUOMI HOSONO/YMO DAY",
-        "u": "https://www.nts.live/api/v2/shows/haruomi-hosono-ymo-day/episodes/2-many-djs-hosono-ymo-26th-november-2017",
-        "t": "restream"
-      },
-      {
-        "n": "MAÏ-LINH",
-        "s": "2026-07-09T14:00:00+01:00",
-        "e": "2026-07-09T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "malinh"
-      },
       {
         "n": "NTS Guide to: Strictly Rhythm",
         "s": "2026-07-09T15:00:00+01:00",
         "e": "2026-07-09T17:00:00+01:00",
-        "d": null,
+        "d": "Two hours of classic dance music from the qunitessential New York house label, Strictly Rhythm. Founded in 1989, the iconic red brick walls have played host a dizzying arrway of East Coast house music's best and brightest – Armand Van Helden, Todd Terry, Masters At Work, Mood II Swing and many many more.\nSelected and mixed by Finn.",
         "j": "Strictly Rhythm",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-strictly-rhythm-9th-july-2026",
         "t": "weekly"
       },
       {
         "n": "ROOMIES W/ Ouri - music from the closet",
         "s": "2026-07-09T17:00:00+01:00",
         "e": "2026-07-09T18:00:00+01:00",
-        "d": null,
+        "d": "mobilegirl invites you into her home with soundtracks for various rooms.\nFrom the host: \"happy belated pride month\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mobilegirl/episodes/mobilegirl-9th-july-2026",
         "p": "ouri"
       },
       {
-        "n": "OK WILLIAMS",
+        "n": "GETTING WARMER W/ JEN MONROE (R)",
         "s": "2026-07-09T18:00:00+01:00",
         "e": "2026-07-09T19:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "JEN MONROE",
         "u": null,
-        "t": "monthly",
-        "p": "okwilliams"
+        "t": "restream",
+        "p": "jenmonroe"
       },
       {
         "n": "ìyáàlù",
@@ -92,7 +57,7 @@
         "u": null
       },
       {
-        "n": "KASRA V",
+        "n": "Kasra V W/ Omoloko",
         "s": "2026-07-09T23:00:00+01:00",
         "e": "2026-07-10T00:00:00+01:00",
         "d": null,
@@ -177,60 +142,54 @@
         "j": "JACK ROLLO",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ SOFIE K",
+        "s": "2026-07-10T09:00:00+01:00",
+        "e": "2026-07-10T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sofiek"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SCARY THINGS",
+        "s": "2026-07-10T11:00:00+01:00",
+        "e": "2026-07-10T13:00:00+01:00",
+        "d": null,
+        "j": "SCARY THINGS",
+        "u": null,
+        "t": "weekly",
+        "p": "scarythings"
+      },
+      {
+        "n": "PUM PUM POWER HOUR W/ LIL C",
+        "s": "2026-07-10T13:00:00+01:00",
+        "e": "2026-07-10T14:00:00+01:00",
+        "d": null,
+        "j": "LIL C",
+        "u": null,
+        "t": "biweekly",
+        "p": "lilc"
       }
     ],
     "nts2": [
       {
-        "n": "Jim O'Rourke",
-        "s": "2026-07-09T11:00:00+01:00",
-        "e": "2026-07-09T12:00:00+01:00",
-        "d": "Avant-garde musician and composer Jim O'Rourke pulls stops by once a month, pulling an hour of picks from his extensive record collection.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jim-o-rourke",
-        "t": "monthly"
-      },
-      {
-        "n": "DOVE w/ Yumea Horiike",
-        "s": "2026-07-09T12:00:00+01:00",
-        "e": "2026-07-09T13:00:00+01:00",
-        "d": "Osaka / Berlin musician Dove shares music that captures romance in everyday life. \"Sheltering from the rain and stumbling into the best club experience. Staying up all night talking with friends at the end of summer. The moment I looked into your eyes and wanted to know everything about you.\"\nFrom the host: \"Yumea Horiike’s music makes room for every way of moving through the world. Whether your back is bent, straight, or somewhere in between, it reminds you that you don't always have to hold yourself together. For a little while, you're allowed to simply exist.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dove/episodes/dove-9th-july-2026",
-        "p": "dove"
-      },
-      {
-        "n": "PACING THE PLATFORM W/ UPSAMMY",
-        "s": "2026-07-09T13:00:00+01:00",
-        "e": "2026-07-09T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "upsammy"
-      },
-      {
-        "n": "Rezzett",
-        "s": "2026-07-09T14:00:00+01:00",
-        "e": "2026-07-09T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "LA VIDA ES UN MUS",
         "s": "2026-07-09T15:00:00+01:00",
         "e": "2026-07-09T16:00:00+01:00",
-        "d": null,
+        "d": "Primative World Musik.\nFrom the host: \"Your monthly dose of underproduced World Musik. Primative tunes from Spain, Japan, Italy, Mexico, Australia, Canada, Sweden, Australia, Turkey, Finland, USA, Canary Islands, Perú, Netherlands and Colombia.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/la-vida-es-un-mus/episodes/la-vida-es-un-mus-9th-july-2026",
         "t": "monthly"
       },
       {
         "n": "Goblin Milk",
         "s": "2026-07-09T16:00:00+01:00",
         "e": "2026-07-09T17:00:00+01:00",
-        "d": null,
+        "d": "Goblin milk, creator of GUT magazine brings you an hour of Death metal, Doom and skits once a month sandwiched by thoughts on all things GUT- mainly Serial killers, German things, Goblins, Dragons, Eggs, Art, Sex and film references.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/goblin-milk/episodes/goblin-milk-9th-july-2026",
         "t": "monthly",
         "p": "goblinmilk"
       },
@@ -351,44 +310,48 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Ashley Mi Ki Makk (R)",
+        "s": "2026-07-10T06:00:00+01:00",
+        "e": "2026-07-10T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Image Search - on Henry Flynt (R)",
+        "s": "2026-07-10T07:00:00+01:00",
+        "e": "2026-07-10T08:00:00+01:00",
+        "d": null,
+        "j": "on Henry Flynt",
+        "u": null,
+        "t": "restream",
+        "p": "imagesearch"
+      },
+      {
+        "n": "Light in the Attic w/ Angie QQ (R)",
+        "s": "2026-07-10T08:00:00+01:00",
+        "e": "2026-07-10T10:00:00+01:00",
+        "d": null,
+        "j": "Angie QQ",
+        "u": null,
+        "t": "restream",
+        "p": "angieqq"
+      },
+      {
+        "n": "AARON ANGELL (R)",
+        "s": "2026-07-10T10:00:00+01:00",
+        "e": "2026-07-10T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "aaronangell"
       }
     ],
     "subtle": [
-      {
-        "n": "Sublevel",
-        "s": "2026-07-09T09:00:00Z",
-        "e": "2026-07-09T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Con Artist",
-        "s": "2026-07-09T11:00:00Z",
-        "e": "2026-07-09T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Skint w/ Craic Feen",
-        "s": "2026-07-09T12:00:00Z",
-        "e": "2026-07-09T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Marigold",
-        "s": "2026-07-09T13:00:00Z",
-        "e": "2026-07-09T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " Spaghetti Junction w/ Sartana",
         "s": "2026-07-09T14:00:00Z",
@@ -1532,22 +1495,49 @@
         "u": null,
         "t": "monthly",
         "p": "housekeeping"
+      },
+      {
+        "n": "Exit Portal + J.Low",
+        "s": "2026-07-16T11:00:00Z",
+        "e": "2026-07-16T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "BICHETTE",
+        "s": "2026-07-16T12:00:00Z",
+        "e": "2026-07-16T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "dbeater",
+        "s": "2026-07-16T13:00:00Z",
+        "e": "2026-07-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "dbeater"
+      },
+      {
+        "n": "Aaliana",
+        "s": "2026-07-16T14:00:00Z",
+        "e": "2026-07-16T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-09T10:00:00Z",
-        "e": "2026-07-09T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-07-09T12:00:00Z",
-        "e": "2026-07-09T14:00:00Z",
+        "s": "2026-07-09T14:00:00Z",
+        "e": "2026-07-09T15:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2145,43 +2135,6 @@
     ],
     "rinse": [
       {
-        "n": "Yazmin Lacey",
-        "s": "2026-07-09T09:00:00Z",
-        "e": "2026-07-09T11:00:00Z",
-        "d": null,
-        "j": "Denisha Anderson & Kojey Radical",
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
-        "n": "Mad Cats",
-        "s": "2026-07-09T11:00:00Z",
-        "e": "2026-07-09T12:00:00Z",
-        "d": null,
-        "j": "Sean Innit",
-        "u": null
-      },
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-07-09T12:00:00Z",
-        "e": "2026-07-09T13:00:00Z",
-        "d": null,
-        "j": "Catch",
-        "u": null,
-        "t": "weekly",
-        "p": "skvibemaker"
-      },
-      {
-        "n": "Isaac Carter presents OCHI",
-        "s": "2026-07-09T13:00:00Z",
-        "e": "2026-07-09T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "isaaccarter"
-      },
-      {
         "n": "Tom Ravenscroft",
         "s": "2026-07-09T14:00:00Z",
         "e": "2026-07-09T16:00:00Z",
@@ -2194,12 +2147,21 @@
       {
         "n": "Maey",
         "s": "2026-07-09T16:00:00Z",
-        "e": "2026-07-09T18:00:00Z",
+        "e": "2026-07-09T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
         "p": "maey"
+      },
+      {
+        "n": "Isaac Carter presents OCHI",
+        "s": "2026-07-09T17:00:00Z",
+        "e": "2026-07-09T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "isaaccarter"
       },
       {
         "n": "p-rallel with Omari",
@@ -2338,24 +2300,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-09T10:00:00Z",
-        "e": "2026-07-09T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "JP MANO",
-        "s": "2026-07-09T12:00:00Z",
-        "e": "2026-07-09T14:00:00Z",
-        "d": null,
-        "j": "\"On Parle Musique\" by DJ JP MANO/w Olivia & Samplecafe",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Twerkistan",
         "s": "2026-07-09T14:00:00Z",
