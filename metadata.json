@@ -1,27 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-09T07:39:54.854Z",
+  "updated": "2026-07-09T10:56:34.151Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-07-09T07:00:00+01:00",
-        "e": "2026-07-09T09:00:00+01:00",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": "PAM",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-9th-july-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-07-09T09:00:00+01:00",
-        "e": "2026-07-09T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-9th-july-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ DANNY BUSHES",
         "s": "2026-07-09T11:00:00+01:00",
@@ -29,6 +10,23 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SOUP TO NUTS W/ DANNY BUSHES",
+        "s": "2026-07-09T11:15:00+01:00",
+        "e": "2026-07-09T13:00:00+01:00",
+        "d": "Let NTS brighten up your lunchtime hours.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-danny-bushes-9th-july-2026"
+      },
+      {
+        "n": "2MANYDJS: HARUOMI HOSONO/YMO DAY (R)",
+        "s": "2026-07-09T13:00:00+01:00",
+        "e": "2026-07-09T14:00:00+01:00",
+        "d": "A 15-hour tribute to the influential Japanese songwriter, Haruomi Hosono, known from his prolific productions and work in the electronic trio, Yellow Magic Orchestra. Expect mixes exploring his career and adjacent music from NTS' most dedicated Hosono-philes.",
+        "j": "HARUOMI HOSONO/YMO DAY",
+        "u": "https://www.nts.live/api/v2/shows/haruomi-hosono-ymo-day/episodes/2-many-djs-hosono-ymo-26th-november-2017",
+        "t": "restream"
       },
       {
         "n": "MAÏ-LINH",
@@ -41,13 +39,22 @@
         "p": "malinh"
       },
       {
-        "n": "ROOMIES W/ MOBILEGIRL",
+        "n": "NTS Guide to: Strictly Rhythm",
+        "s": "2026-07-09T15:00:00+01:00",
+        "e": "2026-07-09T17:00:00+01:00",
+        "d": null,
+        "j": "Strictly Rhythm",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "ROOMIES W/ Ouri - music from the closet",
         "s": "2026-07-09T17:00:00+01:00",
         "e": "2026-07-09T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "p": "mobilegirl"
+        "p": "ouri"
       },
       {
         "n": "OK WILLIAMS",
@@ -174,47 +181,21 @@
     ],
     "nts2": [
       {
-        "n": "SHELLS (R)",
-        "s": "2026-07-09T08:00:00+01:00",
-        "e": "2026-07-09T09:00:00+01:00",
-        "d": "Michigan selector Shells plays 45s",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ccc---shells/episodes/ccc---shells-14th-november-2025",
-        "t": "restream"
-      },
-      {
-        "n": "A Scene In Between w/ Samuel Knee (R)",
-        "s": "2026-07-09T09:00:00+01:00",
-        "e": "2026-07-09T10:00:00+01:00",
-        "d": "This time around it's all about the Uk mod leaning psyche garage trash scene, that was quite a thing with a lot of bands and numerous indie scene crossovers, but retained its own identity simultaneously throughout the Sceneinbetween era. The peak years for this scene were 1984-88 and the mecca venue in London was the Clarendon Hotel in Hammersmith. Where every band featured in this mix would have played, either in the basement (for the smaller more unknown groups) or upstairs in the faded grandeur ballroom. ",
-        "j": "Samuel Knee",
-        "u": "https://www.nts.live/api/v2/shows/a-scene-in-between/episodes/a-scene-in-between-uk-mod-psyche-garage-trash-scene-1982-88-2nd-may-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Just A Thought w/ +44K",
-        "s": "2026-07-09T10:00:00+01:00",
-        "e": "2026-07-09T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Jim O'Rourke",
         "s": "2026-07-09T11:00:00+01:00",
         "e": "2026-07-09T12:00:00+01:00",
-        "d": null,
+        "d": "Avant-garde musician and composer Jim O'Rourke pulls stops by once a month, pulling an hour of picks from his extensive record collection.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jim-o-rourke",
         "t": "monthly"
       },
       {
         "n": "DOVE w/ Yumea Horiike",
         "s": "2026-07-09T12:00:00+01:00",
         "e": "2026-07-09T13:00:00+01:00",
-        "d": null,
+        "d": "Osaka / Berlin musician Dove shares music that captures romance in everyday life. \"Sheltering from the rain and stumbling into the best club experience. Staying up all night talking with friends at the end of summer. The moment I looked into your eyes and wanted to know everything about you.\"\nFrom the host: \"Yumea Horiike’s music makes room for every way of moving through the world. Whether your back is bent, straight, or somewhere in between, it reminds you that you don't always have to hold yourself together. For a little while, you're allowed to simply exist.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dove/episodes/dove-9th-july-2026",
         "p": "dove"
       },
       {
@@ -341,28 +322,38 @@
         "j": null,
         "u": null,
         "p": "postgeography"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Making Hay w/ natdav",
-        "s": "2026-07-09T07:00:00Z",
-        "e": "2026-07-09T08:00:00Z",
-        "d": null,
-        "j": "natdav",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Deep Awake by Semaj",
-        "s": "2026-07-09T08:00:00Z",
-        "e": "2026-07-09T09:00:00Z",
+        "n": "Cold Pizza w/ Stud1nt (R)",
+        "s": "2026-07-10T03:00:00+01:00",
+        "e": "2026-07-10T04:00:00+01:00",
+        "d": null,
+        "j": "Stud1nt",
+        "u": null,
+        "t": "restream",
+        "p": "coldpizza"
+      },
+      {
+        "n": "Kampire (R)",
+        "s": "2026-07-10T04:00:00+01:00",
+        "e": "2026-07-10T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "deepawakebysemaj"
+        "t": "restream",
+        "p": "kampire"
       },
+      {
+        "n": "EQUIKNOXX (R)",
+        "s": "2026-07-10T05:00:00+01:00",
+        "e": "2026-07-10T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Sublevel",
         "s": "2026-07-09T09:00:00Z",
@@ -1512,13 +1503,42 @@
         "u": null,
         "t": "monthly",
         "p": "psychogeography"
+      },
+      {
+        "n": "source",
+        "s": "2026-07-16T08:00:00Z",
+        "e": "2026-07-16T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "source"
+      },
+      {
+        "n": "In The Rotation w/ Su",
+        "s": "2026-07-16T09:00:00Z",
+        "e": "2026-07-16T10:00:00Z",
+        "d": null,
+        "j": "Su",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Housekeeping",
+        "s": "2026-07-16T10:00:00Z",
+        "e": "2026-07-16T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "housekeeping"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-09T06:00:00Z",
-        "e": "2026-07-09T08:00:00Z",
+        "s": "2026-07-09T10:00:00Z",
+        "e": "2026-07-09T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1526,8 +1546,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-09T08:00:00Z",
-        "e": "2026-07-09T10:00:00Z",
+        "s": "2026-07-09T12:00:00Z",
+        "e": "2026-07-09T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2125,15 +2145,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-09T06:00:00Z",
-        "e": "2026-07-09T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Yazmin Lacey",
         "s": "2026-07-09T09:00:00Z",
         "e": "2026-07-09T11:00:00Z",
@@ -2327,15 +2338,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-09T07:00:00Z",
-        "e": "2026-07-09T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-09T10:00:00Z",
