@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-09T19:23:24.271Z",
+  "updated": "2026-07-09T21:13:37.561Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Nile to Bank W/ Nihal, DJ Gawad & Pierre Pepe (Live)",
-        "s": "2026-07-09T20:00:00+01:00",
-        "e": "2026-07-09T21:00:00+01:00",
-        "d": "Influenced by her hometown Cairo’s underground scene, London-based writer and researcher Nihal selects contemporary left-field hip hop, drill, drum & bass and experimental sounds from the Middle East and North Africa capturing the organic crossovers traversing the region. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nihal/episodes/nihal-9th-july-2026"
-      },
       {
         "n": "PEKING SPRING w/ JON K",
         "s": "2026-07-09T21:00:00+01:00",
@@ -24,9 +16,10 @@
         "n": "Kasra V W/ Omoloko",
         "s": "2026-07-09T23:00:00+01:00",
         "e": "2026-07-10T00:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Kasra Vaseghi homes in on leftfield music on a monthly Friday, playing new beat to trance, ambient to Middle Eastern disco and other oddities. The show regularly features guests who are upcoming DJs, local heroes or avid collectors.\nFor archive shows: Paradise Show",
+        "j": "Omoloko",
+        "u": "https://www.nts.live/api/v2/shows/kasra-v/episodes/kasra-v-9th-july-2026",
+        "t": "monthly",
         "p": "kasrav"
       },
       {
@@ -172,48 +165,35 @@
         "u": null,
         "t": "biweekly",
         "p": "rufdug"
+      },
+      {
+        "n": "MINIMAL EFFORT",
+        "s": "2026-07-10T19:00:00+01:00",
+        "e": "2026-07-10T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "minimaleffort"
       }
     ],
     "nts2": [
       {
-        "n": "COSMIC PEEKABOO",
-        "s": "2026-07-09T20:00:00+01:00",
-        "e": "2026-07-09T21:00:00+01:00",
-        "d": "Spinning moog-y tunes, psychedelic grooves, and assortments of harmony-driven pop. An hour of colorful curations from the mid-century and beyond.\nFrom the host: \"A trip from space to sea.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/cosmic-peekaboo/episodes/cosmic-peekaboo-9th-july-2026",
-        "t": "monthly",
-        "p": "cosmicpeekaboo"
-      },
-      {
-        "n": "Straight Honey",
-        "s": "2026-07-09T21:00:00+01:00",
-        "e": "2026-07-09T22:00:00+01:00",
-        "d": "Straight Honey is raw, unfiltered, and naturally crystallized Jazz & soulful R&B. Pour, stir, and sip, while you sink into her rich grooves…of tomorrow & yesterday.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/straight-honey/episodes/straight-honey-9th-july-2026",
-        "t": "monthly",
-        "p": "honey",
-        "ap": [
-          "straighthoney"
-        ]
-      },
-      {
         "n": "UNDERGROUND & BLACK W/ ASH LAURYN",
         "s": "2026-07-09T22:00:00+01:00",
         "e": "2026-07-09T23:00:00+01:00",
-        "d": null,
+        "d": "Self proclaimed “Underground and Black”, Detroit native Ash Lauryn leads her musical charge with a candid love for the historical roots of dance music, and the power of reclamation in modern day America. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ash-lauryn/episodes/ash-lauryn-9th-july-2026",
         "p": "ashlauryn"
       },
       {
         "n": "Timetable w/ DAITO MANABE, MOUNT XLR, & NOSAJ THING (R)",
         "s": "2026-07-09T23:00:00+01:00",
         "e": "2026-07-10T00:00:00+01:00",
-        "d": null,
+        "d": "Timetable Records - LA based label founded by Nosaj Thing releasing left field movements in dance, experimental, and electronic music.",
         "j": "DAITO MANABE, MOUNT XLR, & NOSAJ THING",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/timetable/episodes/timetable-22nd-april-2026",
         "t": "restream",
         "p": "timetable"
       },
@@ -347,21 +327,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Benteki & Capo Lee",
-        "s": "2026-07-09T19:00:00Z",
-        "e": "2026-07-09T21:00:00Z",
+        "n": "Finest Hour w/ burnermunde",
+        "s": "2026-07-10T17:00:00+01:00",
+        "e": "2026-07-10T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "JUNE MCDOOM",
+        "s": "2026-07-10T18:00:00+01:00",
+        "e": "2026-07-10T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "p": "benteki",
-        "ap": [
-          "capolee"
-        ]
-      },
+        "t": "monthly",
+        "p": "junemcdoom"
+      }
+    ],
+    "subtle": [
       {
         "n": "D-Code & Psylence",
         "s": "2026-07-09T21:00:00Z",
@@ -1528,19 +1514,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DJ Jedah ",
+        "s": "2026-07-16T20:00:00Z",
+        "e": "2026-07-16T21:00:00Z",
+        "d": "Jedah started DJ'ing at the tender age of 18 years of age specialising in UK Garage/Grime. \r\n\r\nJedah is currently the DJ for Grime Original Hollowman Jendor of the former Grime Collective Essentials/ OG's.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "The Mean Streets Show",
+        "s": "2026-07-16T21:00:00Z",
+        "e": "2026-07-16T23:00:00Z",
+        "d": "Responsible for “that massive grime tune with the Psycho strings”, UK producers/DJs Trends & Boylan are well versed in what the scene has to offer. They use this platform to showcase music from across the 140 spectrum from Grime to Dubstep. Anything goes!!",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Jimmy Tamborello - Dying Songs",
-        "s": "2026-07-09T19:00:00Z",
-        "e": "2026-07-09T21:00:00Z",
-        "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
-        "j": "Dying Songs",
-        "u": null,
-        "t": "weekly",
-        "p": "jimmytamborello"
-      },
       {
         "n": "Hannah Rubin and Noelle Armstrong – MELLOW DRAMA",
         "s": "2026-07-09T21:00:00Z",
@@ -2113,22 +2107,6 @@
     ],
     "rinse": [
       {
-        "n": "p-rallel with Omari",
-        "s": "2026-07-09T18:00:00Z",
-        "e": "2026-07-09T20:00:00Z",
-        "d": null,
-        "j": "Nevermind Operated",
-        "u": null
-      },
-      {
-        "n": "Martyn",
-        "s": "2026-07-09T20:00:00Z",
-        "e": "2026-07-09T21:00:00Z",
-        "d": null,
-        "j": "(2018)",
-        "u": null
-      },
-      {
         "n": "Jacques Greene",
         "s": "2026-07-09T21:00:00Z",
         "e": "2026-07-09T22:00:00Z",
@@ -2190,19 +2168,11 @@
       {
         "n": "Playlist",
         "s": "2026-07-10T06:00:00Z",
-        "e": "2026-07-10T09:00:00Z",
+        "e": "2026-07-10T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "Mornings with...",
-        "s": "2026-07-10T09:00:00Z",
-        "e": "2026-07-10T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
         "n": "Uncle Dugs",
@@ -2240,12 +2210,41 @@
       {
         "n": "Interplanetary Criminal",
         "s": "2026-07-10T18:00:00Z",
-        "e": "2026-07-10T19:00:00Z",
+        "e": "2026-07-10T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
         "p": "interplanetarycriminal"
+      },
+      {
+        "n": "DREA",
+        "s": "2026-07-10T20:00:00Z",
+        "e": "2026-07-10T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "drea"
+      },
+      {
+        "n": "Amber's",
+        "s": "2026-07-10T21:00:00Z",
+        "e": "2026-07-10T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "ELOQ",
+        "s": "2026-07-10T22:00:00Z",
+        "e": "2026-07-10T23:00:00Z",
+        "d": null,
+        "j": "DJ SNEAKEE",
+        "u": null,
+        "t": "monthly",
+        "p": "eloq"
       }
     ],
     "rinsefr": [
@@ -2785,6 +2784,25 @@
         "u": null,
         "t": "monthly",
         "p": "mechanica"
+      },
+      {
+        "n": "Inner Mono",
+        "s": "2026-08-09T20:00:00Z",
+        "e": "2026-08-09T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "EEL Automaton",
+        "s": "2026-08-09T21:00:00Z",
+        "e": "2026-08-09T23:00:00Z",
+        "d": null,
+        "j": "fallen matter & kk.Shucko",
+        "u": null,
+        "t": "monthly",
+        "p": "fallenmatter"
       }
     ]
   }
