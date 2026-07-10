@@ -1,41 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-10T20:59:58.268Z",
+  "updated": "2026-07-10T22:51:50.612Z",
   "stations": {
     "nts1": [
-      {
-        "n": "WOODGRAIN W/ DENNIS.EXP (R)",
-        "s": "2026-07-10T21:00:00+01:00",
-        "e": "2026-07-10T22:00:00+01:00",
-        "d": "Dennis specialises in selections ranging from new wave electronics, lo-fi hip-hop, downtempo house and everything in-between. Also a member of the wider music and production group, Woodgrain Vicious. ",
-        "j": "DENNIS.EXP",
-        "u": "https://www.nts.live/api/v2/shows/baadnews/episodes/baadnews-12th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "INNERVISIONS ÜBERALL W/ SKATMAN",
-        "s": "2026-07-10T22:00:00+01:00",
-        "e": "2026-07-10T23:00:00+01:00",
-        "d": "Innervisions brings its sound to NTS with monthly shows featuring its core artists and special guests.\nFrom the host: \"This mix reflects where I am as an artist at the moment. In between musical worlds.\"",
-        "j": "SKATMAN",
-        "u": "https://www.nts.live/api/v2/shows/innervisions/episodes/innervisions-10th-july-2026",
-        "t": "monthly"
-      },
       {
         "n": "ENDLESS RADIO W/ TADI BRAVO",
         "s": "2026-07-10T23:00:00+01:00",
         "e": "2026-07-11T00:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "ENDLESS rolls through NTS on a monthly basis. Sounding like Empyrean cracked open, the airwaves morph into into a tunnel linking South London to the end of the world through blown-out drums & and redlined ambience. Including exclusive dubs and guest mixes from friends.",
+        "j": "TADI BRAVO",
+        "u": "https://www.nts.live/api/v2/shows/endless/episodes/endless-10th-july-2026",
+        "t": "monthly"
       },
       {
         "n": "BUBBLE GUM VIOLENCE w/ Eilish Constance - Singing Together",
         "s": "2026-07-11T00:00:00+01:00",
         "e": "2026-07-11T01:00:00+01:00",
-        "d": null,
+        "d": "Katie Vick presents Bubble Gum Violence.\nFrom the host: \"Eilish Constance curates an hour of music from the past, present, and future.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/bubble-gum-violence/episodes/bubble-gum-violence-11th-july-2026"
       },
       {
         "n": "MOBBS (R)",
@@ -169,43 +152,44 @@
         "j": null,
         "u": null,
         "p": "beautifulswimmers"
+      },
+      {
+        "n": "OTOLOGIC (R)",
+        "s": "2026-07-12T00:00:00+01:00",
+        "e": "2026-07-12T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "otologic"
+      },
+      {
+        "n": "Beyond The Clouds (R)",
+        "s": "2026-07-12T02:00:00+01:00",
+        "e": "2026-07-12T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "Crossed Wires w/ Coffin Prick",
-        "s": "2026-07-10T20:00:00+01:00",
-        "e": "2026-07-10T22:00:00+01:00",
-        "d": "From the host: _\"Amanda is joined by friend and LA musician Coffin Prick for a two-hour vinyl set.\" _",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-10th-july-2026"
-      },
-      {
-        "n": "ALL ABOUT OUR LOVE W/ HARRIET BROWN",
-        "s": "2026-07-10T22:00:00+01:00",
-        "e": "2026-07-10T23:00:00+01:00",
-        "d": "Tenderness, yearning, spirituality and sensuality come together on Harriet Brown’s monthly show.\nFrom the host: \"Ambient with a touch of quiet vocals for the wilderness at its stillest.\"",
-        "j": "HARRIET BROWN",
-        "u": "https://www.nts.live/api/v2/shows/harriet-brown/episodes/harriet-brown-10th-july-2026",
-        "t": "monthly",
-        "p": "harrietbrown"
-      },
-      {
         "n": "East Never Loses: TAIWNESE SYNTH FOLK PT 2 w/ Angie QQ & Vicki Huang",
         "s": "2026-07-10T23:00:00+01:00",
         "e": "2026-07-11T00:00:00+01:00",
-        "d": null,
+        "d": "Enter a world of mahjong, star-crossed lovers, and cigarette smoke. Tune in for sounds of the past and the present across the Asian diaspora.\nFrom the host: \"Sourced from Taiwanese vinyl and digitized by Vicki Huang, this is Part Two of our Early Electronic: Taiwanese Synth Folk of the '70s series. It's a fascinating moment in music history when new electronic technology began meeting traditional Taiwanese folk music.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/angie-qq/episodes/angie-qq-10th-july-2026",
         "p": "angieqq"
       },
       {
         "n": "Hood Rave Juneteenth w/ Waajeed",
         "s": "2026-07-11T00:00:00+01:00",
         "e": "2026-07-11T01:00:00+01:00",
-        "d": null,
+        "d": "Tender R&B, blistering breaks, and diasporic riddims with LA dj/producer BAE BAE.  ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/baexploitation/episodes/baexploitation-11th-july-2026"
       },
       {
         "n": "PUFFY W/ BAPARI & NICO ADOMAKO",
@@ -336,18 +320,29 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-07-10T20:00:00Z",
-        "e": "2026-07-10T22:00:00Z",
+        "n": "ANNABEL FRASER",
+        "s": "2026-07-11T17:00:00+01:00",
+        "e": "2026-07-11T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "annabelfraser"
       },
+      {
+        "n": "MUTUALISM W/ BFTT",
+        "s": "2026-07-11T19:00:00+01:00",
+        "e": "2026-07-11T20:00:00+01:00",
+        "d": null,
+        "j": "BFTT",
+        "u": null,
+        "t": "monthly",
+        "p": "mutualism"
+      }
+    ],
+    "subtle": [
       {
         "n": "1V & Broken Boxes",
         "s": "2026-07-10T22:00:00Z",
@@ -1514,29 +1509,18 @@
         "u": null,
         "t": "monthly",
         "p": "cicely"
-      }
-    ],
-    "dublab": [
-      {
-        "n": "Xica Soul - SoundProof",
-        "s": "2026-07-10T19:00:00Z",
-        "e": "2026-07-10T21:00:00Z",
-        "d": null,
-        "j": "SoundProof",
-        "u": null,
-        "t": "monthly",
-        "p": "xicasoul"
       },
       {
-        "n": "DJ Bird of Paradigm –  Paradigm Power Hour",
-        "s": "2026-07-10T21:00:00Z",
-        "e": "2026-07-10T22:00:00Z",
+        "n": "TMANTUS",
+        "s": "2026-07-17T22:00:00Z",
+        "e": "2026-07-17T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "birdofparadigm"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "DJ The Witching Hours - Centrifugues",
         "s": "2026-07-10T22:00:00Z",
@@ -1923,6 +1907,14 @@
         "t": "monthly"
       },
       {
+        "n": "Untitled Show",
+        "s": "2026-07-15T07:00:00Z",
+        "e": "2026-07-15T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "Teen Daze - Easy Listening",
         "s": "2026-07-15T15:00:00Z",
         "e": "2026-07-15T17:00:00Z",
@@ -2006,6 +1998,14 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Xander – guest session",
+        "s": "2026-07-16T16:00:00Z",
+        "e": "2026-07-16T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Jimmy Tamborello - Dying Songs",
@@ -2100,29 +2100,19 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Zama Dube - The Witch's Flight",
+        "s": "2026-07-17T21:00:00Z",
+        "e": "2026-07-17T23:00:00Z",
+        "d": null,
+        "j": "The Witch's Flight",
+        "u": null,
+        "t": "monthly",
+        "p": "zamadube"
       }
     ],
     "rinse": [
-      {
-        "n": "DREA",
-        "s": "2026-07-10T20:00:00Z",
-        "e": "2026-07-10T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "drea"
-      },
-      {
-        "n": "Amber's",
-        "s": "2026-07-10T21:00:00Z",
-        "e": "2026-07-10T22:00:00Z",
-        "d": null,
-        "j": "Hutch B2B KT",
-        "u": null,
-        "t": "biweekly",
-        "p": "hutch"
-      },
       {
         "n": "ELOQ",
         "s": "2026-07-10T22:00:00Z",
@@ -2306,7 +2296,7 @@
         "d": null,
         "j": "It's Whitney, Bitch with JD Samson",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "whitneyweiss"
       },
       {
@@ -2316,7 +2306,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "djulz"
+        "p": "djulz",
+        "t": "monthly"
       },
       {
         "n": "La Mamie's",
@@ -2324,7 +2315,8 @@
         "e": "2026-07-11T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "Hewan Aman",
