@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-10T17:40:52.478Z",
+  "updated": "2026-07-10T19:16:42.732Z",
   "stations": {
     "nts1": [
-      {
-        "n": "RUF DUG - Heatwave Special",
-        "s": "2026-07-10T18:00:00+01:00",
-        "e": "2026-07-10T19:00:00+01:00",
-        "d": "Ruf Dug brings the leftfield: old video game soundtracks, dusty analogue dreamers and poolside Balearic sounds. No nonsense from the original tropical cyberpunk.\nFrom the host: \"music for a heatwave! Fever dream vibes…\"",
-        "j": "Heatwave Special",
-        "u": "https://www.nts.live/api/v2/shows/ruf-dug/episodes/ruf-dug-10th-july-2026",
-        "t": "biweekly",
-        "p": "rufdug"
-      },
       {
         "n": "MINIMAL EFFORT",
         "s": "2026-07-10T19:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "WOODGRAIN W/ DENNIS.EXP (R)",
         "s": "2026-07-10T21:00:00+01:00",
         "e": "2026-07-10T22:00:00+01:00",
-        "d": null,
+        "d": "Dennis specialises in selections ranging from new wave electronics, lo-fi hip-hop, downtempo house and everything in-between. Also a member of the wider music and production group, Woodgrain Vicious. ",
         "j": "DENNIS.EXP",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/baadnews/episodes/baadnews-12th-january-2026",
         "t": "restream"
       },
       {
@@ -41,13 +31,12 @@
         "u": null
       },
       {
-        "n": "ENDLESS RADIO",
+        "n": "ENDLESS RADIO W/ TADI BRAVO",
         "s": "2026-07-10T23:00:00+01:00",
         "e": "2026-07-11T00:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "BUBBLE GUM VIOLENCE w/ Eilish Constance - Singing Together",
@@ -171,43 +160,33 @@
         "j": null,
         "u": null,
         "p": "gilessmith"
+      },
+      {
+        "n": "CHERRIE FLAVA",
+        "s": "2026-07-11T20:00:00+01:00",
+        "e": "2026-07-11T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "JUNE MCDOOM",
-        "s": "2026-07-10T18:00:00+01:00",
-        "e": "2026-07-10T19:00:00+01:00",
-        "d": "New York based neo-folk songwriter June McDoom takes over for regular trips into vintage folk, reggae, soul, experimental sounds and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/june-mcdoom/episodes/june-mcdoom-10th-july-2026",
-        "t": "monthly",
-        "p": "junemcdoom"
-      },
-      {
-        "n": "HWABIAN - US FOLK SPECIAL (R)",
-        "s": "2026-07-10T19:00:00+01:00",
-        "e": "2026-07-10T20:00:00+01:00",
-        "d": "Meanderings into obscure folk, psych & pop records from YouTube archivist and record collector Hwabian.",
-        "j": "US FOLK SPECIAL",
-        "u": "https://www.nts.live/api/v2/shows/hwabian/episodes/hwabian",
-        "t": "restream"
-      },
-      {
         "n": "Crossed Wires w/ Coffin Prick",
         "s": "2026-07-10T20:00:00+01:00",
         "e": "2026-07-10T22:00:00+01:00",
-        "d": null,
+        "d": "From the host: _\"Amanda is joined by friend and LA musician Coffin Prick for a two-hour vinyl set.\" _",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-10th-july-2026"
       },
       {
         "n": "ALL ABOUT OUR LOVE W/ HARRIET BROWN",
         "s": "2026-07-10T22:00:00+01:00",
         "e": "2026-07-10T23:00:00+01:00",
-        "d": null,
+        "d": "Tenderness, yearning, spirituality and sensuality come together on Harriet Brown’s monthly show.\nFrom the host: \"Ambient with a touch of quiet vocals for the wilderness at its stillest.\"",
         "j": "HARRIET BROWN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/harriet-brown/episodes/harriet-brown-10th-july-2026",
         "t": "monthly",
         "p": "harrietbrown"
       },
@@ -340,27 +319,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " Locked in with Lexii",
-        "s": "2026-07-10T17:00:00Z",
-        "e": "2026-07-10T18:00:00Z",
+        "n": "ACROSS THE HORIZON W/ BOB HOLMES (SUSS) - the intersection of Americana, ambient & experimental",
+        "s": "2026-07-11T15:00:00+01:00",
+        "e": "2026-07-11T16:00:00+01:00",
+        "d": null,
+        "j": "BOB HOLMES (SUSS)",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Fieldwork w/ Derek Piotr",
+        "s": "2026-07-11T16:00:00+01:00",
+        "e": "2026-07-11T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
-      },
-      {
-        "n": "SYNES",
-        "s": "2026-07-10T18:00:00Z",
-        "e": "2026-07-10T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "synes"
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Pent.1",
         "s": "2026-07-10T19:00:00Z",
@@ -369,6 +347,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-07-10T20:00:00Z",
+        "e": "2026-07-10T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "1V & Broken Boxes",
@@ -1506,22 +1493,29 @@
         "j": "XOSÉ",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sempra",
+        "s": "2026-07-17T18:00:00Z",
+        "e": "2026-07-17T19:00:00Z",
+        "d": "Sempra is a producer & DJ based in London, specialising in the fusion of UK Garage, Jungle and Breakbeat with dreamy vocal melodies and the beautiful instrumentation found in Soul and contemporary RnB. Sempra’s consistent output has been released by labels such as Future Classic and Headroom, gaining industry support from the likes of Nia Archives, Sherelle, Yung Singh and Dr Dubplate.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "sempra"
+      },
+      {
+        "n": "Machine Woman",
+        "s": "2026-07-17T19:00:00Z",
+        "e": "2026-07-17T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "machinewoman"
       }
     ],
     "dublab": [
-      {
-        "n": "Daddy Differently and Dirty Dave - Things of Life",
-        "s": "2026-07-10T17:00:00Z",
-        "e": "2026-07-10T19:00:00Z",
-        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
-        "j": "Things of Life",
-        "u": null,
-        "t": "weekly",
-        "p": "daddydifferently",
-        "ap": [
-          "dirtydave"
-        ]
-      },
       {
         "n": "Xica Soul - SoundProof",
         "s": "2026-07-10T19:00:00Z",
@@ -1947,13 +1941,12 @@
         "p": "juanizguerra"
       },
       {
-        "n": "Heidi Lawden – Magic Roundabout",
+        "n": "Heidi Lawden – Extra Sensory",
         "s": "2026-07-15T19:00:00Z",
         "e": "2026-07-15T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "heidilawden"
       },
       {
@@ -2090,19 +2083,17 @@
         "ap": [
           "dirtydave"
         ]
+      },
+      {
+        "n": "Hakim Tafari – Siddhartha Soundsystem",
+        "s": "2026-07-17T19:00:00Z",
+        "e": "2026-07-17T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Heras Records",
-        "s": "2026-07-10T16:00:00Z",
-        "e": "2026-07-10T18:00:00Z",
-        "d": null,
-        "j": "Klose One",
-        "u": null,
-        "t": "monthly",
-        "p": "herasrecords"
-      },
       {
         "n": "Interplanetary Criminal",
         "s": "2026-07-10T18:00:00Z",
@@ -2282,25 +2273,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Machka",
-        "s": "2026-07-10T17:00:00Z",
-        "e": "2026-07-10T18:00:00Z",
-        "d": null,
-        "j": "Live session : Ameline",
-        "u": null,
-        "t": "monthly",
-        "p": "machka"
-      },
-      {
-        "n": "Trois-Quarts Taxi System",
-        "s": "2026-07-10T18:00:00Z",
-        "e": "2026-07-10T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-10T19:00:00Z",
