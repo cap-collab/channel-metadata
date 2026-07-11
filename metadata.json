@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-11T16:43:45.874Z",
+  "updated": "2026-07-11T18:46:40.310Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LAST RESORT",
-        "s": "2026-07-11T17:00:00+01:00",
-        "e": "2026-07-11T18:00:00+01:00",
-        "d": "A swift hour long excursion into the unknown. Expect the unexpected from host Tom Cathcart as almost anything goes: techno, post-punk, minimal synth, dub and new wave. Don’t be a prude.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/last-resort/episodes/last-resort-11th-july-2026",
-        "t": "monthly",
-        "p": "lastresort"
-      },
       {
         "n": "Giles Smith",
         "s": "2026-07-11T18:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "CHERRIE FLAVA",
         "s": "2026-07-11T20:00:00+01:00",
         "e": "2026-07-11T22:00:00+01:00",
-        "d": null,
+        "d": "Cherrie Flava, the boss of MIC Records, the London label behind releases from LAPS, Mike Collins, Lord Tusk & more, joins us once a month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mic-records/episodes/mic-records-11th-july-2026",
         "t": "monthly"
       },
       {
@@ -97,13 +87,13 @@
         "t": "weekly"
       },
       {
-        "n": "SOPHIA ZHURAVKOVA",
+        "n": "In Focus: Irena & Vojtěch Havlovi (R)",
         "s": "2026-07-12T08:00:00+01:00",
         "e": "2026-07-12T09:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Irena & Vojtěch Havlovi",
         "u": null,
-        "p": "sophiazhuravkova"
+        "t": "restream"
       },
       {
         "n": "THEA HD",
@@ -174,19 +164,18 @@
         "u": null,
         "t": "monthly",
         "p": "janiejones"
+      },
+      {
+        "n": "Perfect Lives w/ Bruno & Daniel",
+        "s": "2026-07-12T20:00:00+01:00",
+        "e": "2026-07-12T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "perfectlives"
       }
     ],
     "nts2": [
-      {
-        "n": "ANNABEL FRASER",
-        "s": "2026-07-11T17:00:00+01:00",
-        "e": "2026-07-11T19:00:00+01:00",
-        "d": "Annabel Fraser is a lover of music first and foremost. Not genres. Tune in for her monthly 2 hour show…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/annabel-fraser/episodes/annabel-fraser-11th-july-2026",
-        "t": "monthly",
-        "p": "annabelfraser"
-      },
       {
         "n": "MUTUALISM W/ BFTT",
         "s": "2026-07-11T19:00:00+01:00",
@@ -201,9 +190,9 @@
         "n": "KIM LANA",
         "s": "2026-07-11T20:00:00+01:00",
         "e": "2026-07-11T22:00:00+01:00",
-        "d": null,
+        "d": "Todmorden's finest, Kim Lana joins us in the Manchester studio once a month for 2 hours of bumping and pumping golden era house & techno.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kim-lana/episodes/kim-lana-11th-july-2026",
         "t": "monthly",
         "p": "kimlana"
       },
@@ -348,28 +337,18 @@
         "u": null,
         "t": "monthly",
         "p": "edv3ctor"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "BirdE",
-        "s": "2026-07-11T16:00:00Z",
-        "e": "2026-07-11T17:00:00Z",
-        "d": "BirdE brings an hour of the freshest Drum and Bass covering everything from liquid to techy steppers - the deeper the better.",
+        "n": "RED LASER RECORDS",
+        "s": "2026-07-12T17:00:00+01:00",
+        "e": "2026-07-12T19:00:00+01:00",
+        "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
-      {
-        "n": "Counter Culture",
-        "s": "2026-07-11T17:00:00Z",
-        "e": "2026-07-11T18:00:00Z",
-        "d": "Originally from Cambridge, Counter Culture's selection deftly navigates across a myriad of influences and exclusives from himself & friends.\r\nExpect some of the freshest rolling soul straight to your headspace.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "counterculture"
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Strictly Business Show w/ Qua Rush & Flipz MC",
         "s": "2026-07-11T18:00:00Z",
@@ -1540,19 +1519,18 @@
         "u": null,
         "t": "monthly",
         "p": "hurst"
+      },
+      {
+        "n": "Highlander",
+        "s": "2026-07-18T17:00:00Z",
+        "e": "2026-07-18T19:00:00Z",
+        "d": "Highlander brings you 2 hours of the freshest Jungle, Hardcore, Dubstep and Breaks. 3rd Saturday 7-9pm lock in!",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
-        "s": "2026-07-11T15:00:00Z",
-        "e": "2026-07-11T17:00:00Z",
-        "d": null,
-        "j": "The Sweeter the Juice",
-        "u": null,
-        "t": "biweekly",
-        "p": "illcamille"
-      },
       {
         "n": "Ryan Lee Moore – Holy Ghost Honky Tonk",
         "s": "2026-07-11T17:00:00Z",
@@ -1562,6 +1540,15 @@
         "u": null,
         "t": "monthly",
         "p": "ryanleemoore"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-07-11T19:00:00Z",
+        "e": "2026-07-11T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Nia Michelle, Jordan Collins, Lewis Thompson – Channels",
@@ -2140,19 +2127,17 @@
         "j": "JF Chen",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Devin Sarno – guest session",
+        "s": "2026-07-18T17:00:00Z",
+        "e": "2026-07-18T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Man Power",
-        "s": "2026-07-11T16:00:00Z",
-        "e": "2026-07-11T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "manpower"
-      },
       {
         "n": "Precious Stones with Emerald",
         "s": "2026-07-11T18:00:00Z",
@@ -2321,26 +2306,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Hewan Aman",
-        "s": "2026-07-11T16:00:00Z",
-        "e": "2026-07-11T17:00:00Z",
-        "d": null,
-        "j": "DUB DELIGHTS XXV — RÖM (LIVE)",
-        "u": null,
-        "t": "biweekly",
-        "p": "hewanaman"
-      },
-      {
-        "n": "Public System Recordings",
-        "s": "2026-07-11T17:00:00Z",
-        "e": "2026-07-11T18:00:00Z",
-        "d": null,
-        "j": "invite SYNTH LIBRARY NYC",
-        "u": null,
-        "t": "monthly",
-        "p": "publicsystemrecordings"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-11T18:00:00Z",
