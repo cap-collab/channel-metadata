@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-11T20:38:46.039Z",
+  "updated": "2026-07-11T22:38:23.215Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CHERRIE FLAVA",
-        "s": "2026-07-11T20:00:00+01:00",
-        "e": "2026-07-11T22:00:00+01:00",
-        "d": "Cherrie Flava, the boss of MIC Records, the London label behind releases from LAPS, Mike Collins, Lord Tusk & more, joins us once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mic-records/episodes/mic-records-11th-july-2026",
-        "t": "monthly"
-      },
       {
         "n": "Beautiful Swimmers w/ Szantos",
         "s": "2026-07-11T22:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "OTOLOGIC (R)",
         "s": "2026-07-12T00:00:00+01:00",
         "e": "2026-07-12T02:00:00+01:00",
-        "d": null,
+        "d": "Australian duo Otologic traverse wave, post punk, outsider club & dubwise meanderings in constant delay.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/otologic/episodes/otologic-6th-april-2026",
         "t": "restream",
         "p": "otologic"
       },
@@ -173,43 +164,33 @@
         "j": "CUSTOMS",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
+        "s": "2026-07-12T22:00:00+01:00",
+        "e": "2026-07-13T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "midnightmarauders"
       }
     ],
     "nts2": [
       {
-        "n": "KIM LANA",
-        "s": "2026-07-11T20:00:00+01:00",
-        "e": "2026-07-11T22:00:00+01:00",
-        "d": "Todmorden's finest, Kim Lana joins us in the Manchester studio once a month for 2 hours of bumping and pumping golden era house & techno.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kim-lana/episodes/kim-lana-11th-july-2026",
-        "t": "monthly",
-        "p": "kimlana"
-      },
-      {
-        "n": "BERGSONIST w/ Sly Ida",
-        "s": "2026-07-11T22:00:00+01:00",
-        "e": "2026-07-11T23:00:00+01:00",
-        "d": "Bergsonist is a musician originally from Morocco based in NYC. Genre-free sonic explorations with occasional conversations/guest mixes featuring inspiring artists.\nFrom the host: \"So psyched to have Ida B aka Sly Ida on the show this month!\nSly Ida takes over the first 30 minutes with a fantastic mix, followed by my own selection featuring some of the music I've been into lately incl. songs by Severed Heads, DJ Plead and more. Ida's Ig: @slyida.b https://linktr.ee/slyida\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bergsonist/episodes/bergsonist-11th-july-2026",
-        "p": "bergsonist"
-      },
-      {
         "n": "FAK AGZA2 W/ POSTDRONE",
         "s": "2026-07-11T23:00:00+01:00",
         "e": "2026-07-12T00:00:00+01:00",
-        "d": null,
+        "d": "Fak Agza2 (disassembled parts)\nDissecting various corners of Cairo’s underground, that make up the sound of the city. Presented by Cairo-based music producer/DJ. Postdrone",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/postdrone/episodes/postdrone-11th-july-2026"
       },
       {
         "n": "Ben Sims",
         "s": "2026-07-12T00:00:00+01:00",
         "e": "2026-07-12T02:00:00+01:00",
-        "d": null,
+        "d": "‘Run it Red’ sees bona fide techno legend Ben Sims showcases 2 hrs of the finest new house and techno he can lay his hands on.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ben-sims/episodes/ben-sims-12th-july-2026",
         "t": "monthly",
         "p": "bensims"
       },
@@ -345,27 +326,28 @@
         "j": "SLOW GARAGE",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "SHAMOS - 100% ORIGINAL MATERIAL (R)",
+        "s": "2026-07-12T20:00:00+01:00",
+        "e": "2026-07-12T21:00:00+01:00",
+        "d": null,
+        "j": "100% ORIGINAL MATERIAL",
+        "u": null,
+        "t": "restream",
+        "p": "shamos"
+      },
+      {
+        "n": "ALL NIGHT FLIGHT",
+        "s": "2026-07-12T21:00:00+01:00",
+        "e": "2026-07-12T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Kimber & Kid Kun",
-        "s": "2026-07-11T19:00:00Z",
-        "e": "2026-07-11T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Crude Oil",
-        "s": "2026-07-11T21:00:00Z",
-        "e": "2026-07-11T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Katarina",
         "s": "2026-07-11T22:00:00Z",
@@ -1537,23 +1519,27 @@
         "u": null,
         "t": "monthly",
         "p": "eklekt1k"
+      },
+      {
+        "n": "The Wheel Up Show w/ Tripta",
+        "s": "2026-07-18T21:00:00Z",
+        "e": "2026-07-18T22:00:00Z",
+        "d": null,
+        "j": "Tripta",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Deep Diving w/ DJ Nøthing",
+        "s": "2026-07-18T22:00:00Z",
+        "e": "2026-07-18T23:00:00Z",
+        "d": null,
+        "j": "DJ Nøthing",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Nia Michelle, Jordan Collins, Lewis Thompson – Channels",
-        "s": "2026-07-11T20:00:00Z",
-        "e": "2026-07-11T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "jordancollins",
-        "ap": [
-          "lewisthompson",
-          "niamichelle"
-        ]
-      },
       {
         "n": "D Tiberio - Patterns of Lorena",
         "s": "2026-07-11T21:00:00Z",
@@ -2135,29 +2121,18 @@
         "u": null,
         "t": "monthly",
         "p": "elynkazarian"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "DJ Plead",
-        "s": "2026-07-11T20:00:00Z",
-        "e": "2026-07-11T21:00:00Z",
+        "n": "Beats of All-Nations",
+        "s": "2026-07-18T21:00:00Z",
+        "e": "2026-07-18T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "djplead"
-      },
-      {
-        "n": "Nervous Horizon",
-        "s": "2026-07-11T21:00:00Z",
-        "e": "2026-07-11T22:00:00Z",
-        "d": null,
-        "j": "Harba",
-        "u": null,
-        "t": "biweekly",
-        "p": "nervoushorizon"
-      },
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "7ip7o3",
         "s": "2026-07-11T22:00:00Z",
