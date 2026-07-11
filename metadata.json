@@ -1,43 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-11T04:56:04.840Z",
+  "updated": "2026-07-11T07:41:18.223Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Japan Blues (R)",
-        "s": "2026-07-11T05:00:00+01:00",
-        "e": "2026-07-11T07:00:00+01:00",
-        "d": "The finest London selection of Japanese grooves, from the 30s to 80s, and more. Anything from folk, jazz, psychedelia, new wave, soul, disco and electronic, all Made In Japan. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/japanblues/episodes/japan-blues-23rd-march-2020",
-        "t": "restream"
-      },
-      {
-        "n": "Post-Geography (R)",
-        "s": "2026-07-11T07:00:00+01:00",
-        "e": "2026-07-11T08:00:00+01:00",
-        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-29th-january-2021",
-        "t": "restream",
-        "p": "postgeography"
-      },
       {
         "n": "SOUNDS OF THE DAWN",
         "s": "2026-07-11T08:00:00+01:00",
         "e": "2026-07-11T10:00:00+01:00",
-        "d": null,
+        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-11th-july-2026",
         "t": "monthly"
       },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-07-11T10:00:00+01:00",
         "e": "2026-07-11T12:00:00+01:00",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": "MACCA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-11th-july-2026",
         "t": "biweekly",
         "p": "macca"
       },
@@ -170,44 +151,38 @@
         "j": null,
         "u": null,
         "p": "sophiazhuravkova"
+      },
+      {
+        "n": "THEA HD",
+        "s": "2026-07-12T09:00:00+01:00",
+        "e": "2026-07-12T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "hd",
+        "ap": [
+          "theahd"
+        ]
+      },
+      {
+        "n": "THE SLIP",
+        "s": "2026-07-12T10:00:00+01:00",
+        "e": "2026-07-12T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "Popstar Benny (R)",
-        "s": "2026-07-11T05:00:00+01:00",
-        "e": "2026-07-11T06:00:00+01:00",
-        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-27th-january-2026",
-        "t": "restream",
-        "p": "popstarbenny"
-      },
-      {
-        "n": "DJ Harrison (R)",
-        "s": "2026-07-11T06:00:00+01:00",
-        "e": "2026-07-11T07:00:00+01:00",
-        "d": "Virginia-based producer Devonne Harris joins NTS for a monthly hour of hip-hop influenced sounds, including original and unreleased productions.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dj-harrison/episodes/dj-harrison-13th-june-2019",
-        "t": "restream"
-      },
-      {
-        "n": "GEORGIA: ALL KIND MUSIC (R)",
-        "s": "2026-07-11T07:00:00+01:00",
-        "e": "2026-07-11T08:00:00+01:00",
-        "d": null,
-        "j": "ALL KIND MUSIC",
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "SOPHIE THATCHER (R)",
         "s": "2026-07-11T08:00:00+01:00",
         "e": "2026-07-11T09:00:00+01:00",
-        "d": null,
+        "d": "Chime into a world of noise and melancholia. \nRanging from ambient to 70s Italian film scores. \nPerfect time for a long long walk. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-14th-january-2026",
         "t": "restream",
         "p": "sophie",
         "ap": [
@@ -218,9 +193,9 @@
         "n": "IN FOCUS: SPACEMEN 3 (R)",
         "s": "2026-07-11T09:00:00+01:00",
         "e": "2026-07-11T11:00:00+01:00",
-        "d": null,
+        "d": "Spacemen 3 were an English alternative rock band, formed in 1982 in Rugby, Warwickshire by Peter Kember and Jason Pierce.",
         "j": "SPACEMEN 3",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-spacemen-3",
         "t": "restream"
       },
       {
@@ -342,18 +317,38 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-07-11T03:00:00Z",
-        "e": "2026-07-11T07:00:00Z",
+        "n": "Nosedrip (R)",
+        "s": "2026-07-12T03:00:00+01:00",
+        "e": "2026-07-12T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream",
+        "p": "nosedrip"
       },
+      {
+        "n": "Rio Doce (R)",
+        "s": "2026-07-12T05:00:00+01:00",
+        "e": "2026-07-12T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "riodoce"
+      },
+      {
+        "n": "BLACK CLASSICAL - THREE BLIND MICE VS TRIO RECORDS (R)",
+        "s": "2026-07-12T07:00:00+01:00",
+        "e": "2026-07-12T09:00:00+01:00",
+        "d": null,
+        "j": "THREE BLIND MICE VS TRIO RECORDS",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "REFERENCES...w/ KPB",
         "s": "2026-07-11T07:00:00Z",
@@ -362,6 +357,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-07-11T08:00:00Z",
+        "e": "2026-07-11T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": " SCOPE__EM",
@@ -1525,31 +1529,18 @@
     ],
     "dublab": [
       {
-        "n": "DPM RERUN Contact Wave",
-        "s": "2026-07-11T03:00:00Z",
-        "e": "2026-07-11T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "88 - Club Paradise",
-        "s": "2026-07-11T05:00:00Z",
-        "e": "2026-07-11T07:00:00Z",
-        "d": null,
-        "j": "Club Paradise",
-        "u": null,
-        "t": "monthly",
-        "p": "88",
-        "ap": [
-          "paradise"
-        ]
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-07-11T07:00:00Z",
         "e": "2026-07-11T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-07-11T09:00:00Z",
+        "e": "2026-07-11T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2121,28 +2112,31 @@
         "ap": [
           "gregbelson"
         ]
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Electronic Playlist",
-        "s": "2026-07-11T01:00:00Z",
-        "e": "2026-07-11T05:00:00Z",
+        "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
+        "s": "2026-07-18T05:00:00Z",
+        "e": "2026-07-18T07:00:00Z",
+        "d": null,
+        "j": "Bears in Space",
+        "u": null,
+        "t": "monthly",
+        "p": "chrisbowen",
+        "ap": [
+          "victorrodriguez"
+        ]
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-07-18T07:00:00Z",
+        "e": "2026-07-18T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "Maey",
-        "s": "2026-07-11T05:00:00Z",
-        "e": "2026-07-11T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "maey"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-07-11T06:00:00Z",
@@ -2372,15 +2366,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-10T18:00:00Z",
-        "e": "2026-07-11T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-11T07:00:00Z",
         "e": "2026-07-11T10:00:00Z",
         "d": null,
@@ -2398,9 +2383,85 @@
         "t": "playlist"
       },
       {
-        "n": "La Sunday Abidjan",
+        "n": "Whitney Weiss",
         "s": "2026-07-11T12:00:00Z",
-        "e": "2026-07-11T13:00:00Z",
+        "e": "2026-07-11T14:00:00Z",
+        "d": null,
+        "j": "It's Whitney, Bitch with JD Samson",
+        "u": null,
+        "t": "biweekly",
+        "p": "whitneyweiss"
+      },
+      {
+        "n": "D’Julz",
+        "s": "2026-07-11T14:00:00Z",
+        "e": "2026-07-11T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "djulz"
+      },
+      {
+        "n": "La Mamie's",
+        "s": "2026-07-11T15:00:00Z",
+        "e": "2026-07-11T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Hewan Aman",
+        "s": "2026-07-11T16:00:00Z",
+        "e": "2026-07-11T17:00:00Z",
+        "d": null,
+        "j": "DUB DELIGHTS XXV — RÖM (LIVE)",
+        "u": null,
+        "t": "biweekly",
+        "p": "hewanaman"
+      },
+      {
+        "n": "Public System Recordings",
+        "s": "2026-07-11T17:00:00Z",
+        "e": "2026-07-11T18:00:00Z",
+        "d": null,
+        "j": "invite SYNTH LIBRARY NYC",
+        "u": null,
+        "t": "monthly",
+        "p": "publicsystemrecordings"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-11T18:00:00Z",
+        "e": "2026-07-12T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-12T07:00:00Z",
+        "e": "2026-07-12T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-12T10:00:00Z",
+        "e": "2026-07-12T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "La Sunday Abidjan",
+        "s": "2026-07-12T12:00:00Z",
+        "e": "2026-07-12T13:00:00Z",
         "d": null,
         "j": "INVITE ASNA & KOMMANDER SAMO",
         "u": null,
@@ -2409,8 +2470,8 @@
       },
       {
         "n": "ElectrAfrique",
-        "s": "2026-07-11T13:00:00Z",
-        "e": "2026-07-11T14:00:00Z",
+        "s": "2026-07-12T13:00:00Z",
+        "e": "2026-07-12T14:00:00Z",
         "d": null,
         "j": "invite SPICE&CURLS",
         "u": null,
@@ -2419,8 +2480,8 @@
       },
       {
         "n": "Eclipse Tribez",
-        "s": "2026-07-11T14:00:00Z",
-        "e": "2026-07-11T15:00:00Z",
+        "s": "2026-07-12T14:00:00Z",
+        "e": "2026-07-12T15:00:00Z",
         "d": null,
         "j": "Eclipse Tribez invites Paris-based DJ Anka",
         "u": null,
@@ -2429,8 +2490,8 @@
       },
       {
         "n": "Paloma Colombe",
-        "s": "2026-07-11T15:00:00Z",
-        "e": "2026-07-11T16:00:00Z",
+        "s": "2026-07-12T15:00:00Z",
+        "e": "2026-07-12T16:00:00Z",
         "d": null,
         "j": "invite IDLIBRA",
         "u": null,
@@ -2438,8 +2499,8 @@
       },
       {
         "n": "[re]sources",
-        "s": "2026-07-11T16:00:00Z",
-        "e": "2026-07-11T17:00:00Z",
+        "s": "2026-07-12T16:00:00Z",
+        "e": "2026-07-12T17:00:00Z",
         "d": null,
         "j": "avec Tommy Kid",
         "u": null,
@@ -2447,8 +2508,8 @@
       },
       {
         "n": "LU2K",
-        "s": "2026-07-11T17:00:00Z",
-        "e": "2026-07-11T18:00:00Z",
+        "s": "2026-07-12T17:00:00Z",
+        "e": "2026-07-12T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2457,8 +2518,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-11T18:00:00Z",
-        "e": "2026-07-11T19:00:00Z",
+        "s": "2026-07-12T18:00:00Z",
+        "e": "2026-07-12T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2467,16 +2528,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "Temple of Dreams",
-        "s": "2026-07-11T03:00:00Z",
-        "e": "2026-07-11T05:00:00Z",
-        "d": null,
-        "j": "Tristes Tropiques",
-        "u": null,
-        "t": "monthly",
-        "p": "tristestropiques"
-      },
       {
         "n": "DYATRON INDUSTRIES - let's go all in, to go all out!",
         "s": "2026-07-12T02:00:00Z",
