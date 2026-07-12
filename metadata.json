@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-12T18:52:23.747Z",
+  "updated": "2026-07-12T20:35:36.905Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NTS Guide To: Korean Psych Vol.1 (R)",
-        "s": "2026-07-12T19:00:00+01:00",
-        "e": "2026-07-12T20:00:00+01:00",
-        "d": "Taking a deep dive into Korea's 1970s folk and psychedelic rock scene…",
-        "j": "Korean Psych Vol.1",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/korean-psych-29th-june-2022",
-        "t": "restream"
-      },
-      {
-        "n": "Perfect Lives w/ Bruno & Daniel",
-        "s": "2026-07-12T20:00:00+01:00",
-        "e": "2026-07-12T21:00:00+01:00",
-        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-12th-july-2026",
-        "p": "perfectlives"
-      },
       {
         "n": "BETWEEN THE SHEETS W/ CUSTOMS (R)",
         "s": "2026-07-12T21:00:00+01:00",
         "e": "2026-07-12T22:00:00+01:00",
-        "d": null,
+        "d": "A V Day mixtape gift from Customs, 60 minutes of tracks that sample, cover or interpolate the sensual Isley Brothers classic.",
         "j": "CUSTOMS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/between-the-sheets-w-customs-9th-february-2024",
         "t": "restream"
       },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
         "s": "2026-07-12T22:00:00+01:00",
         "e": "2026-07-13T00:00:00+01:00",
-        "d": null,
+        "d": "Marsha by name and mellow by nature, MarshmeLLo takes you on a musical journey of all her influences plus a little extra. The first show ever broadcast on the station, Marsha continues to find her groove…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/midnight-marauders/episodes/midnight-marauders-12th-july-2026",
         "p": "midnightmarauders"
       },
       {
@@ -169,44 +151,45 @@
         "j": "JACK SAPSED",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "LUNG DART",
+        "s": "2026-07-13T22:00:00+01:00",
+        "e": "2026-07-13T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lungdart"
+      },
+      {
+        "n": "TORN HAWK",
+        "s": "2026-07-13T23:00:00+01:00",
+        "e": "2026-07-14T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "tornhawk"
       }
     ],
     "nts2": [
       {
-        "n": "PHYSICAL THERAPY - SLOW GARAGE (R)",
-        "s": "2026-07-12T19:00:00+01:00",
-        "e": "2026-07-12T20:00:00+01:00",
-        "d": "Prescribe yourself a genre-free, highly emotional course of Physical Therapy.",
-        "j": "SLOW GARAGE",
-        "u": "https://www.nts.live/api/v2/shows/physical-therapy/episodes/physical-therapy-22nd-april-2022",
-        "t": "restream"
-      },
-      {
-        "n": "SHAMOS - 100% ORIGINAL MATERIAL (R)",
-        "s": "2026-07-12T20:00:00+01:00",
-        "e": "2026-07-12T21:00:00+01:00",
-        "d": "Long time NTS veteran and Apron and Youth affiliate SHAMOS heads a monthly late night slot. Expect a varied, yet consistently cohesive selection, as he joins the dots between rugged analog house, tripped out hip-hop, the punkier dregs of new wave and other leftfield cuts along the way.",
-        "j": "100% ORIGINAL MATERIAL",
-        "u": "https://www.nts.live/api/v2/shows/shamos/episodes/shamos-9th-december-2025",
-        "t": "restream",
-        "p": "shamos"
-      },
-      {
         "n": "ALL NIGHT FLIGHT",
         "s": "2026-07-12T21:00:00+01:00",
         "e": "2026-07-12T22:00:00+01:00",
-        "d": null,
+        "d": "COOMBE HOUSE",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/all-night-flight/episodes/all-night-flight-12th-july-2026",
         "t": "monthly"
       },
       {
         "n": "Simon Parris",
         "s": "2026-07-12T22:00:00+01:00",
         "e": "2026-07-12T23:00:00+01:00",
-        "d": null,
+        "d": "In the mix with Simon Parris, blending and rearranging cross-genre music and sonic fragments. Chiaroscuro moments from then and now…\nFrom the host: \"One hour in the mix with Simon Parris, blending and rearranging cross-genre music and sonic fragments. Chiaroscuro moments from then and now…\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/simon-parris/episodes/simon-parris-12th-july-2026",
         "p": "simonparris"
       },
       {
@@ -337,18 +320,28 @@
         "j": null,
         "u": null,
         "p": "zuli"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "DIG n SPIN W/ STAN",
-        "s": "2026-07-12T18:00:00Z",
-        "e": "2026-07-12T19:00:00Z",
+        "n": "ANTHONY CHALMERS",
+        "s": "2026-07-13T17:00:00+01:00",
+        "e": "2026-07-13T18:00:00+01:00",
         "d": null,
-        "j": "STAN",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "ALDOUS RH",
+        "s": "2026-07-13T18:00:00+01:00",
+        "e": "2026-07-13T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "aldousrh"
+      }
+    ],
+    "subtle": [
       {
         "n": "FKOF",
         "s": "2026-07-12T19:00:00Z",
@@ -1499,19 +1492,18 @@
         "u": null,
         "t": "monthly",
         "p": "sofarsogood"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Bob Baker Marionette Theater – Puppetphonic",
-        "s": "2026-07-12T17:00:00Z",
-        "e": "2026-07-12T19:00:00Z",
+        "n": "Off-Switch Audio",
+        "s": "2026-07-19T20:00:00Z",
+        "e": "2026-07-19T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "marionette"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Becky Ebenkamp – Bubblegum & Other Delights",
         "s": "2026-07-12T19:00:00Z",
@@ -2090,29 +2082,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Barbarelle - Atlas",
+        "s": "2026-07-19T19:00:00Z",
+        "e": "2026-07-19T21:00:00Z",
+        "d": null,
+        "j": "Atlas",
+        "u": null,
+        "t": "monthly",
+        "p": "barbarelle"
       }
     ],
     "rinse": [
-      {
-        "n": "RIZ LA TEEF",
-        "s": "2026-07-12T17:00:00Z",
-        "e": "2026-07-12T19:00:00Z",
-        "d": null,
-        "j": "B2B\tALI VELMI",
-        "u": null,
-        "t": "monthly",
-        "p": "rizlateef"
-      },
-      {
-        "n": "NLDC",
-        "s": "2026-07-12T19:00:00Z",
-        "e": "2026-07-12T20:00:00Z",
-        "d": null,
-        "j": "Cueist, Fearless Dread & J2S",
-        "u": null,
-        "t": "monthly",
-        "p": "fearlessdread"
-      },
       {
         "n": "DaMetalMessiah presents Frost B2B JJ with Shxdow, Kyeza, Avaword, J Dot & Llax",
         "s": "2026-07-12T20:00:00Z",
