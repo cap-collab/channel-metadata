@@ -1,43 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-07-12T14:47:32.322Z",
+  "updated": "2026-07-12T16:48:05.210Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Corticeps w/ Minus Kendal and Memotone (Live)",
-        "s": "2026-07-12T14:00:00+01:00",
-        "e": "2026-07-12T16:00:00+01:00",
-        "d": "Minus Kendal trods the outer reaches foraging for aural morsels, slinging you a monthly smorgasbord of sultry sonix from trenchcoat folk to silicone synthwave.",
-        "j": "Minus Kendal and Memotone (Live)",
-        "u": "https://www.nts.live/api/v2/shows/corticeps/episodes/corticeps-12th-july-2026",
-        "t": "monthly",
-        "p": "corticeps"
-      },
-      {
-        "n": "KIT GRILL",
-        "s": "2026-07-12T16:00:00+01:00",
-        "e": "2026-07-12T17:00:00+01:00",
-        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kit-grill/episodes/kit-grill-12th-july-2026",
-        "t": "monthly",
-        "p": "kitgrill"
-      },
       {
         "n": "ALL TRADES W/ CHUGGY",
         "s": "2026-07-12T17:00:00+01:00",
         "e": "2026-07-12T19:00:00+01:00",
-        "d": null,
+        "d": "The man behind the various Emotional labels jumps in the NTS cockpit for a chance to show off his expansive taste. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/emotional/episodes/emotional-12th-july-2026"
       },
       {
         "n": "JANIE JONES",
         "s": "2026-07-12T19:00:00+01:00",
         "e": "2026-07-12T20:00:00+01:00",
-        "d": null,
+        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-12th-july-2026",
         "t": "monthly",
         "p": "janiejones"
       },
@@ -170,45 +150,44 @@
         "j": "DRAKEFORD",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-07-13T18:00:00+01:00",
+        "e": "2026-07-13T20:00:00+01:00",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
+      },
+      {
+        "n": "SUNCUT",
+        "s": "2026-07-13T20:00:00+01:00",
+        "e": "2026-07-13T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "Abena (R)",
-        "s": "2026-07-12T15:00:00+01:00",
-        "e": "2026-07-12T16:00:00+01:00",
-        "d": "All Hands On Deck co-founder Abena jumps on once a month - music to help loosen your joints, live from the Manchester studio. Expect dub, techno & a bit of ambient.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/abena/episodes/abena-5th-october-2025",
-        "t": "restream",
-        "p": "abena"
-      },
-      {
-        "n": "EDV3CTOR",
-        "s": "2026-07-12T16:00:00+01:00",
-        "e": "2026-07-12T17:00:00+01:00",
-        "d": "Leeds scene leader and DJ edv3ctor presents archival and contemporary selections from his personal archive, exploring rhythms, sounds, and moods past and present.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/edv3ctor/episodes/edv3ctor-12th-july-2026",
-        "t": "monthly",
-        "p": "edv3ctor"
-      },
-      {
         "n": "RED LASER RECORDS",
         "s": "2026-07-12T17:00:00+01:00",
         "e": "2026-07-12T19:00:00+01:00",
-        "d": null,
+        "d": "Red Laser Records crew brings Manchester's own blend of Manctalo, Disco & Boogie. A high energy Sunday Buzz guaranteed.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/red-laser-records/episodes/red-laser-records-12th-july-2026",
         "t": "monthly"
       },
       {
         "n": "PHYSICAL THERAPY - SLOW GARAGE (R)",
         "s": "2026-07-12T19:00:00+01:00",
         "e": "2026-07-12T20:00:00+01:00",
-        "d": null,
+        "d": "Prescribe yourself a genre-free, highly emotional course of Physical Therapy.",
         "j": "SLOW GARAGE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/physical-therapy/episodes/physical-therapy-22nd-april-2022",
         "t": "restream"
       },
       {
@@ -340,29 +319,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL",
+        "s": "2026-07-13T13:00:00+01:00",
+        "e": "2026-07-13T14:00:00+01:00",
+        "d": null,
+        "j": "YAWNING PORTAL",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "CXEMA",
+        "s": "2026-07-13T14:00:00+01:00",
+        "e": "2026-07-13T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "cxema"
       }
     ],
     "subtle": [
-      {
-        "n": " Alien Izz",
-        "s": "2026-07-12T14:00:00Z",
-        "e": "2026-07-12T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "alienizz"
-      },
-      {
-        "n": "The Garage Garden",
-        "s": "2026-07-12T15:00:00Z",
-        "e": "2026-07-12T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "garagegarden"
-      },
       {
         "n": " NULLIFY",
         "s": "2026-07-12T16:00:00Z",
@@ -1512,18 +1489,28 @@
         "u": null,
         "t": "monthly",
         "p": "chaitu"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs 2",
-        "s": "2026-07-12T14:00:00Z",
-        "e": "2026-07-12T16:00:00Z",
+        "n": "Dorian Day",
+        "s": "2026-07-19T15:00:00Z",
+        "e": "2026-07-19T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "SETTINGS",
+        "s": "2026-07-19T16:00:00Z",
+        "e": "2026-07-19T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "settings"
+      }
+    ],
+    "dublab": [
       {
         "n": "Kenneth Bager - Music for Dreams",
         "s": "2026-07-12T16:00:00Z",
@@ -2103,30 +2090,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-07-19T16:00:00Z",
+        "e": "2026-07-19T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "Shuffle 'n' Swing",
-        "s": "2026-07-12T13:00:00Z",
-        "e": "2026-07-12T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "DJ Polo with Katy B",
-        "s": "2026-07-12T15:00:00Z",
-        "e": "2026-07-12T16:00:00Z",
-        "d": null,
-        "j": "From The Vault (2020)",
-        "u": null,
-        "p": "djpolo",
-        "ap": [
-          "katyb"
-        ]
-      },
       {
         "n": "Jamo Beatz",
         "s": "2026-07-12T16:00:00Z",
@@ -2142,7 +2118,7 @@
         "s": "2026-07-12T17:00:00Z",
         "e": "2026-07-12T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B\tALI VELMI",
         "u": null,
         "t": "monthly",
         "p": "rizlateef"
@@ -2171,7 +2147,7 @@
         "s": "2026-07-12T22:00:00Z",
         "e": "2026-07-12T23:00:00Z",
         "d": null,
-        "j": "Facta & K-LONE: Live from Amber's",
+        "j": "100% Baalti & Friends",
         "u": null,
         "t": "biweekly",
         "p": "baalti"
@@ -2313,26 +2289,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Eclipse Tribez",
-        "s": "2026-07-12T14:00:00Z",
-        "e": "2026-07-12T15:00:00Z",
-        "d": null,
-        "j": "Eclipse Tribez invites Paris-based DJ Anka",
-        "u": null,
-        "t": "monthly",
-        "p": "eclipsetribez"
-      },
-      {
-        "n": "Paloma Colombe",
-        "s": "2026-07-12T15:00:00Z",
-        "e": "2026-07-12T16:00:00Z",
-        "d": null,
-        "j": "invite IDLIBRA",
-        "u": null,
-        "t": "monthly",
-        "p": "palomacolombe"
-      },
       {
         "n": "[re]sources",
         "s": "2026-07-12T16:00:00Z",
