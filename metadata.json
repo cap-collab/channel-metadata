@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-12T20:35:36.905Z",
+  "updated": "2026-07-12T22:38:49.683Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BETWEEN THE SHEETS W/ CUSTOMS (R)",
-        "s": "2026-07-12T21:00:00+01:00",
-        "e": "2026-07-12T22:00:00+01:00",
-        "d": "A V Day mixtape gift from Customs, 60 minutes of tracks that sample, cover or interpolate the sensual Isley Brothers classic.",
-        "j": "CUSTOMS",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/between-the-sheets-w-customs-9th-february-2024",
-        "t": "restream"
-      },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO",
         "s": "2026-07-12T22:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "MILES DAVIS AT 100: THE ELECTRIC PERIOD (R)",
         "s": "2026-07-13T00:00:00+01:00",
         "e": "2026-07-13T02:00:00+01:00",
-        "d": null,
+        "d": "This episode explores Miles Davis’ electric period, when he pushed jazz into heavier, stranger and more expansive territory, drawing on funk, rock, studio experimentation and open-ended improvisation. Mixed and compiled by NTS.",
         "j": "THE ELECTRIC PERIOD",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/miles-davis-100/episodes/miles-davis-100-the-electric-period-26th-may-2026",
         "t": "restream"
       },
       {
@@ -171,43 +162,33 @@
         "u": null,
         "t": "monthly",
         "p": "tornhawk"
+      },
+      {
+        "n": "DROWNED BY LOCALS PRESENTS: MUSIC FOR PARKING GARAGES W/ A LARGE SHEET OF MUSCLE",
+        "s": "2026-07-14T00:00:00+01:00",
+        "e": "2026-07-14T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "ALL NIGHT FLIGHT",
-        "s": "2026-07-12T21:00:00+01:00",
-        "e": "2026-07-12T22:00:00+01:00",
-        "d": "COOMBE HOUSE",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/all-night-flight/episodes/all-night-flight-12th-july-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Simon Parris",
-        "s": "2026-07-12T22:00:00+01:00",
-        "e": "2026-07-12T23:00:00+01:00",
-        "d": "In the mix with Simon Parris, blending and rearranging cross-genre music and sonic fragments. Chiaroscuro moments from then and now…\nFrom the host: \"One hour in the mix with Simon Parris, blending and rearranging cross-genre music and sonic fragments. Chiaroscuro moments from then and now…\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/simon-parris/episodes/simon-parris-12th-july-2026",
-        "p": "simonparris"
-      },
-      {
         "n": "IKR. IMPRINT (R)",
         "s": "2026-07-12T23:00:00+01:00",
         "e": "2026-07-13T00:00:00+01:00",
-        "d": null,
+        "d": "universal collage",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ikura-imprint/episodes/ikura-imprint-14th-january-2026",
         "t": "restream"
       },
       {
         "n": "YL HOOI (R)",
         "s": "2026-07-13T00:00:00+01:00",
         "e": "2026-07-13T01:00:00+01:00",
-        "d": null,
+        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-30th-april-2026",
         "t": "restream",
         "p": "ylhooi"
       },
@@ -339,28 +320,26 @@
         "u": null,
         "t": "monthly",
         "p": "aldousrh"
+      },
+      {
+        "n": "THE LAVENDER KITE AUDIO RESEARCH HOUR",
+        "s": "2026-07-13T19:00:00+01:00",
+        "e": "2026-07-13T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "BO NINGEN",
+        "s": "2026-07-13T20:00:00+01:00",
+        "e": "2026-07-13T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "boningen"
       }
     ],
     "subtle": [
-      {
-        "n": "FKOF",
-        "s": "2026-07-12T19:00:00Z",
-        "e": "2026-07-12T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "fkof"
-      },
-      {
-        "n": "VitalArea",
-        "s": "2026-07-12T21:00:00Z",
-        "e": "2026-07-12T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Eva de Ree",
         "s": "2026-07-12T22:00:00Z",
@@ -1501,19 +1480,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Becky Ebenkamp – Bubblegum & Other Delights",
-        "s": "2026-07-12T19:00:00Z",
-        "e": "2026-07-12T21:00:00Z",
+        "n": "SPOTLIGHT EVENTS ",
+        "s": "2026-07-19T21:00:00Z",
+        "e": "2026-07-19T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "beckyebenkamp"
+        "p": "spotlight"
       },
+      {
+        "n": "htypeproduky",
+        "s": "2026-07-19T22:00:00Z",
+        "e": "2026-07-19T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Archivo13 - Escuchar al Istmo",
         "s": "2026-07-12T21:00:00Z",
@@ -2092,18 +2080,18 @@
         "u": null,
         "t": "monthly",
         "p": "barbarelle"
+      },
+      {
+        "n": "body / negative - cloud music",
+        "s": "2026-07-19T21:00:00Z",
+        "e": "2026-07-19T23:00:00Z",
+        "d": null,
+        "j": "cloud music",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "DaMetalMessiah presents Frost B2B JJ with Shxdow, Kyeza, Avaword, J Dot & Llax",
-        "s": "2026-07-12T20:00:00Z",
-        "e": "2026-07-12T22:00:00Z",
-        "d": null,
-        "j": "Live from Brickworks",
-        "u": null,
-        "p": "dametalmessiah"
-      },
       {
         "n": "Baalti",
         "s": "2026-07-12T22:00:00Z",
@@ -2253,15 +2241,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-12T18:00:00Z",
-        "e": "2026-07-13T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-13T07:00:00Z",
         "e": "2026-07-13T10:00:00Z",
         "d": null,
@@ -2285,7 +2264,6 @@
         "d": null,
         "j": "EARTHEATER",
         "u": null,
-        "t": "monthly",
         "p": "lesyeuxferms"
       },
       {
@@ -2304,7 +2282,6 @@
         "d": null,
         "j": "invite La Patrona Mami",
         "u": null,
-        "t": "monthly",
         "p": "saborami"
       },
       {
@@ -2357,15 +2334,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "Inner Mono",
-        "s": "2026-07-12T20:00:00Z",
-        "e": "2026-07-12T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "EEL Automaton",
         "s": "2026-07-12T21:00:00Z",
