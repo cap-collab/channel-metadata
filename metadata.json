@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-12T12:58:42.129Z",
+  "updated": "2026-07-12T14:47:32.322Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Tommasi - Film Music Summer Special",
-        "s": "2026-07-12T12:00:00+01:00",
-        "e": "2026-07-12T14:00:00+01:00",
-        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
-        "j": "Film Music Summer Special",
-        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-12th-july-2026",
-        "t": "monthly",
-        "p": "tommasi"
-      },
       {
         "n": "Corticeps w/ Minus Kendal and Memotone (Live)",
         "s": "2026-07-12T14:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "KIT GRILL",
         "s": "2026-07-12T16:00:00+01:00",
         "e": "2026-07-12T17:00:00+01:00",
-        "d": null,
+        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kit-grill/episodes/kit-grill-12th-july-2026",
         "t": "monthly",
         "p": "kitgrill"
       },
@@ -171,45 +161,35 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "FROM THE DEPTHS W/ DRAKEFORD",
+        "s": "2026-07-13T16:00:00+01:00",
+        "e": "2026-07-13T18:00:00+01:00",
+        "d": null,
+        "j": "DRAKEFORD",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "ADULTZ ONLY (R)",
-        "s": "2026-07-12T13:00:00+01:00",
-        "e": "2026-07-12T14:00:00+01:00",
-        "d": "A lovers selection strictly for the adultz, courtesy of Norman Francis - the man behind lovers rock archive The Revival Master.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/adultz-only/episodes/adultz-only-10th-february-2026",
-        "t": "restream",
-        "p": "adultzonly"
-      },
-      {
-        "n": "CHILDREN OF ZEUS",
-        "s": "2026-07-12T14:00:00+01:00",
-        "e": "2026-07-12T15:00:00+01:00",
-        "d": "Children of Zeus's Konny Kon takes over our Manchester studio once a month to play upfront Soul, Classic Hip Hop & New RnB.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/children-of-zeus/episodes/children-of-zeus-12th-july-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Abena",
+        "n": "Abena (R)",
         "s": "2026-07-12T15:00:00+01:00",
         "e": "2026-07-12T16:00:00+01:00",
-        "d": null,
+        "d": "All Hands On Deck co-founder Abena jumps on once a month - music to help loosen your joints, live from the Manchester studio. Expect dub, techno & a bit of ambient.",
         "j": null,
-        "u": null,
-        "t": "monthly",
+        "u": "https://www.nts.live/api/v2/shows/abena/episodes/abena-5th-october-2025",
+        "t": "restream",
         "p": "abena"
       },
       {
         "n": "EDV3CTOR",
         "s": "2026-07-12T16:00:00+01:00",
         "e": "2026-07-12T17:00:00+01:00",
-        "d": null,
+        "d": "Leeds scene leader and DJ edv3ctor presents archival and contemporary selections from his personal archive, exploring rhythms, sounds, and moods past and present.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/edv3ctor/episodes/edv3ctor-12th-july-2026",
         "t": "monthly",
         "p": "edv3ctor"
       },
@@ -343,27 +323,26 @@
         "u": null,
         "t": "restream",
         "p": "homeshake"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "FORZUG w/ Óriah ",
-        "s": "2026-07-12T12:00:00Z",
-        "e": "2026-07-12T13:00:00Z",
-        "d": null,
-        "j": "Óriah",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Comfy Bella",
-        "s": "2026-07-12T13:00:00Z",
-        "e": "2026-07-12T14:00:00Z",
+        "n": "Kiefer (R)",
+        "s": "2026-07-13T10:00:00+01:00",
+        "e": "2026-07-13T11:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
+      {
+        "n": "AN1MA w/ MOLINARO",
+        "s": "2026-07-13T11:00:00+01:00",
+        "e": "2026-07-13T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": " Alien Izz",
         "s": "2026-07-12T14:00:00Z",
@@ -1514,18 +1493,28 @@
         "u": null,
         "t": "monthly",
         "p": "itsjermayne"
+      },
+      {
+        "n": " What's The Weather, Selecta? w/ Megan Wroe",
+        "s": "2026-07-19T13:00:00Z",
+        "e": "2026-07-19T14:00:00Z",
+        "d": null,
+        "j": "Megan Wroe",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Chaitu",
+        "s": "2026-07-19T14:00:00Z",
+        "e": "2026-07-19T15:00:00Z",
+        "d": "Hailing from Mumbai, now living in London, Chaitu is energised by the UK sound and scene.\r\n\r\nWith a love of all things weird, weighty and groovy; his mixes and productions bridge electro, techno, breaks, UKG and Jungle, with sprinklings of everything in between.\r\n\r\nChaitu champions provocative beats that break down the barriers of style, genre and expectation, all while keeping you moving.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "chaitu"
       }
     ],
     "dublab": [
-      {
-        "n": "djjs",
-        "s": "2026-07-12T12:00:00Z",
-        "e": "2026-07-12T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "djjs 2",
         "s": "2026-07-12T14:00:00Z",
@@ -2105,18 +2094,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Dean Bryce",
-        "s": "2026-07-12T11:00:00Z",
-        "e": "2026-07-12T13:00:00Z",
+        "n": "djjs 2",
+        "s": "2026-07-19T14:00:00Z",
+        "e": "2026-07-19T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "Shuffle 'n' Swing",
         "s": "2026-07-12T13:00:00Z",
@@ -2163,18 +2152,18 @@
         "s": "2026-07-12T19:00:00Z",
         "e": "2026-07-12T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Cueist, Fearless Dread & J2S",
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "fearlessdread"
       },
       {
-        "n": "DaMetalMessiah",
+        "n": "DaMetalMessiah presents Frost B2B JJ with Shxdow, Kyeza, Avaword, J Dot & Llax",
         "s": "2026-07-12T20:00:00Z",
         "e": "2026-07-12T22:00:00Z",
         "d": null,
-        "j": "Frost B2B JJ with Shxdow, Kyeza, Avaword, J Dot & Llax (Live at Brickworks)",
+        "j": "Live from Brickworks",
         "u": null,
-        "t": "biweekly",
         "p": "dametalmessiah"
       },
       {
@@ -2324,26 +2313,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "La Sunday Abidjan",
-        "s": "2026-07-12T12:00:00Z",
-        "e": "2026-07-12T13:00:00Z",
-        "d": null,
-        "j": "INVITE ASNA & KOMMANDER SAMO",
-        "u": null,
-        "t": "monthly",
-        "p": "lasundayabidjan"
-      },
-      {
-        "n": "ElectrAfrique",
-        "s": "2026-07-12T13:00:00Z",
-        "e": "2026-07-12T14:00:00Z",
-        "d": null,
-        "j": "invite SPICE&CURLS",
-        "u": null,
-        "t": "monthly",
-        "p": "electrafrique"
-      },
       {
         "n": "Eclipse Tribez",
         "s": "2026-07-12T14:00:00Z",
