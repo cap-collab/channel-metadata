@@ -1,43 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-12T05:19:08.368Z",
+  "updated": "2026-07-12T08:01:30.504Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NOSEDRIP (R)",
-        "s": "2026-07-12T06:00:00+01:00",
-        "e": "2026-07-12T07:30:00+01:00",
-        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-27th-october-2025",
-        "t": "restream",
-        "p": "nosedrip"
-      },
-      {
-        "n": "MARTIN NEWELL'S ODDCASTE",
-        "s": "2026-07-12T07:30:00+01:00",
-        "e": "2026-07-12T08:00:00+01:00",
-        "d": "The Cleaners From Venus frontman presents an eclectic mix of pop music, comedy, and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martin-newells-oddcaste/episodes/martin-newells-oddcaste-12th-july-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "SOPHIA ZHURAVKOVA W/ SORIA",
-        "s": "2026-07-12T08:00:00+01:00",
-        "e": "2026-07-12T09:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "sophiazhuravkova"
-      },
       {
         "n": "THEA HD",
         "s": "2026-07-12T09:00:00+01:00",
         "e": "2026-07-12T10:00:00+01:00",
-        "d": null,
+        "d": "Odda Recordings label owner Thea HD unearths the lesser known common sounds. from old soundtracks, library music to experimental electronic music…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/thea-hd/episodes/thea-hd-12th-july-2026",
         "t": "biweekly",
         "p": "hd",
         "ap": [
@@ -174,35 +146,36 @@
         "u": null,
         "t": "restream",
         "p": "arp"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
+        "s": "2026-07-13T07:00:00+01:00",
+        "e": "2026-07-13T09:00:00+01:00",
+        "d": null,
+        "j": "MARIA SOMERVILLE",
+        "u": null,
+        "t": "weekly",
+        "p": "mariasomerville"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-07-13T09:00:00+01:00",
+        "e": "2026-07-13T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
       {
-        "n": "Rio Doce (R)",
-        "s": "2026-07-12T05:00:00+01:00",
-        "e": "2026-07-12T07:00:00+01:00",
-        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.\nFrom the host: _\"Rio Doce de Janeiro pays homage to the Carnival of Salvador, Bahia.\nWith guest Lorena Silveira, we created a mix that tells the story of one of Brazil's main celebrations.\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-28th-january-2026",
-        "t": "restream",
-        "p": "riodoce"
-      },
-      {
-        "n": "BLACK CLASSICAL - THREE BLIND MICE VS TRIO RECORDS (R)",
-        "s": "2026-07-12T07:00:00+01:00",
-        "e": "2026-07-12T09:00:00+01:00",
-        "d": "Themed and comprehensive voyages into the depths of jazz from the mind of Black Classical. ",
-        "j": "THREE BLIND MICE VS TRIO RECORDS",
-        "u": "https://www.nts.live/api/v2/shows/black-classical-history-of-spiritual-jazz/episodes/black-classical-16th-january-2018",
-        "t": "restream"
-      },
-      {
         "n": "A MONTH OF SUNDAYS W/ BILL SPENCER (R)",
         "s": "2026-07-12T09:00:00+01:00",
         "e": "2026-07-12T10:00:00+01:00",
-        "d": null,
+        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.",
         "j": "BILL SPENCER",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-9th-july-2023",
         "t": "restream",
         "p": "billspencer"
       },
@@ -346,28 +319,19 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Mishka (R)",
+        "s": "2026-07-13T02:00:00+01:00",
+        "e": "2026-07-13T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "mishka"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-07-12T05:00:00Z",
-        "e": "2026-07-12T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Kiki B",
-        "s": "2026-07-12T06:00:00Z",
-        "e": "2026-07-12T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "kikib"
-      },
       {
         "n": "Kakuna",
         "s": "2026-07-12T08:00:00Z",
@@ -1527,23 +1491,40 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "afters w/ little noises",
+        "s": "2026-07-19T07:00:00Z",
+        "e": "2026-07-19T08:00:00Z",
+        "d": null,
+        "j": "little noises",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ECHO CHAMBER",
+        "s": "2026-07-19T08:00:00Z",
+        "e": "2026-07-19T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Daedelus - Entropy Sessions",
-        "s": "2026-07-12T05:00:00Z",
-        "e": "2026-07-12T07:00:00Z",
-        "d": null,
-        "j": "Entropy Sessions",
-        "u": null,
-        "t": "monthly",
-        "p": "daedelus"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-07-12T07:00:00Z",
         "e": "2026-07-12T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-07-12T09:00:00Z",
+        "e": "2026-07-12T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2132,16 +2113,6 @@
     ],
     "rinse": [
       {
-        "n": "DREA",
-        "s": "2026-07-12T05:00:00Z",
-        "e": "2026-07-12T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "drea"
-      },
-      {
         "n": "Playlist",
         "s": "2026-07-12T06:00:00Z",
         "e": "2026-07-12T09:00:00Z",
@@ -2378,15 +2349,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-11T18:00:00Z",
-        "e": "2026-07-12T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-12T07:00:00Z",
         "e": "2026-07-12T10:00:00Z",
         "d": null,
@@ -2404,9 +2366,95 @@
         "t": "playlist"
       },
       {
-        "n": "LES YEUX FERMÉS",
+        "n": "La Sunday Abidjan",
         "s": "2026-07-12T12:00:00Z",
         "e": "2026-07-12T13:00:00Z",
+        "d": null,
+        "j": "INVITE ASNA & KOMMANDER SAMO",
+        "u": null,
+        "t": "monthly",
+        "p": "lasundayabidjan"
+      },
+      {
+        "n": "ElectrAfrique",
+        "s": "2026-07-12T13:00:00Z",
+        "e": "2026-07-12T14:00:00Z",
+        "d": null,
+        "j": "invite SPICE&CURLS",
+        "u": null,
+        "t": "monthly",
+        "p": "electrafrique"
+      },
+      {
+        "n": "Eclipse Tribez",
+        "s": "2026-07-12T14:00:00Z",
+        "e": "2026-07-12T15:00:00Z",
+        "d": null,
+        "j": "Eclipse Tribez invites Paris-based DJ Anka",
+        "u": null,
+        "t": "monthly",
+        "p": "eclipsetribez"
+      },
+      {
+        "n": "Paloma Colombe",
+        "s": "2026-07-12T15:00:00Z",
+        "e": "2026-07-12T16:00:00Z",
+        "d": null,
+        "j": "invite IDLIBRA",
+        "u": null,
+        "t": "monthly",
+        "p": "palomacolombe"
+      },
+      {
+        "n": "[re]sources",
+        "s": "2026-07-12T16:00:00Z",
+        "e": "2026-07-12T17:00:00Z",
+        "d": null,
+        "j": "avec Tommy Kid",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "LU2K",
+        "s": "2026-07-12T17:00:00Z",
+        "e": "2026-07-12T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lu2k"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-12T18:00:00Z",
+        "e": "2026-07-13T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-13T07:00:00Z",
+        "e": "2026-07-13T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-13T10:00:00Z",
+        "e": "2026-07-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "LES YEUX FERMÉS",
+        "s": "2026-07-13T12:00:00Z",
+        "e": "2026-07-13T13:00:00Z",
         "d": null,
         "j": "EARTHEATER",
         "u": null,
@@ -2415,8 +2463,8 @@
       },
       {
         "n": "Chloé Sarraméa",
-        "s": "2026-07-12T13:00:00Z",
-        "e": "2026-07-12T14:00:00Z",
+        "s": "2026-07-13T13:00:00Z",
+        "e": "2026-07-13T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2424,8 +2472,8 @@
       },
       {
         "n": "Sabor A Mi",
-        "s": "2026-07-12T14:00:00Z",
-        "e": "2026-07-12T15:00:00Z",
+        "s": "2026-07-13T14:00:00Z",
+        "e": "2026-07-13T15:00:00Z",
         "d": null,
         "j": "invite La Patrona Mami",
         "u": null,
@@ -2434,8 +2482,8 @@
       },
       {
         "n": "DVDE",
-        "s": "2026-07-12T15:00:00Z",
-        "e": "2026-07-12T16:00:00Z",
+        "s": "2026-07-13T15:00:00Z",
+        "e": "2026-07-13T16:00:00Z",
         "d": null,
         "j": "Episode 23",
         "u": null,
@@ -2444,8 +2492,8 @@
       },
       {
         "n": "Pureblast (ex Baraka)",
-        "s": "2026-07-12T16:00:00Z",
-        "e": "2026-07-12T17:00:00Z",
+        "s": "2026-07-13T16:00:00Z",
+        "e": "2026-07-13T17:00:00Z",
         "d": null,
         "j": "invite Pas de quartier",
         "u": null,
@@ -2453,8 +2501,8 @@
       },
       {
         "n": "Souzo",
-        "s": "2026-07-12T17:00:00Z",
-        "e": "2026-07-12T18:00:00Z",
+        "s": "2026-07-13T17:00:00Z",
+        "e": "2026-07-13T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2462,8 +2510,8 @@
       },
       {
         "n": "Miley Serious",
-        "s": "2026-07-12T18:00:00Z",
-        "e": "2026-07-12T19:00:00Z",
+        "s": "2026-07-13T18:00:00Z",
+        "e": "2026-07-13T19:00:00Z",
         "d": null,
         "j": "MILEY SERIOUS INVITE TROMAC",
         "u": null,
@@ -2472,8 +2520,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-12T19:00:00Z",
-        "e": "2026-07-12T20:00:00Z",
+        "s": "2026-07-13T19:00:00Z",
+        "e": "2026-07-13T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
