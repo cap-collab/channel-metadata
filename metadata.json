@@ -1,34 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-13T20:50:48.273Z",
+  "updated": "2026-07-13T22:46:02.993Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ALL FRUITS RIPE W/ JACK SAPSED",
-        "s": "2026-07-13T21:00:00+01:00",
-        "e": "2026-07-13T22:00:00+01:00",
-        "d": "Ease in to delectations from our host, Jack Sapsed. A sea of sideways sounds: ambient tranquility and psychedelic folk; experimental dub to techno… ALL FRUITS RIPE",
-        "j": "JACK SAPSED",
-        "u": "https://www.nts.live/api/v2/shows/all-fruits-ripe/episodes/all-fruits-ripe-13th-july-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "LUNG DART",
-        "s": "2026-07-13T22:00:00+01:00",
-        "e": "2026-07-13T23:00:00+01:00",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-13th-july-2026",
-        "t": "monthly",
-        "p": "lungdart"
-      },
       {
         "n": "TORN HAWK",
         "s": "2026-07-13T23:00:00+01:00",
         "e": "2026-07-14T00:00:00+01:00",
-        "d": null,
+        "d": "Torn Hawk, also known as Luke Wyatt, brings his comedy talk show to the NTS airwaves. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/torn-hawk/episodes/torn-hawk-13th-july-2026",
         "t": "monthly",
         "p": "tornhawk"
       },
@@ -36,9 +17,9 @@
         "n": "DROWNED BY LOCALS PRESENTS: MUSIC FOR PARKING GARAGES W/ A LARGE SHEET OF MUSCLE",
         "s": "2026-07-14T00:00:00+01:00",
         "e": "2026-07-14T01:00:00+01:00",
-        "d": null,
+        "d": "Drowned By Locals in collaboration with Rhizome Parking Garage presents music made to be listened to in parking garages. Inspired by the parking garage as a symbol of “the inferno of the same” and the agony of uniformity.\nFrom the host: \n_\"A PAINTING OF MY DAUGHTER W/ A LARGE SHEET OF MUSCLE\nAn exclusive first broadcast of A PAINTING OF MY DAUGHTER, an album by A LARGE SHEET OF MUSCLE.\nDrowned By Locals in collaboration with Rhizome Parking Garage presents music made to be listened to in parking garages.\"_",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/drowned-by-locals/episodes/drowned-by-locals-14th-july-2026"
       },
       {
         "n": "HTRK (R)",
@@ -175,34 +156,35 @@
         "u": null,
         "t": "monthly",
         "p": "veronicavasicka"
+      },
+      {
+        "n": "Circuits",
+        "s": "2026-07-14T22:00:00+01:00",
+        "e": "2026-07-15T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "circuits"
+      },
+      {
+        "n": "MIDNITE MADNESS",
+        "s": "2026-07-15T00:00:00+01:00",
+        "e": "2026-07-15T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "midnitemadness"
       }
     ],
     "nts2": [
       {
-        "n": "FUNK FREAKS",
-        "s": "2026-07-13T21:00:00+01:00",
-        "e": "2026-07-13T22:00:00+01:00",
-        "d": "The notorious Orange County Funk Freaks crew take over the LA studio once a month with their signature brand of boogie, italo, and lowrider funk.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/funk-freaks/episodes/funk-freaks-13th-july-2026",
-        "t": "monthly",
-        "p": "funkfreaks"
-      },
-      {
-        "n": "Deb Never",
-        "s": "2026-07-13T22:00:00+01:00",
-        "e": "2026-07-13T23:00:00+01:00",
-        "d": "Special guest shows from around the world.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/deb-never-13th-july-2026"
-      },
-      {
         "n": "debbiesthuglife",
         "s": "2026-07-13T23:00:00+01:00",
         "e": "2026-07-14T00:00:00+01:00",
-        "d": null,
+        "d": "London DJ and producer debbiesthuglife gets the crowd going with electronic, dance, rap and more.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/debbiesthuglife/episodes/debbiesthuglife-13th-july-2026",
         "t": "monthly",
         "p": "debbiesthuglife"
       },
@@ -210,9 +192,9 @@
         "n": "POPSTAR BENNY",
         "s": "2026-07-14T00:00:00+01:00",
         "e": "2026-07-14T01:00:00+01:00",
-        "d": null,
+        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia\nFrom the host: \"sharing my favorite music with you all :)\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-14th-july-2026",
         "t": "monthly",
         "p": "popstarbenny"
       },
@@ -344,28 +326,27 @@
         "j": null,
         "u": null,
         "p": "chasingechoes"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Zubz Dubz",
-        "s": "2026-07-13T20:00:00Z",
-        "e": "2026-07-13T21:00:00Z",
+        "n": "SKINNY GIRL DIET",
+        "s": "2026-07-14T15:00:00+01:00",
+        "e": "2026-07-14T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "zubzdubz"
-      },
-      {
-        "n": " Subtext w/ Preet",
-        "s": "2026-07-13T21:00:00Z",
-        "e": "2026-07-13T22:00:00Z",
-        "d": null,
-        "j": "Preet",
-        "u": null,
         "t": "monthly"
       },
+      {
+        "n": "TUESDAY TRIPS w/ NAHHG",
+        "s": "2026-07-14T16:00:00+01:00",
+        "e": "2026-07-14T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "tuesdaytrips"
+      }
+    ],
+    "subtle": [
       {
         "n": "Factory Floor ",
         "s": "2026-07-13T22:00:00Z",
@@ -1550,26 +1531,44 @@
         "j": "flux Audio",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "tighe",
+        "s": "2026-07-20T21:00:00Z",
+        "e": "2026-07-20T22:00:00Z",
+        "d": "I’m a 19 year old DJ and producer from Newcastle upon Tyne, mainly playing and producing music around the 140bpm mark. I started out playing old 2-step and jungle records, before moving my focus to mainly dubstep and grime. Along with my friends Pirata and White Label, I run Newcastle’s only current 140 night, Well Irie. ",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Marcus Phillippe",
+        "s": "2026-07-20T22:00:00Z",
+        "e": "2026-07-20T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Colloboh - Everything Inbetween",
-        "s": "2026-07-13T19:00:00Z",
-        "e": "2026-07-13T21:00:00Z",
-        "d": null,
-        "j": "Everything Inbetween",
-        "u": null,
-        "t": "monthly",
-        "p": "colloboh"
-      },
-      {
-        "n": "Bob Cosmo – guest session",
-        "s": "2026-07-13T21:00:00Z",
-        "e": "2026-07-13T22:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-07-13T22:00:00Z",
+        "e": "2026-07-14T00:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-07-14T00:00:00Z",
+        "e": "2026-07-14T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Terrell Brooke – TheyHouse",
@@ -2142,28 +2141,19 @@
         "u": null,
         "t": "weekly",
         "p": "renecontreras"
+      },
+      {
+        "n": "Rani de Leon - Tizita Radio",
+        "s": "2026-07-20T21:00:00Z",
+        "e": "2026-07-20T23:00:00Z",
+        "d": null,
+        "j": "Tizita Radio",
+        "u": null,
+        "t": "monthly",
+        "p": "ranideleon"
       }
     ],
     "rinse": [
-      {
-        "n": "Krystal Klear B2B Jackmaster",
-        "s": "2026-07-13T20:00:00Z",
-        "e": "2026-07-13T21:00:00Z",
-        "d": null,
-        "j": "From The Vault (2017)",
-        "u": null,
-        "p": "krystalklear"
-      },
-      {
-        "n": "Jossy Mitsu",
-        "s": "2026-07-13T21:00:00Z",
-        "e": "2026-07-13T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "jossymitsu"
-      },
       {
         "n": "Stones Taro",
         "s": "2026-07-13T22:00:00Z",
@@ -2308,15 +2298,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-13T19:00:00Z",
-        "e": "2026-07-14T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-14T07:00:00Z",
         "e": "2026-07-14T10:00:00Z",
         "d": null,
@@ -2339,8 +2320,7 @@
         "e": "2026-07-14T13:00:00Z",
         "d": null,
         "j": "EP 08 : EN FINIR AVEC LA SUPREMATIE BLANCHE avec LEYS",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Kiala Ogawa",
@@ -2777,6 +2757,16 @@
         "u": null,
         "t": "monthly",
         "p": "pabloblanquito"
+      },
+      {
+        "n": "Avant Gardens",
+        "s": "2026-08-13T22:00:00Z",
+        "e": "2026-08-14T01:00:00Z",
+        "d": null,
+        "j": "Lychee",
+        "u": null,
+        "t": "monthly",
+        "p": "lychee"
       }
     ]
   }
