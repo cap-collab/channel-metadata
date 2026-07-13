@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-13T19:13:23.642Z",
+  "updated": "2026-07-13T20:50:48.273Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SUNCUT",
-        "s": "2026-07-13T20:00:00+01:00",
-        "e": "2026-07-13T21:00:00+01:00",
-        "d": "Tune in to the sound of SUNCUT, boasting a heartfelt selection of some favourite 45’s through to classic bonafide soulful jams.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sun-cut/episodes/sun-cut-13th-july-2026",
-        "t": "biweekly"
-      },
       {
         "n": "ALL FRUITS RIPE W/ JACK SAPSED",
         "s": "2026-07-13T21:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "LUNG DART",
         "s": "2026-07-13T22:00:00+01:00",
         "e": "2026-07-13T23:00:00+01:00",
-        "d": null,
+        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-13th-july-2026",
         "t": "monthly",
         "p": "lungdart"
       },
@@ -174,18 +165,19 @@
         "u": null,
         "t": "biweekly",
         "p": "channeling"
+      },
+      {
+        "n": "Minimal Wave w/ VERONICA VASICKA",
+        "s": "2026-07-14T20:00:00+01:00",
+        "e": "2026-07-14T22:00:00+01:00",
+        "d": null,
+        "j": "VERONICA VASICKA",
+        "u": null,
+        "t": "monthly",
+        "p": "veronicavasicka"
       }
     ],
     "nts2": [
-      {
-        "n": "BO NINGEN  w/ TAIGEN KAWABE – Sonic Portrait",
-        "s": "2026-07-13T20:00:00+01:00",
-        "e": "2026-07-13T21:00:00+01:00",
-        "d": "London's infamous psychedelic outfit Bo Ningen takes over the NTS airwaves. Expect anything from video game sounds to noise rock.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bo-ningen/episodes/bo-ningen-13th-july-2026",
-        "p": "boningen"
-      },
       {
         "n": "FUNK FREAKS",
         "s": "2026-07-13T21:00:00+01:00",
@@ -200,9 +192,9 @@
         "n": "Deb Never",
         "s": "2026-07-13T22:00:00+01:00",
         "e": "2026-07-13T23:00:00+01:00",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/deb-never-13th-july-2026"
       },
       {
         "n": "debbiesthuglife",
@@ -343,18 +335,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Elrobo's Selectas",
-        "s": "2026-07-13T19:00:00Z",
-        "e": "2026-07-13T20:00:00Z",
+        "n": "Chasing echoes w/ TOHÉ COMMARET + ARIANE KIKS",
+        "s": "2026-07-14T14:00:00+01:00",
+        "e": "2026-07-14T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "p": "chasingechoes"
+      }
+    ],
+    "subtle": [
       {
         "n": "Zubz Dubz",
         "s": "2026-07-13T20:00:00Z",
@@ -1549,6 +1541,15 @@
         "u": null,
         "t": "monthly",
         "p": "rainbowconspiracy"
+      },
+      {
+        "n": "In:flux Audio",
+        "s": "2026-07-20T20:00:00Z",
+        "e": "2026-07-20T21:00:00Z",
+        "d": "In:flux Audio are a record label based in Leeds, UK founded by production duo Tik&Borrow. Since the label's inception in October 2013, they have dabbled in multiple dance music styles with the emphasis always being on the tracks being unique, and packed full of bass. Today the primary output for the label is from their Dubstep roster and this is focus of their show on Subtle - giving the artists and remixers chance to showcase their sounds with an hour guest mix, all hosted by label bossman Tik.",
+        "j": "flux Audio",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1771,6 +1772,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "RERUN Underscore",
+        "s": "2026-07-16T18:00:00Z",
+        "e": "2026-07-16T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Jimmy Tamborello - Dying Songs",
@@ -2135,16 +2145,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Main Phase",
-        "s": "2026-07-13T18:00:00Z",
-        "e": "2026-07-13T20:00:00Z",
-        "d": null,
-        "j": "Don Serb",
-        "u": null,
-        "t": "monthly",
-        "p": "mainphase"
-      },
       {
         "n": "Krystal Klear B2B Jackmaster",
         "s": "2026-07-13T20:00:00Z",
