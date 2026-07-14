@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-14T20:50:50.329Z",
+  "updated": "2026-07-14T22:48:47.178Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Minimal Wave w/ VERONICA VASICKA",
-        "s": "2026-07-14T20:00:00+01:00",
-        "e": "2026-07-14T22:00:00+01:00",
-        "d": "Veronica Vasicka presents a monthly 2-hour show featuring the lost synth-wave treasures she has archived from the late 70s and early 80s, along with other iconic underground electronic music drawn from over four decades. Expect to hear exclusive tracks from releases on her seminal Minimal Wave and Cititrax labels plus cassette-only and private press rarities.",
-        "j": "VERONICA VASICKA",
-        "u": "https://www.nts.live/api/v2/shows/veronica-vasicka/episodes/veronica-vasicka-14th-july-2026",
-        "t": "monthly",
-        "p": "veronicavasicka"
-      },
       {
         "n": "Circuits",
         "s": "2026-07-14T22:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "MIDNITE MADNESS CCXIV - Keep it Metal",
         "s": "2026-07-15T00:00:00+01:00",
         "e": "2026-07-15T01:00:00+01:00",
-        "d": null,
+        "d": "Midnite Madness endeavours to unearth the spirit of the ancient metal gods as well as the genre's new flesh, taking in most styles—heavy, thrash, black, speed, death, punk, doom, etc. There will be some exclusion: no nu-metal, no triggered drums, no posers and no requests. Only metal is real!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/midnite-madness/episodes/midnite-madness-15th-july-2026",
         "p": "midnitemadness"
       },
       {
@@ -173,6 +163,16 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "GIGI FM",
+        "s": "2026-07-15T22:00:00+01:00",
+        "e": "2026-07-15T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "gigifm"
       }
     ],
     "nts2": [
@@ -348,24 +348,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Your Mum Loves Garage",
-        "s": "2026-07-14T20:00:00Z",
-        "e": "2026-07-14T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DHR Presents",
-        "s": "2026-07-14T21:00:00Z",
-        "e": "2026-07-14T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "DCBL",
         "s": "2026-07-14T22:00:00Z",
@@ -1546,19 +1528,18 @@
         "j": "Helios XL",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Sonrisita – Butterfly Beat",
-        "s": "2026-07-14T19:00:00Z",
-        "e": "2026-07-14T21:00:00Z",
+        "n": "The R.I.P Show",
+        "s": "2026-07-21T22:00:00Z",
+        "e": "2026-07-21T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "sonrisita"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-07-14T21:00:00Z",
@@ -2153,33 +2134,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "V.C.R – Soul Food Radio",
+        "s": "2026-07-21T21:00:00Z",
+        "e": "2026-07-21T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Buckley B2B Dyslecta",
-        "s": "2026-07-14T20:00:00Z",
-        "e": "2026-07-14T21:00:00Z",
-        "d": null,
-        "j": "Live From Oxi, Berlin",
-        "u": null,
-        "p": "buckley",
-        "ap": [
-          "dyslecta"
-        ]
-      },
-      {
-        "n": "Y U QT B2B Diffrent",
-        "s": "2026-07-14T21:00:00Z",
-        "e": "2026-07-14T22:00:00Z",
-        "d": null,
-        "j": "Live From Rinse Summer Terrace Party",
-        "u": null,
-        "p": "diffrent",
-        "ap": [
-          "yuqt"
-        ]
-      },
       {
         "n": "Noirnor",
         "s": "2026-07-14T22:00:00Z",
@@ -2340,15 +2306,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-14T19:00:00Z",
-        "e": "2026-07-15T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-15T07:00:00Z",
         "e": "2026-07-15T10:00:00Z",
         "d": null,
@@ -2380,7 +2337,8 @@
         "e": "2026-07-15T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "La Passe D avec Armel Bizzman",
@@ -2427,7 +2385,8 @@
         "d": null,
         "j": "B2B Coffintexts",
         "u": null,
-        "p": "coffintexts"
+        "p": "coffintexts",
+        "t": "monthly"
       },
       {
         "n": "Playlist France",
@@ -2440,15 +2399,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "OPEN",
-        "s": "2026-07-14T20:00:00Z",
-        "e": "2026-07-14T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "OPEN",
         "s": "2026-07-14T22:00:00Z",
