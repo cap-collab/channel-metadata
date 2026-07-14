@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-14T11:18:30.472Z",
+  "updated": "2026-07-14T13:11:14.545Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ ANU - WE'RE ON THE BEACH",
-        "s": "2026-07-14T11:00:00+01:00",
-        "e": "2026-07-14T13:00:00+01:00",
-        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
-        "j": "ANU",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-14th-july-2026",
-        "t": "weekly",
-        "p": "anu"
-      },
       {
         "n": "Tropic of Love w/ Mafalda & eternal love",
         "s": "2026-07-14T13:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-07-14T15:00:00+01:00",
         "e": "2026-07-14T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-14th-july-2026",
         "t": "weekly",
         "p": "margeaux"
       },
@@ -180,43 +170,34 @@
         "j": null,
         "u": null,
         "p": "peach"
+      },
+      {
+        "n": "MINA w/ Slaggamuffin",
+        "s": "2026-07-15T19:00:00+01:00",
+        "e": "2026-07-15T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "mina"
       }
     ],
     "nts2": [
       {
-        "n": "MOIN",
-        "s": "2026-07-14T12:00:00+01:00",
-        "e": "2026-07-14T13:00:00+01:00",
-        "d": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/moin/episodes/moin-14th-july-2026",
-        "p": "moin"
-      },
-      {
-        "n": "SOFAY AND RIBEKA",
-        "s": "2026-07-14T13:00:00+01:00",
-        "e": "2026-07-14T14:00:00+01:00",
-        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-14th-july-2026",
-        "t": "monthly"
-      },
-      {
         "n": "Chasing echoes w/ TOHÉ COMMARET + ARIANE KIKS",
         "s": "2026-07-14T14:00:00+01:00",
         "e": "2026-07-14T15:00:00+01:00",
-        "d": null,
+        "d": "Independent film director and contemporary artist Tohé Commaret and photographer and DJ Ariane Kiks drift into the inner worlds of real and imagined figures on Chasing Echoes – each episode blends archival voices, intimate writings, and imagined soundscapes, chasing echoes of memory and presence.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/chasing-echoes/episodes/chasing-echoes-14th-july-2026",
         "p": "chasingechoes"
       },
       {
         "n": "SKINNY GIRL DIET",
         "s": "2026-07-14T15:00:00+01:00",
         "e": "2026-07-14T16:00:00+01:00",
-        "d": null,
+        "d": "Skinny Girl Diet are London's foremost riot grrrl duo. Delilah Holliday and Ursula Holliday. Post-punk, glam, garage and all things nice… or something like that.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/skinny-girl-diet/episodes/skinny-girl-diet-14th-july-2026",
         "t": "monthly"
       },
       {
@@ -361,29 +342,27 @@
         "ap": [
           "nataliapanzer"
         ]
+      },
+      {
+        "n": "Tara Clerkin Trio",
+        "s": "2026-07-15T12:00:00+01:00",
+        "e": "2026-07-15T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Mil Townley",
+        "s": "2026-07-15T13:00:00+01:00",
+        "e": "2026-07-15T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Radio Roshy",
-        "s": "2026-07-14T11:00:00Z",
-        "e": "2026-07-14T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "radioroshy"
-      },
-      {
-        "n": "CONE",
-        "s": "2026-07-14T12:00:00Z",
-        "e": "2026-07-14T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "cone"
-      },
       {
         "n": "luwi won",
         "s": "2026-07-14T13:00:00Z",
@@ -392,6 +371,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-07-14T14:00:00Z",
+        "e": "2026-07-14T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Tayzwurld",
@@ -1552,18 +1540,29 @@
         "u": null,
         "t": "monthly",
         "p": "ovrtic"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-07-14T11:00:00Z",
-        "e": "2026-07-14T13:00:00Z",
+        "n": "drisk",
+        "s": "2026-07-21T12:00:00Z",
+        "e": "2026-07-21T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "drisk"
       },
+      {
+        "n": "Launcher",
+        "s": "2026-07-21T13:00:00Z",
+        "e": "2026-07-21T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "launcher"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-07-14T13:00:00Z",
@@ -2157,26 +2156,6 @@
     ],
     "rinse": [
       {
-        "n": "Jordan Mae",
-        "s": "2026-07-14T11:00:00Z",
-        "e": "2026-07-14T12:00:00Z",
-        "d": null,
-        "j": "Soul Selections - Backyard Boogie",
-        "u": null,
-        "t": "weekly",
-        "p": "jordanmae"
-      },
-      {
-        "n": "Meena Sears",
-        "s": "2026-07-14T12:00:00Z",
-        "e": "2026-07-14T13:00:00Z",
-        "d": null,
-        "j": "The Dancefloors that Made Me with Camille Munn",
-        "u": null,
-        "t": "biweekly",
-        "p": "camillemunn"
-      },
-      {
         "n": "HABITAT",
         "s": "2026-07-14T13:00:00Z",
         "e": "2026-07-14T14:00:00Z",
@@ -2379,23 +2358,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-07-14T10:00:00Z",
-        "e": "2026-07-14T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
-        "s": "2026-07-14T12:00:00Z",
-        "e": "2026-07-14T13:00:00Z",
-        "d": null,
-        "j": "EP 08 : EN FINIR AVEC LA SUPREMATIE BLANCHE avec LEYS",
-        "u": null
-      },
-      {
         "n": "Kiala Ogawa",
         "s": "2026-07-14T13:00:00Z",
         "e": "2026-07-14T14:00:00Z",
@@ -2551,15 +2513,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-07-14T05:00:00Z",
-        "e": "2026-07-14T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "BUSS UP SHUT",
         "s": "2026-07-14T12:00:00Z",
