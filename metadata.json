@@ -1,20 +1,10 @@
 {
   "v": 2,
-  "updated": "2026-07-14T09:47:55.494Z",
+  "updated": "2026-07-14T11:18:30.472Z",
   "stations": {
     "nts1": [
       {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-07-14T09:00:00+01:00",
-        "e": "2026-07-14T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-14th-july-2026",
-        "t": "regular",
-        "p": "flo"
-      },
-      {
-        "n": "SOUP TO NUTS W/ ANU",
+        "n": "SOUP TO NUTS W/ ANU - WE'RE ON THE BEACH",
         "s": "2026-07-14T11:00:00+01:00",
         "e": "2026-07-14T13:00:00+01:00",
         "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
@@ -27,9 +17,10 @@
         "n": "Tropic of Love w/ Mafalda & eternal love",
         "s": "2026-07-14T13:00:00+01:00",
         "e": "2026-07-14T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Vibrant eclecticism from Portuguese selector Mafalda, for two hours every month. ",
+        "j": "Mafalda & eternal love",
+        "u": "https://www.nts.live/api/v2/shows/mafalda/episodes/mafalda-14th-july-2026",
+        "t": "monthly",
         "p": "mafalda"
       },
       {
@@ -180,44 +171,34 @@
         "u": null,
         "t": "biweekly",
         "p": "louisechen"
+      },
+      {
+        "n": "PEACH",
+        "s": "2026-07-15T18:00:00+01:00",
+        "e": "2026-07-15T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "peach"
       }
     ],
     "nts2": [
       {
-        "n": "PLAY IT AS IT LATHES W/ ZACH COWIE (R)",
-        "s": "2026-07-14T10:00:00+01:00",
-        "e": "2026-07-14T11:00:00+01:00",
-        "d": "Zach Cowie - former record label guy & DJ turned music supervisor. Every month Zach lays down a vinyl-only one hour mix of ambient, experimental, folk, psych and jazz records with Play It As It Lathes.",
-        "j": "ZACH COWIE",
-        "u": "https://www.nts.live/api/v2/shows/zach-cowie/episodes/play-it-as-it-lathes-zach-cowie-23rd-march-2018",
-        "t": "restream",
-        "p": "zachcowie"
-      },
-      {
-        "n": "Sounds on Screen: Killer Films",
-        "s": "2026-07-14T11:00:00+01:00",
-        "e": "2026-07-14T12:00:00+01:00",
-        "d": "Two hours of music and moments from NYC independent film producers Killer Films. Since 1995 the production company founded by Christine Vachon and Pamela Koffler, has spearheaded experimental films within the \"new queer cinema\" movement, including Boys Don't Cry, Party Monster and more. ",
-        "j": "Killer Films",
-        "u": "https://www.nts.live/api/v2/shows/sounds-on-screen/episodes/sounds-on-screen-killer-films-14th-july-2026",
-        "t": "monthly"
-      },
-      {
         "n": "MOIN",
         "s": "2026-07-14T12:00:00+01:00",
         "e": "2026-07-14T13:00:00+01:00",
-        "d": null,
+        "d": "A bi-montly collage of acoustic and electronic sound in our current orbit. Probs seasonal. Sometimes fickle. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moin/episodes/moin-14th-july-2026",
         "p": "moin"
       },
       {
         "n": "SOFAY AND RIBEKA",
         "s": "2026-07-14T13:00:00+01:00",
         "e": "2026-07-14T14:00:00+01:00",
-        "d": null,
+        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-14th-july-2026",
         "t": "monthly"
       },
       {
@@ -348,27 +329,41 @@
         "u": null,
         "t": "restream",
         "p": "upsammy"
+      },
+      {
+        "n": "True As Few w/ Mark (R)",
+        "s": "2026-07-15T08:00:00+01:00",
+        "e": "2026-07-15T09:00:00+01:00",
+        "d": null,
+        "j": "Mark",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "RAGA VIBRATIONS (R)",
+        "s": "2026-07-15T09:00:00+01:00",
+        "e": "2026-07-15T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "ragavibrations"
+      },
+      {
+        "n": "Natalia Panzer",
+        "s": "2026-07-15T11:00:00+01:00",
+        "e": "2026-07-15T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "natalia",
+        "ap": [
+          "nataliapanzer"
+        ]
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-07-14T09:00:00Z",
-        "e": "2026-07-14T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Lucidik ",
-        "s": "2026-07-14T10:00:00Z",
-        "e": "2026-07-14T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Radio Roshy",
         "s": "2026-07-14T11:00:00Z",
@@ -1547,13 +1542,23 @@
         "ap": [
           "albert"
         ]
+      },
+      {
+        "n": " Ovrtic",
+        "s": "2026-07-21T10:00:00Z",
+        "e": "2026-07-21T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ovrtic"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-14T09:00:00Z",
-        "e": "2026-07-14T11:00:00Z",
+        "s": "2026-07-14T11:00:00Z",
+        "e": "2026-07-14T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1561,8 +1566,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-14T11:00:00Z",
-        "e": "2026-07-14T13:00:00Z",
+        "s": "2026-07-14T13:00:00Z",
+        "e": "2026-07-14T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2152,15 +2157,6 @@
     ],
     "rinse": [
       {
-        "n": "Papaoul",
-        "s": "2026-07-14T09:00:00Z",
-        "e": "2026-07-14T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Jordan Mae",
         "s": "2026-07-14T11:00:00Z",
         "e": "2026-07-14T12:00:00Z",
@@ -2382,15 +2378,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-14T07:00:00Z",
-        "e": "2026-07-14T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-14T10:00:00Z",
@@ -2688,7 +2675,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
         "n": "STFU RADIO",
