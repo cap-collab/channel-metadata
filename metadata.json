@@ -1,35 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-14T04:42:26.197Z",
+  "updated": "2026-07-14T07:47:59.123Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FINE (R)",
-        "s": "2026-07-14T05:00:00+01:00",
-        "e": "2026-07-14T06:00:00+01:00",
-        "d": "Sonic diaries from Fine…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-18th-september-2025",
-        "t": "restream",
-        "p": "fine"
-      },
-      {
-        "n": "Acid Memories w/ Astral Vibes (R)",
-        "s": "2026-07-14T06:00:00+01:00",
-        "e": "2026-07-14T07:00:00+01:00",
-        "d": "Rose-tinted hallucinogenic sounds from Astral Vibes' Acid Memories. Illicit dealings in psychedelia of all persuasions. Sit back and enjoy…",
-        "j": "Astral Vibes",
-        "u": "https://www.nts.live/api/v2/shows/acid-memories/episodes/acid-memories-25th-october-2023",
-        "t": "restream",
-        "p": "acidmemories"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-07-14T07:00:00+01:00",
         "e": "2026-07-14T09:00:00+01:00",
-        "d": null,
+        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
         "j": "MARIA SOMERVILLE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-14th-july-2026",
         "t": "weekly",
         "p": "mariasomerville"
       },
@@ -37,9 +17,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-07-14T09:00:00+01:00",
         "e": "2026-07-14T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-14th-july-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -177,43 +157,39 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-07-15T11:00:00+01:00",
+        "e": "2026-07-15T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-07-15T13:00:00+01:00",
+        "e": "2026-07-15T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "Altered Soul Experiment (R)",
-        "s": "2026-07-14T05:00:00+01:00",
-        "e": "2026-07-14T06:00:00+01:00",
-        "d": "Amila, the founder of Altered Soul Experiment brings monthly transmissions of soul, boogie, disco and his Search For Peace series, covering soothing and cerebral ambient jazz and fourth world selections.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/amila/episodes/altered-soul-experiment-w-amila-and-kris-guilty-27th-july-2017",
-        "t": "restream"
-      },
-      {
-        "n": "NTS GUIDE TO: LEBANESE DISCO ORIENTALE (R)",
-        "s": "2026-07-14T06:00:00+01:00",
-        "e": "2026-07-14T07:00:00+01:00",
-        "d": "An hour-long trip into the world of Disco Orientale, the style of hybrid dance music pioneered by Lebanese composer, arranger and musician Ihsan Al Munzer alongside Elias Rahbani in the late 1970s and early 1980s. Often also called \"oriental disco\" or \"belly dance disco\", the style fused western disco rhythms with Arabic music. \nThe work of Al-Munzer, Rahbani and other artists blended popular disco hits of the era with folkloric Arabic melodies and also original compositions that seamlessly combined both musical systems. These productions featured modern synthesizers, electric guitars and drums with traditional Arabic percussion sections, and lush string arrangements.\nThis style shows the monumental influence that disco had on popular music culture in the Arabic-speaking world.\nCreated by Ernesto Chahoud.",
-        "j": "LEBANESE DISCO ORIENTALE",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-oriental-disco-2nd-march-2026",
-        "t": "restream"
-      },
-      {
-        "n": "Sounds on Screen: Jon Brion (R)",
-        "s": "2026-07-14T07:00:00+01:00",
-        "e": "2026-07-14T08:00:00+01:00",
-        "d": null,
-        "j": "Jon Brion",
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "Lamin Fofana (R)",
         "s": "2026-07-14T08:00:00+01:00",
         "e": "2026-07-14T09:00:00+01:00",
-        "d": null,
+        "d": "New York City-based artist Lamin Fofana curates a monthly program featuring immersive ambient, experimental jazz, spoken word performances, archival materials, and field recordings.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lamin-fofana/episodes/lamin-fofana-9th-july-2025",
         "t": "restream",
         "p": "laminfofana"
       },
@@ -221,9 +197,9 @@
         "n": "The Head Zone w/ Ripley Johnson (R)",
         "s": "2026-07-14T09:00:00+01:00",
         "e": "2026-07-14T10:00:00+01:00",
-        "d": null,
+        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
         "j": "Ripley Johnson",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/moon-duo-11th-december-2025",
         "t": "restream"
       },
       {
@@ -336,6 +312,16 @@
         "t": "restream"
       },
       {
+        "n": "budgie - The Good Book III (R)",
+        "s": "2026-07-15T01:00:00+01:00",
+        "e": "2026-07-15T02:00:00+01:00",
+        "d": null,
+        "j": "The Good Book III",
+        "u": null,
+        "t": "restream",
+        "p": "budgie"
+      },
+      {
         "n": "BURIED LIGHT W/ ASHTREJINKINS",
         "s": "2026-07-15T02:00:00+01:00",
         "e": "2026-07-15T03:00:00+01:00",
@@ -343,37 +329,27 @@
         "j": null,
         "u": null,
         "p": "ashtrejinkins"
+      },
+      {
+        "n": "Energy Reserve Systems w/ Kitty Ca$h (R)",
+        "s": "2026-07-15T03:00:00+01:00",
+        "e": "2026-07-15T04:00:00+01:00",
+        "d": null,
+        "j": "Kitty Ca$h",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "UNDERGROUND & BLACK W/ Playr1 (R)",
+        "s": "2026-07-15T04:00:00+01:00",
+        "e": "2026-07-15T05:00:00+01:00",
+        "d": null,
+        "j": "Playr1",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "DJ Moement",
-        "s": "2026-07-14T04:00:00Z",
-        "e": "2026-07-14T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "djmoement"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-07-14T05:00:00Z",
-        "e": "2026-07-14T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Sparring Sessions",
-        "s": "2026-07-14T06:00:00Z",
-        "e": "2026-07-14T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Breakfast Spoons w/ Boruch",
         "s": "2026-07-14T07:00:00Z",
@@ -1548,28 +1524,44 @@
         "u": null,
         "t": "monthly",
         "p": "fullfrontal"
+      },
+      {
+        "n": "THE CULTURE HEAD w. SAINT VOX",
+        "s": "2026-07-21T06:00:00Z",
+        "e": "2026-07-21T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Ardishko",
+        "s": "2026-07-21T07:00:00Z",
+        "e": "2026-07-21T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Aaron Paar - Stomping Grounds",
-        "s": "2026-07-14T03:00:00Z",
-        "e": "2026-07-14T05:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-07-14T07:00:00Z",
+        "e": "2026-07-14T09:00:00Z",
         "d": null,
-        "j": "Stomping Grounds",
+        "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "aaronpaar"
+        "t": "playlist"
       },
       {
-        "n": "Daniel T - Crosseyed and Painless",
-        "s": "2026-07-14T05:00:00Z",
-        "e": "2026-07-14T07:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-07-14T09:00:00Z",
+        "e": "2026-07-14T11:00:00Z",
         "d": null,
-        "j": "Crosseyed and Painless",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "danielt"
+        "t": "playlist"
       },
       {
         "n": "Mike Harding and Bana Haffar - Long Wave",
@@ -2141,19 +2133,19 @@
         "u": null,
         "t": "monthly",
         "p": "jenferrer"
+      },
+      {
+        "n": "Brennan - Unresolved Dependencies",
+        "s": "2026-07-21T05:00:00Z",
+        "e": "2026-07-21T07:00:00Z",
+        "d": null,
+        "j": "Unresolved Dependencies",
+        "u": null,
+        "t": "monthly",
+        "p": "brennan"
       }
     ],
     "rinse": [
-      {
-        "n": "Main Phase",
-        "s": "2026-07-13T23:00:00Z",
-        "e": "2026-07-14T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "mainphase"
-      },
       {
         "n": "Braga Circuit",
         "s": "2026-07-14T05:00:00Z",
@@ -2268,15 +2260,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-13T19:00:00Z",
-        "e": "2026-07-14T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-14T07:00:00Z",
         "e": "2026-07-14T10:00:00Z",
         "d": null,
@@ -2294,43 +2277,42 @@
         "t": "playlist"
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
         "s": "2026-07-14T12:00:00Z",
         "e": "2026-07-14T13:00:00Z",
         "d": null,
-        "j": "NEUF invite Ojerime",
-        "u": null,
-        "t": "weekly"
+        "j": "EP 08 : EN FINIR AVEC LA SUPREMATIE BLANCHE avec LEYS",
+        "u": null
       },
       {
-        "n": "Le Cercle",
+        "n": "Kiala Ogawa",
         "s": "2026-07-14T13:00:00Z",
         "e": "2026-07-14T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly",
+        "p": "kialaogawa"
       },
       {
-        "n": "La Passe D avec Armel Bizzman",
+        "n": "Playlist France",
         "s": "2026-07-14T14:00:00Z",
         "e": "2026-07-14T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "lapassedavecarmelbizzman"
+        "t": "playlist"
       },
       {
-        "n": "CHÔ!",
+        "n": "MOLYNESS",
         "s": "2026-07-14T15:00:00Z",
         "e": "2026-07-14T16:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
-        "n": "Not Sorry",
+        "n": "Missy Da Kunt",
         "s": "2026-07-14T16:00:00Z",
         "e": "2026-07-14T17:00:00Z",
         "d": null,
@@ -2339,9 +2321,99 @@
         "t": "monthly"
       },
       {
-        "n": "Hyas",
+        "n": "Broodoo Ramses",
         "s": "2026-07-14T17:00:00Z",
         "e": "2026-07-14T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "broodooramses"
+      },
+      {
+        "n": "OffTheWall",
+        "s": "2026-07-14T18:00:00Z",
+        "e": "2026-07-14T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-14T19:00:00Z",
+        "e": "2026-07-15T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-15T07:00:00Z",
+        "e": "2026-07-15T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-15T10:00:00Z",
+        "e": "2026-07-15T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-07-15T12:00:00Z",
+        "e": "2026-07-15T13:00:00Z",
+        "d": null,
+        "j": "NEUF invite Ojerime",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Le Cercle",
+        "s": "2026-07-15T13:00:00Z",
+        "e": "2026-07-15T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "La Passe D avec Armel Bizzman",
+        "s": "2026-07-15T14:00:00Z",
+        "e": "2026-07-15T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lapassedavecarmelbizzman"
+      },
+      {
+        "n": "CHÔ!",
+        "s": "2026-07-15T15:00:00Z",
+        "e": "2026-07-15T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Not Sorry",
+        "s": "2026-07-15T16:00:00Z",
+        "e": "2026-07-15T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Hyas",
+        "s": "2026-07-15T17:00:00Z",
+        "e": "2026-07-15T18:00:00Z",
         "d": null,
         "j": "invite DJ Strawberry",
         "u": null,
@@ -2350,8 +2422,8 @@
       },
       {
         "n": "Adam BFD",
-        "s": "2026-07-14T18:00:00Z",
-        "e": "2026-07-14T19:00:00Z",
+        "s": "2026-07-15T18:00:00Z",
+        "e": "2026-07-15T19:00:00Z",
         "d": null,
         "j": "B2B Coffintexts",
         "u": null,
@@ -2359,8 +2431,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-14T19:00:00Z",
-        "e": "2026-07-14T20:00:00Z",
+        "s": "2026-07-15T19:00:00Z",
+        "e": "2026-07-15T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2770,6 +2842,16 @@
         "j": "Matt",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-08-14T05:00:00Z",
+        "e": "2026-08-14T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
       }
     ]
   }
