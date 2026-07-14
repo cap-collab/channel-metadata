@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-14T17:04:17.059Z",
+  "updated": "2026-07-14T19:03:53.895Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "s": "2026-07-14T18:00:00+01:00",
-        "e": "2026-07-14T20:00:00+01:00",
-        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
-        "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-14th-july-2026",
-        "t": "biweekly",
-        "p": "channeling"
-      },
       {
         "n": "Minimal Wave w/ VERONICA VASICKA",
         "s": "2026-07-14T20:00:00+01:00",
@@ -179,30 +169,13 @@
     ],
     "nts2": [
       {
-        "n": "INSOLAR w/ CAMI LAYÉ OKÚN",
-        "s": "2026-07-14T18:00:00+01:00",
-        "e": "2026-07-14T19:00:00+01:00",
-        "d": "Cuban record collector, ethnomusicologist researcher, picks up a hour of global vinyl via Havana every months.",
-        "j": "CAMI LAYÉ OKÚN",
-        "u": "https://www.nts.live/api/v2/shows/cami-laye-okun/episodes/cami-laye-okun-14th-july-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Champeta w/ EDNA MARTINEZ",
-        "s": "2026-07-14T19:00:00+01:00",
-        "e": "2026-07-14T20:00:00+01:00",
-        "d": "DJ and curator Edna Martínez, from Cartagena de Indias, presents champeta, a genre born inside the picós, the sound systems of Colombia’s Caribbean coast where music is presence, tension, gathering. It carries fragmented routes shaped by circulation and bootlegs. It becomes body, dance, code, a way of occupying a space that has never been neutral.\nFrom the host: \"A journey through songs shaped by African football culture and its echoes in the Colombian Caribbean.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/edna-martinez/episodes/edna-martinez-14th-july-2026",
-        "p": "ednamartinez"
-      },
-      {
         "n": "NYA - Rance Allen Special",
         "s": "2026-07-14T20:00:00+01:00",
         "e": "2026-07-14T21:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Memphis selector and radio host Nya presents an hour of rare soul, boogie, gospel, and funk records once a month.\nFrom the host: \"Deep dive into the Rance Allen and Rance Allen group. discography. Exploration through the groups signature fusion of traditional gospel lyrics with modern soul and funk, including production by Mizell Brothers. First group to sign to STAX records dedicated gospel label, The Gospel Truth.\"",
+        "j": "Rance Allen Special",
+        "u": "https://www.nts.live/api/v2/shows/nya/episodes/nya-14th-july-2026",
+        "t": "monthly",
         "p": "nya"
       },
       {
@@ -348,27 +321,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Phasmid",
-        "s": "2026-07-14T17:00:00Z",
-        "e": "2026-07-14T18:00:00Z",
+        "n": "ZEL ZELE",
+        "s": "2026-07-15T16:00:00+01:00",
+        "e": "2026-07-15T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Gasp w/ Gabreal",
-        "s": "2026-07-14T18:00:00Z",
-        "e": "2026-07-14T19:00:00Z",
-        "d": null,
-        "j": "Gabreal",
-        "u": null,
-        "t": "monthly"
-      },
+        "t": "monthly",
+        "p": "zelzele"
+      }
+    ],
+    "subtle": [
       {
         "n": "Rodney",
         "s": "2026-07-14T19:00:00Z",
@@ -1549,18 +1514,28 @@
         "j": "Mood Change",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Jeremiah Chiu – Some All None",
-        "s": "2026-07-14T17:00:00Z",
-        "e": "2026-07-14T19:00:00Z",
+        "n": "Skelecta presents: South London Dance Factory",
+        "s": "2026-07-21T18:00:00Z",
+        "e": "2026-07-21T19:00:00Z",
+        "d": null,
+        "j": "South London Dance Factory",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Deeper DnB",
+        "s": "2026-07-21T19:00:00Z",
+        "e": "2026-07-21T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "jeremiahchiu"
-      },
+        "t": "monthly",
+        "p": "deeperdnb"
+      }
+    ],
+    "dublab": [
       {
         "n": "Sonrisita – Butterfly Beat",
         "s": "2026-07-14T19:00:00Z",
@@ -1807,8 +1782,16 @@
         ]
       },
       {
-        "n": "Hakim Tafari – Siddhartha Soundsystem",
+        "n": "ARCA - AIRDOLL",
         "s": "2026-07-17T19:00:00Z",
+        "e": "2026-07-17T19:30:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Hakim Tafari – Siddhartha Soundsystem",
+        "s": "2026-07-17T19:30:00Z",
         "e": "2026-07-17T21:00:00Z",
         "d": null,
         "j": null,
@@ -2139,19 +2122,18 @@
         "u": null,
         "t": "monthly",
         "p": "kohinoorgasm"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "G33",
-        "s": "2026-07-14T17:00:00Z",
-        "e": "2026-07-14T18:00:00Z",
+        "n": "Cafe's Internet Lounge",
+        "s": "2026-07-21T19:00:00Z",
+        "e": "2026-07-21T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "g33"
-      },
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "Chloé Caillet presents SMIILE",
         "s": "2026-07-14T18:00:00Z",
@@ -2345,24 +2327,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Broodoo Ramses",
-        "s": "2026-07-14T17:00:00Z",
-        "e": "2026-07-14T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "broodooramses"
-      },
-      {
-        "n": "OffTheWall",
-        "s": "2026-07-14T18:00:00Z",
-        "e": "2026-07-14T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2026-07-14T19:00:00Z",
         "e": "2026-07-15T07:00:00Z",
@@ -2464,15 +2428,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "QUAZAR RADIO",
-        "s": "2026-07-14T16:00:00Z",
-        "e": "2026-07-14T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "LET'S PRETEND",
         "s": "2026-07-14T18:00:00Z",
