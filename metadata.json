@@ -1,42 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-07-15T15:18:59.181Z",
+  "updated": "2026-07-15T17:06:37.496Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LOUISE CHEN",
-        "s": "2026-07-15T15:00:00+01:00",
-        "e": "2026-07-15T17:00:00+01:00",
-        "d": "Parisian party instigator Louise Chen pulls from a timeless well of classic & modern house, disco, soul, pop, & more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/louise-chen/episodes/louise-chen-15th-july-2026",
-        "t": "biweekly",
-        "p": "louisechen"
-      },
-      {
-        "n": "NTS X Havaianas Milan: th4ys",
-        "s": "2026-07-15T17:00:00+01:00",
-        "e": "2026-07-15T18:00:00+01:00",
-        "d": "th4ys showcases the raw energy of Brazil's baile funk scene live from O Brasil de Havaianas in Milan. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nts-x-havaianas/episodes/nts-x-havaianas-12th-june-2026"
-      },
       {
         "n": "PEACH",
         "s": "2026-07-15T18:00:00+01:00",
         "e": "2026-07-15T19:00:00+01:00",
-        "d": null,
+        "d": "The snack enthusiast and London based producer and DJ takes on the NTS airwaves. Stay tuned for mixes spanning the breadth of dance and club music.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/peach/episodes/peach-15th-july-2026",
         "p": "peach"
       },
       {
         "n": "MINA w/ Slaggamuffin",
         "s": "2026-07-15T19:00:00+01:00",
         "e": "2026-07-15T20:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "All the biggest bangers from around the world with Mina and guests every month.",
+        "j": "Slaggamuffin",
+        "u": "https://www.nts.live/api/v2/shows/mina/episodes/mina-15th-july-2026",
+        "t": "monthly",
         "p": "mina"
       },
       {
@@ -67,21 +50,21 @@
         "p": "gigifm"
       },
       {
-        "n": "A LONG STRANGE DREAM W/ BATU",
+        "n": "A LONG STRANGE DREAM W/ Bruce",
         "s": "2026-07-15T23:00:00+01:00",
         "e": "2026-07-16T00:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "p": "batu"
+        "u": null
       },
       {
-        "n": "MOTOR SYSTEM",
+        "n": "MOTOR SYSTEM (R)",
         "s": "2026-07-16T00:00:00+01:00",
         "e": "2026-07-16T01:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
+        "t": "restream",
         "p": "motorsystem"
       },
       {
@@ -173,43 +156,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "CHICO BLANCO invites Byron Yeates",
+        "s": "2026-07-16T17:00:00+01:00",
+        "e": "2026-07-16T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "chicoblanco"
       }
     ],
     "nts2": [
       {
-        "n": "ZEL ZELE",
-        "s": "2026-07-15T16:00:00+01:00",
-        "e": "2026-07-15T17:00:00+01:00",
-        "d": "London & Istanbul based record label Zel Zele takes us on a monthly ride to earthly wonders and cosmic adventures. Bite the lip take the trip!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/zel-zele/episodes/zel-zele-15th-july-2026",
-        "t": "monthly",
-        "p": "zelzele"
-      },
-      {
-        "n": "Twisted Team w/ Twisted Teens",
-        "s": "2026-07-15T17:00:00+01:00",
-        "e": "2026-07-15T17:59:00+01:00",
-        "d": "New Orleans punk duo Twisted Teens share an hour of fresh guitar band sounds from friends and contemporaries. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/twisted-team-w-twisted-teens-15th-july-2026"
-      },
-      {
         "n": "THE ULINE CATALOG W/ CALVIN LECOMPTE (R)",
         "s": "2026-07-15T17:59:00+01:00",
         "e": "2026-07-15T19:00:00+01:00",
-        "d": null,
+        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
         "j": "CALVIN LECOMPTE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-9th-may-2025",
         "t": "restream"
       },
       {
         "n": "SÉANCE CENTRE: Underwhich Audiographics Special",
         "s": "2026-07-15T19:00:00+01:00",
         "e": "2026-07-15T20:00:00+01:00",
-        "d": null,
+        "d": "Canadian record label, publisher, and distributors Séance Centre conjure timeless music from the past, present, and future.\nFrom the host: \"This episode explores the Underwhich Audiographics Series of cassettes, released by a radical collective of poets, writers, and artists between 1978 and 2015 under the guidance of Richard Truhlar.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/seance-centre/episodes/seance-centre-15th-july-2026"
       },
       {
         "n": "Total Stasis (R)",
@@ -341,28 +315,25 @@
         "u": null,
         "t": "monthly",
         "p": "ashleywales"
+      },
+      {
+        "n": "THE NUMERO GROUP - NYC pop-up",
+        "s": "2026-07-16T12:00:00+01:00",
+        "e": "2026-07-16T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Tezez Tapes",
+        "s": "2026-07-16T14:00:00+01:00",
+        "e": "2026-07-16T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": " Gilbo",
-        "s": "2026-07-15T15:00:00Z",
-        "e": "2026-07-15T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "gilbo"
-      },
-      {
-        "n": "MixRaw",
-        "s": "2026-07-15T16:00:00Z",
-        "e": "2026-07-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " Antisocial Records",
         "s": "2026-07-15T17:00:00Z",
@@ -1530,19 +1501,28 @@
         "u": null,
         "t": "monthly",
         "p": "rushmoor"
+      },
+      {
+        "n": "baeker",
+        "s": "2026-07-22T16:00:00Z",
+        "e": "2026-07-22T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "baeker"
+      },
+      {
+        "n": "PCKRNG & THT GRL",
+        "s": "2026-07-22T17:00:00Z",
+        "e": "2026-07-22T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Teen Daze - Easy Listening",
-        "s": "2026-07-15T15:00:00Z",
-        "e": "2026-07-15T17:00:00Z",
-        "d": null,
-        "j": "Easy Listening",
-        "u": null,
-        "t": "monthly",
-        "p": "teendaze"
-      },
       {
         "n": "Juan Izguerra – Low Profile",
         "s": "2026-07-15T17:00:00Z",
@@ -2120,29 +2100,17 @@
         "u": null,
         "t": "monthly",
         "p": "seano"
+      },
+      {
+        "n": "Domestic Pleasures – guest session",
+        "s": "2026-07-22T17:00:00Z",
+        "e": "2026-07-22T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Utopia Presents",
-        "s": "2026-07-15T14:00:00Z",
-        "e": "2026-07-15T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "utopiapresents"
-      },
-      {
-        "n": "T.NO",
-        "s": "2026-07-15T16:00:00Z",
-        "e": "2026-07-15T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "tno"
-      },
       {
         "n": "Just Jane",
         "s": "2026-07-15T17:00:00Z",
@@ -2253,7 +2221,7 @@
         "s": "2026-07-16T12:00:00Z",
         "e": "2026-07-16T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Ckay",
         "u": null,
         "t": "weekly",
         "p": "skvibemaker"
@@ -2318,7 +2286,7 @@
         "s": "2026-07-16T21:00:00Z",
         "e": "2026-07-16T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Soul Wun",
         "u": null,
         "t": "monthly",
         "p": "steelcitydancediscs"
@@ -2328,30 +2296,12 @@
         "s": "2026-07-16T22:00:00Z",
         "e": "2026-07-16T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "FERGUS",
         "u": null,
         "t": "monthly"
       }
     ],
     "rinsefr": [
-      {
-        "n": "CHÔ!",
-        "s": "2026-07-15T15:00:00Z",
-        "e": "2026-07-15T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Not Sorry",
-        "s": "2026-07-15T16:00:00Z",
-        "e": "2026-07-15T17:00:00Z",
-        "d": null,
-        "j": "Avec Lizzie",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Hyas",
         "s": "2026-07-15T17:00:00Z",
@@ -2470,15 +2420,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "FLOCK RADIO",
-        "s": "2026-07-15T14:00:00Z",
-        "e": "2026-07-15T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "THIRD ROOM RADIO",
         "s": "2026-07-15T16:00:00Z",
