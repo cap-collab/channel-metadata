@@ -1,43 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-14T22:48:47.178Z",
+  "updated": "2026-07-15T01:28:11.274Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Circuits",
-        "s": "2026-07-14T22:00:00+01:00",
-        "e": "2026-07-15T00:00:00+01:00",
-        "d": "Connections in electronic music: the history of house and techno as presented to you by the wonderful Olly Chubb.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/circuits/episodes/circuits-14th-july-2026",
-        "p": "circuits"
-      },
-      {
-        "n": "MIDNITE MADNESS CCXIV - Keep it Metal",
-        "s": "2026-07-15T00:00:00+01:00",
-        "e": "2026-07-15T01:00:00+01:00",
-        "d": "Midnite Madness endeavours to unearth the spirit of the ancient metal gods as well as the genre's new flesh, taking in most styles—heavy, thrash, black, speed, death, punk, doom, etc. There will be some exclusion: no nu-metal, no triggered drums, no posers and no requests. Only metal is real!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/midnite-madness/episodes/midnite-madness-15th-july-2026",
-        "p": "midnitemadness"
-      },
-      {
-        "n": "ALICIA MATTHEWS",
-        "s": "2026-07-15T01:00:00+01:00",
-        "e": "2026-07-15T02:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "alicia"
-      },
       {
         "n": "ANDRAS",
         "s": "2026-07-15T02:00:00+01:00",
         "e": "2026-07-15T03:00:00+01:00",
-        "d": null,
+        "d": "All flavours of acoustic & historical nuggets from Andras - Melbourne production wiz, composer & sleuth of musical ephemera…\nFrom the host: \"it's winter in australia\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/andras/episodes/andras-15th-july-2026",
         "t": "monthly",
         "p": "andras"
       },
@@ -45,9 +17,9 @@
         "n": "NTS GUIDE TO: JAPANESE JAZZ OFF-CUTS (R)",
         "s": "2026-07-15T03:00:00+01:00",
         "e": "2026-07-15T05:00:00+01:00",
-        "d": null,
+        "d": "Two hours of Japanese jazz records that didn't quite fit in any of the episodes on our Japanese Jazz Week series. Featuring music from Masaru Imada, Mitsuaki Kanno, Masahiko Togashi and others.",
         "j": "JAPANESE JAZZ OFF-CUTS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-7th-september-2023",
         "t": "restream"
       },
       {
@@ -173,44 +145,51 @@
         "u": null,
         "t": "monthly",
         "p": "gigifm"
+      },
+      {
+        "n": "A LONG STRANGE DREAM W/ BATU",
+        "s": "2026-07-15T23:00:00+01:00",
+        "e": "2026-07-16T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "batu"
+      },
+      {
+        "n": "MOTOR SYSTEM",
+        "s": "2026-07-16T00:00:00+01:00",
+        "e": "2026-07-16T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "motorsystem"
+      },
+      {
+        "n": "LA MANO W/ LECHUGA ZAFIRO",
+        "s": "2026-07-16T01:00:00+01:00",
+        "e": "2026-07-16T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "TREVOR JACKSON - BRISTOL BASS, WAREHOUSE BEATS & SOUNDSYSTEM SOUL (R)",
-        "s": "2026-07-14T21:00:00+01:00",
-        "e": "2026-07-15T01:00:00+01:00",
-        "d": "Trevor Jackson takes listeners on a four hour trip through UK underground club music from the late '80s - expect UK street soul, early hip-hop, late boogie and beyond.",
-        "j": "BRISTOL BASS, WAREHOUSE BEATS & SOUNDSYSTEM SOUL",
-        "u": "https://www.nts.live/api/v2/shows/trevorjackson/episodes/trevor-jackson-19th-march-2020",
-        "t": "restream"
-      },
-      {
-        "n": "budgie - The Good Book III (R)",
-        "s": "2026-07-15T01:00:00+01:00",
-        "e": "2026-07-15T02:00:00+01:00",
-        "d": "BUDGIE – serving up jazz, hip-hop, soul, beats & more from his sprawling record collection, once a month from our LA studio.\nFrom the host: \"Playing excerpts from The Good Book III as well as highlights from the past Good Book projects\"",
-        "j": "The Good Book III",
-        "u": "https://www.nts.live/api/v2/shows/budgie/episodes/budgie-5th-february-2026",
-        "t": "restream",
-        "p": "budgie"
-      },
-      {
         "n": "BURIED LIGHT W/ ASHTREJINKINS",
         "s": "2026-07-15T02:00:00+01:00",
         "e": "2026-07-15T03:00:00+01:00",
-        "d": null,
+        "d": "ASHTREJINKINS flies the flag for NTS Los Angeles. Tune in for a round-about journey of lo-fi, gritty and experimental beats and productions. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ashtrejinkins/episodes/ashtrejinkins-15th-july-2026",
         "p": "ashtrejinkins"
       },
       {
         "n": "Energy Reserve Systems w/ Kitty Ca$h (R)",
         "s": "2026-07-15T03:00:00+01:00",
         "e": "2026-07-15T04:00:00+01:00",
-        "d": null,
+        "d": "Energy Reserve Systems is a sonic exploration of rhythm, energy, and emotion—blending deep house, hard-hitting club edits, soulful grooves, and genre-bending sounds. Each mix is a journey through movement and mood, designed to recharge the spirit, ignite the dancefloor, and push the boundaries of sound.",
         "j": "Kitty Ca$h",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kitty-cash/episodes/kitty-cash-8th-july-2020",
         "t": "restream"
       },
       {
@@ -345,36 +324,29 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Total Stasis (R)",
+        "s": "2026-07-15T20:00:00+01:00",
+        "e": "2026-07-15T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "totalstasis"
+      },
+      {
+        "n": "RAHILL",
+        "s": "2026-07-15T21:00:00+01:00",
+        "e": "2026-07-15T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "rahill"
       }
     ],
     "subtle": [
-      {
-        "n": "DCBL",
-        "s": "2026-07-14T22:00:00Z",
-        "e": "2026-07-14T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Deens",
-        "s": "2026-07-14T23:00:00Z",
-        "e": "2026-07-15T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Wrong number",
-        "s": "2026-07-15T00:00:00Z",
-        "e": "2026-07-15T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Sub Archives",
         "s": "2026-07-15T01:00:00Z",
@@ -1537,28 +1509,38 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-07-14T21:00:00Z",
-        "e": "2026-07-14T23:00:00Z",
+        "n": "GFTV w/ Neon Beats",
+        "s": "2026-07-21T23:00:00Z",
+        "e": "2026-07-22T00:00:00Z",
+        "d": null,
+        "j": "Neon Beats",
+        "u": null,
+        "t": "monthly",
+        "p": "neonbeats"
+      },
+      {
+        "n": "Odd Human",
+        "s": "2026-07-22T00:00:00Z",
+        "e": "2026-07-22T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
       {
-        "n": "Hoseh - Version Sounds",
-        "s": "2026-07-14T23:00:00Z",
-        "e": "2026-07-15T01:00:00Z",
+        "n": "Trans Caribe Express w/ moreit",
+        "s": "2026-07-22T01:00:00Z",
+        "e": "2026-07-22T03:00:00Z",
         "d": null,
-        "j": "Version Sounds",
+        "j": "moreit",
         "u": null,
-        "t": "weekly",
-        "p": "hoseh"
-      },
+        "t": "monthly",
+        "p": "moreit"
+      }
+    ],
+    "dublab": [
       {
         "n": "Universe Brain - Dream Fantasy Nightmare",
         "s": "2026-07-15T01:00:00Z",
@@ -2143,28 +2125,29 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Hoseh - Version Sounds",
+        "s": "2026-07-21T23:00:00Z",
+        "e": "2026-07-22T01:00:00Z",
+        "d": null,
+        "j": "Version Sounds",
+        "u": null,
+        "t": "weekly",
+        "p": "hoseh"
+      },
+      {
+        "n": "Tyler Bell - Check In",
+        "s": "2026-07-22T01:00:00Z",
+        "e": "2026-07-22T03:00:00Z",
+        "d": null,
+        "j": "Check In",
+        "u": null,
+        "t": "monthly",
+        "p": "tylerbell"
       }
     ],
     "rinse": [
-      {
-        "n": "Noirnor",
-        "s": "2026-07-14T22:00:00Z",
-        "e": "2026-07-14T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "noirnor"
-      },
-      {
-        "n": "Main Phase",
-        "s": "2026-07-14T23:00:00Z",
-        "e": "2026-07-15T01:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "mainphase"
-      },
       {
         "n": "Electronic Playlist",
         "s": "2026-07-15T01:00:00Z",
@@ -2301,9 +2284,139 @@
         "u": null,
         "t": "monthly",
         "p": "antconstantino"
+      },
+      {
+        "n": "Chloé Caillet",
+        "s": "2026-07-15T23:00:00Z",
+        "e": "2026-07-16T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "chlocaillet"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-07-16T01:00:00Z",
+        "e": "2026-07-16T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Jordan Mae",
+        "s": "2026-07-16T05:00:00Z",
+        "e": "2026-07-16T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "jordanmae"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-07-16T06:00:00Z",
+        "e": "2026-07-16T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Yazmin Lacey",
+        "s": "2026-07-16T09:00:00Z",
+        "e": "2026-07-16T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "yazminlacey"
+      },
+      {
+        "n": "SK Vibemaker",
+        "s": "2026-07-16T12:00:00Z",
+        "e": "2026-07-16T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "skvibemaker"
+      },
+      {
+        "n": "Mr. Redley presents The Black Wine Club Show",
+        "s": "2026-07-16T13:00:00Z",
+        "e": "2026-07-16T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "mrredley"
+      },
+      {
+        "n": "Tom Ravenscroft",
+        "s": "2026-07-16T14:00:00Z",
+        "e": "2026-07-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly",
+        "p": "tomravenscroft"
+      },
+      {
+        "n": "SKALAH",
+        "s": "2026-07-16T16:00:00Z",
+        "e": "2026-07-16T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "skalah"
+      },
+      {
+        "n": "X CLUB.",
+        "s": "2026-07-16T18:00:00Z",
+        "e": "2026-07-16T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Sam Gellaitry",
+        "s": "2026-07-16T20:00:00Z",
+        "e": "2026-07-16T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Steel City Dance Discs",
+        "s": "2026-07-16T21:00:00Z",
+        "e": "2026-07-16T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "steelcitydancediscs"
+      },
+      {
+        "n": "YETI OUT",
+        "s": "2026-07-16T22:00:00Z",
+        "e": "2026-07-16T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinsefr": [
+      {
+        "n": "Playlist France",
+        "s": "2026-07-14T19:00:00Z",
+        "e": "2026-07-15T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
       {
         "n": "Playlist France",
         "s": "2026-07-15T07:00:00Z",
@@ -2323,35 +2436,35 @@
         "t": "playlist"
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "MABOUL BASMATI",
         "s": "2026-07-15T12:00:00Z",
         "e": "2026-07-15T13:00:00Z",
         "d": null,
-        "j": "NEUF invite Ojerime",
+        "j": "mode FRENCH VORTEX #89 invite RARE GROOVE HUNTER",
         "u": null,
-        "t": "weekly"
+        "p": "maboulbasmati"
       },
       {
-        "n": "Le Cercle",
+        "n": "Mattias Mimoun",
         "s": "2026-07-15T13:00:00Z",
         "e": "2026-07-15T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "monthly",
+        "p": "mattiasmimoun"
       },
       {
-        "n": "La Passe D avec Armel Bizzman",
+        "n": "Marge",
         "s": "2026-07-15T14:00:00Z",
         "e": "2026-07-15T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "présente Bass Bloom",
         "u": null,
-        "t": "monthly",
-        "p": "lapassedavecarmelbizzman"
+        "t": "monthly"
       },
       {
-        "n": "CHÔ!",
+        "n": "ERNA",
         "s": "2026-07-15T15:00:00Z",
         "e": "2026-07-15T16:00:00Z",
         "d": null,
@@ -2360,38 +2473,33 @@
         "t": "monthly"
       },
       {
-        "n": "Not Sorry",
+        "n": "Gaîté L'Été",
         "s": "2026-07-15T16:00:00Z",
-        "e": "2026-07-15T17:00:00Z",
+        "e": "2026-07-15T17:30:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
-        "n": "Hyas",
-        "s": "2026-07-15T17:00:00Z",
-        "e": "2026-07-15T18:00:00Z",
+        "n": "Gaîté L'Été",
+        "s": "2026-07-15T17:30:00Z",
+        "e": "2026-07-15T18:30:00Z",
         "d": null,
-        "j": "invite DJ Strawberry",
-        "u": null,
-        "t": "monthly",
-        "p": "hyas"
+        "j": null,
+        "u": null
       },
       {
-        "n": "Adam BFD",
-        "s": "2026-07-15T18:00:00Z",
-        "e": "2026-07-15T19:00:00Z",
+        "n": "Gaîté L'Été",
+        "s": "2026-07-15T18:30:00Z",
+        "e": "2026-07-15T19:30:00Z",
         "d": null,
-        "j": "B2B Coffintexts",
-        "u": null,
-        "p": "coffintexts",
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-15T19:00:00Z",
-        "e": "2026-07-15T20:00:00Z",
+        "s": "2026-07-15T19:30:00Z",
+        "e": "2026-07-15T20:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2399,15 +2507,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "OPEN",
-        "s": "2026-07-14T22:00:00Z",
-        "e": "2026-07-15T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "GLOSSY LOGIC",
         "s": "2026-07-15T00:00:00Z",
