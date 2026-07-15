@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-15T17:06:37.496Z",
+  "updated": "2026-07-15T18:56:25.745Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PEACH",
-        "s": "2026-07-15T18:00:00+01:00",
-        "e": "2026-07-15T19:00:00+01:00",
-        "d": "The snack enthusiast and London based producer and DJ takes on the NTS airwaves. Stay tuned for mixes spanning the breadth of dance and club music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/peach/episodes/peach-15th-july-2026",
-        "p": "peach"
-      },
       {
         "n": "MINA w/ Slaggamuffin",
         "s": "2026-07-15T19:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "MARTELO",
         "s": "2026-07-15T20:00:00+01:00",
         "e": "2026-07-15T21:00:00+01:00",
-        "d": null,
+        "d": "Record maker, player and mixer Martelo - not Martello - joins the musical dots with sonic heat from across the globe. Taking us to hip-hop, RnB, electronica and elsewhere, Martelo keeps it tight and keeps the heat: non-stop classics. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/martelo/episodes/martelo-15th-july-2026",
         "t": "biweekly",
         "p": "martelo"
       },
@@ -165,18 +156,17 @@
         "j": null,
         "u": null,
         "p": "chicoblanco"
+      },
+      {
+        "n": "AFRICA ONLY PRESENTS GHANAIAN UNDERGROUND W/ ANASTASIA, NANA NYAHAN, ENYO & MUUD",
+        "s": "2026-07-16T18:00:00+01:00",
+        "e": "2026-07-16T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "THE ULINE CATALOG W/ CALVIN LECOMPTE (R)",
-        "s": "2026-07-15T17:59:00+01:00",
-        "e": "2026-07-15T19:00:00+01:00",
-        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
-        "j": "CALVIN LECOMPTE",
-        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-9th-may-2025",
-        "t": "restream"
-      },
       {
         "n": "SÉANCE CENTRE: Underwhich Audiographics Special",
         "s": "2026-07-15T19:00:00+01:00",
@@ -189,9 +179,9 @@
         "n": "Total Stasis (R)",
         "s": "2026-07-15T20:00:00+01:00",
         "e": "2026-07-15T21:00:00+01:00",
-        "d": null,
+        "d": "An hour a month from LA label Total Stasis, responsible for releases by Ramzi, Aquarian Foundation, Anom Vitruv, Elysia Crampton, Bobo Eyes & Plush Throw, CS + Kreme, Fmvee, Second Language, Regularfantasy, Private Lesson, Alexi Baris, Laila Sakini, and Sebastiano Carghini.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/total-stasis/episodes/total-stasis-9th-june-2026",
         "t": "restream",
         "p": "totalstasis"
       },
@@ -331,19 +321,19 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " Antisocial Records",
-        "s": "2026-07-15T17:00:00Z",
-        "e": "2026-07-15T18:00:00Z",
+        "n": "TOM FURSE",
+        "s": "2026-07-16T15:00:00+01:00",
+        "e": "2026-07-16T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "antisocialrecords"
-      },
+        "p": "tomfurse"
+      }
+    ],
+    "subtle": [
       {
         "n": "Rebekah Abdeen",
         "s": "2026-07-15T18:00:00Z",
@@ -1520,6 +1510,16 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Ezra",
+        "s": "2026-07-22T18:00:00Z",
+        "e": "2026-07-22T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ezra"
       }
     ],
     "dublab": [
@@ -2112,16 +2112,6 @@
     ],
     "rinse": [
       {
-        "n": "Just Jane",
-        "s": "2026-07-15T17:00:00Z",
-        "e": "2026-07-15T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "justjane"
-      },
-      {
         "n": "KILIMANJARO",
         "s": "2026-07-15T18:00:00Z",
         "e": "2026-07-15T20:00:00Z",
@@ -2303,16 +2293,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Hyas",
-        "s": "2026-07-15T17:00:00Z",
-        "e": "2026-07-15T18:00:00Z",
-        "d": null,
-        "j": "invite DJ Strawberry",
-        "u": null,
-        "t": "monthly",
-        "p": "hyas"
-      },
-      {
         "n": "Adam BFD",
         "s": "2026-07-15T18:00:00Z",
         "e": "2026-07-15T19:00:00Z",
@@ -2362,7 +2342,7 @@
         "s": "2026-07-16T13:00:00Z",
         "e": "2026-07-16T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "présente CROQUE-MONSIEUR\tPour les Mamans",
         "u": null,
         "t": "monthly",
         "p": "mattiasmimoun"
@@ -2420,15 +2400,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "THIRD ROOM RADIO",
-        "s": "2026-07-15T16:00:00Z",
-        "e": "2026-07-15T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "STFU RADIO",
         "s": "2026-07-15T18:00:00Z",
@@ -3349,6 +3320,16 @@
         "u": null,
         "t": "monthly",
         "p": "tristestropiques"
+      },
+      {
+        "n": "The Saturday Morning Comedown",
+        "s": "2026-08-15T18:00:00Z",
+        "e": "2026-08-15T22:00:00Z",
+        "d": null,
+        "j": "Infinite Jess",
+        "u": null,
+        "t": "monthly",
+        "p": "infinitejess"
       }
     ]
   }
