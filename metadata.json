@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-15T09:51:50.061Z",
+  "updated": "2026-07-15T11:22:38.948Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-07-15T09:00:00+01:00",
-        "e": "2026-07-15T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-15th-july-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-07-15T11:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "LUNCH CLUB w/ FINN",
         "s": "2026-07-15T13:00:00+01:00",
         "e": "2026-07-15T14:00:00+01:00",
-        "d": null,
+        "d": "Dance music with feeling, lunch time with Finn",
         "j": "FINN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lunch-club/episodes/lunch-club-15th-july-2026",
         "t": "weekly",
         "p": "finn",
         "ap": [
@@ -91,13 +81,12 @@
         "u": null
       },
       {
-        "n": "GIGI FM",
+        "n": "GIGI FM PRESENTS Rødhåd & Sara Clarke",
         "s": "2026-07-15T22:00:00+01:00",
         "e": "2026-07-15T23:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "gigifm"
       },
       {
@@ -172,48 +161,33 @@
         "u": null,
         "t": "monthly",
         "p": "fergusclark"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-07-16T11:00:00+01:00",
+        "e": "2026-07-16T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "RAGA VIBRATIONS (R)",
-        "s": "2026-07-15T09:00:00+01:00",
-        "e": "2026-07-15T11:00:00+01:00",
-        "d": "\"Raga Vibrations\" is a monthly selection of Indian music curated by Greg Davis.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/raga-vibrations/episodes/raga-vibrations-16th-march-2024",
-        "t": "restream",
-        "p": "ragavibrations"
-      },
-      {
-        "n": "Natalia Panzer",
-        "s": "2026-07-15T11:00:00+01:00",
-        "e": "2026-07-15T12:00:00+01:00",
-        "d": "Curio earworms and other obsessions from Krakow's Natalia Panzer.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-15th-july-2026",
-        "t": "monthly",
-        "p": "natalia",
-        "ap": [
-          "nataliapanzer"
-        ]
-      },
-      {
         "n": "Tara Clerkin Trio",
         "s": "2026-07-15T12:00:00+01:00",
         "e": "2026-07-15T13:00:00+01:00",
-        "d": null,
+        "d": "Off-centre rhythms, muted electronics & slick modern compositions in a monthly missive from the Bristolian psych-rock jammers…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tara-clerkin-trio/episodes/tara-clerkin-trio-15th-july-2026",
         "t": "monthly"
       },
       {
         "n": "Mil Townley",
         "s": "2026-07-15T13:00:00+01:00",
         "e": "2026-07-15T14:00:00+01:00",
-        "d": null,
+        "d": "Bimonthly radio hour taking you down various musical rabbit holes. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/no-one-radio/episodes/no-one-radio-15th-july-2026",
         "t": "monthly"
       },
       {
@@ -226,11 +200,11 @@
         "t": "monthly"
       },
       {
-        "n": "ARUSHI JAIN",
+        "n": "ARUSHI JAIN - SUMMERTIME RAGAS PT 2",
         "s": "2026-07-15T15:00:00+01:00",
         "e": "2026-07-15T16:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "SUMMERTIME RAGAS PT 2",
         "u": null,
         "t": "monthly"
       },
@@ -343,27 +317,27 @@
         "j": "Ode to Nintendo DS",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "King Britt Presents: Transmissions (R)",
+        "s": "2026-07-16T06:00:00+01:00",
+        "e": "2026-07-16T07:00:00+01:00",
+        "d": null,
+        "j": "Transmissions",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "NTS Guide to: Modern Classical Piano (R)",
+        "s": "2026-07-16T07:00:00+01:00",
+        "e": "2026-07-16T09:00:00+01:00",
+        "d": null,
+        "j": "Modern Classical Piano",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "TSZ INVITES FITS ME FUNNY",
-        "s": "2026-07-15T08:00:00Z",
-        "e": "2026-07-15T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "In The Loop w/ Sam Groves",
-        "s": "2026-07-15T10:00:00Z",
-        "e": "2026-07-15T11:00:00Z",
-        "d": null,
-        "j": "Sam Groves",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Stroke of Sound by Tia",
         "s": "2026-07-15T11:00:00Z",
@@ -1528,13 +1502,35 @@
         "u": null,
         "t": "monthly",
         "p": "sportmode"
+      },
+      {
+        "n": "Touching Bass w/ timfromsales",
+        "s": "2026-07-22T10:00:00Z",
+        "e": "2026-07-22T11:00:00Z",
+        "d": null,
+        "j": "timfromsales",
+        "u": null,
+        "t": "monthly",
+        "p": "timfromsales",
+        "ap": [
+          "touchingbass"
+        ]
+      },
+      {
+        "n": "Selectors Support",
+        "s": "2026-07-22T11:00:00Z",
+        "e": "2026-07-22T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-15T08:00:00Z",
-        "e": "2026-07-15T10:00:00Z",
+        "s": "2026-07-15T10:00:00Z",
+        "e": "2026-07-15T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1542,8 +1538,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-15T10:00:00Z",
-        "e": "2026-07-15T12:00:00Z",
+        "s": "2026-07-15T12:00:00Z",
+        "e": "2026-07-15T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2130,16 +2126,6 @@
     ],
     "rinse": [
       {
-        "n": "Esk",
-        "s": "2026-07-15T09:00:00Z",
-        "e": "2026-07-15T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "esk"
-      },
-      {
         "n": "Neptizzle",
         "s": "2026-07-15T11:00:00Z",
         "e": "2026-07-15T12:00:00Z",
@@ -2370,15 +2356,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-15T07:00:00Z",
-        "e": "2026-07-15T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-15T10:00:00Z",
