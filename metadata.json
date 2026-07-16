@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-16T17:04:44.944Z",
+  "updated": "2026-07-16T18:57:14.884Z",
   "stations": {
     "nts1": [
-      {
-        "n": "AFRICA ONLY PRESENTS GHANAIAN UNDERGROUND W/ ANASTASIA, NANA NYAHAN, ENYO & MUUD",
-        "s": "2026-07-16T18:00:00+01:00",
-        "e": "2026-07-16T19:00:00+01:00",
-        "d": "Africa Only is an ongoing cultural and musical project exploring underground sounds, scenes and artistic movements across the African continent and the diaspora. Curated by the artist Paxslim, the series highlights artists, communities and sonic histories rooted in African and Afro-diasporic identity. Each episode focuses on a different scene, bringing together music, research and storytelling to spotlight emerging and influential voices shaping contemporary underground culture.\nFrom the host: \"Featuring selections from Anastasia Cobbinah, founder of Palm Moments, curator and cultural programmer, ENYO, a creative organizer working with music and words, Nana Nyahan, a visual artist across ceramics, graphic design and tattooing, and Muud Swingz, a curator and DJ. Mixed by Haram.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/paxslim/episodes/paxslim-16th-july-2026"
-      },
       {
         "n": "Ted Draws",
         "s": "2026-07-16T19:00:00+01:00",
@@ -25,9 +17,9 @@
         "n": "THE TIM & BARRY SHOW",
         "s": "2026-07-16T20:00:00+01:00",
         "e": "2026-07-16T22:00:00+01:00",
-        "d": null,
+        "d": "Tim & Barry have been documenting underground music since 2000. Journey from the latest UK drill back in time to classic grime and garage, all the way to afrobeats, dancehall and RnB. Expect the unexpected. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dont-watch-that/episodes/dont-watch-that-16th-july-2026"
       },
       {
         "n": "RADIO SUPER W/ ROSA PISTOLA - BANDA, CORRIDOS Y RAP",
@@ -165,6 +157,15 @@
         "j": null,
         "u": null,
         "p": "skeemask"
+      },
+      {
+        "n": "UP YA ARCHIVES w/ NIA ARCHIVES",
+        "s": "2026-07-17T17:00:00+01:00",
+        "e": "2026-07-17T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "niaarchives"
       }
     ],
     "nts2": [
@@ -337,15 +338,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-07-16T17:00:00Z",
-        "e": "2026-07-16T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Pull up w/ Niceup",
         "s": "2026-07-16T18:00:00Z",
@@ -1547,17 +1539,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Gabriella",
+        "s": "2026-07-23T18:00:00Z",
+        "e": "2026-07-23T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "gabriella"
       }
     ],
     "dublab": [
-      {
-        "n": "Xander – guest session",
-        "s": "2026-07-16T16:00:00Z",
-        "e": "2026-07-16T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "RERUN Underscore",
         "s": "2026-07-16T18:00:00Z",
@@ -2169,16 +2163,6 @@
     ],
     "rinse": [
       {
-        "n": "DJ Love",
-        "s": "2026-07-16T17:00:00Z",
-        "e": "2026-07-16T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "djlove"
-      },
-      {
         "n": "X CLUB. presents HIDE THE JUNK",
         "s": "2026-07-16T18:00:00Z",
         "e": "2026-07-16T20:00:00Z",
@@ -2267,12 +2251,13 @@
         "t": "playlist"
       },
       {
-        "n": "Mornings with...",
+        "n": "Breakfast with Joe Innes",
         "s": "2026-07-17T09:00:00Z",
         "e": "2026-07-17T10:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "(Shuffle 'N' Swing)",
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "Uncle Dugs",
@@ -2335,13 +2320,12 @@
         "p": "mallgrab"
       },
       {
-        "n": "Lu.Re",
+        "n": "Lu.Re with Jolie P",
         "s": "2026-07-17T20:00:00Z",
         "e": "2026-07-17T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Fabric",
         "u": null,
-        "t": "biweekly",
         "p": "lure"
       },
       {
@@ -2349,7 +2333,7 @@
         "s": "2026-07-17T21:00:00Z",
         "e": "2026-07-17T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Tristan Tyom",
         "u": null
       },
       {
@@ -2357,29 +2341,13 @@
         "s": "2026-07-17T22:00:00Z",
         "e": "2026-07-17T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Manoamour",
         "u": null,
         "t": "biweekly",
         "p": "clementaum"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Gaîté L'Été",
-        "s": "2026-07-16T16:00:00Z",
-        "e": "2026-07-16T17:30:00Z",
-        "d": null,
-        "j": "WARREN KO",
-        "u": null
-      },
-      {
-        "n": "Gaîté L'Été",
-        "s": "2026-07-16T17:30:00Z",
-        "e": "2026-07-16T18:30:00Z",
-        "d": null,
-        "j": "CÉZAIRE",
-        "u": null
-      },
       {
         "n": "Gaîté L'Été",
         "s": "2026-07-16T18:30:00Z",
