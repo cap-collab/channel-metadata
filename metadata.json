@@ -1,41 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-07-16T07:57:05.257Z",
+  "updated": "2026-07-16T10:04:00.522Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM & DJ FINE",
-        "s": "2026-07-16T07:00:00+01:00",
-        "e": "2026-07-16T09:00:00+01:00",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-16th-july-2026"
-      },
-      {
-        "n": "The NTS Breakfast Show w/ FERGUS CLARK",
-        "s": "2026-07-16T09:00:00+01:00",
-        "e": "2026-07-16T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": "FERGUS CLARK",
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-fergus-clark-16th-july-2026",
-        "t": "monthly",
-        "p": "fergusclark"
-      },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-07-16T11:00:00+01:00",
         "e": "2026-07-16T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
+        "j": "BABYSCHÖN",
+        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanticeleste-16th-july-2026",
+        "t": "monthly"
       },
       {
         "n": "Tai Lokun (For SHANTI CELESTE)",
         "s": "2026-07-16T13:00:00+01:00",
         "e": "2026-07-16T15:00:00+01:00",
-        "d": null,
+        "d": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanticeleste-16th-july-2026",
+        "t": "monthly",
         "p": "tailokun"
       },
       {
@@ -45,6 +29,16 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "COURTESY (R)",
+        "s": "2026-07-16T16:00:00+01:00",
+        "e": "2026-07-16T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "courtesy"
       },
       {
         "n": "CHICO BLANCO invites Byron Yeates",
@@ -162,51 +156,41 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SOUP TO NUTS W/ SCARY THINGS & LUCKI",
+        "s": "2026-07-17T11:00:00+01:00",
+        "e": "2026-07-17T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "scarythings"
       }
     ],
     "nts2": [
       {
-        "n": "NTS Guide to: Modern Classical Piano (R)",
-        "s": "2026-07-16T07:00:00+01:00",
-        "e": "2026-07-16T09:00:00+01:00",
-        "d": "An overview of modern classical solo piano recordings, from the 1970s to the present day. Selected and mixed by DJ Sundae. ",
-        "j": "Modern Classical Piano",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-modern-classical-piano-18th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "Shukai (R)",
-        "s": "2026-07-16T09:00:00+01:00",
-        "e": "2026-07-16T10:00:00+01:00",
-        "d": "A unique dip into the musical history of Ukraine with archival label Shukai, journeying back to the ‘90s, playing music from documentaries, sci-fi films, obscure cartoons and late-night music programming, curated by Dmytro Nikolaienko, Dmytro Prutkin and Alec Tsapenko.\nFrom the host: \"Step inside the sonic laboratory of Soviet Ukraine’s Kyivnaukfilm (Eng: Kyiv Science Film, active years 1941-1993) studio — a workshop where composers and sound designers crafted scores for documentary, science, education, and animation films. From eerie synth textures to inventive tape collages, these rare recordings (1967–1990) reveal a secret world of avant-garde music created under censorship yet brimming with experiments.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/shukai/episodes/shukai-24th-september-2025",
-        "t": "restream",
-        "p": "shukai"
-      },
-      {
-        "n": "The Uline Catalog w/ Calvin LeCompte (R)",
-        "s": "2026-07-16T10:00:00+01:00",
-        "e": "2026-07-16T11:00:00+01:00",
-        "d": null,
-        "j": "Calvin LeCompte",
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "Westward Ho! w/ Ashley Wales",
         "s": "2026-07-16T11:00:00+01:00",
         "e": "2026-07-16T12:00:00+01:00",
-        "d": null,
+        "d": "Westward Ho! - Ashley Wales playing all things classical with a special focus on music from the 20th and 21st century.",
         "j": "Ashley Wales",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ashley-wales/episodes/ashley-wales-16th-july-2026",
         "t": "monthly",
         "p": "ashleywales"
       },
       {
-        "n": "THE NUMERO GROUP - NYC pop-up",
+        "n": "IN FOCUS: CINDY LEE (R)",
         "s": "2026-07-16T12:00:00+01:00",
         "e": "2026-07-16T13:00:00+01:00",
+        "d": "Initially heading up Calgary band Women, Patrick Flegel began performing and writing music in drag as Cindy Lee in the early 2010s, coinciding with their debut solo long player \"Tatlashea\". Their music – which tackles themes of personal struggle, spirituality and love with a tender frankness – sounds like pop thats been run through the ringer. Dissonance marries harmony in tightly written songs inspired by the musicality and aesthetics of a misremembered bygone era. \nThis In Focus was selected by June.\nPhoto: Phil Osborne",
+        "j": "CINDY LEE",
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-cindy-lee-26th-july-2024",
+        "t": "restream"
+      },
+      {
+        "n": "THE NUMERO GROUP - NYC pop-up",
+        "s": "2026-07-16T13:00:00+01:00",
+        "e": "2026-07-16T14:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
@@ -329,37 +313,36 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "CDMX Tapes w/ Sazzle & Kashmira",
+        "s": "2026-07-17T04:00:00+01:00",
+        "e": "2026-07-17T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ZULI (R)",
+        "s": "2026-07-17T06:00:00+01:00",
+        "e": "2026-07-17T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "zuli"
+      },
+      {
+        "n": "626 COMPANY RADIO (R)",
+        "s": "2026-07-17T08:00:00+01:00",
+        "e": "2026-07-17T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-07-16T07:00:00Z",
-        "e": "2026-07-16T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "source",
-        "s": "2026-07-16T08:00:00Z",
-        "e": "2026-07-16T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "source"
-      },
-      {
-        "n": "In The Rotation w/ Su",
-        "s": "2026-07-16T09:00:00Z",
-        "e": "2026-07-16T10:00:00Z",
-        "d": null,
-        "j": "Su",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Housekeeping",
         "s": "2026-07-16T10:00:00Z",
@@ -1534,13 +1517,40 @@
         "j": "Samuel Alexander",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "POSER",
+        "s": "2026-07-23T08:00:00Z",
+        "e": "2026-07-23T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TRANSISTOR RHYTHMS",
+        "s": "2026-07-23T09:00:00Z",
+        "e": "2026-07-23T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Jordan Scudder",
+        "s": "2026-07-23T10:00:00Z",
+        "e": "2026-07-23T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-16T07:00:00Z",
-        "e": "2026-07-16T09:00:00Z",
+        "s": "2026-07-16T09:00:00Z",
+        "e": "2026-07-16T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1548,8 +1558,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-16T09:00:00Z",
-        "e": "2026-07-16T11:00:00Z",
+        "s": "2026-07-16T11:00:00Z",
+        "e": "2026-07-16T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2155,15 +2165,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-16T06:00:00Z",
-        "e": "2026-07-16T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Yazmin Lacey",
         "s": "2026-07-16T09:00:00Z",
         "e": "2026-07-16T11:00:00Z",
@@ -2178,7 +2179,7 @@
         "s": "2026-07-16T11:00:00Z",
         "e": "2026-07-16T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Kengo & Dan Tenor-City (Deep City Hustle)",
         "u": null,
         "p": "bambi"
       },
@@ -2240,7 +2241,7 @@
         "u": null
       },
       {
-        "n": "Sam Gellaitry",
+        "n": "INSTINCT",
         "s": "2026-07-16T20:00:00Z",
         "e": "2026-07-16T21:00:00Z",
         "d": null,
@@ -2414,15 +2415,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-16T07:00:00Z",
-        "e": "2026-07-16T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-16T10:00:00Z",
         "e": "2026-07-16T12:00:00Z",
         "d": null,
@@ -2464,7 +2456,7 @@
         "s": "2026-07-16T15:00:00Z",
         "e": "2026-07-16T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "SIDEQUEST avec Salomée",
         "u": null
       },
       {
