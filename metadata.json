@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-16T10:04:00.522Z",
+  "updated": "2026-07-16T13:22:38.641Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ BABYSCHÖN",
-        "s": "2026-07-16T11:00:00+01:00",
-        "e": "2026-07-16T13:00:00+01:00",
-        "d": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
-        "j": "BABYSCHÖN",
-        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanticeleste-16th-july-2026",
-        "t": "monthly"
-      },
       {
         "n": "Tai Lokun (For SHANTI CELESTE)",
         "s": "2026-07-16T13:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "SITUATIONSHIP W/ JENNY CARA",
         "s": "2026-07-16T15:00:00+01:00",
         "e": "2026-07-16T16:00:00+01:00",
-        "d": null,
+        "d": "Zurich-based Jenny Cara brings the heat with a blend of cheerful and hard-hitting house, creating a space that celebrates community, history, and pure energy.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/jenny-cara/episodes/jenny-cara-16th-july-2026"
       },
       {
         "n": "COURTESY (R)",
@@ -112,6 +103,16 @@
         "p": "kampire"
       },
       {
+        "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE (R)",
+        "s": "2026-07-17T03:00:00+01:00",
+        "e": "2026-07-17T04:00:00+01:00",
+        "d": null,
+        "j": "TEMI KOGBE",
+        "u": null,
+        "t": "restream",
+        "p": "temikogbe"
+      },
+      {
         "n": "ASHER G'S CARIBBEAN MEMORIES (R)",
         "s": "2026-07-17T04:00:00+01:00",
         "e": "2026-07-17T05:00:00+01:00",
@@ -169,48 +170,21 @@
     ],
     "nts2": [
       {
-        "n": "Westward Ho! w/ Ashley Wales",
-        "s": "2026-07-16T11:00:00+01:00",
-        "e": "2026-07-16T12:00:00+01:00",
-        "d": "Westward Ho! - Ashley Wales playing all things classical with a special focus on music from the 20th and 21st century.",
-        "j": "Ashley Wales",
-        "u": "https://www.nts.live/api/v2/shows/ashley-wales/episodes/ashley-wales-16th-july-2026",
-        "t": "monthly",
-        "p": "ashleywales"
-      },
-      {
-        "n": "IN FOCUS: CINDY LEE (R)",
-        "s": "2026-07-16T12:00:00+01:00",
-        "e": "2026-07-16T13:00:00+01:00",
-        "d": "Initially heading up Calgary band Women, Patrick Flegel began performing and writing music in drag as Cindy Lee in the early 2010s, coinciding with their debut solo long player \"Tatlashea\". Their music – which tackles themes of personal struggle, spirituality and love with a tender frankness – sounds like pop thats been run through the ringer. Dissonance marries harmony in tightly written songs inspired by the musicality and aesthetics of a misremembered bygone era. \nThis In Focus was selected by June.\nPhoto: Phil Osborne",
-        "j": "CINDY LEE",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-cindy-lee-26th-july-2024",
-        "t": "restream"
-      },
-      {
-        "n": "THE NUMERO GROUP - NYC pop-up",
-        "s": "2026-07-16T13:00:00+01:00",
-        "e": "2026-07-16T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Tezez Tapes",
         "s": "2026-07-16T14:00:00+01:00",
         "e": "2026-07-16T15:00:00+01:00",
-        "d": null,
+        "d": "Semir from archival label Tezez Tapes curates from a cassette collection of Eritrean music from the 1980s–2000s, tracing eras, sounds, and the distinct voices that shaped them.\nFrom the host: \"Highlighting music by Eritrean artists living in the diaspora, featuring releases from 1991 to 2001\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tezez-tapes/episodes/tezez-tapes-16th-july-2026",
         "p": "tezeztapes"
       },
       {
         "n": "TOM FURSE",
         "s": "2026-07-16T15:00:00+01:00",
         "e": "2026-07-16T16:00:00+01:00",
-        "d": null,
+        "d": "Tom Furse is a musician and compiler - searching out the spaces in between genres - tune in for all things wonky; an education in spacious sound and dusted soul.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tom-furse/episodes/tom-furse-16th-july-2026",
         "t": "monthly",
         "p": "tomfurse"
       },
@@ -224,13 +198,14 @@
         "p": "desirepaths"
       },
       {
-        "n": "DIMENSION DOOR",
+        "n": "SARA A (R)",
         "s": "2026-07-16T17:00:00+01:00",
         "e": "2026-07-16T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "p": "dimensiondoor"
+        "t": "restream",
+        "p": "saraa"
       },
       {
         "n": "NTS Guide to: Music from Japan’s CD-era Electronic Underground Vol. 2",
@@ -340,37 +315,29 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "LYRA PRAMUK PRESENTS: POP.SOIL (R)",
+        "s": "2026-07-17T09:00:00+01:00",
+        "e": "2026-07-17T10:00:00+01:00",
+        "d": null,
+        "j": "POP.SOIL",
+        "u": null,
+        "t": "restream",
+        "p": "lyrapramuk"
+      },
+      {
+        "n": "Claire Rousay (R)",
+        "s": "2026-07-17T10:00:00+01:00",
+        "e": "2026-07-17T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "clairerousay"
       }
     ],
     "subtle": [
-      {
-        "n": "Housekeeping",
-        "s": "2026-07-16T10:00:00Z",
-        "e": "2026-07-16T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "housekeeping"
-      },
-      {
-        "n": "Exit Portal + J.Low",
-        "s": "2026-07-16T11:00:00Z",
-        "e": "2026-07-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "BICHETTE",
-        "s": "2026-07-16T12:00:00Z",
-        "e": "2026-07-16T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "dbeater",
         "s": "2026-07-16T13:00:00Z",
@@ -1544,13 +1511,40 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Brooklyn Loves UKG",
+        "s": "2026-07-23T11:00:00Z",
+        "e": "2026-07-23T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "UNTZ",
+        "s": "2026-07-23T12:00:00Z",
+        "e": "2026-07-23T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ZERO Dijits",
+        "s": "2026-07-23T13:00:00Z",
+        "e": "2026-07-23T14:00:00Z",
+        "d": "\"The calm before summer\"",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-16T09:00:00Z",
-        "e": "2026-07-16T11:00:00Z",
+        "s": "2026-07-16T13:00:00Z",
+        "e": "2026-07-16T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1558,8 +1552,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-16T11:00:00Z",
-        "e": "2026-07-16T13:00:00Z",
+        "s": "2026-07-16T15:00:00Z",
+        "e": "2026-07-16T15:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2165,35 +2159,6 @@
     ],
     "rinse": [
       {
-        "n": "Yazmin Lacey",
-        "s": "2026-07-16T09:00:00Z",
-        "e": "2026-07-16T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
-        "n": "Bambi",
-        "s": "2026-07-16T11:00:00Z",
-        "e": "2026-07-16T12:00:00Z",
-        "d": null,
-        "j": "Kengo & Dan Tenor-City (Deep City Hustle)",
-        "u": null,
-        "p": "bambi"
-      },
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-07-16T12:00:00Z",
-        "e": "2026-07-16T13:00:00Z",
-        "d": null,
-        "j": "Ckay",
-        "u": null,
-        "t": "weekly",
-        "p": "skvibemaker"
-      },
-      {
         "n": "Mr. Redley presents The Black Wine Club Show",
         "s": "2026-07-16T13:00:00Z",
         "e": "2026-07-16T14:00:00Z",
@@ -2358,7 +2323,7 @@
         "s": "2026-07-17T16:00:00Z",
         "e": "2026-07-17T17:00:00Z",
         "d": null,
-        "j": "live from North Face Climb Fest 2026",
+        "j": "Live from North Face Climb Fest 2026",
         "u": null,
         "t": "biweekly",
         "p": "savannahblake"
@@ -2413,25 +2378,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-16T10:00:00Z",
-        "e": "2026-07-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "MABOUL BASMATI",
-        "s": "2026-07-16T12:00:00Z",
-        "e": "2026-07-16T13:00:00Z",
-        "d": null,
-        "j": "mode FRENCH VORTEX #89 invite RARE GROOVE HUNTER",
-        "u": null,
-        "t": "monthly",
-        "p": "maboulbasmati"
-      },
       {
         "n": "Mattias Mimoun",
         "s": "2026-07-16T13:00:00Z",
@@ -2587,24 +2533,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-07-16T06:00:00Z",
-        "e": "2026-07-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "STRETCHES",
-        "s": "2026-07-16T12:00:00Z",
-        "e": "2026-07-16T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "OPEN",
         "s": "2026-07-16T13:00:00Z",
