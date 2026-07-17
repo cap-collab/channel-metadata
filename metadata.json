@@ -1,41 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-17T11:15:24.784Z",
+  "updated": "2026-07-17T13:07:03.607Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ SCARY THINGS & LUCKI",
-        "s": "2026-07-17T11:00:00+01:00",
-        "e": "2026-07-17T13:00:00+01:00",
-        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-17th-july-2026",
-        "p": "scarythings"
-      },
-      {
-        "n": "Brief Encounters Presents: RenzNiro ‘No Weapon Shall Prosper' Special",
-        "s": "2026-07-17T13:00:00+01:00",
-        "e": "2026-07-17T14:00:00+01:00",
-        "d": "Experimental sounds from the peripheries of grime and electronica from Manchester producer RenzNiro, marking the release of their new mixtape “No Weapon Shall Prosper”. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/renzniro-17th-july-2026"
-      },
       {
         "n": "Cousins",
         "s": "2026-07-17T14:00:00+01:00",
         "e": "2026-07-17T15:00:00+01:00",
-        "d": null,
+        "d": "Cousins crew Basmati, Zaleel, A.G and Manara tear up the studio every other month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cousins/episodes/cousins-17th-july-2026",
         "p": "cousins"
       },
       {
         "n": "COURTESY",
         "s": "2026-07-17T15:00:00+01:00",
         "e": "2026-07-17T16:00:00+01:00",
-        "d": null,
+        "d": "Regular techno, electro, and house missives from the Against Interpretation labelhead and powerhouse-club selector Courtesy…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/courtesy/episodes/courtesy-17th-july-2026",
         "t": "monthly",
         "p": "courtesy"
       },
@@ -171,44 +154,45 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "LUNG DART (R)",
+        "s": "2026-07-18T07:00:00+01:00",
+        "e": "2026-07-18T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "lungdart"
+      },
+      {
+        "n": "Nāda Sonic w/ Sway Of The Verses",
+        "s": "2026-07-18T08:00:00+01:00",
+        "e": "2026-07-18T10:00:00+01:00",
+        "d": null,
+        "j": "Sway Of The Verses",
+        "u": null,
+        "t": "monthly",
+        "p": "swayoftheverses"
       }
     ],
     "nts2": [
       {
-        "n": "RECURRING DREAM (R)",
-        "s": "2026-07-17T12:00:00+01:00",
-        "e": "2026-07-17T13:00:00+01:00",
-        "d": "Every month, a Recurring Dream - from Sanpo Disco's Rowan Mason.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/recurring-dream/episodes/recurring-dream-19th-august-2020",
-        "t": "restream"
-      },
-      {
-        "n": "FERVENT MOON",
-        "s": "2026-07-17T13:00:00+01:00",
-        "e": "2026-07-17T14:00:00+01:00",
-        "d": "DJ: “… I don’t know, I didn’t… I didn’t think I’d be the one holding the air, I never spoke live before the event consumed the many. I’ve no news for the desperate survivors and… and I can’t… well, I can hope that this next song might help us survive a little longer…\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fervent-moon/episodes/fervent-moon-17th-july-2026",
-        "t": "monthly",
-        "p": "ferventmoon"
-      },
-      {
         "n": "PIPE DOWN - TIME FOR PEACE (R)",
         "s": "2026-07-17T14:00:00+01:00",
         "e": "2026-07-17T14:56:00+01:00",
-        "d": null,
+        "d": "A classic mix from Otis Sommerville Marchbank - an hour heavenly jazz, soul & RNB.",
         "j": "TIME FOR PEACE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/pipe-down/episodes/pipe-down-time-for-peace",
         "t": "restream"
       },
       {
         "n": "DARK ENTRIES: PATRICK COWLEY SPECIAL (R)",
         "s": "2026-07-17T14:56:00+01:00",
         "e": "2026-07-17T17:00:00+01:00",
-        "d": null,
+        "d": "Dark Entries present a 2 hour special on Patrick Cowley. ",
         "j": "PATRICK COWLEY SPECIAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dark-enteries-patrick-cowley-special-6th-october-2017",
         "t": "restream"
       },
       {
@@ -341,18 +325,28 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Gwero b2b Nightshade",
-        "s": "2026-07-17T11:00:00Z",
-        "e": "2026-07-17T13:00:00Z",
+        "n": "Mint Condition (R)",
+        "s": "2026-07-18T08:00:00+01:00",
+        "e": "2026-07-18T10:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
+      {
+        "n": "Leila Samir (R)",
+        "s": "2026-07-18T10:00:00+01:00",
+        "e": "2026-07-18T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "leilasamir"
+      }
+    ],
+    "subtle": [
       {
         "n": "Rebello",
         "s": "2026-07-17T13:00:00Z",
@@ -1575,18 +1569,28 @@
         "u": null,
         "t": "monthly",
         "p": "lakey"
+      },
+      {
+        "n": "Kiimi Presents: Club Hunni",
+        "s": "2026-07-24T12:00:00Z",
+        "e": "2026-07-24T13:00:00Z",
+        "d": null,
+        "j": "Club Hunni",
+        "u": null,
+        "t": "monthly",
+        "p": "kiimi"
+      },
+      {
+        "n": "Gimme Signal radio w/ Kim Öhman",
+        "s": "2026-07-24T13:00:00Z",
+        "e": "2026-07-24T14:00:00Z",
+        "d": null,
+        "j": "Kim Öhman",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-07-17T11:00:00Z",
-        "e": "2026-07-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-07-17T13:00:00Z",
@@ -2183,16 +2187,6 @@
     ],
     "rinse": [
       {
-        "n": "Uncle Dugs",
-        "s": "2026-07-17T10:00:00Z",
-        "e": "2026-07-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "uncledugs"
-      },
-      {
         "n": "Jeremy Sylvester",
         "s": "2026-07-17T13:00:00Z",
         "e": "2026-07-17T15:00:00Z",
@@ -2406,25 +2400,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-07-17T10:00:00Z",
-        "e": "2026-07-17T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Vanille",
-        "s": "2026-07-17T12:00:00Z",
-        "e": "2026-07-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "vanille"
-      },
-      {
         "n": "La Phonkerie",
         "s": "2026-07-17T13:00:00Z",
         "e": "2026-07-17T14:00:00Z",
@@ -2437,7 +2412,7 @@
         "s": "2026-07-17T14:00:00Z",
         "e": "2026-07-17T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJ Monique invite Flemish.Fetish",
         "u": null,
         "t": "biweekly",
         "p": "queercult"
@@ -2584,24 +2559,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-07-17T05:00:00Z",
-        "e": "2026-07-17T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "GRAVITATION",
-        "s": "2026-07-17T12:00:00Z",
-        "e": "2026-07-17T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "HANGTIME RADIO",
         "s": "2026-07-17T13:00:00Z",
