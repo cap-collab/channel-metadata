@@ -1,34 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-07-17T17:02:20.840Z",
+  "updated": "2026-07-17T18:53:54.404Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MARTHA",
-        "s": "2026-07-17T18:00:00+01:00",
-        "e": "2026-07-17T19:00:00+01:00",
-        "d": "Martha is a DJ and broadcaster from South London with roots in community radio and documentary making. Each of Martha’s thoughtfully curated radio shows navigate the fringes of electronic music, with a clear narrative that is grounded in community and storytelling. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martha/episodes/martha-17th-july-2026",
-        "t": "biweekly",
-        "p": "martha"
-      },
       {
         "n": "PLATOS COMBINADOS W/ Ohjeelo",
         "s": "2026-07-17T19:00:00+01:00",
         "e": "2026-07-17T20:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Serving up monthly discoveries in clubland and beyond. ",
+        "j": "Ohjeelo",
+        "u": "https://www.nts.live/api/v2/shows/platos-combinados-w-joe-cotch/episodes/platos-combinados-w-joe-cotch-17th-july-2026",
+        "t": "monthly",
         "p": "ohjeelo"
       },
       {
         "n": "EASTERN MARGINS w/ howmanyollies",
         "s": "2026-07-17T20:00:00+01:00",
         "e": "2026-07-17T21:00:00+01:00",
-        "d": null,
+        "d": "Regular transmissions from the London crew showcasing music from the margins of East & South-East Asia and its diaspora.\nFrom the host: \"howmanyollies takes control w/ a hyperdrive mix memoralizing 10 ish years years of DJing around the world with the Space Yacht crew, 88rising, and beyond.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/eastern-margins/episodes/eastern-margins-17th-july-2026",
         "p": "easternmargins"
       },
       {
@@ -164,24 +155,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Highlife & Sunshine Show w/ Tryb",
+        "s": "2026-07-18T15:00:00+01:00",
+        "e": "2026-07-18T16:00:00+01:00",
+        "d": null,
+        "j": "Tryb",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "AS I WAS MOVING AHEAD (R)",
+        "s": "2026-07-18T16:00:00+01:00",
+        "e": "2026-07-18T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "RIP Magic",
-        "s": "2026-07-17T18:00:00+01:00",
-        "e": "2026-07-17T19:00:00+01:00",
-        "d": "Hyped London band RIP Magic share an hour of eclectic inspirations, including original new music and tracks by Kim Gordon, Yung Lean, Spacemen 3 and more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/rip-magic-17th-july-2026"
-      },
-      {
         "n": "Futuro Ancestral  w/ Antropoceno",
         "s": "2026-07-17T19:00:00+01:00",
         "e": "2026-07-17T20:00:00+01:00",
-        "d": null,
+        "d": "Antropoceno explores the main trends of Brazilian experimental music - each episode will dive into a different subgenre. This is an effort to catalogue Brazil\\s contemporary scene and contextualize it in the history of Brazilian avant-garde, paying homage to the records that paved the way to influence and build the sounds we see today.\nFrom the host: \"To celebrate the conclusion of a 6-episode series focused on exploring the different trends of Brazilian experimental music, today's mix will bring together a bit of everything showcased so far, focusing solely on works made by women.\"",
         "j": "Antropoceno",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/antropoceno/episodes/antropoceno-17th-july-2026",
         "t": "monthly",
         "p": "antropoceno"
       },
@@ -189,16 +190,16 @@
         "n": "ARCA PRESENTS AIRDOLL",
         "s": "2026-07-17T20:00:00+01:00",
         "e": "2026-07-17T20:43:00+01:00",
-        "d": null,
+        "d": "Arca presents a new project, airdoll, live on NTS.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/arca-presents-airdoll-17th-july-2026"
       },
       {
-        "n": "NTS GUIDE TO: WOMEN OF NEW AGE, PT. III (R)",
+        "n": "NTS GUIDE TO: WOMEN OF NEW AGE, PT. I (R)",
         "s": "2026-07-17T20:43:00+01:00",
         "e": "2026-07-17T22:00:00+01:00",
         "d": null,
-        "j": "WOMEN OF NEW AGE, PT. III",
+        "j": "WOMEN OF NEW AGE, PT. I",
         "u": null,
         "t": "restream"
       },
@@ -246,11 +247,19 @@
       {
         "n": "IN FOCUS: GRUPO NICHE (R)",
         "s": "2026-07-18T02:00:00+01:00",
-        "e": "2026-07-18T04:00:00+01:00",
+        "e": "2026-07-18T03:00:00+01:00",
         "d": null,
         "j": "GRUPO NICHE",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Bodywork w/ Kaili",
+        "s": "2026-07-18T03:00:00+01:00",
+        "e": "2026-07-18T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "dreamcastmoe w/ Cautious Clay",
@@ -324,18 +333,19 @@
         "u": null,
         "t": "restream",
         "p": "sanpodisco"
+      },
+      {
+        "n": "CHARLIE SATSUMAS",
+        "s": "2026-07-18T14:00:00+01:00",
+        "e": "2026-07-18T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "charliesatsumas"
       }
     ],
     "subtle": [
-      {
-        "n": "Forward Pressure w/ XOSÉ",
-        "s": "2026-07-17T17:00:00Z",
-        "e": "2026-07-17T18:00:00Z",
-        "d": "XOSÉ is a DJ and aspiring producer mixing and making mostly UK Garage, Grime and UK Funky. FORWARD PRESSURE largely focuses on the aforementioned UK born genres, though you can expect a variety of UK influenced sounds.",
-        "j": "XOSÉ",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Sempra",
         "s": "2026-07-17T18:00:00Z",
@@ -1578,6 +1588,15 @@
         "j": "Amy B",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Rendezvous w/ Free:lancer",
+        "s": "2026-07-24T18:00:00Z",
+        "e": "2026-07-24T19:00:00Z",
+        "d": "Originally linking up in Wellington and playing shows with the Breaking Beats crew, Swampman and Zero Crumbs have reunited – bringing their smooth mixing and flexible selections to East London. \r\n\r\nIn their monthly show, the pair explore the deep, dark, and soulful ends of DNB. Expect fresh underground tunes, deep cut classics, and a bit of banter in Kiwi accents.",
+        "j": "Free",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2173,19 +2192,6 @@
     ],
     "rinse": [
       {
-        "n": "DJ Polo",
-        "s": "2026-07-17T17:00:00Z",
-        "e": "2026-07-17T18:00:00Z",
-        "d": null,
-        "j": "Alya L",
-        "u": null,
-        "t": "biweekly",
-        "p": "alyal",
-        "ap": [
-          "djpolo"
-        ]
-      },
-      {
         "n": "Mall Grab",
         "s": "2026-07-17T18:00:00Z",
         "e": "2026-07-17T20:00:00Z",
@@ -2269,21 +2275,20 @@
         "p": "mrredley"
       },
       {
-        "n": "Hi-Fidelity",
+        "n": "Hi-Fidelity with New Forms",
         "s": "2026-07-18T11:00:00Z",
         "e": "2026-07-18T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "KT",
         "u": null
       },
       {
-        "n": "Counter Culture",
+        "n": "Counter Culture with Next Door Records",
         "s": "2026-07-18T13:00:00Z",
         "e": "2026-07-18T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Zaltsman & Alfie Aukett (Live Hardware)",
         "u": null,
-        "t": "monthly",
         "p": "counterculture"
       },
       {
@@ -2310,17 +2315,20 @@
         "s": "2026-07-18T17:00:00Z",
         "e": "2026-07-18T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B Braga Circuit",
         "u": null,
         "t": "biweekly",
-        "p": "oscarfarrell"
+        "p": "bragacircuit",
+        "ap": [
+          "oscarfarrell"
+        ]
       },
       {
         "n": "Cinthie",
         "s": "2026-07-18T18:00:00Z",
         "e": "2026-07-18T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Summer Hot Tunes",
         "u": null,
         "t": "monthly",
         "p": "cinthie"
@@ -2356,15 +2364,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Exa-Terra",
-        "s": "2026-07-17T17:00:00Z",
-        "e": "2026-07-17T18:00:00Z",
-        "d": null,
-        "j": "Subsism",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Useless Seconds",
         "s": "2026-07-17T18:00:00Z",
