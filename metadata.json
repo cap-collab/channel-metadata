@@ -1,42 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-07-17T18:53:54.404Z",
+  "updated": "2026-07-17T20:43:27.130Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PLATOS COMBINADOS W/ Ohjeelo",
-        "s": "2026-07-17T19:00:00+01:00",
-        "e": "2026-07-17T20:00:00+01:00",
-        "d": "Serving up monthly discoveries in clubland and beyond. ",
-        "j": "Ohjeelo",
-        "u": "https://www.nts.live/api/v2/shows/platos-combinados-w-joe-cotch/episodes/platos-combinados-w-joe-cotch-17th-july-2026",
-        "t": "monthly",
-        "p": "ohjeelo"
-      },
-      {
-        "n": "EASTERN MARGINS w/ howmanyollies",
-        "s": "2026-07-17T20:00:00+01:00",
-        "e": "2026-07-17T21:00:00+01:00",
-        "d": "Regular transmissions from the London crew showcasing music from the margins of East & South-East Asia and its diaspora.\nFrom the host: \"howmanyollies takes control w/ a hyperdrive mix memoralizing 10 ish years years of DJing around the world with the Space Yacht crew, 88rising, and beyond.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/eastern-margins/episodes/eastern-margins-17th-july-2026",
-        "p": "easternmargins"
-      },
       {
         "n": "BRAK.FM W/ BEYOND",
         "s": "2026-07-17T21:00:00+01:00",
         "e": "2026-07-17T23:00:00+01:00",
-        "d": null,
+        "d": "The enigmatic polymath, producer and MC brbko takes over the NTS airwaves each month. Brak don't crack. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/brbko/episodes/brbko-17th-july-2026"
       },
       {
         "n": "INTROSPEKT",
         "s": "2026-07-17T23:00:00+01:00",
         "e": "2026-07-18T00:00:00+01:00",
-        "d": null,
+        "d": "LA-based DJ and producer Introspekt delivers a monthly missive of UK garage, 2-step and more.\nFrom the host: \"This show focuses on a theme that I've been exploring a lot over the past year: Dubstep beyond halfstep orthodoxy. Dubstep for freaks <3\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/introspekt/episodes/introspekt-17th-july-2026",
         "t": "monthly",
         "p": "introspekt"
       },
@@ -173,43 +154,44 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "BAHAMIAN MOOR",
+        "s": "2026-07-18T17:00:00+01:00",
+        "e": "2026-07-18T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "bahamianmoor"
+      },
+      {
+        "n": "MUSIC 4 LOVERS",
+        "s": "2026-07-18T18:00:00+01:00",
+        "e": "2026-07-18T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Futuro Ancestral  w/ Antropoceno",
-        "s": "2026-07-17T19:00:00+01:00",
-        "e": "2026-07-17T20:00:00+01:00",
-        "d": "Antropoceno explores the main trends of Brazilian experimental music - each episode will dive into a different subgenre. This is an effort to catalogue Brazil\\s contemporary scene and contextualize it in the history of Brazilian avant-garde, paying homage to the records that paved the way to influence and build the sounds we see today.\nFrom the host: \"To celebrate the conclusion of a 6-episode series focused on exploring the different trends of Brazilian experimental music, today's mix will bring together a bit of everything showcased so far, focusing solely on works made by women.\"",
-        "j": "Antropoceno",
-        "u": "https://www.nts.live/api/v2/shows/antropoceno/episodes/antropoceno-17th-july-2026",
-        "t": "monthly",
-        "p": "antropoceno"
-      },
-      {
-        "n": "ARCA PRESENTS AIRDOLL",
-        "s": "2026-07-17T20:00:00+01:00",
-        "e": "2026-07-17T20:43:00+01:00",
-        "d": "Arca presents a new project, airdoll, live on NTS.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/arca-presents-airdoll-17th-july-2026"
-      },
-      {
         "n": "NTS GUIDE TO: WOMEN OF NEW AGE, PT. I (R)",
         "s": "2026-07-17T20:43:00+01:00",
         "e": "2026-07-17T22:00:00+01:00",
-        "d": null,
+        "d": "Two hours of ambient & new age sounds from the Women pioneers of the genre, featuring the inner space music of Pauline Anna Strom, the gong baths of Nesta Kerin Crain & more.",
         "j": "WOMEN OF NEW AGE, PT. I",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-6th-march-2022",
         "t": "restream"
       },
       {
         "n": "CONFUSING MIX W/ JOSH DA COSTA",
         "s": "2026-07-17T22:00:00+01:00",
         "e": "2026-07-17T23:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Lock in for a monthly transmission of leftfield sonics from Josh Da Costa live from LA.\nFrom the host: \"This episode is a companion piece to a list I just made for a magazine: the top 10 records I regret selling. This playlist expands upon that list and extends it to records I lost, gave away, let slip thru my fingers, and in one case, had stolen. Shit happens!!\"",
+        "j": "JOSH DA COSTA",
+        "u": "https://www.nts.live/api/v2/shows/confusing-mix/episodes/confusing-mix-17th-july-2026",
+        "t": "monthly",
         "p": "confusingmix"
       },
       {
@@ -343,29 +325,28 @@
         "u": null,
         "t": "monthly",
         "p": "charliesatsumas"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Sempra",
-        "s": "2026-07-17T18:00:00Z",
-        "e": "2026-07-17T19:00:00Z",
-        "d": "Sempra is a producer & DJ based in London, specialising in the fusion of UK Garage, Jungle and Breakbeat with dreamy vocal melodies and the beautiful instrumentation found in Soul and contemporary RnB. Sempra’s consistent output has been released by labels such as Future Classic and Headroom, gaining industry support from the likes of Nia Archives, Sherelle, Yung Singh and Dr Dubplate.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sempra"
       },
       {
-        "n": "Machine Woman",
-        "s": "2026-07-17T19:00:00Z",
-        "e": "2026-07-17T20:00:00Z",
+        "n": "TRAPDOOR W/ NEIL KRUG (R)",
+        "s": "2026-07-18T15:00:00+01:00",
+        "e": "2026-07-18T16:00:00+01:00",
+        "d": null,
+        "j": "NEIL KRUG",
+        "u": null,
+        "t": "restream",
+        "p": "neilkrug"
+      },
+      {
+        "n": "REIMAGINING COUNTRY W/ JAMAL KHADAR",
+        "s": "2026-07-18T16:00:00+01:00",
+        "e": "2026-07-18T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "machinewoman"
-      },
+        "p": "reimaginingcountry"
+      }
+    ],
+    "subtle": [
       {
         "n": "CICELY",
         "s": "2026-07-17T20:00:00Z",
@@ -1601,27 +1582,6 @@
     ],
     "dublab": [
       {
-        "n": "Daddy Differently and Dirty Dave - Things of Life",
-        "s": "2026-07-17T17:00:00Z",
-        "e": "2026-07-17T19:00:00Z",
-        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
-        "j": "Things of Life",
-        "u": null,
-        "t": "weekly",
-        "p": "daddydifferently",
-        "ap": [
-          "dirtydave"
-        ]
-      },
-      {
-        "n": "ARCA - AIRDOLL",
-        "s": "2026-07-17T19:00:00Z",
-        "e": "2026-07-17T19:30:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Hakim Tafari – Siddhartha Soundsystem",
         "s": "2026-07-17T19:30:00Z",
         "e": "2026-07-17T21:00:00Z",
@@ -2188,19 +2148,19 @@
         "ap": [
           "dirtydave"
         ]
+      },
+      {
+        "n": "Callie Ryan - Cuts 01",
+        "s": "2026-07-24T19:00:00Z",
+        "e": "2026-07-24T21:00:00Z",
+        "d": null,
+        "j": "Cuts 01",
+        "u": null,
+        "t": "biweekly",
+        "p": "callieryan"
       }
     ],
     "rinse": [
-      {
-        "n": "Mall Grab",
-        "s": "2026-07-17T18:00:00Z",
-        "e": "2026-07-17T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "mallgrab"
-      },
       {
         "n": "Lu.Re with Jolie P",
         "s": "2026-07-17T20:00:00Z",
@@ -2365,15 +2325,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Useless Seconds",
-        "s": "2026-07-17T18:00:00Z",
-        "e": "2026-07-17T19:00:00Z",
-        "d": null,
-        "j": "invite C. Coiffure",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-07-17T19:00:00Z",
         "e": "2026-07-18T07:00:00Z",
@@ -2477,15 +2428,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "TARZAN CITY",
-        "s": "2026-07-17T17:00:00Z",
-        "e": "2026-07-17T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "SLIGHT OF HAND",
         "s": "2026-07-17T19:00:00Z",
