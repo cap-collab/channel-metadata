@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-17T20:43:27.130Z",
+  "updated": "2026-07-17T22:39:53.472Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BRAK.FM W/ BEYOND",
-        "s": "2026-07-17T21:00:00+01:00",
-        "e": "2026-07-17T23:00:00+01:00",
-        "d": "The enigmatic polymath, producer and MC brbko takes over the NTS airwaves each month. Brak don't crack. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/brbko/episodes/brbko-17th-july-2026"
-      },
       {
         "n": "INTROSPEKT",
         "s": "2026-07-17T23:00:00+01:00",
@@ -25,9 +17,10 @@
         "n": "SPINEE w/ Holly Warcup",
         "s": "2026-07-18T00:00:00+01:00",
         "e": "2026-07-18T01:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Tune into this monthly offering from PC Music's Spinee: breakcore, bassline, hardstyle and dogs.\nFrom the host: \"Full hour takeover from icon and DJ Holly Warcup\"",
+        "j": "Holly Warcup",
+        "u": "https://www.nts.live/api/v2/shows/spinee/episodes/spinee-18th-july-2026",
+        "t": "monthly",
         "p": "spinee"
       },
       {
@@ -172,35 +165,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "ALTERED SOUL EXPERIMENT W/ AMILA (R)",
+        "s": "2026-07-18T19:00:00+01:00",
+        "e": "2026-07-18T20:00:00+01:00",
+        "d": null,
+        "j": "AMILA",
+        "u": null,
+        "t": "restream",
+        "p": "amila"
       }
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: WOMEN OF NEW AGE, PT. I (R)",
-        "s": "2026-07-17T20:43:00+01:00",
-        "e": "2026-07-17T22:00:00+01:00",
-        "d": "Two hours of ambient & new age sounds from the Women pioneers of the genre, featuring the inner space music of Pauline Anna Strom, the gong baths of Nesta Kerin Crain & more.",
-        "j": "WOMEN OF NEW AGE, PT. I",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-6th-march-2022",
-        "t": "restream"
-      },
-      {
-        "n": "CONFUSING MIX W/ JOSH DA COSTA",
-        "s": "2026-07-17T22:00:00+01:00",
-        "e": "2026-07-17T23:00:00+01:00",
-        "d": "Lock in for a monthly transmission of leftfield sonics from Josh Da Costa live from LA.\nFrom the host: \"This episode is a companion piece to a list I just made for a magazine: the top 10 records I regret selling. This playlist expands upon that list and extends it to records I lost, gave away, let slip thru my fingers, and in one case, had stolen. Shit happens!!\"",
-        "j": "JOSH DA COSTA",
-        "u": "https://www.nts.live/api/v2/shows/confusing-mix/episodes/confusing-mix-17th-july-2026",
-        "t": "monthly",
-        "p": "confusingmix"
-      },
-      {
         "n": "HEAVEN AND EARTH MAGIC W/ JOCELYN ROMO (R)",
         "s": "2026-07-17T23:00:00+01:00",
         "e": "2026-07-18T00:00:00+01:00",
-        "d": null,
+        "d": "Exploring inner and outer worlds, cosmic and pastoral sounds, and the intersection between reality and dreams once a month with Jocelyn Romo's mix of international and private press folk, instrumental guitar, dream country, ambient, new age, kosmiche, psych and beyond\nFrom the host: \"a valentine’s day special of 80s dream pop, soft rock, and dreamy new wave by women, for all lovers of falling in love.\"",
         "j": "JOCELYN ROMO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jocelyn-romo/episodes/jocelyn-romo-11th-february-2026",
         "t": "restream",
         "p": "jocelynromo"
       },
@@ -208,9 +192,9 @@
         "n": "Sacred Space w/ Radha (R)",
         "s": "2026-07-18T00:00:00+01:00",
         "e": "2026-07-18T01:00:00+01:00",
-        "d": null,
+        "d": "Enter Radha's spiritual soundscape - of special tunes near and dear to her.",
         "j": "Radha",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sacred-space/episodes/sacred-space-31st-january-2026",
         "t": "restream",
         "p": "radha",
         "ap": [
@@ -344,19 +328,27 @@
         "j": null,
         "u": null,
         "p": "reimaginingcountry"
+      },
+      {
+        "n": "TONSTARTSSBANDHT - BEST OF SINNER'S CROSSROADS 2 (R)",
+        "s": "2026-07-18T17:00:00+01:00",
+        "e": "2026-07-18T18:00:00+01:00",
+        "d": null,
+        "j": "BEST OF SINNER'S CROSSROADS 2",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "BEAU BEAUMONT",
+        "s": "2026-07-18T18:00:00+01:00",
+        "e": "2026-07-18T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "beaubeaumont"
       }
     ],
     "subtle": [
-      {
-        "n": "CICELY",
-        "s": "2026-07-17T20:00:00Z",
-        "e": "2026-07-17T22:00:00Z",
-        "d": "Cicely is a northern raised London based music photographer and DJ. From learning to mix during lockdown, she has since played at clubs across the country in venues such as Fabric, Corsica and Fold.\r\n\r\nCicely runs a collective and events night under the name NRG CRU which focus heavily on the high energy rave sound. She is highly influenced by the northern sound she grew up with, and you can hear this within her sets. Expect heavy blends of techno and hardcore while she shines the light on her favourite northern artists.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "cicely"
-      },
       {
         "n": "TMANTUS",
         "s": "2026-07-17T22:00:00Z",
@@ -1578,17 +1570,28 @@
         "j": "Free",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Those Who Dance",
+        "s": "2026-07-24T21:00:00Z",
+        "e": "2026-07-24T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "NARA",
+        "s": "2026-07-24T22:00:00Z",
+        "e": "2026-07-24T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nara"
       }
     ],
     "dublab": [
-      {
-        "n": "Hakim Tafari – Siddhartha Soundsystem",
-        "s": "2026-07-17T19:30:00Z",
-        "e": "2026-07-17T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Zama Dube - The Witch's Flight",
         "s": "2026-07-17T21:00:00Z",
@@ -2158,26 +2161,19 @@
         "u": null,
         "t": "biweekly",
         "p": "callieryan"
+      },
+      {
+        "n": "Peak Oil - Tipping Point",
+        "s": "2026-07-24T21:00:00Z",
+        "e": "2026-07-24T23:00:00Z",
+        "d": "Peak Oil records presents ‘tipping point’; a monthly journey through the record collections of brian and brion. Leaving no good genre unturned, enjoy two hours of esoterica, conversation and guests.",
+        "j": "Tipping Point",
+        "u": null,
+        "t": "monthly",
+        "p": "peakoil"
       }
     ],
     "rinse": [
-      {
-        "n": "Lu.Re with Jolie P",
-        "s": "2026-07-17T20:00:00Z",
-        "e": "2026-07-17T21:00:00Z",
-        "d": null,
-        "j": "Live from Fabric",
-        "u": null,
-        "p": "lure"
-      },
-      {
-        "n": "PXSSY PALACE",
-        "s": "2026-07-17T21:00:00Z",
-        "e": "2026-07-17T22:00:00Z",
-        "d": null,
-        "j": "Tristan Tyom",
-        "u": null
-      },
       {
         "n": "Clementaum",
         "s": "2026-07-17T22:00:00Z",
@@ -2326,15 +2322,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-17T19:00:00Z",
-        "e": "2026-07-18T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-18T07:00:00Z",
         "e": "2026-07-18T10:00:00Z",
         "d": null,
@@ -2378,7 +2365,8 @@
         "d": null,
         "j": "invite Jungli",
         "u": null,
-        "p": "2steppers"
+        "p": "2steppers",
+        "t": "monthly"
       },
       {
         "n": "Shampain",
@@ -2397,7 +2385,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "mensonges"
+        "p": "mensonges",
+        "t": "monthly"
       },
       {
         "n": "Tijolo Records",
@@ -2428,15 +2417,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "SLIGHT OF HAND",
-        "s": "2026-07-17T19:00:00Z",
-        "e": "2026-07-17T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "EETHR PRESENTS",
         "s": "2026-07-17T21:00:00Z",
