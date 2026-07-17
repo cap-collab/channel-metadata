@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-17T07:53:42.289Z",
+  "updated": "2026-07-17T09:48:14.587Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
-        "s": "2026-07-17T07:00:00+01:00",
-        "e": "2026-07-17T09:00:00+01:00",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": "JACK ROLLO",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-17th-july-2026",
-        "t": "biweekly"
-      },
       {
         "n": "The NTS Breakfast Show w/ PAM",
         "s": "2026-07-17T09:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "SOUP TO NUTS W/ SCARY THINGS & LUCKI",
         "s": "2026-07-17T11:00:00+01:00",
         "e": "2026-07-17T13:00:00+01:00",
-        "d": null,
+        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-17th-july-2026",
         "p": "scarythings"
       },
       {
@@ -170,35 +161,26 @@
         "u": null,
         "t": "restream",
         "p": "leegamble"
+      },
+      {
+        "n": "POST-GEOGRAPHY (R)",
+        "s": "2026-07-18T05:00:00+01:00",
+        "e": "2026-07-18T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "postgeography"
       }
     ],
     "nts2": [
       {
-        "n": "626 COMPANY RADIO (R)",
-        "s": "2026-07-17T08:00:00+01:00",
-        "e": "2026-07-17T09:00:00+01:00",
-        "d": "Shanghai, China collective 626 Company, headed up by Jackzebra deliver monthly broadcasts from the collective and their friends. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/jackzebra/episodes/jackzebra-9th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "LYRA PRAMUK PRESENTS: POP.SOIL (R)",
-        "s": "2026-07-17T09:00:00+01:00",
-        "e": "2026-07-17T10:00:00+01:00",
-        "d": "pop.soil is Lyra Pramuk’s bimonthly series exploring catharsis, transformation, and healing through sonic storytelling.\nFrom the host \"A one-hour mix of unreleased Lyra Pramuk material, these intimate sketches of devotional electronic vocals are rooted in techno, trance, dub, and gospel.\"",
-        "j": "POP.SOIL",
-        "u": "https://www.nts.live/api/v2/shows/lyra-pramuk/episodes/lyra-pramuk-21st-october-2025",
-        "t": "restream",
-        "p": "lyrapramuk"
-      },
-      {
         "n": "Claire Rousay (R)",
         "s": "2026-07-17T10:00:00+01:00",
         "e": "2026-07-17T11:00:00+01:00",
-        "d": null,
+        "d": "Los Angeles producer & sound artist claire rousay journeys through healing plaintive electronics, quotidian field recordings & minimalist compositions.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/claire-rousay/episodes/claire-rousay-9th-february-2026",
         "t": "restream",
         "p": "clairerousay"
       },
@@ -206,9 +188,9 @@
         "n": "In Focus: Lali Puna",
         "s": "2026-07-17T11:00:00+01:00",
         "e": "2026-07-17T12:00:00+01:00",
-        "d": null,
+        "d": "An hour of effervescent and inventive synth pop from Lali Puna. Their name, meaning \"Valerie From Busan\", is a nod to the band's creative centre and lead singer, Korean-born Valerie Trebeljahr. Over the years the band has explored the palette of minimalist electronic pop music, referencing new wave, hip hop, indie rock, and the post-Krautrock electronics of the Berlin-School, all anchored by Trebeljahr's delicate presence on vocals.\nSelected and mixed by Mishka",
         "j": "Lali Puna",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-lali-puna-17th-july-2026",
         "t": "weekly"
       },
       {
@@ -231,14 +213,22 @@
         "p": "ferventmoon"
       },
       {
-        "n": "RUSIA-IDK",
+        "n": "PIPE DOWN - TIME FOR PEACE (R)",
         "s": "2026-07-17T14:00:00+01:00",
-        "e": "2026-07-17T15:00:00+01:00",
+        "e": "2026-07-17T14:56:00+01:00",
         "d": null,
-        "j": null,
+        "j": "TIME FOR PEACE",
         "u": null,
-        "t": "monthly",
-        "p": "rusiaidk"
+        "t": "restream"
+      },
+      {
+        "n": "DARK ENTRIES: PATRICK COWLEY SPECIAL (R)",
+        "s": "2026-07-17T14:56:00+01:00",
+        "e": "2026-07-17T17:00:00+01:00",
+        "d": null,
+        "j": "PATRICK COWLEY SPECIAL",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "ANDY BUTLER",
@@ -343,18 +333,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-07-17T03:00:00Z",
-        "e": "2026-07-17T09:00:00Z",
+        "n": "EDDIE FICTION (R)",
+        "s": "2026-07-18T05:00:00+01:00",
+        "e": "2026-07-18T06:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Ozzy",
         "s": "2026-07-17T09:00:00Z",
@@ -1567,13 +1557,31 @@
         "u": null,
         "t": "monthly",
         "p": "linglinh"
+      },
+      {
+        "n": "B-HIND",
+        "s": "2026-07-24T08:00:00Z",
+        "e": "2026-07-24T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "op99 / late dawn ",
+        "s": "2026-07-24T09:00:00Z",
+        "e": "2026-07-24T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-17T07:00:00Z",
-        "e": "2026-07-17T09:00:00Z",
+        "s": "2026-07-17T09:00:00Z",
+        "e": "2026-07-17T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1581,8 +1589,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-17T09:00:00Z",
-        "e": "2026-07-17T11:00:00Z",
+        "s": "2026-07-17T11:00:00Z",
+        "e": "2026-07-17T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2175,15 +2183,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-17T06:00:00Z",
-        "e": "2026-07-17T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Breakfast with Joe Innes",
         "s": "2026-07-17T09:00:00Z",
         "e": "2026-07-17T10:00:00Z",
@@ -2473,7 +2472,7 @@
         "s": "2026-07-17T16:00:00Z",
         "e": "2026-07-17T17:00:00Z",
         "d": null,
-        "j": "DJ Bassan & PL",
+        "j": "invite Cherolainne",
         "u": null,
         "t": "monthly",
         "p": "baleavecmaa"
@@ -2483,7 +2482,7 @@
         "s": "2026-07-17T17:00:00Z",
         "e": "2026-07-17T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Subsism",
         "u": null,
         "t": "monthly"
       },
@@ -2576,7 +2575,7 @@
         "s": "2026-07-18T17:00:00Z",
         "e": "2026-07-18T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "CRAZED (BR)",
         "u": null,
         "t": "monthly",
         "p": "tijolorecords"
