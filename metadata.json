@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-18T20:37:40.082Z",
+  "updated": "2026-07-18T22:39:43.587Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FIELD WORK",
-        "s": "2026-07-18T20:00:00+01:00",
-        "e": "2026-07-18T22:00:00+01:00",
-        "d": "Experimental and intercepted transmissions every month with Field Work friends and family. Accompanied by GIFs at http://fieldworklondon.tumblr.com.\nFrom the host: \"Sandwiched between UK heatwaves, this show is for England's scorched fields.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fieldwork/episodes/fieldwork-18th-july-2026",
-        "t": "monthly"
-      },
       {
         "n": "MUSIC TO EASE YOUR DISEASE w/ Alex Cobb Serge Modular Mix",
         "s": "2026-07-18T22:00:00+01:00",
@@ -24,9 +15,10 @@
         "n": "NITETRAX - Warehouse Rave 1991-92",
         "s": "2026-07-19T00:00:00+01:00",
         "e": "2026-07-19T01:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Nitetrax presents a monthly exploration of classic and contemporary club and experimental music.\nFrom the host: \"The dancefloors of 1991 were still a melting pot of genres with UK Techno and Belgian Rave increasingly dominant. However, things were evolving pretty fast and by 1992 all those rave genres were eclipsed by the energy and euphoria of Breakbeat Hardcore. More info on my Instagram.\"",
+        "j": "Warehouse Rave 1991-92",
+        "u": "https://www.nts.live/api/v2/shows/nitetrax/episodes/nitetrax-19th-july-2026",
+        "t": "monthly",
         "p": "nitetrax"
       },
       {
@@ -172,19 +164,19 @@
         "u": null,
         "t": "restream",
         "p": "m00dtapes"
+      },
+      {
+        "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE",
+        "s": "2026-07-19T19:00:00+01:00",
+        "e": "2026-07-19T20:00:00+01:00",
+        "d": null,
+        "j": "TEMI KOGBE",
+        "u": null,
+        "t": "monthly",
+        "p": "temikogbe"
       }
     ],
     "nts2": [
-      {
-        "n": "RIO DOCE (R)",
-        "s": "2026-07-18T20:00:00+01:00",
-        "e": "2026-07-18T22:00:00+01:00",
-        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-10th-september-2025",
-        "t": "restream",
-        "p": "riodoce"
-      },
       {
         "n": "IN FOCUS: MOODYMANN (R)",
         "s": "2026-07-18T22:00:00+01:00",
@@ -198,9 +190,9 @@
         "n": "NYA (R)",
         "s": "2026-07-19T00:00:00+01:00",
         "e": "2026-07-19T01:00:00+01:00",
-        "d": null,
+        "d": "Memphis selector and radio host Nya presents an hour of rare soul, boogie, gospel, and funk records once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nya/episodes/nya-21st-april-2026",
         "t": "restream",
         "p": "nya"
       },
@@ -350,28 +342,19 @@
         "j": "YAWNING PORTAL",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Eklekt1k",
-        "s": "2026-07-18T20:00:00Z",
-        "e": "2026-07-18T21:00:00Z",
+        "n": "LYRA PRAMUK (R)",
+        "s": "2026-07-19T20:00:00+01:00",
+        "e": "2026-07-19T22:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "eklekt1k"
-      },
-      {
-        "n": "The Wheel Up Show w/ Tripta",
-        "s": "2026-07-18T21:00:00Z",
-        "e": "2026-07-18T22:00:00Z",
-        "d": null,
-        "j": "Tripta",
-        "u": null,
-        "t": "monthly"
-      },
+        "t": "restream",
+        "p": "lyrapramuk"
+      }
+    ],
+    "subtle": [
       {
         "n": "Deep Diving w/ DJ Nøthing",
         "s": "2026-07-18T22:00:00Z",
@@ -1590,19 +1573,18 @@
         "u": null,
         "t": "monthly",
         "p": "biscuitboy"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Elyn Kazarian – Her Vision Her Voice",
-        "s": "2026-07-18T19:00:00Z",
-        "e": "2026-07-18T21:00:00Z",
+        "n": "Undercurrent / .CO.UK",
+        "s": "2026-07-25T21:00:00Z",
+        "e": "2026-07-25T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "elynkazarian"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Beats of All-Nations",
         "s": "2026-07-18T21:00:00Z",
@@ -2170,28 +2152,19 @@
         "j": "Sound Study",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Derelict - Damage Control",
+        "s": "2026-07-25T21:00:00Z",
+        "e": "2026-07-25T23:00:00Z",
+        "d": null,
+        "j": "Damage Control",
+        "u": null,
+        "t": "monthly",
+        "p": "derelict"
       }
     ],
     "rinse": [
-      {
-        "n": "unknown - untitled",
-        "s": "2026-07-18T20:00:00Z",
-        "e": "2026-07-18T21:00:00Z",
-        "d": null,
-        "j": "untitled",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Roman Flügel",
-        "s": "2026-07-18T21:00:00Z",
-        "e": "2026-07-18T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "romanflgel"
-      },
       {
         "n": "MoMA Ready",
         "s": "2026-07-18T22:00:00Z",
@@ -2385,7 +2358,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
         "n": "Bé.",
@@ -2440,15 +2413,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "SQUINTZ & RACOONS MORNING ZOO IN THE AFTERNOON",
-        "s": "2026-07-18T20:00:00Z",
-        "e": "2026-07-18T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "TURN UP THE STROBE",
         "s": "2026-07-18T22:00:00Z",
@@ -2668,16 +2632,6 @@
       }
     ],
     "sutro": [
-      {
-        "n": "The Saturday Morning Comedown",
-        "s": "2026-07-18T18:00:00Z",
-        "e": "2026-07-18T22:00:00Z",
-        "d": null,
-        "j": "Infinite Jess",
-        "u": null,
-        "t": "monthly",
-        "p": "infinitejess"
-      },
       {
         "n": "Strap2strap Online",
         "s": "2026-07-18T22:00:00Z",
