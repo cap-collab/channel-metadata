@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-18T18:49:06.898Z",
+  "updated": "2026-07-18T20:37:40.082Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ALTERED SOUL EXPERIMENT W/ AMILA (R)",
-        "s": "2026-07-18T19:00:00+01:00",
-        "e": "2026-07-18T20:00:00+01:00",
-        "d": "Amila, the founder of Altered Soul Experiment brings monthly transmissions of soul, boogie, disco and his Search For Peace series, covering soothing and cerebral ambient jazz and fourth world selections.",
-        "j": "AMILA",
-        "u": "https://www.nts.live/api/v2/shows/amila/episodes/altered-soul-experiment-w-amila-5th-march-2020",
-        "t": "restream",
-        "p": "amila"
-      },
       {
         "n": "FIELD WORK",
         "s": "2026-07-18T20:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "MUSIC TO EASE YOUR DISEASE w/ Alex Cobb Serge Modular Mix",
         "s": "2026-07-18T22:00:00+01:00",
         "e": "2026-07-19T00:00:00+01:00",
-        "d": null,
+        "d": "Music to dent the canister\nFrom the host: \"First hour featuring special Serge Modular Guest Mix from Students of Decay and Soda Gong label boss, Alex Cobb.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/musictoeaseyourdisease/episodes/musictoeaseyourdisease-18th-july-2026"
       },
       {
         "n": "NITETRAX - Warehouse Rave 1991-92",
@@ -172,18 +162,19 @@
         "u": null,
         "t": "biweekly",
         "p": "billspencer"
+      },
+      {
+        "n": "M00DTAPES (R)",
+        "s": "2026-07-19T18:00:00+01:00",
+        "e": "2026-07-19T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "m00dtapes"
       }
     ],
     "nts2": [
-      {
-        "n": "RICH & JOHNNY'S INZANE MICHIGAN - 1980S DETROIT TECHNO (R)",
-        "s": "2026-07-18T19:00:00+01:00",
-        "e": "2026-07-18T20:00:00+01:00",
-        "d": "Welcome to 1980s Detroit, where techno was invented. Stick around for an hour of pioneering Motor City classics. Sample tracks from Jaun Atkins’ Metroplex Records and beyond. ",
-        "j": "1980S DETROIT TECHNO",
-        "u": "https://www.nts.live/api/v2/shows/inzane-michigan/episodes/inzane-michigan-25th-july-2024",
-        "t": "restream"
-      },
       {
         "n": "RIO DOCE (R)",
         "s": "2026-07-18T20:00:00+01:00",
@@ -198,9 +189,9 @@
         "n": "IN FOCUS: MOODYMANN (R)",
         "s": "2026-07-18T22:00:00+01:00",
         "e": "2026-07-19T00:00:00+01:00",
-        "d": null,
+        "d": "For someone who wasn't born there, Kenny Dixon Jr. aka Moodymann might be the most Detroit guy to ever exist.  Moving to the motor city from LA at only three weeks old, he has never \"truly\" left since. His music channels the musical legacy of Black Detroit – transplanted Delta blues, gospel, Motown and Fortune, Stevie Wonder, the Electrifying Mojo and the Belleville Three – with an unassailable verve. His dust-spackled opus \"Silentintroduction\" has hummed continously in the background of house music since its release in 1997, inspiring generations of producers. \nTwo hours of Kenny Dixon Jr. aka Moodymann, selected and mixed by LDLDN. \nPhoto: Donavan Glover",
         "j": "MOODYMANN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-moodymann-5th-july-2024",
         "t": "restream"
       },
       {
@@ -342,6 +333,16 @@
         "p": "channeling"
       },
       {
+        "n": "CROSSED WIRES W/ AMANDA SIEGEL - YUGOSLAVIA AFTER TITO PART 1 (R)",
+        "s": "2026-07-19T17:00:00+01:00",
+        "e": "2026-07-19T19:00:00+01:00",
+        "d": null,
+        "j": "AMANDA SIEGEL",
+        "u": null,
+        "t": "restream",
+        "p": "amandasiegel"
+      },
+      {
         "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL (R)",
         "s": "2026-07-19T19:00:00+01:00",
         "e": "2026-07-19T20:00:00+01:00",
@@ -352,24 +353,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Highlander",
-        "s": "2026-07-18T17:00:00Z",
-        "e": "2026-07-18T19:00:00Z",
-        "d": "Highlander brings you 2 hours of the freshest Jungle, Hardcore, Dubstep and Breaks. 3rd Saturday 7-9pm lock in!",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DNS",
-        "s": "2026-07-18T19:00:00Z",
-        "e": "2026-07-18T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Eklekt1k",
         "s": "2026-07-18T20:00:00Z",
@@ -1587,17 +1570,29 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Danny Scrilla",
+        "s": "2026-07-25T19:00:00Z",
+        "e": "2026-07-25T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "dannyscrilla"
+      },
+      {
+        "n": "Biscuit Boy",
+        "s": "2026-07-25T20:00:00Z",
+        "e": "2026-07-25T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "biscuitboy"
       }
     ],
     "dublab": [
-      {
-        "n": "Devin Sarno – guest session",
-        "s": "2026-07-18T17:00:00Z",
-        "e": "2026-07-18T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Elyn Kazarian – Her Vision Her Voice",
         "s": "2026-07-18T19:00:00Z",
@@ -2166,19 +2161,18 @@
         "u": null,
         "t": "biweekly",
         "p": "gregbelson"
+      },
+      {
+        "n": "Xandao - Sound Study",
+        "s": "2026-07-25T19:00:00Z",
+        "e": "2026-07-25T21:00:00Z",
+        "d": null,
+        "j": "Sound Study",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Cinthie",
-        "s": "2026-07-18T18:00:00Z",
-        "e": "2026-07-18T20:00:00Z",
-        "d": null,
-        "j": "Summer Hot Tunes",
-        "u": null,
-        "t": "monthly",
-        "p": "cinthie"
-      },
       {
         "n": "unknown - untitled",
         "s": "2026-07-18T20:00:00Z",
@@ -2358,14 +2352,6 @@
     ],
     "rinsefr": [
       {
-        "n": "weoutside presents LENNYY & LOWEN",
-        "s": "2026-07-18T18:00:00Z",
-        "e": "2026-07-18T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Playlist France",
         "s": "2026-07-18T19:00:00Z",
         "e": "2026-07-19T07:00:00Z",
@@ -2454,15 +2440,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "BOSSASAURUS TIME",
-        "s": "2026-07-18T18:00:00Z",
-        "e": "2026-07-18T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "SQUINTZ & RACOONS MORNING ZOO IN THE AFTERNOON",
         "s": "2026-07-18T20:00:00Z",
