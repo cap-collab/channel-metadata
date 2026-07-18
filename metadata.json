@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-18T10:55:50.322Z",
+  "updated": "2026-07-18T12:54:01.737Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA  - GLOVE-ICATIONS SPECIAL",
-        "s": "2026-07-18T10:00:00+01:00",
-        "e": "2026-07-18T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": "MACCA",
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-18th-july-2026",
-        "t": "biweekly",
-        "p": "macca"
-      },
       {
         "n": "DARE BALOGUN",
         "s": "2026-07-18T12:00:00+01:00",
@@ -27,9 +17,10 @@
         "n": "GILDED SOUND REFLECTION - BEACH SLEEPING VOL. 2",
         "s": "2026-07-18T14:00:00+01:00",
         "e": "2026-07-18T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Gilded Sound Reflection is the musical collective of Tai Thittichai and David Lane. They magnify the bleed between genre lines, blurring the boundaries of krautrock, jazz, psych, soul, pop and more – a monthly show, settle in for a meandering couple hours early in the afternoon.\nFrom the host: \"A second instalment of Beach Sleeping, which taps into an innate human desire for nature and beauty. A mixture of ambient compositions and exotic sounds to snooze to as soft waves lap the foreshore.\"",
+        "j": "BEACH SLEEPING VOL. 2",
+        "u": "https://www.nts.live/api/v2/shows/gsr/episodes/gsr-18th-july-2026",
+        "t": "monthly"
       },
       {
         "n": "Highlife & Sunshine Show w/ Tryb",
@@ -166,26 +157,25 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "TIME IS AWAY",
+        "s": "2026-07-19T09:00:00+01:00",
+        "e": "2026-07-19T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "FELISHA ledesma w/ Portraiture",
-        "s": "2026-07-18T11:00:00+01:00",
-        "e": "2026-07-18T12:00:00+01:00",
-        "d": "A monthly collection of blurred collage, aural experiments, and tonal in-betweens with sound artist and musician Felisha Ledesma.",
-        "j": "Portraiture",
-        "u": "https://www.nts.live/api/v2/shows/felisha-ledesma/episodes/felisha-ledesma-18th-july-2026",
-        "t": "monthly",
-        "p": "felishaledesma"
-      },
-      {
         "n": "SANPO DISCO (R)",
         "s": "2026-07-18T12:00:00+01:00",
         "e": "2026-07-18T14:00:00+01:00",
-        "d": "Special guest shows from around the world.",
+        "d": "A monthly 120 minute slot from the brains behind the Sanpo Disco mix series and Melbourne parties. All the way from up-beat disco escapism through to J-Pop or rose-tinted balearic smooth rock. ",
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests",
+        "u": "https://www.nts.live/api/v2/shows/sanpo-disco/episodes/sanpo-disco-22nd-august-2018",
         "t": "restream",
         "p": "sanpodisco"
       },
@@ -193,9 +183,9 @@
         "n": "CHARLIE SATSUMAS",
         "s": "2026-07-18T14:00:00+01:00",
         "e": "2026-07-18T15:00:00+01:00",
-        "d": null,
+        "d": "Sheffield DJ and NTS regular Charlie Satsumas gets his own slot - an hour of easy peelers every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/charlie-satsumas/episodes/charlie-satsumas-18th-july-2026",
         "t": "monthly",
         "p": "charliesatsumas"
       },
@@ -342,27 +332,18 @@
         "u": null,
         "t": "restream",
         "p": "ganavya"
+      },
+      {
+        "n": "ALOHA GOT SOUL: HOME GROWN W/ ROGER BONG (R)",
+        "s": "2026-07-19T09:00:00+01:00",
+        "e": "2026-07-19T10:00:00+01:00",
+        "d": null,
+        "j": "ROGER BONG",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Luc presents: Cable",
-        "s": "2026-07-18T10:00:00Z",
-        "e": "2026-07-18T11:00:00Z",
-        "d": null,
-        "j": "Cable",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Dean Lyon",
-        "s": "2026-07-18T11:00:00Z",
-        "e": "2026-07-18T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Live & Direct w/ Hannah",
         "s": "2026-07-18T12:00:00Z",
@@ -1602,13 +1583,22 @@
         "u": null,
         "t": "biweekly",
         "p": "afroasis"
+      },
+      {
+        "n": "Solid Moves w/ Sophia & Ronaldo",
+        "s": "2026-07-25T11:00:00Z",
+        "e": "2026-07-25T12:00:00Z",
+        "d": null,
+        "j": "Sophia & Ronaldo",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-18T09:00:00Z",
-        "e": "2026-07-18T11:00:00Z",
+        "s": "2026-07-18T11:00:00Z",
+        "e": "2026-07-18T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1616,8 +1606,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-18T11:00:00Z",
-        "e": "2026-07-18T15:00:00Z",
+        "s": "2026-07-18T15:00:00Z",
+        "e": "2026-07-18T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2179,19 +2169,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Breakfast with Mr. Redley",
-        "s": "2026-07-18T09:00:00Z",
-        "e": "2026-07-18T11:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-07-25T11:00:00Z",
+        "e": "2026-07-25T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "mrredley"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "Hi-Fidelity with New Forms",
         "s": "2026-07-18T11:00:00Z",
@@ -2430,15 +2419,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-07-18T10:00:00Z",
-        "e": "2026-07-18T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Yaël Ohayon",
         "s": "2026-07-18T12:00:00Z",
         "e": "2026-07-18T13:00:00Z",
@@ -2595,15 +2575,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-07-18T04:00:00Z",
-        "e": "2026-07-18T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "DON BOY 718 SPORTS",
         "s": "2026-07-18T12:00:00Z",
