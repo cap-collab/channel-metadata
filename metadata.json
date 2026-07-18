@@ -1,43 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-18T12:54:01.737Z",
+  "updated": "2026-07-18T14:43:56.588Z",
   "stations": {
     "nts1": [
-      {
-        "n": "DARE BALOGUN",
-        "s": "2026-07-18T12:00:00+01:00",
-        "e": "2026-07-18T14:00:00+01:00",
-        "d": "British-Nigerian DJ Dare Balogun traces the journey of African rhythm across time and space, exploring how traditional genres like highlife, juju, soukous and makossa laid the foundation for modern dance music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dare-balogun/episodes/dare-balogun-18th-july-2026",
-        "t": "monthly",
-        "p": "darebalogun"
-      },
-      {
-        "n": "GILDED SOUND REFLECTION - BEACH SLEEPING VOL. 2",
-        "s": "2026-07-18T14:00:00+01:00",
-        "e": "2026-07-18T15:00:00+01:00",
-        "d": "Gilded Sound Reflection is the musical collective of Tai Thittichai and David Lane. They magnify the bleed between genre lines, blurring the boundaries of krautrock, jazz, psych, soul, pop and more – a monthly show, settle in for a meandering couple hours early in the afternoon.\nFrom the host: \"A second instalment of Beach Sleeping, which taps into an innate human desire for nature and beauty. A mixture of ambient compositions and exotic sounds to snooze to as soft waves lap the foreshore.\"",
-        "j": "BEACH SLEEPING VOL. 2",
-        "u": "https://www.nts.live/api/v2/shows/gsr/episodes/gsr-18th-july-2026",
-        "t": "monthly"
-      },
       {
         "n": "Highlife & Sunshine Show w/ Tryb",
         "s": "2026-07-18T15:00:00+01:00",
         "e": "2026-07-18T16:00:00+01:00",
-        "d": null,
+        "d": "Music of the sun, a.k.a the tracks your dad used to play on a Saturday afternoon… \nJoin TrYb as she explores West African pop, high life, soukous and more.",
         "j": "Tryb",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/highlife-sunshine/episodes/highlife-sunshine-18th-july-2026",
         "t": "monthly"
       },
       {
         "n": "AS I WAS MOVING AHEAD (R)",
         "s": "2026-07-18T16:00:00+01:00",
         "e": "2026-07-18T17:00:00+01:00",
-        "d": null,
+        "d": "Tania Feghali is an independent filmmaker, her work focuses on music, the poetry of journeying and documentary.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tania-feghali/episodes/tania-feghali-7th-dec-2020",
         "t": "restream"
       },
       {
@@ -166,36 +147,34 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Radiant Life w/ Ruby Savage",
+        "s": "2026-07-19T10:00:00+01:00",
+        "e": "2026-07-19T12:00:00+01:00",
+        "d": null,
+        "j": "Ruby Savage",
+        "u": null,
+        "t": "monthly",
+        "p": "rubysavage"
+      },
+      {
+        "n": "HOUSE CALL w/ Federico Tixi",
+        "s": "2026-07-19T12:00:00+01:00",
+        "e": "2026-07-19T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "SANPO DISCO (R)",
-        "s": "2026-07-18T12:00:00+01:00",
-        "e": "2026-07-18T14:00:00+01:00",
-        "d": "A monthly 120 minute slot from the brains behind the Sanpo Disco mix series and Melbourne parties. All the way from up-beat disco escapism through to J-Pop or rose-tinted balearic smooth rock. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sanpo-disco/episodes/sanpo-disco-22nd-august-2018",
-        "t": "restream",
-        "p": "sanpodisco"
-      },
-      {
-        "n": "CHARLIE SATSUMAS",
-        "s": "2026-07-18T14:00:00+01:00",
-        "e": "2026-07-18T15:00:00+01:00",
-        "d": "Sheffield DJ and NTS regular Charlie Satsumas gets his own slot - an hour of easy peelers every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/charlie-satsumas/episodes/charlie-satsumas-18th-july-2026",
-        "t": "monthly",
-        "p": "charliesatsumas"
-      },
-      {
         "n": "TRAPDOOR W/ NEIL KRUG (R)",
         "s": "2026-07-18T15:00:00+01:00",
         "e": "2026-07-18T16:00:00+01:00",
-        "d": null,
+        "d": "Neil Krug is an American visual artist, director, and photographer based in Los Angeles. Tune in for a sonic lysergic tale of love, heartbreak, and redemption.",
         "j": "NEIL KRUG",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/neil-krug/episodes/neil-krug-12th-april-2025",
         "t": "restream",
         "p": "neilkrug"
       },
@@ -203,9 +182,9 @@
         "n": "REIMAGINING COUNTRY W/ JAMAL KHADAR",
         "s": "2026-07-18T16:00:00+01:00",
         "e": "2026-07-18T17:00:00+01:00",
-        "d": null,
+        "d": "Culture journalist Jamal Khadar takes a trip through country music’s hidden roots and surprising global connections—in search of a more personal, nuanced view of what it means to be a country fan. From African-Country crossovers to Jamaica’s country connection, and the continuous role of Southern Soul in remaking country.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/reimagining-country/episodes/reimagining-country-18th-july-2026",
         "p": "reimaginingcountry"
       },
       {
@@ -341,29 +320,27 @@
         "j": "ROGER BONG",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE WINDMILLS OF YOUR MIND W/ TAYLOR ROWLEY (R)",
+        "s": "2026-07-19T10:00:00+01:00",
+        "e": "2026-07-19T11:00:00+01:00",
+        "d": null,
+        "j": "TAYLOR ROWLEY",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "PEIO - BASQUE MUSIC SPECIAL (R)",
+        "s": "2026-07-19T11:00:00+01:00",
+        "e": "2026-07-19T12:00:00+01:00",
+        "d": null,
+        "j": "BASQUE MUSIC SPECIAL",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Live & Direct w/ Hannah",
-        "s": "2026-07-18T12:00:00Z",
-        "e": "2026-07-18T13:00:00Z",
-        "d": "Live & Direct is the show that promises to make you dance and make you laugh, with your fave tunes that make you go 'Rahhh ain't hear this in time' and all the cheesy jokes from me, Hannah :) Lock in for the sickest guests and the most relatable stories about daily slips and hilarious situations I find myself in.",
-        "j": "Hannah",
-        "u": null,
-        "t": "biweekly",
-        "p": "hannah"
-      },
-      {
-        "n": "DaiSu",
-        "s": "2026-07-18T13:00:00Z",
-        "e": "2026-07-18T14:00:00Z",
-        "d": "Bristol-born and London-based, Not Bad For A Girl resident DaiSu has been involved in the music scene since 2018 and has featured on stations such as Radio 1 Dance, BBC 6 Music and Melodic Distraction, as well as playing on line ups for Keep Hush, Skiddle and Red Bull. Her penchant for bass, breaks and 2-step has landed her gigs supporting acts such as Interplanetary Criminal, Main Phase, Craigie Knowes and Big Ang. In September 2022, her debut EP ‘Lightwork’ was released with Gather Records and was featured in DJ Mag's staff picks that same month. ",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "daisu"
-      },
       {
         "n": "Admund",
         "s": "2026-07-18T14:00:00Z",
@@ -1592,6 +1569,24 @@
         "j": "Sophia & Ronaldo",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Collectors' Cuts",
+        "s": "2026-07-25T13:00:00Z",
+        "e": "2026-07-25T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "SPD",
+        "s": "2026-07-25T14:00:00Z",
+        "e": "2026-07-25T15:00:00Z",
+        "d": "Midlands born, London based producer and DJ influenced by UK funky, broken techno, garage and early dubstep. \r\n\r\nHas released on Keysound recordings, RKS, eatmybeat, ec2a, Durkle Disco and Dimsum records",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2182,14 +2177,6 @@
     ],
     "rinse": [
       {
-        "n": "Hi-Fidelity with New Forms",
-        "s": "2026-07-18T11:00:00Z",
-        "e": "2026-07-18T13:00:00Z",
-        "d": null,
-        "j": "KT",
-        "u": null
-      },
-      {
         "n": "Counter Culture with Next Door Records",
         "s": "2026-07-18T13:00:00Z",
         "e": "2026-07-18T15:00:00Z",
@@ -2419,26 +2406,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Yaël Ohayon",
-        "s": "2026-07-18T12:00:00Z",
-        "e": "2026-07-18T13:00:00Z",
-        "d": null,
-        "j": "invite Chaia",
-        "u": null,
-        "t": "monthly",
-        "p": "yalohayon"
-      },
-      {
-        "n": "Human Disease Network",
-        "s": "2026-07-18T13:00:00Z",
-        "e": "2026-07-18T14:00:00Z",
-        "d": null,
-        "j": "présente Yann Polewka",
-        "u": null,
-        "t": "monthly",
-        "p": "humandiseasenetwork"
-      },
-      {
         "n": "2-Steppers",
         "s": "2026-07-18T14:00:00Z",
         "e": "2026-07-18T15:00:00Z",
@@ -2575,15 +2542,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "DON BOY 718 SPORTS",
-        "s": "2026-07-18T12:00:00Z",
-        "e": "2026-07-18T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "SATURDAYS WITH MR. L",
         "s": "2026-07-18T14:00:00Z",
