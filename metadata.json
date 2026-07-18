@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-07-18T09:15:51.327Z",
+  "updated": "2026-07-18T10:55:50.322Z",
   "stations": {
     "nts1": [
       {
@@ -170,16 +170,6 @@
     ],
     "nts2": [
       {
-        "n": "Leila Samir (R)",
-        "s": "2026-07-18T10:00:00+01:00",
-        "e": "2026-07-18T11:00:00+01:00",
-        "d": "London producer & DJ Leila Samir presents an hour every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/leila-samir/episodes/leila-samir-29th-may-2021",
-        "t": "restream",
-        "p": "leilasamir"
-      },
-      {
         "n": "FELISHA ledesma w/ Portraiture",
         "s": "2026-07-18T11:00:00+01:00",
         "e": "2026-07-18T12:00:00+01:00",
@@ -193,9 +183,9 @@
         "n": "SANPO DISCO (R)",
         "s": "2026-07-18T12:00:00+01:00",
         "e": "2026-07-18T14:00:00+01:00",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests",
         "t": "restream",
         "p": "sanpodisco"
       },
@@ -254,6 +244,16 @@
         "j": "1980S DETROIT TECHNO",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "RIO DOCE (R)",
+        "s": "2026-07-18T20:00:00+01:00",
+        "e": "2026-07-18T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "riodoce"
       },
       {
         "n": "IN FOCUS: MOODYMANN (R)",
@@ -345,16 +345,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "call curtis",
-        "s": "2026-07-18T09:00:00Z",
-        "e": "2026-07-18T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "callcurtis"
-      },
       {
         "n": "Luc presents: Cable",
         "s": "2026-07-18T10:00:00Z",
@@ -1602,6 +1592,16 @@
         "j": "Tomi From Brockley",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Afroasis",
+        "s": "2026-07-25T10:00:00Z",
+        "e": "2026-07-25T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "afroasis"
       }
     ],
     "dublab": [
@@ -2429,15 +2429,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-18T07:00:00Z",
-        "e": "2026-07-18T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-18T10:00:00Z",
