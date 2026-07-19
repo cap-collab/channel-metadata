@@ -1,42 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-07-19T08:00:40.731Z",
+  "updated": "2026-07-19T11:05:03.769Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TIME IS AWAY",
-        "s": "2026-07-19T09:00:00+01:00",
-        "e": "2026-07-19T10:00:00+01:00",
-        "d": "Time Is Away and somewhere else every month on NTS. Each hour-long show uses music, alongside snippets of spoken word, to produce something that is part soundscape, part essay for the radio. Host portraits by Robin Silas Christian (@makinabooks)\nFrom the host:_'‘The Department of Euterpe, 1926-2026’ exhibition is open now at the Warburg Institute, London, until 3 October 2026. \nLove and thanks to: Samir Chadha, Phoebe Cripps, Sam Dolbear, Matthew Harle, Misha Hering, Esther Leslie, Michael Leuffen, Cyana Madsen, Alice Merida Richards and Jane Wildgoose. '_ ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/timeisaway/episodes/timeisaway-19th-july-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Radiant Life w/ Ruby Savage",
-        "s": "2026-07-19T10:00:00+01:00",
-        "e": "2026-07-19T12:00:00+01:00",
-        "d": "Get radiant with Ruby Savage's mixed bag of goodies.",
-        "j": "Ruby Savage",
-        "u": "https://www.nts.live/api/v2/shows/ruby-savage/episodes/ruby-savage-19th-july-2026",
-        "t": "monthly",
-        "p": "rubysavage"
-      },
       {
         "n": "HOUSE CALL w/ Federico Tixi",
         "s": "2026-07-19T12:00:00+01:00",
         "e": "2026-07-19T13:00:00+01:00",
-        "d": null,
+        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-19th-july-2026"
       },
       {
-        "n": "DOING TIME",
+        "n": "DOING TIME W/ La Roze",
         "s": "2026-07-19T13:00:00+01:00",
         "e": "2026-07-19T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
+        "j": "La Roze",
+        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-19th-july-2026",
         "t": "monthly",
         "p": "doingtime"
       },
@@ -178,52 +159,44 @@
         "u": null,
         "t": "weekly",
         "p": "mariasomerville"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-07-20T09:00:00+01:00",
+        "e": "2026-07-20T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-07-20T11:00:00+01:00",
+        "e": "2026-07-20T13:00:00+01:00",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "ALOHA GOT SOUL: HOME GROWN W/ ROGER BONG (R)",
-        "s": "2026-07-19T09:00:00+01:00",
-        "e": "2026-07-19T10:00:00+01:00",
-        "d": "From the host: Welcoming an autumnal mood with mostly jazz this month 🍂",
-        "j": "ROGER BONG",
-        "u": "https://www.nts.live/api/v2/shows/aloha-got-soul/episodes/aloha-got-soul-29th-october-2025",
-        "t": "restream"
-      },
-      {
-        "n": "THE WINDMILLS OF YOUR MIND W/ TAYLOR ROWLEY (R)",
-        "s": "2026-07-19T10:00:00+01:00",
-        "e": "2026-07-19T11:00:00+01:00",
-        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures.\nFrom the host: \"Thanks for tuning in this year. Happy holidays <3<3<3\"",
-        "j": "TAYLOR ROWLEY",
-        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-10th-december-2025",
-        "t": "restream"
-      },
-      {
-        "n": "PEIO - BASQUE MUSIC SPECIAL (R)",
-        "s": "2026-07-19T11:00:00+01:00",
-        "e": "2026-07-19T12:00:00+01:00",
-        "d": null,
-        "j": "BASQUE MUSIC SPECIAL",
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "NTS GUIDE TO: SLOWCORE VOL. 2 (R)",
         "s": "2026-07-19T12:00:00+01:00",
         "e": "2026-07-19T14:00:00+01:00",
-        "d": null,
+        "d": "NTS selects an hour of emotional and measured guitar bands from the resonance of the post-hardcore explosion - Music from Codeine, Acetone, Empress, Duster and more",
         "j": "SLOWCORE VOL. 2",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-slowcore-vol-2-29th-april-2026",
         "t": "restream"
       },
       {
         "n": "HOMUNKULI W/ LENA WILLIKENS (R)",
         "s": "2026-07-19T14:00:00+01:00",
         "e": "2026-07-19T15:00:00+01:00",
-        "d": null,
+        "d": "New explorations in sounds from one of the most esteemed selectors in Europe, Lena Willikens. ",
         "j": "LENA WILLIKENS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/homunkuli/episodes/homunkuli-26th-february-2026",
         "t": "restream",
         "p": "homunkuli",
         "ap": [
@@ -349,28 +322,40 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Sofie Birch (R)",
+        "s": "2026-07-20T08:00:00+01:00",
+        "e": "2026-07-20T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "sofiebirch"
+      },
+      {
+        "n": "SOS Radio (R)",
+        "s": "2026-07-20T09:00:00+01:00",
+        "e": "2026-07-20T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "3XL w/ Ben Bondy",
+        "s": "2026-07-20T11:00:00+01:00",
+        "e": "2026-07-20T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "3xl",
+        "ap": [
+          "benbondy"
+        ]
       }
     ],
     "subtle": [
-      {
-        "n": "ECHO CHAMBER",
-        "s": "2026-07-19T08:00:00Z",
-        "e": "2026-07-19T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "tabs",
-        "s": "2026-07-19T10:00:00Z",
-        "e": "2026-07-19T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "tabs"
-      },
       {
         "n": "The SoundLab Series",
         "s": "2026-07-19T11:00:00Z",
@@ -1580,22 +1565,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Housewife (UK)",
+        "s": "2026-07-26T09:00:00Z",
+        "e": "2026-07-26T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Velvet Frequencies",
+        "s": "2026-07-26T10:00:00Z",
+        "e": "2026-07-26T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-19T07:00:00Z",
-        "e": "2026-07-19T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-07-19T09:00:00Z",
-        "e": "2026-07-19T11:00:00Z",
+        "s": "2026-07-19T11:00:00Z",
+        "e": "2026-07-19T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2154,25 +2148,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-19T06:00:00Z",
-        "e": "2026-07-19T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Phonica Records",
-        "s": "2026-07-19T09:00:00Z",
-        "e": "2026-07-19T11:00:00Z",
-        "d": null,
-        "j": "Tia Radkiewicz",
-        "u": null,
-        "t": "monthly",
-        "p": "tia"
-      },
-      {
         "n": "Russ Ryan",
         "s": "2026-07-19T11:00:00Z",
         "e": "2026-07-19T13:00:00Z",
@@ -2394,15 +2369,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-19T07:00:00Z",
-        "e": "2026-07-19T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-19T10:00:00Z",
