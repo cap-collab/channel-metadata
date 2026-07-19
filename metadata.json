@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-19T12:56:46.319Z",
+  "updated": "2026-07-19T14:47:26.966Z",
   "stations": {
     "nts1": [
-      {
-        "n": "DOING TIME W/ La Roze",
-        "s": "2026-07-19T13:00:00+01:00",
-        "e": "2026-07-19T15:00:00+01:00",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": "La Roze",
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-19th-july-2026",
-        "t": "monthly",
-        "p": "doingtime"
-      },
       {
         "n": "PARADISE BANGKOK",
         "s": "2026-07-19T15:00:00+01:00",
@@ -30,9 +20,9 @@
         "n": "KHARTOUM ARRIVALS W/ BASMA",
         "s": "2026-07-19T16:00:00+01:00",
         "e": "2026-07-19T17:00:00+01:00",
-        "d": null,
+        "d": "Basma shares songs and stories from passings through Khartoum and beyond.",
         "j": "BASMA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-19th-july-2026",
         "t": "monthly",
         "p": "basma"
       },
@@ -180,38 +170,25 @@
         "u": null,
         "t": "monthly",
         "p": "raisak"
+      },
+      {
+        "n": "TILLY",
+        "s": "2026-07-20T14:00:00+01:00",
+        "e": "2026-07-20T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "tilly"
       }
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: SLOWCORE VOL. 2 (R)",
-        "s": "2026-07-19T12:00:00+01:00",
-        "e": "2026-07-19T14:00:00+01:00",
-        "d": "NTS selects an hour of emotional and measured guitar bands from the resonance of the post-hardcore explosion - Music from Codeine, Acetone, Empress, Duster and more",
-        "j": "SLOWCORE VOL. 2",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-slowcore-vol-2-29th-april-2026",
-        "t": "restream"
-      },
-      {
-        "n": "HOMUNKULI W/ LENA WILLIKENS (R)",
-        "s": "2026-07-19T14:00:00+01:00",
-        "e": "2026-07-19T15:00:00+01:00",
-        "d": "New explorations in sounds from one of the most esteemed selectors in Europe, Lena Willikens. ",
-        "j": "LENA WILLIKENS",
-        "u": "https://www.nts.live/api/v2/shows/homunkuli/episodes/homunkuli-26th-february-2026",
-        "t": "restream",
-        "p": "homunkuli",
-        "ap": [
-          "lenawillikens"
-        ]
-      },
-      {
         "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS (R)",
         "s": "2026-07-19T15:00:00+01:00",
         "e": "2026-07-19T17:00:00+01:00",
-        "d": null,
+        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
         "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-w-ivan-smagghe-nathan-gregory-wilkins-tuesday-9th-june",
         "t": "restream",
         "p": "channeling"
       },
@@ -219,9 +196,9 @@
         "n": "CROSSED WIRES W/ AMANDA SIEGEL - YUGOSLAVIA AFTER TITO PART 1 (R)",
         "s": "2026-07-19T17:00:00+01:00",
         "e": "2026-07-19T19:00:00+01:00",
-        "d": null,
+        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.",
         "j": "AMANDA SIEGEL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/crossed-wires-w-amanda-siegel-19th-july-2019",
         "t": "restream",
         "p": "amandasiegel"
       },
@@ -355,28 +332,28 @@
         "ap": [
           "benbondy"
         ]
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "ItsJermayne",
-        "s": "2026-07-19T12:00:00Z",
-        "e": "2026-07-19T13:00:00Z",
+        "n": "C.A.R. - ON THE SLIP ROAD",
+        "s": "2026-07-20T12:00:00+01:00",
+        "e": "2026-07-20T13:00:00+01:00",
+        "d": null,
+        "j": "ON THE SLIP ROAD",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "COBY SEY",
+        "s": "2026-07-20T14:00:00+01:00",
+        "e": "2026-07-20T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "itsjermayne"
-      },
-      {
-        "n": " What's The Weather, Selecta? w/ Megan Wroe",
-        "s": "2026-07-19T13:00:00Z",
-        "e": "2026-07-19T14:00:00Z",
-        "d": null,
-        "j": "Megan Wroe",
-        "u": null,
-        "t": "monthly"
-      },
+        "p": "cobysey"
+      }
+    ],
+    "subtle": [
       {
         "n": "Chaitu",
         "s": "2026-07-19T14:00:00Z",
@@ -1336,13 +1313,12 @@
         "t": "monthly"
       },
       {
-        "n": " Those Who Dance",
+        "n": "KZXK",
         "s": "2026-07-24T21:00:00Z",
         "e": "2026-07-24T22:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "NARA",
@@ -1584,18 +1560,28 @@
         "j": "VIOLENTLYILL",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs",
-        "s": "2026-07-19T12:00:00Z",
-        "e": "2026-07-19T14:00:00Z",
+        "n": " Sarah Jones",
+        "s": "2026-07-26T13:00:00Z",
+        "e": "2026-07-26T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "sarahjones"
       },
+      {
+        "n": "LIT CLIPS w/ DVS",
+        "s": "2026-07-26T14:00:00Z",
+        "e": "2026-07-26T15:00:00Z",
+        "d": null,
+        "j": "DVS",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "djjs 2",
         "s": "2026-07-19T14:00:00Z",
@@ -2145,19 +2131,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Russ Ryan",
-        "s": "2026-07-19T11:00:00Z",
-        "e": "2026-07-19T13:00:00Z",
+        "n": "djjs 2",
+        "s": "2026-07-26T14:00:00Z",
+        "e": "2026-07-26T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "russryan"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "CoOp Presents",
         "s": "2026-07-19T13:00:00Z",
@@ -2371,24 +2356,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Rythme Brisé",
-        "s": "2026-07-19T12:00:00Z",
-        "e": "2026-07-19T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Bé.",
-        "s": "2026-07-19T13:00:00Z",
-        "e": "2026-07-19T14:00:00Z",
-        "d": null,
-        "j": "Parlez-moi de la beauté",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Promesses",
         "s": "2026-07-19T14:00:00Z",
         "e": "2026-07-19T16:00:00Z",
@@ -2523,15 +2490,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "OPEN",
-        "s": "2026-07-19T12:00:00Z",
-        "e": "2026-07-19T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "ROAD RHYTHM",
         "s": "2026-07-19T14:00:00Z",
