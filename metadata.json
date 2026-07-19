@@ -1,35 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-19T16:46:23.505Z",
+  "updated": "2026-07-19T18:52:37.484Z",
   "stations": {
     "nts1": [
-      {
-        "n": "A Month of Sundays w/ Bill Spencer",
-        "s": "2026-07-19T17:00:00+01:00",
-        "e": "2026-07-19T18:00:00+01:00",
-        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.",
-        "j": "Bill Spencer",
-        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-19th-july-2026",
-        "t": "biweekly",
-        "p": "billspencer"
-      },
-      {
-        "n": "M00DTAPES (R)",
-        "s": "2026-07-19T18:00:00+01:00",
-        "e": "2026-07-19T19:00:00+01:00",
-        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-17th-august-2025",
-        "t": "restream",
-        "p": "m00dtapes"
-      },
       {
         "n": "THE GREAT AFRICAN DISCO W/ TEMI KOGBE",
         "s": "2026-07-19T19:00:00+01:00",
         "e": "2026-07-19T20:00:00+01:00",
-        "d": null,
+        "d": "Lagos based collector and DJ Temi Kogbe traces connections in African popular culture through vinyl. ",
         "j": "TEMI KOGBE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/temi-kogbe/episodes/temi-kogbe-19th-july-2026",
         "t": "monthly",
         "p": "temikogbe"
       },
@@ -37,9 +17,9 @@
         "n": "NTS GUIDE TO: CARNIVAL RECORDS: A SPECIAL (R)",
         "s": "2026-07-19T20:00:00+01:00",
         "e": "2026-07-19T21:00:00+01:00",
-        "d": null,
+        "d": "A ride through some of the best tracks on Newark, New Jersey based soul & R&B imprints Carnival Records.",
         "j": "CARNIVAL RECORDS: A SPECIAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/carnival-records-special-27thmarch-2020",
         "t": "restream"
       },
       {
@@ -174,19 +154,28 @@
         "u": null,
         "t": "monthly",
         "p": "naomi"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-07-20T18:00:00+01:00",
+        "e": "2026-07-20T20:00:00+01:00",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
+      },
+      {
+        "n": "CALM ROOTS W/ ALEX RITA",
+        "s": "2026-07-20T20:00:00+01:00",
+        "e": "2026-07-20T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "calmroots"
       }
     ],
     "nts2": [
-      {
-        "n": "CROSSED WIRES W/ AMANDA SIEGEL - YUGOSLAVIA AFTER TITO PART 1 (R)",
-        "s": "2026-07-19T17:00:00+01:00",
-        "e": "2026-07-19T19:00:00+01:00",
-        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.",
-        "j": "AMANDA SIEGEL",
-        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/crossed-wires-w-amanda-siegel-19th-july-2019",
-        "t": "restream",
-        "p": "amandasiegel"
-      },
       {
         "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL (R)",
         "s": "2026-07-19T19:00:00+01:00",
@@ -200,9 +189,9 @@
         "n": "LYRA PRAMUK (R)",
         "s": "2026-07-19T20:00:00+01:00",
         "e": "2026-07-19T22:00:00+01:00",
-        "d": null,
+        "d": "A two hour trip into minimalist compositions, classical, choral movements with Berlin producer & experimentalist Lyra Pramuk…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/lyra-pramuk-4th-october-2021",
         "t": "restream",
         "p": "lyrapramuk"
       },
@@ -344,19 +333,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "SETTINGS",
-        "s": "2026-07-19T16:00:00Z",
-        "e": "2026-07-19T18:00:00Z",
+        "n": "GASSY",
+        "s": "2026-07-20T16:00:00+01:00",
+        "e": "2026-07-20T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "settings"
-      },
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": "So Far So Good",
         "s": "2026-07-19T18:00:00Z",
@@ -366,6 +354,15 @@
         "u": null,
         "t": "monthly",
         "p": "sofarsogood"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-07-19T19:00:00Z",
+        "e": "2026-07-19T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Off-Switch Audio",
@@ -1568,19 +1565,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " The Process Show w/ EONE",
+        "s": "2026-07-26T18:00:00Z",
+        "e": "2026-07-26T19:00:00Z",
+        "d": null,
+        "j": "EONE",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-07-19T16:00:00Z",
-        "e": "2026-07-19T17:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly",
-        "p": "kennethbager"
-      },
       {
         "n": "Burgers – DOSTI",
         "s": "2026-07-19T17:00:00Z",
@@ -2130,28 +2126,19 @@
         "u": null,
         "t": "weekly",
         "p": "kennethbager"
+      },
+      {
+        "n": "Thomas Klepper - Library of Sounds",
+        "s": "2026-07-26T17:00:00Z",
+        "e": "2026-07-26T19:00:00Z",
+        "d": null,
+        "j": "Library of Sounds",
+        "u": null,
+        "t": "monthly",
+        "p": "thomasklepper"
       }
     ],
     "rinse": [
-      {
-        "n": "El Londo with Saiming, S.I, Lorry, Caldo",
-        "s": "2026-07-19T16:00:00Z",
-        "e": "2026-07-19T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "ellondo"
-      },
-      {
-        "n": "JD. REID",
-        "s": "2026-07-19T17:00:00Z",
-        "e": "2026-07-19T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "jdreid"
-      },
       {
         "n": "Bok Bok",
         "s": "2026-07-19T18:00:00Z",
@@ -2253,7 +2240,7 @@
         "s": "2026-07-20T12:00:00Z",
         "e": "2026-07-20T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Local Action",
         "u": null,
         "t": "biweekly"
       },
@@ -2280,7 +2267,7 @@
         "s": "2026-07-20T16:00:00Z",
         "e": "2026-07-20T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "100% Unreleased Productions Mix",
         "u": null,
         "p": "dyslecta"
       },
@@ -2323,40 +2310,16 @@
         "p": "tasha"
       },
       {
-        "n": "Loris",
+        "n": "Loris invites Mauricio Arambula",
         "s": "2026-07-20T22:00:00Z",
         "e": "2026-07-20T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Eco-sistema",
         "u": null,
-        "t": "monthly",
         "p": "loris"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Jokkoo Collective",
-        "s": "2026-07-19T16:00:00Z",
-        "e": "2026-07-19T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "collective",
-        "ap": [
-          "jokkoocollective"
-        ]
-      },
-      {
-        "n": "MUTEK",
-        "s": "2026-07-19T17:00:00Z",
-        "e": "2026-07-19T18:00:00Z",
-        "d": null,
-        "j": "invite BABY VULTURE",
-        "u": null,
-        "t": "monthly",
-        "p": "mutek"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-19T18:00:00Z",
@@ -2459,15 +2422,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "MXD SGNLS",
-        "s": "2026-07-19T16:00:00Z",
-        "e": "2026-07-19T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "MILLENNIUM STONE CIRCLE",
         "s": "2026-07-19T18:00:00Z",
