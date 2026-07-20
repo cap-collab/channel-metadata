@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-20T17:25:27.545Z",
+  "updated": "2026-07-20T19:26:19.281Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CLUB COCO w/ COCO MARIA",
-        "s": "2026-07-20T18:00:00+01:00",
-        "e": "2026-07-20T20:00:00+01:00",
-        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
-        "j": "COCO MARIA",
-        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-20th-july-2026",
-        "t": "weekly",
-        "p": "cocomaria"
-      },
       {
         "n": "CALM ROOTS W/ ALEX RITA",
         "s": "2026-07-20T20:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "Carriage 2: swaampcat w/ Dani Roade",
         "s": "2026-07-20T22:00:00+01:00",
         "e": "2026-07-20T23:00:00+01:00",
-        "d": null,
+        "d": "“an innocent yellow train brings so many ambiguities and certainties,  so many pleasant and unpleasant moments,  so many changes”",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/carriage-2-swaampcat-w-dani-roade-20th-july-2026"
       },
       {
         "n": "TINNAI W/ GANAVYA (R)",
@@ -172,34 +162,24 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SURF GANG RADIO",
+        "s": "2026-07-21T19:00:00+01:00",
+        "e": "2026-07-21T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "The Trilogy Tapes",
-        "s": "2026-07-20T17:00:00+01:00",
-        "e": "2026-07-20T19:00:00+01:00",
-        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-20th-july-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "CLAIRE MILBRATH (R)",
-        "s": "2026-07-20T19:00:00+01:00",
-        "e": "2026-07-20T20:00:00+01:00",
-        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-30th-september-2024",
-        "t": "restream"
-      },
-      {
         "n": "Auntie-ism w/ SHABAZZ (R)",
         "s": "2026-07-20T20:00:00+01:00",
         "e": "2026-07-20T21:00:00+01:00",
-        "d": null,
+        "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.\nFrom the host: \"This mix centers Black soul as a living, moving practice in honor of Black History Month. Shaped by funk, house, garage, and early electronic traditions, it carries joy, affirmation, and intimacy—reassurance music, church and discothèque in one breath.\"",
         "j": "SHABAZZ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-10th-february-2026",
         "t": "restream",
         "p": "shabazz"
       },
@@ -207,9 +187,9 @@
         "n": "ALBA Radio w/ Giacomo R",
         "s": "2026-07-20T21:00:00+01:00",
         "e": "2026-07-20T22:00:00+01:00",
-        "d": null,
+        "d": "''In the Western world, improvisation is a failure; you do it when something goes wrong. But when black people improvise it's a form of mastery.'' \nAlba",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/alba/episodes/alba-20th-july-2026"
       },
       {
         "n": "LIQUID MIRROR W/ OLIVE KIMOTO",
@@ -222,14 +202,14 @@
         "p": "liquidmirror"
       },
       {
-        "n": "Diiv",
+        "n": "Forager Records (R)",
         "s": "2026-07-20T23:00:00+01:00",
         "e": "2026-07-21T00:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "diiv"
+        "t": "restream",
+        "p": "foragerrecords"
       },
       {
         "n": "DJ SPANISH FLY",
@@ -251,12 +231,14 @@
         "p": "ramboradio"
       },
       {
-        "n": "Touch and Feel w/ Brian Vidal",
+        "n": "debbiesthuglife (R)",
         "s": "2026-07-21T02:00:00+01:00",
         "e": "2026-07-21T03:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream",
+        "p": "debbiesthuglife"
       },
       {
         "n": "Akito w/ KWARP",
@@ -349,28 +331,19 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "H3L3NA",
-        "s": "2026-07-20T17:00:00Z",
-        "e": "2026-07-20T18:00:00Z",
+        "n": "ARRHYTHMIA",
+        "s": "2026-07-21T14:00:00+01:00",
+        "e": "2026-07-21T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "h3l3na"
-      },
-      {
-        "n": " ZEMA",
-        "s": "2026-07-20T18:00:00Z",
-        "e": "2026-07-20T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
+        "p": "arrhythmia"
+      }
+    ],
+    "subtle": [
       {
         "n": "Rainbow Conspiracy",
         "s": "2026-07-20T19:00:00Z",
@@ -1547,19 +1520,29 @@
         "u": null,
         "t": "monthly",
         "p": "grigio"
+      },
+      {
+        "n": "Deadly Unserious",
+        "s": "2026-07-27T18:00:00Z",
+        "e": "2026-07-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "deadlyunserious"
+      },
+      {
+        "n": "Scandal Sounds",
+        "s": "2026-07-27T19:00:00Z",
+        "e": "2026-07-27T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "scandalsounds"
       }
     ],
     "dublab": [
-      {
-        "n": "Rene Contreras - Viva! Talks",
-        "s": "2026-07-20T17:00:00Z",
-        "e": "2026-07-20T19:00:00Z",
-        "d": null,
-        "j": "Viva! Talks",
-        "u": null,
-        "t": "weekly",
-        "p": "renecontreras"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-07-20T19:00:00Z",
@@ -1578,6 +1561,14 @@
         "u": null,
         "t": "monthly",
         "p": "ranideleon"
+      },
+      {
+        "n": "Veteranas and Rucas y Que chola tan rica – East of the River",
+        "s": "2026-07-20T23:00:00Z",
+        "e": "2026-07-21T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Encarnación - Lucid Hour",
@@ -2109,19 +2100,19 @@
         "u": null,
         "t": "weekly",
         "p": "renecontreras"
+      },
+      {
+        "n": "Domenic Priore - '66 Sunset Strip",
+        "s": "2026-07-27T19:00:00Z",
+        "e": "2026-07-27T21:00:00Z",
+        "d": null,
+        "j": "'66 Sunset Strip",
+        "u": null,
+        "t": "monthly",
+        "p": "domenicpriore"
       }
     ],
     "rinse": [
-      {
-        "n": "Amaliah",
-        "s": "2026-07-20T17:00:00Z",
-        "e": "2026-07-20T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "amaliah"
-      },
       {
         "n": "Hessle Audio",
         "s": "2026-07-20T18:00:00Z",
@@ -2294,28 +2285,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Belaria",
-        "s": "2026-07-20T17:00:00Z",
-        "e": "2026-07-20T18:00:00Z",
-        "d": null,
-        "j": "Sacha Kassy",
-        "u": null,
-        "t": "monthly",
-        "p": "belaria",
-        "ap": [
-          "sachakassy"
-        ]
-      },
-      {
-        "n": "Weirdies Records",
-        "s": "2026-07-20T18:00:00Z",
-        "e": "2026-07-20T19:00:00Z",
-        "d": null,
-        "j": "avec Jon Beige : Blog House Special",
-        "u": null,
-        "p": "jonbeige"
-      },
-      {
         "n": "Playlist France",
         "s": "2026-07-20T19:00:00Z",
         "e": "2026-07-20T22:00:00Z",
@@ -2408,15 +2377,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "OPEN",
-        "s": "2026-07-20T17:00:00Z",
-        "e": "2026-07-20T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "SCRATCH ACADEMY",
         "s": "2026-07-20T19:00:00Z",
