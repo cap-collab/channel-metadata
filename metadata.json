@@ -1,35 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-21T13:18:35.646Z",
+  "updated": "2026-07-21T15:28:53.261Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Low Life Loves You w/ Bill Brewster",
-        "s": "2026-07-21T13:00:00+01:00",
-        "e": "2026-07-21T15:00:00+01:00",
-        "d": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
-        "j": "Bill Brewster",
-        "u": "https://www.nts.live/api/v2/shows/bill-brewster/episodes/bill-brewster-21st-july-2026",
-        "t": "monthly",
-        "p": "billbrewster"
-      },
-      {
-        "n": "Self Soothe w/ Margeaux",
-        "s": "2026-07-21T15:00:00+01:00",
-        "e": "2026-07-21T16:00:00+01:00",
-        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
-        "j": "Margeaux",
-        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-21st-july-2026",
-        "t": "weekly",
-        "p": "margeaux"
-      },
       {
         "n": "Exploring Earth Through Sound w/ Machi",
         "s": "2026-07-21T16:00:00+01:00",
         "e": "2026-07-21T17:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Machi",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-21st-july-2026",
         "t": "monthly",
         "p": "machi"
       },
@@ -37,9 +17,9 @@
         "n": "QUEST NO MORE W/ ELHEIST & Saul Nash",
         "s": "2026-07-21T17:00:00+01:00",
         "e": "2026-07-21T18:00:00+01:00",
-        "d": null,
+        "d": "Elheist steers deep‑cuts, left‑field electronica, obscure grooves and sounds from the fam into the fold, where worlds collide, textures shift and surprises hit. check your quest, leave the rest.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/quest-no-more/episodes/quest-no-more-21st-july-2026"
       },
       {
         "n": "Leicester's Finest w/ Mohammad Adam - 2 LIVE IS 2 SUFFER",
@@ -170,25 +150,36 @@
         "ap": [
           "lunchclub"
         ]
+      },
+      {
+        "n": "Bradley Zero Presents: Rhythm Section",
+        "s": "2026-07-22T14:00:00+01:00",
+        "e": "2026-07-22T15:00:00+01:00",
+        "d": null,
+        "j": "Rhythm Section",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Niks (Cover for Moxie)",
+        "s": "2026-07-22T15:00:00+01:00",
+        "e": "2026-07-22T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "moxie",
+        "ap": [
+          "niks"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "ARRHYTHMIA",
-        "s": "2026-07-21T14:00:00+01:00",
-        "e": "2026-07-21T16:00:00+01:00",
-        "d": "Broadcasting out of Birmingham, Arrhythmia is a monthly exploration of interesting new audio and abnormal rhythms. Expect irregular, dark or heavy - but not always.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ARRHYTHMIA/episodes/ARRHYTHMIA-21st-july-2026",
-        "t": "monthly",
-        "p": "arrhythmia"
-      },
-      {
-        "n": "Roadkill Ikebana",
+        "n": "Roadkill Ikebana - 1996 Special",
         "s": "2026-07-21T16:00:00+01:00",
         "e": "2026-07-21T17:00:00+01:00",
         "d": "Textured, grubby sounds and luscious melodies selected by Annabelle Mödlinger, artist and member of The Umlauts.",
-        "j": null,
+        "j": "1996 Special",
         "u": "https://www.nts.live/api/v2/shows/roadkill-ikebana/episodes/roadkill-ikebana-21st-july-2026",
         "t": "monthly",
         "p": "roadkillikebana"
@@ -197,9 +188,10 @@
         "n": "YU SU w/ Oliver Ellmers",
         "s": "2026-07-21T17:00:00+01:00",
         "e": "2026-07-21T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month.\nFrom the host: \"A special eposide recorded at home with my partner Oliver, playing all past month's record purchases. New chapter for me getting upgraded from USBJ to DJ hehe!\"",
+        "j": "Oliver Ellmers",
+        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-21st-july-2026",
+        "t": "monthly",
         "p": "yusu"
       },
       {
@@ -335,28 +327,19 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Launcher",
-        "s": "2026-07-21T13:00:00Z",
-        "e": "2026-07-21T14:00:00Z",
+        "n": "HTRK",
+        "s": "2026-07-22T12:00:00+01:00",
+        "e": "2026-07-22T13:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "launcher"
-      },
-      {
-        "n": "Seah",
-        "s": "2026-07-21T14:00:00Z",
-        "e": "2026-07-21T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
+        "p": "htrk"
+      }
+    ],
+    "subtle": [
       {
         "n": "Atiké",
         "s": "2026-07-21T15:00:00Z",
@@ -1538,18 +1521,29 @@
         "u": null,
         "t": "monthly",
         "p": "yves"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-07-21T13:00:00Z",
-        "e": "2026-07-21T15:00:00Z",
+        "n": "sophie",
+        "s": "2026-07-28T14:00:00Z",
+        "e": "2026-07-28T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "sophie"
       },
+      {
+        "n": "Noiseland Arcade",
+        "s": "2026-07-28T15:00:00Z",
+        "e": "2026-07-28T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "noiselandarcade"
+      }
+    ],
+    "dublab": [
       {
         "n": "Benson Taylor - TUSCAN JUNK FOOD",
         "s": "2026-07-21T15:00:00Z",
@@ -2089,22 +2083,19 @@
         "u": null,
         "t": "biweekly",
         "p": "aaronpaar"
+      },
+      {
+        "n": "Davina Two Bears - Indigenous Voice",
+        "s": "2026-07-28T15:00:00Z",
+        "e": "2026-07-28T17:00:00Z",
+        "d": null,
+        "j": "Indigenous Voice",
+        "u": null,
+        "t": "monthly",
+        "p": "davinatwobears"
       }
     ],
     "rinse": [
-      {
-        "n": "Adventures In Paradise with Manuel Darquart",
-        "s": "2026-07-21T13:00:00Z",
-        "e": "2026-07-21T14:00:00Z",
-        "d": null,
-        "j": "Slapped together some house records I've bought recently for an hour of power",
-        "u": null,
-        "t": "monthly",
-        "p": "manueldarquart",
-        "ap": [
-          "paradise"
-        ]
-      },
       {
         "n": "Brighter Days Family",
         "s": "2026-07-21T14:00:00Z",
@@ -2319,25 +2310,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Whitney Weiss",
-        "s": "2026-07-21T12:00:00Z",
-        "e": "2026-07-21T14:00:00Z",
-        "d": null,
-        "j": "it's Whitney, Bitch with Headphones Girl",
-        "u": null,
-        "t": "biweekly",
-        "p": "whitneyweiss"
-      },
-      {
-        "n": "Louis Roméo",
-        "s": "2026-07-21T14:00:00Z",
-        "e": "2026-07-21T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Jeune à Jamais",
         "s": "2026-07-21T15:00:00Z",
