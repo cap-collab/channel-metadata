@@ -1,31 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-21T17:07:10.724Z",
+  "updated": "2026-07-21T19:04:39.259Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Leicester's Finest w/ Mohammad Adam - 2 LIVE IS 2 SUFFER",
-        "s": "2026-07-21T18:00:00+01:00",
-        "e": "2026-07-21T19:00:00+01:00",
-        "d": "Mohammad Five records presents Leicester's Finest. \n\"Soul sonics 2 abolish the demonics. REP UR ENDS DON'T WRECK UR ENDS. Specialising in pure UK Asian Flavaz and the truth. WALK WITH ME. From the dark. Dil diyan Gallan from Leicester and beyond. Real Star players.\"\n\"this zindagi is fading but our sins are multiplying\" - MISA (M5)",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mohammad-adam/episodes/mohammad-adam-21st-july-2026"
-      },
-      {
-        "n": "SURF GANG RADIO W/ LARON",
-        "s": "2026-07-21T19:00:00+01:00",
-        "e": "2026-07-21T20:00:00+01:00",
-        "d": "A radio show curated by Surf Gang Records. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-21st-july-2026"
-      },
       {
         "n": "RUPTURE W/ MANTRA & DOUBLE O",
         "s": "2026-07-21T20:00:00+01:00",
         "e": "2026-07-21T21:00:00+01:00",
-        "d": null,
+        "d": "Sounds from the grass roots of jungle and drum & bass with London scene heroes Rupture - featuring selections from residents Mantra & Double O.",
         "j": "MANTRA & DOUBLE O",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rupture/episodes/rupture-21st-july-2026",
         "t": "monthly",
         "p": "rupture"
       },
@@ -171,17 +155,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "1-800 girls",
+        "s": "2026-07-22T20:00:00+01:00",
+        "e": "2026-07-22T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "1800girls"
       }
     ],
     "nts2": [
-      {
-        "n": "PENDER STREET STEPPERS w/ Mela Melania",
-        "s": "2026-07-21T18:00:00+01:00",
-        "e": "2026-07-21T20:00:00+01:00",
-        "d": "The breezy sound of the Canadian Riviera, from Mood Hut's Pender Street Steppers.\nFrom the host: \"Mela Melania makes a very rare appearance on this month's episode, taking over for most of the show.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/pender-street-steppers/episodes/pender-street-steppers-21st-july-2026"
-      },
       {
         "n": "Nick Hakim",
         "s": "2026-07-21T20:00:00+01:00",
@@ -339,24 +324,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Super Best w/ Mood Change",
-        "s": "2026-07-21T17:00:00Z",
-        "e": "2026-07-21T18:00:00Z",
-        "d": null,
-        "j": "Mood Change",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Skelecta presents: South London Dance Factory",
-        "s": "2026-07-21T18:00:00Z",
-        "e": "2026-07-21T19:00:00Z",
-        "d": null,
-        "j": "South London Dance Factory",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Deeper DnB",
         "s": "2026-07-21T19:00:00Z",
@@ -1531,19 +1498,27 @@
         "u": null,
         "t": "monthly",
         "p": "malibooselects"
+      },
+      {
+        "n": "Sika",
+        "s": "2026-07-28T18:00:00Z",
+        "e": "2026-07-28T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "sika"
+      },
+      {
+        "n": "es.kay & Megwan",
+        "s": "2026-07-28T19:00:00Z",
+        "e": "2026-07-28T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Kohinoorgasm - People's Portal",
-        "s": "2026-07-21T17:00:00Z",
-        "e": "2026-07-21T19:00:00Z",
-        "d": null,
-        "j": "People's Portal",
-        "u": null,
-        "t": "monthly",
-        "p": "kohinoorgasm"
-      },
       {
         "n": "Cafe's Internet Lounge",
         "s": "2026-07-21T19:00:00Z",
@@ -2083,17 +2058,19 @@
         "u": null,
         "t": "monthly",
         "p": "discotchari"
+      },
+      {
+        "n": "Patrick Shiroishi - Tangled",
+        "s": "2026-07-28T19:00:00Z",
+        "e": "2026-07-28T21:00:00Z",
+        "d": null,
+        "j": "Tangled",
+        "u": null,
+        "t": "monthly",
+        "p": "patrickshiroishi"
       }
     ],
     "rinse": [
-      {
-        "n": "LILI",
-        "s": "2026-07-21T17:00:00Z",
-        "e": "2026-07-21T18:00:00Z",
-        "d": null,
-        "j": "Get to know LILI",
-        "u": null
-      },
       {
         "n": "La La",
         "s": "2026-07-21T18:00:00Z",
@@ -2192,13 +2169,12 @@
         "p": "djgilla"
       },
       {
-        "n": "Eclecticist",
+        "n": "Eclecticist presents 2006:",
         "s": "2026-07-22T12:00:00Z",
         "e": "2026-07-22T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "The Blueprint",
         "u": null,
-        "t": "weekly",
         "p": "eclecticist"
       },
       {
@@ -2206,10 +2182,13 @@
         "s": "2026-07-22T13:00:00Z",
         "e": "2026-07-22T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Subculture – Sub Club, Glasgow",
         "u": null,
         "t": "biweekly",
-        "p": "jasperjames"
+        "p": "jasperjames",
+        "ap": [
+          "subclub"
+        ]
       },
       {
         "n": "Utopia Presents",
@@ -2246,7 +2225,7 @@
         "s": "2026-07-22T18:00:00Z",
         "e": "2026-07-22T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "'012",
         "u": null,
         "t": "monthly"
       },
@@ -2264,41 +2243,26 @@
         "s": "2026-07-22T21:00:00Z",
         "e": "2026-07-22T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Hijinx",
         "u": null,
         "t": "biweekly",
-        "p": "1985music"
+        "p": "1985music",
+        "ap": [
+          "hijinx"
+        ]
       },
       {
         "n": "shekdash",
         "s": "2026-07-22T22:00:00Z",
         "e": "2026-07-22T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Nymph",
         "u": null,
         "t": "monthly",
         "p": "shekdash"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Nyege Nyege",
-        "s": "2026-07-21T17:00:00Z",
-        "e": "2026-07-21T18:00:00Z",
-        "d": null,
-        "j": "Masaka Masaka",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "TTristana",
-        "s": "2026-07-21T18:00:00Z",
-        "e": "2026-07-21T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-21T19:00:00Z",
