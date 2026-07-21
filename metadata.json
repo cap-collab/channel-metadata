@@ -1,33 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-07-21T19:04:39.259Z",
+  "updated": "2026-07-21T20:58:18.718Z",
   "stations": {
     "nts1": [
-      {
-        "n": "RUPTURE W/ MANTRA & DOUBLE O",
-        "s": "2026-07-21T20:00:00+01:00",
-        "e": "2026-07-21T21:00:00+01:00",
-        "d": "Sounds from the grass roots of jungle and drum & bass with London scene heroes Rupture - featuring selections from residents Mantra & Double O.",
-        "j": "MANTRA & DOUBLE O",
-        "u": "https://www.nts.live/api/v2/shows/rupture/episodes/rupture-21st-july-2026",
-        "t": "monthly",
-        "p": "rupture"
-      },
       {
         "n": "Jumpin Jack Frost Presents: 30 years of Burial",
         "s": "2026-07-21T21:00:00+01:00",
         "e": "2026-07-21T22:00:00+01:00",
-        "d": null,
+        "d": "A true-blue legend of UK dance music Jumpin Jack Frost hops on the NTS decks for a session, celebrating the re-release of his 90s jungle anthem “Burial”.  ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/jumpin-jack-frost-presents-30-years-of-burial-21st-july-2026"
       },
       {
         "n": "NTS X Havaianas Paris: DJ Caio Prince",
         "s": "2026-07-21T22:00:00+01:00",
         "e": "2026-07-21T23:00:00+01:00",
-        "d": null,
+        "d": "Recorded sets from the O Brasil de Havaianas event series in Milan, Paris and London. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/nts-x-havaianas/episodes/nts-x-havaianas-20th-june-2026"
       },
       {
         "n": "ELENA COLOMBI",
@@ -164,35 +154,42 @@
         "j": null,
         "u": null,
         "p": "1800girls"
+      },
+      {
+        "n": "Hekt",
+        "s": "2026-07-22T21:00:00+01:00",
+        "e": "2026-07-22T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "TURMERIC W/ THE TWINS",
+        "s": "2026-07-22T22:00:00+01:00",
+        "e": "2026-07-22T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "thetwins"
       }
     ],
     "nts2": [
       {
-        "n": "Nick Hakim",
-        "s": "2026-07-21T20:00:00+01:00",
-        "e": "2026-07-21T21:00:00+01:00",
-        "d": "Brooklyn musician Nick Hakim takes over the NTS airwaves.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nick-hakim/episodes/nick-hakim-21st-july-2026",
-        "t": "monthly",
-        "p": "nickhakim"
-      },
-      {
         "n": "ESPRIT 空想/George Clanton (R)",
         "s": "2026-07-21T21:00:00+01:00",
         "e": "2026-07-21T22:00:00+01:00",
-        "d": null,
+        "d": "The multidisciplinary artist, songwriter, producer and 100% Electronica founder George Clanton selects an hour of music, featuring original music and tracks from Saint Etienne, Locust, Prefab Sprout and more.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/esprit-kong-xiang-george-clanton-21st-may-2026",
         "t": "restream"
       },
       {
         "n": "BRWN W/ AHWLEE & PINK SIIFU",
         "s": "2026-07-21T22:00:00+01:00",
         "e": "2026-07-22T00:00:00+01:00",
-        "d": null,
+        "d": "Ahwlee & Pink Siifu (B. Cool-Aid) head up BRWN, exploring hip hop's varied and far-reaching experimental corners - live once a month from Los Angeles.",
         "j": "AHWLEE & PINK SIIFU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/brwn/episodes/brwn-21st-july-2026",
         "t": "monthly",
         "p": "brwn"
       },
@@ -321,19 +318,27 @@
         "u": null,
         "t": "monthly",
         "p": "abdullahminiawy"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Deeper DnB",
-        "s": "2026-07-21T19:00:00Z",
-        "e": "2026-07-21T20:00:00Z",
+        "n": "Marvin Sparks: Greensleeves' covers w/ Alexander Newma",
+        "s": "2026-07-22T14:00:00+01:00",
+        "e": "2026-07-22T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LEILA SAMIR (R)",
+        "s": "2026-07-22T15:00:00+01:00",
+        "e": "2026-07-22T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "deeperdnb"
-      },
+        "t": "restream",
+        "p": "leilasamir"
+      }
+    ],
+    "subtle": [
       {
         "n": "SunDisk w/ Helios XL",
         "s": "2026-07-21T20:00:00Z",
@@ -342,6 +347,15 @@
         "j": "Helios XL",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-07-21T21:00:00Z",
+        "e": "2026-07-21T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "The R.I.P Show",
@@ -1516,6 +1530,16 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "stuckinwaveforms",
+        "s": "2026-07-28T20:00:00Z",
+        "e": "2026-07-28T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "stuckinwaveforms"
       }
     ],
     "dublab": [
@@ -2071,16 +2095,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "La La",
-        "s": "2026-07-21T18:00:00Z",
-        "e": "2026-07-21T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lala"
-      },
       {
         "n": "Prospa B2B DJ Seinfeld",
         "s": "2026-07-21T20:00:00Z",
