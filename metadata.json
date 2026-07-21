@@ -1,34 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-21T08:09:09.382Z",
+  "updated": "2026-07-21T11:41:58.230Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-07-21T09:00:00+01:00",
-        "e": "2026-07-21T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-21st-july-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ ASTRID SONNE",
         "s": "2026-07-21T11:00:00+01:00",
         "e": "2026-07-21T13:00:00+01:00",
-        "d": null,
+        "d": "Let NTS brighten up your lunchtime hours.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-21st-july-2026",
         "p": "astridsonne"
       },
       {
         "n": "Low Life Loves You w/ Bill Brewster",
         "s": "2026-07-21T13:00:00+01:00",
         "e": "2026-07-21T15:00:00+01:00",
-        "d": null,
+        "d": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
         "j": "Bill Brewster",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bill-brewster/episodes/bill-brewster-21st-july-2026",
         "t": "monthly",
         "p": "billbrewster"
       },
@@ -53,13 +43,12 @@
         "p": "machi"
       },
       {
-        "n": "QUEST NO MORE W/ ELHEIST",
+        "n": "QUEST NO MORE W/ ELHEIST & Saul Nash",
         "s": "2026-07-21T17:00:00+01:00",
         "e": "2026-07-21T18:00:00+01:00",
         "d": null,
-        "j": "ELHEIST",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Leicester's Finest w/ Mohammad Adam - 2 LIVE IS 2 SUFFER",
@@ -70,7 +59,7 @@
         "u": null
       },
       {
-        "n": "SURF GANG RADIO",
+        "n": "SURF GANG RADIO W/ LARON",
         "s": "2026-07-21T19:00:00+01:00",
         "e": "2026-07-21T20:00:00+01:00",
         "d": null,
@@ -157,53 +146,45 @@
         "j": "SPIRIT BLUE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-07-22T09:00:00+01:00",
+        "e": "2026-07-22T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-07-22T11:00:00+01:00",
+        "e": "2026-07-22T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
       }
     ],
     "nts2": [
       {
-        "n": "TUFF SHED (R)",
-        "s": "2026-07-21T08:00:00+01:00",
-        "e": "2026-07-21T10:00:00+01:00",
-        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-1st-july-2025",
-        "t": "restream",
-        "p": "tuffshed"
-      },
-      {
-        "n": "AN1MA (R)",
-        "s": "2026-07-21T10:00:00+01:00",
-        "e": "2026-07-21T11:00:00+01:00",
-        "d": "integration sounds from the source; an invitation into the shadow.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-3rd-november-2025",
-        "t": "restream"
-      },
-      {
-        "n": "TRUE AS FEW W/ MARK",
-        "s": "2026-07-21T11:00:00+01:00",
-        "e": "2026-07-21T12:00:00+01:00",
-        "d": null,
-        "j": "MARK",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "GREAT SOUTHERN LANDS W/ JAMES W",
         "s": "2026-07-21T12:00:00+01:00",
         "e": "2026-07-21T13:00:00+01:00",
-        "d": null,
+        "d": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
         "j": "JAMES W",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/great-southern-lands/episodes/great-southern-lands-21st-july-2026",
         "t": "monthly"
       },
       {
         "n": "Ibukun Sunday",
         "s": "2026-07-21T13:00:00+01:00",
         "e": "2026-07-21T14:00:00+01:00",
-        "d": null,
+        "d": "Nigerian ambient producer Ibkun Sunday shares an hour of still ambient sonics, exploring faith and reverence. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ibukun-sunday-21st-july-2026"
       },
       {
         "n": "ARRHYTHMIA",
@@ -226,23 +207,21 @@
         "p": "roadkillikebana"
       },
       {
-        "n": "YU SU",
+        "n": "YU SU w/ Oliver Ellmers",
         "s": "2026-07-21T17:00:00+01:00",
         "e": "2026-07-21T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "yusu"
       },
       {
-        "n": "PENDER STREET STEPPERS",
+        "n": "PENDER STREET STEPPERS w/ Mela Melania",
         "s": "2026-07-21T18:00:00+01:00",
         "e": "2026-07-21T20:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Nick Hakim",
@@ -323,31 +302,37 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TRiNH w/ DJ DJ Qualls",
+        "s": "2026-07-22T06:00:00+01:00",
+        "e": "2026-07-22T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "trinh"
+      },
+      {
+        "n": "INSOLAR w/ CAMI LAYÉ OKÚN (R)",
+        "s": "2026-07-22T07:00:00+01:00",
+        "e": "2026-07-22T08:00:00+01:00",
+        "d": null,
+        "j": "CAMI LAYÉ OKÚN",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Forager Records (R)",
+        "s": "2026-07-22T08:00:00+01:00",
+        "e": "2026-07-22T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "foragerrecords"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-07-21T08:00:00Z",
-        "e": "2026-07-21T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Albert Moon",
-        "s": "2026-07-21T09:00:00Z",
-        "e": "2026-07-21T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "albertmoon",
-        "ap": [
-          "albert"
-        ]
-      },
       {
         "n": " Ovrtic",
         "s": "2026-07-21T10:00:00Z",
@@ -1528,13 +1513,33 @@
         "u": null,
         "t": "monthly",
         "p": "scampi"
+      },
+      {
+        "n": "Posh Mornings",
+        "s": "2026-07-28T09:00:00Z",
+        "e": "2026-07-28T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "poshmornings"
+      },
+      {
+        "n": "Local Movements",
+        "s": "2026-07-28T10:00:00Z",
+        "e": "2026-07-28T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "localmovements"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-21T07:00:00Z",
-        "e": "2026-07-21T09:00:00Z",
+        "s": "2026-07-21T11:00:00Z",
+        "e": "2026-07-21T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1542,8 +1547,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-21T09:00:00Z",
-        "e": "2026-07-21T11:00:00Z",
+        "s": "2026-07-21T13:00:00Z",
+        "e": "2026-07-21T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2092,24 +2097,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-21T06:00:00Z",
-        "e": "2026-07-21T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Papaoul",
-        "s": "2026-07-21T09:00:00Z",
-        "e": "2026-07-21T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Cara Crosby",
         "s": "2026-07-21T11:00:00Z",
         "e": "2026-07-21T12:00:00Z",
@@ -2149,11 +2136,19 @@
       {
         "n": "Papa Nugs",
         "s": "2026-07-21T16:00:00Z",
-        "e": "2026-07-21T18:00:00Z",
+        "e": "2026-07-21T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "p": "papanugs"
+      },
+      {
+        "n": "LILI",
+        "s": "2026-07-21T17:00:00Z",
+        "e": "2026-07-21T18:00:00Z",
+        "d": null,
+        "j": "Get to know LILI",
+        "u": null
       },
       {
         "n": "La La",
@@ -2403,7 +2398,7 @@
         "s": "2026-07-21T18:00:00Z",
         "e": "2026-07-21T19:00:00Z",
         "d": null,
-        "j": "Alex Wilcox",
+        "j": null,
         "u": null,
         "t": "weekly"
       },
