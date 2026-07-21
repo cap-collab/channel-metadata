@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-21T11:41:58.230Z",
+  "updated": "2026-07-21T13:18:35.646Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ ASTRID SONNE",
-        "s": "2026-07-21T11:00:00+01:00",
-        "e": "2026-07-21T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-21st-july-2026",
-        "p": "astridsonne"
-      },
       {
         "n": "Low Life Loves You w/ Bill Brewster",
         "s": "2026-07-21T13:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-07-21T15:00:00+01:00",
         "e": "2026-07-21T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-21st-july-2026",
         "t": "weekly",
         "p": "margeaux"
       },
@@ -166,33 +157,29 @@
         "u": null,
         "t": "weekly",
         "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-07-22T13:00:00+01:00",
+        "e": "2026-07-22T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "GREAT SOUTHERN LANDS W/ JAMES W",
-        "s": "2026-07-21T12:00:00+01:00",
-        "e": "2026-07-21T13:00:00+01:00",
-        "d": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
-        "j": "JAMES W",
-        "u": "https://www.nts.live/api/v2/shows/great-southern-lands/episodes/great-southern-lands-21st-july-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Ibukun Sunday",
-        "s": "2026-07-21T13:00:00+01:00",
-        "e": "2026-07-21T14:00:00+01:00",
-        "d": "Nigerian ambient producer Ibkun Sunday shares an hour of still ambient sonics, exploring faith and reverence. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ibukun-sunday-21st-july-2026"
-      },
-      {
         "n": "ARRHYTHMIA",
         "s": "2026-07-21T14:00:00+01:00",
         "e": "2026-07-21T16:00:00+01:00",
-        "d": null,
+        "d": "Broadcasting out of Birmingham, Arrhythmia is a monthly exploration of interesting new audio and abnormal rhythms. Expect irregular, dark or heavy - but not always.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ARRHYTHMIA/episodes/ARRHYTHMIA-21st-july-2026",
         "t": "monthly",
         "p": "arrhythmia"
       },
@@ -200,9 +187,9 @@
         "n": "Roadkill Ikebana",
         "s": "2026-07-21T16:00:00+01:00",
         "e": "2026-07-21T17:00:00+01:00",
-        "d": null,
+        "d": "Textured, grubby sounds and luscious melodies selected by Annabelle Mödlinger, artist and member of The Umlauts.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/roadkill-ikebana/episodes/roadkill-ikebana-21st-july-2026",
         "t": "monthly",
         "p": "roadkillikebana"
       },
@@ -330,29 +317,27 @@
         "u": null,
         "t": "restream",
         "p": "foragerrecords"
+      },
+      {
+        "n": "A Colourful Storm A Colourful Storm - Spring Tide (R)",
+        "s": "2026-07-22T09:00:00+01:00",
+        "e": "2026-07-22T10:00:00+01:00",
+        "d": null,
+        "j": "Spring Tide",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Jim O'Rourke  (R)",
+        "s": "2026-07-22T10:00:00+01:00",
+        "e": "2026-07-22T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": " Ovrtic",
-        "s": "2026-07-21T10:00:00Z",
-        "e": "2026-07-21T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "ovrtic"
-      },
-      {
-        "n": "drisk",
-        "s": "2026-07-21T12:00:00Z",
-        "e": "2026-07-21T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "drisk"
-      },
       {
         "n": "Launcher",
         "s": "2026-07-21T13:00:00Z",
@@ -1533,18 +1518,29 @@
         "u": null,
         "t": "monthly",
         "p": "localmovements"
+      },
+      {
+        "n": "Liquid Vault w/ Half-Life",
+        "s": "2026-07-28T12:00:00Z",
+        "e": "2026-07-28T13:00:00Z",
+        "d": null,
+        "j": "Half",
+        "u": null,
+        "t": "monthly",
+        "p": "half"
+      },
+      {
+        "n": "Silk Road Sessions w/ YVES",
+        "s": "2026-07-28T13:00:00Z",
+        "e": "2026-07-28T14:00:00Z",
+        "d": null,
+        "j": "YVES",
+        "u": null,
+        "t": "monthly",
+        "p": "yves"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-07-21T11:00:00Z",
-        "e": "2026-07-21T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-07-21T13:00:00Z",
@@ -2097,31 +2093,17 @@
     ],
     "rinse": [
       {
-        "n": "Cara Crosby",
-        "s": "2026-07-21T11:00:00Z",
-        "e": "2026-07-21T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Suzie Bakos",
-        "s": "2026-07-21T12:00:00Z",
-        "e": "2026-07-21T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Manuel Darquart",
+        "n": "Adventures In Paradise with Manuel Darquart",
         "s": "2026-07-21T13:00:00Z",
         "e": "2026-07-21T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Slapped together some house records I've bought recently for an hour of power",
         "u": null,
-        "p": "manueldarquart"
+        "t": "monthly",
+        "p": "manueldarquart",
+        "ap": [
+          "paradise"
+        ]
       },
       {
         "n": "Brighter Days Family",
@@ -2338,15 +2320,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-07-21T07:00:00Z",
-        "e": "2026-07-21T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Whitney Weiss",
         "s": "2026-07-21T12:00:00Z",
         "e": "2026-07-21T14:00:00Z",
@@ -2357,13 +2330,13 @@
         "p": "whitneyweiss"
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "Louis Roméo",
         "s": "2026-07-21T14:00:00Z",
         "e": "2026-07-21T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "monthly"
       },
       {
         "n": "Jeune à Jamais",
@@ -2394,13 +2367,13 @@
         "t": "monthly"
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "TTristana",
         "s": "2026-07-21T18:00:00Z",
         "e": "2026-07-21T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "monthly"
       },
       {
         "n": "Playlist France",
@@ -2503,17 +2476,7 @@
         "t": "playlist"
       }
     ],
-    "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-07-21T05:00:00Z",
-        "e": "2026-07-21T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      }
-    ],
+    "newtown": [],
     "sutro": [
       {
         "n": "Ommaya Presents",
