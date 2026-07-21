@@ -1,35 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-21T05:12:36.370Z",
+  "updated": "2026-07-21T08:09:09.382Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOPHIA ZHURAVKOVA (R)",
-        "s": "2026-07-21T06:00:00+01:00",
-        "e": "2026-07-21T07:00:00+01:00",
-        "d": "Organic soundscapes, field recordings and melodic ambience from composer Sophia Zhuravkova.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sophia-zhuravkova/episodes/sophia-zhuravkova-6th-october-2024",
-        "t": "restream",
-        "p": "sophiazhuravkova"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-07-21T07:00:00+01:00",
-        "e": "2026-07-21T09:00:00+01:00",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-21st-july-2026",
-        "t": "weekly",
-        "p": "mariasomerville"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-07-21T09:00:00+01:00",
         "e": "2026-07-21T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-21st-july-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -168,35 +148,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2026-07-22T07:00:00+01:00",
+        "e": "2026-07-22T09:00:00+01:00",
+        "d": null,
+        "j": "SPIRIT BLUE",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "Mishka  (R)",
-        "s": "2026-07-21T06:00:00+01:00",
-        "e": "2026-07-21T07:00:00+01:00",
-        "d": "An auditory exploration with SF native Mishka ranging from synth pop and balearic to softrock and global dance gems. One hour, once a month, with love. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mishka/episodes/mishka-18th-july-2025",
-        "t": "restream",
-        "p": "mishka"
-      },
-      {
-        "n": "Kiss Cafe w/ Maraschino (R)",
-        "s": "2026-07-21T07:00:00+01:00",
-        "e": "2026-07-21T08:00:00+01:00",
-        "d": "Piper Durabo AKA Maraschino serves up an assortment of hyperdelic jams from her NYC HQ",
-        "j": "Maraschino",
-        "u": "https://www.nts.live/api/v2/shows/piper-durabo/episodes/piper-durabo-15th-july-2025",
-        "t": "restream"
-      },
-      {
         "n": "TUFF SHED (R)",
         "s": "2026-07-21T08:00:00+01:00",
         "e": "2026-07-21T10:00:00+01:00",
-        "d": null,
+        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-1st-july-2025",
         "t": "restream",
         "p": "tuffshed"
       },
@@ -204,9 +174,9 @@
         "n": "AN1MA (R)",
         "s": "2026-07-21T10:00:00+01:00",
         "e": "2026-07-21T11:00:00+01:00",
-        "d": null,
+        "d": "integration sounds from the source; an invitation into the shadow.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-3rd-november-2025",
         "t": "restream"
       },
       {
@@ -336,35 +306,34 @@
         "j": "Peru Post Punk (1985–1991)",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "DEMYSTIFICATION RADIO HOUR W/ AARON MELNICK",
+        "s": "2026-07-22T04:00:00+01:00",
+        "e": "2026-07-22T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "WORD OF COMMAND",
+        "s": "2026-07-22T05:00:00+01:00",
+        "e": "2026-07-22T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
       {
         "n": "Subtle Selects",
-        "s": "2026-07-21T04:00:00Z",
-        "e": "2026-07-21T06:00:00Z",
+        "s": "2026-07-21T08:00:00Z",
+        "e": "2026-07-21T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "THE CULTURE HEAD w. SAINT VOX",
-        "s": "2026-07-21T06:00:00Z",
-        "e": "2026-07-21T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Ardishko",
-        "s": "2026-07-21T07:00:00Z",
-        "e": "2026-07-21T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
         "n": "Albert Moon",
@@ -1529,23 +1498,52 @@
         "u": null,
         "t": "monthly",
         "p": "albh"
+      },
+      {
+        "n": "Ms Chief",
+        "s": "2026-07-28T06:00:00Z",
+        "e": "2026-07-28T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "mschief"
+      },
+      {
+        "n": "Azadi Sound",
+        "s": "2026-07-28T07:00:00Z",
+        "e": "2026-07-28T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "azadisound"
+      },
+      {
+        "n": "Scampi",
+        "s": "2026-07-28T08:00:00Z",
+        "e": "2026-07-28T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "scampi"
       }
     ],
     "dublab": [
       {
-        "n": "Brennan - Unresolved Dependencies",
-        "s": "2026-07-21T05:00:00Z",
-        "e": "2026-07-21T07:00:00Z",
-        "d": null,
-        "j": "Unresolved Dependencies",
-        "u": null,
-        "t": "monthly",
-        "p": "brennan"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-07-21T07:00:00Z",
         "e": "2026-07-21T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-07-21T09:00:00Z",
+        "e": "2026-07-21T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2094,15 +2092,6 @@
     ],
     "rinse": [
       {
-        "n": "JD. REID",
-        "s": "2026-07-21T05:00:00Z",
-        "e": "2026-07-21T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "jdreid"
-      },
-      {
         "n": "Playlist",
         "s": "2026-07-21T06:00:00Z",
         "e": "2026-07-21T09:00:00Z",
@@ -2355,15 +2344,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-20T22:00:00Z",
-        "e": "2026-07-21T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-21T07:00:00Z",
         "e": "2026-07-21T12:00:00Z",
         "d": null,
@@ -2372,9 +2352,92 @@
         "t": "playlist"
       },
       {
-        "n": "MENTAL HEALTH RADIO par Stencia",
+        "n": "Whitney Weiss",
         "s": "2026-07-21T12:00:00Z",
-        "e": "2026-07-21T13:00:00Z",
+        "e": "2026-07-21T14:00:00Z",
+        "d": null,
+        "j": "it's Whitney, Bitch with Headphones Girl",
+        "u": null,
+        "t": "biweekly",
+        "p": "whitneyweiss"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-07-21T14:00:00Z",
+        "e": "2026-07-21T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Jeune à Jamais",
+        "s": "2026-07-21T15:00:00Z",
+        "e": "2026-07-21T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jeunejamais"
+      },
+      {
+        "n": "Lola Ondikwa",
+        "s": "2026-07-21T16:00:00Z",
+        "e": "2026-07-21T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Nyege Nyege",
+        "s": "2026-07-21T17:00:00Z",
+        "e": "2026-07-21T18:00:00Z",
+        "d": null,
+        "j": "Masaka Masaka",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-07-21T18:00:00Z",
+        "e": "2026-07-21T19:00:00Z",
+        "d": null,
+        "j": "Alex Wilcox",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-21T19:00:00Z",
+        "e": "2026-07-21T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-21T22:00:00Z",
+        "e": "2026-07-22T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-22T07:00:00Z",
+        "e": "2026-07-22T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "MENTAL HEALTH RADIO par Stencia",
+        "s": "2026-07-22T12:00:00Z",
+        "e": "2026-07-22T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2382,8 +2445,8 @@
       },
       {
         "n": "WEDOMiEL",
-        "s": "2026-07-21T13:00:00Z",
-        "e": "2026-07-21T14:00:00Z",
+        "s": "2026-07-22T13:00:00Z",
+        "e": "2026-07-22T14:00:00Z",
         "d": null,
         "j": "invite CKAY",
         "u": null,
@@ -2392,8 +2455,8 @@
       },
       {
         "n": "NegoO",
-        "s": "2026-07-21T14:00:00Z",
-        "e": "2026-07-21T15:00:00Z",
+        "s": "2026-07-22T14:00:00Z",
+        "e": "2026-07-22T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2401,8 +2464,8 @@
       },
       {
         "n": "Lola Ondikwa",
-        "s": "2026-07-21T15:00:00Z",
-        "e": "2026-07-21T16:00:00Z",
+        "s": "2026-07-22T15:00:00Z",
+        "e": "2026-07-22T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2410,8 +2473,8 @@
       },
       {
         "n": "Feadz",
-        "s": "2026-07-21T16:00:00Z",
-        "e": "2026-07-21T17:00:00Z",
+        "s": "2026-07-22T16:00:00Z",
+        "e": "2026-07-22T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2420,8 +2483,8 @@
       },
       {
         "n": "GЯEG",
-        "s": "2026-07-21T17:00:00Z",
-        "e": "2026-07-21T18:00:00Z",
+        "s": "2026-07-22T17:00:00Z",
+        "e": "2026-07-22T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2429,16 +2492,16 @@
       },
       {
         "n": "De Grandi",
-        "s": "2026-07-21T18:00:00Z",
-        "e": "2026-07-21T19:00:00Z",
+        "s": "2026-07-22T18:00:00Z",
+        "e": "2026-07-22T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-21T19:00:00Z",
-        "e": "2026-07-21T20:00:00Z",
+        "s": "2026-07-22T19:00:00Z",
+        "e": "2026-07-22T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
