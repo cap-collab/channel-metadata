@@ -1,41 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-22T20:55:43.796Z",
+  "updated": "2026-07-22T22:54:06.687Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Hekt",
-        "s": "2026-07-22T21:00:00+01:00",
-        "e": "2026-07-22T22:00:00+01:00",
-        "d": "An hour of hyperactive new club business from Copenhagen neo-EDM producer Hekt. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/hekt-22nd-july-2026"
-      },
-      {
-        "n": "TURMERIC W/ THE TWINS",
-        "s": "2026-07-22T22:00:00+01:00",
-        "e": "2026-07-22T23:00:00+01:00",
-        "d": "Fraternal party starters The Twins takeover for regular trips into electroclash, experimental electronics, and Desi sounds, inviting on boundary pushing collaborators and friends. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-twins/episodes/the-twins-22nd-july-2026",
-        "p": "thetwins"
-      },
       {
         "n": "LOW INCOME $QUAD",
         "s": "2026-07-22T23:00:00+01:00",
         "e": "2026-07-23T00:00:00+01:00",
-        "d": null,
+        "d": "Croatian DIY label Low Income $quad showcase their catalogue and extended family of producers - Expect neo trance sounds, reworked Memphis rap acapellas, 90s-inspired fast techno and noisy experimentalism.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/low-income-squad/episodes/low-income-squad-22nd-july-2026",
         "t": "monthly"
       },
       {
         "n": "CDMX TAPES W/ PHRAN & WOST (R)",
         "s": "2026-07-23T00:00:00+01:00",
         "e": "2026-07-23T02:00:00+01:00",
-        "d": null,
+        "d": "Mexican record label, Naafi, settle in at NTS for a showcase of the weirdest experimentations in club culture that have bubbled to the surface of Soundcloud. Dazed rhythms converging into Jersey stutters, and tumblr-era trap for two straight hours on a Monday.",
         "j": "PHRAN & WOST",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/naafi/episodes/naafi-27th-february-2026",
         "t": "restream"
       },
       {
@@ -162,17 +145,28 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "DON'T TRIP W/ MARGARITA",
+        "s": "2026-07-24T00:00:00+01:00",
+        "e": "2026-07-24T02:00:00+01:00",
+        "d": null,
+        "j": "MARGARITA",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Lee Gamble (R)",
+        "s": "2026-07-24T02:00:00+01:00",
+        "e": "2026-07-24T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "leegamble"
       }
     ],
     "nts2": [
-      {
-        "n": "Solid State Survivor - Angel'in Heavy Syrup Special",
-        "s": "2026-07-22T21:00:00+01:00",
-        "e": "2026-07-22T22:00:00+01:00",
-        "d": "Broadcasting from LA, Shags dives deep into his wild array of records, bringing a strong thematic focus each month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/solid-state-survivor/episodes/solid-state-survivor-22nd-july-2026"
-      },
       {
         "n": "IN FOCUS: BLACK SABBATH (R)",
         "s": "2026-07-22T22:00:00+01:00",
@@ -186,9 +180,9 @@
         "n": "KRANKY",
         "s": "2026-07-23T00:00:00+01:00",
         "e": "2026-07-23T01:00:00+01:00",
-        "d": null,
+        "d": "The inimitable Kranky Ltd, live from LA once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kranky/episodes/kranky-23rd-july-2026",
         "t": "monthly",
         "p": "kranky"
       },
@@ -335,28 +329,19 @@
         "j": "all kind music",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "AUTOTUNE THE WORLD W/ CHRISTOPHER KIRKLEY",
+        "s": "2026-07-23T16:00:00+01:00",
+        "e": "2026-07-23T17:00:00+01:00",
+        "d": null,
+        "j": "CHRISTOPHER KIRKLEY",
+        "u": null,
+        "t": "monthly",
+        "p": "christopherkirkley"
       }
     ],
     "subtle": [
-      {
-        "n": "INIT6",
-        "s": "2026-07-22T20:00:00Z",
-        "e": "2026-07-22T21:00:00Z",
-        "d": "Hailing from northern Italy, STANDARD is a collective of artists, DJs and producers that aims at the promotion of bass music: Garage, UK Funky, Breaks, Leftfield Bass, Leftfield Techno, Dubstep, everything in between and beyond. They focus on the Italian Bass scene, showcasing new up-and-coming artists as well as established talents from all over the peninsula.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "init6"
-      },
-      {
-        "n": "Judder Show ",
-        "s": "2026-07-22T21:00:00Z",
-        "e": "2026-07-22T22:00:00Z",
-        "d": "Oddkut is a producer & DJ hailing from Balakovo City, Russia. He's part of the Russian collective \"United Gang\" who are a Moscow-based community of local musicians, DJ's and promoters teamed up by their genuine love & interest in UK underground music, \"TAЭT VREMYA\" art group and the creator of the Moscow parties \"Judder\".",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Riska",
         "s": "2026-07-22T22:00:00Z",
@@ -1386,28 +1371,6 @@
     ],
     "dublab": [
       {
-        "n": "Jennifer Herrema and Kurt Midness - The Banana Question",
-        "s": "2026-07-22T19:00:00Z",
-        "e": "2026-07-22T21:00:00Z",
-        "d": null,
-        "j": "The Banana Question",
-        "u": null,
-        "t": "monthly",
-        "p": "jenniferherrema",
-        "ap": [
-          "kurtmidness"
-        ]
-      },
-      {
-        "n": "Sophie Fan – Intertidal",
-        "s": "2026-07-22T21:00:00Z",
-        "e": "2026-07-22T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "sophie"
-      },
-      {
         "n": "RERUN Witching Hours",
         "s": "2026-07-22T22:00:00Z",
         "e": "2026-07-22T23:00:00Z",
@@ -1934,28 +1897,6 @@
     ],
     "rinse": [
       {
-        "n": "salute",
-        "s": "2026-07-22T20:00:00Z",
-        "e": "2026-07-22T21:00:00Z",
-        "d": null,
-        "j": "Rinse HQ003",
-        "u": null,
-        "p": "salute"
-      },
-      {
-        "n": "1985 Music",
-        "s": "2026-07-22T21:00:00Z",
-        "e": "2026-07-22T22:00:00Z",
-        "d": null,
-        "j": "Hijinx",
-        "u": null,
-        "t": "biweekly",
-        "p": "1985music",
-        "ap": [
-          "hijinx"
-        ]
-      },
-      {
         "n": "shekdash",
         "s": "2026-07-22T22:00:00Z",
         "e": "2026-07-22T23:00:00Z",
@@ -2125,15 +2066,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-22T19:00:00Z",
-        "e": "2026-07-22T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-22T22:00:00Z",
