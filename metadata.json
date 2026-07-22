@@ -1,25 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-22T08:09:29.738Z",
+  "updated": "2026-07-22T11:42:02.992Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-07-22T09:00:00+01:00",
-        "e": "2026-07-22T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-22nd-july-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-07-22T11:00:00+01:00",
         "e": "2026-07-22T13:00:00+01:00",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-22nd-july-2026",
         "t": "weekly",
         "p": "shyone"
       },
@@ -27,9 +17,9 @@
         "n": "LUNCH CLUB w/ FINN",
         "s": "2026-07-22T13:00:00+01:00",
         "e": "2026-07-22T14:00:00+01:00",
-        "d": null,
+        "d": "Dance music with feeling, lunch time with Finn",
         "j": "FINN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lunch-club/episodes/lunch-club-22nd-july-2026",
         "t": "weekly",
         "p": "finn",
         "ap": [
@@ -164,43 +154,34 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-07-23T11:00:00+01:00",
+        "e": "2026-07-23T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Fauzia",
+        "s": "2026-07-23T13:00:00+01:00",
+        "e": "2026-07-23T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "fauzia"
       }
     ],
     "nts2": [
       {
-        "n": "A Colourful Storm A Colourful Storm - Spring Tide (R)",
-        "s": "2026-07-22T09:00:00+01:00",
-        "e": "2026-07-22T10:00:00+01:00",
-        "d": "A Colourful Storm from label head Moopie, featuring contemplative ambience, folksong and indie-pop melancholia, contemporary electronics and beyond.",
-        "j": "Spring Tide",
-        "u": "https://www.nts.live/api/v2/shows/a-colourful-storm/episodes/a-colourful-storm-4th-november-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Jim O'Rourke  (R)",
-        "s": "2026-07-22T10:00:00+01:00",
-        "e": "2026-07-22T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "KALI MALONE (R)",
-        "s": "2026-07-22T11:00:00+01:00",
-        "e": "2026-07-22T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "HTRK",
         "s": "2026-07-22T12:00:00+01:00",
         "e": "2026-07-22T13:00:00+01:00",
-        "d": null,
+        "d": "New releases and current inspirations from your hosts Jonnine Standish and Nigel Yang aka HTRK.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/htrk/episodes/htrk-22nd-july-2026",
         "t": "monthly",
         "p": "htrk"
       },
@@ -208,9 +189,9 @@
         "n": "Through the Ground Floor Window w/ Abdullah Miniawy",
         "s": "2026-07-22T13:00:00+01:00",
         "e": "2026-07-22T14:00:00+01:00",
-        "d": null,
+        "d": "Egyptian artist, writer and composer Abdullah Miniawy presents the results of his research and searching for meaning across cultures. Recording sounds during his travels, encounters with tribes, and discoveries in the East. ",
         "j": "Abdullah Miniawy",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abdullah-miniawy/episodes/abdullah-miniawy-22nd-july-2026",
         "t": "monthly",
         "p": "abdullahminiawy"
       },
@@ -239,6 +220,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "REYMOUR (R)",
+        "s": "2026-07-22T17:00:00+01:00",
+        "e": "2026-07-22T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "NTS Guide to: Bedroom Screamo",
@@ -321,41 +311,38 @@
         "u": null,
         "t": "monthly",
         "p": "discostan"
+      },
+      {
+        "n": "Ganga Blues w/ Symrin (R)",
+        "s": "2026-07-23T04:00:00+01:00",
+        "e": "2026-07-23T05:00:00+01:00",
+        "d": null,
+        "j": "Symrin",
+        "u": null,
+        "t": "restream",
+        "p": "gangablues"
+      },
+      {
+        "n": "THE HEAD ZONE W/ RIPLEY JOHNSON",
+        "s": "2026-07-23T05:00:00+01:00",
+        "e": "2026-07-23T06:00:00+01:00",
+        "d": null,
+        "j": "RIPLEY JOHNSON",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Tuesday Trips w/ DJ Extraa & Aumni (R)",
+        "s": "2026-07-23T06:00:00+01:00",
+        "e": "2026-07-23T07:00:00+01:00",
+        "d": null,
+        "j": "DJ Extraa & Aumni",
+        "u": null,
+        "t": "restream",
+        "p": "tuesdaytrips"
       }
     ],
     "subtle": [
-      {
-        "n": "Sport Mode",
-        "s": "2026-07-22T08:00:00Z",
-        "e": "2026-07-22T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sportmode"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-07-22T09:00:00Z",
-        "e": "2026-07-22T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Touching Bass w/ timfromsales",
-        "s": "2026-07-22T10:00:00Z",
-        "e": "2026-07-22T11:00:00Z",
-        "d": null,
-        "j": "timfromsales",
-        "u": null,
-        "t": "monthly",
-        "p": "timfromsales",
-        "ap": [
-          "touchingbass"
-        ]
-      },
       {
         "n": "Selectors Support",
         "s": "2026-07-22T11:00:00Z",
@@ -1484,8 +1471,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-22T07:00:00Z",
-        "e": "2026-07-22T09:00:00Z",
+        "s": "2026-07-22T11:00:00Z",
+        "e": "2026-07-22T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1493,8 +1480,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-22T09:00:00Z",
-        "e": "2026-07-22T11:00:00Z",
+        "s": "2026-07-22T13:00:00Z",
+        "e": "2026-07-22T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2067,25 +2054,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-22T06:00:00Z",
-        "e": "2026-07-22T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Esk",
-        "s": "2026-07-22T09:00:00Z",
-        "e": "2026-07-22T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "esk"
-      },
-      {
         "n": "DJ Gilla",
         "s": "2026-07-22T11:00:00Z",
         "e": "2026-07-22T12:00:00Z",
@@ -2118,14 +2086,12 @@
         ]
       },
       {
-        "n": "Utopia Presents",
+        "n": "Utopia Presents with Drey, Last Nubian, Oscillation and residents",
         "s": "2026-07-22T14:00:00Z",
         "e": "2026-07-22T16:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "utopiapresents"
+        "j": "Live from the Carpet Shop",
+        "u": null
       },
       {
         "n": "Buckley",
@@ -2359,22 +2325,23 @@
         "p": "wedomiel"
       },
       {
-        "n": "NegoO",
+        "n": "Playlist France",
         "s": "2026-07-22T14:00:00Z",
         "e": "2026-07-22T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
-        "n": "Lola Ondikwa",
+        "n": "Bambi",
         "s": "2026-07-22T15:00:00Z",
         "e": "2026-07-22T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly",
+        "p": "bambi"
       },
       {
         "n": "Feadz",
@@ -2445,7 +2412,7 @@
         "s": "2026-07-23T14:00:00Z",
         "e": "2026-07-23T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "w/ Remi Harris & Tony Gazzo",
         "u": null,
         "t": "monthly",
         "p": "viegarantie"
