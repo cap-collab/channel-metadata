@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-23T11:45:29.467Z",
+  "updated": "2026-07-23T13:26:10.138Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ BABYSCHÖN",
-        "s": "2026-07-23T11:00:00+01:00",
-        "e": "2026-07-23T13:00:00+01:00",
-        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-23rd-july-2026"
-      },
       {
         "n": "Fauzia",
         "s": "2026-07-23T13:00:00+01:00",
@@ -25,9 +17,10 @@
         "n": "Secretsundaze w/ Unai Trotti",
         "s": "2026-07-23T15:00:00+01:00",
         "e": "2026-07-23T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "London based DJ, producer, curator, band-leader and 9FINITY label boss Secretsundaze live from the studio for a bi-monthly exploration of carefully filtered house music through the lens of the rave continuum. ",
+        "j": "Unai Trotti",
+        "u": "https://www.nts.live/api/v2/shows/secret-sundaze/episodes/secret-sundaze-23rd-july-2026",
+        "t": "monthly"
       },
       {
         "n": "OK WILLIAMS",
@@ -166,42 +159,34 @@
         "j": null,
         "u": null,
         "p": "selassietbc"
+      },
+      {
+        "n": "CHARISSE C",
+        "s": "2026-07-24T17:00:00+01:00",
+        "e": "2026-07-24T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "charissec"
       }
     ],
     "nts2": [
       {
-        "n": "Happy Death -  - LIKE A SUMMER THURSDAY",
-        "s": "2026-07-23T12:00:00+01:00",
-        "e": "2026-07-23T13:00:00+01:00",
-        "d": "Ed Horrox, the creative director and A&R from 4AD joins NTS once a month for an hour of his personal favourites, which can be pretty much anything: hip-hop, house, found ‘classics’, esoteric century-old jazz recordings, and then occasionally some of those unreleased leftfield pop bangers that 4AD seem to be so good at finding.\nFrom the host: \"A SUMMER SPECIAL : 16 SONGS THAT CELEBRATE SUMMER ONE WAY OR ANOTHER.\"",
-        "j": "- LIKE A SUMMER THURSDAY",
-        "u": "https://www.nts.live/api/v2/shows/happy-death/episodes/happy-death-23rd-july-2026",
-        "t": "monthly",
-        "p": "happydeath"
-      },
-      {
-        "n": "FRAGRANT SACRIFICE w/ NAIMA Nefertari",
-        "s": "2026-07-23T13:00:00+01:00",
-        "e": "2026-07-23T14:00:00+01:00",
-        "d": "Artist & composer Naima Karlsson explores esoteric themes through the mediums of spiritual & free jazz, idiosyncratic folk music, spoken word, improvisation and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/naima/episodes/naima-23rd-july-2026"
-      },
-      {
         "n": "Rita P",
         "s": "2026-07-23T14:00:00+01:00",
         "e": "2026-07-23T15:00:00+01:00",
-        "d": null,
+        "d": "London based Danish songwriter and musician Rita P shares an hour of inspirations and all time favorites.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/rita-p-23rd-july-2026"
       },
       {
         "n": "GEORGIA: all kind music",
         "s": "2026-07-23T15:00:00+01:00",
         "e": "2026-07-23T16:00:00+01:00",
-        "d": null,
+        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
         "j": "all kind music",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-23rd-july-2026",
         "t": "monthly"
       },
       {
@@ -333,27 +318,28 @@
         "u": null,
         "t": "restream",
         "p": "geologist"
+      },
+      {
+        "n": "Aloha Got Soul  (R)",
+        "s": "2026-07-24T07:00:00+01:00",
+        "e": "2026-07-24T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Trapdoor w/ Neil Krug (R)",
+        "s": "2026-07-24T08:00:00+01:00",
+        "e": "2026-07-24T09:00:00+01:00",
+        "d": null,
+        "j": "Neil Krug",
+        "u": null,
+        "t": "restream",
+        "p": "neilkrug"
       }
     ],
     "subtle": [
-      {
-        "n": "Brooklyn Loves UKG",
-        "s": "2026-07-23T11:00:00Z",
-        "e": "2026-07-23T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "UNTZ",
-        "s": "2026-07-23T12:00:00Z",
-        "e": "2026-07-23T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "ZERO Dijits",
         "s": "2026-07-23T13:00:00Z",
@@ -1285,8 +1271,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-23T10:00:00Z",
-        "e": "2026-07-23T12:00:00Z",
+        "s": "2026-07-23T12:00:00Z",
+        "e": "2026-07-23T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1294,8 +1280,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-23T12:00:00Z",
-        "e": "2026-07-23T14:00:00Z",
+        "s": "2026-07-23T14:00:00Z",
+        "e": "2026-07-23T15:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1781,34 +1767,6 @@
     ],
     "rinse": [
       {
-        "n": "Uncle Dugs",
-        "s": "2026-07-23T10:00:00Z",
-        "e": "2026-07-23T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "uncledugs"
-      },
-      {
-        "n": "Behind This Wall",
-        "s": "2026-07-23T11:00:00Z",
-        "e": "2026-07-23T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-07-23T12:00:00Z",
-        "e": "2026-07-23T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "skvibemaker"
-      },
-      {
         "n": "Braga Circuit",
         "s": "2026-07-23T13:00:00Z",
         "e": "2026-07-23T14:00:00Z",
@@ -2020,24 +1978,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-23T07:00:00Z",
-        "e": "2026-07-23T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-07-23T12:00:00Z",
-        "e": "2026-07-23T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "TONAK.fm",
         "s": "2026-07-23T13:00:00Z",
