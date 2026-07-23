@@ -1,39 +1,19 @@
 {
   "v": 2,
-  "updated": "2026-07-23T05:19:55.969Z",
+  "updated": "2026-07-23T08:13:06.410Z",
   "stations": {
     "nts1": [
       {
-        "n": "Benedek w/ Juan Izguerra (R)",
-        "s": "2026-07-23T06:00:00+01:00",
-        "e": "2026-07-23T07:00:00+01:00",
-        "d": "Benedek B2B w/ Juan Izguerra",
-        "j": "Juan Izguerra",
-        "u": "https://www.nts.live/api/v2/shows/benedek/episodes/benedek-4th-march-2022",
-        "t": "restream",
-        "p": "benedek",
-        "ap": [
-          "juanizguerra"
-        ]
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-07-23T07:00:00+01:00",
-        "e": "2026-07-23T09:00:00+01:00",
-        "d": "PAM, previously host of beloved NTS show Okonkole Y Trompa, joins you for a dawn chorus every Thursday. Traversing obscure rarities, globetrotting vintage pop and beyond.",
-        "j": "PAM",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-w-pam/episodes/early-bird-show-w-pam-23rd-july-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "n": "THE NTS BREAKFAST SHOW W/ FLO & ok williams",
         "s": "2026-07-23T09:00:00+01:00",
         "e": "2026-07-23T11:00:00+01:00",
-        "d": null,
-        "j": "FLO",
-        "u": null,
-        "t": "regular",
-        "p": "flo"
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-23rd-july-2026",
+        "p": "flo",
+        "ap": [
+          "okwilliams"
+        ]
       },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
@@ -170,49 +150,25 @@
         "u": null,
         "t": "biweekly",
         "p": "lilc"
+      },
+      {
+        "n": "FREEWATER W/ WASÉ TAIWO & VNTAGEPARADISE",
+        "s": "2026-07-24T14:00:00+01:00",
+        "e": "2026-07-24T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "freewater"
       }
     ],
     "nts2": [
       {
-        "n": "Tuesday Trips w/ DJ Extraa & Aumni (R)",
-        "s": "2026-07-23T06:00:00+01:00",
-        "e": "2026-07-23T07:00:00+01:00",
-        "d": "NahhG hosts Tuesday Trips, exploring the different sounds of underground beats and hip-hop alongside special guest mixes from current beatmakers and curators. - Live once a month",
-        "j": "DJ Extraa & Aumni",
-        "u": "https://www.nts.live/api/v2/shows/tuesday-trips/episodes/tuesday-trips-17th-june-2025",
-        "t": "restream",
-        "p": "tuesdaytrips"
-      },
-      {
-        "n": "No ID Radio w/ Anysia Kym (R)",
-        "s": "2026-07-23T07:00:00+01:00",
-        "e": "2026-07-23T08:00:00+01:00",
-        "d": "NYC-based producer, songwriter, and multi-instrumentalist Anysia Kym shares a monthly compilation of her favourite tracks, right now and of all time; she flips a song of her choice at the start of each hour-long episode.",
-        "j": "Anysia Kym",
-        "u": "https://www.nts.live/api/v2/shows/anysia-kym/episodes/anysia-kym-14th-february-2025",
-        "t": "restream",
-        "p": "anysiakym"
-      },
-      {
-        "n": "HOMUNKULI W/ LENA WILLIKENS (R)",
-        "s": "2026-07-23T08:00:00+01:00",
-        "e": "2026-07-23T09:00:00+01:00",
-        "d": null,
-        "j": "LENA WILLIKENS",
-        "u": null,
-        "t": "restream",
-        "p": "homunkuli",
-        "ap": [
-          "lenawillikens"
-        ]
-      },
-      {
         "n": "Gribs (R)",
         "s": "2026-07-23T09:00:00+01:00",
         "e": "2026-07-23T10:00:00+01:00",
-        "d": null,
+        "d": "Gribs & clxo's daydream, supported with guidance from numerous 8-legged mentors. Featuring words from El Morgan, author of Gossamer Days.\nhttps://www.instagram.com/clo.xyz/\nhttps://eleanormorgan.com/",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gribs/episodes/gribs-7th-march-2023",
         "t": "restream",
         "p": "gribs"
       },
@@ -342,36 +298,28 @@
         "u": null,
         "t": "monthly",
         "p": "budgie"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-07-23T03:00:00Z",
-        "e": "2026-07-23T06:00:00Z",
+        "n": "CASUAL PLAY W/ SPINORITA",
+        "s": "2026-07-24T00:00:00+01:00",
+        "e": "2026-07-24T01:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "p": "casualplay"
       },
       {
-        "n": "Insider Trading w/ APOLLO",
-        "s": "2026-07-23T06:00:00Z",
-        "e": "2026-07-23T07:00:00Z",
+        "n": "THE LARGE",
+        "s": "2026-07-24T01:00:00+01:00",
+        "e": "2026-07-24T02:00:00+01:00",
         "d": null,
-        "j": "APOLLO",
+        "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "On Wax w/ Samuel Alexander",
-        "s": "2026-07-23T07:00:00Z",
-        "e": "2026-07-23T08:00:00Z",
-        "d": null,
-        "j": "Samuel Alexander",
-        "u": null,
-        "t": "monthly"
-      },
+        "t": "monthly",
+        "p": "thelarge"
+      }
+    ],
+    "subtle": [
       {
         "n": "Granada Vision",
         "s": "2026-07-23T08:00:00Z",
@@ -1337,18 +1285,18 @@
     ],
     "dublab": [
       {
-        "n": "Change of Heart",
-        "s": "2026-07-23T05:00:00Z",
-        "e": "2026-07-23T06:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-07-23T08:00:00Z",
+        "e": "2026-07-23T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-23T06:00:00Z",
-        "e": "2026-07-23T08:00:00Z",
+        "s": "2026-07-23T10:00:00Z",
+        "e": "2026-07-23T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1834,134 +1782,93 @@
     ],
     "rinse": [
       {
-        "n": "Cara Crosby",
-        "s": "2026-07-23T05:00:00Z",
-        "e": "2026-07-23T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Playlist",
         "s": "2026-07-23T06:00:00Z",
-        "e": "2026-07-23T09:00:00Z",
+        "e": "2026-07-23T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Perception",
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "Yazmin Lacey",
-        "s": "2026-07-23T09:00:00Z",
-        "e": "2026-07-23T11:00:00Z",
-        "d": null,
-        "j": "Polly Chronic",
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
-        "n": "Behind This Wall",
-        "s": "2026-07-23T11:00:00Z",
-        "e": "2026-07-23T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-07-23T12:00:00Z",
+        "n": "Uncle Dugs",
+        "s": "2026-07-23T10:00:00Z",
         "e": "2026-07-23T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly",
-        "p": "skvibemaker"
+        "p": "uncledugs"
       },
       {
-        "n": "Braga Circuit",
+        "n": "The MoodSwing Show",
         "s": "2026-07-23T13:00:00Z",
-        "e": "2026-07-23T14:00:00Z",
+        "e": "2026-07-23T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Perception",
         "u": null,
-        "p": "bragacircuit"
+        "t": "biweekly",
+        "p": "themoodswingshow"
       },
       {
-        "n": "Tom Ravenscroft",
-        "s": "2026-07-23T14:00:00Z",
-        "e": "2026-07-23T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "tomravenscroft"
-      },
-      {
-        "n": "Mona Yim",
-        "s": "2026-07-23T16:00:00Z",
+        "n": "Continental GT",
+        "s": "2026-07-23T15:00:00Z",
         "e": "2026-07-23T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "monayim"
+        "t": "monthly",
+        "p": "continentalgt"
       },
       {
-        "n": "Nancy June",
+        "n": "Roska",
         "s": "2026-07-23T17:00:00Z",
         "e": "2026-07-23T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "nancyjune"
+        "t": "monthly",
+        "p": "roska"
       },
       {
-        "n": "nora",
+        "n": "Silva Bumpa",
         "s": "2026-07-23T18:00:00Z",
-        "e": "2026-07-23T19:00:00Z",
-        "d": null,
-        "j": "Live from Rinse Summer Series 2026",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "LILI",
-        "s": "2026-07-23T19:00:00Z",
         "e": "2026-07-23T20:00:00Z",
         "d": null,
-        "j": "Live from Rinse Summer Series 2026",
+        "j": null,
         "u": null,
-        "t": "regular"
+        "t": "biweekly",
+        "p": "silvabumpa"
       },
       {
-        "n": "Anastazja",
+        "n": "Nyra",
         "s": "2026-07-23T20:00:00Z",
         "e": "2026-07-23T21:00:00Z",
         "d": null,
-        "j": "Live from Rinse Summer Series 2026",
+        "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "anastazja"
+        "p": "nyra"
       },
       {
-        "n": "Braga Circuit",
+        "n": "I. JORDAN",
         "s": "2026-07-23T21:00:00Z",
         "e": "2026-07-23T22:00:00Z",
         "d": null,
-        "j": "Live from Rinse Summer Series 2026",
+        "j": null,
         "u": null,
-        "p": "bragacircuit"
+        "t": "monthly",
+        "p": "ijordan"
       },
       {
-        "n": "Taylah Elaine",
+        "n": "ANTIDOTO",
         "s": "2026-07-23T22:00:00Z",
         "e": "2026-07-23T23:00:00Z",
         "d": null,
-        "j": "Live from Rinse Summer Series 2026",
+        "j": null,
         "u": null,
-        "p": "taylahelaine"
+        "t": "biweekly",
+        "p": "antidoto"
       },
       {
         "n": "JAEL",
@@ -1969,7 +1876,8 @@
         "e": "2026-07-24T01:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Electronic Playlist",
@@ -1987,7 +1895,6 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
         "p": "eclecticist"
       },
       {
@@ -2046,7 +1953,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "silvabumpa"
       },
       {
@@ -2076,20 +1983,11 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "antidoto"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-22T22:00:00Z",
-        "e": "2026-07-23T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-23T07:00:00Z",
@@ -2100,17 +1998,105 @@
         "t": "playlist"
       },
       {
-        "n": "Labouts",
+        "n": "Playlist France",
         "s": "2026-07-23T12:00:00Z",
         "e": "2026-07-23T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "TONAK.fm",
+        "s": "2026-07-23T13:00:00Z",
+        "e": "2026-07-23T14:00:00Z",
+        "d": null,
+        "j": "Music For The Soul #20 (w/ Wally Badarou & Errol [Touching Bass])",
+        "u": null,
+        "p": "touchingbass"
+      },
+      {
+        "n": "Vie Garantie",
+        "s": "2026-07-23T14:00:00Z",
+        "e": "2026-07-23T15:00:00Z",
+        "d": null,
+        "j": "w/ Remi Harris & Tony Gazzo",
+        "u": null,
+        "t": "monthly",
+        "p": "viegarantie"
+      },
+      {
+        "n": "Kaïlys",
+        "s": "2026-07-23T15:00:00Z",
+        "e": "2026-07-23T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Gaîté L'Été",
+        "s": "2026-07-23T16:00:00Z",
+        "e": "2026-07-23T17:30:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Gaîté L'Été",
+        "s": "2026-07-23T17:30:00Z",
+        "e": "2026-07-23T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Gaîté L'Été",
+        "s": "2026-07-23T18:00:00Z",
+        "e": "2026-07-23T19:30:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-23T19:30:00Z",
+        "e": "2026-07-23T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-23T22:00:00Z",
+        "e": "2026-07-24T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-24T07:00:00Z",
+        "e": "2026-07-24T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Labouts",
+        "s": "2026-07-24T12:00:00Z",
+        "e": "2026-07-24T13:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Rinse France Guest Show",
-        "s": "2026-07-23T13:00:00Z",
-        "e": "2026-07-23T14:00:00Z",
+        "s": "2026-07-24T13:00:00Z",
+        "e": "2026-07-24T14:00:00Z",
         "d": null,
         "j": "BMP",
         "u": null,
@@ -2118,8 +2104,8 @@
       },
       {
         "n": "Mel V",
-        "s": "2026-07-23T14:00:00Z",
-        "e": "2026-07-23T15:00:00Z",
+        "s": "2026-07-24T14:00:00Z",
+        "e": "2026-07-24T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2127,8 +2113,8 @@
       },
       {
         "n": "Boukan Records",
-        "s": "2026-07-23T15:00:00Z",
-        "e": "2026-07-23T16:00:00Z",
+        "s": "2026-07-24T15:00:00Z",
+        "e": "2026-07-24T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2137,8 +2123,8 @@
       },
       {
         "n": "Ohjeelo",
-        "s": "2026-07-23T16:00:00Z",
-        "e": "2026-07-23T17:00:00Z",
+        "s": "2026-07-24T16:00:00Z",
+        "e": "2026-07-24T17:00:00Z",
         "d": null,
         "j": "Bougé Cho avec UCHE",
         "u": null,
@@ -2147,8 +2133,8 @@
       },
       {
         "n": "rougail space program",
-        "s": "2026-07-23T17:00:00Z",
-        "e": "2026-07-23T18:00:00Z",
+        "s": "2026-07-24T17:00:00Z",
+        "e": "2026-07-24T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2156,8 +2142,8 @@
       },
       {
         "n": "ASIAN CORE",
-        "s": "2026-07-23T18:00:00Z",
-        "e": "2026-07-23T19:00:00Z",
+        "s": "2026-07-24T18:00:00Z",
+        "e": "2026-07-24T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2165,8 +2151,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-23T19:00:00Z",
-        "e": "2026-07-23T20:00:00Z",
+        "s": "2026-07-24T19:00:00Z",
+        "e": "2026-07-24T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
