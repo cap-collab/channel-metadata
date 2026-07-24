@@ -1,19 +1,10 @@
 {
   "v": 2,
-  "updated": "2026-07-24T08:09:13.305Z",
+  "updated": "2026-07-24T11:36:29.157Z",
   "stations": {
     "nts1": [
       {
-        "n": "The NTS Breakfast Show w/ Finn",
-        "s": "2026-07-24T09:00:00+01:00",
-        "e": "2026-07-24T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-finn-24th-july-2026",
-        "p": "finn"
-      },
-      {
-        "n": "SOUP TO NUTS W/ SCARY THINGS & K-trap",
+        "n": "SOUP TO NUTS W/ SCARY THINGS",
         "s": "2026-07-24T11:00:00+01:00",
         "e": "2026-07-24T13:00:00+01:00",
         "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
@@ -25,9 +16,9 @@
         "n": "PUM PUM POWER HOUR W/ LIL C",
         "s": "2026-07-24T13:00:00+01:00",
         "e": "2026-07-24T14:00:00+01:00",
-        "d": null,
+        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
         "j": "LIL C",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-24th-july-2026",
         "t": "biweekly",
         "p": "lilc"
       },
@@ -41,19 +32,17 @@
         "p": "freewater"
       },
       {
-        "n": "SLAP CITY W/ ARCHITECT",
+        "n": "SLAP CITY W/ MADJESTIC KASUAL",
         "s": "2026-07-24T15:00:00+01:00",
         "e": "2026-07-24T16:00:00+01:00",
         "d": null,
-        "j": "ARCHITECT",
-        "u": null,
-        "t": "monthly",
-        "p": "architect"
+        "j": null,
+        "u": null
       },
       {
         "n": "SELASSIE TBC W/ KJADE",
         "s": "2026-07-24T16:00:00+01:00",
-        "e": "2026-07-24T17:00:00+01:00",
+        "e": "2026-07-24T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
@@ -89,13 +78,12 @@
         "t": "monthly"
       },
       {
-        "n": "THE EXHIBITION HOUR W/ DAZEGXD",
+        "n": "THE EXHIBITION HOUR W/ Dazegxd & Dollmaker",
         "s": "2026-07-24T20:00:00+01:00",
         "e": "2026-07-24T21:00:00+01:00",
         "d": null,
-        "j": "DAZEGXD",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "dazegxd"
       },
       {
@@ -172,43 +160,35 @@
         "j": "Bulgarian Folk and Traditional",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Fervent Moon (R)",
+        "s": "2026-07-25T07:00:00+01:00",
+        "e": "2026-07-25T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "ferventmoon"
+      },
+      {
+        "n": "IN FOCUS: BILL EVANS (R)",
+        "s": "2026-07-25T08:00:00+01:00",
+        "e": "2026-07-25T10:00:00+01:00",
+        "d": null,
+        "j": "BILL EVANS",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "ICHIKO AOBA (R)",
-        "s": "2026-07-24T09:00:00+01:00",
-        "e": "2026-07-24T10:00:00+01:00",
-        "d": "Diving into the dreamscape of Japanese ambient folk phenomenon Ichiko Aoba. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ichiko-aoba/episodes/ichiko-aoba-2nd-july-2024",
-        "t": "restream"
-      },
-      {
-        "n": "MARTYN'S DARKEST LIGHT W/ CHRIS RICHARDS (LIVE FROM EATON.DC) (R)",
-        "s": "2026-07-24T10:00:00+01:00",
-        "e": "2026-07-24T11:00:00+01:00",
-        "d": "Tune into Martyn's monthly show on 2 for some delectable jazz treats from over the Atlantic. ",
-        "j": "CHRIS RICHARDS (LIVE FROM EATON.DC)",
-        "u": "https://www.nts.live/api/v2/shows/martyn/episodes/martyn-29th-november-2023",
-        "t": "restream"
-      },
-      {
-        "n": "In Focus: Margo Guryan",
-        "s": "2026-07-24T11:00:00+01:00",
-        "e": "2026-07-24T12:00:00+01:00",
-        "d": null,
-        "j": "Margo Guryan",
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "NTS Guide to: korean indie",
         "s": "2026-07-24T12:00:00+01:00",
         "e": "2026-07-24T13:00:00+01:00",
-        "d": null,
+        "d": "An hour of selections from Korea's indie rock scene, from the 90s to the early 2000s.\nImage: Electron Sheep",
         "j": "korean indie",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-korean-indie-24th-july-2026",
         "t": "weekly"
       },
       {
@@ -217,7 +197,7 @@
         "e": "2026-07-24T15:00:00+01:00",
         "d": null,
         "j": "Rising Vision Jazz",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-24th-july-2026",
         "t": "monthly"
       },
       {
@@ -336,36 +316,37 @@
         "u": null,
         "t": "restream",
         "p": "eyedress"
+      },
+      {
+        "n": "Image Search (R)",
+        "s": "2026-07-25T07:00:00+01:00",
+        "e": "2026-07-25T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "imagesearch"
+      },
+      {
+        "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
+        "s": "2026-07-25T08:00:00+01:00",
+        "e": "2026-07-25T10:00:00+01:00",
+        "d": null,
+        "j": "EXOTIC GARDENS",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ILLSEE (R)",
+        "s": "2026-07-25T10:00:00+01:00",
+        "e": "2026-07-25T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "B-HIND",
-        "s": "2026-07-24T08:00:00Z",
-        "e": "2026-07-24T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "op99 / late dawn ",
-        "s": "2026-07-24T09:00:00Z",
-        "e": "2026-07-24T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Household",
-        "s": "2026-07-24T10:00:00Z",
-        "e": "2026-07-24T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Lakey",
         "s": "2026-07-24T11:00:00Z",
@@ -1140,8 +1121,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-24T07:00:00Z",
-        "e": "2026-07-24T09:00:00Z",
+        "s": "2026-07-24T11:00:00Z",
+        "e": "2026-07-24T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1149,8 +1130,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-24T09:00:00Z",
-        "e": "2026-07-24T11:00:00Z",
+        "s": "2026-07-24T13:00:00Z",
+        "e": "2026-07-24T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1579,24 +1560,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-24T06:00:00Z",
-        "e": "2026-07-24T09:00:00Z",
-        "d": null,
-        "j": "Perception",
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Mornings with...",
-        "s": "2026-07-24T09:00:00Z",
-        "e": "2026-07-24T10:00:00Z",
-        "d": null,
-        "j": "Al Wootton",
-        "u": null,
-        "p": "alwootton"
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-07-24T10:00:00Z",
         "e": "2026-07-24T13:00:00Z",
@@ -1621,7 +1584,7 @@
         "s": "2026-07-24T15:00:00Z",
         "e": "2026-07-24T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Stepping Into The Weekend",
         "u": null,
         "t": "monthly",
         "p": "continentalgt"
