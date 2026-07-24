@@ -1,43 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-24T11:36:29.157Z",
+  "updated": "2026-07-24T13:18:55.746Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ SCARY THINGS",
-        "s": "2026-07-24T11:00:00+01:00",
-        "e": "2026-07-24T13:00:00+01:00",
-        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-24th-july-2026",
-        "p": "scarythings"
-      },
-      {
-        "n": "PUM PUM POWER HOUR W/ LIL C",
-        "s": "2026-07-24T13:00:00+01:00",
-        "e": "2026-07-24T14:00:00+01:00",
-        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
-        "j": "LIL C",
-        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-24th-july-2026",
-        "t": "biweekly",
-        "p": "lilc"
-      },
       {
         "n": "FREEWATER W/ WASÉ TAIWO & VNTAGEPARADISE",
         "s": "2026-07-24T14:00:00+01:00",
         "e": "2026-07-24T15:00:00+01:00",
-        "d": null,
+        "d": "Founders of Lagos’ new-age underground festival, FREEWATER, join NTS for a 6-show residency, diving deep into the next wave of Nigerian music. Each hour-long show explores our favorite jams from the city’s bubbling alternative scene, covering alt-afro, indie, electronic, and trap sounds shaping the future of Lagos’ underground.\nFrom the host: \"For this episode, Freewater welcomes Abuja-based artist and filmmaker Faruna for an hour-long mix that imagines vulnerability as a place rather than a feeling. Moving between alternative sounds from Nigeria and electronic, indie and experimental music from across the globe, the mix follows a simple\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/freewater/episodes/freewater-24th-july-2026",
         "p": "freewater"
       },
       {
         "n": "SLAP CITY W/ MADJESTIC KASUAL",
         "s": "2026-07-24T15:00:00+01:00",
         "e": "2026-07-24T16:00:00+01:00",
-        "d": null,
+        "d": "DJ and producer, Architect, blends Rap music of all flavours and forms. Connecting classic and contemporary sounds from the UK, US, Caribbean and beyond. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/architect/episodes/architect-24th-july-2026"
       },
       {
         "n": "SELASSIE TBC W/ KJADE",
@@ -153,13 +134,13 @@
         "t": "restream"
       },
       {
-        "n": "NTS Guide to: Bulgarian Folk and Traditional",
+        "n": "NTS Guide to: Bulgarian Folk and Traditional (R)",
         "s": "2026-07-25T06:00:00+01:00",
         "e": "2026-07-25T07:00:00+01:00",
         "d": null,
         "j": "Bulgarian Folk and Traditional",
         "u": null,
-        "t": "weekly"
+        "t": "restream"
       },
       {
         "n": "Fervent Moon (R)",
@@ -179,18 +160,29 @@
         "j": "BILL EVANS",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
+        "s": "2026-07-25T10:00:00+01:00",
+        "e": "2026-07-25T12:00:00+01:00",
+        "d": null,
+        "j": "MACCA",
+        "u": null,
+        "t": "biweekly",
+        "p": "macca"
+      },
+      {
+        "n": "ROSS ALLEN",
+        "s": "2026-07-25T12:00:00+01:00",
+        "e": "2026-07-25T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "rossallen"
       }
     ],
     "nts2": [
-      {
-        "n": "NTS Guide to: korean indie",
-        "s": "2026-07-24T12:00:00+01:00",
-        "e": "2026-07-24T13:00:00+01:00",
-        "d": "An hour of selections from Korea's indie rock scene, from the 90s to the early 2000s.\nImage: Electron Sheep",
-        "j": "korean indie",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-korean-indie-24th-july-2026",
-        "t": "weekly"
-      },
       {
         "n": "CAROLINA SOUL - Rising Vision Jazz",
         "s": "2026-07-24T13:00:00+01:00",
@@ -204,9 +196,9 @@
         "n": "Lynnée Denise",
         "s": "2026-07-24T15:00:00+01:00",
         "e": "2026-07-24T16:00:00+01:00",
-        "d": null,
+        "d": "Amsterdam-Johannesburg-based writer and interdisciplinary artist Lynnée Denise shares an hour of late ‘70s and ‘80s queer black dancefloor music that precedes the advent of house music.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/lynnee-denise-24th-july-2026"
       },
       {
         "n": "DISCO PICKLES W/ DRY CLEANING",
@@ -344,29 +336,18 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Lakey",
-        "s": "2026-07-24T11:00:00Z",
-        "e": "2026-07-24T12:00:00Z",
+        "n": "ROUGH VERSION w/ Camille Henrot",
+        "s": "2026-07-25T11:00:00+01:00",
+        "e": "2026-07-25T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "lakey"
-      },
-      {
-        "n": "Kiimi Presents: Club Hunni",
-        "s": "2026-07-24T12:00:00Z",
-        "e": "2026-07-24T13:00:00Z",
-        "d": null,
-        "j": "Club Hunni",
-        "u": null,
-        "t": "monthly",
-        "p": "kiimi"
-      },
+        "p": "roughversion"
+      }
+    ],
+    "subtle": [
       {
         "n": "Gimme Signal radio w/ Kim Öhman",
         "s": "2026-07-24T13:00:00Z",
@@ -1116,13 +1097,21 @@
         "j": null,
         "u": null,
         "p": "kostas"
+      },
+      {
+        "n": "Futuristant",
+        "s": "2026-07-31T13:00:00Z",
+        "e": "2026-07-31T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-24T11:00:00Z",
-        "e": "2026-07-24T13:00:00Z",
+        "s": "2026-07-24T13:00:00Z",
+        "e": "2026-07-24T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1130,8 +1119,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-24T13:00:00Z",
-        "e": "2026-07-24T15:00:00Z",
+        "s": "2026-07-24T15:00:00Z",
+        "e": "2026-07-24T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1560,16 +1549,6 @@
     ],
     "rinse": [
       {
-        "n": "Uncle Dugs",
-        "s": "2026-07-24T10:00:00Z",
-        "e": "2026-07-24T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "uncledugs"
-      },
-      {
         "n": "The MoodSwing Show",
         "s": "2026-07-24T13:00:00Z",
         "e": "2026-07-24T15:00:00Z",
@@ -1604,7 +1583,7 @@
         "s": "2026-07-24T18:00:00Z",
         "e": "2026-07-24T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Bowlesy",
         "u": null,
         "t": "monthly",
         "p": "silvabumpa"
@@ -1729,17 +1708,21 @@
         "s": "2026-07-25T20:00:00Z",
         "e": "2026-07-25T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Bailey Ibbs",
         "u": null,
         "t": "monthly",
-        "p": "nightservice"
+        "p": "bailey",
+        "ap": [
+          "baileyibbs",
+          "nightservice"
+        ]
       },
       {
         "n": "UNFOLD",
         "s": "2026-07-25T21:00:00Z",
         "e": "2026-07-25T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Riva",
         "u": null,
         "t": "monthly",
         "p": "unfold"
@@ -1749,30 +1732,13 @@
         "s": "2026-07-25T22:00:00Z",
         "e": "2026-07-25T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "NATMAC",
         "u": null,
         "t": "biweekly",
         "p": "isgwan"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-24T07:00:00Z",
-        "e": "2026-07-24T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Labouts",
-        "s": "2026-07-24T12:00:00Z",
-        "e": "2026-07-24T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Rinse France Guest Show",
         "s": "2026-07-24T13:00:00Z",
