@@ -1,52 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-25T04:57:42.420Z",
+  "updated": "2026-07-25T07:51:41.056Z",
   "stations": {
     "nts1": [
-      {
-        "n": "OKONKOLE (R)",
-        "s": "2026-07-25T04:00:00+01:00",
-        "e": "2026-07-25T06:00:00+01:00",
-        "d": "PAM & Satoshi from the blog Okonkole Y Trompa select 2 hours of records from their collection for NTS.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/okonkole-y-trompa/episodes/okonkole-y-trompa-8th-september-2021",
-        "t": "restream"
-      },
-      {
-        "n": "NTS Guide to: Bulgarian Folk and Traditional (R)",
-        "s": "2026-07-25T06:00:00+01:00",
-        "e": "2026-07-25T07:00:00+01:00",
-        "d": "An hour of gently psychedelic folk and acoustic arrangements from Japan's close-knit 1970s folk scene.",
-        "j": "Bulgarian Folk and Traditional",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-japanese-70-s-folk-special-23rd-june-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Fervent Moon (R)",
-        "s": "2026-07-25T07:00:00+01:00",
-        "e": "2026-07-25T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "ferventmoon"
-      },
       {
         "n": "IN FOCUS: BILL EVANS (R)",
         "s": "2026-07-25T08:00:00+01:00",
         "e": "2026-07-25T10:00:00+01:00",
-        "d": null,
+        "d": "This In Focus looks at impressionist Jazz pianist Bill Evans, whose lyrical melodic inventions and complex voicings remain unmistakable influences on pianists more than 40 years after his death. \nEvans gained attention by forging a gentle style of technically nuanced improvisation throughout the 1950s. By 1958, he had joined Miles Davis on a historic eight-month collaboration on ‘Kind of Blue’ (1959) - a central marker of jazz history and Davis’ shift to modal improvisation. His success working with Davis led Evans to assemble his own trio, featuring Scott LaFaro on bass and Paul Motian on drums, which became notable for the previously unexplored interplay between all three instruments as equal melodic voices. \nEvans's introverted style and relaxed lyrical approach to jazz piano has left its mark on several generations of players such as Herbie Hancock, Keith Jarrett, Chick Corea, and Brad Mehldau.",
         "j": "BILL EVANS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/bill-evans-30th-april-2022",
         "t": "restream"
       },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
         "s": "2026-07-25T10:00:00+01:00",
         "e": "2026-07-25T12:00:00+01:00",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": "MACCA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-25th-july-2026",
         "t": "biweekly",
         "p": "macca"
       },
@@ -171,54 +143,53 @@
         "j": "SIDETRACKED BY TIZITA",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "BLANK FORMS: SATANIC DUB WITH LAWRENCE KUMPF (R)",
+        "s": "2026-07-26T06:00:00+01:00",
+        "e": "2026-07-26T07:00:00+01:00",
+        "d": null,
+        "j": "SATANIC DUB WITH LAWRENCE KUMPF",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ADULTZ ONLY (R)",
+        "s": "2026-07-26T07:00:00+01:00",
+        "e": "2026-07-26T07:30:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "adultzonly"
+      },
+      {
+        "n": "MARTIN NEWELL'S ODDCASTE",
+        "s": "2026-07-26T07:30:00+01:00",
+        "e": "2026-07-26T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "Stephane (R)",
-        "s": "2026-07-25T05:00:00+01:00",
-        "e": "2026-07-25T06:00:00+01:00",
-        "d": "contemporary french + international rap presented by Stephane.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gelato/episodes/gelato-24th-june-2022",
-        "t": "restream"
-      },
-      {
-        "n": "Bad Vibes w/ Eyedress (R)",
-        "s": "2026-07-25T06:00:00+01:00",
-        "e": "2026-07-25T07:00:00+01:00",
-        "d": "Idris Vicuña a.k.a Eyedress holds down a monthly hour on NTS' channel 2 bridging the gaps between lo-fi hip hop, garage pop, psychedelia and more…",
-        "j": "Eyedress",
-        "u": "https://www.nts.live/api/v2/shows/eyedress/episodes/eyedress-15th-july-2019",
-        "t": "restream",
-        "p": "eyedress"
-      },
-      {
-        "n": "Image Search (R)",
-        "s": "2026-07-25T07:00:00+01:00",
-        "e": "2026-07-25T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "imagesearch"
-      },
-      {
         "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
         "s": "2026-07-25T08:00:00+01:00",
         "e": "2026-07-25T10:00:00+01:00",
-        "d": null,
+        "d": "Slayron of Peaking Lights heads up Rockers Delight, two hours of all things dub, reggae, and lovers rock once a month from the LA studio.",
         "j": "EXOTIC GARDENS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/peaking-lights/episodes/peaking-lights-18th-july-2025",
         "t": "restream"
       },
       {
         "n": "ILLSEE (R)",
         "s": "2026-07-25T10:00:00+01:00",
         "e": "2026-07-25T11:00:00+01:00",
-        "d": null,
+        "d": "Shanghai DJ and promoter Illsee (known for her parties Aqualung, Synth Crush, and Cosign) presents an hour of precision-tooled machine funk, industrial oddities, mangled club tracks, melodramatic ambient and pop, dispatches from the Chinese underground, and more.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/illsee/episodes/illsee-5th-september-2025",
         "t": "restream"
       },
       {
@@ -338,18 +309,38 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-07-25T04:00:00Z",
-        "e": "2026-07-25T07:00:00Z",
+        "n": "SKYAPNEA (R)",
+        "s": "2026-07-26T04:00:00+01:00",
+        "e": "2026-07-26T06:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream",
+        "p": "skyapnea"
       },
+      {
+        "n": "Post-Geography (R)",
+        "s": "2026-07-26T06:00:00+01:00",
+        "e": "2026-07-26T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "postgeography"
+      },
+      {
+        "n": "THE WITCHING HOUR (R)",
+        "s": "2026-07-26T07:00:00+01:00",
+        "e": "2026-07-26T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "HOUSEWORK w/ CABLE",
         "s": "2026-07-25T07:00:00Z",
@@ -1020,35 +1011,18 @@
     ],
     "dublab": [
       {
-        "n": "Mamabear - The Honey Pot",
-        "s": "2026-07-25T03:00:00Z",
-        "e": "2026-07-25T05:00:00Z",
-        "d": null,
-        "j": "The Honey Pot",
-        "u": null,
-        "t": "monthly",
-        "p": "honey",
-        "ap": [
-          "mamabear"
-        ]
-      },
-      {
-        "n": "DJ Kerry - The Basement",
-        "s": "2026-07-25T05:00:00Z",
-        "e": "2026-07-25T07:00:00Z",
-        "d": null,
-        "j": "The Basement",
-        "u": null,
-        "t": "monthly",
-        "p": "djkerry",
-        "ap": [
-          "basement"
-        ]
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-07-25T07:00:00Z",
         "e": "2026-07-25T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-07-25T09:00:00Z",
+        "e": "2026-07-25T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1406,28 +1380,18 @@
         "ap": [
           "dirtydave"
         ]
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Electronic Playlist",
-        "s": "2026-07-25T01:00:00Z",
-        "e": "2026-07-25T05:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-08-01T07:00:00Z",
+        "e": "2026-08-01T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "Nancy June",
-        "s": "2026-07-25T05:00:00Z",
-        "e": "2026-07-25T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "nancyjune"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-07-25T06:00:00Z",
@@ -1645,15 +1609,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-24T22:00:00Z",
-        "e": "2026-07-25T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-25T07:00:00Z",
         "e": "2026-07-25T12:00:00Z",
         "d": null,
@@ -1662,9 +1617,96 @@
         "t": "playlist"
       },
       {
-        "n": "Tom Val",
+        "n": "Giorgi Pipia",
         "s": "2026-07-25T12:00:00Z",
         "e": "2026-07-25T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "giorgipipia"
+      },
+      {
+        "n": "Sevenbeatz",
+        "s": "2026-07-25T14:00:00Z",
+        "e": "2026-07-25T15:00:00Z",
+        "d": null,
+        "j": "invite SAIPH",
+        "u": null,
+        "t": "monthly",
+        "p": "sevenbeatz"
+      },
+      {
+        "n": "King Doudou",
+        "s": "2026-07-25T15:00:00Z",
+        "e": "2026-07-25T16:00:00Z",
+        "d": null,
+        "j": "invite Ziggy Twiss",
+        "u": null,
+        "t": "biweekly",
+        "p": "kingdoudou"
+      },
+      {
+        "n": "Tomás Urquieta",
+        "s": "2026-07-25T16:00:00Z",
+        "e": "2026-07-25T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "tomsurquieta"
+      },
+      {
+        "n": "Coffintexts",
+        "s": "2026-07-25T17:00:00Z",
+        "e": "2026-07-25T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "coffintexts"
+      },
+      {
+        "n": "To Van Kao",
+        "s": "2026-07-25T18:00:00Z",
+        "e": "2026-07-25T19:00:00Z",
+        "d": null,
+        "j": "my first love is House music",
+        "u": null,
+        "t": "biweekly",
+        "p": "tovankao"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-25T19:00:00Z",
+        "e": "2026-07-25T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-25T22:00:00Z",
+        "e": "2026-07-26T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-26T07:00:00Z",
+        "e": "2026-07-26T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Tom Val",
+        "s": "2026-07-26T12:00:00Z",
+        "e": "2026-07-26T14:00:00Z",
         "d": null,
         "j": "Le Jazz Est Dangereux : Epilogue",
         "u": null,
@@ -1673,8 +1715,8 @@
       },
       {
         "n": "Dubquake Records",
-        "s": "2026-07-25T14:00:00Z",
-        "e": "2026-07-25T15:00:00Z",
+        "s": "2026-07-26T14:00:00Z",
+        "e": "2026-07-26T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1683,8 +1725,8 @@
       },
       {
         "n": "POLAAR",
-        "s": "2026-07-25T15:00:00Z",
-        "e": "2026-07-25T16:00:00Z",
+        "s": "2026-07-26T15:00:00Z",
+        "e": "2026-07-26T16:00:00Z",
         "d": null,
         "j": "Flore B2B EHUA",
         "u": null,
@@ -1696,8 +1738,8 @@
       },
       {
         "n": "Mariad",
-        "s": "2026-07-25T16:00:00Z",
-        "e": "2026-07-25T17:00:00Z",
+        "s": "2026-07-26T16:00:00Z",
+        "e": "2026-07-26T17:00:00Z",
         "d": null,
         "j": "DORMIR DEBOUT INVITE EMMA SOUHARCE",
         "u": null,
@@ -1705,8 +1747,8 @@
       },
       {
         "n": "Ifeoluwa",
-        "s": "2026-07-25T17:00:00Z",
-        "e": "2026-07-25T18:00:00Z",
+        "s": "2026-07-26T17:00:00Z",
+        "e": "2026-07-26T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1714,17 +1756,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-25T18:00:00Z",
-        "e": "2026-07-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-07-25T19:00:00Z",
-        "e": "2026-07-25T20:00:00Z",
+        "s": "2026-07-26T18:00:00Z",
+        "e": "2026-07-26T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1733,16 +1766,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "TVOD",
-        "s": "2026-07-25T05:00:00Z",
-        "e": "2026-07-25T07:00:00Z",
-        "d": null,
-        "j": "Jason P",
-        "u": null,
-        "t": "weekly",
-        "p": "jasonp"
-      },
       {
         "n": "La Puteria Radio",
         "s": "2026-07-25T23:00:00Z",
