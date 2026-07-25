@@ -1,33 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-25T13:03:35.704Z",
+  "updated": "2026-07-25T14:55:17.814Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TARZSA",
-        "s": "2026-07-25T14:00:00+01:00",
-        "e": "2026-07-25T15:00:00+01:00",
-        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-25th-july-2026",
-        "t": "monthly",
-        "p": "tarzsa"
-      },
       {
         "n": "THE EXTENDED PLAY SESSIONS W/ Kyri",
         "s": "2026-07-25T15:00:00+01:00",
         "e": "2026-07-25T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Long time record collector and purveyor of fine musical flavours Mr. Pedro cooks up a banquet of aural delights every other week: afrobeat to disco and more, time to liven up. ",
+        "j": "Kyri",
+        "u": "https://www.nts.live/api/v2/shows/the-extended-play-sessions/episodes/the-extended-play-sessions-25th-july-2026",
+        "t": "biweekly"
       },
       {
         "n": "Aqwea",
         "s": "2026-07-25T17:00:00+01:00",
         "e": "2026-07-25T18:00:00+01:00",
-        "d": null,
+        "d": "The London based producer and DJ takes on the NTS airwaves…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/aqwea/episodes/aqwea-25th-july-2026",
         "p": "aqwea"
       },
       {
@@ -164,26 +155,34 @@
         "ap": [
           "theahd"
         ]
+      },
+      {
+        "n": "THE SLIP",
+        "s": "2026-07-26T10:00:00+01:00",
+        "e": "2026-07-26T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "High Hopes w/ Judah",
+        "s": "2026-07-26T12:00:00+01:00",
+        "e": "2026-07-26T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "judah"
       }
     ],
     "nts2": [
       {
-        "n": "YOUTH",
-        "s": "2026-07-25T14:00:00+01:00",
-        "e": "2026-07-25T15:00:00+01:00",
-        "d": "Andrew Lyster's YOUTH takes over the NTS airwaves live from MO6B in Stockport once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/youth/episodes/youth-25th-july-2026",
-        "t": "monthly",
-        "p": "youth"
-      },
-      {
         "n": "Wave Form",
         "s": "2026-07-25T15:00:00+01:00",
         "e": "2026-07-25T16:00:00+01:00",
-        "d": null,
+        "d": "During 'Wave Form', Aurélien Arbet and Pierre Rousseau explore an interpolation of various recordings, often at the margins of traditional formats and conventional styles of music. During an hour, a long oscillation is formed out of a selection of interviews, spoken word, poetry, music for dance or art, marginal pop attempts and various field recordings.\nAurélien Arbet is an art director, co-founder of the clothing brand and publishing house Études. Pierre Rousseau is a composer, producer and sound designer, crafting sounds for records, films, and art projects.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/wave-form/episodes/wave-form-25th-july-2026",
         "p": "waveform"
       },
       {
@@ -192,7 +191,7 @@
         "e": "2026-07-25T17:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bunny-hoova/episodes/bunny-hoova-25th-july-2026",
         "p": "bunnyhoova"
       },
       {
@@ -323,18 +322,29 @@
         "u": null,
         "t": "restream",
         "p": "ragavibrations"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Collectors' Cuts",
-        "s": "2026-07-25T13:00:00Z",
-        "e": "2026-07-25T14:00:00Z",
+        "n": "SOPHIA ZHURAVKOVA (R)",
+        "s": "2026-07-26T12:00:00+01:00",
+        "e": "2026-07-26T12:59:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream",
+        "p": "sophiazhuravkova"
       },
+      {
+        "n": "HE4RTBROKEN W/ AMALCROSSING (R)",
+        "s": "2026-07-26T12:59:00+01:00",
+        "e": "2026-07-26T14:00:00+01:00",
+        "d": null,
+        "j": "AMALCROSSING",
+        "u": null,
+        "t": "restream",
+        "p": "he4rtbroken"
+      }
+    ],
+    "subtle": [
       {
         "n": "SPD",
         "s": "2026-07-25T14:00:00Z",
@@ -1582,16 +1592,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Giorgi Pipia",
-        "s": "2026-07-25T12:00:00Z",
-        "e": "2026-07-25T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "giorgipipia"
-      },
       {
         "n": "Sevenbeatz",
         "s": "2026-07-25T14:00:00Z",
