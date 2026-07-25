@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-25T14:55:17.814Z",
+  "updated": "2026-07-25T16:46:06.902Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EXTENDED PLAY SESSIONS W/ Kyri",
-        "s": "2026-07-25T15:00:00+01:00",
-        "e": "2026-07-25T17:00:00+01:00",
-        "d": "Long time record collector and purveyor of fine musical flavours Mr. Pedro cooks up a banquet of aural delights every other week: afrobeat to disco and more, time to liven up. ",
-        "j": "Kyri",
-        "u": "https://www.nts.live/api/v2/shows/the-extended-play-sessions/episodes/the-extended-play-sessions-25th-july-2026",
-        "t": "biweekly"
-      },
       {
         "n": "Aqwea",
         "s": "2026-07-25T17:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "TEST PRESSING",
         "s": "2026-07-25T18:00:00+01:00",
         "e": "2026-07-25T20:00:00+01:00",
-        "d": null,
+        "d": "Apiento, a.k.a Paul Byrne runs the invaluable Test Pressing blog and releases music on World Building, World Unknown and more. His show has that esoteric techno thing and whatever suits the mood…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/test-pressing/episodes/test-pressing-25th-july-2026",
         "t": "monthly",
         "p": "pressing",
         "ap": [
@@ -173,34 +164,33 @@
         "j": null,
         "u": null,
         "p": "judah"
+      },
+      {
+        "n": "Asher G's Caribbean Memories",
+        "s": "2026-07-26T13:00:00+01:00",
+        "e": "2026-07-26T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Wave Form",
-        "s": "2026-07-25T15:00:00+01:00",
-        "e": "2026-07-25T16:00:00+01:00",
-        "d": "During 'Wave Form', Aurélien Arbet and Pierre Rousseau explore an interpolation of various recordings, often at the margins of traditional formats and conventional styles of music. During an hour, a long oscillation is formed out of a selection of interviews, spoken word, poetry, music for dance or art, marginal pop attempts and various field recordings.\nAurélien Arbet is an art director, co-founder of the clothing brand and publishing house Études. Pierre Rousseau is a composer, producer and sound designer, crafting sounds for records, films, and art projects.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/wave-form/episodes/wave-form-25th-july-2026",
-        "p": "waveform"
-      },
-      {
-        "n": "BUNNY HOOVA",
-        "s": "2026-07-25T16:00:00+01:00",
-        "e": "2026-07-25T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/bunny-hoova/episodes/bunny-hoova-25th-july-2026",
-        "p": "bunnyhoova"
-      },
-      {
         "n": "ONO w/ Spāre Vitola",
         "s": "2026-07-25T17:00:00+01:00",
         "e": "2026-07-25T18:00:00+01:00",
-        "d": null,
+        "d": "Ono is a Rīga based program that was originally started by Michael Holland and Paddy Shine in the Manchester studios but has since developed a nomadic exploratory based structure highlighting experimental rhythmic based music made mostly by outsiders.\nFrom the host: \"We welcome another baltic friend as part of this series of shows connecting with baltic artists and sharing their current ideas and working practices ! We are lucky to visit Spāre in her studio in riga for a second show focused on her work ! The previous show was aired on 13th Jan 2024\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/onotesla/episodes/onotesla-25th-july-2026"
+      },
+      {
+        "n": "SINK",
+        "s": "2026-07-25T18:00:00+01:00",
+        "e": "2026-07-25T19:00:00+01:00",
+        "d": "Special guest shows from around the world.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sink-25th-july-2026"
       },
       {
         "n": "AN1MA (R)",
@@ -342,26 +332,26 @@
         "u": null,
         "t": "restream",
         "p": "he4rtbroken"
+      },
+      {
+        "n": "NTS GUIDE TO: DRUM & BLISS (R)",
+        "s": "2026-07-26T14:00:00+01:00",
+        "e": "2026-07-26T15:00:00+01:00",
+        "d": null,
+        "j": "DRUM & BLISS",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
       {
-        "n": "SPD",
-        "s": "2026-07-25T14:00:00Z",
-        "e": "2026-07-25T15:00:00Z",
-        "d": "Midlands born, London based producer and DJ influenced by UK funky, broken techno, garage and early dubstep. \r\n\r\nHas released on Keysound recordings, RKS, eatmybeat, ec2a, Durkle Disco and Dimsum records",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Tyrant",
-        "s": "2026-07-25T15:00:00Z",
-        "e": "2026-07-25T16:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-07-25T16:00:00Z",
+        "e": "2026-07-25T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "DJ SK",
@@ -1019,18 +1009,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-07-25T11:00:00Z",
-        "e": "2026-07-25T15:00:00Z",
+        "n": "Big Kani presents Large Language",
+        "s": "2026-08-01T15:00:00Z",
+        "e": "2026-08-01T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Jon1st",
+        "s": "2026-08-01T16:00:00Z",
+        "e": "2026-08-01T17:00:00Z",
+        "d": "Following his widely acclaimed breakout moment winning the 2013 DMC World Online Championships, Jon1st quickly built an international reputation as a ‘DJ’s DJ’. Not only proving himself as one of the world’s most diverse and musical turntablists, Jon also established himself as an on the pulse club DJ mixing across the alternative bass music spectrum and as an in demand live performer around the world, as well as recording acclaimed guest mixes for everyone from DJ Mag to Boiler Room to Ninja Tune’s Solid Steel to Mary Anne Hobbs to Keep Hush.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "jon1st"
+      }
+    ],
+    "dublab": [
       {
         "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
         "s": "2026-07-25T15:00:00Z",
@@ -1392,18 +1392,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "RERUN: JF Chen",
+        "s": "2026-08-01T16:00:00Z",
+        "e": "2026-08-01T17:00:00Z",
+        "d": null,
+        "j": "JF Chen",
+        "u": null,
+        "t": "restream"
       }
     ],
     "rinse": [
-      {
-        "n": "Counter Culture with Palace Vinyl",
-        "s": "2026-07-25T13:00:00Z",
-        "e": "2026-07-25T15:00:00Z",
-        "d": null,
-        "j": "Laurence B2B Allan",
-        "u": null,
-        "p": "counterculture"
-      },
       {
         "n": "Kenny Dope",
         "s": "2026-07-25T15:00:00Z",
@@ -1592,26 +1592,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Sevenbeatz",
-        "s": "2026-07-25T14:00:00Z",
-        "e": "2026-07-25T15:00:00Z",
-        "d": null,
-        "j": "invite SAIPH",
-        "u": null,
-        "t": "monthly",
-        "p": "sevenbeatz"
-      },
-      {
-        "n": "King Doudou",
-        "s": "2026-07-25T15:00:00Z",
-        "e": "2026-07-25T16:00:00Z",
-        "d": null,
-        "j": "invite Ziggy Twiss",
-        "u": null,
-        "t": "biweekly",
-        "p": "kingdoudou"
-      },
       {
         "n": "Tomás Urquieta",
         "s": "2026-07-25T16:00:00Z",
