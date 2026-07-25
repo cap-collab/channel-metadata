@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-25T09:28:57.586Z",
+  "updated": "2026-07-25T11:02:34.740Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
-        "s": "2026-07-25T10:00:00+01:00",
-        "e": "2026-07-25T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": "MACCA",
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-25th-july-2026",
-        "t": "biweekly",
-        "p": "macca"
-      },
       {
         "n": "ROSS ALLEN",
         "s": "2026-07-25T12:00:00+01:00",
@@ -27,9 +17,9 @@
         "n": "TARZSA",
         "s": "2026-07-25T14:00:00+01:00",
         "e": "2026-07-25T15:00:00+01:00",
-        "d": null,
+        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-25th-july-2026",
         "t": "monthly",
         "p": "tarzsa"
       },
@@ -171,34 +161,29 @@
         "j": "Dubby",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THEA HD",
+        "s": "2026-07-26T09:00:00+01:00",
+        "e": "2026-07-26T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "hd",
+        "ap": [
+          "theahd"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "ILLSEE (R)",
-        "s": "2026-07-25T10:00:00+01:00",
-        "e": "2026-07-25T11:00:00+01:00",
-        "d": "Shanghai DJ and promoter Illsee (known for her parties Aqualung, Synth Crush, and Cosign) presents an hour of precision-tooled machine funk, industrial oddities, mangled club tracks, melodramatic ambient and pop, dispatches from the Chinese underground, and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/illsee/episodes/illsee-5th-september-2025",
-        "t": "restream"
-      },
-      {
-        "n": "ROUGH VERSION w/ Camille Henrot",
-        "s": "2026-07-25T11:00:00+01:00",
-        "e": "2026-07-25T12:00:00+01:00",
-        "d": "Francesca Gavin talks to contemporary artists about their work, music, and the relationships between. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rough-version/episodes/rough-version-25th-july-2026",
-        "p": "roughversion"
-      },
-      {
         "n": "IN FOCUS: SONIC YOUTH (R)",
         "s": "2026-07-25T12:00:00+01:00",
         "e": "2026-07-25T14:00:00+01:00",
-        "d": null,
+        "d": "Birthed in the playful amateur experimentalism of New York's 1970s no wave scene, Sonic Youth are potentially the definitive American rock band of the post-punk era. From the creative blossoming of EVOL, to their mammoth art rock masterpiece of \"Day Dream Nation\" to the surprising commercial victory of \"Goo\", the band continuously bucked convention, and remained in flux creatively up until their unofficial ceasing in 2011. ",
         "j": "SONIC YOUTH",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-sonic-youth-22nd-march-2024",
         "t": "restream",
         "p": "youth"
       },
@@ -206,9 +191,10 @@
         "n": "YOUTH",
         "s": "2026-07-25T14:00:00+01:00",
         "e": "2026-07-25T15:00:00+01:00",
-        "d": null,
+        "d": "Andrew Lyster's YOUTH takes over the NTS airwaves live from MO6B in Stockport once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/youth/episodes/youth-25th-july-2026",
+        "t": "monthly",
         "p": "youth"
       },
       {
@@ -338,28 +324,28 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Dun Roamin w/ Tomi From Brockley",
-        "s": "2026-07-25T09:00:00Z",
-        "e": "2026-07-25T10:00:00Z",
-        "d": null,
-        "j": "Tomi From Brockley",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": " Afroasis",
-        "s": "2026-07-25T10:00:00Z",
-        "e": "2026-07-25T11:00:00Z",
+        "n": "NTS GUIDE TO: MURDER BALLADS (R)",
+        "s": "2026-07-26T09:00:00+01:00",
+        "e": "2026-07-26T10:00:00+01:00",
+        "d": null,
+        "j": "MURDER BALLADS",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "RAGA VIBRATIONS (R)",
+        "s": "2026-07-26T10:00:00+01:00",
+        "e": "2026-07-26T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "afroasis"
-      },
+        "t": "restream",
+        "p": "ragavibrations"
+      }
+    ],
+    "subtle": [
       {
         "n": "Solid Moves w/ Sophia & Ronaldo",
         "s": "2026-07-25T11:00:00Z",
@@ -1008,18 +994,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Matty Banton - Roots & Dubs",
+        "s": "2026-08-01T10:00:00Z",
+        "e": "2026-08-01T11:00:00Z",
+        "d": null,
+        "j": "Roots & Dubs",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-07-25T09:00:00Z",
-        "e": "2026-07-25T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "sounds of NOW",
         "s": "2026-07-25T11:00:00Z",
@@ -1381,96 +1367,96 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-01T11:00:00Z",
+        "e": "2026-08-01T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
       {
-        "n": "Wisdom Teeth",
-        "s": "2026-07-25T09:00:00Z",
-        "e": "2026-07-25T11:00:00Z",
-        "d": null,
-        "j": "Ambient & Downtempo Special",
-        "u": null,
-        "t": "biweekly",
-        "p": "wisdomteeth"
-      },
-      {
-        "n": "Dean Bryce",
+        "n": "Hi-Fidelity with Behind This Wall",
         "s": "2026-07-25T11:00:00Z",
         "e": "2026-07-25T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "monthly"
       },
       {
-        "n": "Dance Regular",
+        "n": "Counter Culture with Palace Vinyl",
         "s": "2026-07-25T13:00:00Z",
         "e": "2026-07-25T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Laurence B2B Allan",
         "u": null,
-        "t": "biweekly",
-        "p": "danceregular"
+        "p": "counterculture"
       },
       {
-        "n": "JD. REID",
+        "n": "Kenny Dope",
         "s": "2026-07-25T15:00:00Z",
-        "e": "2026-07-25T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "jdreid"
-      },
-      {
-        "n": "Flyo",
-        "s": "2026-07-25T16:00:00Z",
         "e": "2026-07-25T17:00:00Z",
         "d": null,
+        "j": "From The Vault (2016)",
+        "u": null
+      },
+      {
+        "n": "Manami",
+        "s": "2026-07-25T17:00:00Z",
+        "e": "2026-07-25T18:00:00Z",
+        "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "flyo"
+        "p": "manami"
       },
       {
-        "n": "Plastician",
-        "s": "2026-07-25T17:00:00Z",
-        "e": "2026-07-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "plastician"
-      },
-      {
-        "n": "EMA",
-        "s": "2026-07-25T19:00:00Z",
+        "n": "BIIANCO",
+        "s": "2026-07-25T18:00:00Z",
         "e": "2026-07-25T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "OBSIDIAN [SiO₂]",
         "u": null,
         "t": "monthly",
-        "p": "ema"
+        "p": "biianco"
       },
       {
-        "n": "Oblig",
+        "n": "Night Service",
         "s": "2026-07-25T20:00:00Z",
+        "e": "2026-07-25T21:00:00Z",
+        "d": null,
+        "j": "Bailey Ibbs",
+        "u": null,
+        "p": "bailey",
+        "ap": [
+          "baileyibbs",
+          "nightservice"
+        ]
+      },
+      {
+        "n": "UNFOLD",
+        "s": "2026-07-25T21:00:00Z",
         "e": "2026-07-25T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Riva",
         "u": null,
-        "t": "weekly",
-        "p": "oblig"
+        "t": "biweekly",
+        "p": "unfold"
       },
       {
-        "n": "TEKLIFE",
+        "n": "IsGwan",
         "s": "2026-07-25T22:00:00Z",
         "e": "2026-07-25T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "NATMAC",
         "u": null,
         "t": "biweekly",
-        "p": "teklife"
+        "p": "isgwan"
       },
       {
         "n": "Silva Bumpa",
@@ -1556,8 +1542,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "flyo",
-        "t": "biweekly"
+        "p": "flyo"
       },
       {
         "n": "Plastician",
@@ -1566,6 +1551,7 @@
         "d": null,
         "j": null,
         "u": null,
+        "t": "monthly",
         "p": "plastician"
       },
       {
@@ -1575,8 +1561,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "ema",
-        "t": "monthly"
+        "p": "ema"
       },
       {
         "n": "Oblig",
