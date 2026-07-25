@@ -1,21 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-25T18:54:20.184Z",
+  "updated": "2026-07-25T20:40:46.469Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TEST PRESSING",
-        "s": "2026-07-25T18:00:00+01:00",
-        "e": "2026-07-25T20:00:00+01:00",
-        "d": "Apiento, a.k.a Paul Byrne runs the invaluable Test Pressing blog and releases music on World Building, World Unknown and more. His show has that esoteric techno thing and whatever suits the mood…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/test-pressing/episodes/test-pressing-25th-july-2026",
-        "t": "monthly",
-        "p": "pressing",
-        "ap": [
-          "testpressing"
-        ]
-      },
       {
         "n": "LDLDN w/ Flat White Chris",
         "s": "2026-07-25T20:00:00+01:00",
@@ -28,9 +15,9 @@
         "n": "BLACK IMPULSE",
         "s": "2026-07-25T22:00:00+01:00",
         "e": "2026-07-26T00:00:00+01:00",
-        "d": null,
+        "d": "From 10 till midnight, Black Impulse’s shows are packed with transatlantic camaraderie and a distortion heavy stroll though metal, noise, gutter garage, trash blues, prog, hardcore, hip-hop, free jazz and anything else.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/black-impulse/episodes/black-impulse-25th-july-2026",
         "p": "blackimpulse"
       },
       {
@@ -173,34 +160,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "NOEL SPIVA",
+        "s": "2026-07-26T15:00:00+01:00",
+        "e": "2026-07-26T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "noelspiva"
       }
     ],
     "nts2": [
       {
-        "n": "AN1MA (R)",
-        "s": "2026-07-25T19:00:00+01:00",
-        "e": "2026-07-25T20:00:00+01:00",
-        "d": "integration sounds from the source; an invitation into the shadow.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-24th-january-2024",
-        "t": "restream"
-      },
-      {
-        "n": "EDDIE FICTION (R)",
-        "s": "2026-07-25T20:00:00+01:00",
-        "e": "2026-07-25T21:00:00+01:00",
-        "d": "Musical peregrinations…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/its-nation-time/episodes/its-nation-time-30th-january-2023",
-        "t": "restream"
-      },
-      {
         "n": "NAOMI ASA (R)",
         "s": "2026-07-25T21:00:00+01:00",
         "e": "2026-07-25T22:00:00+01:00",
-        "d": null,
+        "d": "Naomi Asa on the NTS airwaves, delivering soothing soul and spiritual jazz. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/naomi-asaturyan/episodes/naomi-asaturyan-5th-january-2026",
         "t": "restream",
         "p": "naomi"
       },
@@ -208,9 +187,9 @@
         "n": "NTS GUIDE TO: DETROIT JAZZ (R)",
         "s": "2026-07-25T22:00:00+01:00",
         "e": "2026-07-26T00:00:00+01:00",
-        "d": null,
+        "d": "A two hours overview of Detroit jazz labels and artists, featuring music from Ade Olatunji, Ursula Walker, Wendell Harrison and others.",
         "j": "DETROIT JAZZ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/detroit-jazz-special-16th-april-2022",
         "t": "restream"
       },
       {
@@ -343,28 +322,28 @@
         "j": "LÝ TRANG",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "LIQUID MIRROR W/ OLIVE KIMOTO (R)",
+        "s": "2026-07-26T17:00:00+01:00",
+        "e": "2026-07-26T18:00:00+01:00",
+        "d": null,
+        "j": "OLIVE KIMOTO",
+        "u": null,
+        "t": "restream",
+        "p": "liquidmirror"
+      },
+      {
+        "n": "SURF GANG RADIO (R)",
+        "s": "2026-07-26T18:00:00+01:00",
+        "e": "2026-07-26T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-07-25T18:00:00Z",
-        "e": "2026-07-25T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Danny Scrilla",
-        "s": "2026-07-25T19:00:00Z",
-        "e": "2026-07-25T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "dannyscrilla"
-      },
       {
         "n": "Biscuit Boy",
         "s": "2026-07-25T20:00:00Z",
@@ -1021,19 +1000,17 @@
         "u": null,
         "t": "monthly",
         "p": "jon1st"
+      },
+      {
+        "n": "Minus - Flow State",
+        "s": "2026-08-01T20:00:00Z",
+        "e": "2026-08-01T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "dublab": [
-      {
-        "n": "Greg Belson - Divine Chord Gospel Show",
-        "s": "2026-07-25T17:00:00Z",
-        "e": "2026-07-25T19:00:00Z",
-        "d": null,
-        "j": "Divine Chord Gospel Show",
-        "u": null,
-        "t": "biweekly",
-        "p": "gregbelson"
-      },
       {
         "n": "Xandao - Sound Study",
         "s": "2026-07-25T19:00:00Z",
@@ -1393,19 +1370,19 @@
         "j": "The Archive of Feelings",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Time Away with Maral",
+        "s": "2026-08-01T19:00:00Z",
+        "e": "2026-08-01T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "maral"
       }
     ],
     "rinse": [
-      {
-        "n": "BIIANCO",
-        "s": "2026-07-25T18:00:00Z",
-        "e": "2026-07-25T20:00:00Z",
-        "d": null,
-        "j": "OBSIDIAN [SiO₂]",
-        "u": null,
-        "t": "monthly",
-        "p": "biianco"
-      },
       {
         "n": "Night Service",
         "s": "2026-07-25T20:00:00Z",
@@ -1566,16 +1543,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "To Van Kao",
-        "s": "2026-07-25T18:00:00Z",
-        "e": "2026-07-25T19:00:00Z",
-        "d": null,
-        "j": "my first love is House music",
-        "u": null,
-        "t": "biweekly",
-        "p": "tovankao"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-25T19:00:00Z",
