@@ -1,35 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-26T14:56:26.604Z",
+  "updated": "2026-07-26T16:49:39.282Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NOEL SPIVA",
-        "s": "2026-07-26T15:00:00+01:00",
-        "e": "2026-07-26T16:00:00+01:00",
-        "d": "St. Louis multidimensional visual artist Noel Spiva brings a regular hour of warming, soulful selections merging smooth rap & inspiring jazzy tracks…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/noel-spiva/episodes/noel-spiva-26th-july-2026",
-        "t": "monthly",
-        "p": "noelspiva"
-      },
-      {
-        "n": "Leila Samir",
-        "s": "2026-07-26T16:00:00+01:00",
-        "e": "2026-07-26T17:00:00+01:00",
-        "d": "London producer & DJ Leila Samir presents an hour every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/leila-samir/episodes/leila-samir-26th-july-2026",
-        "t": "monthly",
-        "p": "leilasamir"
-      },
       {
         "n": "LOOSE BONES",
         "s": "2026-07-26T17:00:00+01:00",
         "e": "2026-07-26T19:00:00+01:00",
-        "d": null,
+        "d": "NTS hosts since early doors, Loose Bones take you on a freewheeling trip through filmic soundscapes, psychedelia, vintage experimentalism, fuzzed out rock and other esoteric surprises. Every single month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/loose-bones/episodes/loose-bones-26th-july-2026",
         "t": "monthly",
         "p": "loosebones"
       },
@@ -37,9 +17,9 @@
         "n": "The Reign Set (R)",
         "s": "2026-07-26T19:00:00+01:00",
         "e": "2026-07-26T20:00:00+01:00",
-        "d": null,
+        "d": "DJ, vinyl archivist and presenter Gary The Tall’s show’s sole objective is to shine a light to the environs of outsider artists and their innovative endeavours where he unveils obscure post-punk, dub, synth, psychedelic rock and left-field cosmic excursions. \nFollow him on Instagram here ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/thereignset/episodes/thereignset-16th-november-2025",
         "t": "restream"
       },
       {
@@ -175,35 +155,35 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-07-27T18:00:00+01:00",
+        "e": "2026-07-27T20:00:00+01:00",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
+      },
+      {
+        "n": "SUNCUT",
+        "s": "2026-07-27T20:00:00+01:00",
+        "e": "2026-07-27T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "OKLOU PRESENTS: GALORE DIARIES (R)",
-        "s": "2026-07-26T15:00:00+01:00",
-        "e": "2026-07-26T16:00:00+01:00",
-        "d": "Piano ballads, unveiled lullabies, 70s cartoon soundtracks and more in a special guest session from Paris producer & singer Oklou, celebrating her new release 'Galore'. ",
-        "j": "GALORE DIARIES",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/oklou-20th-october-2020",
-        "t": "restream",
-        "p": "oklou"
-      },
-      {
-        "n": "SOLAR DIN W/ LÝ TRANG (R)",
-        "s": "2026-07-26T16:00:00+01:00",
-        "e": "2026-07-26T17:00:00+01:00",
-        "d": "Hanoi producer Lý Trang presents an hour of vibrant noise.",
-        "j": "LÝ TRANG",
-        "u": "https://www.nts.live/api/v2/shows/ly-trang/episodes/ly-trang-27th-february-2024",
-        "t": "restream"
-      },
-      {
         "n": "LIQUID MIRROR W/ OLIVE KIMOTO (R)",
         "s": "2026-07-26T17:00:00+01:00",
         "e": "2026-07-26T18:00:00+01:00",
-        "d": null,
+        "d": "Liquid Mirror is the aural exploration of all intersections of ethereality with musician and artist Olive Kimoto. Interpreted eclectically, the monthly broadcast ranges from shoegaze and dream pop, to electronic and experimental.",
         "j": "OLIVE KIMOTO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/liquid-mirror/episodes/liquid-mirror-25th-may-2026",
         "t": "restream",
         "p": "liquidmirror"
       },
@@ -211,9 +191,9 @@
         "n": "SURF GANG RADIO (R)",
         "s": "2026-07-26T18:00:00+01:00",
         "e": "2026-07-26T19:00:00+01:00",
-        "d": null,
+        "d": "A radio show curated by Surf Gang Records. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-5th-march-2024",
         "t": "restream"
       },
       {
@@ -347,26 +327,28 @@
         "u": null,
         "t": "restream",
         "p": "aylu"
+      },
+      {
+        "n": "IN FOCUS: IRENA & VOJTĚCH HAVLOVI (R)",
+        "s": "2026-07-27T10:00:00+01:00",
+        "e": "2026-07-27T11:00:00+01:00",
+        "d": null,
+        "j": "IRENA & VOJTĚCH HAVLOVI",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "BLOODZ BOI",
+        "s": "2026-07-27T11:00:00+01:00",
+        "e": "2026-07-27T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bloodzboi"
       }
     ],
     "subtle": [
-      {
-        "n": "LIT CLIPS w/ DVS",
-        "s": "2026-07-26T14:00:00Z",
-        "e": "2026-07-26T15:00:00Z",
-        "d": null,
-        "j": "DVS",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Dyls Dems",
-        "s": "2026-07-26T15:00:00Z",
-        "e": "2026-07-26T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "2Step Selects ",
         "s": "2026-07-26T16:00:00Z",
@@ -1024,18 +1006,18 @@
         "j": "eatmybeat",
         "u": "https://www.subtleradio.com/artists/extrasaus-w-eatmybeat/",
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs 2",
-        "s": "2026-07-26T14:00:00Z",
-        "e": "2026-07-26T16:00:00Z",
+        "n": "THEODORE",
+        "s": "2026-08-02T16:00:00Z",
+        "e": "2026-08-02T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Kenneth Bager - Music for Dreams",
         "s": "2026-07-26T16:00:00Z",
@@ -1421,29 +1403,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-08-02T16:00:00Z",
+        "e": "2026-08-02T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "Dance Regular",
-        "s": "2026-07-26T13:00:00Z",
-        "e": "2026-07-26T15:00:00Z",
-        "d": null,
-        "j": "Matica & EVM128",
-        "u": null,
-        "t": "biweekly",
-        "p": "danceregular"
-      },
-      {
-        "n": "JD. REID",
-        "s": "2026-07-26T15:00:00Z",
-        "e": "2026-07-26T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "jdreid"
-      },
       {
         "n": "Flyo",
         "s": "2026-07-26T16:00:00Z",
@@ -1651,29 +1623,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Dubquake Records",
-        "s": "2026-07-26T14:00:00Z",
-        "e": "2026-07-26T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "dubquakerecords"
-      },
-      {
-        "n": "POLAAR",
-        "s": "2026-07-26T15:00:00Z",
-        "e": "2026-07-26T16:00:00Z",
-        "d": null,
-        "j": "Flore B2B EHUA",
-        "u": null,
-        "t": "monthly",
-        "p": "ehua",
-        "ap": [
-          "polaar"
-        ]
-      },
       {
         "n": "Mariad",
         "s": "2026-07-26T16:00:00Z",
