@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-26T20:46:41.453Z",
+  "updated": "2026-07-26T22:51:31.836Z",
   "stations": {
     "nts1": [
-      {
-        "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
-        "s": "2026-07-26T20:00:00+01:00",
-        "e": "2026-07-26T22:00:00+01:00",
-        "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
-        "j": "ERNESTO CHAHOUD",
-        "u": "https://www.nts.live/api/v2/shows/ernesto-chahoud/episodes/ernesto-chahoud-26th-july-2026",
-        "t": "monthly",
-        "p": "ernestochahoud"
-      },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO, CHANTZ & MOSES DAY",
         "s": "2026-07-26T22:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "OTOLOGIC",
         "s": "2026-07-27T00:00:00+01:00",
         "e": "2026-07-27T02:00:00+01:00",
-        "d": null,
+        "d": "Australian duo Otologic traverse wave, post punk, outsider club & dubwise meanderings in constant delay.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/otologic/episodes/otologic-27th-july-2026",
         "t": "monthly",
         "p": "otologic"
       },
@@ -172,43 +162,33 @@
         "j": null,
         "u": null,
         "p": "organtapes"
+      },
+      {
+        "n": "TAGABOW / Julia’s War",
+        "s": "2026-07-27T23:00:00+01:00",
+        "e": "2026-07-28T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "THE ULINE CATALOG W/ CALVIN LECOMPTE (R)",
-        "s": "2026-07-26T21:00:00+01:00",
-        "e": "2026-07-26T22:00:00+01:00",
-        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
-        "j": "CALVIN LECOMPTE",
-        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-2nd-september-2022",
-        "t": "restream"
-      },
-      {
-        "n": "ANNIE HOGAN - LEEDS LE PHONOGRAPHIQUE MIX (1982-1983) (R)",
-        "s": "2026-07-26T22:00:00+01:00",
-        "e": "2026-07-26T23:00:00+01:00",
-        "d": "Post-punk icon and foundational New Wave artist, Annie Hogan (Soft Cell, Yello) presents an hour of records from her time as a DJ and promoter - specifically as resident at the iconic Leeds goth venue Le Phonographique, between 1981 and 1983.",
-        "j": "LEEDS LE PHONOGRAPHIQUE MIX (1982-1983)",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/annie-hogan-3rd-august-2024",
-        "t": "restream"
-      },
-      {
         "n": "THE NUMERO GROUP - MUSIC FOR END TIMES (R)",
         "s": "2026-07-26T23:00:00+01:00",
         "e": "2026-07-27T00:00:00+01:00",
-        "d": null,
+        "d": "Chicago-based archival record label, The Numero Group, host a deep-digging once a month show. Expect comprehensive round ups from their crates, picking out the best old music and reissues, as well as some jubilant nerdy record chat.",
         "j": "MUSIC FOR END TIMES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/radio-free-numero/episodes/radio-free-numero-15th-september-2022",
         "t": "restream"
       },
       {
         "n": "ADVENTURES W/ CLARISSA CONNELLY (R)",
         "s": "2026-07-27T00:00:00+01:00",
         "e": "2026-07-27T01:00:00+01:00",
-        "d": null,
+        "d": "Musical adventures.",
         "j": "CLARISSA CONNELLY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/clarissa-connelly/episodes/clarissa-connelly-27th-january-2025",
         "t": "restream",
         "p": "clarissaconnelly"
       },
@@ -340,22 +320,39 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SMERZ",
+        "s": "2026-07-27T16:00:00+01:00",
+        "e": "2026-07-27T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "smerz"
+      },
+      {
+        "n": "CLAIRE ROUSAY",
+        "s": "2026-07-27T17:00:00+01:00",
+        "e": "2026-07-27T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "clairerousay"
+      },
+      {
+        "n": "AMBIENT ABRACADABRA W/ SOFIE BIRCH",
+        "s": "2026-07-27T18:00:00+01:00",
+        "e": "2026-07-27T19:00:00+01:00",
+        "d": null,
+        "j": "SOFIE BIRCH",
+        "u": null,
+        "t": "monthly",
+        "p": "sofiebirch"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle.MIX_v4_FINAL w/ Celebrity Bitcrush & Guests",
-        "s": "2026-07-26T20:00:00Z",
-        "e": "2026-07-26T22:00:00Z",
-        "d": null,
-        "j": "Celebrity Bitcrush & Guests",
-        "u": null,
-        "t": "monthly",
-        "p": "guests",
-        "ap": [
-          "celebritybitcrush"
-        ]
-      },
       {
         "n": "Drusbă",
         "s": "2026-07-26T22:00:00Z",
@@ -1001,18 +998,28 @@
         "u": null,
         "t": "monthly",
         "p": "kitschko"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Flight Club",
-        "s": "2026-07-26T19:00:00Z",
-        "e": "2026-07-26T21:00:00Z",
+        "n": "Envelop",
+        "s": "2026-08-02T21:00:00Z",
+        "e": "2026-08-02T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Chacho",
+        "s": "2026-08-02T22:00:00Z",
+        "e": "2026-08-02T23:00:00Z",
+        "d": "As a drummer since childhood, Chacho has always had an insatiable appetite for new and unique beats.\r\nCombining his love of global percussion, dark grooves and deeper low end frequencies, \r\nhis sets feature a blend of dubstep, grime, garage, breaks, hip hop and other flavours from around the world.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "chacho"
+      }
+    ],
+    "dublab": [
       {
         "n": "Def Sound",
         "s": "2026-07-26T21:00:00Z",
@@ -1408,19 +1415,19 @@
         "u": null,
         "t": "monthly",
         "p": "marynagakawa"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Oblig",
-        "s": "2026-07-26T20:00:00Z",
-        "e": "2026-07-26T22:00:00Z",
+        "n": "Mas Exitos con Ganas",
+        "s": "2026-08-02T21:00:00Z",
+        "e": "2026-08-02T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "oblig"
-      },
+        "t": "monthly",
+        "p": "ganas"
+      }
+    ],
+    "rinse": [
       {
         "n": "TEKLIFE",
         "s": "2026-07-26T22:00:00Z",
@@ -1599,15 +1606,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-26T18:00:00Z",
-        "e": "2026-07-26T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-26T22:00:00Z",
