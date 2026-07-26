@@ -1,46 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-07-26T08:09:52.849Z",
+  "updated": "2026-07-26T11:13:36.720Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THEA HD",
-        "s": "2026-07-26T09:00:00+01:00",
-        "e": "2026-07-26T10:00:00+01:00",
-        "d": "Odda Recordings label owner Thea HD unearths the lesser known common sounds. from old soundtracks, library music to experimental electronic music…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/thea-hd/episodes/thea-hd-26th-july-2026",
-        "t": "biweekly",
-        "p": "hd",
-        "ap": [
-          "theahd"
-        ]
-      },
-      {
-        "n": "THE SLIP",
-        "s": "2026-07-26T10:00:00+01:00",
-        "e": "2026-07-26T12:00:00+01:00",
-        "d": "Rory Bowens heads The Slip on Sunday mornings every other week - squeezing an hour of hazy dub off-shoots, pupil-dilating shoegaze and uncanny dream music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/theslip/episodes/theslip-26th-july-2026",
-        "t": "biweekly"
-      },
       {
         "n": "High Hopes w/ Judah",
         "s": "2026-07-26T12:00:00+01:00",
         "e": "2026-07-26T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Judah's High Hopes explains itself with the name. The blend of soul, experimental hip hop and a range of jazz is enough to bring optimism into any listener's day, and Judah's sonic selections act as a monthly ray of sunshine to brighten any listener's day. ",
+        "j": "Judah",
+        "u": "https://www.nts.live/api/v2/shows/high-hopes-w-judah/episodes/high-hopes-w-judah-26th-july-2026",
+        "t": "monthly",
         "p": "judah"
       },
       {
         "n": "Asher G's Caribbean Memories",
         "s": "2026-07-26T13:00:00+01:00",
         "e": "2026-07-26T14:00:00+01:00",
-        "d": null,
+        "d": "Classic Jamaican records from the \"Rocksteady Daddy\" Asher G.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/asher-g/episodes/asher-g-26th-july-2026",
         "t": "monthly"
       },
       {
@@ -177,35 +156,34 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-07-27T11:00:00+01:00",
+        "e": "2026-07-27T13:00:00+01:00",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Floating Points w/ Hikaru Utada",
+        "s": "2026-07-27T13:00:00+01:00",
+        "e": "2026-07-27T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "floatingpoints"
       }
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: MURDER BALLADS (R)",
-        "s": "2026-07-26T09:00:00+01:00",
-        "e": "2026-07-26T10:00:00+01:00",
-        "d": "Tales of gruesome violence in folk, country, and rock. ",
-        "j": "MURDER BALLADS",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-murder-ballads-21st-may-2026",
-        "t": "restream"
-      },
-      {
-        "n": "RAGA VIBRATIONS (R)",
-        "s": "2026-07-26T10:00:00+01:00",
-        "e": "2026-07-26T12:00:00+01:00",
-        "d": "\"Raga Vibrations\" is a monthly selection of Indian music curated by Greg Davis.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/raga-vibrations/episodes/raga-vibrations-14th-february-2026",
-        "t": "restream",
-        "p": "ragavibrations"
-      },
-      {
         "n": "SOPHIA ZHURAVKOVA (R)",
         "s": "2026-07-26T12:00:00+01:00",
         "e": "2026-07-26T12:59:00+01:00",
-        "d": null,
+        "d": "Organic soundscapes, field recordings and melodic ambience from composer Sophia Zhuravkova.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sophia-zhuravkova/episodes/sophia-zhuravkova-16th-june-2024",
         "t": "restream",
         "p": "sophiazhuravkova"
       },
@@ -213,9 +191,9 @@
         "n": "HE4RTBROKEN W/ AMALCROSSING (R)",
         "s": "2026-07-26T12:59:00+01:00",
         "e": "2026-07-26T14:00:00+01:00",
-        "d": null,
+        "d": "Get in your feelings with Brussels party starters HE4RTBROKEN - the beloved Belgian collective that aren't scared of a few tears on the dance floor. Resident djs Liyo, Steff, Munix and ssaliva explore the full range of cathartic music listening together with some kindred-spirited emotive guests.",
         "j": "AMALCROSSING",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hea4rtbroken/episodes/hea4rtbroken-29th-september-2022",
         "t": "restream",
         "p": "he4rtbroken"
       },
@@ -349,35 +327,36 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "DJ NOBU (R)",
+        "s": "2026-07-27T04:00:00+01:00",
+        "e": "2026-07-27T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Courtesy (R)",
+        "s": "2026-07-27T05:00:00+01:00",
+        "e": "2026-07-27T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "courtesy"
       }
     ],
     "subtle": [
       {
-        "n": " All Fitz",
-        "s": "2026-07-26T07:00:00Z",
-        "e": "2026-07-26T09:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-07-26T11:00:00Z",
+        "e": "2026-07-26T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Housewife (UK)",
-        "s": "2026-07-26T09:00:00Z",
-        "e": "2026-07-26T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Velvet Frequencies",
-        "s": "2026-07-26T10:00:00Z",
-        "e": "2026-07-26T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "WAX HEAVY w/ VIOLENTLYILL",
@@ -1025,22 +1004,32 @@
         "j": "Passo Passo",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " Harbee",
+        "s": "2026-08-02T09:00:00Z",
+        "e": "2026-08-02T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "harbee"
+      },
+      {
+        "n": "TAMA",
+        "s": "2026-08-02T11:00:00Z",
+        "e": "2026-08-02T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-26T07:00:00Z",
-        "e": "2026-07-26T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-07-26T09:00:00Z",
-        "e": "2026-07-26T11:00:00Z",
+        "s": "2026-07-26T11:00:00Z",
+        "e": "2026-07-26T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1435,25 +1424,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-26T06:00:00Z",
-        "e": "2026-07-26T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Wisdom Teeth",
-        "s": "2026-07-26T09:00:00Z",
-        "e": "2026-07-26T11:00:00Z",
-        "d": null,
-        "j": "Ambient & Downtempo Special",
-        "u": null,
-        "t": "biweekly",
-        "p": "wisdomteeth"
-      },
-      {
         "n": "Dean Bryce",
         "s": "2026-07-26T11:00:00Z",
         "e": "2026-07-26T13:00:00Z",
@@ -1467,7 +1437,7 @@
         "s": "2026-07-26T13:00:00Z",
         "e": "2026-07-26T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Matica & EVM128",
         "u": null,
         "t": "biweekly",
         "p": "danceregular"
@@ -1502,11 +1472,11 @@
         "p": "plastician"
       },
       {
-        "n": "EMA",
+        "n": "Woozy with EMA",
         "s": "2026-07-26T19:00:00Z",
         "e": "2026-07-26T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Laurence Kapinga",
         "u": null,
         "p": "ema"
       },
@@ -1525,10 +1495,13 @@
         "s": "2026-07-26T22:00:00Z",
         "e": "2026-07-26T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "SLICK SHOOTA",
         "u": null,
         "t": "biweekly",
-        "p": "teklife"
+        "p": "slick",
+        "ap": [
+          "teklife"
+        ]
       },
       {
         "n": "Night Service",
