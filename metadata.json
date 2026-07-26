@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-26T16:49:39.282Z",
+  "updated": "2026-07-26T18:57:57.684Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LOOSE BONES",
-        "s": "2026-07-26T17:00:00+01:00",
-        "e": "2026-07-26T19:00:00+01:00",
-        "d": "NTS hosts since early doors, Loose Bones take you on a freewheeling trip through filmic soundscapes, psychedelia, vintage experimentalism, fuzzed out rock and other esoteric surprises. Every single month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/loose-bones/episodes/loose-bones-26th-july-2026",
-        "t": "monthly",
-        "p": "loosebones"
-      },
       {
         "n": "The Reign Set (R)",
         "s": "2026-07-26T19:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "BEIRUT DAZE W/ ERNESTO CHAHOUD",
         "s": "2026-07-26T20:00:00+01:00",
         "e": "2026-07-26T22:00:00+01:00",
-        "d": null,
+        "d": "Infamous Beirut DJ Ernesto Chahoud takes over the NTS signal for his monthly 'Beirut Daze' slot, recorded in Lebanon and showcasing music from his far-ranging collection. ",
         "j": "ERNESTO CHAHOUD",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ernesto-chahoud/episodes/ernesto-chahoud-26th-july-2026",
         "t": "monthly",
         "p": "ernestochahoud"
       },
@@ -174,44 +164,33 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "WOODGRAIN w/ DENNIS.EXP",
+        "s": "2026-07-27T21:00:00+01:00",
+        "e": "2026-07-27T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "LIQUID MIRROR W/ OLIVE KIMOTO (R)",
-        "s": "2026-07-26T17:00:00+01:00",
-        "e": "2026-07-26T18:00:00+01:00",
-        "d": "Liquid Mirror is the aural exploration of all intersections of ethereality with musician and artist Olive Kimoto. Interpreted eclectically, the monthly broadcast ranges from shoegaze and dream pop, to electronic and experimental.",
-        "j": "OLIVE KIMOTO",
-        "u": "https://www.nts.live/api/v2/shows/liquid-mirror/episodes/liquid-mirror-25th-may-2026",
-        "t": "restream",
-        "p": "liquidmirror"
-      },
-      {
-        "n": "SURF GANG RADIO (R)",
-        "s": "2026-07-26T18:00:00+01:00",
-        "e": "2026-07-26T19:00:00+01:00",
-        "d": "A radio show curated by Surf Gang Records. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-5th-march-2024",
-        "t": "restream"
-      },
-      {
         "n": "SUBJECT TO CHANGE - THE INFLUENCE: A RAKIM ALLAH TRIBUTE (R)",
         "s": "2026-07-26T19:00:00+01:00",
         "e": "2026-07-26T20:00:00+01:00",
-        "d": null,
+        "d": "One hour of hip-hop music inspired by the music of Rakim.",
         "j": "A RAKIM ALLAH TRIBUTE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/subject-to-change-w-timmhotep/episodes/subject-to-change-w-timmhotep-27th-november-2024",
         "t": "restream"
       },
       {
         "n": "CITIES AVIV: GEE TWO (R)",
         "s": "2026-07-26T20:00:00+01:00",
         "e": "2026-07-26T21:00:00+01:00",
-        "d": null,
+        "d": "Radio form follow-up to the debatably sought after GEE CD Mix. Cities Aviv is an artist operating in the United States. Active since 2010. ",
         "j": "GEE TWO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cities-aviv/episodes/cities-aviv-19th-august-2023",
         "t": "restream"
       },
       {
@@ -346,18 +325,26 @@
         "u": null,
         "t": "monthly",
         "p": "bloodzboi"
+      },
+      {
+        "n": "WHY BE",
+        "s": "2026-07-27T12:00:00+01:00",
+        "e": "2026-07-27T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "whybe"
+      },
+      {
+        "n": "PAVEL MILYAKOV",
+        "s": "2026-07-27T13:00:00+01:00",
+        "e": "2026-07-27T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "2Step Selects ",
-        "s": "2026-07-26T16:00:00Z",
-        "e": "2026-07-26T18:00:00Z",
-        "d": "2Step Selects is a monthly show hosted by the Choki Biki Records crew. Founded in Dublin, Ireland, CBR consists of DJ Sharpson, 2step.png, Frame Shift, and MICK. The show consists of an all round breaks, electro, ukg and jungle hour, followed by an Irish showcase, demonstrating all the best Ireland has to offer collective/party/Dj & Producer wise!",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " The Process Show w/ EONE",
         "s": "2026-07-26T18:00:00Z",
@@ -1015,19 +1002,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Ned Spencer",
+        "s": "2026-08-02T18:00:00Z",
+        "e": "2026-08-02T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-07-26T16:00:00Z",
-        "e": "2026-07-26T17:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly",
-        "p": "kennethbager"
-      },
       {
         "n": "Thomas Klepper - Library of Sounds",
         "s": "2026-07-26T17:00:00Z",
@@ -1413,18 +1399,19 @@
         "u": null,
         "t": "weekly",
         "p": "kennethbager"
+      },
+      {
+        "n": "Chris Kissel and Chuck Soo-Hoo - Contact Wave",
+        "s": "2026-08-02T17:00:00Z",
+        "e": "2026-08-02T19:00:00Z",
+        "d": null,
+        "j": "Contact Wave",
+        "u": null,
+        "t": "monthly",
+        "p": "chriskissel"
       }
     ],
     "rinse": [
-      {
-        "n": "Flyo",
-        "s": "2026-07-26T16:00:00Z",
-        "e": "2026-07-26T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "flyo"
-      },
       {
         "n": "Plastician",
         "s": "2026-07-26T17:00:00Z",
@@ -1567,7 +1554,7 @@
         "s": "2026-07-27T16:00:00Z",
         "e": "2026-07-27T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B Bobby Scallop",
         "u": null,
         "t": "biweekly",
         "p": "ghoulish"
@@ -1575,7 +1562,7 @@
       {
         "n": "COIDO",
         "s": "2026-07-27T17:00:00Z",
-        "e": "2026-07-27T19:00:00Z",
+        "e": "2026-07-27T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1583,13 +1570,22 @@
         "p": "coido"
       },
       {
-        "n": "DJ Stingray 313",
-        "s": "2026-07-27T19:00:00Z",
-        "e": "2026-07-27T20:00:00Z",
+        "n": "NIKS",
+        "s": "2026-07-27T18:00:00Z",
+        "e": "2026-07-27T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
+        "p": "niks"
+      },
+      {
+        "n": "DJ Stingray presents Zone 313",
+        "s": "2026-07-27T19:00:00Z",
+        "e": "2026-07-27T20:00:00Z",
+        "d": null,
+        "j": "Sharlese",
+        "u": null,
         "p": "djstingray"
       },
       {
@@ -1616,31 +1612,13 @@
         "s": "2026-07-27T22:00:00Z",
         "e": "2026-07-27T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Akio Nagase",
         "u": null,
         "t": "monthly",
         "p": "stonestaro"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Mariad",
-        "s": "2026-07-26T16:00:00Z",
-        "e": "2026-07-26T17:00:00Z",
-        "d": null,
-        "j": "DORMIR DEBOUT INVITE EMMA SOUHARCE",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Ifeoluwa",
-        "s": "2026-07-26T17:00:00Z",
-        "e": "2026-07-26T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "ifeoluwa"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-26T18:00:00Z",
