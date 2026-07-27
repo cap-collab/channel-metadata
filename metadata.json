@@ -1,44 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-27T14:11:51.788Z",
+  "updated": "2026-07-27T17:36:10.229Z",
   "stations": {
     "nts1": [
-      {
-        "n": "System Olympia",
-        "s": "2026-07-27T15:00:00+01:00",
-        "e": "2026-07-27T16:00:00+01:00",
-        "d": "System Olympia joins us for an hour a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-27th-july-2026",
-        "t": "monthly",
-        "p": "systemolympia"
-      },
-      {
-        "n": "OHBLIV",
-        "s": "2026-07-27T16:00:00+01:00",
-        "e": "2026-07-27T17:00:00+01:00",
-        "d": "Hip-hop and soul-inflected sounds from Richmond's Ohbliv.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ohbliv/episodes/ohbliv-27th-july-2026",
-        "t": "monthly",
-        "p": "ohbliv"
-      },
-      {
-        "n": "ATHENS OF THE NORTH",
-        "s": "2026-07-27T17:00:00+01:00",
-        "e": "2026-07-27T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-07-27T18:00:00+01:00",
         "e": "2026-07-27T20:00:00+01:00",
-        "d": null,
+        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
         "j": "COCO MARIA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-27th-july-2026",
         "t": "weekly",
         "p": "cocomaria"
       },
@@ -46,13 +17,13 @@
         "n": "SUNCUT",
         "s": "2026-07-27T20:00:00+01:00",
         "e": "2026-07-27T21:00:00+01:00",
-        "d": null,
+        "d": "Tune in to the sound of SUNCUT, boasting a heartfelt selection of some favourite 45’s through to classic bonafide soulful jams.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sun-cut/episodes/sun-cut-27th-july-2026",
         "t": "biweekly"
       },
       {
-        "n": "WOODGRAIN w/ DENNIS.EXP",
+        "n": "WOODGRAIN w/ patch_t41b",
         "s": "2026-07-27T21:00:00+01:00",
         "e": "2026-07-27T22:00:00+01:00",
         "d": null,
@@ -69,7 +40,7 @@
         "p": "organtapes"
       },
       {
-        "n": "TAGABOW / Julia’s War",
+        "n": "TAGABOW / Julia’s War w/ Dead Sullivan",
         "s": "2026-07-27T23:00:00+01:00",
         "e": "2026-07-28T00:00:00+01:00",
         "d": null,
@@ -85,14 +56,21 @@
         "u": null
       },
       {
-        "n": "SUI ZHEN",
+        "n": "SUI ZHEN  - Into the blue w/ Blue Divers",
         "s": "2026-07-28T02:00:00+01:00",
         "e": "2026-07-28T03:00:00+01:00",
         "d": null,
         "j": null,
+        "u": null
+      },
+      {
+        "n": "SOUNDS ON SCREEN: BÉLA TARR & MIHÁLY VÍG (R)",
+        "s": "2026-07-28T03:00:00+01:00",
+        "e": "2026-07-28T04:00:00+01:00",
+        "d": null,
+        "j": "BÉLA TARR & MIHÁLY VÍG",
         "u": null,
-        "t": "monthly",
-        "p": "suizhen"
+        "t": "restream"
       },
       {
         "n": "Music For Days Like These w/ John Talabot (R)",
@@ -167,44 +145,35 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Self Soothe w/ Margeaux",
+        "s": "2026-07-28T15:00:00+01:00",
+        "e": "2026-07-28T16:00:00+01:00",
+        "d": null,
+        "j": "Margeaux",
+        "u": null,
+        "t": "weekly",
+        "p": "margeaux"
+      },
+      {
+        "n": "AWE W/ LAUREL HALO",
+        "s": "2026-07-28T16:00:00+01:00",
+        "e": "2026-07-28T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "laurelhalo"
       }
     ],
     "nts2": [
       {
-        "n": "Footnotes: Electric Shamans at the Festival of the Sun by Mónica Ojeda",
-        "s": "2026-07-27T15:00:00+01:00",
-        "e": "2026-07-27T16:00:00+01:00",
-        "d": "Mónica Ojeda selects music from the world of her new book, Electric Shamans at the Festival of the Sun, with excerpts read by Mónica in English and Spanish. This round of NTS Book Club was run in collaboration with Granta.\nMónica Ojeda is an Ecuadorian writer. Her novels include Jawbone and Nefando, translated into multiple languages and acclaimed internationally. Electric Shamans at the Festival of the Sun is her latest novel.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/footnotes/episodes/footnotes-electric-shamans-at-the-festival-of-the-sun-by-monica-ojeda-27th-july-2026"
-      },
-      {
-        "n": "SMERZ",
-        "s": "2026-07-27T16:00:00+01:00",
-        "e": "2026-07-27T17:00:00+01:00",
-        "d": "Henriette and Catharina of Smerz take over the NTS airwaves once a month with a selection of classical, folk, ambient, pop and more.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/smerz/episodes/smerz-27th-july-2026",
-        "t": "monthly",
-        "p": "smerz"
-      },
-      {
-        "n": "CLAIRE ROUSAY",
-        "s": "2026-07-27T17:00:00+01:00",
-        "e": "2026-07-27T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "clairerousay"
-      },
-      {
         "n": "AMBIENT ABRACADABRA W/ SOFIE BIRCH",
         "s": "2026-07-27T18:00:00+01:00",
         "e": "2026-07-27T19:00:00+01:00",
-        "d": null,
+        "d": "Relaxing & spiritual sounds with Copenhagen-based composer & producer Sofie Birch.",
         "j": "SOFIE BIRCH",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sofie-birch/episodes/sofie-birch-27th-july-2026",
         "t": "monthly",
         "p": "sofiebirch"
       },
@@ -212,9 +181,9 @@
         "n": "Lost in the Bitrate w/ Lena Raine",
         "s": "2026-07-27T19:00:00+01:00",
         "e": "2026-07-27T20:00:00+01:00",
-        "d": null,
+        "d": "Video game composer Lena Raine explores sounds of digital – playing digital fusion, electronica, and modern orchestral works that blend live and digital sounds.\nFrom the host: \"The release of Boards of Canada's latest album Inferno got me searching through my music library for other tracks that I would similarly call \"evil music\". This month's show contains some real feel bad bangers from electronic music, games, and film.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lena-raine/episodes/lena-raine-27th-july-2026",
         "p": "lenaraine"
       },
       {
@@ -228,13 +197,12 @@
         "p": "sarahdavachi"
       },
       {
-        "n": "EMMA BARRETO",
+        "n": "EMMA BARRETO - The Sound of Gordon Parks W/ Justen Leroy",
         "s": "2026-07-27T21:00:00+01:00",
         "e": "2026-07-27T22:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Day Care w/ DJ Randy Ellis of CQQL Records",
@@ -329,44 +297,44 @@
         "p": "dimensiondoor"
       },
       {
+        "n": "FAK AGZA2 W/ ZEYAD (R)",
+        "s": "2026-07-28T10:00:00+01:00",
+        "e": "2026-07-28T11:00:00+01:00",
+        "d": null,
+        "j": "ZEYAD",
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "Alif Hilal presents: pop.soil: THE DARKER SISTA",
         "s": "2026-07-28T11:00:00+01:00",
         "e": "2026-07-28T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "LUKID",
+        "s": "2026-07-28T12:00:00+01:00",
+        "e": "2026-07-28T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lukid"
+      },
+      {
+        "n": "Adultz Only",
+        "s": "2026-07-28T13:00:00+01:00",
+        "e": "2026-07-28T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "adultzonly"
       }
     ],
     "subtle": [
-      {
-        "n": "do work please",
-        "s": "2026-07-27T14:00:00Z",
-        "e": "2026-07-27T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Familiar Scenes w/ Garth",
-        "s": "2026-07-27T15:00:00Z",
-        "e": "2026-07-27T16:00:00Z",
-        "d": null,
-        "j": "Garth",
-        "u": null,
-        "t": "monthly",
-        "p": "garth"
-      },
-      {
-        "n": "Dunman",
-        "s": "2026-07-27T16:00:00Z",
-        "e": "2026-07-27T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "dunman"
-      },
       {
         "n": "Grigio",
         "s": "2026-07-27T17:00:00Z",
@@ -1035,37 +1003,37 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "A.N.T Below the Surface",
+        "s": "2026-08-03T15:00:00Z",
+        "e": "2026-08-03T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Drumphill",
+        "s": "2026-08-03T16:00:00Z",
+        "e": "2026-08-03T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "drumphill"
+      },
+      {
+        "n": "Underground Credentials",
+        "s": "2026-08-03T17:00:00Z",
+        "e": "2026-08-03T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-07-27T13:00:00Z",
-        "e": "2026-07-27T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-07-27T15:00:00Z",
-        "e": "2026-07-27T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "christeeeene - cherry custard",
-        "s": "2026-07-27T16:00:00Z",
-        "e": "2026-07-27T17:00:00Z",
-        "d": null,
-        "j": "cherry custard",
-        "u": null,
-        "t": "monthly",
-        "p": "christeeeene"
-      },
       {
         "n": "Rene Contreras - Viva! Talks",
         "s": "2026-07-27T17:00:00Z",
@@ -1443,28 +1411,29 @@
         "u": null,
         "t": "monthly",
         "p": "yves"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Scratcha",
-        "s": "2026-07-27T14:00:00Z",
-        "e": "2026-07-27T16:00:00Z",
+        "n": "Thalma de Freitas – THALMA PLAYS BRASIL",
+        "s": "2026-08-03T15:00:00Z",
+        "e": "2026-08-03T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly"
+        "t": "monthly",
+        "p": "thalmadefreitas"
       },
       {
-        "n": "Ghoulish",
-        "s": "2026-07-27T16:00:00Z",
-        "e": "2026-07-27T17:00:00Z",
+        "n": "Rene Contreras - Viva! Talks",
+        "s": "2026-08-03T17:00:00Z",
+        "e": "2026-08-03T19:00:00Z",
         "d": null,
-        "j": "B2B Bobby Scallop",
+        "j": "Viva! Talks",
         "u": null,
-        "t": "biweekly",
-        "p": "ghoulish"
-      },
+        "t": "weekly",
+        "p": "renecontreras"
+      }
+    ],
+    "rinse": [
       {
         "n": "COIDO",
         "s": "2026-07-27T17:00:00Z",
@@ -1571,13 +1540,12 @@
         "p": "jordanmae"
       },
       {
-        "n": "Morf",
+        "n": "In Amongst It with Morf",
         "s": "2026-07-28T12:00:00Z",
         "e": "2026-07-28T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Pozzy",
         "u": null,
-        "t": "monthly",
         "p": "morf"
       },
       {
@@ -1656,33 +1624,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Sentaku",
-        "s": "2026-07-27T14:00:00Z",
-        "e": "2026-07-27T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-07-27T15:00:00Z",
-        "e": "2026-07-27T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Rinse France Guest Show",
-        "s": "2026-07-27T16:00:00Z",
-        "e": "2026-07-27T17:00:00Z",
-        "d": null,
-        "j": "GIA",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "TEMƎT",
         "s": "2026-07-27T17:00:00Z",
@@ -1781,7 +1722,7 @@
         "s": "2026-07-28T17:00:00Z",
         "e": "2026-07-28T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "The Koko Show avec Jerrau",
         "u": null,
         "t": "monthly",
         "p": "kokoprisci"
