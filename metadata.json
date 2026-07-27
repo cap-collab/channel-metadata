@@ -1,33 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-07-27T21:02:51.575Z",
+  "updated": "2026-07-27T22:52:59.656Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ORGAN TAPES w/ Unidos x La Cumbia",
-        "s": "2026-07-27T22:00:00+01:00",
-        "e": "2026-07-27T23:00:00+01:00",
-        "d": "Organ Tapes and friends play disparate music plied and wrenched together with religious fervour. Sound of E5 上海 monthly on a Monday.\nFrom the host: \"1 hour of edits and exclusives from Santiago's finest\"",
-        "j": "Unidos x La Cumbia",
-        "u": "https://www.nts.live/api/v2/shows/organ-tapes/episodes/organ-tapes-27th-july-2026",
-        "t": "monthly",
-        "p": "organtapes"
-      },
       {
         "n": "TAGABOW / Julia’s War w/ Dead Sullivan",
         "s": "2026-07-27T23:00:00+01:00",
         "e": "2026-07-28T00:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Philadelphia cult property and experimental shoegazers They Are Gutting A Body Of Water bring their hazy sound to NTS once a month.",
+        "j": "Dead Sullivan",
+        "u": "https://www.nts.live/api/v2/shows/they-are-gutting-a-body-of-water/episodes/they-are-gutting-a-body-of-water-27th-july-2026",
+        "t": "monthly"
       },
       {
         "n": "ALL STYLES ALL SMILES w/ JAVYBZ & CHIDA",
         "s": "2026-07-28T00:00:00+01:00",
         "e": "2026-07-28T02:00:00+01:00",
-        "d": null,
+        "d": "A genre-spanning show focusing on rare grooves, classics, new productions and obscurities with a worldwide perspective and a spotlight on soul, synth pop and leftfield house. All curated with love by Javybz - Anya and Julia. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/all-styles-all-smiles/episodes/all-styles-all-smiles-28th-july-2026"
       },
       {
         "n": "SUI ZHEN  - Into the blue w/ Blue Divers",
@@ -158,6 +149,23 @@
         "u": null,
         "t": "biweekly",
         "p": "channeling"
+      },
+      {
+        "n": "Trevor Jackson",
+        "s": "2026-07-28T20:00:00+01:00",
+        "e": "2026-07-28T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Shawescape Renegade Celestial Code: 313",
+        "s": "2026-07-28T22:00:00+01:00",
+        "e": "2026-07-29T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
@@ -175,9 +183,9 @@
         "n": "NTS Guide to: Lebanese Disco Orientale (R)",
         "s": "2026-07-28T00:00:00+01:00",
         "e": "2026-07-28T01:00:00+01:00",
-        "d": null,
+        "d": "An hour-long trip into the world of Disco Orientale, the style of hybrid dance music pioneered by Lebanese composer, arranger and musician Ihsan Al Munzer alongside Elias Rahbani in the late 1970s and early 1980s. Often also called \"oriental disco\" or \"belly dance disco\", the style fused western disco rhythms with Arabic music. \nThe work of Al-Munzer, Rahbani and other artists blended popular disco hits of the era with folkloric Arabic melodies and also original compositions that seamlessly combined both musical systems. These productions featured modern synthesizers, electric guitars and drums with traditional Arabic percussion sections, and lush string arrangements.\nThis style shows the monumental influence that disco had on popular music culture in the Arabic-speaking world.\nCreated by Ernesto Chahoud.",
         "j": "Lebanese Disco Orientale",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-oriental-disco-2nd-march-2026",
         "t": "restream"
       },
       {
@@ -318,19 +326,18 @@
         "u": null,
         "t": "monthly",
         "p": "carista"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Chaz",
-        "s": "2026-07-27T21:00:00Z",
-        "e": "2026-07-27T22:00:00Z",
+        "n": "The Big Happy Show",
+        "s": "2026-07-28T17:00:00+01:00",
+        "e": "2026-07-28T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "chaz"
-      },
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": "Lumeni",
         "s": "2026-07-27T22:00:00Z",
@@ -339,6 +346,15 @@
         "j": null,
         "u": null,
         "p": "lumeni"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-07-27T23:00:00Z",
+        "e": "2026-07-28T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "The Ice Box Sessions with Frigid",
@@ -1014,6 +1030,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "H2 w/ SUS-R",
+        "s": "2026-08-03T22:00:00Z",
+        "e": "2026-08-03T23:00:00Z",
+        "d": null,
+        "j": "SUS",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1426,16 +1451,6 @@
     ],
     "rinse": [
       {
-        "n": "Paranoid London",
-        "s": "2026-07-27T21:00:00Z",
-        "e": "2026-07-27T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "paranoidlondon"
-      },
-      {
         "n": "Stones Taro",
         "s": "2026-07-27T22:00:00Z",
         "e": "2026-07-27T23:00:00Z",
@@ -1577,15 +1592,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-27T19:00:00Z",
-        "e": "2026-07-28T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-28T07:00:00Z",
