@@ -1,41 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-07-28T11:50:17.069Z",
+  "updated": "2026-07-28T13:41:53.476Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ 404 EROS",
-        "s": "2026-07-28T11:00:00+01:00",
-        "e": "2026-07-28T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-404-eros-28th-july-2026"
-      },
-      {
-        "n": "CELINE DESSBERG",
-        "s": "2026-07-28T13:00:00+01:00",
-        "e": "2026-07-28T14:00:00+01:00",
-        "d": "French-Mongolian multi-instrumentalist and songwriter Céline Dessberg takes us on a monthly selection of songs from around the world, chosen for their beauty and the emotions they evoke. Expect a journey through genres, traditions and contemporary sounds, guided by feeling rather than category.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/celine-dessberg/episodes/celine-dessberg-28th-july-2026",
-        "t": "monthly",
-        "p": "celinedessberg"
-      },
       {
         "n": "Akira Yamaoka – Return to Silent Hill: Influences Mix",
         "s": "2026-07-28T14:00:00+01:00",
         "e": "2026-07-28T15:00:00+01:00",
-        "d": null,
+        "d": "Renowned Silent Hill composer Akira Yamaoka shares an hour of inspirations for his world-building soundtracks, featuring music from Brian Eno, Dead Can Dance, Angelo Badalamenti and more. \nYamaoka's Return to Silent Hill Original Soundtrack is out now.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/akira-yamaoka-return-to-silent-hill-influences-mix-28th-july-2026"
       },
       {
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-07-28T15:00:00+01:00",
         "e": "2026-07-28T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-28th-july-2026",
         "t": "weekly",
         "p": "margeaux"
       },
@@ -170,44 +152,42 @@
         "ap": [
           "lunchclub"
         ]
+      },
+      {
+        "n": "I. JORDAN",
+        "s": "2026-07-29T14:00:00+01:00",
+        "e": "2026-07-29T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "ijordan"
+      },
+      {
+        "n": "NTS Guide to: 2-Step",
+        "s": "2026-07-29T16:00:00+01:00",
+        "e": "2026-07-29T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "LUKID",
-        "s": "2026-07-28T12:00:00+01:00",
-        "e": "2026-07-28T13:00:00+01:00",
-        "d": "A monthly sonic journey from Lukid a.k.a Luke Blair. Expect a slow-burning, cinematic hour of hip-hop, epic psych, dub and synth soundscapes. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lukid/episodes/lukid-28th-july-2026",
-        "t": "monthly",
-        "p": "lukid"
-      },
-      {
-        "n": "Adultz Only",
-        "s": "2026-07-28T13:00:00+01:00",
-        "e": "2026-07-28T14:00:00+01:00",
-        "d": "A lovers selection strictly for the adultz, courtesy of Norman Francis - the man behind lovers rock archive The Revival Master.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/adultz-only/episodes/adultz-only-28th-july-2026",
-        "t": "monthly",
-        "p": "adultzonly"
-      },
-      {
         "n": "YOU'LL SOON KNOW W/ TIM PARKER",
         "s": "2026-07-28T14:00:00+01:00",
         "e": "2026-07-28T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Tim Parker explores the experimental corners of beats and hip hop, weaving together jazz, underground cuts and global sounds - live once a month from London & Amsterdam.",
+        "j": "TIM PARKER",
+        "u": "https://www.nts.live/api/v2/shows/youll-soon-know/episodes/youll-soon-know-28th-july-2026",
+        "t": "monthly"
       },
       {
         "n": "TONE",
         "s": "2026-07-28T15:00:00+01:00",
         "e": "2026-07-28T16:00:00+01:00",
-        "d": null,
+        "d": "A feel-good hour of deep grooves and soulful selections served up by Tone.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tone/episodes/tone-28th-july-2026",
         "t": "monthly",
         "p": "tone"
       },
@@ -339,28 +319,28 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-07-28T11:00:00Z",
-        "e": "2026-07-28T12:00:00Z",
+        "n": "OREN AMBARCHI (R)",
+        "s": "2026-07-29T10:00:00+01:00",
+        "e": "2026-07-29T11:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream"
       },
       {
-        "n": "Liquid Vault w/ Half-Life",
-        "s": "2026-07-28T12:00:00Z",
-        "e": "2026-07-28T13:00:00Z",
+        "n": "CARLA DAL FORNO",
+        "s": "2026-07-29T11:00:00+01:00",
+        "e": "2026-07-29T12:00:00+01:00",
         "d": null,
-        "j": "Half",
+        "j": null,
         "u": null,
         "t": "monthly",
-        "p": "half"
-      },
+        "p": "carladalforno"
+      }
+    ],
+    "subtle": [
       {
         "n": "Silk Road Sessions w/ YVES",
         "s": "2026-07-28T13:00:00Z",
@@ -1036,18 +1016,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-07-28T11:00:00Z",
-        "e": "2026-07-28T13:00:00Z",
+        "n": "Bass Exchange",
+        "s": "2026-08-04T12:00:00Z",
+        "e": "2026-08-04T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "bassexchange"
       },
+      {
+        "n": "Aural Cynosures w/ ALITH BERNDARN",
+        "s": "2026-08-04T13:00:00Z",
+        "e": "2026-08-04T14:00:00Z",
+        "d": null,
+        "j": "ALITH BERNDARN",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-07-28T13:00:00Z",
@@ -1479,25 +1469,6 @@
     ],
     "rinse": [
       {
-        "n": "Jordan Mae",
-        "s": "2026-07-28T11:00:00Z",
-        "e": "2026-07-28T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "jordanmae"
-      },
-      {
-        "n": "In Amongst It with Morf",
-        "s": "2026-07-28T12:00:00Z",
-        "e": "2026-07-28T13:00:00Z",
-        "d": null,
-        "j": "Pozzy",
-        "u": null,
-        "p": "morf"
-      },
-      {
         "n": "Kojay",
         "s": "2026-07-28T13:00:00Z",
         "e": "2026-07-28T14:00:00Z",
@@ -1723,24 +1694,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-28T10:00:00Z",
-        "e": "2026-07-28T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Anna Majidson",
-        "s": "2026-07-28T12:00:00Z",
-        "e": "2026-07-28T13:00:00Z",
-        "d": null,
-        "j": "Behind The Curtain",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "honeymel",
         "s": "2026-07-28T13:00:00Z",
