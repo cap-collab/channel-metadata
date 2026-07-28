@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-28T17:25:50.498Z",
+  "updated": "2026-07-28T19:09:35.474Z",
   "stations": {
     "nts1": [
-      {
-        "n": "CHANNELING W/ IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "s": "2026-07-28T18:00:00+01:00",
-        "e": "2026-07-28T20:00:00+01:00",
-        "d": "Old friends and hapless mavericks Ivan Smagghe and Nathan Gregory Wilkins present a fortnightly window into their ramshackle musical world. A show with absolutely no rules (as they'd only break them). We love the unmixable, old & new. We are oddballs and we love you.",
-        "j": "IVAN SMAGGHE & NATHAN GREGORY WILKINS",
-        "u": "https://www.nts.live/api/v2/shows/channeling/episodes/channeling-28th-july-2026",
-        "t": "biweekly",
-        "p": "channeling"
-      },
       {
         "n": "TREVOR JACKSON - BRISTOL BASS, WAREHOUSE BEATS & SOUNDSYSTEM SOUL (R)",
         "s": "2026-07-28T20:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "Shawescape Renegade Celestial Code: 313",
         "s": "2026-07-28T22:00:00+01:00",
         "e": "2026-07-29T00:00:00+01:00",
-        "d": null,
+        "d": "Real deal techno styles from DJ, producer and interdisciplinary artist Shawscape Renegade barrels through two hours of hard Detroit techno and electro, joining the dots between the 313 and Berlin. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/shawescape-renegade-celestial-code-313-28th-july-2026"
       },
       {
         "n": "After dark w/ HELM",
@@ -171,33 +161,29 @@
         "u": null,
         "t": "biweekly",
         "p": "martelo"
+      },
+      {
+        "n": "HOOVERSOUND W/ SHERELLE & NAINA",
+        "s": "2026-07-29T21:00:00+01:00",
+        "e": "2026-07-29T22:00:00+01:00",
+        "d": null,
+        "j": "SHERELLE & NAINA",
+        "u": null,
+        "t": "monthly",
+        "p": "hooversound",
+        "ap": [
+          "sherelle"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "Eat Ethio: Ethiopian Cassette special",
-        "s": "2026-07-28T18:00:00+01:00",
-        "e": "2026-07-28T19:00:00+01:00",
-        "d": "Helina and Scott from Eat Ethio select cassettes from their collection, sharing favourites and curiosities that have soundtracked countless journeys between Addis Ababa and Helina's hometown of Awassa. Expect 1980s synth-infused jazz, Ethiopian pop and overlooked gems, with a few selections that have since found wider audiences through reissues.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/eat-ethio-ethiopian-cassette-special-28th-july-2026"
-      },
-      {
-        "n": "MUSIC FOR A HEALING EARTH W/ THE COSMIC TONES RESEARCH TRIO",
-        "s": "2026-07-28T19:00:00+01:00",
-        "e": "2026-07-28T20:00:00+01:00",
-        "d": "Healing and restorative sonic transmissions for all beings.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-cosmic-tones-research-trio/episodes/the-cosmic-tones-research-trio-28th-july-2026",
-        "p": "thecosmictonesresearchtrio"
-      },
-      {
         "n": "AUNTIE-ISM W/ SHABAZZ",
         "s": "2026-07-28T20:00:00+01:00",
         "e": "2026-07-28T21:00:00+01:00",
-        "d": null,
+        "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.\nFrom the host: \"Exploring Brazil's enduring contributions to and influence on the global language of Black music through funk, jazz, bossa nova, MPB, samba, and beyond—an exploration of sound, history, and the cultural exchanges of the African diaspora.\"",
         "j": "SHABAZZ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-28th-july-2026",
         "t": "monthly",
         "p": "shabazz"
       },
@@ -205,9 +191,9 @@
         "n": "TUFF SHED",
         "s": "2026-07-28T21:00:00+01:00",
         "e": "2026-07-28T23:00:00+01:00",
-        "d": null,
+        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-28th-july-2026",
         "t": "monthly",
         "p": "tuffshed"
       },
@@ -240,7 +226,7 @@
         "p": "larasarkissian"
       },
       {
-        "n": "NIGHT SHIFT W/ DIAMONDSTEIN",
+        "n": "Night Shift- Coast to Coast AM w/ Diamondstein",
         "s": "2026-07-29T02:00:00+01:00",
         "e": "2026-07-29T04:00:00+01:00",
         "d": null,
@@ -339,29 +325,29 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "FIFTH WORLD W/ IAN KIM JUDD",
+        "s": "2026-07-29T16:00:00+01:00",
+        "e": "2026-07-29T17:00:00+01:00",
+        "d": null,
+        "j": "IAN KIM JUDD",
+        "u": null,
+        "t": "monthly",
+        "p": "fifthworld"
+      },
+      {
+        "n": "GETTING WARMER W/ JEN MONROE",
+        "s": "2026-07-29T17:00:00+01:00",
+        "e": "2026-07-29T18:00:00+01:00",
+        "d": null,
+        "j": "JEN MONROE",
+        "u": null,
+        "t": "monthly",
+        "p": "jenmonroe"
       }
     ],
     "subtle": [
-      {
-        "n": "Maliboo Selects",
-        "s": "2026-07-28T16:00:00Z",
-        "e": "2026-07-28T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "malibooselects"
-      },
-      {
-        "n": "Sika",
-        "s": "2026-07-28T18:00:00Z",
-        "e": "2026-07-28T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sika"
-      },
       {
         "n": "es.kay & Megwan",
         "s": "2026-07-28T19:00:00Z",
@@ -404,6 +390,14 @@
         "n": "DJ Amber Rose",
         "s": "2026-07-29T14:00:00Z",
         "e": "2026-07-29T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DDSM5",
+        "s": "2026-07-29T15:00:00Z",
+        "e": "2026-07-29T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
@@ -1045,19 +1039,26 @@
         "u": null,
         "t": "monthly",
         "p": "karishma"
+      },
+      {
+        "n": "ONEFORTYASIA",
+        "s": "2026-08-04T18:00:00Z",
+        "e": "2026-08-04T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "fantastic w/ absolutely",
+        "s": "2026-08-04T19:00:00Z",
+        "e": "2026-08-04T20:00:00Z",
+        "d": null,
+        "j": "absolutely",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Discotchari - Silk Road Secret Agents",
-        "s": "2026-07-28T17:00:00Z",
-        "e": "2026-07-28T19:00:00Z",
-        "d": null,
-        "j": "Silk Road Secret Agents",
-        "u": null,
-        "t": "monthly",
-        "p": "discotchari"
-      },
       {
         "n": "Patrick Shiroishi - Tangled",
         "s": "2026-07-28T19:00:00Z",
@@ -1485,18 +1486,17 @@
         "u": null,
         "t": "monthly",
         "p": "jokohomo"
+      },
+      {
+        "n": "DROZIA – guest session",
+        "s": "2026-08-04T19:00:00Z",
+        "e": "2026-08-04T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Changing Currents",
-        "s": "2026-07-28T17:00:00Z",
-        "e": "2026-07-28T18:00:00Z",
-        "d": null,
-        "j": "The CC Experience",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Shonky & Robin Ordell",
         "s": "2026-07-28T18:00:00Z",
@@ -1686,25 +1686,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Kokoprisci",
-        "s": "2026-07-28T17:00:00Z",
-        "e": "2026-07-28T18:00:00Z",
-        "d": null,
-        "j": "The Koko Show avec Jerrau",
-        "u": null,
-        "t": "monthly",
-        "p": "kokoprisci"
-      },
-      {
-        "n": "NVST",
-        "s": "2026-07-28T18:00:00Z",
-        "e": "2026-07-28T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "nvst"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-28T19:00:00Z",
