@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-28T08:16:22.851Z",
+  "updated": "2026-07-28T11:50:17.069Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-07-28T09:00:00+01:00",
-        "e": "2026-07-28T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-28th-july-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ 404 EROS",
         "s": "2026-07-28T11:00:00+01:00",
@@ -25,9 +15,10 @@
         "n": "CELINE DESSBERG",
         "s": "2026-07-28T13:00:00+01:00",
         "e": "2026-07-28T14:00:00+01:00",
-        "d": null,
+        "d": "French-Mongolian multi-instrumentalist and songwriter Céline Dessberg takes us on a monthly selection of songs from around the world, chosen for their beauty and the emotions they evoke. Expect a journey through genres, traditions and contemporary sounds, guided by feeling rather than category.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/celine-dessberg/episodes/celine-dessberg-28th-july-2026",
+        "t": "monthly",
         "p": "celinedessberg"
       },
       {
@@ -49,22 +40,21 @@
         "p": "margeaux"
       },
       {
-        "n": "AWE W/ LAUREL HALO",
+        "n": "NTS Guide to: Treasure Isle Dubs & Versions",
         "s": "2026-07-28T16:00:00+01:00",
         "e": "2026-07-28T17:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Treasure Isle Dubs & Versions",
         "u": null,
-        "p": "laurelhalo"
+        "t": "weekly"
       },
       {
-        "n": "FERGUS CLARK",
+        "n": "FERGUS CLARK w/ Lewis Lowe",
         "s": "2026-07-28T17:00:00+01:00",
         "e": "2026-07-28T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
         "p": "fergusclark"
       },
       {
@@ -167,43 +157,29 @@
         "u": null,
         "t": "weekly",
         "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-07-29T13:00:00+01:00",
+        "e": "2026-07-29T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "Dimension Door (R)",
-        "s": "2026-07-28T09:00:00+01:00",
-        "e": "2026-07-28T10:00:00+01:00",
-        "d": "Guest mix by Paris-based artist and DJ 4TUNE.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dimension-door/episodes/dimension-door-29th-january-2026",
-        "t": "restream",
-        "p": "dimensiondoor"
-      },
-      {
-        "n": "FAK AGZA2 W/ ZEYAD (R)",
-        "s": "2026-07-28T10:00:00+01:00",
-        "e": "2026-07-28T11:00:00+01:00",
-        "d": "Explore the rich textures of Egyptian music with a vinyl and cassette mix of instrumentals, hypnotic bellydance grooves and synth sounds from the 60s to the 90s. Photo credits: Magdy El Hosseiny & Sahar Hamdy.",
-        "j": "ZEYAD",
-        "u": "https://www.nts.live/api/v2/shows/postdrone/episodes/postdrone-28th-september-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Alif Hilal presents: pop.soil: THE DARKER SISTA",
-        "s": "2026-07-28T11:00:00+01:00",
-        "e": "2026-07-28T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "LUKID",
         "s": "2026-07-28T12:00:00+01:00",
         "e": "2026-07-28T13:00:00+01:00",
-        "d": null,
+        "d": "A monthly sonic journey from Lukid a.k.a Luke Blair. Expect a slow-burning, cinematic hour of hip-hop, epic psych, dub and synth soundscapes. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lukid/episodes/lukid-28th-july-2026",
         "t": "monthly",
         "p": "lukid"
       },
@@ -211,9 +187,9 @@
         "n": "Adultz Only",
         "s": "2026-07-28T13:00:00+01:00",
         "e": "2026-07-28T14:00:00+01:00",
-        "d": null,
+        "d": "A lovers selection strictly for the adultz, courtesy of Norman Francis - the man behind lovers rock archive The Revival Master.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/adultz-only/episodes/adultz-only-28th-july-2026",
         "t": "monthly",
         "p": "adultzonly"
       },
@@ -336,38 +312,44 @@
         "u": null,
         "t": "restream",
         "p": "billbrewster"
+      },
+      {
+        "n": "Horsegirl Sounds Radio Hour (R)",
+        "s": "2026-07-29T06:00:00+01:00",
+        "e": "2026-07-29T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Séance Centre (R)",
+        "s": "2026-07-29T07:00:00+01:00",
+        "e": "2026-07-29T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Death Is Not The End (R)",
+        "s": "2026-07-29T08:00:00+01:00",
+        "e": "2026-07-29T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
       {
-        "n": "Scampi",
-        "s": "2026-07-28T08:00:00Z",
-        "e": "2026-07-28T09:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-07-28T11:00:00Z",
+        "e": "2026-07-28T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "scampi"
-      },
-      {
-        "n": "Posh Mornings",
-        "s": "2026-07-28T09:00:00Z",
-        "e": "2026-07-28T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "poshmornings"
-      },
-      {
-        "n": "Local Movements",
-        "s": "2026-07-28T10:00:00Z",
-        "e": "2026-07-28T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "localmovements"
+        "t": "playlist"
       },
       {
         "n": "Liquid Vault w/ Half-Life",
@@ -1026,13 +1008,41 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Leiiila",
+        "s": "2026-08-04T09:00:00Z",
+        "e": "2026-08-04T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "leiiila"
+      },
+      {
+        "n": "Octoroots",
+        "s": "2026-08-04T10:00:00Z",
+        "e": "2026-08-04T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Jakesy",
+        "s": "2026-08-04T11:00:00Z",
+        "e": "2026-08-04T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-28T07:00:00Z",
-        "e": "2026-07-28T09:00:00Z",
+        "s": "2026-07-28T11:00:00Z",
+        "e": "2026-07-28T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1040,8 +1050,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-28T09:00:00Z",
-        "e": "2026-07-28T11:00:00Z",
+        "s": "2026-07-28T13:00:00Z",
+        "e": "2026-07-28T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1469,24 +1479,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-07-28T06:00:00Z",
-        "e": "2026-07-28T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Papaoul",
-        "s": "2026-07-28T09:00:00Z",
-        "e": "2026-07-28T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Jordan Mae",
         "s": "2026-07-28T11:00:00Z",
         "e": "2026-07-28T12:00:00Z",
@@ -1574,10 +1566,13 @@
         "s": "2026-07-28T22:00:00Z",
         "e": "2026-07-28T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "LB aka LABAT",
         "u": null,
         "t": "biweekly",
-        "p": "diffrent"
+        "p": "diffrent",
+        "ap": [
+          "lbakalabat"
+        ]
       },
       {
         "n": "Ghoulish",
@@ -1728,15 +1723,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-28T07:00:00Z",
-        "e": "2026-07-28T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-28T10:00:00Z",
