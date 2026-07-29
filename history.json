@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-07-29T20:44:09.079Z",
+  "updated": "2026-07-29T22:53:27.121Z",
   "stations": {
     "nts1": [
       {
@@ -25667,6 +25667,26 @@
         "u": "https://www.nts.live/api/v2/shows/martelo/episodes/martelo-29th-july-2026",
         "t": "biweekly",
         "p": "martelo"
+      },
+      {
+        "n": "HOOVERSOUND W/ NORA",
+        "s": "2026-07-29T21:00:00+01:00",
+        "e": "2026-07-29T22:00:00+01:00",
+        "d": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound.\nFrom the host: \"This month Hooversound is hosting the amazing Brazilian DJ & producer NORA - currently on her Europe tour. Presented by SHERELLE & NAINA - powered by the big and bad NTS!\"",
+        "j": "NORA",
+        "u": "https://www.nts.live/api/v2/shows/hooversound/episodes/hooversound-29th-july-2026",
+        "t": "monthly",
+        "p": "hooversound"
+      },
+      {
+        "n": "NKISI w/ Archangel",
+        "s": "2026-07-29T22:00:00+01:00",
+        "e": "2026-07-29T23:00:00+01:00",
+        "d": "Nkisi a.k.a Melika Ngombe Kolongo heads up a monthly late slot to rattle through dozens of tracks at breakneck speed, her mixes punctuated by African club beats and tinged by the jagged edges of gabber.\nFrom the host: \"Fresh from her TRUE PRIDE x Nighthawks x G.L.I.T.S. Inc set in SE London last weekend, DJ ARCHANGEL is taking over with a DJ SET.\"",
+        "j": "Archangel",
+        "u": "https://www.nts.live/api/v2/shows/nkisi/episodes/nkisi-29th-july-2026",
+        "t": "monthly",
+        "p": "nkisi"
       }
     ],
     "nts2": [
@@ -55843,6 +55863,28 @@
         "p": "biancalexis",
         "ap": [
           "panoramaheaven"
+        ]
+      },
+      {
+        "n": "Heaven and Earth Magic w/ Nirosta Steel",
+        "s": "2026-07-29T21:00:00+01:00",
+        "e": "2026-07-29T22:00:00+01:00",
+        "d": "Exploring inner and outer worlds, cosmic and pastoral sounds, and the intersection between reality and dreams once a month with Jocelyn Romo's mix of international and private press folk, instrumental guitar, dream country, ambient, new age, kosmiche, psych and beyond\nFrom the host: “These are the songs that always make me cry,” Steven Hall/Nirosta Steel. Lovingly mixed by friend of ULYSSA George Brazil.\"\n\"Nirosta Steel, aka musician Steven Hall, put out MY SKYSCRAPER in 2026, a collection drawing on some 40 years of reworked and ever-evolving material.\"",
+        "j": "Nirosta Steel",
+        "u": "https://www.nts.live/api/v2/shows/jocelyn-romo/episodes/jocelyn-romo-29th-july-2026",
+        "t": "monthly"
+      },
+      {
+        "n": "Luke Mele w/ Jane Margarette",
+        "s": "2026-07-29T22:00:00+01:00",
+        "e": "2026-07-29T23:00:00+01:00",
+        "d": "Soft-touch home listening selections live from LA every month with Luke Mele. Traversing ambient, jazz, guitar tones and more. ",
+        "j": "Jane Margarette",
+        "u": "https://www.nts.live/api/v2/shows/luke-mele/episodes/luke-mele-29th-july-2026",
+        "t": "monthly",
+        "p": "janemargarette",
+        "ap": [
+          "lukemele"
         ]
       }
     ],
@@ -104770,6 +104812,15 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "RERUN: Shigeto – guest session",
+        "s": "2026-07-29T20:00:00Z",
+        "e": "2026-07-29T22:00:00Z",
+        "d": null,
+        "j": "Shigeto – guest session",
+        "u": null,
+        "t": "restream"
       }
     ],
     "rinse": [
@@ -129302,6 +129353,14 @@
         "j": "CUBA",
         "u": null,
         "p": "chlocaillet"
+      },
+      {
+        "n": "HLRTY",
+        "s": "2026-07-29T20:00:00Z",
+        "e": "2026-07-29T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinsefr": [
@@ -144086,25 +144145,33 @@
         "t": "playlist"
       },
       {
-        "n": "Zohar",
+        "n": "Sinom",
         "s": "2026-07-29T12:00:00Z",
-        "e": "2026-07-29T14:00:00Z",
+        "e": "2026-07-29T13:00:00Z",
         "d": null,
-        "j": "Nothing Here Now w/ Jo FLM",
+        "j": null,
         "u": null
       },
       {
-        "n": "Boukan Records",
+        "n": "Kaïlys",
+        "s": "2026-07-29T13:00:00Z",
+        "e": "2026-07-29T14:00:00Z",
+        "d": null,
+        "j": "Laboshadory",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Rinse France Guest Show",
         "s": "2026-07-29T14:00:00Z",
         "e": "2026-07-29T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "boukanrecords"
+        "t": "weekly"
       },
       {
-        "n": "Sonia Calico",
+        "n": "Pura Pura",
         "s": "2026-07-29T15:00:00Z",
         "e": "2026-07-29T16:00:00Z",
         "d": null,
@@ -144112,32 +144179,40 @@
         "u": null
       },
       {
-        "n": "HORS-SOL",
+        "n": "Gaîté L'Été",
         "s": "2026-07-29T16:00:00Z",
         "e": "2026-07-29T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "horssol"
+        "t": "regular"
       },
       {
-        "n": "Scarlett",
+        "n": "Gaîté L'Été",
         "s": "2026-07-29T17:00:00Z",
         "e": "2026-07-29T18:00:00Z",
         "d": null,
-        "j": "invite MX MNK",
+        "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "regular"
       },
       {
-        "n": "Roulita",
+        "n": "Gaîté L'Été",
         "s": "2026-07-29T18:00:00Z",
         "e": "2026-07-29T19:00:00Z",
         "d": null,
-        "j": "invite Kerrie",
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "regular"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-29T19:00:00Z",
+        "e": "2026-07-29T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "newtown": [
