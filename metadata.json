@@ -1,38 +1,26 @@
 {
   "v": 2,
-  "updated": "2026-07-29T11:54:29.789Z",
+  "updated": "2026-07-29T13:47:44.048Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Soup To Nuts w/ Ruby Savage",
-        "s": "2026-07-29T11:00:00+01:00",
-        "e": "2026-07-29T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-ruby-savage-29th-july-2026",
-        "p": "rubysavage"
-      },
-      {
-        "n": "LUNCH CLUB w/ FINN",
-        "s": "2026-07-29T13:00:00+01:00",
-        "e": "2026-07-29T14:00:00+01:00",
-        "d": "Dance music with feeling, lunch time with Finn",
-        "j": "FINN",
-        "u": "https://www.nts.live/api/v2/shows/lunch-club/episodes/lunch-club-29th-july-2026",
-        "t": "weekly",
-        "p": "finn",
-        "ap": [
-          "lunchclub"
-        ]
-      },
       {
         "n": "I. JORDAN",
         "s": "2026-07-29T14:00:00+01:00",
         "e": "2026-07-29T15:00:00+01:00",
-        "d": null,
+        "d": "I. JORDAN in the studio with a power hour of new house and techno sounds.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/i-jordan-29th-july-2026",
         "p": "ijordan"
+      },
+      {
+        "n": "IN FOCUS: A GUY CALLED GERALD (R)",
+        "s": "2026-07-29T15:00:00+01:00",
+        "e": "2026-07-29T16:00:00+01:00",
+        "d": "A totemic figure in the history of UK dance and electronic music, Manchester native A Guy Called Gerald set the blueprint for the future of club music in the country, with his earlier jungle and acid house tracks, most notably the psychedelic masterpiece \"Voodoo Ray\" which has beguiled generations of dancers for well over three decades. \nLDLDN runs through an hour of Gerald's early classics on this In Focus.",
+        "j": "A GUY CALLED GERALD",
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/a-guy-called-gerald-7th-april-2022",
+        "t": "restream",
+        "p": "aguycalledgerald"
       },
       {
         "n": "NTS Guide to: 2-Step",
@@ -50,6 +38,16 @@
         "j": null,
         "u": null,
         "p": "djswisha"
+      },
+      {
+        "n": "FIELD RESEARCH W/ GYROFIELD (R)",
+        "s": "2026-07-29T18:00:00+01:00",
+        "e": "2026-07-29T19:00:00+01:00",
+        "d": null,
+        "j": "GYROFIELD",
+        "u": null,
+        "t": "restream",
+        "p": "gyrofield"
       },
       {
         "n": "TIM REAPER",
@@ -175,50 +173,29 @@
     ],
     "nts2": [
       {
-        "n": "ACID MEMORIES W/ ASTRAL VIBES",
-        "s": "2026-07-29T12:00:00+01:00",
-        "e": "2026-07-29T13:00:00+01:00",
-        "d": "Rose-tinted hallucinogenic sounds from Astral Vibes' Acid Memories. Illicit dealings in psychedelia of all persuasions. Sit back and enjoy…\nFrom the host: \"A Special Summer Edition - 100% Library Music. Exploring a timeless world of rare themes, forgotten scores, hazy grooves and imaginary soundtracks. . Endless summer, this is Acid Memories*\"",
-        "j": "ASTRAL VIBES",
-        "u": "https://www.nts.live/api/v2/shows/acid-memories/episodes/acid-memories-29th-july-2026",
-        "t": "monthly",
-        "p": "acidmemories"
-      },
-      {
-        "n": "SHUKAI - Romanian Experimental Music 1966–1984",
-        "s": "2026-07-29T13:00:00+01:00",
-        "e": "2026-07-29T14:00:00+01:00",
-        "d": "A unique dip into the musical history of Ukraine with archival label Shukai, journeying back to the ‘90s, playing music from documentaries, sci-fi films, obscure cartoons and late-night music programming, curated by Dmytro Nikolaienko, Dmytro Prutkin and Alec Tsapenko.\nFrom the host: \"An exploration of Romanian experimental music (1966–1984), spanning avant-garde composition, film soundtracks, electronics and jazz. Compiled with the invaluable support of Elena Dobîndă and Image and Sound (Bucharest).\"",
-        "j": "Romanian Experimental Music 1966–1984",
-        "u": "https://www.nts.live/api/v2/shows/shukai/episodes/shukai-29th-july-2026",
-        "t": "monthly",
-        "p": "shukai"
-      },
-      {
         "n": "80's RAMPWALK",
         "s": "2026-07-29T14:00:00+01:00",
         "e": "2026-07-29T15:00:00+01:00",
-        "d": null,
+        "d": "80's Rampwalk delivers an hour of cold wave, minimal synth, industrial, post-punk and music made in Berlin basements.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/80srampwalk/episodes/80srampwalk-29th-july-2026",
         "t": "monthly"
       },
       {
         "n": "IKR. IMPRINT w/ Multiple People",
         "s": "2026-07-29T15:00:00+01:00",
         "e": "2026-07-29T16:00:00+01:00",
-        "d": null,
+        "d": "universal collage",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/ikura-imprint/episodes/ikura-imprint-29th-july-2026"
       },
       {
-        "n": "FIFTH WORLD W/ IAN KIM JUDD - Quiet Storm special",
+        "n": "FIFTH WORLD W/ Coldsteel - Quiet Storm special",
         "s": "2026-07-29T16:00:00+01:00",
         "e": "2026-07-29T17:00:00+01:00",
         "d": null,
-        "j": "IAN KIM JUDD",
+        "j": null,
         "u": null,
-        "t": "monthly",
         "p": "fifthworld"
       },
       {
@@ -352,6 +329,24 @@
         "u": null,
         "t": "restream",
         "p": "laurelhalo"
+      },
+      {
+        "n": "ANADOL (R)",
+        "s": "2026-07-30T07:00:00+01:00",
+        "e": "2026-07-30T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "HOUSE CALL (R)",
+        "s": "2026-07-30T08:00:00+01:00",
+        "e": "2026-07-30T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -1147,13 +1142,31 @@
         "u": null,
         "t": "monthly",
         "p": "pavzky"
+      },
+      {
+        "n": "Live Laugh Layla",
+        "s": "2026-08-05T12:00:00Z",
+        "e": "2026-08-05T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Ni-am",
+        "s": "2026-08-05T13:00:00Z",
+        "e": "2026-08-05T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-29T11:00:00Z",
-        "e": "2026-07-29T13:00:00Z",
+        "s": "2026-07-29T13:00:00Z",
+        "e": "2026-07-29T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1161,8 +1174,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-29T13:00:00Z",
-        "e": "2026-07-29T15:00:00Z",
+        "s": "2026-07-29T15:00:00Z",
+        "e": "2026-07-29T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1723,26 +1736,6 @@
     ],
     "rinse": [
       {
-        "n": "Sticky Dub",
-        "s": "2026-07-29T11:00:00Z",
-        "e": "2026-07-29T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "stickydub"
-      },
-      {
-        "n": "Eclecticist",
-        "s": "2026-07-29T12:00:00Z",
-        "e": "2026-07-29T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "eclecticist"
-      },
-      {
         "n": "Anastazja",
         "s": "2026-07-29T13:00:00Z",
         "e": "2026-07-29T14:00:00Z",
@@ -1970,15 +1963,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-29T10:00:00Z",
-        "e": "2026-07-29T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Zohar",
         "s": "2026-07-29T12:00:00Z",
