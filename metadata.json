@@ -1,32 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-07-29T05:12:54.351Z",
+  "updated": "2026-07-29T08:25:59.331Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ONDAS W/ DUBBY (R)",
-        "s": "2026-07-29T06:00:00+01:00",
-        "e": "2026-07-29T07:00:00+01:00",
-        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.\nFrom the host:\"The first episode of 2026 features Antal, founder of Rush Hour and co-compiler of last October's \"Techno Kayo Vol.1.\"",
-        "j": "DUBBY",
-        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-11th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
-        "s": "2026-07-29T07:00:00+01:00",
-        "e": "2026-07-29T09:00:00+01:00",
-        "d": "Dawn moods for the early birds, courtesy of Sleepier & Impey aka Spirit Blue. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-spirit-blue/episodes/early-bird-show-spirit-blue-29th-july-2026"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-07-29T09:00:00+01:00",
         "e": "2026-07-29T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-29th-july-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -34,9 +17,9 @@
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-07-29T11:00:00+01:00",
         "e": "2026-07-29T13:00:00+01:00",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-29th-july-2026",
         "t": "weekly",
         "p": "shyone"
       },
@@ -177,43 +160,44 @@
         "u": null,
         "t": "restream",
         "p": "kranky"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "s": "2026-07-30T07:00:00+01:00",
+        "e": "2026-07-30T09:00:00+01:00",
+        "d": null,
+        "j": "PAM",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-07-30T09:00:00+01:00",
+        "e": "2026-07-30T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
       {
-        "n": "Horsegirl Sounds Radio Hour (R)",
-        "s": "2026-07-29T06:00:00+01:00",
-        "e": "2026-07-29T07:00:00+01:00",
-        "d": "Horsegirl Sounds Radio Hour is a long running playlist curated by Penelope, Gigi, and Nora. Now they bring their monthly selections to the NTS airwaves.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/horsegirl/episodes/horsegirl-5th-march-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Séance Centre (R)",
-        "s": "2026-07-29T07:00:00+01:00",
-        "e": "2026-07-29T08:00:00+01:00",
-        "d": "Canadian record label, publisher, and distributors Séance Centre conjure timeless music from the past, present, and future. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/seance-centre/episodes/seance-centre-28th-january-2026",
-        "t": "restream"
-      },
-      {
         "n": "Death Is Not The End (R)",
         "s": "2026-07-29T08:00:00+01:00",
         "e": "2026-07-29T10:00:00+01:00",
-        "d": null,
+        "d": "This month's show is a 2hour selection of Hawaiian slack key & steel guitar records from the 1920s, 30s & early 40s.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-26th-november-2023",
         "t": "restream"
       },
       {
         "n": "OREN AMBARCHI (R)",
         "s": "2026-07-29T10:00:00+01:00",
         "e": "2026-07-29T11:00:00+01:00",
-        "d": null,
+        "d": "The underground and experimental hero, composer, and guitar abstractionist Oren Ambarchi invites us to regular eclectic listening sessions, exploring the breadth of his extensive record collection.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/oren-ambarchi/episodes/oren-ambarchi-29th-june-2023",
         "t": "restream"
       },
       {
@@ -350,6 +334,28 @@
         "j": "Music from Japan’s CD-era Electronic Underground Vol. 2",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "COLD PIZZA W/ STUD1NT",
+        "s": "2026-07-30T02:00:00+01:00",
+        "e": "2026-07-30T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "coldpizza"
+      },
+      {
+        "n": "CLUB AEROBICS W/ BIANCA OBLIVION & MLE",
+        "s": "2026-07-30T03:00:00+01:00",
+        "e": "2026-07-30T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "biancaoblivion",
+        "ap": [
+          "clubaerobics",
+          "clubaerobics"
+        ]
       }
     ],
     "subtle": [
@@ -1107,26 +1113,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sing/Say w/ Paul Hertmann",
+        "s": "2026-08-05T07:00:00Z",
+        "e": "2026-08-05T08:00:00Z",
+        "d": null,
+        "j": "Paul Hertmann",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Wyldeflower and PayRay - nueve",
-        "s": "2026-07-29T05:00:00Z",
-        "e": "2026-07-29T07:00:00Z",
-        "d": null,
-        "j": "nueve",
-        "u": null,
-        "t": "monthly",
-        "p": "payray",
-        "ap": [
-          "wyldeflower"
-        ]
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-07-29T07:00:00Z",
         "e": "2026-07-29T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-07-29T09:00:00Z",
+        "e": "2026-07-29T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1687,15 +1698,6 @@
     ],
     "rinse": [
       {
-        "n": "Camille Munn",
-        "s": "2026-07-29T05:00:00Z",
-        "e": "2026-07-29T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "camillemunn"
-      },
-      {
         "n": "Playlist",
         "s": "2026-07-29T06:00:00Z",
         "e": "2026-07-29T09:00:00Z",
@@ -1964,15 +1966,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-28T19:00:00Z",
-        "e": "2026-07-29T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-29T07:00:00Z",
         "e": "2026-07-29T10:00:00Z",
         "d": null,
@@ -1981,34 +1974,40 @@
         "t": "playlist"
       },
       {
-        "n": "Playlist France",
+        "n": "Queer Cult Takeover",
         "s": "2026-07-29T10:00:00Z",
         "e": "2026-07-29T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "p": "queercult"
       },
       {
-        "n": "Black Square Club",
+        "n": "Dunya Takeover",
         "s": "2026-07-29T12:00:00Z",
+        "e": "2026-07-29T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Dunya Takeover",
+        "s": "2026-07-29T13:00:00Z",
         "e": "2026-07-29T14:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "Dunya Takeover",
         "s": "2026-07-29T14:00:00Z",
         "e": "2026-07-29T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "weekly"
+        "u": null
       },
       {
-        "n": "Pura Pura",
+        "n": "PPJ",
         "s": "2026-07-29T15:00:00Z",
         "e": "2026-07-29T16:00:00Z",
         "d": null,
@@ -2016,18 +2015,90 @@
         "u": null
       },
       {
-        "n": "Gaîté L'Été",
+        "n": "HORS-SOL",
         "s": "2026-07-29T16:00:00Z",
         "e": "2026-07-29T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "regular"
+        "t": "monthly",
+        "p": "horssol"
+      },
+      {
+        "n": "Scarlett",
+        "s": "2026-07-29T17:00:00Z",
+        "e": "2026-07-29T18:00:00Z",
+        "d": null,
+        "j": "invite MX MNK",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Roulita",
+        "s": "2026-07-29T18:00:00Z",
+        "e": "2026-07-29T19:00:00Z",
+        "d": null,
+        "j": "invite Kerrie",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-29T19:00:00Z",
+        "e": "2026-07-30T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-30T07:00:00Z",
+        "e": "2026-07-30T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-30T10:00:00Z",
+        "e": "2026-07-30T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Black Square Club",
+        "s": "2026-07-30T12:00:00Z",
+        "e": "2026-07-30T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-07-30T14:00:00Z",
+        "e": "2026-07-30T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Pura Pura",
+        "s": "2026-07-30T15:00:00Z",
+        "e": "2026-07-30T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "Gaîté L'Été",
-        "s": "2026-07-29T17:00:00Z",
-        "e": "2026-07-29T18:00:00Z",
+        "s": "2026-07-30T16:00:00Z",
+        "e": "2026-07-30T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2035,8 +2106,17 @@
       },
       {
         "n": "Gaîté L'Été",
-        "s": "2026-07-29T18:00:00Z",
-        "e": "2026-07-29T19:00:00Z",
+        "s": "2026-07-30T17:00:00Z",
+        "e": "2026-07-30T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
+      },
+      {
+        "n": "Gaîté L'Été",
+        "s": "2026-07-30T18:00:00Z",
+        "e": "2026-07-30T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2044,8 +2124,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-29T19:00:00Z",
-        "e": "2026-07-29T20:00:00Z",
+        "s": "2026-07-30T19:00:00Z",
+        "e": "2026-07-30T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
