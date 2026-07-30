@@ -1,54 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-07-30T04:49:31.946Z",
+  "updated": "2026-07-30T08:08:44.265Z",
   "stations": {
     "nts1": [
       {
-        "n": "SARA A (R)",
-        "s": "2026-07-30T05:00:00+01:00",
-        "e": "2026-07-30T06:00:00+01:00",
-        "d": "Lesser heard sounds with a focus on femmes in punk from artist and musician Sara A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-25th-july-2025",
-        "t": "restream",
-        "p": "saraa"
-      },
-      {
-        "n": "KRANKY (R)",
-        "s": "2026-07-30T06:00:00+01:00",
-        "e": "2026-07-30T07:00:00+01:00",
-        "d": "The inimitable Kranky Ltd, live from LA once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kranky/episodes/kranky-13th-november-2025",
-        "t": "restream",
-        "p": "kranky"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-07-30T07:00:00+01:00",
-        "e": "2026-07-30T09:00:00+01:00",
-        "d": null,
-        "j": "PAM",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "n": "THE NTS BREAKFAST SHOW W/ MACCA",
         "s": "2026-07-30T09:00:00+01:00",
         "e": "2026-07-30T11:00:00+01:00",
-        "d": null,
-        "j": "FLO",
-        "u": null,
-        "t": "regular",
-        "p": "flo"
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
+        "j": "MACCA",
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-30th-july-2026",
+        "t": "monthly",
+        "p": "macca"
       },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-07-30T11:00:00+01:00",
         "e": "2026-07-30T13:00:00+01:00",
-        "d": null,
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-30th-july-2026"
       },
       {
         "n": "DANCE MUSIC SHOW W/ BELL TOWERS",
@@ -165,62 +136,51 @@
         "j": null,
         "u": null,
         "p": "scarythings"
+      },
+      {
+        "n": "RAJI RAGS",
+        "s": "2026-07-31T13:00:00+01:00",
+        "e": "2026-07-31T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "rajirags"
+      },
+      {
+        "n": "ADONIS w/ Riva",
+        "s": "2026-07-31T15:00:00+01:00",
+        "e": "2026-07-31T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "adonis"
+      },
+      {
+        "n": "WAYA FYAM W/ PRIESTE$$ TELZZZZZZ",
+        "s": "2026-07-31T16:00:00+01:00",
+        "e": "2026-07-31T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "In Focus: The Blue Nile (R)",
-        "s": "2026-07-30T05:00:00+01:00",
-        "e": "2026-07-30T06:00:00+01:00",
-        "d": "Like the gold that sits untainted under the silt of a riverbed, good pop music never really loses it's sheen, and it cares little for passing fads: Glasgow's The Blue Nile were creators of such music. All the good stuff that pop songwriting thrives on - ennui, longing, fleeting joy - were present in frontman Paul Buchanan's lyrics, which told sophisticated urban tales of love and loss. \nSelected and mixed by Sofay.  ",
-        "j": "The Blue Nile",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-blue-nile-2nd-august-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Awe w/ Laurel Halo & ISAbella (R)",
-        "s": "2026-07-30T06:00:00+01:00",
-        "e": "2026-07-30T07:00:00+01:00",
-        "d": "Awe is something you feel when confronted with forces beyond your control: nature, the cosmos, chaos, human error, hallucinations.",
-        "j": "Laurel Halo & ISAbella",
-        "u": "https://www.nts.live/api/v2/shows/laurel-halo/episodes/laurel-halo-21st-may-2024",
-        "t": "restream",
-        "p": "laurelhalo"
-      },
-      {
-        "n": "ANADOL (R)",
-        "s": "2026-07-30T07:00:00+01:00",
-        "e": "2026-07-30T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "HOUSE CALL (R)",
-        "s": "2026-07-30T08:00:00+01:00",
-        "e": "2026-07-30T09:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "GINKGO RECORDS (R)",
         "s": "2026-07-30T09:00:00+01:00",
         "e": "2026-07-30T10:00:00+01:00",
-        "d": null,
+        "d": "Michigan selector Shells plays 45s",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ccc---shells/episodes/ccc---shells-3rd-april-2026",
         "t": "restream"
       },
       {
         "n": "Still Life w/ Slauson Malone 1",
         "s": "2026-07-30T10:00:00+01:00",
         "e": "2026-07-30T12:00:00+01:00",
-        "d": null,
+        "d": "London-based artist Jasper Marsalis, aka Slauson Malone 1, shares a selection of works celebrating the influence of Kaija Saariaho, Pauline Oliveros and other electro-acoustic composers of the 20th century on his Chisenhale Gallery exhibition Still Life. The large-scale audiovisual installation accesses and reworks public broadcast signals, raising questions of transmission and attention in the systems that govern how images and sounds reach us. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/still-life-w-slauson-malone-1-30th-july-2026"
       },
       {
         "n": "On the Road w/ Adelina S",
@@ -304,7 +264,7 @@
         "p": "temporalcove"
       },
       {
-        "n": "SEMATARY",
+        "n": "SEMATARY - MOUNDRICH RADIO 6",
         "s": "2026-07-30T21:00:00+01:00",
         "e": "2026-07-30T22:00:00+01:00",
         "d": null,
@@ -313,7 +273,7 @@
         "p": "sematary"
       },
       {
-        "n": "ALEX HO",
+        "n": "Alex Ho w/ Cromie",
         "s": "2026-07-30T22:00:00+01:00",
         "e": "2026-07-30T23:00:00+01:00",
         "d": null,
@@ -327,6 +287,41 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "No Bells w/ Glasear",
+        "s": "2026-07-31T00:00:00+01:00",
+        "e": "2026-07-31T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "nobells"
+      },
+      {
+        "n": "TeamSESH w/ HNRK",
+        "s": "2026-07-31T01:00:00+01:00",
+        "e": "2026-07-31T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "RAP VACATION w/ Bataan Marciano",
+        "s": "2026-07-31T02:00:00+01:00",
+        "e": "2026-07-31T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "rapvacation"
+      },
+      {
+        "n": "FIXED ABODE (R)",
+        "s": "2026-07-31T04:00:00+01:00",
+        "e": "2026-07-31T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -1262,13 +1257,32 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Lauden ",
+        "s": "2026-08-06T06:00:00Z",
+        "e": "2026-08-06T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "lauden"
+      },
+      {
+        "n": " In The Rotation w/ Su",
+        "s": "2026-08-06T08:00:00Z",
+        "e": "2026-08-06T09:00:00Z",
+        "d": null,
+        "j": "Su",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-30T03:00:00Z",
-        "e": "2026-07-30T05:00:00Z",
+        "s": "2026-07-30T07:00:00Z",
+        "e": "2026-07-30T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1276,8 +1290,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-30T05:00:00Z",
-        "e": "2026-07-30T07:00:00Z",
+        "s": "2026-07-30T09:00:00Z",
+        "e": "2026-07-30T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1848,28 +1862,19 @@
         "u": null,
         "t": "monthly",
         "p": "gogo"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-07-30T01:00:00Z",
-        "e": "2026-07-30T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
       },
       {
-        "n": "Morf",
-        "s": "2026-07-30T05:00:00Z",
-        "e": "2026-07-30T06:00:00Z",
+        "n": "Richard Chartier – between two points",
+        "s": "2026-08-06T05:00:00Z",
+        "e": "2026-08-06T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "morf"
-      },
+        "p": "richardchartier"
+      }
+    ],
+    "rinse": [
       {
         "n": "Playlist",
         "s": "2026-07-30T06:00:00Z",
@@ -2115,15 +2120,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-29T19:00:00Z",
-        "e": "2026-07-30T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-07-30T07:00:00Z",
         "e": "2026-07-30T10:00:00Z",
         "d": null,
@@ -2141,7 +2137,7 @@
         "t": "playlist"
       },
       {
-        "n": "Ferdinand Prairie",
+        "n": "Sinom",
         "s": "2026-07-30T12:00:00Z",
         "e": "2026-07-30T13:00:00Z",
         "d": null,
@@ -2149,17 +2145,104 @@
         "u": null
       },
       {
-        "n": "Kayamba",
+        "n": "Kaïlys",
         "s": "2026-07-30T13:00:00Z",
         "e": "2026-07-30T14:00:00Z",
+        "d": null,
+        "j": "Laboshadory",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-07-30T14:00:00Z",
+        "e": "2026-07-30T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Pura Pura",
+        "s": "2026-07-30T15:00:00Z",
+        "e": "2026-07-30T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Gaîté L'Été",
+        "s": "2026-07-30T16:00:00Z",
+        "e": "2026-07-30T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
+      },
+      {
+        "n": "Gaîté L'Été",
+        "s": "2026-07-30T17:00:00Z",
+        "e": "2026-07-30T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
+      },
+      {
+        "n": "Gaîté L'Été",
+        "s": "2026-07-30T18:00:00Z",
+        "e": "2026-07-30T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "regular"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-30T19:00:00Z",
+        "e": "2026-07-31T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-31T07:00:00Z",
+        "e": "2026-07-31T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-31T10:00:00Z",
+        "e": "2026-07-31T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Ferdinand Prairie",
+        "s": "2026-07-31T12:00:00Z",
+        "e": "2026-07-31T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Kayamba",
+        "s": "2026-07-31T13:00:00Z",
+        "e": "2026-07-31T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Hey Bony",
-        "s": "2026-07-30T14:00:00Z",
-        "e": "2026-07-30T15:00:00Z",
+        "s": "2026-07-31T14:00:00Z",
+        "e": "2026-07-31T15:00:00Z",
         "d": null,
         "j": "Khxdeej",
         "u": null,
@@ -2167,17 +2250,16 @@
       },
       {
         "n": "Rinse France Guest Show",
-        "s": "2026-07-30T15:00:00Z",
-        "e": "2026-07-30T16:00:00Z",
+        "s": "2026-07-31T15:00:00Z",
+        "e": "2026-07-31T16:00:00Z",
         "d": null,
         "j": "Mamdouh313",
-        "u": null,
-        "t": "weekly"
+        "u": null
       },
       {
         "n": "ASIAN CORE",
-        "s": "2026-07-30T16:00:00Z",
-        "e": "2026-07-30T17:00:00Z",
+        "s": "2026-07-31T16:00:00Z",
+        "e": "2026-07-31T17:00:00Z",
         "d": null,
         "j": "SPÉCIALE HACKERS AND DESIGNERS",
         "u": null,
@@ -2185,16 +2267,16 @@
       },
       {
         "n": "BFJ",
-        "s": "2026-07-30T17:00:00Z",
-        "e": "2026-07-30T18:00:00Z",
+        "s": "2026-07-31T17:00:00Z",
+        "e": "2026-07-31T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "LAZE",
-        "s": "2026-07-30T18:00:00Z",
-        "e": "2026-07-30T19:00:00Z",
+        "s": "2026-07-31T18:00:00Z",
+        "e": "2026-07-31T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2202,8 +2284,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-30T19:00:00Z",
-        "e": "2026-07-30T20:00:00Z",
+        "s": "2026-07-31T19:00:00Z",
+        "e": "2026-07-31T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2212,16 +2294,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "Out of Order",
-        "s": "2026-07-30T03:00:00Z",
-        "e": "2026-07-30T05:00:00Z",
-        "d": null,
-        "j": "Aepricity",
-        "u": null,
-        "t": "monthly",
-        "p": "aepricity"
-      },
       {
         "n": "TVOD",
         "s": "2026-08-01T05:00:00Z",
