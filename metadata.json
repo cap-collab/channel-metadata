@@ -1,42 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-07-31T05:33:01.333Z",
+  "updated": "2026-07-31T08:35:54.080Z",
   "stations": {
     "nts1": [
       {
-        "n": "Crossed Wires w/ Amanda Siegel (R)",
-        "s": "2026-07-31T05:00:00+01:00",
-        "e": "2026-07-31T07:00:00+01:00",
-        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.",
-        "j": "Amanda Siegel",
-        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-23rd-february-2024",
-        "t": "restream",
-        "p": "amandasiegel"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
-        "s": "2026-07-31T07:00:00+01:00",
-        "e": "2026-07-31T09:00:00+01:00",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": "JACK ROLLO",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-31st-july-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW",
+        "n": "THE NTS BREAKFAST SHOW W/ BABYSCHÖN",
         "s": "2026-07-31T09:00:00+01:00",
         "e": "2026-07-31T11:00:00+01:00",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-babyschon-31st-july-2026"
       },
       {
         "n": "SOUP TO NUTS W/ SCARY THINGS",
         "s": "2026-07-31T11:00:00+01:00",
         "e": "2026-07-31T13:00:00+01:00",
-        "d": null,
+        "d": "Friday mornings get scary - Bempah & JK elevating your vibe right in time for the weekend. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-w-scary-things/episodes/soup-to-nuts-w-scary-things-31st-july-2026",
         "p": "scarythings"
       },
       {
@@ -164,45 +145,36 @@
         "u": null,
         "t": "restream",
         "p": "desirepaths"
+      },
+      {
+        "n": "RAGA VIBRATIONS",
+        "s": "2026-08-01T08:00:00+01:00",
+        "e": "2026-08-01T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ragavibrations"
+      },
+      {
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
+        "s": "2026-08-01T10:00:00+01:00",
+        "e": "2026-08-01T12:00:00+01:00",
+        "d": null,
+        "j": "MACCA",
+        "u": null,
+        "t": "biweekly",
+        "p": "macca"
       }
     ],
     "nts2": [
       {
-        "n": "LXXXVIII W/ ACTRESS (R)",
-        "s": "2026-07-31T06:00:00+01:00",
-        "e": "2026-07-31T07:00:00+01:00",
-        "d": "Welcome to LXXXVIII – the ninth Actress album to be created by Darren Cunningham and the very first presentation of Actress’ voyage into luxury sonics.\nA lifetime in the making, LXXXVIII is the culmination of 25 years’ honing mind-shorting, soul-igniting audio\ninfusions for dance floors, rave dens, festivals, and concert hall, and the inaugural vessel for Actress’ cruise into novel strata of artistic influence: the executive suites, yacht decks and private jets of our planet’s ultimate power players.",
-        "j": "ACTRESS",
-        "u": "https://www.nts.live/api/v2/shows/actress/episodes/actress-10th-november-2023",
-        "t": "restream",
-        "p": "actress"
-      },
-      {
-        "n": "WHY BE (R)",
-        "s": "2026-07-31T07:00:00+01:00",
-        "e": "2026-07-31T08:00:00+01:00",
-        "d": "Bi-monthly random fandom.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/why-be/episodes/why-be-23rd-september-2024",
-        "t": "restream",
-        "p": "whybe"
-      },
-      {
-        "n": "Under Sleepy Moon w/ Yawning Portal (R)",
-        "s": "2026-07-31T08:00:00+01:00",
-        "e": "2026-07-31T09:00:00+01:00",
-        "d": null,
-        "j": "Yawning Portal",
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "VIBRATIONS FOR A BETTER WORLD W/ AOKI TAKAMASA (R)",
         "s": "2026-07-31T09:00:00+01:00",
         "e": "2026-07-31T11:00:00+01:00",
-        "d": null,
+        "d": "Osaka based AOKI takamasa is known for his work as a producer, live performer, DJ and photographer, and notable debut album SILICOM in 2001. Here he presents a three hour excursion through modern classical, ambient and minimal electronics, recorded at Sound Bar Normal in Nagoya, Japan.",
         "j": "AOKI TAKAMASA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/aoki-takamasa/episodes/aoki-takamasa-25th-february-2024",
         "t": "restream",
         "p": "aokitakamasa"
       },
@@ -210,9 +182,9 @@
         "n": "In Focus: Talal Maddah",
         "s": "2026-07-31T11:00:00+01:00",
         "e": "2026-07-31T12:00:00+01:00",
-        "d": null,
+        "d": "60 minutes of recordings from beloved Saudi Arabian composer, singer, and multi-instrumentalist Talal Maddah. Known as \"The Earth's Voice\" he has become an influential figure in Arabian pop culture. \nCreated by Leila Samir. ",
         "j": "Talal Maddah",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-talal-maddah-31st-july-2026",
         "t": "weekly"
       },
       {
@@ -326,6 +298,35 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "BORN FOR BURNING W/ PAINKILLER KIM",
+        "s": "2026-08-01T02:00:00+01:00",
+        "e": "2026-08-01T03:00:00+01:00",
+        "d": null,
+        "j": "PAINKILLER KIM",
+        "u": null,
+        "t": "monthly",
+        "p": "painkillerkim"
+      },
+      {
+        "n": "Boom Bip (R)",
+        "s": "2026-08-01T03:00:00+01:00",
+        "e": "2026-08-01T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "boombip"
+      },
+      {
+        "n": "Hood Rave x Dweller w/ ZACK FOX (R)",
+        "s": "2026-08-01T04:00:00+01:00",
+        "e": "2026-08-01T05:00:00+01:00",
+        "d": null,
+        "j": "ZACK FOX",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -1399,13 +1400,32 @@
         "j": "R A L L Y",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Decay ",
+        "s": "2026-08-07T06:00:00Z",
+        "e": "2026-08-07T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "L.J. Violet",
+        "s": "2026-08-07T08:00:00Z",
+        "e": "2026-08-07T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "violet"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-07-31T04:00:00Z",
-        "e": "2026-07-31T06:00:00Z",
+        "s": "2026-07-31T08:00:00Z",
+        "e": "2026-07-31T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1413,8 +1433,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-07-31T06:00:00Z",
-        "e": "2026-07-31T08:00:00Z",
+        "s": "2026-07-31T10:00:00Z",
+        "e": "2026-07-31T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2023,15 +2043,6 @@
     ],
     "rinse": [
       {
-        "n": "Eclecticist",
-        "s": "2026-07-31T05:00:00Z",
-        "e": "2026-07-31T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "eclecticist"
-      },
-      {
         "n": "Playlist",
         "s": "2026-07-31T06:00:00Z",
         "e": "2026-07-31T09:00:00Z",
@@ -2245,8 +2256,8 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-07-30T19:00:00Z",
-        "e": "2026-07-31T07:00:00Z",
+        "s": "2026-07-31T07:00:00Z",
+        "e": "2026-07-31T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2254,7 +2265,7 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-31T07:00:00Z",
+        "s": "2026-07-31T10:00:00Z",
         "e": "2026-07-31T12:00:00Z",
         "d": null,
         "j": null,
@@ -2262,9 +2273,85 @@
         "t": "playlist"
       },
       {
-        "n": "Aho Ssan",
+        "n": "Ferdinand Prairie",
         "s": "2026-07-31T12:00:00Z",
         "e": "2026-07-31T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Kayamba",
+        "s": "2026-07-31T13:00:00Z",
+        "e": "2026-07-31T14:00:00Z",
+        "d": null,
+        "j": "invite DJ Psychorigid B2B SleepyTamashi",
+        "u": null
+      },
+      {
+        "n": "Hey Bony",
+        "s": "2026-07-31T14:00:00Z",
+        "e": "2026-07-31T15:00:00Z",
+        "d": null,
+        "j": "Khxdeej",
+        "u": null,
+        "p": "heybony"
+      },
+      {
+        "n": "Rinse France Guest Show",
+        "s": "2026-07-31T15:00:00Z",
+        "e": "2026-07-31T16:00:00Z",
+        "d": null,
+        "j": "Mamdouh313",
+        "u": null
+      },
+      {
+        "n": "ASIAN CORE",
+        "s": "2026-07-31T16:00:00Z",
+        "e": "2026-07-31T17:00:00Z",
+        "d": null,
+        "j": "SPÉCIALE HACKERS AND DESIGNERS",
+        "u": null
+      },
+      {
+        "n": "BFJ",
+        "s": "2026-07-31T17:00:00Z",
+        "e": "2026-07-31T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LAZE",
+        "s": "2026-07-31T18:00:00Z",
+        "e": "2026-07-31T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-07-31T19:00:00Z",
+        "e": "2026-08-01T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-01T07:00:00Z",
+        "e": "2026-08-01T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Aho Ssan",
+        "s": "2026-08-01T12:00:00Z",
+        "e": "2026-08-01T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2272,8 +2359,8 @@
       },
       {
         "n": "Mattias Mimoun",
-        "s": "2026-07-31T13:00:00Z",
-        "e": "2026-07-31T14:00:00Z",
+        "s": "2026-08-01T13:00:00Z",
+        "e": "2026-08-01T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2282,8 +2369,8 @@
       },
       {
         "n": "Rythme Brisé",
-        "s": "2026-07-31T14:00:00Z",
-        "e": "2026-07-31T15:00:00Z",
+        "s": "2026-08-01T14:00:00Z",
+        "e": "2026-08-01T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2291,16 +2378,16 @@
       },
       {
         "n": "Léonie Pernet",
-        "s": "2026-07-31T15:00:00Z",
-        "e": "2026-07-31T16:00:00Z",
+        "s": "2026-08-01T15:00:00Z",
+        "e": "2026-08-01T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "LU2K",
-        "s": "2026-07-31T16:00:00Z",
-        "e": "2026-07-31T17:00:00Z",
+        "s": "2026-08-01T16:00:00Z",
+        "e": "2026-08-01T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2309,8 +2396,8 @@
       },
       {
         "n": "Forever DnB",
-        "s": "2026-07-31T17:00:00Z",
-        "e": "2026-07-31T18:00:00Z",
+        "s": "2026-08-01T17:00:00Z",
+        "e": "2026-08-01T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2318,16 +2405,16 @@
       },
       {
         "n": "Xea",
-        "s": "2026-07-31T18:00:00Z",
-        "e": "2026-07-31T19:00:00Z",
+        "s": "2026-08-01T18:00:00Z",
+        "e": "2026-08-01T19:00:00Z",
         "d": null,
         "j": "B2B Vitamine C",
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-07-31T19:00:00Z",
-        "e": "2026-07-31T20:00:00Z",
+        "s": "2026-08-01T19:00:00Z",
+        "e": "2026-08-01T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
