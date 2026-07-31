@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-07-31T19:09:57.755Z",
+  "updated": "2026-07-31T20:53:59.468Z",
   "stations": {
     "nts1": [
-      {
-        "n": "HOPPER1000 RADIO",
-        "s": "2026-07-31T20:00:00+01:00",
-        "e": "2026-07-31T21:00:00+01:00",
-        "d": "Oldies, jungle, hip hop, bass music, and more from legendary Florida DJ hopper1000.\nFrom the host: \"Mixxin up tracks live!!! will be on the west coast USA 8/12-8/16, so catch a show. also am on tour with Snow Strippers this September! Blessings to all who read this message. U Rock - 1000\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hopper1000/episodes/hopper1000-31st-july-2026"
-      },
       {
         "n": "Saiming, Pozzy & t.o",
         "s": "2026-07-31T21:00:00+01:00",
@@ -23,9 +15,9 @@
         "n": "DEEP MEDI w/ Kaiju",
         "s": "2026-07-31T22:00:00+01:00",
         "e": "2026-07-31T23:00:00+01:00",
-        "d": null,
+        "d": "Bass weight and sound system musik from DEEP MEDi - sharing styles from the label's new crop of producers, and picking out gems from their 150+ releases back catalogue. KEEP YOUR MEDi DEEP\nFrom the host: \"A very rare Kaiju mix for our 20 years of MEDi celebrations! 100% Kaiju productions 🎶\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/deep-medi/episodes/deep-medi-31st-july-2026",
         "p": "deepmedi"
       },
       {
@@ -163,19 +155,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "IN FOCUS: MADLIB'S BEAT KONDUCTA (R)",
+        "s": "2026-08-01T20:00:00+01:00",
+        "e": "2026-08-01T21:00:00+01:00",
+        "d": null,
+        "j": "MADLIB'S BEAT KONDUCTA",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "TRiNH - Children Waltz",
-        "s": "2026-07-31T20:00:00+01:00",
-        "e": "2026-07-31T21:00:00+01:00",
-        "d": "TRiNH - an hour of covers and nostalgic feels, playing a wide range of genres with a focus on L-O-V-E.\nFrom the host: \"A back-to-school special, featuring covers by children and teens making music together.\"",
-        "j": "Children Waltz",
-        "u": "https://www.nts.live/api/v2/shows/trinh/episodes/trinh-31st-july-2026",
-        "t": "monthly",
-        "p": "trinh"
-      },
       {
         "n": "Mild Animals",
         "s": "2026-07-31T21:00:00+01:00",
@@ -189,9 +180,9 @@
         "n": "AXCESS AMNESIA W/ JENNY SAYAKA NONO",
         "s": "2026-07-31T22:00:00+01:00",
         "e": "2026-07-31T23:00:00+01:00",
-        "d": null,
+        "d": "Filmmaker Jenny Sayaka Nono brings her manic VHS hued style to the audio airwaves, with steely coldwave, industrial, synth pop & more. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/axcess-amnesia/episodes/axcess-amnesia-31st-july-2026",
         "p": "axcessamnesia"
       },
       {
@@ -330,6 +321,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "150 session",
+        "s": "2026-08-01T15:00:00+01:00",
+        "e": "2026-08-01T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
@@ -1491,18 +1491,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Locus Sound",
+        "s": "2026-08-07T20:00:00Z",
+        "e": "2026-08-07T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN: Takuya Nakamura – guest session",
-        "s": "2026-07-31T19:00:00Z",
-        "e": "2026-07-31T20:00:00Z",
-        "d": null,
-        "j": "Takuya Nakamura – guest session",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": " RERUN: Yasmine Hamdan – guest session",
         "s": "2026-07-31T20:00:00Z",
@@ -2111,16 +2111,6 @@
     ],
     "rinse": [
       {
-        "n": "Interplanetary Criminal",
-        "s": "2026-07-31T18:00:00Z",
-        "e": "2026-07-31T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "interplanetarycriminal"
-      },
-      {
         "n": "Lu.Re with Jolie P",
         "s": "2026-07-31T20:00:00Z",
         "e": "2026-07-31T21:00:00Z",
@@ -2171,29 +2161,37 @@
       {
         "n": "Playlist",
         "s": "2026-08-01T06:00:00Z",
-        "e": "2026-08-01T11:00:00Z",
+        "e": "2026-08-01T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "Hi-Fidelity",
-        "s": "2026-08-01T11:00:00Z",
-        "e": "2026-08-01T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Counter Culture",
-        "s": "2026-08-01T13:00:00Z",
-        "e": "2026-08-01T15:00:00Z",
+        "n": "Breakfast with Charles Green & Anthony Faulkner",
+        "s": "2026-08-01T09:00:00Z",
+        "e": "2026-08-01T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
+        "p": "charlesgreen"
+      },
+      {
+        "n": "Hi-Fidelity with Mad Cats",
+        "s": "2026-08-01T11:00:00Z",
+        "e": "2026-08-01T13:00:00Z",
+        "d": null,
+        "j": "Sean Innit & Ed",
+        "u": null
+      },
+      {
+        "n": "Counter Culture with BBE Records",
+        "s": "2026-08-01T13:00:00Z",
+        "e": "2026-08-01T15:00:00Z",
+        "d": null,
+        "j": "Jeff Higgins",
+        "u": null,
         "p": "counterculture"
       },
       {
@@ -2249,7 +2247,7 @@
         "s": "2026-08-01T21:00:00Z",
         "e": "2026-08-01T22:00:00Z",
         "d": null,
-        "j": "AMMARA'S FESTIVAL MIX",
+        "j": "FESTIVAL MIX",
         "u": null,
         "t": "monthly",
         "p": "ammara"
@@ -2266,15 +2264,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-07-31T19:00:00Z",
-        "e": "2026-07-31T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-07-31T20:00:00Z",
