@@ -1,39 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-08-01T16:50:48.733Z",
+  "updated": "2026-08-01T18:55:52.361Z",
   "stations": {
     "nts1": [
-      {
-        "n": "WE ARE... W/ PAUL CAMO",
-        "s": "2026-08-01T16:00:00+01:00",
-        "e": "2026-08-01T18:00:00+01:00",
-        "d": "Artist, graphic designer and DJ Paul Camo sets out to push the boundaries: free of all restrictions. Jump in the chat and listen as Paul Camo's WE ARE brings you on a voyage through the spectrum of jazz fusion, spiritual jazz, experimental jazz and everything in between.\nFrom the host: \"Vinyl obscurities spanning Psych/Folk, Blues, Soul and Jazz, picked from my collection.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/we-are/episodes/we-are-1st-august-2026"
-      },
-      {
-        "n": "Mary Sue & yingtuitive",
-        "s": "2026-08-01T18:00:00+01:00",
-        "e": "2026-08-01T19:00:00+01:00",
-        "d": "Singaporean artists and producers Mary Sue and yingtuitive present a collaborative show, weaving together original compositions, unreleased recordings, and a selection of musical influences.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/mary-sue-yingtuitive-1st-august-2026"
-      },
       {
         "n": "Holy Wave",
         "s": "2026-08-01T19:00:00+01:00",
         "e": "2026-08-01T20:00:00+01:00",
-        "d": null,
+        "d": "Austin, Texas band Holy Wave share an hour of indie rock, electronics, hip hop and more.  ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/holy-wave-1st-august-2026"
       },
       {
         "n": "IN FOCUS: MADLIB'S BEAT KONDUCTA (R)",
         "s": "2026-08-01T20:00:00+01:00",
         "e": "2026-08-01T21:00:00+01:00",
-        "d": null,
+        "d": "Highlight instrumentals from Madlib's prolific Beat Konducta alias – featuring tracks from Volumes 1 to 8.",
         "j": "MADLIB'S BEAT KONDUCTA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-madlib-s-beat-konducta-7th-may-2026",
         "t": "restream"
       },
       {
@@ -163,43 +147,44 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "RIO DOCE - Moacir Santos Special",
+        "s": "2026-08-02T15:00:00+01:00",
+        "e": "2026-08-02T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "riodoce"
+      },
+      {
+        "n": "A Month of Sundays w/ Bill Spencer",
+        "s": "2026-08-02T17:00:00+01:00",
+        "e": "2026-08-02T18:00:00+01:00",
+        "d": null,
+        "j": "Bill Spencer",
+        "u": null,
+        "t": "biweekly",
+        "p": "billspencer"
       }
     ],
     "nts2": [
       {
-        "n": "ONDAS W/ DUBBY (R)",
-        "s": "2026-08-01T17:00:00+01:00",
-        "e": "2026-08-01T18:00:00+01:00",
-        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
-        "j": "DUBBY",
-        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-5th-april-2026",
-        "t": "restream"
-      },
-      {
-        "n": "RACHEL GRACE ALMEIDA: DEFTONES SPECIAL",
-        "s": "2026-08-01T18:00:00+01:00",
-        "e": "2026-08-01T19:00:00+01:00",
-        "d": "Venezuelan writer Rachel Grace Almeida spends an hour dipping into the expansive universe of Latin music every month.",
-        "j": "DEFTONES SPECIAL",
-        "u": "https://www.nts.live/api/v2/shows/rachel-grace-almeida/episodes/rachel-grace-almeida-1st-august-2026",
-        "t": "monthly"
-      },
-      {
         "n": "LABOUR - mbalax mix",
         "s": "2026-08-01T19:00:00+01:00",
         "e": "2026-08-01T20:00:00+01:00",
-        "d": null,
+        "d": "LABOUR is the duo of Colin Hacklander and Farahnaz Hatam.  Tune in each month for their hour-long show featuring rotating guests and friends from Dakar, Senegal. Expect a mixture of progressive electronic music with heavy sabar drum music, classic & current Mbalax, and timeless Sufi praises.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/labour/episodes/labour-1st-august-2026",
         "p": "labour"
       },
       {
         "n": "CHAMPETA W/ EDNA MARTINEZ - DOGAR DISC SPECIAL (R)",
         "s": "2026-08-01T20:00:00+01:00",
         "e": "2026-08-01T21:00:00+01:00",
-        "d": null,
+        "d": "Curator and DJ Edna Martinez explores the champeta, an underground musical genre and dance that originated in the Caribbean coast of Colombia in the early 1980s. The rhythms and influences are said to have arrived with the sailors from West Africa in the 1960s and 70s. We will get to know in each episode its specificities and the relevance of this scene.\nFrom the host: \"This episode is dedicated to the memory of Dogar Disc (Ismael Simancas), one of the pioneering voices of champeta from Cartagena. With over three decades of work, his music helped shape sound of the city and the genre itself. This show is a small tribute to his legacy and history he leaves behind.\"",
         "j": "EDNA MARTINEZ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/edna-martinez/episodes/edna-martinez-27th-january-2026",
         "t": "restream",
         "p": "ednamartinez"
       },
@@ -337,19 +322,27 @@
         "j": "YUKA MIZUHARA",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "MUSIQUE TOPS (R)",
+        "s": "2026-08-02T17:00:00+01:00",
+        "e": "2026-08-02T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "JEN MONROE: HARUOMI HOSONO/YMO DAY (R)",
+        "s": "2026-08-02T18:00:00+01:00",
+        "e": "2026-08-02T20:00:00+01:00",
+        "d": null,
+        "j": "HARUOMI HOSONO/YMO DAY",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Jon1st",
-        "s": "2026-08-01T16:00:00Z",
-        "e": "2026-08-01T17:00:00Z",
-        "d": "Following his widely acclaimed breakout moment winning the 2013 DMC World Online Championships, Jon1st quickly built an international reputation as a ‘DJ’s DJ’. Not only proving himself as one of the world’s most diverse and musical turntablists, Jon also established himself as an on the pulse club DJ mixing across the alternative bass music spectrum and as an in demand live performer around the world, as well as recording acclaimed guest mixes for everyone from DJ Mag to Boiler Room to Ninja Tune’s Solid Steel to Mary Anne Hobbs to Keep Hush.",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "jon1st"
-      },
       {
         "n": "Subtle Selects",
         "s": "2026-08-01T17:00:00Z",
@@ -1543,18 +1536,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Counter Culture",
+        "s": "2026-08-08T17:00:00Z",
+        "e": "2026-08-08T18:00:00Z",
+        "d": "Originally from Cambridge, Counter Culture's selection deftly navigates across a myriad of influences and exclusives from himself & friends.\r\nExpect some of the freshest rolling soul straight to your headspace.",
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "counterculture"
+      },
+      {
+        "n": "Strictly Business Show w/ Qua Rush & Flipz MC",
+        "s": "2026-08-08T18:00:00Z",
+        "e": "2026-08-08T19:00:00Z",
+        "d": null,
+        "j": "Qua Rush & Flipz MC",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "RERUN: JF Chen",
-        "s": "2026-08-01T16:00:00Z",
-        "e": "2026-08-01T17:00:00Z",
-        "d": null,
-        "j": "JF Chen",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "T-Kay - The Archive of Feelings",
         "s": "2026-08-01T17:00:00Z",
@@ -2156,28 +2159,19 @@
         "u": null,
         "t": "biweekly",
         "p": "illcamille"
+      },
+      {
+        "n": "Ryan Lee Moore – Holy Ghost Honky Tonk",
+        "s": "2026-08-08T17:00:00Z",
+        "e": "2026-08-08T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "ryanleemoore"
       }
     ],
     "rinse": [
-      {
-        "n": "The North Quarter",
-        "s": "2026-08-01T16:00:00Z",
-        "e": "2026-08-01T17:00:00Z",
-        "d": null,
-        "j": "Channell",
-        "u": null,
-        "t": "biweekly",
-        "p": "thenorthquarter"
-      },
-      {
-        "n": "Well Street Records",
-        "s": "2026-08-01T17:00:00Z",
-        "e": "2026-08-01T18:00:00Z",
-        "d": null,
-        "j": "TEXT",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "sim0ne",
         "s": "2026-08-01T18:00:00Z",
@@ -2354,25 +2348,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "LU2K",
-        "s": "2026-08-01T16:00:00Z",
-        "e": "2026-08-01T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lu2k"
-      },
-      {
-        "n": "Forever DnB",
-        "s": "2026-08-01T17:00:00Z",
-        "e": "2026-08-01T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "foreverdnb"
-      },
       {
         "n": "Xea",
         "s": "2026-08-01T18:00:00Z",
