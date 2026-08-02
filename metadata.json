@@ -1,40 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-08-02T08:06:57.043Z",
+  "updated": "2026-08-02T11:11:09.147Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Shuta Hasunuma",
-        "s": "2026-08-02T09:00:00+01:00",
-        "e": "2026-08-02T10:00:00+01:00",
-        "d": "The celebrated and highly prolific Japanese composer, sound artist and composer Shuta Hasunuma shares some inspirations - including Jesu, Jeff Parker, Morton Feldman, David Behrman and more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/shuta-hasunuma-2nd-august-2026"
-      },
-      {
-        "n": "LAUNETTE'S HOUR: 7-Inch Special",
-        "s": "2026-08-02T10:00:00+01:00",
-        "e": "2026-08-02T12:00:00+01:00",
-        "d": "Up with the Lark! Launette takes time out from her day job as a chocolatier to play from her treasured vinyl collection. She will also be joined from time to time by carefully chosen guests. Happy Sunday.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/launette/episodes/launette-2nd-august-2026"
-      },
       {
         "n": "HOUSE CALL",
         "s": "2026-08-02T12:00:00+01:00",
         "e": "2026-08-02T13:00:00+01:00",
-        "d": null,
+        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-2nd-august-2026",
         "t": "monthly"
       },
       {
         "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
         "s": "2026-08-02T13:00:00+01:00",
         "e": "2026-08-02T15:00:00+01:00",
-        "d": null,
+        "d": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/ifmusic/episodes/ifmusic-2nd-august-2026"
       },
       {
         "n": "RIO DOCE - Moacir Santos Special",
@@ -167,38 +151,36 @@
         "j": "John Gómez",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "DONNA LEAKE",
+        "s": "2026-08-03T15:00:00+01:00",
+        "e": "2026-08-03T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "donnaleake"
+      },
+      {
+        "n": "NAOMI ASA",
+        "s": "2026-08-03T17:00:00+01:00",
+        "e": "2026-08-03T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "naomi"
       }
     ],
     "nts2": [
       {
-        "n": "NATALIA PANZER (R)",
-        "s": "2026-08-02T09:00:00+01:00",
-        "e": "2026-08-02T10:00:00+01:00",
-        "d": "Paulina and Janek Ufnal from Warsaw's Mondoj label share a guest mix guided by enigmatic storytelling, lightheartedness, and play. Sounds from Mondoj associates Olli Aarni, Patrick Shiroishi & Piotr Kurek, and Mike Cooper & Jason Kolàr interweave with recent finds and old favourites.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-19th-july-2025",
-        "t": "restream",
-        "p": "natalia",
-        "ap": [
-          "nataliapanzer"
-        ]
-      },
-      {
-        "n": "POST PUNK BRITAIN: WHAT CAME NEXT (R)",
-        "s": "2026-08-02T10:00:00+01:00",
-        "e": "2026-08-02T12:00:00+01:00",
-        "d": "Post-punk never went away. On the closing episode of Post Punk Britain, Carla Dal Forno and Sanjay bridge the old to the new, exploring the more contemporary sounds that were heavily influenced by the music featured on previous episodes, exploring their favourite post punk adjacent tracks from the '90s to the current day.",
-        "j": "WHAT CAME NEXT",
-        "u": "https://www.nts.live/api/v2/shows/post-punk-in-britain/episodes/post-punk-in-britain-what-came-next-20th-may-2023",
-        "t": "restream"
-      },
-      {
         "n": "OURI (R)",
         "s": "2026-08-02T12:00:00+01:00",
         "e": "2026-08-02T14:00:00+01:00",
-        "d": null,
+        "d": "Low key acoustics & downtempo home listening from the Montreal selector.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ouri-27th-february-2022",
         "t": "restream",
         "p": "ouri"
       },
@@ -206,9 +188,9 @@
         "n": "SANPO DISCO (R)",
         "s": "2026-08-02T14:00:00+01:00",
         "e": "2026-08-02T16:00:00+01:00",
-        "d": null,
+        "d": "A monthly 120 minute slot from the brains behind the Sanpo Disco mix series and Melbourne parties. All the way from up-beat disco escapism through to J-Pop or rose-tinted balearic smooth rock. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sanpo-disco/episodes/sanpo-disco-29th-may-2019",
         "t": "restream",
         "p": "sanpodisco"
       },
@@ -340,28 +322,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "First Press w/ Passo Passo",
-        "s": "2026-08-02T08:00:00Z",
-        "e": "2026-08-02T09:00:00Z",
-        "d": null,
-        "j": "Passo Passo",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": " Harbee",
-        "s": "2026-08-02T09:00:00Z",
-        "e": "2026-08-02T10:00:00Z",
+        "n": "SKYAPNEA",
+        "s": "2026-08-03T12:00:00+01:00",
+        "e": "2026-08-03T14:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "harbee"
+        "p": "skyapnea"
       },
+      {
+        "n": "Nada Pontudo w/ Tuxe",
+        "s": "2026-08-03T14:00:00+01:00",
+        "e": "2026-08-03T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [
       {
         "n": "TAMA",
         "s": "2026-08-02T11:00:00Z",
@@ -1565,22 +1546,41 @@
         "u": null,
         "t": "monthly",
         "p": "kakuna"
+      },
+      {
+        "n": "Agony Plants",
+        "s": "2026-08-09T09:00:00Z",
+        "e": "2026-08-09T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "agonyplants"
+      },
+      {
+        "n": "Chameleon: Liminal Bleeps",
+        "s": "2026-08-09T10:00:00Z",
+        "e": "2026-08-09T11:00:00Z",
+        "d": null,
+        "j": "Liminal Bleeps",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "COPYPASTE w/ KLS.RDR ",
+        "s": "2026-08-09T11:00:00Z",
+        "e": "2026-08-09T12:00:00Z",
+        "d": null,
+        "j": "KLS.RDR",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-02T07:00:00Z",
-        "e": "2026-08-02T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-08-02T09:00:00Z",
-        "e": "2026-08-02T11:00:00Z",
+        "s": "2026-08-02T11:00:00Z",
+        "e": "2026-08-02T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2190,25 +2190,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-08-02T06:00:00Z",
-        "e": "2026-08-02T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Harri Pepper",
-        "s": "2026-08-02T09:00:00Z",
-        "e": "2026-08-02T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "harripepper"
-      },
-      {
         "n": "Russ Ryan",
         "s": "2026-08-02T11:00:00Z",
         "e": "2026-08-02T13:00:00Z",
@@ -2421,15 +2402,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-02T07:00:00Z",
-        "e": "2026-08-02T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-02T10:00:00Z",
