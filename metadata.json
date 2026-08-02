@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-02T11:11:09.147Z",
+  "updated": "2026-08-02T13:00:44.016Z",
   "stations": {
     "nts1": [
-      {
-        "n": "HOUSE CALL",
-        "s": "2026-08-02T12:00:00+01:00",
-        "e": "2026-08-02T13:00:00+01:00",
-        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-2nd-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
         "s": "2026-08-02T13:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "RIO DOCE - Moacir Santos Special",
         "s": "2026-08-02T15:00:00+01:00",
         "e": "2026-08-02T17:00:00+01:00",
-        "d": null,
+        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.\nFrom the host:_'Rio Doce celebrates the centenary of Moacir Santos, honoring one of Brazil’s greatest composers and arrangers. A two-hour journey through his music, legacy, and the artists inspired by his vision.\"-",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-2nd-august-2026",
         "p": "riodoce"
       },
       {
@@ -171,19 +162,19 @@
         "u": null,
         "t": "monthly",
         "p": "naomi"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-08-03T18:00:00+01:00",
+        "e": "2026-08-03T20:00:00+01:00",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly",
+        "p": "cocomaria"
       }
     ],
     "nts2": [
-      {
-        "n": "OURI (R)",
-        "s": "2026-08-02T12:00:00+01:00",
-        "e": "2026-08-02T14:00:00+01:00",
-        "d": "Low key acoustics & downtempo home listening from the Montreal selector.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/ouri-27th-february-2022",
-        "t": "restream",
-        "p": "ouri"
-      },
       {
         "n": "SANPO DISCO (R)",
         "s": "2026-08-02T14:00:00+01:00",
@@ -343,25 +334,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "TAMA",
-        "s": "2026-08-02T11:00:00Z",
-        "e": "2026-08-02T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Aloona",
-        "s": "2026-08-02T12:00:00Z",
-        "e": "2026-08-02T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "aloona"
-      },
       {
         "n": "Robeare",
         "s": "2026-08-02T13:00:00Z",
@@ -1574,18 +1546,26 @@
         "j": "KLS.RDR",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-08-02T11:00:00Z",
-        "e": "2026-08-02T12:00:00Z",
+        "n": "FORZUG w/ Óriah ",
+        "s": "2026-08-09T12:00:00Z",
+        "e": "2026-08-09T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Comfy Bella",
+        "s": "2026-08-09T13:00:00Z",
+        "e": "2026-08-09T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "djjs",
         "s": "2026-08-02T12:00:00Z",
@@ -2186,19 +2166,18 @@
         "u": null,
         "t": "monthly",
         "p": "daedelus"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Russ Ryan",
-        "s": "2026-08-02T11:00:00Z",
-        "e": "2026-08-02T13:00:00Z",
+        "n": "djjs",
+        "s": "2026-08-09T12:00:00Z",
+        "e": "2026-08-09T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "russryan"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "CoOp Presents",
         "s": "2026-08-02T13:00:00Z",
@@ -2213,7 +2192,7 @@
         "s": "2026-08-02T15:00:00Z",
         "e": "2026-08-02T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Kingdonna",
         "u": null,
         "t": "biweekly",
         "p": "kittyamor"
@@ -2402,24 +2381,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-02T10:00:00Z",
-        "e": "2026-08-02T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Bé.",
-        "s": "2026-08-02T12:00:00Z",
-        "e": "2026-08-02T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Hadj Sameer",
         "s": "2026-08-02T13:00:00Z",
