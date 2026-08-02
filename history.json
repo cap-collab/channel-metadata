@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-08-02T01:56:26.991Z",
+  "updated": "2026-08-02T05:20:02.167Z",
   "stations": {
     "nts1": [
       {
@@ -26202,6 +26202,36 @@
         "u": null,
         "t": "restream",
         "p": "laurelhalo"
+      },
+      {
+        "n": "MOBBS (R)",
+        "s": "2026-08-02T02:00:00+01:00",
+        "e": "2026-08-02T04:00:00+01:00",
+        "d": "MOBBS chopping up whatever he finds \nohm.mobbs@protonmail.com",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/mobbs/episodes/mobbs-30th-january-2026",
+        "t": "restream",
+        "p": "mobbs"
+      },
+      {
+        "n": "LUNG DART (R)",
+        "s": "2026-08-02T04:00:00+01:00",
+        "e": "2026-08-02T05:00:00+01:00",
+        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-7th-october-2024",
+        "t": "restream",
+        "p": "lungdart"
+      },
+      {
+        "n": "Blooming In Filth w/ CRISIS ACTING (R)",
+        "s": "2026-08-02T05:00:00+01:00",
+        "e": "2026-08-02T06:00:00+01:00",
+        "d": null,
+        "j": "CRISIS ACTING",
+        "u": null,
+        "t": "restream",
+        "p": "crisisacting"
       }
     ],
     "nts2": [
@@ -57028,6 +57058,35 @@
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/pandoras-jukebox/episodes/pandoras-jukebox-15th-january-2019",
         "t": "restream"
+      },
+      {
+        "n": "KIM LANA (R)",
+        "s": "2026-08-02T02:00:00+01:00",
+        "e": "2026-08-02T04:00:00+01:00",
+        "d": "Todmorden's finest, Kim Lana joins us in the Manchester studio once a month for 2 hours of bumping and pumping golden era house & techno.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/kim-lana/episodes/kim-lana-29th-november-2025",
+        "t": "restream",
+        "p": "kimlana"
+      },
+      {
+        "n": "AUNTIE-ISM W/ SHABAZZ (R)",
+        "s": "2026-08-02T04:00:00+01:00",
+        "e": "2026-08-02T05:00:00+01:00",
+        "d": "Cultural virtuoso and creative luminary SHABAZZ, aka DJ Auntie Spice, illuminates obscure nostalgic treasures, crafting a rich, diverse auditory experience of soul, funk, jazz and beyond with her sound art initiative, Auntie·ism.",
+        "j": "SHABAZZ",
+        "u": "https://www.nts.live/api/v2/shows/shabazz/episodes/shabazz-26th-march-2025",
+        "t": "restream",
+        "p": "shabazz"
+      },
+      {
+        "n": "EDDIE FICTION (R)",
+        "s": "2026-08-02T05:00:00+01:00",
+        "e": "2026-08-02T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -86206,6 +86265,43 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Polar Dance w/Winter Games",
+        "s": "2026-08-02T01:00:00Z",
+        "e": "2026-08-02T02:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "polardance"
+      },
+      {
+        "n": "dogofthemonth",
+        "s": "2026-08-02T02:00:00Z",
+        "e": "2026-08-02T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-08-02T03:00:00Z",
+        "e": "2026-08-02T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "wañuy",
+        "s": "2026-08-02T04:00:00Z",
+        "e": "2026-08-02T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -106603,6 +106699,30 @@
         "u": null,
         "t": "biweekly",
         "p": "callieryan"
+      },
+      {
+        "n": "Andy Oro and Akumen - Made to Move",
+        "s": "2026-08-02T01:00:00Z",
+        "e": "2026-08-02T03:00:00Z",
+        "d": null,
+        "j": "Made to Move",
+        "u": null,
+        "t": "monthly",
+        "p": "akumen",
+        "ap": [
+          "andyoro",
+          "madetomove"
+        ]
+      },
+      {
+        "n": "Chico Sonido Mixxx Show",
+        "s": "2026-08-02T03:00:00Z",
+        "e": "2026-08-02T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "chicosonido"
       }
     ],
     "rinse": [
@@ -131593,6 +131713,15 @@
         "u": null,
         "t": "biweekly",
         "p": "nightservice"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-08-02T01:00:00Z",
+        "e": "2026-08-02T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinsefr": [
@@ -158047,6 +158176,15 @@
         "ap": [
           "pressing"
         ]
+      },
+      {
+        "n": "Nascent Attraction",
+        "s": "2026-08-02T01:00:00Z",
+        "e": "2026-08-02T03:00:00Z",
+        "d": null,
+        "j": "M66",
+        "u": null,
+        "t": "monthly"
       }
     ]
   }
