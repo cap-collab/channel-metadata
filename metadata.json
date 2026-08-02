@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-02T16:48:37.758Z",
+  "updated": "2026-08-02T18:56:36.024Z",
   "stations": {
     "nts1": [
-      {
-        "n": "A Month of Sundays w/ Bill Spencer",
-        "s": "2026-08-02T17:00:00+01:00",
-        "e": "2026-08-02T18:00:00+01:00",
-        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.",
-        "j": "Bill Spencer",
-        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-2nd-august-2026",
-        "t": "biweekly",
-        "p": "billspencer"
-      },
       {
         "n": "LUPINI (R)",
         "s": "2026-08-02T18:00:00+01:00",
@@ -27,9 +17,10 @@
         "n": "AD 93 w/ Murex",
         "s": "2026-08-02T20:00:00+01:00",
         "e": "2026-08-02T22:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Two hours of leftfield dance and beyond every month from AD 93 boss Tasker and guests.\nOld 88 Transition shows available on the archive.",
+        "j": "Murex",
+        "u": "https://www.nts.live/api/v2/shows/whities-w-tasker/episodes/whities-w-tasker-2nd-august-2026",
+        "t": "monthly"
       },
       {
         "n": "DEATH IS NOT THE END - South African Mbaqanga, Marabi, Kwela & Mbube Recordings, 1930s-1960s",
@@ -172,18 +163,18 @@
         "j": null,
         "u": null,
         "p": "leegamble"
+      },
+      {
+        "n": "MAKE-BELIEVE W/ OBJECT BLUE",
+        "s": "2026-08-03T23:00:00+01:00",
+        "e": "2026-08-04T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "objectblue"
       }
     ],
     "nts2": [
-      {
-        "n": "MUSIQUE TOPS (R)",
-        "s": "2026-08-02T17:00:00+01:00",
-        "e": "2026-08-02T18:00:00+01:00",
-        "d": "Vinyl only selections from TOPS’ personal collections",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tops/episodes/tops-21st-march-2025",
-        "t": "restream"
-      },
       {
         "n": "JEN MONROE: HARUOMI HOSONO/YMO DAY (R)",
         "s": "2026-08-02T18:00:00+01:00",
@@ -197,9 +188,9 @@
         "n": "NTS GUIDE TO: UNDERGROUND JAPANESE PSYCHEDELIA VOL 2 (R)",
         "s": "2026-08-02T20:00:00+01:00",
         "e": "2026-08-02T22:20:00+01:00",
-        "d": null,
+        "d": "In the late 1980s and early 1990s, Japan became the birthplace of a distinctive and intense form of psychedelic music, emerging from the underground scene and centred around pioneering labels like PSF Records. This movement was marked by a raw, dissonant, and fuzzed-out sound that combined elements of noise, free jazz, and traditional psychedelic rock.\nThis two hour sequel episode documents more of the bands that played a role in shaping this unique musical landscape such as Ghost, Hanadensha, Keiji Haino and more.",
         "j": "UNDERGROUND JAPANESE PSYCHEDELIA VOL 2",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-underground-japanese-psychedelia-vol-2-17th-june-2026",
         "t": "restream"
       },
       {
@@ -340,18 +331,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "PATCH+",
+        "s": "2026-08-03T18:00:00+01:00",
+        "e": "2026-08-03T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "THEODORE",
-        "s": "2026-08-02T16:00:00Z",
-        "e": "2026-08-02T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Ned Spencer",
         "s": "2026-08-02T18:00:00Z",
@@ -1584,19 +1574,27 @@
         "u": null,
         "t": "monthly",
         "p": "nullify"
+      },
+      {
+        "n": "Marchborn",
+        "s": "2026-08-09T17:00:00Z",
+        "e": "2026-08-09T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "DIG n SPIN W/ STAN",
+        "s": "2026-08-09T18:00:00Z",
+        "e": "2026-08-09T19:00:00Z",
+        "d": null,
+        "j": "STAN",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-08-02T16:00:00Z",
-        "e": "2026-08-02T17:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly",
-        "p": "kennethbager"
-      },
       {
         "n": "Chris Kissel and Chuck Soo-Hoo - Contact Wave",
         "s": "2026-08-02T17:00:00Z",
@@ -2197,18 +2195,19 @@
         "u": null,
         "t": "weekly",
         "p": "kennethbager"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Flashy Sillah",
-        "s": "2026-08-02T16:00:00Z",
-        "e": "2026-08-02T17:00:00Z",
+        "n": "Bob Baker Marionette Theater – Puppetphonic",
+        "s": "2026-08-09T17:00:00Z",
+        "e": "2026-08-09T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "monthly",
+        "p": "marionette"
+      }
+    ],
+    "rinse": [
       {
         "n": "Oneman",
         "s": "2026-08-02T17:00:00Z",
@@ -2407,16 +2406,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Teddy Kitano",
-        "s": "2026-08-02T16:00:00Z",
-        "e": "2026-08-02T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "teddykitano"
-      },
       {
         "n": "Promesses",
         "s": "2026-08-02T17:00:00Z",
