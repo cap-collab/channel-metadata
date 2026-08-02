@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-02T18:56:36.024Z",
+  "updated": "2026-08-02T20:43:18.981Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUPINI (R)",
-        "s": "2026-08-02T18:00:00+01:00",
-        "e": "2026-08-02T20:00:00+01:00",
-        "d": "A little bit sweet, a little bit sad, a little bit silly - Lupini keeps it (mainly) horizontal with a mix of dubwise sounds, psychedelic rock, synth-pop and new wave.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-12th-april-2026",
-        "t": "restream",
-        "p": "lupini"
-      },
       {
         "n": "AD 93 w/ Murex",
         "s": "2026-08-02T20:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "DEATH IS NOT THE END - South African Mbaqanga, Marabi, Kwela & Mbube Recordings, 1930s-1960s",
         "s": "2026-08-02T22:00:00+01:00",
         "e": "2026-08-03T00:00:00+01:00",
-        "d": null,
+        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.\nFrom the host:'A collection of mid-20th century South African musical styles, capturing recordings of sounds of urban townships between the 1930s to early 1960s.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-2nd-august-2026"
       },
       {
         "n": "NTS GUIDE TO: MODERN ETHIOPIAN ORTHODOX BEGENA (R)",
@@ -172,18 +162,18 @@
         "j": null,
         "u": null,
         "p": "objectblue"
+      },
+      {
+        "n": "BODY MOTION",
+        "s": "2026-08-04T00:00:00+01:00",
+        "e": "2026-08-04T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "bodymotion"
       }
     ],
     "nts2": [
-      {
-        "n": "JEN MONROE: HARUOMI HOSONO/YMO DAY (R)",
-        "s": "2026-08-02T18:00:00+01:00",
-        "e": "2026-08-02T20:00:00+01:00",
-        "d": "A 15-hour tribute to the influential Japanese songwriter, Haruomi Hosono, known from his prolific productions and work in the electronic trio, Yellow Magic Orchestra. Expect mixes exploring his career and adjacent music from NTS' most dedicated Hosono-philes.",
-        "j": "HARUOMI HOSONO/YMO DAY",
-        "u": "https://www.nts.live/api/v2/shows/haruomi-hosono-ymo-day/episodes/jen-monroe-hosono-ymo-26th-november-2017",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: UNDERGROUND JAPANESE PSYCHEDELIA VOL 2 (R)",
         "s": "2026-08-02T20:00:00+01:00",
@@ -197,9 +187,9 @@
         "n": "IN FOCUS: SARAH RECORDS (R)",
         "s": "2026-08-02T22:20:00+01:00",
         "e": "2026-08-03T00:00:00+01:00",
-        "d": null,
+        "d": "Dreamt up in November 1987 by Matt Haynes and Clare Wadd, Sarah Records became an outlet for uniquely pretty guitar pop inspired by independent labels likes Postcard and Creation. Wadd and Hayne's loving outpour of releases was relatively short but beautifully sweet, introducing the world to the music of The Sea Urchins, The Field Mice and countless others until its so-called \"destruction\" in 1995. Often overlooked and frequently attacked by the contemporary UK music press, then a breeding ground for pointless macho posturing and self-congratulatory critical hit pieces, the Sarah Records discography has aged spectacularly well. The same can't be said for many of the baggy bands & grunge identikit acts that were the critical darlings of the era. \nThis In Focus is a two hour meander through the timeless, sunny pop music of Sarah Records. ",
         "j": "SARAH RECORDS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-sarah-records-22nd-february-2019",
         "t": "restream"
       },
       {
@@ -339,18 +329,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Ned Spencer",
-        "s": "2026-08-02T18:00:00Z",
-        "e": "2026-08-02T20:00:00Z",
+        "n": "1080P w/ HD",
+        "s": "2026-08-03T19:00:00+01:00",
+        "e": "2026-08-03T20:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "p": "hd"
+      }
+    ],
+    "subtle": [
       {
         "n": "Kitschko",
         "s": "2026-08-02T20:00:00Z",
@@ -1592,28 +1582,19 @@
         "j": "STAN",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
-      {
-        "n": "Chris Kissel and Chuck Soo-Hoo - Contact Wave",
-        "s": "2026-08-02T17:00:00Z",
-        "e": "2026-08-02T19:00:00Z",
-        "d": null,
-        "j": "Contact Wave",
-        "u": null,
-        "t": "monthly",
-        "p": "chriskissel"
       },
       {
-        "n": "Colored Craig – CLUB CRAIG",
-        "s": "2026-08-02T19:00:00Z",
-        "e": "2026-08-02T20:00:00Z",
+        "n": "FKOF",
+        "s": "2026-08-09T19:00:00Z",
+        "e": "2026-08-09T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "coloredcraig"
-      },
+        "t": "monthly",
+        "p": "fkof"
+      }
+    ],
+    "dublab": [
       {
         "n": "Mary Nagakawa – Underscore",
         "s": "2026-08-02T20:00:00Z",
@@ -2205,33 +2186,19 @@
         "u": null,
         "t": "monthly",
         "p": "marionette"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Oneman",
-        "s": "2026-08-02T17:00:00Z",
-        "e": "2026-08-02T19:00:00Z",
-        "d": null,
-        "j": "Jay Carder & Izco (Percy Mingle x KYSO Sound Takeover)",
-        "u": null,
-        "t": "monthly",
-        "p": "izco",
-        "ap": [
-          "jaycarder",
-          "oneman"
-        ]
       },
       {
-        "n": "Freshta",
-        "s": "2026-08-02T19:00:00Z",
-        "e": "2026-08-02T20:00:00Z",
+        "n": "Becky Ebenkamp – Bubblegum & Other Delights",
+        "s": "2026-08-09T19:00:00Z",
+        "e": "2026-08-09T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly",
-        "p": "freshta"
-      },
+        "t": "monthly",
+        "p": "beckyebenkamp"
+      }
+    ],
+    "rinse": [
       {
         "n": "Logan Sama",
         "s": "2026-08-02T20:00:00Z",
@@ -2406,16 +2373,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Promesses",
-        "s": "2026-08-02T17:00:00Z",
-        "e": "2026-08-02T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "promesses"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-02T19:00:00Z",
