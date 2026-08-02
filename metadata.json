@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-02T14:54:06.616Z",
+  "updated": "2026-08-02T16:48:37.758Z",
   "stations": {
     "nts1": [
-      {
-        "n": "RIO DOCE - Moacir Santos Special",
-        "s": "2026-08-02T15:00:00+01:00",
-        "e": "2026-08-02T17:00:00+01:00",
-        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.\nFrom the host:_'Rio Doce celebrates the centenary of Moacir Santos, honoring one of Brazil’s greatest composers and arrangers. A two-hour journey through his music, legacy, and the artists inspired by his vision.\"-",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-2nd-august-2026",
-        "p": "riodoce"
-      },
       {
         "n": "A Month of Sundays w/ Bill Spencer",
         "s": "2026-08-02T17:00:00+01:00",
@@ -23,13 +14,13 @@
         "p": "billspencer"
       },
       {
-        "n": "LUPINI",
+        "n": "LUPINI (R)",
         "s": "2026-08-02T18:00:00+01:00",
         "e": "2026-08-02T20:00:00+01:00",
-        "d": null,
+        "d": "A little bit sweet, a little bit sad, a little bit silly - Lupini keeps it (mainly) horizontal with a mix of dubwise sounds, psychedelic rock, synth-pop and new wave.",
         "j": null,
-        "u": null,
-        "t": "monthly",
+        "u": "https://www.nts.live/api/v2/shows/lupini/episodes/lupini-12th-april-2026",
+        "t": "restream",
         "p": "lupini"
       },
       {
@@ -172,44 +163,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "LEE GAMBLE",
+        "s": "2026-08-03T22:00:00+01:00",
+        "e": "2026-08-03T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "leegamble"
       }
     ],
     "nts2": [
       {
-        "n": "SANPO DISCO (R)",
-        "s": "2026-08-02T14:00:00+01:00",
-        "e": "2026-08-02T16:00:00+01:00",
-        "d": "A monthly 120 minute slot from the brains behind the Sanpo Disco mix series and Melbourne parties. All the way from up-beat disco escapism through to J-Pop or rose-tinted balearic smooth rock. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sanpo-disco/episodes/sanpo-disco-29th-may-2019",
-        "t": "restream",
-        "p": "sanpodisco"
-      },
-      {
-        "n": "WAVE FLOWER W/ YUKA MIZUHARA (R)",
-        "s": "2026-08-02T16:00:00+01:00",
-        "e": "2026-08-02T17:00:00+01:00",
-        "d": "Japanese DJ Yuka Mizuhara joins us for an hour every month, selecting the most feel good classic house and disco. Dig!  ",
-        "j": "YUKA MIZUHARA",
-        "u": "https://www.nts.live/api/v2/shows/groove-in-the-heart-w-yuka-mizuhara/episodes/groove-in-the-heart-w-yuka-mizuhara-16th-july-2024",
-        "t": "restream"
-      },
-      {
         "n": "MUSIQUE TOPS (R)",
         "s": "2026-08-02T17:00:00+01:00",
         "e": "2026-08-02T18:00:00+01:00",
-        "d": null,
+        "d": "Vinyl only selections from TOPS’ personal collections",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tops/episodes/tops-21st-march-2025",
         "t": "restream"
       },
       {
         "n": "JEN MONROE: HARUOMI HOSONO/YMO DAY (R)",
         "s": "2026-08-02T18:00:00+01:00",
         "e": "2026-08-02T20:00:00+01:00",
-        "d": null,
+        "d": "A 15-hour tribute to the influential Japanese songwriter, Haruomi Hosono, known from his prolific productions and work in the electronic trio, Yellow Magic Orchestra. Expect mixes exploring his career and adjacent music from NTS' most dedicated Hosono-philes.",
         "j": "HARUOMI HOSONO/YMO DAY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/haruomi-hosono-ymo-day/episodes/jen-monroe-hosono-ymo-26th-november-2017",
         "t": "restream"
       },
       {
@@ -341,18 +322,27 @@
         "u": null,
         "t": "monthly",
         "p": "malajunta"
+      },
+      {
+        "n": "ARCHIVED W/ ROTATIONAL",
+        "s": "2026-08-03T16:00:00+01:00",
+        "e": "2026-08-03T17:00:00+01:00",
+        "d": null,
+        "j": "ROTATIONAL",
+        "u": null,
+        "t": "monthly",
+        "p": "rotational"
+      },
+      {
+        "n": "HIT A LICK RADIO",
+        "s": "2026-08-03T17:00:00+01:00",
+        "e": "2026-08-03T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "ExtraSauce w/ eatmybeat",
-        "s": "2026-08-02T14:00:00Z",
-        "e": "2026-08-02T16:00:00Z",
-        "d": "Established in 2013, eatmybeat is a hybrid record label & club brand that was brought together by a group of friends with a passion for electronic music and building community. With diverse tastes, they support and champion the underground bass music scene through events and releases on the label. Refusing to be pigeonholed into a specific sound, they showcase everything from hip-hop, bass & breaks, through to techno, jungle, dubstep and grime. As long as it's tasty and full fat, you best believe eatmybeat are snacking on it.",
-        "j": "eatmybeat",
-        "u": "https://www.subtleradio.com/artists/extrasaus-w-eatmybeat/",
-        "t": "monthly"
-      },
       {
         "n": "THEODORE",
         "s": "2026-08-02T16:00:00Z",
@@ -1574,18 +1564,29 @@
         "u": null,
         "t": "monthly",
         "p": "alienizz"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs 2",
-        "s": "2026-08-02T14:00:00Z",
-        "e": "2026-08-02T16:00:00Z",
+        "n": "The Garage Garden",
+        "s": "2026-08-09T15:00:00Z",
+        "e": "2026-08-09T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "garagegarden"
       },
+      {
+        "n": " NULLIFY",
+        "s": "2026-08-09T16:00:00Z",
+        "e": "2026-08-09T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nullify"
+      }
+    ],
+    "dublab": [
       {
         "n": "Kenneth Bager - Music for Dreams",
         "s": "2026-08-02T16:00:00Z",
@@ -2186,28 +2187,19 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-08-09T16:00:00Z",
+        "e": "2026-08-09T17:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly",
+        "p": "kennethbager"
       }
     ],
     "rinse": [
-      {
-        "n": "CoOp Presents",
-        "s": "2026-08-02T13:00:00Z",
-        "e": "2026-08-02T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Kitty Amor",
-        "s": "2026-08-02T15:00:00Z",
-        "e": "2026-08-02T16:00:00Z",
-        "d": null,
-        "j": "Kingdonna",
-        "u": null,
-        "t": "biweekly",
-        "p": "kittyamor"
-      },
       {
         "n": "Flashy Sillah",
         "s": "2026-08-02T16:00:00Z",
@@ -2222,10 +2214,14 @@
         "s": "2026-08-02T17:00:00Z",
         "e": "2026-08-02T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Jay Carder & Izco (Percy Mingle x KYSO Sound Takeover)",
         "u": null,
         "t": "monthly",
-        "p": "oneman"
+        "p": "izco",
+        "ap": [
+          "jaycarder",
+          "oneman"
+        ]
       },
       {
         "n": "Freshta",
@@ -2242,7 +2238,7 @@
         "s": "2026-08-02T20:00:00Z",
         "e": "2026-08-02T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Trappy & Drizz / N3, Amzzino & RB",
         "u": null,
         "p": "logansama"
       },
@@ -2347,7 +2343,7 @@
         "s": "2026-08-03T14:00:00Z",
         "e": "2026-08-03T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Katie Pearl",
         "u": null,
         "t": "weekly"
       },
@@ -2373,7 +2369,7 @@
       {
         "n": "Hessle Audio",
         "s": "2026-08-03T18:00:00Z",
-        "e": "2026-08-03T22:00:00Z",
+        "e": "2026-08-03T20:00:00Z",
         "d": null,
         "j": "Ben UFO",
         "u": null,
@@ -2381,37 +2377,36 @@
         "p": "hessleaudio"
       },
       {
+        "n": "Daniel Avery",
+        "s": "2026-08-03T20:00:00Z",
+        "e": "2026-08-03T21:00:00Z",
+        "d": null,
+        "j": "(2015)",
+        "u": null,
+        "t": "monthly",
+        "p": "danielavery"
+      },
+      {
+        "n": "Zenker Brothers",
+        "s": "2026-08-03T21:00:00Z",
+        "e": "2026-08-03T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
         "n": "OSSX",
         "s": "2026-08-03T22:00:00Z",
         "e": "2026-08-03T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "DJ Relax",
         "u": null,
         "t": "biweekly",
         "p": "ossx"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Blokys",
-        "s": "2026-08-02T14:00:00Z",
-        "e": "2026-08-02T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "blokys"
-      },
-      {
-        "n": "To Van Kao",
-        "s": "2026-08-02T15:00:00Z",
-        "e": "2026-08-02T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "tovankao"
-      },
       {
         "n": "Teddy Kitano",
         "s": "2026-08-02T16:00:00Z",
