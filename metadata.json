@@ -1,50 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-08-02T05:19:02.810Z",
+  "updated": "2026-08-02T08:06:57.043Z",
   "stations": {
     "nts1": [
-      {
-        "n": "YOSHIMIO (R)",
-        "s": "2026-08-02T06:00:00+01:00",
-        "e": "2026-08-02T07:00:00+01:00",
-        "d": "YoshimiO, the Japanese multi-instrumentalist and member of Boredoms, OOIOO, and Free Kitten takes over the NTS signal in a monthly residency, sharing sounds from her record collection.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yoshimio/episodes/yoshimio-26th-february-2024",
-        "t": "restream"
-      },
-      {
-        "n": "SOUNDS OF THE DAWN (R)",
-        "s": "2026-08-02T07:00:00+01:00",
-        "e": "2026-08-02T08:30:00+01:00",
-        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-16th-may-2026",
-        "t": "restream"
-      },
-      {
-        "n": "MARTIN NEWELL'S ODDCASTE",
-        "s": "2026-08-02T08:30:00+01:00",
-        "e": "2026-08-02T09:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Shuta Hasunuma",
         "s": "2026-08-02T09:00:00+01:00",
         "e": "2026-08-02T10:00:00+01:00",
-        "d": null,
+        "d": "The celebrated and highly prolific Japanese composer, sound artist and composer Shuta Hasunuma shares some inspirations - including Jesu, Jeff Parker, Morton Feldman, David Behrman and more. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/shuta-hasunuma-2nd-august-2026"
       },
       {
         "n": "LAUNETTE'S HOUR: 7-Inch Special",
         "s": "2026-08-02T10:00:00+01:00",
         "e": "2026-08-02T12:00:00+01:00",
-        "d": null,
+        "d": "Up with the Lark! Launette takes time out from her day job as a chocolatier to play from her treasured vinyl collection. She will also be joined from time to time by carefully chosen guests. Happy Sunday.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/launette/episodes/launette-2nd-august-2026"
       },
       {
         "n": "HOUSE CALL",
@@ -165,34 +138,45 @@
         "u": null,
         "t": "restream",
         "p": "fine"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
+        "s": "2026-08-03T07:00:00+01:00",
+        "e": "2026-08-03T09:00:00+01:00",
+        "d": null,
+        "j": "MARIA SOMERVILLE",
+        "u": null,
+        "t": "weekly",
+        "p": "mariasomerville"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-08-03T09:00:00+01:00",
+        "e": "2026-08-03T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-08-03T11:00:00+01:00",
+        "e": "2026-08-03T13:00:00+01:00",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "In Focus: Stevie Wonder (R)",
-        "s": "2026-08-02T06:00:00+01:00",
-        "e": "2026-08-02T08:00:00+01:00",
-        "d": "The true progenitors of the darkest art: heavy metal. Birthed in the industrial fug of 1960s Birmingham, Black Sabbath set themselves apart from other rock bands of the era, espousing occult themes in their lyrics, and playing their guitars at a menacing downtune.",
-        "j": "Stevie Wonder",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-black-sabbath-9th-december-2022",
-        "t": "restream"
-      },
-      {
-        "n": "CS + KREME (R)",
-        "s": "2026-08-02T08:00:00+01:00",
-        "e": "2026-08-02T09:00:00+01:00",
-        "d": "Melbourne's CS + KREME aka Conrad Standish & Sam Karmel drop a 2 hour mix featuring Tribe of Colin, Ron Trent, Psychic TV + More",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/cs-kreme/episodes/cs-kreme-8-may-2017",
-        "t": "restream"
-      },
-      {
         "n": "NATALIA PANZER (R)",
         "s": "2026-08-02T09:00:00+01:00",
         "e": "2026-08-02T10:00:00+01:00",
-        "d": null,
+        "d": "Paulina and Janek Ufnal from Warsaw's Mondoj label share a guest mix guided by enigmatic storytelling, lightheartedness, and play. Sounds from Mondoj associates Olli Aarni, Patrick Shiroishi & Piotr Kurek, and Mike Cooper & Jason Kolàr interweave with recent finds and old favourites.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/natalia-panzer/episodes/natalia-panzer-19th-july-2025",
         "t": "restream",
         "p": "natalia",
         "ap": [
@@ -203,9 +187,9 @@
         "n": "POST PUNK BRITAIN: WHAT CAME NEXT (R)",
         "s": "2026-08-02T10:00:00+01:00",
         "e": "2026-08-02T12:00:00+01:00",
-        "d": null,
+        "d": "Post-punk never went away. On the closing episode of Post Punk Britain, Carla Dal Forno and Sanjay bridge the old to the new, exploring the more contemporary sounds that were heavily influenced by the music featured on previous episodes, exploring their favourite post punk adjacent tracks from the '90s to the current day.",
         "j": "WHAT CAME NEXT",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/post-punk-in-britain/episodes/post-punk-in-britain-what-came-next-20th-may-2023",
         "t": "restream"
       },
       {
@@ -338,28 +322,27 @@
         "j": "ill Dubio",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "OKONKOLE Y TROMPA W/ PAM & DJ F16 FALCON - VGM & DANIEL MASSON SPECIAL (R)",
+        "s": "2026-08-03T09:00:00+01:00",
+        "e": "2026-08-03T11:00:00+01:00",
+        "d": null,
+        "j": "PAM & DJ F16 FALCON",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "THE WONDER CABINET",
+        "s": "2026-08-03T11:00:00+01:00",
+        "e": "2026-08-03T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-08-02T05:00:00Z",
-        "e": "2026-08-02T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Cold Hippie",
-        "s": "2026-08-02T07:00:00Z",
-        "e": "2026-08-02T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "coldhippie"
-      },
       {
         "n": "First Press w/ Passo Passo",
         "s": "2026-08-02T08:00:00Z",
@@ -1562,23 +1545,42 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Kiki B",
+        "s": "2026-08-09T06:00:00Z",
+        "e": "2026-08-09T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kikib"
+      },
+      {
+        "n": "Kakuna",
+        "s": "2026-08-09T08:00:00Z",
+        "e": "2026-08-09T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kakuna"
       }
     ],
     "dublab": [
       {
-        "n": "Richard Fearless - Metal Box",
-        "s": "2026-08-02T05:00:00Z",
-        "e": "2026-08-02T07:00:00Z",
-        "d": null,
-        "j": "Metal Box",
-        "u": null,
-        "t": "monthly",
-        "p": "richardfearless"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-08-02T07:00:00Z",
         "e": "2026-08-02T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-02T09:00:00Z",
+        "e": "2026-08-02T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2188,16 +2190,6 @@
     ],
     "rinse": [
       {
-        "n": "Manami",
-        "s": "2026-08-02T05:00:00Z",
-        "e": "2026-08-02T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "manami"
-      },
-      {
         "n": "Playlist",
         "s": "2026-08-02T06:00:00Z",
         "e": "2026-08-02T09:00:00Z",
@@ -2431,15 +2423,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-01T19:00:00Z",
-        "e": "2026-08-02T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-02T07:00:00Z",
         "e": "2026-08-02T10:00:00Z",
         "d": null,
@@ -2457,7 +2440,7 @@
         "t": "playlist"
       },
       {
-        "n": "Anna Majidson",
+        "n": "Bé.",
         "s": "2026-08-02T12:00:00Z",
         "e": "2026-08-02T13:00:00Z",
         "d": null,
@@ -2466,9 +2449,95 @@
         "t": "monthly"
       },
       {
-        "n": "Bloodsport",
+        "n": "Hadj Sameer",
         "s": "2026-08-02T13:00:00Z",
         "e": "2026-08-02T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "hadjsameer"
+      },
+      {
+        "n": "Blokys",
+        "s": "2026-08-02T14:00:00Z",
+        "e": "2026-08-02T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "blokys"
+      },
+      {
+        "n": "To Van Kao",
+        "s": "2026-08-02T15:00:00Z",
+        "e": "2026-08-02T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "tovankao"
+      },
+      {
+        "n": "Teddy Kitano",
+        "s": "2026-08-02T16:00:00Z",
+        "e": "2026-08-02T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "teddykitano"
+      },
+      {
+        "n": "Promesses",
+        "s": "2026-08-02T17:00:00Z",
+        "e": "2026-08-02T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "promesses"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-02T19:00:00Z",
+        "e": "2026-08-03T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-03T07:00:00Z",
+        "e": "2026-08-03T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-03T10:00:00Z",
+        "e": "2026-08-03T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Anna Majidson",
+        "s": "2026-08-03T12:00:00Z",
+        "e": "2026-08-03T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Bloodsport",
+        "s": "2026-08-03T13:00:00Z",
+        "e": "2026-08-03T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2477,8 +2546,8 @@
       },
       {
         "n": "Glitter55",
-        "s": "2026-08-02T14:00:00Z",
-        "e": "2026-08-02T15:00:00Z",
+        "s": "2026-08-03T14:00:00Z",
+        "e": "2026-08-03T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2486,16 +2555,16 @@
       },
       {
         "n": "AES",
-        "s": "2026-08-02T15:00:00Z",
-        "e": "2026-08-02T16:00:00Z",
+        "s": "2026-08-03T15:00:00Z",
+        "e": "2026-08-03T16:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Bambi",
-        "s": "2026-08-02T16:00:00Z",
-        "e": "2026-08-02T17:00:00Z",
+        "s": "2026-08-03T16:00:00Z",
+        "e": "2026-08-03T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2504,8 +2573,8 @@
       },
       {
         "n": "Hewan Aman",
-        "s": "2026-08-02T17:00:00Z",
-        "e": "2026-08-02T18:00:00Z",
+        "s": "2026-08-03T17:00:00Z",
+        "e": "2026-08-03T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2514,8 +2583,8 @@
       },
       {
         "n": "HALFPIPE RECORDS",
-        "s": "2026-08-02T18:00:00Z",
-        "e": "2026-08-02T19:00:00Z",
+        "s": "2026-08-03T18:00:00Z",
+        "e": "2026-08-03T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2523,8 +2592,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-02T19:00:00Z",
-        "e": "2026-08-02T20:00:00Z",
+        "s": "2026-08-03T19:00:00Z",
+        "e": "2026-08-03T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
