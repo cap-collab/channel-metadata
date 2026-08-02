@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-02T13:00:44.016Z",
+  "updated": "2026-08-02T14:54:06.616Z",
   "stations": {
     "nts1": [
-      {
-        "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
-        "s": "2026-08-02T13:00:00+01:00",
-        "e": "2026-08-02T15:00:00+01:00",
-        "d": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ifmusic/episodes/ifmusic-2nd-august-2026"
-      },
       {
         "n": "RIO DOCE - Moacir Santos Special",
         "s": "2026-08-02T15:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "A Month of Sundays w/ Bill Spencer",
         "s": "2026-08-02T17:00:00+01:00",
         "e": "2026-08-02T18:00:00+01:00",
-        "d": null,
+        "d": "Bill Spencer shares weekend recordings from his living room studio in Detroit, Michigan, from where he brings a range of soulful jazz rock, and ambient sounds, spanning to electronica and psychedelic dub.",
         "j": "Bill Spencer",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/bill-spencer/episodes/bill-spencer-2nd-august-2026",
         "t": "biweekly",
         "p": "billspencer"
       },
@@ -172,6 +164,14 @@
         "u": null,
         "t": "weekly",
         "p": "cocomaria"
+      },
+      {
+        "n": "NTS x Bershka Next Up! w/ Kaanijo & D.Silvestre",
+        "s": "2026-08-03T20:00:00+01:00",
+        "e": "2026-08-03T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
@@ -189,9 +189,9 @@
         "n": "WAVE FLOWER W/ YUKA MIZUHARA (R)",
         "s": "2026-08-02T16:00:00+01:00",
         "e": "2026-08-02T17:00:00+01:00",
-        "d": null,
+        "d": "Japanese DJ Yuka Mizuhara joins us for an hour every month, selecting the most feel good classic house and disco. Dig!  ",
         "j": "YUKA MIZUHARA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/groove-in-the-heart-w-yuka-mizuhara/episodes/groove-in-the-heart-w-yuka-mizuhara-16th-july-2024",
         "t": "restream"
       },
       {
@@ -331,18 +331,19 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Robeare",
-        "s": "2026-08-02T13:00:00Z",
-        "e": "2026-08-02T14:00:00Z",
+        "n": "MALA JUNTA",
+        "s": "2026-08-03T15:00:00+01:00",
+        "e": "2026-08-03T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "monthly",
+        "p": "malajunta"
+      }
+    ],
+    "subtle": [
       {
         "n": "ExtraSauce w/ eatmybeat",
         "s": "2026-08-02T14:00:00Z",
@@ -1563,18 +1564,19 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs",
-        "s": "2026-08-02T12:00:00Z",
-        "e": "2026-08-02T14:00:00Z",
+        "n": " Alien Izz",
+        "s": "2026-08-09T14:00:00Z",
+        "e": "2026-08-09T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly",
+        "p": "alienizz"
+      }
+    ],
+    "dublab": [
       {
         "n": "djjs 2",
         "s": "2026-08-02T14:00:00Z",
@@ -2175,6 +2177,15 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "djjs 2",
+        "s": "2026-08-09T14:00:00Z",
+        "e": "2026-08-09T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -2381,16 +2392,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Hadj Sameer",
-        "s": "2026-08-02T13:00:00Z",
-        "e": "2026-08-02T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "hadjsameer"
-      },
       {
         "n": "Blokys",
         "s": "2026-08-02T14:00:00Z",
