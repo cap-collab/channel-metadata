@@ -1,44 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-08-03T01:57:38.544Z",
+  "updated": "2026-08-03T05:39:28.959Z",
   "stations": {
     "nts1": [
-      {
-        "n": "System Olympia (R)",
-        "s": "2026-08-03T02:00:00+01:00",
-        "e": "2026-08-03T03:00:00+01:00",
-        "d": "System Olympia joins us for an hour a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-17th-may-2024",
-        "t": "restream",
-        "p": "systemolympia"
-      },
-      {
-        "n": "No Weapon Is Absolute w/ Cosmo Vitelli (R)",
-        "s": "2026-08-03T03:00:00+01:00",
-        "e": "2026-08-03T04:00:00+01:00",
-        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
-        "j": "Cosmo Vitelli",
-        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-2nd-june-2021",
-        "t": "restream"
-      },
-      {
-        "n": "Tommasi (R)",
-        "s": "2026-08-03T04:00:00+01:00",
-        "e": "2026-08-03T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "tommasi"
-      },
       {
         "n": "FINE (R)",
         "s": "2026-08-03T06:00:00+01:00",
         "e": "2026-08-03T07:00:00+01:00",
-        "d": null,
+        "d": "Sonic diaries from Fine…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-18th-september-2025",
         "t": "restream",
         "p": "fine"
       },
@@ -46,9 +17,9 @@
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-08-03T07:00:00+01:00",
         "e": "2026-08-03T09:00:00+01:00",
-        "d": null,
+        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
         "j": "MARIA SOMERVILLE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-3rd-august-2026",
         "t": "weekly",
         "p": "mariasomerville"
       },
@@ -173,53 +144,55 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "COLD PIZZA W/ STUD1NT (R)",
+        "s": "2026-08-04T06:00:00+01:00",
+        "e": "2026-08-04T07:00:00+01:00",
+        "d": null,
+        "j": "STUD1NT",
+        "u": null,
+        "t": "restream",
+        "p": "coldpizza"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
+        "s": "2026-08-04T07:00:00+01:00",
+        "e": "2026-08-04T09:00:00+01:00",
+        "d": null,
+        "j": "MARIA SOMERVILLE",
+        "u": null,
+        "t": "weekly",
+        "p": "mariasomerville"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-08-04T09:00:00+01:00",
+        "e": "2026-08-04T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
       }
     ],
     "nts2": [
       {
-        "n": "YL HOOI (R)",
-        "s": "2026-08-03T02:00:00+01:00",
-        "e": "2026-08-03T03:00:00+01:00",
-        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-24th-july-2025",
-        "t": "restream",
-        "p": "ylhooi"
-      },
-      {
-        "n": "IN FOCUS: Television Personalities (R)",
-        "s": "2026-08-03T03:00:00+01:00",
-        "e": "2026-08-03T05:00:00+01:00",
-        "d": "Helmed by mercurial auteur Dan Treacy, London band Television Personalities traversed a volatile, short-lived, and shapeshifting musical lifetime within a handful of years, which left only a slight commercial blip on the contemporary pop landscape.\nThe shadow of their influence, however, grows longer and longer. On top of their contribution to the UK's significant post-punk legacy, Treacy and the band were partly responsible for reviving a dormant interest in UK psychedelic music, with their album 'Mummy Your Not Watching Me'. Many C86-era bands from the 1990s cite them as inspirations, as well as currently active US bands like MGMT and Pavement.\nTwo hours of singular independent music from \"part-time punks\" and psych rockers Television Personalities.  ",
-        "j": "Television Personalities",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-television-personalities-2nd-february-2024",
-        "t": "restream"
-      },
-      {
-        "n": "Como La Flor (R)",
-        "s": "2026-08-03T05:00:00+01:00",
-        "e": "2026-08-03T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "NTS GUIDE TO: GOLDEN AGE OF MALIAN MUSIC (R)",
         "s": "2026-08-03T06:00:00+01:00",
         "e": "2026-08-03T08:00:00+01:00",
-        "d": null,
+        "d": "Selections from the \"golden age\" of Malian music from the late 1960s into the early 1980s. This was the era following Mali's independence in 1960s. President Modibo Keïta, eager to make music a key part of a newly independent national spirit, funded and encouraged the forming of musical communities and orchestras across the country. Many of these groups fused the generations-old griot story telling tradition with modern instrumentation. ",
         "j": "GOLDEN AGE OF MALIAN MUSIC",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-golden-age-of-malian-music---1970s-10th-march-2026",
         "t": "restream"
       },
       {
         "n": "HIGH JAZZ* w/ ill Dubio (R)",
         "s": "2026-08-03T08:00:00+01:00",
         "e": "2026-08-03T09:00:00+01:00",
-        "d": null,
+        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
         "j": "ill Dubio",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-22nd-january-2020",
         "t": "restream"
       },
       {
@@ -312,12 +285,32 @@
         "u": null
       },
       {
+        "n": "SEA to SEA w/ Diana Ratsamee (R)",
+        "s": "2026-08-03T22:00:00+01:00",
+        "e": "2026-08-03T23:00:00+01:00",
+        "d": null,
+        "j": "Diana Ratsamee",
+        "u": null,
+        "t": "restream",
+        "p": "dianaratsamee"
+      },
+      {
         "n": "WEEKEND READ w/ JONAH RABB",
         "s": "2026-08-03T23:00:00+01:00",
         "e": "2026-08-04T00:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Civilization Radio (R)",
+        "s": "2026-08-04T00:00:00+01:00",
+        "e": "2026-08-04T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "civilizationradio"
       },
       {
         "n": "MASSIVEFART420 RADIO W/ IRENE LEE",
@@ -337,38 +330,19 @@
         "u": null,
         "t": "monthly",
         "p": "totalstasis"
+      },
+      {
+        "n": "DELIVERY PRESENTS: HAAN",
+        "s": "2026-08-04T03:00:00+01:00",
+        "e": "2026-08-04T04:00:00+01:00",
+        "d": null,
+        "j": "HAAN",
+        "u": null,
+        "t": "monthly",
+        "p": "delivery"
       }
     ],
     "subtle": [
-      {
-        "n": "kstrobez",
-        "s": "2026-08-03T01:00:00Z",
-        "e": "2026-08-03T02:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "kstrobez"
-      },
-      {
-        "n": "Dolly's Spaceship w/ Tomislav Slavinski",
-        "s": "2026-08-03T02:00:00Z",
-        "e": "2026-08-03T03:00:00Z",
-        "d": null,
-        "j": "Tomislav Slavinski",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Sacha Kassy",
-        "s": "2026-08-03T04:00:00Z",
-        "e": "2026-08-03T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "sachakassy"
-      },
       {
         "n": "Subtle Shift w/ OhRyan & jaykd",
         "s": "2026-08-03T05:00:00Z",
@@ -1589,28 +1563,28 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
-      {
-        "n": "DJ TY - The Long Decay",
-        "s": "2026-08-03T01:00:00Z",
-        "e": "2026-08-03T03:00:00Z",
-        "d": null,
-        "j": "The Long Decay",
-        "u": null,
-        "t": "monthly",
-        "p": "djty"
       },
       {
-        "n": "Ashley Younniä – Children of the Sound",
-        "s": "2026-08-03T03:00:00Z",
-        "e": "2026-08-03T05:00:00Z",
+        "n": "K-SHA",
+        "s": "2026-08-10T02:00:00Z",
+        "e": "2026-08-10T03:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "5p3c141",
+        "s": "2026-08-10T04:00:00Z",
+        "e": "2026-08-10T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "5p3c141"
+      }
+    ],
+    "dublab": [
       {
         "n": "Yves B. Golden – Stride Breaker",
         "s": "2026-08-03T05:00:00Z",
@@ -1620,6 +1594,15 @@
         "u": null,
         "t": "monthly",
         "p": "yves"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-03T07:00:00Z",
+        "e": "2026-08-03T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Thalma de Freitas – THALMA PLAYS BRASIL",
@@ -2191,18 +2174,28 @@
         "j": "Please and Thank You",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Electronic Playlist",
-        "s": "2026-08-03T01:00:00Z",
-        "e": "2026-08-03T05:00:00Z",
+        "n": "DMM - Loosely Attached",
+        "s": "2026-08-10T03:00:00Z",
+        "e": "2026-08-10T05:00:00Z",
+        "d": null,
+        "j": "Loosely Attached",
+        "u": null,
+        "t": "monthly",
+        "p": "dmm"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-10T05:00:00Z",
+        "e": "2026-08-10T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "The North Quarter",
         "s": "2026-08-03T05:00:00Z",
@@ -2559,16 +2552,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "Global Weirding",
-        "s": "2026-08-03T01:00:00Z",
-        "e": "2026-08-03T04:00:00Z",
-        "d": null,
-        "j": "Researcher",
-        "u": null,
-        "t": "monthly",
-        "p": "researcher"
-      },
       {
         "n": "The Black Lodge",
         "s": "2026-08-03T04:00:00Z",
@@ -3003,6 +2986,45 @@
         "u": null,
         "t": "monthly",
         "p": "lilsur"
+      },
+      {
+        "n": "the moment",
+        "s": "2026-09-03T02:00:00Z",
+        "e": "2026-09-03T03:00:00Z",
+        "d": null,
+        "j": "just another bitch",
+        "u": null,
+        "t": "monthly",
+        "p": "justanotherbitch"
+      },
+      {
+        "n": "ek",
+        "s": "2026-09-03T03:00:00Z",
+        "e": "2026-09-03T04:00:00Z",
+        "d": null,
+        "j": "ek",
+        "u": null,
+        "t": "monthly",
+        "p": "ek"
+      },
+      {
+        "n": "A / Void",
+        "s": "2026-09-03T04:00:00Z",
+        "e": "2026-09-03T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TVOD",
+        "s": "2026-09-03T05:00:00Z",
+        "e": "2026-09-03T07:00:00Z",
+        "d": null,
+        "j": "Jason P",
+        "u": null,
+        "t": "weekly",
+        "p": "jasonp"
       }
     ]
   }
