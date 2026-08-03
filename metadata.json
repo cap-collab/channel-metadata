@@ -1,35 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-08-03T05:39:28.959Z",
+  "updated": "2026-08-03T09:23:58.495Z",
   "stations": {
     "nts1": [
-      {
-        "n": "FINE (R)",
-        "s": "2026-08-03T06:00:00+01:00",
-        "e": "2026-08-03T07:00:00+01:00",
-        "d": "Sonic diaries from Fine…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fine/episodes/fine-18th-september-2025",
-        "t": "restream",
-        "p": "fine"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-08-03T07:00:00+01:00",
-        "e": "2026-08-03T09:00:00+01:00",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-3rd-august-2026",
-        "t": "weekly",
-        "p": "mariasomerville"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-08-03T09:00:00+01:00",
         "e": "2026-08-03T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-3rd-august-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -37,9 +17,9 @@
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-08-03T11:00:00+01:00",
         "e": "2026-08-03T13:00:00+01:00",
-        "d": null,
+        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
         "j": "John Gómez",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-3rd-august-2026",
         "t": "weekly"
       },
       {
@@ -174,43 +154,44 @@
         "u": null,
         "t": "regular",
         "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ CHEB MIMO",
+        "s": "2026-08-04T11:00:00+01:00",
+        "e": "2026-08-04T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "chebmimo"
+      },
+      {
+        "n": "PROSUMER",
+        "s": "2026-08-04T13:00:00+01:00",
+        "e": "2026-08-04T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "prosumer"
       }
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: GOLDEN AGE OF MALIAN MUSIC (R)",
-        "s": "2026-08-03T06:00:00+01:00",
-        "e": "2026-08-03T08:00:00+01:00",
-        "d": "Selections from the \"golden age\" of Malian music from the late 1960s into the early 1980s. This was the era following Mali's independence in 1960s. President Modibo Keïta, eager to make music a key part of a newly independent national spirit, funded and encouraged the forming of musical communities and orchestras across the country. Many of these groups fused the generations-old griot story telling tradition with modern instrumentation. ",
-        "j": "GOLDEN AGE OF MALIAN MUSIC",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-golden-age-of-malian-music---1970s-10th-march-2026",
-        "t": "restream"
-      },
-      {
-        "n": "HIGH JAZZ* w/ ill Dubio (R)",
-        "s": "2026-08-03T08:00:00+01:00",
-        "e": "2026-08-03T09:00:00+01:00",
-        "d": "High Jazz* is an independent record label specializing in 70s & 80s soul, jazz & funk. ill Dubio takes the reigns for the monthly High Jazz* show rustling up an hour of choice selections on a Wednesday.",
-        "j": "ill Dubio",
-        "u": "https://www.nts.live/api/v2/shows/high-jazz/episodes/high-jazz-22nd-january-2020",
-        "t": "restream"
-      },
-      {
         "n": "OKONKOLE Y TROMPA W/ PAM & DJ F16 FALCON - VGM & DANIEL MASSON SPECIAL (R)",
         "s": "2026-08-03T09:00:00+01:00",
         "e": "2026-08-03T11:00:00+01:00",
-        "d": null,
+        "d": "This month edition is a video Game Music special, with a focus on the music of Dave Masson by DJ F16 Falcon for the second part of the show. ",
         "j": "PAM & DJ F16 FALCON",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/okonkole-y-trompa/episodes/okonkole-y-trompa-26th-january-2022",
         "t": "restream"
       },
       {
         "n": "THE WONDER CABINET",
         "s": "2026-08-03T11:00:00+01:00",
         "e": "2026-08-03T12:00:00+01:00",
-        "d": null,
+        "d": "Sounds and recordings from resident artists at the Wonder Cabinet space in Cremisan Valley, Bethlehem.\nFrom the host: \"Wonder Cabinet invites Busher Kanj Abu Saleh is a composer, sound artist, and researcher from Majdal Shams in the Golan Heights. His work focuses on electroacoustic composition and explores the relationship between sonic environments and musical creation.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-wonder-cabinet/episodes/the-wonder-cabinet-3rd-august-2026",
         "t": "monthly"
       },
       {
@@ -340,36 +321,26 @@
         "u": null,
         "t": "monthly",
         "p": "delivery"
+      },
+      {
+        "n": "SYSTEM SEOUL",
+        "s": "2026-08-04T04:00:00+01:00",
+        "e": "2026-08-04T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ALL STYLES ALL SMILES (R)",
+        "s": "2026-08-04T05:00:00+01:00",
+        "e": "2026-08-04T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Shift w/ OhRyan & jaykd",
-        "s": "2026-08-03T05:00:00Z",
-        "e": "2026-08-03T06:00:00Z",
-        "d": null,
-        "j": "OhRyan & jaykd",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "VITRINE by Sasoun",
-        "s": "2026-08-03T06:00:00Z",
-        "e": "2026-08-03T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": " Hello, You’ve Reached The Grooveline",
-        "s": "2026-08-03T07:00:00Z",
-        "e": "2026-08-03T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "The Watercourse Way w/ Jamie Nu",
         "s": "2026-08-03T08:00:00Z",
@@ -1582,23 +1553,32 @@
         "u": null,
         "t": "monthly",
         "p": "5p3c141"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Yves B. Golden – Stride Breaker",
-        "s": "2026-08-03T05:00:00Z",
-        "e": "2026-08-03T07:00:00Z",
+        "n": " Tribalismo",
+        "s": "2026-08-10T08:00:00Z",
+        "e": "2026-08-10T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "yves"
+        "p": "tribalismo"
+      }
+    ],
+    "dublab": [
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-03T09:00:00Z",
+        "e": "2026-08-03T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-03T07:00:00Z",
-        "e": "2026-08-03T09:00:00Z",
+        "s": "2026-08-03T11:00:00Z",
+        "e": "2026-08-03T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2197,25 +2177,6 @@
     ],
     "rinse": [
       {
-        "n": "The North Quarter",
-        "s": "2026-08-03T05:00:00Z",
-        "e": "2026-08-03T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "thenorthquarter"
-      },
-      {
-        "n": "Playlist",
-        "s": "2026-08-03T06:00:00Z",
-        "e": "2026-08-03T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Tim Garcia",
         "s": "2026-08-03T09:00:00Z",
         "e": "2026-08-03T11:00:00Z",
@@ -2451,15 +2412,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-02T19:00:00Z",
-        "e": "2026-08-03T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-03T07:00:00Z",
         "e": "2026-08-03T10:00:00Z",
         "d": null,
@@ -2477,9 +2429,101 @@
         "t": "playlist"
       },
       {
-        "n": "Izzy Lindqwister",
+        "n": "Anna Majidson",
         "s": "2026-08-03T12:00:00Z",
         "e": "2026-08-03T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Bloodsport",
+        "s": "2026-08-03T13:00:00Z",
+        "e": "2026-08-03T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bloodsport"
+      },
+      {
+        "n": "Glitter55",
+        "s": "2026-08-03T14:00:00Z",
+        "e": "2026-08-03T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "AES",
+        "s": "2026-08-03T15:00:00Z",
+        "e": "2026-08-03T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Bambi",
+        "s": "2026-08-03T16:00:00Z",
+        "e": "2026-08-03T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "bambi"
+      },
+      {
+        "n": "Hewan Aman",
+        "s": "2026-08-03T17:00:00Z",
+        "e": "2026-08-03T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "hewanaman"
+      },
+      {
+        "n": "HALFPIPE RECORDS",
+        "s": "2026-08-03T18:00:00Z",
+        "e": "2026-08-03T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-03T19:00:00Z",
+        "e": "2026-08-04T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-04T07:00:00Z",
+        "e": "2026-08-04T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-04T10:00:00Z",
+        "e": "2026-08-04T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Izzy Lindqwister",
+        "s": "2026-08-04T12:00:00Z",
+        "e": "2026-08-04T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2488,8 +2532,8 @@
       },
       {
         "n": "Dubquake Records",
-        "s": "2026-08-03T13:00:00Z",
-        "e": "2026-08-03T14:00:00Z",
+        "s": "2026-08-04T13:00:00Z",
+        "e": "2026-08-04T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2498,16 +2542,16 @@
       },
       {
         "n": "ADRIXXX",
-        "s": "2026-08-03T14:00:00Z",
-        "e": "2026-08-03T15:00:00Z",
+        "s": "2026-08-04T14:00:00Z",
+        "e": "2026-08-04T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Kaïlys",
-        "s": "2026-08-03T15:00:00Z",
-        "e": "2026-08-03T16:00:00Z",
+        "s": "2026-08-04T15:00:00Z",
+        "e": "2026-08-04T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2515,8 +2559,8 @@
       },
       {
         "n": "NegoO",
-        "s": "2026-08-03T16:00:00Z",
-        "e": "2026-08-03T17:00:00Z",
+        "s": "2026-08-04T16:00:00Z",
+        "e": "2026-08-04T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2524,8 +2568,8 @@
       },
       {
         "n": "Carlos do Complexo",
-        "s": "2026-08-03T17:00:00Z",
-        "e": "2026-08-03T18:00:00Z",
+        "s": "2026-08-04T17:00:00Z",
+        "e": "2026-08-04T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2533,8 +2577,8 @@
       },
       {
         "n": "NVST",
-        "s": "2026-08-03T18:00:00Z",
-        "e": "2026-08-03T19:00:00Z",
+        "s": "2026-08-04T18:00:00Z",
+        "e": "2026-08-04T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2542,8 +2586,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-03T19:00:00Z",
-        "e": "2026-08-03T20:00:00Z",
+        "s": "2026-08-04T19:00:00Z",
+        "e": "2026-08-04T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2552,16 +2596,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "The Black Lodge",
-        "s": "2026-08-03T04:00:00Z",
-        "e": "2026-08-03T06:00:00Z",
-        "d": null,
-        "j": "Kosmik",
-        "u": null,
-        "t": "monthly",
-        "p": "kosmik"
-      },
       {
         "n": "In-studio",
         "s": "2026-08-04T01:00:00Z",
