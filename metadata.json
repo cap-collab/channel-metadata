@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-04T11:56:49.970Z",
+  "updated": "2026-08-04T13:58:19.896Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Soup To Nuts w/ Sofie K",
-        "s": "2026-08-04T11:00:00+01:00",
-        "e": "2026-08-04T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-sofie-k-4th-august-2026",
-        "p": "sofiek"
-      },
       {
         "n": "PROSUMER",
         "s": "2026-08-04T13:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-08-04T15:00:00+01:00",
         "e": "2026-08-04T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-4th-august-2026",
         "t": "weekly",
         "p": "margeaux"
       },
@@ -171,37 +162,37 @@
         "ap": [
           "lunchclub"
         ]
+      },
+      {
+        "n": "BRADLEY ZERO PRESENTS: RHYTHM SECTION",
+        "s": "2026-08-05T14:00:00+01:00",
+        "e": "2026-08-05T15:00:00+01:00",
+        "d": null,
+        "j": "RHYTHM SECTION",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "Phambinho W/ UNDERTHEJAGUAR - HACKNEYED",
-        "s": "2026-08-04T12:00:00+01:00",
-        "e": "2026-08-04T13:00:00+01:00",
-        "d": "Monthly enqiuries into encounters in harmony, forms of hearing, and occasionally responding.\nFrom the host: \"Gentrifying East London, HACKNEYED explores masculine crisis through the lens of surveillance capitalism. Like Johnny in Naked, Adam wanders through a hostile urban landscape, but instead of Thatcher's Britain, he's trapped in contemporary East London – a place of wild social disparity.\"",
-        "j": "UNDERTHEJAGUAR",
-        "u": "https://www.nts.live/api/v2/shows/phambinho/episodes/phambinho-4th-august-2026",
-        "t": "monthly",
-        "p": "phambinho"
-      },
-      {
-        "n": "MARK LECKEY - Leaky Audio",
-        "s": "2026-08-04T13:00:00+01:00",
-        "e": "2026-08-04T14:00:00+01:00",
-        "d": "Contemporary British AV artist, collagist, and NTS host Mark Leckey takes to the airwaves to play oddities from his collection. Everything from doo-wop to gabber. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mark-leckey/episodes/mark-leckey-4th-august-2026",
-        "p": "markleckey"
-      },
-      {
         "n": "LORAINE JAMES - live at Silent Green",
         "s": "2026-08-04T14:00:00+01:00",
         "e": "2026-08-04T15:00:00+01:00",
-        "d": null,
+        "d": "North London native and Hyperdub signee Loraine James is an electronic producer who effortlessly blends Electronica and IDM with whispers of jazz and ambience all wrapped up in the artists key avant-garde aesthetic and sensibility.\nFrom the host: \"live set from moi with distorted audio\"",
         "j": "live at Silent Green",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/loraine-james/episodes/loraine-james-4th-august-2026",
         "t": "monthly",
         "p": "lorainejames"
+      },
+      {
+        "n": "Image Search - Barcelona (R)",
+        "s": "2026-08-04T15:00:00+01:00",
+        "e": "2026-08-04T16:00:00+01:00",
+        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month.\nEmail: animalimagesearch@gmail.com",
+        "j": "Barcelona",
+        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-13th-march-2025",
+        "t": "restream",
+        "p": "imagesearch"
       },
       {
         "n": "WES BAGGALEY",
@@ -344,28 +335,19 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "3XL w/ Stone (R)",
+        "s": "2026-08-05T10:00:00+01:00",
+        "e": "2026-08-05T11:00:00+01:00",
+        "d": null,
+        "j": "Stone",
+        "u": null,
+        "t": "restream",
+        "p": "3xl"
       }
     ],
     "subtle": [
-      {
-        "n": "Jakesy",
-        "s": "2026-08-04T11:00:00Z",
-        "e": "2026-08-04T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Bass Exchange",
-        "s": "2026-08-04T12:00:00Z",
-        "e": "2026-08-04T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "bassexchange"
-      },
       {
         "n": "Aural Cynosures w/ ALITH BERNDARN",
         "s": "2026-08-04T13:00:00Z",
@@ -1563,13 +1545,32 @@
         "u": null,
         "t": "monthly",
         "p": "radioroshy"
+      },
+      {
+        "n": "CONE",
+        "s": "2026-08-11T12:00:00Z",
+        "e": "2026-08-11T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "cone"
+      },
+      {
+        "n": "luwi won",
+        "s": "2026-08-11T13:00:00Z",
+        "e": "2026-08-11T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-04T11:00:00Z",
-        "e": "2026-08-04T13:00:00Z",
+        "s": "2026-08-04T13:00:00Z",
+        "e": "2026-08-04T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1577,8 +1578,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-04T13:00:00Z",
-        "e": "2026-08-04T15:00:00Z",
+        "s": "2026-08-04T15:00:00Z",
+        "e": "2026-08-04T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2138,24 +2139,6 @@
     ],
     "rinse": [
       {
-        "n": "Bel Cobain",
-        "s": "2026-08-04T11:00:00Z",
-        "e": "2026-08-04T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Savannah Blake presents Sol Sessions",
-        "s": "2026-08-04T12:00:00Z",
-        "e": "2026-08-04T13:00:00Z",
-        "d": null,
-        "j": "Jordan Stephens",
-        "u": null,
-        "p": "savannahblake"
-      },
-      {
         "n": "LILA",
         "s": "2026-08-04T13:00:00Z",
         "e": "2026-08-04T14:00:00Z",
@@ -2188,12 +2171,32 @@
       {
         "n": "Ploy",
         "s": "2026-08-04T17:00:00Z",
-        "e": "2026-08-04T21:00:00Z",
+        "e": "2026-08-04T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
         "p": "ploy"
+      },
+      {
+        "n": "object blue with Loraine James",
+        "s": "2026-08-04T18:00:00Z",
+        "e": "2026-08-04T20:00:00Z",
+        "d": null,
+        "j": "(2018)",
+        "u": null,
+        "p": "lorainejames",
+        "ap": [
+          "objectblue"
+        ]
+      },
+      {
+        "n": "Ryan Elliot",
+        "s": "2026-08-04T20:00:00Z",
+        "e": "2026-08-04T21:00:00Z",
+        "d": null,
+        "j": "(2019)",
+        "u": null
       },
       {
         "n": "Soul Mass Transit System",
@@ -2257,7 +2260,7 @@
         "s": "2026-08-05T09:00:00Z",
         "e": "2026-08-05T11:00:00Z",
         "d": null,
-        "j": null,
+        "j": "RUBII",
         "u": null,
         "t": "weekly",
         "p": "esk"
@@ -2333,12 +2336,20 @@
       {
         "n": "Riria",
         "s": "2026-08-05T19:00:00Z",
-        "e": "2026-08-05T21:00:00Z",
+        "e": "2026-08-05T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
         "p": "riria"
+      },
+      {
+        "n": "Martyn",
+        "s": "2026-08-05T20:00:00Z",
+        "e": "2026-08-05T21:00:00Z",
+        "d": null,
+        "j": "(2018)",
+        "u": null
       },
       {
         "n": "Fever AM",
@@ -2361,25 +2372,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-04T10:00:00Z",
-        "e": "2026-08-04T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Izzy Lindqwister",
-        "s": "2026-08-04T12:00:00Z",
-        "e": "2026-08-04T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "izzylindqwister"
-      },
       {
         "n": "Dubquake Records",
         "s": "2026-08-04T13:00:00Z",
