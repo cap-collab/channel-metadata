@@ -1,41 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-08-04T19:18:55.285Z",
+  "updated": "2026-08-04T21:02:33.631Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SURRENDER: CÕVCO",
-        "s": "2026-08-04T20:00:00+01:00",
-        "e": "2026-08-04T21:00:00+01:00",
-        "d": "ARTIST, DJ Cõvco sonically birthing a utopian place of chaku chaku. With her bi-monthly invitation, she explores her limitless approach to mixing, a soundclash of experimental/warped club beats mixed with her live melodic/chants acapella edits - her signature dancefloor experience.",
-        "j": "CÕVCO",
-        "u": "https://www.nts.live/api/v2/shows/covco/episodes/covco-4th-august-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "PANDORA’S JUKEBOX",
-        "s": "2026-08-04T21:00:00+01:00",
-        "e": "2026-08-04T22:00:00+01:00",
-        "d": "Renegade Soundwaves by Pandora's Jukebox: sonic assemblages with hypnotic noir-dreamscapes and a multi-textured take on electronic music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/pandoras-jukebox/episodes/pandoras-jukebox-4th-august-2026"
-      },
       {
         "n": "Space Afrika",
         "s": "2026-08-04T22:00:00+01:00",
         "e": "2026-08-05T00:00:00+01:00",
-        "d": null,
+        "d": "Experimental ambience, dub, techno, and other crazy left shxt from Joshua Reid & Joshua Inyang, a.k.a Space Afrika… Please, enjoy.\nFrom the host: \"~ Trumpet, Trombone, Sax, Percussion, Improvisation & Other Meditations. A Dedication to E. PE ~\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/space-afrika/episodes/space-afrika-4th-august-2026",
         "p": "spaceafrika"
       },
       {
         "n": "BLUE TRIO RADIO W/ FULL BODY 2",
         "s": "2026-08-05T00:00:00+01:00",
         "e": "2026-08-05T01:00:00+01:00",
-        "d": null,
+        "d": "A regular hour from Philly-based digital shoegazers, Full Body 2 - made up of Cassidy Rose Hammond and Dylan Vaisey.",
         "j": "FULL BODY 2",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/full-body-2/episodes/full-body-2-5th-august-2026",
         "t": "monthly",
         "p": "fullbody2"
       },
@@ -171,32 +154,34 @@
         "j": "The Apron Show",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "MAXIMUM EXPOSURE POWER HOUR W/ TONY PRICE",
+        "s": "2026-08-05T20:00:00+01:00",
+        "e": "2026-08-05T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "THE NCA SHOW W/ BRASSFOOT",
+        "s": "2026-08-05T22:00:00+01:00",
+        "e": "2026-08-05T23:00:00+01:00",
+        "d": null,
+        "j": "BRASSFOOT",
+        "u": null,
+        "t": "monthly",
+        "p": "brassfoot"
       }
     ],
     "nts2": [
       {
-        "n": "Tal Castle",
-        "s": "2026-08-04T20:00:00+01:00",
-        "e": "2026-08-04T21:00:00+01:00",
-        "d": "Picks from the NYC twee / indietronica duo Tal Castle.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/tal-castle-4th-august-2026"
-      },
-      {
-        "n": "Cosmic Soundz - Sueño Sicodelico: Latin Garage & Psych",
-        "s": "2026-08-04T21:00:00+01:00",
-        "e": "2026-08-04T22:00:00+01:00",
-        "d": "Lima, Peru vinyl obsessive Salvatore Dellepiane shares selections from his treasure trove of rare and obscure boogie and funk from all across the world.\nFrom the host: \"An hour of fuzz, farfisa and raw guitars from across Latin America. Expect garage punk, beat and psychedelic sounds sourced from Peru, Chile, Bolivia, El Salvador, Panama, Mexico, Argentina, Costa Rica and Uruguay.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/salvatore/episodes/salvatore-4th-august-2026"
-      },
-      {
         "n": "LOS HITTERS",
         "s": "2026-08-04T22:00:00+01:00",
         "e": "2026-08-04T23:00:00+01:00",
-        "d": null,
+        "d": "Los Hitters is the collective partnership of Joe Cristando (Couple Two T’ree) and Rene Lopez (Suavecito Souldies). A collaboration that links the two from Brooklyn, NY to Oakland, CA. Their mixes focus on soul sounds comprised of their vinyl collection.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/los-hitters/episodes/los-hitters-4th-august-2026",
         "t": "monthly",
         "p": "loshitters"
       },
@@ -204,9 +189,10 @@
         "n": "FUSION BATCHES W/ DJ MORSE CODE",
         "s": "2026-08-04T23:00:00+01:00",
         "e": "2026-08-05T00:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "DJ / Producer Morse Code brings us a monthly all vinyl mix of jazz-funk, jazz fusion, and rare groove in the tradition of his Fusion Batches mixes from the mid 00's, which championed dollar bin heat as well as the rares, all in the name of the hunt for the best grooves!\nFrom the host: \"dog days of summer batch. sit back relax get nice and enjoy the show!\"",
+        "j": "DJ MORSE CODE",
+        "u": "https://www.nts.live/api/v2/shows/fusion-batches/episodes/fusion-batches-4th-august-2026",
+        "t": "monthly",
         "p": "fusionbatches"
       },
       {
@@ -343,27 +329,26 @@
         "j": null,
         "u": null,
         "p": "laminfofana"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "fantastic w/ absolutely",
-        "s": "2026-08-04T19:00:00Z",
-        "e": "2026-08-04T20:00:00Z",
-        "d": null,
-        "j": "absolutely",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Earnesto’s Essentials",
-        "s": "2026-08-04T20:00:00Z",
-        "e": "2026-08-04T21:00:00Z",
+        "n": "Symphony w/ Daria Challah",
+        "s": "2026-08-05T16:00:00+01:00",
+        "e": "2026-08-05T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Martyn's Darkest Light",
+        "s": "2026-08-05T17:00:00+01:00",
+        "e": "2026-08-05T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "Stanton",
         "s": "2026-08-04T21:00:00Z",
@@ -1552,25 +1537,27 @@
         "u": null,
         "t": "monthly",
         "p": "rodney"
+      },
+      {
+        "n": "Your Mum Loves Garage",
+        "s": "2026-08-11T20:00:00Z",
+        "e": "2026-08-11T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "DHR Presents",
+        "s": "2026-08-11T21:00:00Z",
+        "e": "2026-08-11T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "DROZIA – guest session",
-        "s": "2026-08-04T19:00:00Z",
-        "e": "2026-08-04T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Babalade E. Olamina – Live Mix & Interview (1999)",
-        "s": "2026-08-04T20:00:00Z",
-        "e": "2026-08-04T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Protect Me – PROPRO’s HIP-HOP PUNK HOUSE",
         "s": "2026-08-04T21:00:00Z",
@@ -2129,26 +2116,6 @@
     ],
     "rinse": [
       {
-        "n": "object blue with Loraine James",
-        "s": "2026-08-04T18:00:00Z",
-        "e": "2026-08-04T20:00:00Z",
-        "d": null,
-        "j": "(2018)",
-        "u": null,
-        "p": "lorainejames",
-        "ap": [
-          "objectblue"
-        ]
-      },
-      {
-        "n": "Ryan Elliot",
-        "s": "2026-08-04T20:00:00Z",
-        "e": "2026-08-04T21:00:00Z",
-        "d": null,
-        "j": "(2019)",
-        "u": null
-      },
-      {
         "n": "Soul Mass Transit System",
         "s": "2026-08-04T21:00:00Z",
         "e": "2026-08-04T22:00:00Z",
@@ -2306,7 +2273,7 @@
         "s": "2026-08-05T21:00:00Z",
         "e": "2026-08-05T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Rhyw",
         "u": null,
         "t": "monthly",
         "p": "feveram"
