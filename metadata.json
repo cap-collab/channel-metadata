@@ -1,54 +1,27 @@
 {
   "v": 2,
-  "updated": "2026-08-04T04:55:09.589Z",
+  "updated": "2026-08-04T08:22:28.231Z",
   "stations": {
     "nts1": [
       {
-        "n": "SOFAY & RIBEKA (R)",
-        "s": "2026-08-04T05:00:00+01:00",
-        "e": "2026-08-04T06:00:00+01:00",
-        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-25th-may-2021",
-        "t": "restream"
-      },
-      {
-        "n": "COLD PIZZA W/ STUD1NT (R)",
-        "s": "2026-08-04T06:00:00+01:00",
-        "e": "2026-08-04T07:00:00+01:00",
-        "d": "for you and me",
-        "j": "STUD1NT",
-        "u": "https://www.nts.live/api/v2/shows/cold-pizza/episodes/cold-pizza-w-stud1nt-8th-november-2021",
-        "t": "restream",
-        "p": "coldpizza"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-08-04T07:00:00+01:00",
-        "e": "2026-08-04T09:00:00+01:00",
-        "d": null,
-        "j": "MARIA SOMERVILLE",
-        "u": null,
-        "t": "weekly",
-        "p": "mariasomerville"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "n": "THE NTS BREAKFAST SHOW W/ FLO & OK WILLIAMS",
         "s": "2026-08-04T09:00:00+01:00",
         "e": "2026-08-04T11:00:00+01:00",
-        "d": null,
-        "j": "FLO",
-        "u": null,
-        "t": "regular",
-        "p": "flo"
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-4th-august-2026",
+        "p": "flo",
+        "ap": [
+          "okwilliams"
+        ]
       },
       {
         "n": "Soup To Nuts w/ Sofie K",
         "s": "2026-08-04T11:00:00+01:00",
         "e": "2026-08-04T13:00:00+01:00",
-        "d": null,
+        "d": "Let NTS brighten up your lunchtime hours.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-sofie-k-4th-august-2026",
         "p": "sofiek"
       },
       {
@@ -168,52 +141,54 @@
         "u": null,
         "t": "restream",
         "p": "yusu"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
+        "s": "2026-08-05T07:00:00+01:00",
+        "e": "2026-08-05T09:00:00+01:00",
+        "d": null,
+        "j": "SPIRIT BLUE",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-08-05T09:00:00+01:00",
+        "e": "2026-08-05T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-08-05T11:00:00+01:00",
+        "e": "2026-08-05T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly",
+        "p": "shyone"
       }
     ],
     "nts2": [
       {
-        "n": "ALL STYLES ALL SMILES (R)",
-        "s": "2026-08-04T05:00:00+01:00",
-        "e": "2026-08-04T06:00:00+01:00",
-        "d": "A genre-spanning show focusing on rare grooves, classics, new productions and obscurities with a worldwide perspective and a spotlight on soul, synth pop and leftfield house. All curated with love by Javybz - Anya and Julia. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/all-styles-all-smiles/episodes/all-styles-all-smiles-14th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "MUSIQUE TOPS (R)",
-        "s": "2026-08-04T06:00:00+01:00",
-        "e": "2026-08-04T07:00:00+01:00",
-        "d": "Vinyl only selections from TOPS’ personal collections",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tops/episodes/tops-21st-february-2025",
-        "t": "restream"
-      },
-      {
-        "n": "babyschön (R)",
-        "s": "2026-08-04T07:00:00+01:00",
-        "e": "2026-08-04T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "IN FOCUS: LÁSZLÓ HORTOBÁGYI (R)",
         "s": "2026-08-04T08:00:00+01:00",
         "e": "2026-08-04T10:00:00+01:00",
-        "d": null,
+        "d": "Two hours of compositions and electronic productions from Hungarian sound explorer László Hortobágyi. Born in Hungary, Hortobágyi is a citizen of the world in his influences – an ardent student of musicology, he is most notably inspired by the music of Northern India, spending trips to the region learning the traditional compositional styles, and playing the sitar, tabla and more. \nSelected and mixed by Minus Kendal",
         "j": "LÁSZLÓ HORTOBÁGYI",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-laszlo-hortobagyi-17th-october-2025",
         "t": "restream"
       },
       {
         "n": "Imagine Soundtracks w/ redkoffee: Michiko to Hatchin (R)",
         "s": "2026-08-04T10:00:00+01:00",
         "e": "2026-08-04T11:00:00+01:00",
-        "d": null,
+        "d": "Words, illustrations, and images all possess atmospheres. \nImagine Soundtracks depicts the musical emotions that animations, literature, manga, movies, or video games inspire. This series, curated by Paris-based poet and DJ Clarisse Prévost, aka redkoffee, is presented with interpreted dialogues from the explored selection.",
         "j": "redkoffee",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/redkoffee/episodes/redkoffee-michiko-to-hatchin-2nd-august-2025",
         "t": "restream",
         "p": "redkoffee"
       },
@@ -337,36 +312,39 @@
         "ap": [
           "timetable"
         ]
+      },
+      {
+        "n": "BOOM BIP",
+        "s": "2026-08-05T02:00:00+01:00",
+        "e": "2026-08-05T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "boombip"
+      },
+      {
+        "n": "Akito w/ Forward Transition (R)",
+        "s": "2026-08-05T03:00:00+01:00",
+        "e": "2026-08-05T04:00:00+01:00",
+        "d": null,
+        "j": "Forward Transition",
+        "u": null,
+        "t": "restream",
+        "p": "akito"
+      },
+      {
+        "n": "CXEMA w/ Auua (R)",
+        "s": "2026-08-05T04:00:00+01:00",
+        "e": "2026-08-05T05:00:00+01:00",
+        "d": null,
+        "j": "Auua",
+        "u": null,
+        "t": "restream",
+        "p": "cxema"
       }
     ],
     "subtle": [
-      {
-        "n": "Cartwright ",
-        "s": "2026-08-04T04:00:00Z",
-        "e": "2026-08-04T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-08-04T05:00:00Z",
-        "e": "2026-08-04T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": " Bristalo w/ Indiescotheque",
-        "s": "2026-08-04T06:00:00Z",
-        "e": "2026-08-04T07:00:00Z",
-        "d": null,
-        "j": "Indiescotheque",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "TorbM",
         "s": "2026-08-04T08:00:00Z",
@@ -1565,28 +1543,53 @@
         "u": null,
         "t": "monthly",
         "p": "djmoement"
+      },
+      {
+        "n": "Sparring Sessions",
+        "s": "2026-08-11T06:00:00Z",
+        "e": "2026-08-11T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Breakfast Spoons w/ Boruch",
+        "s": "2026-08-11T07:00:00Z",
+        "e": "2026-08-11T08:00:00Z",
+        "d": null,
+        "j": "Boruch",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Gingerly",
+        "s": "2026-08-11T08:00:00Z",
+        "e": "2026-08-11T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Monalisa Murray - Paths of Rhythm",
-        "s": "2026-08-04T03:00:00Z",
-        "e": "2026-08-04T05:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-08-04T07:00:00Z",
+        "e": "2026-08-04T09:00:00Z",
         "d": null,
-        "j": "Paths of Rhythm",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "monalisa"
+        "t": "playlist"
       },
       {
-        "n": "Jenny NONO - SS Extension Course",
-        "s": "2026-08-04T05:00:00Z",
-        "e": "2026-08-04T07:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-08-04T09:00:00Z",
+        "e": "2026-08-04T11:00:00Z",
         "d": null,
-        "j": "SS Extension Course",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "jennynono"
+        "t": "playlist"
       },
       {
         "n": "Chandler Poling - Studio Soundtracks",
@@ -2128,28 +2131,19 @@
         "u": null,
         "t": "biweekly",
         "p": "aaronpaar"
+      },
+      {
+        "n": "Daniel T - Crosseyed and Painless",
+        "s": "2026-08-11T05:00:00Z",
+        "e": "2026-08-11T07:00:00Z",
+        "d": null,
+        "j": "Crosseyed and Painless",
+        "u": null,
+        "t": "monthly",
+        "p": "danielt"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-08-04T01:00:00Z",
-        "e": "2026-08-04T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Freshta",
-        "s": "2026-08-04T05:00:00Z",
-        "e": "2026-08-04T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "freshta"
-      },
       {
         "n": "Playlist",
         "s": "2026-08-04T06:00:00Z",
@@ -2395,15 +2389,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-03T19:00:00Z",
-        "e": "2026-08-04T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-04T07:00:00Z",
         "e": "2026-08-04T10:00:00Z",
         "d": null,
@@ -2421,33 +2406,126 @@
         "t": "playlist"
       },
       {
-        "n": "kIM0 presents POV",
+        "n": "Izzy Lindqwister",
         "s": "2026-08-04T12:00:00Z",
         "e": "2026-08-04T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "izzylindqwister"
+      },
+      {
+        "n": "Dubquake Records",
+        "s": "2026-08-04T13:00:00Z",
+        "e": "2026-08-04T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "dubquakerecords"
+      },
+      {
+        "n": "ADRIXXX",
+        "s": "2026-08-04T14:00:00Z",
+        "e": "2026-08-04T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Kaïlys",
+        "s": "2026-08-04T15:00:00Z",
+        "e": "2026-08-04T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "NegoO",
+        "s": "2026-08-04T16:00:00Z",
+        "e": "2026-08-04T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Carlos do Complexo",
+        "s": "2026-08-04T17:00:00Z",
+        "e": "2026-08-04T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "carlos"
+      },
+      {
+        "n": "NVST",
+        "s": "2026-08-04T18:00:00Z",
+        "e": "2026-08-04T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "nvst"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-04T19:00:00Z",
+        "e": "2026-08-05T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-05T07:00:00Z",
+        "e": "2026-08-05T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-05T10:00:00Z",
+        "e": "2026-08-05T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "kIM0 presents POV",
+        "s": "2026-08-05T12:00:00Z",
+        "e": "2026-08-05T13:00:00Z",
         "d": null,
         "j": "The Virgin Suicides",
         "u": null
       },
       {
         "n": "Mohamedream",
-        "s": "2026-08-04T13:00:00Z",
-        "e": "2026-08-04T14:00:00Z",
+        "s": "2026-08-05T13:00:00Z",
+        "e": "2026-08-05T14:00:00Z",
         "d": null,
         "j": "Only Girl Can Judge Me",
         "u": null
       },
       {
         "n": "Lil Rosy",
-        "s": "2026-08-04T14:00:00Z",
-        "e": "2026-08-04T15:00:00Z",
+        "s": "2026-08-05T14:00:00Z",
+        "e": "2026-08-05T15:00:00Z",
         "d": null,
         "j": "& Zepequenaï B3B avec Othéli",
         "u": null
       },
       {
         "n": "Chloé Sarraméa",
-        "s": "2026-08-04T15:00:00Z",
-        "e": "2026-08-04T16:00:00Z",
+        "s": "2026-08-05T15:00:00Z",
+        "e": "2026-08-05T16:00:00Z",
         "d": null,
         "j": "PREMIERES W/ KeiyaA",
         "u": null,
@@ -2456,16 +2534,16 @@
       },
       {
         "n": "Agnès Aokky",
-        "s": "2026-08-04T16:00:00Z",
-        "e": "2026-08-04T17:00:00Z",
+        "s": "2026-08-05T16:00:00Z",
+        "e": "2026-08-05T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Studio Manager",
-        "s": "2026-08-04T17:00:00Z",
-        "e": "2026-08-04T19:00:00Z",
+        "s": "2026-08-05T17:00:00Z",
+        "e": "2026-08-05T19:00:00Z",
         "d": null,
         "j": "Doline B2B Nuage : Frosty Mix",
         "u": null,
@@ -2476,8 +2554,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-04T19:00:00Z",
-        "e": "2026-08-04T20:00:00Z",
+        "s": "2026-08-05T19:00:00Z",
+        "e": "2026-08-05T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
