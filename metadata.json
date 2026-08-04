@@ -1,20 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-04T08:22:28.231Z",
+  "updated": "2026-08-04T11:56:49.970Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO & OK WILLIAMS",
-        "s": "2026-08-04T09:00:00+01:00",
-        "e": "2026-08-04T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-4th-august-2026",
-        "p": "flo",
-        "ap": [
-          "okwilliams"
-        ]
-      },
       {
         "n": "Soup To Nuts w/ Sofie K",
         "s": "2026-08-04T11:00:00+01:00",
@@ -28,9 +16,9 @@
         "n": "PROSUMER",
         "s": "2026-08-04T13:00:00+01:00",
         "e": "2026-08-04T15:00:00+01:00",
-        "d": null,
+        "d": "Berlin techno aficionado Prosumer lays it out for all the wannabes. A harmonious lecture in house and soul, Prosumer’s here to share. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/prosumer/episodes/prosumer-4th-august-2026",
         "t": "monthly",
         "p": "prosumer"
       },
@@ -114,7 +102,7 @@
         "p": "fullbody2"
       },
       {
-        "n": "Plastic Language",
+        "n": "Plastic Language w/ Alan Fielden & Friends",
         "s": "2026-08-05T01:00:00+01:00",
         "e": "2026-08-05T02:00:00+01:00",
         "d": null,
@@ -170,61 +158,47 @@
         "u": null,
         "t": "weekly",
         "p": "shyone"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-08-05T13:00:00+01:00",
+        "e": "2026-08-05T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly",
+        "p": "finn",
+        "ap": [
+          "lunchclub"
+        ]
       }
     ],
     "nts2": [
       {
-        "n": "IN FOCUS: LÁSZLÓ HORTOBÁGYI (R)",
-        "s": "2026-08-04T08:00:00+01:00",
-        "e": "2026-08-04T10:00:00+01:00",
-        "d": "Two hours of compositions and electronic productions from Hungarian sound explorer László Hortobágyi. Born in Hungary, Hortobágyi is a citizen of the world in his influences – an ardent student of musicology, he is most notably inspired by the music of Northern India, spending trips to the region learning the traditional compositional styles, and playing the sitar, tabla and more. \nSelected and mixed by Minus Kendal",
-        "j": "LÁSZLÓ HORTOBÁGYI",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-laszlo-hortobagyi-17th-october-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Imagine Soundtracks w/ redkoffee: Michiko to Hatchin (R)",
-        "s": "2026-08-04T10:00:00+01:00",
-        "e": "2026-08-04T11:00:00+01:00",
-        "d": "Words, illustrations, and images all possess atmospheres. \nImagine Soundtracks depicts the musical emotions that animations, literature, manga, movies, or video games inspire. This series, curated by Paris-based poet and DJ Clarisse Prévost, aka redkoffee, is presented with interpreted dialogues from the explored selection.",
-        "j": "redkoffee",
-        "u": "https://www.nts.live/api/v2/shows/redkoffee/episodes/redkoffee-michiko-to-hatchin-2nd-august-2025",
-        "t": "restream",
-        "p": "redkoffee"
-      },
-      {
-        "n": "Pianpianino w/ DJ Fine",
-        "s": "2026-08-04T11:00:00+01:00",
-        "e": "2026-08-04T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "djfine"
-      },
-      {
-        "n": "Phambinho",
+        "n": "Phambinho W/ UNDERTHEJAGUAR - HACKNEYED",
         "s": "2026-08-04T12:00:00+01:00",
         "e": "2026-08-04T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Monthly enqiuries into encounters in harmony, forms of hearing, and occasionally responding.\nFrom the host: \"Gentrifying East London, HACKNEYED explores masculine crisis through the lens of surveillance capitalism. Like Johnny in Naked, Adam wanders through a hostile urban landscape, but instead of Thatcher's Britain, he's trapped in contemporary East London – a place of wild social disparity.\"",
+        "j": "UNDERTHEJAGUAR",
+        "u": "https://www.nts.live/api/v2/shows/phambinho/episodes/phambinho-4th-august-2026",
+        "t": "monthly",
         "p": "phambinho"
       },
       {
         "n": "MARK LECKEY - Leaky Audio",
         "s": "2026-08-04T13:00:00+01:00",
         "e": "2026-08-04T14:00:00+01:00",
-        "d": null,
+        "d": "Contemporary British AV artist, collagist, and NTS host Mark Leckey takes to the airwaves to play oddities from his collection. Everything from doo-wop to gabber. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mark-leckey/episodes/mark-leckey-4th-august-2026",
         "p": "markleckey"
       },
       {
-        "n": "LORAINE JAMES",
+        "n": "LORAINE JAMES - live at Silent Green",
         "s": "2026-08-04T14:00:00+01:00",
         "e": "2026-08-04T15:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "live at Silent Green",
         "u": null,
         "t": "monthly",
         "p": "lorainejames"
@@ -342,37 +316,37 @@
         "u": null,
         "t": "restream",
         "p": "cxema"
+      },
+      {
+        "n": "Breaking People w/ Noa Kurzweil: Taka (R)",
+        "s": "2026-08-05T05:00:00+01:00",
+        "e": "2026-08-05T06:00:00+01:00",
+        "d": null,
+        "j": "Noa Kurzweil",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Lung Dart (R)",
+        "s": "2026-08-05T06:00:00+01:00",
+        "e": "2026-08-05T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "lungdart"
+      },
+      {
+        "n": "PHILIP FM (R)",
+        "s": "2026-08-05T07:00:00+01:00",
+        "e": "2026-08-05T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "TorbM",
-        "s": "2026-08-04T08:00:00Z",
-        "e": "2026-08-04T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Leiiila",
-        "s": "2026-08-04T09:00:00Z",
-        "e": "2026-08-04T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "leiiila"
-      },
-      {
-        "n": "Octoroots",
-        "s": "2026-08-04T10:00:00Z",
-        "e": "2026-08-04T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Jakesy",
         "s": "2026-08-04T11:00:00Z",
@@ -1570,13 +1544,32 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Lucidik ",
+        "s": "2026-08-11T10:00:00Z",
+        "e": "2026-08-11T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Radio Roshy",
+        "s": "2026-08-11T11:00:00Z",
+        "e": "2026-08-11T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "radioroshy"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-04T07:00:00Z",
-        "e": "2026-08-04T09:00:00Z",
+        "s": "2026-08-04T11:00:00Z",
+        "e": "2026-08-04T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1584,8 +1577,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-04T09:00:00Z",
-        "e": "2026-08-04T11:00:00Z",
+        "s": "2026-08-04T13:00:00Z",
+        "e": "2026-08-04T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2145,24 +2138,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-08-04T06:00:00Z",
-        "e": "2026-08-04T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Papaoul",
-        "s": "2026-08-04T09:00:00Z",
-        "e": "2026-08-04T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Bel Cobain",
         "s": "2026-08-04T11:00:00Z",
         "e": "2026-08-04T12:00:00Z",
@@ -2172,13 +2147,12 @@
         "t": "monthly"
       },
       {
-        "n": "Savannah Blake",
+        "n": "Savannah Blake presents Sol Sessions",
         "s": "2026-08-04T12:00:00Z",
         "e": "2026-08-04T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Jordan Stephens",
         "u": null,
-        "t": "biweekly",
         "p": "savannahblake"
       },
       {
@@ -2387,15 +2361,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-04T07:00:00Z",
-        "e": "2026-08-04T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-04T10:00:00Z",
