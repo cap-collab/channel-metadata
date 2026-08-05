@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-05T08:19:44.404Z",
+  "updated": "2026-08-05T11:51:24.065Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ Jennifer Walton",
-        "s": "2026-08-05T09:00:00+01:00",
-        "e": "2026-08-05T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-jennifer-walton-5th-august-2026",
-        "p": "jenniferwalton"
-      },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-08-05T11:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "LUNCH CLUB w/ FINN",
         "s": "2026-08-05T13:00:00+01:00",
         "e": "2026-08-05T14:00:00+01:00",
-        "d": null,
+        "d": "Dance music with feeling, lunch time with Finn",
         "j": "FINN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lunch-club/episodes/lunch-club-5th-august-2026",
         "t": "weekly",
         "p": "finn",
         "ap": [
@@ -45,12 +36,13 @@
         "t": "biweekly"
       },
       {
-        "n": "MOXIE",
+        "n": "Moxie Live From Phonox (R)",
         "s": "2026-08-05T15:00:00+01:00",
         "e": "2026-08-05T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
+        "t": "restream",
         "p": "moxie"
       },
       {
@@ -170,43 +162,34 @@
         "j": "BABYSCHÖN",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "MAÏ-LINH",
+        "s": "2026-08-06T14:00:00+01:00",
+        "e": "2026-08-06T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "malinh"
       }
     ],
     "nts2": [
       {
-        "n": "In Focus: Kishori Amonkar (R)",
-        "s": "2026-08-05T08:00:00+01:00",
-        "e": "2026-08-05T10:00:00+01:00",
-        "d": "Two hours of entrancing vocal performances from legendary Hindustani classical vocalist Kishori Amonkar. Fiercely devoted to her craft as a \"dialogue with the divine,\" Amonkar was known to enter into trance during performances. Her complex use of microtones pushed the boundaries of rāga traditions and infused each composition with harrowing, sublime emotion.\nSelected and mixed by Symrin.",
-        "j": "Kishori Amonkar",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-kishori-amonkar-13th-june-2025",
-        "t": "restream"
-      },
-      {
-        "n": "3XL w/ Stone (R)",
-        "s": "2026-08-05T10:00:00+01:00",
-        "e": "2026-08-05T11:00:00+01:00",
-        "d": "Transmissions from the Outer Rim/Inner Edge.\n“you know the gates themselves are made of flood.”\n-Nadia Marcus",
-        "j": "Stone",
-        "u": "https://www.nts.live/api/v2/shows/3xl/episodes/3xl-18th-august-2025",
-        "t": "restream",
-        "p": "3xl"
-      },
-      {
-        "n": "Explorations w/ DIGGING IN INDIA",
-        "s": "2026-08-05T11:00:00+01:00",
-        "e": "2026-08-05T12:00:00+01:00",
+        "n": "UNCOVERED with Ruby Savage & JBL: Episode 1 with CMARG",
+        "s": "2026-08-05T12:00:00+01:00",
+        "e": "2026-08-05T13:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/uncovered-with-ruby-savage-jbl/episodes/uncovered-with-ruby-savage-jbl-5th-august-2026"
       },
       {
         "n": "Shakshouka w/ Cheb Mimo",
         "s": "2026-08-05T13:00:00+01:00",
         "e": "2026-08-05T14:00:00+01:00",
-        "d": null,
+        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.",
         "j": "Cheb Mimo",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-5th-august-2026",
         "t": "monthly",
         "p": "chebmimo"
       },
@@ -237,16 +220,16 @@
         "u": null
       },
       {
-        "n": "Martyn's Darkest Light",
+        "n": "Martyn's Darkest Light - MORE HEAVY SOUNDS",
         "s": "2026-08-05T17:00:00+01:00",
         "e": "2026-08-05T18:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "MORE HEAVY SOUNDS",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "SUBJECT TO CHANGE W/ TIMMHOTEP",
+        "n": "SUBJECT TO CHANGE W/ subt.le x a²z",
         "s": "2026-08-05T18:00:00+01:00",
         "e": "2026-08-05T19:00:00+01:00",
         "d": null,
@@ -332,37 +315,28 @@
         "u": null,
         "t": "restream",
         "p": "gangablues"
+      },
+      {
+        "n": "Benedek (R)",
+        "s": "2026-08-06T05:00:00+01:00",
+        "e": "2026-08-06T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "benedek"
+      },
+      {
+        "n": "MUSIC 4 LOVERS W/ JABU & ANDY PAYBACK (R)",
+        "s": "2026-08-06T06:00:00+01:00",
+        "e": "2026-08-06T07:00:00+01:00",
+        "d": null,
+        "j": "JABU & ANDY PAYBACK",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-08-05T08:00:00Z",
-        "e": "2026-08-05T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Music that Moves",
-        "s": "2026-08-05T09:00:00Z",
-        "e": "2026-08-05T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Nikki O",
-        "s": "2026-08-05T10:00:00Z",
-        "e": "2026-08-05T11:00:00Z",
-        "d": "Hailing from Belfast but making moves in Nottingham, Nikki O is a DJ and radio presenter whose sets blend 4/4 rhythms, breakbeats, and the bassier side of techno. ",
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "nikkio"
-      },
       {
         "n": "PAVZKY",
         "s": "2026-08-05T11:00:00Z",
@@ -1531,13 +1505,40 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DAT_URA w/ KOSO",
+        "s": "2026-08-12T09:00:00Z",
+        "e": "2026-08-12T10:00:00Z",
+        "d": null,
+        "j": "KOSO",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Domestic Fred",
+        "s": "2026-08-12T10:00:00Z",
+        "e": "2026-08-12T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "GREGGO",
+        "s": "2026-08-12T11:00:00Z",
+        "e": "2026-08-12T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-05T07:00:00Z",
-        "e": "2026-08-05T09:00:00Z",
+        "s": "2026-08-05T11:00:00Z",
+        "e": "2026-08-05T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1545,8 +1546,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-05T09:00:00Z",
-        "e": "2026-08-05T11:00:00Z",
+        "s": "2026-08-05T13:00:00Z",
+        "e": "2026-08-05T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1619,14 +1620,14 @@
         "p": "gogo"
       },
       {
-        "n": "James Axon - Hearing Color",
+        "n": "Richard Chartier – between two points",
         "s": "2026-08-06T05:00:00Z",
         "e": "2026-08-06T07:00:00Z",
         "d": null,
-        "j": "Hearing Color",
+        "j": null,
         "u": null,
         "t": "monthly",
-        "p": "jamesaxon"
+        "p": "richardchartier"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -2105,25 +2106,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-08-05T06:00:00Z",
-        "e": "2026-08-05T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Esk",
-        "s": "2026-08-05T09:00:00Z",
-        "e": "2026-08-05T11:00:00Z",
-        "d": null,
-        "j": "RUBII",
-        "u": null,
-        "t": "weekly",
-        "p": "esk"
-      },
-      {
         "n": "Sticky Dub",
         "s": "2026-08-05T11:00:00Z",
         "e": "2026-08-05T12:00:00Z",
@@ -2395,15 +2377,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-05T07:00:00Z",
-        "e": "2026-08-05T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-05T10:00:00Z",
