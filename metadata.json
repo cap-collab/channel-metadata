@@ -1,53 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-08-05T04:56:56.834Z",
+  "updated": "2026-08-05T08:19:44.404Z",
   "stations": {
     "nts1": [
       {
-        "n": "YU SU (R)",
-        "s": "2026-08-05T05:00:00+01:00",
-        "e": "2026-08-05T06:00:00+01:00",
-        "d": "Kaifeng based DJ & producer Yu Su cooks up an hour of warm meanderings once a month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yu-su/episodes/yu-su-19th-november-2019",
-        "t": "restream",
-        "p": "yusu"
-      },
-      {
-        "n": "Jack & Elaine: Classical Mix (R)",
-        "s": "2026-08-05T06:00:00+01:00",
-        "e": "2026-08-05T07:00:00+01:00",
-        "d": "An hour of classical music new and old from Time Is Away's Jack and Elaine. ",
-        "j": "Classical Mix",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/jack-and-elaine-classical-mix-8th-june-2020",
-        "t": "restream"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
-        "s": "2026-08-05T07:00:00+01:00",
-        "e": "2026-08-05T09:00:00+01:00",
-        "d": null,
-        "j": "SPIRIT BLUE",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "n": "THE NTS BREAKFAST SHOW W/ Jennifer Walton",
         "s": "2026-08-05T09:00:00+01:00",
         "e": "2026-08-05T11:00:00+01:00",
-        "d": null,
-        "j": "FLO",
-        "u": null,
-        "t": "regular",
-        "p": "flo"
+        "d": "Wake up with NTS…",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-jennifer-walton-5th-august-2026",
+        "p": "jenniferwalton"
       },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-08-05T11:00:00+01:00",
         "e": "2026-08-05T13:00:00+01:00",
-        "d": null,
+        "d": "DJ & producer Shy One oversees the chatroom nonsense and brings that necessary get-up-and-go vibe every single hump day… ",
         "j": "SHY ONE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-shy-one/episodes/soup-to-nuts-shy-one-5th-august-2026",
         "t": "weekly",
         "p": "shyone"
       },
@@ -171,53 +142,53 @@
         "u": null,
         "t": "restream",
         "p": "malibu"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ PAM",
+        "s": "2026-08-06T07:00:00+01:00",
+        "e": "2026-08-06T09:00:00+01:00",
+        "d": null,
+        "j": "PAM",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-08-06T09:00:00+01:00",
+        "e": "2026-08-06T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular",
+        "p": "flo"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-08-06T11:00:00+01:00",
+        "e": "2026-08-06T13:00:00+01:00",
+        "d": null,
+        "j": "BABYSCHÖN",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "Breaking People w/ Noa Kurzweil: Taka (R)",
-        "s": "2026-08-05T05:00:00+01:00",
-        "e": "2026-08-05T06:00:00+01:00",
-        "d": "Another mixtape, another mistake. Come get broken with Noa Kurzweil (from VOICE ACTOR).",
-        "j": "Noa Kurzweil",
-        "u": "https://www.nts.live/api/v2/shows/voice-actor/episodes/voice-actor-11th-september-2023",
-        "t": "restream"
-      },
-      {
-        "n": "Lung Dart (R)",
-        "s": "2026-08-05T06:00:00+01:00",
-        "e": "2026-08-05T07:00:00+01:00",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-22nd-june-2020",
-        "t": "restream",
-        "p": "lungdart"
-      },
-      {
-        "n": "PHILIP FM (R)",
-        "s": "2026-08-05T07:00:00+01:00",
-        "e": "2026-08-05T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "In Focus: Kishori Amonkar (R)",
         "s": "2026-08-05T08:00:00+01:00",
         "e": "2026-08-05T10:00:00+01:00",
-        "d": null,
+        "d": "Two hours of entrancing vocal performances from legendary Hindustani classical vocalist Kishori Amonkar. Fiercely devoted to her craft as a \"dialogue with the divine,\" Amonkar was known to enter into trance during performances. Her complex use of microtones pushed the boundaries of rāga traditions and infused each composition with harrowing, sublime emotion.\nSelected and mixed by Symrin.",
         "j": "Kishori Amonkar",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-kishori-amonkar-13th-june-2025",
         "t": "restream"
       },
       {
         "n": "3XL w/ Stone (R)",
         "s": "2026-08-05T10:00:00+01:00",
         "e": "2026-08-05T11:00:00+01:00",
-        "d": null,
+        "d": "Transmissions from the Outer Rim/Inner Edge.\n“you know the gates themselves are made of flood.”\n-Nadia Marcus",
         "j": "Stone",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/3xl/episodes/3xl-18th-august-2025",
         "t": "restream",
         "p": "3xl"
       },
@@ -334,35 +305,44 @@
         "j": null,
         "u": null,
         "p": "mixedfruit"
+      },
+      {
+        "n": "WHODIS? W/ Aiff Foo",
+        "s": "2026-08-06T01:00:00+01:00",
+        "e": "2026-08-06T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Funk Freaks Radio: T Funk (R)",
+        "s": "2026-08-06T03:00:00+01:00",
+        "e": "2026-08-06T04:00:00+01:00",
+        "d": null,
+        "j": "T Funk",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "GANGA BLUES W/ SYMRIN (R)",
+        "s": "2026-08-06T04:00:00+01:00",
+        "e": "2026-08-06T05:00:00+01:00",
+        "d": null,
+        "j": "SYMRIN",
+        "u": null,
+        "t": "restream",
+        "p": "gangablues"
       }
     ],
     "subtle": [
       {
-        "n": "cayel",
-        "s": "2026-08-05T04:00:00Z",
-        "e": "2026-08-05T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Subtle Selects",
-        "s": "2026-08-05T05:00:00Z",
-        "e": "2026-08-05T07:00:00Z",
+        "s": "2026-08-05T08:00:00Z",
+        "e": "2026-08-05T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "Sing/Say w/ Paul Hertmann",
-        "s": "2026-08-05T07:00:00Z",
-        "e": "2026-08-05T08:00:00Z",
-        "d": null,
-        "j": "Paul Hertmann",
-        "u": null,
-        "t": "monthly"
       },
       {
         "n": "Music that Moves",
@@ -1542,28 +1522,35 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "AR1AH ",
+        "s": "2026-08-12T08:00:00Z",
+        "e": "2026-08-12T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Echo Park Film Center - Optical Track",
-        "s": "2026-08-05T03:00:00Z",
-        "e": "2026-08-05T05:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-08-05T07:00:00Z",
+        "e": "2026-08-05T09:00:00Z",
         "d": null,
-        "j": "Optical Track",
+        "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "echoparkfilmcenter"
+        "t": "playlist"
       },
       {
-        "n": "Kaustin - Subsurface Radio",
-        "s": "2026-08-05T05:00:00Z",
-        "e": "2026-08-05T07:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-08-05T09:00:00Z",
+        "e": "2026-08-05T11:00:00Z",
         "d": null,
-        "j": "Subsurface Radio",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "kaustin"
+        "t": "playlist"
       },
       {
         "n": "in plain sight radio",
@@ -1632,14 +1619,14 @@
         "p": "gogo"
       },
       {
-        "n": "Richard Chartier – between two points",
+        "n": "James Axon - Hearing Color",
         "s": "2026-08-06T05:00:00Z",
         "e": "2026-08-06T07:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Hearing Color",
         "u": null,
         "t": "monthly",
-        "p": "richardchartier"
+        "p": "jamesaxon"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -2105,28 +2092,18 @@
         "u": null,
         "t": "weekly",
         "p": "echoparkfilmcenter"
+      },
+      {
+        "n": "J.TRIPP - DWELL TIME",
+        "s": "2026-08-12T05:00:00Z",
+        "e": "2026-08-12T07:00:00Z",
+        "d": null,
+        "j": "DWELL TIME",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-08-05T01:00:00Z",
-        "e": "2026-08-05T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Donsurf",
-        "s": "2026-08-05T05:00:00Z",
-        "e": "2026-08-05T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "donsurf"
-      },
       {
         "n": "Playlist",
         "s": "2026-08-05T06:00:00Z",
@@ -2420,15 +2397,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-04T19:00:00Z",
-        "e": "2026-08-05T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-05T07:00:00Z",
         "e": "2026-08-05T10:00:00Z",
         "d": null,
@@ -2446,9 +2414,91 @@
         "t": "playlist"
       },
       {
-        "n": "Baselitz",
+        "n": "kIM0 presents POV",
         "s": "2026-08-05T12:00:00Z",
         "e": "2026-08-05T13:00:00Z",
+        "d": null,
+        "j": "The Virgin Suicides",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Mohamedream",
+        "s": "2026-08-05T13:00:00Z",
+        "e": "2026-08-05T14:00:00Z",
+        "d": null,
+        "j": "Only Girl Can Judge Me",
+        "u": null
+      },
+      {
+        "n": "Lil Rosy",
+        "s": "2026-08-05T14:00:00Z",
+        "e": "2026-08-05T15:00:00Z",
+        "d": null,
+        "j": "& Zepequenaï B3B avec Othéli",
+        "u": null
+      },
+      {
+        "n": "Chloé Sarraméa",
+        "s": "2026-08-05T15:00:00Z",
+        "e": "2026-08-05T16:00:00Z",
+        "d": null,
+        "j": "PREMIERES W/ KeiyaA",
+        "u": null,
+        "t": "monthly",
+        "p": "keiyaa"
+      },
+      {
+        "n": "Agnès Aokky",
+        "s": "2026-08-05T16:00:00Z",
+        "e": "2026-08-05T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Studio Manager",
+        "s": "2026-08-05T17:00:00Z",
+        "e": "2026-08-05T19:00:00Z",
+        "d": null,
+        "j": "Doline B2B Nuage : Frosty Mix",
+        "u": null,
+        "p": "doline",
+        "ap": [
+          "frosty"
+        ]
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-05T19:00:00Z",
+        "e": "2026-08-06T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-06T07:00:00Z",
+        "e": "2026-08-06T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-06T10:00:00Z",
+        "e": "2026-08-06T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Baselitz",
+        "s": "2026-08-06T12:00:00Z",
+        "e": "2026-08-06T13:00:00Z",
         "d": null,
         "j": "cold seat",
         "u": null,
@@ -2456,8 +2506,8 @@
       },
       {
         "n": "Young Pulse",
-        "s": "2026-08-05T13:00:00Z",
-        "e": "2026-08-05T14:00:00Z",
+        "s": "2026-08-06T13:00:00Z",
+        "e": "2026-08-06T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2465,8 +2515,8 @@
       },
       {
         "n": "Didi Han",
-        "s": "2026-08-05T14:00:00Z",
-        "e": "2026-08-05T15:00:00Z",
+        "s": "2026-08-06T14:00:00Z",
+        "e": "2026-08-06T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2475,8 +2525,8 @@
       },
       {
         "n": "Poté",
-        "s": "2026-08-05T15:00:00Z",
-        "e": "2026-08-05T16:00:00Z",
+        "s": "2026-08-06T15:00:00Z",
+        "e": "2026-08-06T16:00:00Z",
         "d": null,
         "j": "B2B HAAI",
         "u": null,
@@ -2484,8 +2534,8 @@
       },
       {
         "n": "RAAR",
-        "s": "2026-08-05T16:00:00Z",
-        "e": "2026-08-05T17:00:00Z",
+        "s": "2026-08-06T16:00:00Z",
+        "e": "2026-08-06T17:00:00Z",
         "d": null,
         "j": "LOUISAHHH strikes again",
         "u": null,
@@ -2494,16 +2544,16 @@
       },
       {
         "n": "Élise Massoni",
-        "s": "2026-08-05T17:00:00Z",
-        "e": "2026-08-05T18:00:00Z",
+        "s": "2026-08-06T17:00:00Z",
+        "e": "2026-08-06T18:00:00Z",
         "d": null,
         "j": "présente L0N3R",
         "u": null
       },
       {
         "n": "Vanille",
-        "s": "2026-08-05T18:00:00Z",
-        "e": "2026-08-05T19:00:00Z",
+        "s": "2026-08-06T18:00:00Z",
+        "e": "2026-08-06T19:00:00Z",
         "d": null,
         "j": "B2B Tatyana Jane",
         "u": null,
@@ -2515,8 +2565,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-05T19:00:00Z",
-        "e": "2026-08-05T20:00:00Z",
+        "s": "2026-08-06T19:00:00Z",
+        "e": "2026-08-06T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
