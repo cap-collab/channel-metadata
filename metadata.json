@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-05T19:15:54.622Z",
+  "updated": "2026-08-05T20:58:06.858Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MAXIMUM EXPOSURE POWER HOUR W/ TONY PRICE",
-        "s": "2026-08-05T20:00:00+01:00",
-        "e": "2026-08-05T21:00:00+01:00",
-        "d": "Producer, DJ, L.I.E.S. Records recording artist and head of Maximum Exposure Inc.- Tony Price presents an action-packed mix of raw house, funk and freestyle recorded live in Greektown, Toronto..",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/maximum-exposure-power-hour-w-tony-price/episodes/maximum-exposure-power-hour-w-tony-price-5th-august-2026"
-      },
       {
         "n": "NITETRAX - WAREHOUSE RAVE 1987-88 (R)",
         "s": "2026-08-05T21:00:00+01:00",
@@ -28,9 +20,9 @@
         "n": "THE NCA SHOW W/ BRASSFOOT",
         "s": "2026-08-05T22:00:00+01:00",
         "e": "2026-08-05T23:00:00+01:00",
-        "d": null,
+        "d": "NCA is a London tape label specialising in experimental, techno and hip-hop, co-run by Brassfoot. Tune in to his monthly NCA Show for exclusives and jams from across the range - techno, house, hip-hop and more…",
         "j": "BRASSFOOT",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/brassfoot/episodes/brassfoot-5th-august-2026",
         "t": "monthly",
         "p": "brassfoot"
       },
@@ -185,18 +177,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "KASRA V",
+        "s": "2026-08-06T23:00:00+01:00",
+        "e": "2026-08-07T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "kasrav"
       }
     ],
     "nts2": [
-      {
-        "n": "THE WINDMILLS OF YOUR MIND w/ Taylor Rowley",
-        "s": "2026-08-05T20:00:00+01:00",
-        "e": "2026-08-05T21:00:00+01:00",
-        "d": "DJ & music supervisor Taylor Rowley forages for the forgotten musical past every month, uncovering soundtracks, psych rock & other treasures. ",
-        "j": "Taylor Rowley",
-        "u": "https://www.nts.live/api/v2/shows/the-windmills-of-your-mind/episodes/the-windmills-of-your-mind-5th-august-2026",
-        "t": "biweekly"
-      },
       {
         "n": "Nebular w/ Roy Montgomery & Martha Skye Murphy",
         "s": "2026-08-05T21:00:00+01:00",
@@ -209,9 +201,9 @@
         "n": "Mount Analog w/ Mahssa",
         "s": "2026-08-05T22:00:00+01:00",
         "e": "2026-08-05T23:00:00+01:00",
-        "d": null,
+        "d": "The narrative is bursting with color and impossible to fit into a 60 minute timespan - but here is an effort to both timehop a personal story and nod to a timeless musical vignette of influences and inspiration that spans intensely amongst all corners of the artistic globe: shining bright into film + design + literature + circumstance as much as the sonic palette itself presents. Here’s a little exploration and adventure celebrating both the underbelly of the unknown with all that is beautifully pop.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mount-analog/episodes/mount-analog-5th-august-2026",
         "p": "mountanalog"
       },
       {
@@ -347,19 +339,18 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " INDXSTRIAL STRXNGTH",
-        "s": "2026-08-05T19:00:00Z",
-        "e": "2026-08-05T20:00:00Z",
+        "n": "LA VIDA ES UN MUS",
+        "s": "2026-08-06T15:00:00+01:00",
+        "e": "2026-08-06T16:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "indxstrialstrxngth"
-      },
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": "Seshington",
         "s": "2026-08-05T20:00:00Z",
@@ -1547,18 +1538,18 @@
         "u": null,
         "t": "monthly",
         "p": "hazel"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-08-05T19:00:00Z",
-        "e": "2026-08-05T20:00:00Z",
+        "n": "Marauder & Meg",
+        "s": "2026-08-12T20:00:00Z",
+        "e": "2026-08-12T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Lana Miller – Soft Focus",
         "s": "2026-08-05T20:00:00Z",
@@ -1608,14 +1599,14 @@
         "p": "gogo"
       },
       {
-        "n": "Richard Chartier – between two points",
+        "n": "James Axon - Hearing Color",
         "s": "2026-08-06T05:00:00Z",
         "e": "2026-08-06T07:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Hearing Color",
         "u": null,
         "t": "monthly",
-        "p": "richardchartier"
+        "p": "jamesaxon"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -2131,16 +2122,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Riria",
-        "s": "2026-08-05T19:00:00Z",
-        "e": "2026-08-05T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "riria"
-      },
       {
         "n": "Martyn",
         "s": "2026-08-05T20:00:00Z",
