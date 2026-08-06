@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-06T08:17:01.866Z",
+  "updated": "2026-08-06T11:57:30.825Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-08-06T09:00:00+01:00",
-        "e": "2026-08-06T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-6th-august-2026",
-        "t": "regular",
-        "p": "flo"
-      },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-08-06T11:00:00+01:00",
@@ -21,6 +11,15 @@
         "j": "BABYSCHÖN",
         "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-6th-august-2026",
         "t": "weekly"
+      },
+      {
+        "n": "IN FOCUS: POISON GIRL FRIEND (R)",
+        "s": "2026-08-06T13:00:00+01:00",
+        "e": "2026-08-06T14:00:00+01:00",
+        "d": "Born in Tokyo, raised in Brazil, and educated in French schools, but it was in London that Noriko Sekiguchi, also known as POiSON GiRL FRiEND first found the music that would inspire her own work. She became infatuated with the UK and US house music that was filling the city in the mid to late 1980s, before returning to Tokyo, bringing the music with her to the city's clubs as a DJ. \nReleasing multiple albums, the POiSON GiRLFRiEND project – featuring a house and breakbeat-infused pop and R&B sound – reached minor commercial and critical acclaim. Sekiguchi's solo music along with her work in obscure group Kiss-O-Matic has experienced a small revival following some Japanese music fanatics exploration of 90s CD releases. ",
+        "j": "POISON GIRL FRIEND",
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/poison-girlfriend-9th-september-2022",
+        "t": "restream"
       },
       {
         "n": "MAÏ-LINH",
@@ -33,16 +32,13 @@
         "p": "malinh"
       },
       {
-        "n": "ECLAIR FIFI",
+        "n": "NTS GUIDE TO: FRENCH TOUCH HOUSE (R)",
         "s": "2026-08-06T15:00:00+01:00",
         "e": "2026-08-06T17:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "FRENCH TOUCH HOUSE",
         "u": null,
-        "p": "eclairfifi",
-        "ap": [
-          "fifi"
-        ]
+        "t": "restream"
       },
       {
         "n": "OK WILLIAMS",
@@ -55,7 +51,7 @@
         "p": "okwilliams"
       },
       {
-        "n": "SCARY THINGS",
+        "n": "SCARY THINGS W/ MASICKA",
         "s": "2026-08-06T18:00:00+01:00",
         "e": "2026-08-06T20:00:00+01:00",
         "d": null,
@@ -168,12 +164,13 @@
         "p": "bitterbabe"
       },
       {
-        "n": "THE NTS BREAKFAST SHOW",
+        "n": "The NTS Breakfast Show w/ LIL C",
         "s": "2026-08-07T09:00:00+01:00",
         "e": "2026-08-07T11:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "p": "lilc"
       },
       {
         "n": "PUM PUM POWER HOUR W/ LIL C",
@@ -188,47 +185,21 @@
     ],
     "nts2": [
       {
-        "n": "A Scene In Between w/ Samuel Knee (R)",
-        "s": "2026-08-06T09:00:00+01:00",
-        "e": "2026-08-06T10:00:00+01:00",
-        "d": "Sam Knee navigates and curates lost underground countercultural sounds with deep dives into specific sub-scenes, regions, years, labels of the near mythical 80’s post punk DIY indie guitar era and beyond, back to its 60s basement punk genesis. ",
-        "j": "Samuel Knee",
-        "u": "https://www.nts.live/api/v2/shows/a-scene-in-between/episodes/a-scene-in-between-w-samuel-knee-15th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Just A Thought",
-        "s": "2026-08-06T10:00:00+01:00",
-        "e": "2026-08-06T11:00:00+01:00",
-        "d": "Oldham, UK composer producer and performance artist plus44Kaligula presents a reimagining of the 1950s BBC radio series \"Listen With Mother\", attempting to seek order in chaos, tracing how stories persist and distort.\nFrom the host: \"As Cally continues her quest to integrate - the girls are still nowhere to be seen. Maybe it's a sign…\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/plus44kaligula/episodes/plus44kaligula-6th-august-2026"
-      },
-      {
-        "n": "Jim O'Rourke",
-        "s": "2026-08-06T11:00:00+01:00",
-        "e": "2026-08-06T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "DOVE - 豚化粧 (porco maquilhado)",
         "s": "2026-08-06T12:00:00+01:00",
         "e": "2026-08-06T13:00:00+01:00",
-        "d": null,
+        "d": "Osaka / Berlin musician Dove shares music that captures romance in everyday life. \"Sheltering from the rain and stumbling into the best club experience. Staying up all night talking with friends at the end of summer. The moment I looked into your eyes and wanted to know everything about you.\"\nFrom the host: \"Balancing humor with refined mixing, this is an hour that celebrates a free-spirited approach to DJing.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dove/episodes/dove-6th-august-2026",
         "p": "dove"
       },
       {
         "n": "Shadow Dance w/ Salamanda",
         "s": "2026-08-06T13:00:00+01:00",
         "e": "2026-08-06T14:00:00+01:00",
-        "d": null,
+        "d": "Bimonthly invitation from Seoul-based duo Salamanda to an hour-long cosmic rave, guiding you through wiggly, fluctuating dance tunes.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/shadow-dance-w-salamanda/episodes/shadow-dance-w-salamanda-6th-august-2026"
       },
       {
         "n": "SEMARĀ",
@@ -355,36 +326,37 @@
         "u": null,
         "t": "restream",
         "p": "8ulentina"
+      },
+      {
+        "n": "Kampire (R)",
+        "s": "2026-08-07T04:00:00+01:00",
+        "e": "2026-08-07T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "kampire"
+      },
+      {
+        "n": "EQUIKNOXX (R)",
+        "s": "2026-08-07T05:00:00+01:00",
+        "e": "2026-08-07T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Ashley Mi Ki Makk (R)",
+        "s": "2026-08-07T06:00:00+01:00",
+        "e": "2026-08-07T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": " In The Rotation w/ Su",
-        "s": "2026-08-06T08:00:00Z",
-        "e": "2026-08-06T09:00:00Z",
-        "d": null,
-        "j": "Su",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Adele Tondu",
-        "s": "2026-08-06T09:00:00Z",
-        "e": "2026-08-06T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DIASPORA with Ben Fitzperc",
-        "s": "2026-08-06T10:00:00Z",
-        "e": "2026-08-06T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Arriba",
         "s": "2026-08-06T11:00:00Z",
@@ -1536,13 +1508,31 @@
         "u": null,
         "t": "monthly",
         "p": "deepawakebysemaj"
+      },
+      {
+        "n": "Sublevel",
+        "s": "2026-08-13T09:00:00Z",
+        "e": "2026-08-13T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Con Artist",
+        "s": "2026-08-13T11:00:00Z",
+        "e": "2026-08-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-06T07:00:00Z",
-        "e": "2026-08-06T09:00:00Z",
+        "s": "2026-08-06T11:00:00Z",
+        "e": "2026-08-06T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1550,8 +1540,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-06T09:00:00Z",
-        "e": "2026-08-06T11:00:00Z",
+        "s": "2026-08-06T13:00:00Z",
+        "e": "2026-08-06T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2123,25 +2113,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-08-06T06:00:00Z",
-        "e": "2026-08-06T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Yazmin Lacey",
-        "s": "2026-08-06T09:00:00Z",
-        "e": "2026-08-06T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly",
-        "p": "yazminlacey"
-      },
-      {
         "n": "Cafe 1001",
         "s": "2026-08-06T11:00:00Z",
         "e": "2026-08-06T12:00:00Z",
@@ -2373,15 +2344,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-06T07:00:00Z",
-        "e": "2026-08-06T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-06T10:00:00Z",
