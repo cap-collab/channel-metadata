@@ -1,43 +1,15 @@
 {
   "v": 2,
-  "updated": "2026-08-06T04:57:21.650Z",
+  "updated": "2026-08-06T08:17:01.866Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The Uline Catalog w/ Calvin LeCompte (R)",
-        "s": "2026-08-06T05:00:00+01:00",
-        "e": "2026-08-06T06:00:00+01:00",
-        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
-        "j": "Calvin LeCompte",
-        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-14th-march-2025",
-        "t": "restream"
-      },
-      {
-        "n": "United In Flames w/ Evian Christ & Malibu (R)",
-        "s": "2026-08-06T06:00:00+01:00",
-        "e": "2026-08-06T07:00:00+01:00",
-        "d": "Malibu is a French electronic musician whose work sails between ambient and ethereal music.\nForever inspired by soft reverbed vocals and melodious chord progressions, Malibu’s music is an immersive nostalgic journey in a sea of synthetic strings and choirs.",
-        "j": "Evian Christ & Malibu",
-        "u": "https://www.nts.live/api/v2/shows/malibu/episodes/malibu-10th-april-2025",
-        "t": "restream",
-        "p": "malibu"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ PAM",
-        "s": "2026-08-06T07:00:00+01:00",
-        "e": "2026-08-06T09:00:00+01:00",
-        "d": null,
-        "j": "PAM",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-08-06T09:00:00+01:00",
         "e": "2026-08-06T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-6th-august-2026",
         "t": "regular",
         "p": "flo"
       },
@@ -45,9 +17,9 @@
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-08-06T11:00:00+01:00",
         "e": "2026-08-06T13:00:00+01:00",
-        "d": null,
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
         "j": "BABYSCHÖN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-6th-august-2026",
         "t": "weekly"
       },
       {
@@ -185,63 +157,52 @@
         "u": null,
         "t": "restream",
         "p": "fifthworld"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ BITTER BABE",
+        "s": "2026-08-07T07:00:00+01:00",
+        "e": "2026-08-07T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "bitterbabe"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW",
+        "s": "2026-08-07T09:00:00+01:00",
+        "e": "2026-08-07T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "PUM PUM POWER HOUR W/ LIL C",
+        "s": "2026-08-07T13:00:00+01:00",
+        "e": "2026-08-07T15:00:00+01:00",
+        "d": null,
+        "j": "LIL C",
+        "u": null,
+        "t": "biweekly",
+        "p": "lilc"
       }
     ],
     "nts2": [
       {
-        "n": "Benedek (R)",
-        "s": "2026-08-06T05:00:00+01:00",
-        "e": "2026-08-06T06:00:00+01:00",
-        "d": "Los Angeles native & synth pioneer Benedek blends ambient, boogie, funk & more, once a month from our LA studio. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/benedek/episodes/benedek-1st-june-2018",
-        "t": "restream",
-        "p": "benedek"
-      },
-      {
-        "n": "MUSIC 4 LOVERS W/ JABU & ANDY PAYBACK (R)",
-        "s": "2026-08-06T06:00:00+01:00",
-        "e": "2026-08-06T07:00:00+01:00",
-        "d": "Jabu and Andy Payback bring us Music 4 Lovers once a month.",
-        "j": "JABU & ANDY PAYBACK",
-        "u": "https://www.nts.live/api/v2/shows/music-4-lovers/episodes/music-4-lovers-19th-august-2023",
-        "t": "restream"
-      },
-      {
-        "n": "GHUNGHRU (R)",
-        "s": "2026-08-06T07:00:00+01:00",
-        "e": "2026-08-06T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "DISCOSTAN (R)",
-        "s": "2026-08-06T08:00:00+01:00",
-        "e": "2026-08-06T09:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream",
-        "p": "discostan"
-      },
-      {
         "n": "A Scene In Between w/ Samuel Knee (R)",
         "s": "2026-08-06T09:00:00+01:00",
         "e": "2026-08-06T10:00:00+01:00",
-        "d": null,
+        "d": "Sam Knee navigates and curates lost underground countercultural sounds with deep dives into specific sub-scenes, regions, years, labels of the near mythical 80’s post punk DIY indie guitar era and beyond, back to its 60s basement punk genesis. ",
         "j": "Samuel Knee",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/a-scene-in-between/episodes/a-scene-in-between-w-samuel-knee-15th-january-2025",
         "t": "restream"
       },
       {
         "n": "Just A Thought",
         "s": "2026-08-06T10:00:00+01:00",
         "e": "2026-08-06T11:00:00+01:00",
-        "d": null,
+        "d": "Oldham, UK composer producer and performance artist plus44Kaligula presents a reimagining of the 1950s BBC radio series \"Listen With Mother\", attempting to seek order in chaos, tracing how stories persist and distort.\nFrom the host: \"As Cally continues her quest to integrate - the girls are still nowhere to be seen. Maybe it's a sign…\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/plus44kaligula/episodes/plus44kaligula-6th-august-2026"
       },
       {
         "n": "Jim O'Rourke",
@@ -347,35 +308,56 @@
         ]
       },
       {
-        "n": "UNDERGROUND & BLACK W/ ASH LAURYN",
+        "n": "Underground & Black w/ Ash Lauryn (R)",
         "s": "2026-08-06T22:00:00+01:00",
         "e": "2026-08-06T23:00:00+01:00",
         "d": null,
+        "j": "Ash Lauryn",
+        "u": null,
+        "t": "restream",
+        "p": "ash",
+        "ap": [
+          "ashlauryn"
+        ]
+      },
+      {
+        "n": "FONTS W/ Caleb Flowers",
+        "s": "2026-08-06T23:00:00+01:00",
+        "e": "2026-08-07T00:00:00+01:00",
+        "d": null,
         "j": null,
         "u": null,
-        "p": "ashlauryn"
+        "p": "fonts"
+      },
+      {
+        "n": "RAVE REPARATIONS RADIO",
+        "s": "2026-08-07T00:00:00+01:00",
+        "e": "2026-08-07T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Post-Geography",
+        "s": "2026-08-07T02:00:00+01:00",
+        "e": "2026-08-07T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "postgeography"
+      },
+      {
+        "n": "8ULENTINA (R)",
+        "s": "2026-08-07T03:00:00+01:00",
+        "e": "2026-08-07T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "8ulentina"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-08-06T04:00:00Z",
-        "e": "2026-08-06T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Lauden ",
-        "s": "2026-08-06T06:00:00Z",
-        "e": "2026-08-06T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "lauden"
-      },
       {
         "n": " In The Rotation w/ Su",
         "s": "2026-08-06T08:00:00Z",
@@ -1535,28 +1517,45 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "GOGO – The Wavelength",
-        "s": "2026-08-06T03:00:00Z",
-        "e": "2026-08-06T05:00:00Z",
+        "n": "Making Hay w/ natdav",
+        "s": "2026-08-13T07:00:00Z",
+        "e": "2026-08-13T08:00:00Z",
+        "d": null,
+        "j": "natdav",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Deep Awake by Semaj",
+        "s": "2026-08-13T08:00:00Z",
+        "e": "2026-08-13T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "gogo"
+        "p": "deepawakebysemaj"
+      }
+    ],
+    "dublab": [
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-06T07:00:00Z",
+        "e": "2026-08-06T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
-        "n": "James Axon - Hearing Color",
-        "s": "2026-08-06T05:00:00Z",
-        "e": "2026-08-06T07:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-08-06T09:00:00Z",
+        "e": "2026-08-06T11:00:00Z",
         "d": null,
-        "j": "Hearing Color",
+        "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "jamesaxon"
+        "t": "playlist"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -2110,28 +2109,19 @@
         "u": null,
         "t": "monthly",
         "p": "rustysantos"
+      },
+      {
+        "n": "Laura Shumate - Indoor Cats",
+        "s": "2026-08-13T05:00:00Z",
+        "e": "2026-08-13T06:00:00Z",
+        "d": null,
+        "j": "Indoor Cats",
+        "u": null,
+        "t": "monthly",
+        "p": "laurashumate"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-08-06T01:00:00Z",
-        "e": "2026-08-06T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Savannah Blake",
-        "s": "2026-08-06T05:00:00Z",
-        "e": "2026-08-06T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "savannahblake"
-      },
       {
         "n": "Playlist",
         "s": "2026-08-06T06:00:00Z",
@@ -2385,15 +2375,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-05T19:00:00Z",
-        "e": "2026-08-06T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-06T07:00:00Z",
         "e": "2026-08-06T10:00:00Z",
         "d": null,
@@ -2411,9 +2392,105 @@
         "t": "playlist"
       },
       {
-        "n": "Cosmic Neman",
+        "n": "Baselitz",
         "s": "2026-08-06T12:00:00Z",
+        "e": "2026-08-06T13:00:00Z",
+        "d": null,
+        "j": "cold seat",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Young Pulse",
+        "s": "2026-08-06T13:00:00Z",
         "e": "2026-08-06T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "youngpulse"
+      },
+      {
+        "n": "Didi Han",
+        "s": "2026-08-06T14:00:00Z",
+        "e": "2026-08-06T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "didihan"
+      },
+      {
+        "n": "Poté",
+        "s": "2026-08-06T15:00:00Z",
+        "e": "2026-08-06T16:00:00Z",
+        "d": null,
+        "j": "B2B HAAI",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "RAAR",
+        "s": "2026-08-06T16:00:00Z",
+        "e": "2026-08-06T17:00:00Z",
+        "d": null,
+        "j": "LOUISAHHH strikes again",
+        "u": null,
+        "t": "monthly",
+        "p": "raar"
+      },
+      {
+        "n": "Élise Massoni",
+        "s": "2026-08-06T17:00:00Z",
+        "e": "2026-08-06T18:00:00Z",
+        "d": null,
+        "j": "présente L0N3R",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Vanille",
+        "s": "2026-08-06T18:00:00Z",
+        "e": "2026-08-06T19:00:00Z",
+        "d": null,
+        "j": "B2B Tatyana Jane",
+        "u": null,
+        "t": "monthly",
+        "p": "tatyanajane",
+        "ap": [
+          "vanille"
+        ]
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-06T19:00:00Z",
+        "e": "2026-08-07T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-07T07:00:00Z",
+        "e": "2026-08-07T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-07T10:00:00Z",
+        "e": "2026-08-07T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Cosmic Neman",
+        "s": "2026-08-07T12:00:00Z",
+        "e": "2026-08-07T14:00:00Z",
         "d": null,
         "j": "Les Témoins du Futur",
         "u": null,
@@ -2421,8 +2498,8 @@
       },
       {
         "n": "MumBeats",
-        "s": "2026-08-06T14:00:00Z",
-        "e": "2026-08-06T15:00:00Z",
+        "s": "2026-08-07T14:00:00Z",
+        "e": "2026-08-07T15:00:00Z",
         "d": null,
         "j": "#5 avec Elisa Do Brasil",
         "u": null,
@@ -2430,8 +2507,8 @@
       },
       {
         "n": "DVDE",
-        "s": "2026-08-06T15:00:00Z",
-        "e": "2026-08-06T16:00:00Z",
+        "s": "2026-08-07T15:00:00Z",
+        "e": "2026-08-07T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2440,8 +2517,8 @@
       },
       {
         "n": "Pureblast (ex Baraka)",
-        "s": "2026-08-06T16:00:00Z",
-        "e": "2026-08-06T17:00:00Z",
+        "s": "2026-08-07T16:00:00Z",
+        "e": "2026-08-07T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2449,8 +2526,8 @@
       },
       {
         "n": "Miley Serious",
-        "s": "2026-08-06T17:00:00Z",
-        "e": "2026-08-06T18:00:00Z",
+        "s": "2026-08-07T17:00:00Z",
+        "e": "2026-08-07T18:00:00Z",
         "d": null,
         "j": "INVITE TLIM SHUG",
         "u": null,
@@ -2459,8 +2536,8 @@
       },
       {
         "n": "Miley Serious",
-        "s": "2026-08-06T18:00:00Z",
-        "e": "2026-08-06T19:00:00Z",
+        "s": "2026-08-07T18:00:00Z",
+        "e": "2026-08-07T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2469,8 +2546,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-06T19:00:00Z",
-        "e": "2026-08-06T20:00:00Z",
+        "s": "2026-08-07T19:00:00Z",
+        "e": "2026-08-07T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2479,15 +2556,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "A / Void",
-        "s": "2026-08-06T04:00:00Z",
-        "e": "2026-08-06T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Seelene's Mooncast",
         "s": "2026-08-07T02:00:00Z",
