@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-07T18:41:06.015Z",
+  "updated": "2026-08-07T20:30:35.383Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MINIMAL EFFORT",
-        "s": "2026-08-07T19:00:00+01:00",
-        "e": "2026-08-07T21:00:00+01:00",
-        "d": "Ira demonstrates how to do extra soulful with a masterclass in vibes. It's easy when you know how.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/minimal-effort/episodes/minimal-effort-7th-august-2026",
-        "t": "monthly",
-        "p": "minimaleffort"
-      },
       {
         "n": "ORIGINS W/ KEVIN SAUNDERSON",
         "s": "2026-08-07T21:00:00+01:00",
@@ -25,9 +15,10 @@
         "n": "INNERVISIONS ÜBERALL W/ SUZE IJÓ",
         "s": "2026-08-07T22:00:00+01:00",
         "e": "2026-08-07T23:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Innervisions brings its sound to NTS with monthly shows featuring its core artists and special guests.\nFrom the host: \"The songs in this mix bring me back to a simpler time. abstract, dubby, deep house for reminiscing a lost summer love.\"",
+        "j": "SUZE IJÓ",
+        "u": "https://www.nts.live/api/v2/shows/innervisions/episodes/innervisions-7th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "YU SU (R)",
@@ -165,17 +156,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "CHERRIE FLAVA",
+        "s": "2026-08-08T20:00:00+01:00",
+        "e": "2026-08-08T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "Helica",
-        "s": "2026-08-07T19:00:00+01:00",
-        "e": "2026-08-07T20:00:00+01:00",
-        "d": "Oddball sounds from all corners of the internet from London based producer and songwriter Helica. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/helica-7th-august-2026"
-      },
       {
         "n": "Crossed Wires w/ Leslie Puett",
         "s": "2026-08-07T20:00:00+01:00",
@@ -186,14 +178,14 @@
         "t": "monthly"
       },
       {
-        "n": "ALL ABOUT OUR LOVE W/ HARRIET BROWN",
+        "n": "All About Our Love w/ Infinite Jess",
         "s": "2026-08-07T22:00:00+01:00",
         "e": "2026-08-07T23:00:00+01:00",
-        "d": null,
-        "j": "HARRIET BROWN",
-        "u": null,
+        "d": "Tenderness, yearning, spirituality and sensuality come together on Harriet Brown’s monthly show.\nFrom the host: \"Meant to be listened to on mind altering substances, while outside on a walk or laying in the grass with a loved one — who is also on mind altering substances. Pop a cap 🍄 press play.\"",
+        "j": "Infinite Jess",
+        "u": "https://www.nts.live/api/v2/shows/harriet-brown/episodes/harriet-brown-7th-august-2026",
         "t": "monthly",
-        "p": "harrietbrown"
+        "p": "infinitejess"
       },
       {
         "n": "East Never Loses: MANDARIN ROCK ESSENTIALS w/ Angie QQ",
@@ -334,28 +326,19 @@
         "j": "BOB HOLMES (SUSS)",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TRIP LICK W/ JAMES K (R)",
+        "s": "2026-08-08T16:00:00+01:00",
+        "e": "2026-08-08T17:00:00+01:00",
+        "d": null,
+        "j": "JAMES K",
+        "u": null,
+        "t": "restream",
+        "p": "jamesk"
       }
     ],
     "subtle": [
-      {
-        "n": "DJ Squarewave",
-        "s": "2026-08-07T18:00:00Z",
-        "e": "2026-08-07T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "djsquarewave"
-      },
-      {
-        "n": "ON ROAD",
-        "s": "2026-08-07T19:00:00Z",
-        "e": "2026-08-07T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Locus Sound",
         "s": "2026-08-07T20:00:00Z",
@@ -1500,22 +1483,18 @@
         "u": null,
         "t": "monthly",
         "p": "synes"
+      },
+      {
+        "n": "Pent.1",
+        "s": "2026-08-14T19:00:00Z",
+        "e": "2026-08-14T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Daddy Differently and Dirty Dave - Things of Life",
-        "s": "2026-08-07T17:00:00Z",
-        "e": "2026-08-07T19:00:00Z",
-        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
-        "j": "Things of Life",
-        "u": null,
-        "t": "weekly",
-        "p": "daddydifferently",
-        "ap": [
-          "dirtydave"
-        ]
-      },
       {
         "n": "Masha Mar – Analogue Players Club",
         "s": "2026-08-07T19:00:00Z",
@@ -2120,18 +2099,19 @@
         "ap": [
           "dirtydave"
         ]
+      },
+      {
+        "n": "Xica Soul - SoundProof",
+        "s": "2026-08-14T19:00:00Z",
+        "e": "2026-08-14T21:00:00Z",
+        "d": null,
+        "j": "SoundProof",
+        "u": null,
+        "t": "monthly",
+        "p": "xicasoul"
       }
     ],
     "rinse": [
-      {
-        "n": "Skin On Skin",
-        "s": "2026-08-07T18:00:00Z",
-        "e": "2026-08-07T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "p": "skinonskin"
-      },
       {
         "n": "Lamsi",
         "s": "2026-08-07T20:00:00Z",
@@ -2280,16 +2260,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Miley Serious",
-        "s": "2026-08-07T18:00:00Z",
-        "e": "2026-08-07T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "mileyserious"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-07T19:00:00Z",
