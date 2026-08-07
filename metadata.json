@@ -1,19 +1,10 @@
 {
   "v": 2,
-  "updated": "2026-08-07T08:47:05.251Z",
+  "updated": "2026-08-07T10:43:31.210Z",
   "stations": {
     "nts1": [
       {
-        "n": "The NTS Breakfast Show w/ LIL C",
-        "s": "2026-08-07T09:00:00+01:00",
-        "e": "2026-08-07T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-lil-c-7th-august-2026",
-        "p": "lilc"
-      },
-      {
-        "n": "Soup To Nuts w/ Tash LC",
+        "n": "Soup To Nuts w/ Tash LC & Kalaf Epalanga (Buraka Som Sistema)",
         "s": "2026-08-07T11:00:00+01:00",
         "e": "2026-08-07T13:00:00+01:00",
         "d": "Let NTS brighten up your lunchtime hours.",
@@ -24,12 +15,20 @@
       {
         "n": "PUM PUM POWER HOUR W/ LIL C",
         "s": "2026-08-07T13:00:00+01:00",
-        "e": "2026-08-07T15:00:00+01:00",
-        "d": null,
+        "e": "2026-08-07T14:00:00+01:00",
+        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
         "j": "LIL C",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-7th-august-2026",
         "t": "biweekly",
         "p": "lilc"
+      },
+      {
+        "n": "Tears in the Club w/ VENTI",
+        "s": "2026-08-07T14:00:00+01:00",
+        "e": "2026-08-07T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW",
@@ -171,39 +170,21 @@
     ],
     "nts2": [
       {
-        "n": "Light in the Attic w/ Emilee Booher (R)",
-        "s": "2026-08-07T08:00:00+01:00",
-        "e": "2026-08-07T10:00:00+01:00",
-        "d": "Since starting in a basement apartment in Seattle back in 2001, Light In The Attic has established itself as one of the best and brightest reissue labels around. With releases ranging from D’Angelo to Serge Gainsbourg, Lewis to Betty Davis, Sly Stone to Karen Dalton, LITA prides itself on the breadth of its output.",
-        "j": "Emilee Booher",
-        "u": "https://www.nts.live/api/v2/shows/light-in-the-attic/episodes/light-in-the-attic-1st-september-2023",
-        "t": "restream"
-      },
-      {
-        "n": "Aaron Angel (R)",
-        "s": "2026-08-07T10:00:00+01:00",
-        "e": "2026-08-07T11:00:00+01:00",
-        "d": "Visual artist and ceramicist Aaron Angell plays a vinyl-only monthly selection of music from his collection - usually focussing on guitar soli, privately pressed UK folk, psychedelia, and the occult new age.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/aaron-angell/episodes/aaron-angell-1st-july-2024",
-        "t": "restream"
-      },
-      {
         "n": "In Focus: Elliott Smith",
         "s": "2026-08-07T11:00:00+01:00",
         "e": "2026-08-07T13:00:00+01:00",
-        "d": null,
+        "d": "Two hours of music from one of the greatest songwriters of the 1990s, Elliott Smith. Already a local hero in Portland with his \"next big thing\" band Heatmiser, Smith left the band to persue a solo career, taking the bleeding heart spirit of grunge into softer, more delicate territory. His talent for finger-picking guitar melodies and intimate, confessional lyrics proved to be a potent combination that earned him an army of obsessive fans. \nSelected and mixed by Smilegoth.",
         "j": "Elliott Smith",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-elliott-smith-7th-august-2026",
         "t": "weekly"
       },
       {
         "n": "Orpheu The Wizard",
         "s": "2026-08-07T13:00:00+01:00",
         "e": "2026-08-07T14:00:00+01:00",
-        "d": null,
+        "d": "Amsterdam selector Orpheu The Wizard connects oddball and straight forward jams from different decades and different record shelves in a monthly show. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/orpheu-the-wizard/episodes/orpheu-the-wizard-7th-august-2026",
         "t": "monthly"
       },
       {
@@ -331,28 +312,27 @@
         "u": null,
         "t": "restream",
         "p": "popstarbenny"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "L.J. Violet",
-        "s": "2026-08-07T08:00:00Z",
-        "e": "2026-08-07T09:00:00Z",
+        "n": "DJ Harrison (R)",
+        "s": "2026-08-08T06:00:00+01:00",
+        "e": "2026-08-08T07:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "violet"
+        "t": "restream"
       },
       {
-        "n": "Mid Morning Matters w/ Alfie Danger",
-        "s": "2026-08-07T09:00:00Z",
-        "e": "2026-08-07T10:00:00Z",
+        "n": "GEORGIA: ALL KIND MUSIC (R)",
+        "s": "2026-08-08T07:00:00+01:00",
+        "e": "2026-08-08T08:00:00+01:00",
         "d": null,
-        "j": "Alfie Danger",
+        "j": "ALL KIND MUSIC",
         "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Sounds of the Underground w/Missy T",
         "s": "2026-08-07T10:00:00Z",
@@ -1505,13 +1485,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Holy Crow w/ Isis Moray",
+        "s": "2026-08-14T09:00:00Z",
+        "e": "2026-08-14T10:00:00Z",
+        "d": null,
+        "j": "Isis Moray",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Tom Ferrare",
+        "s": "2026-08-14T10:00:00Z",
+        "e": "2026-08-14T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-07T07:00:00Z",
-        "e": "2026-08-07T09:00:00Z",
+        "s": "2026-08-07T09:00:00Z",
+        "e": "2026-08-07T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1519,8 +1517,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-07T09:00:00Z",
-        "e": "2026-08-07T11:00:00Z",
+        "s": "2026-08-07T11:00:00Z",
+        "e": "2026-08-07T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2116,15 +2114,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-08-07T06:00:00Z",
-        "e": "2026-08-07T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Uncle Dugs",
         "s": "2026-08-07T10:00:00Z",
         "e": "2026-08-07T13:00:00Z",
@@ -2320,15 +2309,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-07T07:00:00Z",
-        "e": "2026-08-07T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-07T10:00:00Z",
