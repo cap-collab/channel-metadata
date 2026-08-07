@@ -1,34 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-08-07T10:43:31.210Z",
+  "updated": "2026-08-07T12:41:46.008Z",
   "stations": {
     "nts1": [
       {
-        "n": "Soup To Nuts w/ Tash LC & Kalaf Epalanga (Buraka Som Sistema)",
-        "s": "2026-08-07T11:00:00+01:00",
-        "e": "2026-08-07T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-tash-lc-7th-august-2026",
-        "p": "tashlc"
-      },
-      {
-        "n": "PUM PUM POWER HOUR W/ LIL C",
+        "n": "PUM PUM POWER HOUR W/ LIL C & C.FRIM",
         "s": "2026-08-07T13:00:00+01:00",
         "e": "2026-08-07T14:00:00+01:00",
         "d": "Party starter & dancehall connoisseur Lil C live in session. ",
-        "j": "LIL C",
+        "j": null,
         "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-7th-august-2026",
-        "t": "biweekly",
         "p": "lilc"
       },
       {
         "n": "Tears in the Club w/ VENTI",
         "s": "2026-08-07T14:00:00+01:00",
         "e": "2026-08-07T15:00:00+01:00",
-        "d": null,
+        "d": "\"Tears in the Club\" presents a unique blend of structured and chaotic music, combining intense hip hop, drum and bass, footwork, jersey club, and sometimes Afro rhythms. This multi-genre musical show explores diverse musical landscapes, creating a striking contrast between genres, while also showcasing new artists.\nFrom the host: \"Tears in the Club presents: Venti. Born in Angola, raised in Portugal, and later based in France, Venti crafts music that reflects his journey: fluid, hybrid, and borderless. Blending rap, electronic music, kuduro, and seben, he creates a sound that's uniquely his own.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/jeune-pouce/episodes/jeune-pouce-7th-august-2026"
       },
       {
         "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW",
@@ -46,6 +36,16 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "100 ELEMENTS W/ YL (R)",
+        "s": "2026-08-07T17:00:00+01:00",
+        "e": "2026-08-07T18:00:00+01:00",
+        "d": null,
+        "j": "YL",
+        "u": null,
+        "t": "restream",
+        "p": "100elements"
       },
       {
         "n": "RUF DUG",
@@ -68,6 +68,14 @@
         "p": "minimaleffort"
       },
       {
+        "n": "ORIGINS W/ KEVIN SAUNDERSON",
+        "s": "2026-08-07T21:00:00+01:00",
+        "e": "2026-08-07T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
         "n": "INNERVISIONS ÜBERALL W/ SUZE IJÓ",
         "s": "2026-08-07T22:00:00+01:00",
         "e": "2026-08-07T23:00:00+01:00",
@@ -76,12 +84,14 @@
         "u": null
       },
       {
-        "n": "ENDLESS RADIO",
+        "n": "YU SU (R)",
         "s": "2026-08-07T23:00:00+01:00",
         "e": "2026-08-08T00:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream",
+        "p": "yusu"
       },
       {
         "n": "2026: Sip Rosé Not Lean w/ Bloodonmybalmains",
@@ -170,15 +180,6 @@
     ],
     "nts2": [
       {
-        "n": "In Focus: Elliott Smith",
-        "s": "2026-08-07T11:00:00+01:00",
-        "e": "2026-08-07T13:00:00+01:00",
-        "d": "Two hours of music from one of the greatest songwriters of the 1990s, Elliott Smith. Already a local hero in Portland with his \"next big thing\" band Heatmiser, Smith left the band to persue a solo career, taking the bleeding heart spirit of grunge into softer, more delicate territory. His talent for finger-picking guitar melodies and intimate, confessional lyrics proved to be a potent combination that earned him an army of obsessive fans. \nSelected and mixed by Smilegoth.",
-        "j": "Elliott Smith",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-elliott-smith-7th-august-2026",
-        "t": "weekly"
-      },
-      {
         "n": "Orpheu The Wizard",
         "s": "2026-08-07T13:00:00+01:00",
         "e": "2026-08-07T14:00:00+01:00",
@@ -191,9 +192,10 @@
         "n": "ANTINOTE",
         "s": "2026-08-07T14:00:00+01:00",
         "e": "2026-08-07T15:00:00+01:00",
-        "d": null,
+        "d": "Monthly sessions from Zaltan, the mind behind Paris-based leftfield dance, electronic & downtempo imprint Antinote, with occasional appearances from friends and artists on the label. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/zaltan/episodes/zaltan-7th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "Image search",
@@ -330,27 +332,22 @@
         "j": "ALL KIND MUSIC",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "SOPHIE THATCHER (R)",
+        "s": "2026-08-08T08:00:00+01:00",
+        "e": "2026-08-08T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "sophie",
+        "ap": [
+          "sophiethatcher"
+        ]
       }
     ],
     "subtle": [
-      {
-        "n": "Sounds of the Underground w/Missy T",
-        "s": "2026-08-07T10:00:00Z",
-        "e": "2026-08-07T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Red Can",
-        "s": "2026-08-07T11:00:00Z",
-        "e": "2026-08-07T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "BASS ZEALOTS",
         "s": "2026-08-07T12:00:00Z",
@@ -1503,13 +1500,23 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Electrolytes with Joly",
+        "s": "2026-08-14T11:00:00Z",
+        "e": "2026-08-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "electrolyteswithjoly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-07T09:00:00Z",
-        "e": "2026-08-07T11:00:00Z",
+        "s": "2026-08-07T11:00:00Z",
+        "e": "2026-08-07T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1517,8 +1524,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-07T11:00:00Z",
-        "e": "2026-08-07T13:00:00Z",
+        "s": "2026-08-07T13:00:00Z",
+        "e": "2026-08-07T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2309,15 +2316,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-07T10:00:00Z",
-        "e": "2026-08-07T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Cosmic Neman",
         "s": "2026-08-07T12:00:00Z",
