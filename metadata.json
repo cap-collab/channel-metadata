@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-07T07:00:59.716Z",
+  "updated": "2026-08-07T08:47:05.251Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ BITTER BABE",
-        "s": "2026-08-07T07:00:00+01:00",
-        "e": "2026-08-07T09:00:00+01:00",
-        "d": "The Early Bird Show - our radio offering for morning people, hosted by a rotating cast of NTS friends and family. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird/episodes/early-bird-bitter-babe-7th-august-2026",
-        "p": "bitterbabe"
-      },
       {
         "n": "The NTS Breakfast Show w/ LIL C",
         "s": "2026-08-07T09:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "Soup To Nuts w/ Tash LC",
         "s": "2026-08-07T11:00:00+01:00",
         "e": "2026-08-07T13:00:00+01:00",
-        "d": null,
+        "d": "Let NTS brighten up your lunchtime hours.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-tash-lc-7th-august-2026",
         "p": "tashlc"
       },
       {
@@ -166,6 +157,16 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "ROSS ALLEN",
+        "s": "2026-08-08T12:00:00+01:00",
+        "e": "2026-08-08T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "rossallen"
       }
     ],
     "nts2": [
@@ -182,9 +183,9 @@
         "n": "Aaron Angel (R)",
         "s": "2026-08-07T10:00:00+01:00",
         "e": "2026-08-07T11:00:00+01:00",
-        "d": null,
+        "d": "Visual artist and ceramicist Aaron Angell plays a vinyl-only monthly selection of music from his collection - usually focussing on guitar soli, privately pressed UK folk, psychedelia, and the occult new age.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/aaron-angell/episodes/aaron-angell-1st-july-2024",
         "t": "restream"
       },
       {
@@ -241,13 +242,13 @@
         "p": "cynthia"
       },
       {
-        "n": "JUNE MCDOOM",
+        "n": "JUNE MCDOOM (R)",
         "s": "2026-08-07T18:00:00+01:00",
         "e": "2026-08-07T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "restream",
         "p": "junemcdoom"
       },
       {
@@ -320,18 +321,19 @@
         "u": null,
         "t": "restream",
         "p": "floatingpoints"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-08-07T07:00:00Z",
-        "e": "2026-08-07T08:00:00Z",
+        "n": "Popstar Benny (R)",
+        "s": "2026-08-08T05:00:00+01:00",
+        "e": "2026-08-08T06:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
-      },
+        "t": "restream",
+        "p": "popstarbenny"
+      }
+    ],
+    "subtle": [
       {
         "n": "L.J. Violet",
         "s": "2026-08-07T08:00:00Z",
@@ -1510,6 +1512,15 @@
         "n": "sounds of NOW",
         "s": "2026-08-07T07:00:00Z",
         "e": "2026-08-07T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-07T09:00:00Z",
+        "e": "2026-08-07T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
