@@ -1,41 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-08-08T16:21:30.665Z",
+  "updated": "2026-08-08T18:23:13.272Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LAST RESORT w/ ddwy",
-        "s": "2026-08-08T17:00:00+01:00",
-        "e": "2026-08-08T18:00:00+01:00",
-        "d": "A swift hour long excursion into the unknown. Expect the unexpected from host Tom Cathcart as almost anything goes: techno, post-punk, minimal synth, dub and new wave. Don’t be a prude.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/last-resort/episodes/last-resort-8th-august-2026",
-        "p": "lastresort"
-      },
-      {
-        "n": "Fergus Jones",
-        "s": "2026-08-08T18:00:00+01:00",
-        "e": "2026-08-08T19:00:00+01:00",
-        "d": "Copenhagen-based artist and FELT label head Fergus Jones stops by the London studio. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/fergus-jones-8th-august-2026",
-        "p": "fergusjones"
-      },
       {
         "n": "NTS X Roland: The Future Is Still 808 – The Origins",
         "s": "2026-08-08T19:00:00+01:00",
         "e": "2026-08-08T20:00:00+01:00",
-        "d": null,
+        "d": "A special three-part radio series uncovering the legendary history of Roland's iconic drum machine, the TR-808. Following its resonant bass frequencies as they travel across generations and cultures. Hosted by producer, DJ and NTS resident Shy One, and written by award-winning documentarian Nick Dwyer.\nEpisode 1: The Origins. Covering the unlikely beginnings of the Roland 808, from early experimentation, false starts and commercial failures, to subcultural rumblings around the world. Japan to the USA via India and Italy.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/roland-the-future-is-still-808/episodes/roland-the-future-is-still-808-8th-august-2026"
       },
       {
         "n": "CHERRIE FLAVA",
         "s": "2026-08-08T20:00:00+01:00",
         "e": "2026-08-08T22:00:00+01:00",
-        "d": null,
+        "d": "Cherrie Flava, the boss of MIC Records, the London label behind releases from LAPS, Mike Collins, Lord Tusk & more, joins us once a month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/mic-records/episodes/mic-records-8th-august-2026",
         "t": "monthly"
       },
       {
@@ -167,19 +149,28 @@
         "j": null,
         "u": null,
         "p": "corticeps"
+      },
+      {
+        "n": "KIT GRILL",
+        "s": "2026-08-09T16:00:00+01:00",
+        "e": "2026-08-09T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly",
+        "p": "kitgrill"
+      },
+      {
+        "n": "Hegoa - Nueva Canción Vasca 1967-72",
+        "s": "2026-08-09T17:00:00+01:00",
+        "e": "2026-08-09T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "hegoa"
       }
     ],
     "nts2": [
-      {
-        "n": "ANNABEL FRASER",
-        "s": "2026-08-08T17:00:00+01:00",
-        "e": "2026-08-08T19:00:00+01:00",
-        "d": "Annabel Fraser is a lover of music first and foremost. Not genres. Tune in for her monthly 2 hour show…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/annabel-fraser/episodes/annabel-fraser-8th-august-2026",
-        "t": "monthly",
-        "p": "annabelfraser"
-      },
       {
         "n": "MUTUALISM W/ CLEMENCY",
         "s": "2026-08-08T19:00:00+01:00",
@@ -193,9 +184,9 @@
         "n": "KIM LANA",
         "s": "2026-08-08T20:00:00+01:00",
         "e": "2026-08-08T22:00:00+01:00",
-        "d": null,
+        "d": "Todmorden's finest, Kim Lana joins us in the Manchester studio once a month for 2 hours of bumping and pumping golden era house & techno.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kim-lana/episodes/kim-lana-8th-august-2026",
         "t": "monthly",
         "p": "kimlana"
       },
@@ -340,28 +331,19 @@
         "j": null,
         "u": null,
         "p": "abena"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "BirdE",
-        "s": "2026-08-08T16:00:00Z",
-        "e": "2026-08-08T17:00:00Z",
-        "d": "BirdE brings an hour of the freshest Drum and Bass covering everything from liquid to techy steppers - the deeper the better.",
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Counter Culture",
-        "s": "2026-08-08T17:00:00Z",
-        "e": "2026-08-08T18:00:00Z",
-        "d": "Originally from Cambridge, Counter Culture's selection deftly navigates across a myriad of influences and exclusives from himself & friends.\r\nExpect some of the freshest rolling soul straight to your headspace.",
+        "n": "EDV3CTOR",
+        "s": "2026-08-09T16:00:00+01:00",
+        "e": "2026-08-09T17:00:00+01:00",
+        "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "counterculture"
-      },
+        "p": "edv3ctor"
+      }
+    ],
+    "subtle": [
       {
         "n": "Strictly Business Show w/ Qua Rush & Flipz MC",
         "s": "2026-08-08T18:00:00Z",
@@ -1510,19 +1492,18 @@
         "u": null,
         "t": "monthly",
         "p": "hurst"
+      },
+      {
+        "n": "Highlander",
+        "s": "2026-08-15T17:00:00Z",
+        "e": "2026-08-15T19:00:00Z",
+        "d": "Highlander brings you 2 hours of the freshest Jungle, Hardcore, Dubstep and Breaks. 3rd Saturday 7-9pm lock in!",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
-        "s": "2026-08-08T15:00:00Z",
-        "e": "2026-08-08T17:00:00Z",
-        "d": null,
-        "j": "The Sweeter the Juice",
-        "u": null,
-        "t": "biweekly",
-        "p": "illcamille"
-      },
       {
         "n": "Ryan Lee Moore – Holy Ghost Honky Tonk",
         "s": "2026-08-08T17:00:00Z",
@@ -2127,19 +2108,25 @@
         "j": "JF Chen",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Pearl & The Oysters – guest session",
+        "s": "2026-08-15T17:00:00Z",
+        "e": "2026-08-15T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Leon Kelly – guest session",
+        "s": "2026-08-15T18:00:00Z",
+        "e": "2026-08-15T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Man Power",
-        "s": "2026-08-08T16:00:00Z",
-        "e": "2026-08-08T18:00:00Z",
-        "d": null,
-        "j": "Invite Kris Emmett & Mairi B Pots",
-        "u": null,
-        "t": "monthly",
-        "p": "manpower"
-      },
       {
         "n": "Emerald",
         "s": "2026-08-08T18:00:00Z",
@@ -2319,23 +2306,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Ams",
-        "s": "2026-08-08T16:00:00Z",
-        "e": "2026-08-08T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Useless Seconds",
-        "s": "2026-08-08T17:00:00Z",
-        "e": "2026-08-08T18:00:00Z",
-        "d": null,
-        "j": "invite basic chanel",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Curses",
         "s": "2026-08-08T18:00:00Z",
