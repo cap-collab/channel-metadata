@@ -1,6 +1,6 @@
 {
   "v": 2,
-  "updated": "2026-08-08T08:30:12.665Z",
+  "updated": "2026-08-08T10:23:15.974Z",
   "stations": {
     "nts1": [
       {
@@ -15934,7 +15934,7 @@
         "n": "drizle.FM w/ PLO MAN feat. DJ Spence",
         "s": "2026-05-28T22:00:00+01:00",
         "e": "2026-05-29T00:00:00+01:00",
-        "d": "forwards and backwards through bits of a [mostly] electronic music timeline. reverence for BCR. records i’ve played forever and new records i���ve just found. boil it down. one z in drizle.",
+        "d": "forwards and backwards through bits of a [mostly] electronic music timeline. reverence for BCR. records i’ve played forever and new records i����ve just found. boil it down. one z in drizle.",
         "j": null,
         "u": "https://www.nts.live/api/v2/shows/drizlefm-w-plo-man/episodes/drizlefm-w-plo-man-28th-may-2026"
       },
@@ -27251,6 +27251,15 @@
         "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-29th-january-2021",
         "t": "restream",
         "p": "postgeography"
+      },
+      {
+        "n": "SOUNDS OF THE DAWN",
+        "s": "2026-08-08T08:00:00+01:00",
+        "e": "2026-08-08T10:00:00+01:00",
+        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-8th-august-2026",
+        "t": "monthly"
       }
     ],
     "nts2": [
@@ -59285,6 +59294,15 @@
         "ap": [
           "sophiethatcher"
         ]
+      },
+      {
+        "n": "CAROLINA SOUL: CLASSICAL (R)",
+        "s": "2026-08-08T09:00:00+01:00",
+        "e": "2026-08-08T11:00:00+01:00",
+        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
+        "j": "CLASSICAL",
+        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-6th-march-2026",
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -89711,6 +89729,24 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-08-08T08:00:00Z",
+        "e": "2026-08-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": " SCOPE__EM",
+        "s": "2026-08-08T09:00:00Z",
+        "e": "2026-08-08T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -110912,6 +110948,15 @@
         "u": null,
         "t": "monthly",
         "p": "danieltroberg"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-08T07:00:00Z",
+        "e": "2026-08-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -136693,23 +136738,43 @@
         "p": "uncledugs"
       },
       {
-        "n": "Rosebud Records with Eliza Rose",
+        "n": "Hi-Fidelity",
+        "s": "2026-08-07T11:00:00Z",
+        "e": "2026-08-07T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Counter Culture",
         "s": "2026-08-07T13:00:00Z",
         "e": "2026-08-07T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "p": "elizarose"
+        "t": "monthly",
+        "p": "counterculture"
       },
       {
-        "n": "Ella Knight",
+        "n": "SKALAH",
         "s": "2026-08-07T15:00:00Z",
-        "e": "2026-08-07T17:00:00Z",
+        "e": "2026-08-07T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "ellaknight"
+        "p": "skalah"
+      },
+      {
+        "n": "Man Power",
+        "s": "2026-08-07T16:00:00Z",
+        "e": "2026-08-07T18:00:00Z",
+        "d": null,
+        "j": "Invite Kris Emmett & Mairi B Pots",
+        "u": null,
+        "t": "monthly",
+        "p": "manpower"
       },
       {
         "n": "Arthi",
@@ -136722,53 +136787,53 @@
         "p": "arthi"
       },
       {
-        "n": "Skin On Skin",
+        "n": "Emerald",
         "s": "2026-08-07T18:00:00Z",
         "e": "2026-08-07T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Precious Stones Radio",
         "u": null,
-        "p": "skinonskin"
+        "p": "emerald"
       },
       {
-        "n": "Lamsi",
+        "n": "DJ Plead",
         "s": "2026-08-07T20:00:00Z",
         "e": "2026-08-07T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Strict Face",
         "u": null,
-        "t": "monthly",
-        "p": "lamsi"
+        "t": "biweekly",
+        "p": "djplead"
       },
       {
-        "n": "Anna Lunoe",
+        "n": "Nervous Horizon",
         "s": "2026-08-07T21:00:00Z",
         "e": "2026-08-07T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Oluwa",
         "u": null,
         "t": "biweekly",
-        "p": "annalunoe"
+        "p": "nervoushorizon"
       },
       {
-        "n": "Huey Mnemonic",
+        "n": "7ip7o3",
         "s": "2026-08-07T22:00:00Z",
         "e": "2026-08-07T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "hueymnemonic"
+        "t": "biweekly",
+        "p": "7ip7o3"
       },
       {
-        "n": "Tom Ravenscroft",
+        "n": "Eliza Rose",
         "s": "2026-08-07T23:00:00Z",
         "e": "2026-08-08T01:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "weekly",
-        "p": "tomravenscroft"
+        "t": "biweekly",
+        "p": "elizarose"
       },
       {
         "n": "Electronic Playlist",
@@ -136780,14 +136845,23 @@
         "t": "playlist"
       },
       {
-        "n": "malix",
+        "n": "Anna Lunoe",
         "s": "2026-08-08T05:00:00Z",
         "e": "2026-08-08T06:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "malix"
+        "p": "annalunoe"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-08-08T06:00:00Z",
+        "e": "2026-08-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinsefr": [
@@ -152441,6 +152515,15 @@
         "n": "Playlist France",
         "s": "2026-08-07T19:00:00Z",
         "e": "2026-08-08T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-08T07:00:00Z",
+        "e": "2026-08-08T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,

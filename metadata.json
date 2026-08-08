@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-08T08:28:53.068Z",
+  "updated": "2026-08-08T10:21:56.237Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUNDS OF THE DAWN",
-        "s": "2026-08-08T08:00:00+01:00",
-        "e": "2026-08-08T10:00:00+01:00",
-        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-8th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "The One Glove Breakfast Show w/ Saige Sounds & Santiago Morales",
         "s": "2026-08-08T10:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "ROSS ALLEN",
         "s": "2026-08-08T12:00:00+01:00",
         "e": "2026-08-08T14:00:00+01:00",
-        "d": null,
+        "d": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ross-allen/episodes/ross-allen-8th-august-2026",
         "t": "biweekly",
         "p": "rossallen"
       },
@@ -160,18 +151,18 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "SOPHIA ZHURAVKOVA",
+        "s": "2026-08-09T08:00:00+01:00",
+        "e": "2026-08-09T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "p": "sophiazhuravkova"
       }
     ],
     "nts2": [
-      {
-        "n": "CAROLINA SOUL: CLASSICAL (R)",
-        "s": "2026-08-08T09:00:00+01:00",
-        "e": "2026-08-08T11:00:00+01:00",
-        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
-        "j": "CLASSICAL",
-        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-6th-march-2026",
-        "t": "restream"
-      },
       {
         "n": "CRYSTALLMESS: UNLEASHED - RYUICHI SAKAMOTO SPECIAL (R)",
         "s": "2026-08-08T11:00:00+01:00",
@@ -185,9 +176,9 @@
         "n": "IN FOCUS: FAYE WONG (R)",
         "s": "2026-08-08T12:00:00+01:00",
         "e": "2026-08-08T13:00:00+01:00",
-        "d": null,
+        "d": "A household name in her homeland of China and often considered one of East Asia's biggest pop successes, Beijing-born Faye Wong transcended the traditionally male-dominated world of Cantopop, Combining mainstream Chinese pop sounds with alternative rock and electronic music, notably covering The Cranberries and collaborating with the Cocteau Twins. A diva and an icon of alternative culture in the East, with she may be most recognisable to those in the West as the star of Wong Kar Wei's 1994 film Chungking Express. \nListen to an hour of Faye Wong's best musical moments, compiled by Philip FM.",
         "j": "FAYE WONG",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-faye-wong-6th-november-2020",
         "t": "restream"
       },
       {
@@ -330,27 +321,19 @@
         "j": "Luis Miguel Special",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "A MONTH OF SUNDAYS W/ BILL SPENCER (R)",
+        "s": "2026-08-09T09:00:00+01:00",
+        "e": "2026-08-09T10:00:00+01:00",
+        "d": null,
+        "j": "BILL SPENCER",
+        "u": null,
+        "t": "restream",
+        "p": "billspencer"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-08-08T08:00:00Z",
-        "e": "2026-08-08T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": " SCOPE__EM",
-        "s": "2026-08-08T09:00:00Z",
-        "e": "2026-08-08T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Poolside Convo w/ Gabe",
         "s": "2026-08-08T10:00:00Z",
@@ -1478,18 +1461,28 @@
         "u": null,
         "t": "monthly",
         "p": "carlos"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-08-08T07:00:00Z",
-        "e": "2026-08-08T09:00:00Z",
+        "n": "call curtis",
+        "s": "2026-08-15T09:00:00Z",
+        "e": "2026-08-15T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly",
+        "p": "callcurtis"
       },
+      {
+        "n": "Luc presents: Cable",
+        "s": "2026-08-15T10:00:00Z",
+        "e": "2026-08-15T11:00:00Z",
+        "d": null,
+        "j": "Cable",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-08-08T09:00:00Z",
@@ -2108,91 +2101,106 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-08-08T06:00:00Z",
+        "n": "Wisdom Teeth",
+        "s": "2026-08-08T09:00:00Z",
         "e": "2026-08-08T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "biweekly",
+        "p": "wisdomteeth"
       },
       {
-        "n": "Hi-Fidelity",
+        "n": "Dean Bryce",
         "s": "2026-08-08T11:00:00Z",
         "e": "2026-08-08T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
-        "n": "Counter Culture",
+        "n": "Shuffle 'n' Swing",
         "s": "2026-08-08T13:00:00Z",
         "e": "2026-08-08T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
-        "p": "counterculture"
+        "t": "biweekly"
       },
       {
-        "n": "SKALAH",
+        "n": "Tribal Brothers",
         "s": "2026-08-08T15:00:00Z",
         "e": "2026-08-08T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly",
-        "p": "skalah"
+        "p": "tribalbrothers"
       },
       {
-        "n": "Man Power",
+        "n": "Jamo Beatz",
         "s": "2026-08-08T16:00:00Z",
+        "e": "2026-08-08T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly",
+        "p": "jamobeatz"
+      },
+      {
+        "n": "CONDUCTA",
+        "s": "2026-08-08T17:00:00Z",
         "e": "2026-08-08T18:00:00Z",
         "d": null,
-        "j": "Invite Kris Emmett & Mairi B Pots",
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "bullet tooth",
+        "s": "2026-08-08T18:00:00Z",
+        "e": "2026-08-08T19:00:00Z",
+        "d": null,
+        "j": "Owen Andrews",
         "u": null,
         "t": "monthly",
-        "p": "manpower"
+        "p": "bullettooth",
+        "ap": [
+          "tooth"
+        ]
       },
       {
-        "n": "Emerald",
-        "s": "2026-08-08T18:00:00Z",
+        "n": "NLDC",
+        "s": "2026-08-08T19:00:00Z",
         "e": "2026-08-08T20:00:00Z",
         "d": null,
-        "j": "Precious Stones Radio",
+        "j": null,
         "u": null,
-        "p": "emerald"
+        "t": "monthly"
       },
       {
-        "n": "DJ Plead",
+        "n": "DaMetalMessiah",
         "s": "2026-08-08T20:00:00Z",
-        "e": "2026-08-08T21:00:00Z",
-        "d": null,
-        "j": "Strict Face",
-        "u": null,
-        "t": "biweekly",
-        "p": "djplead"
-      },
-      {
-        "n": "Nervous Horizon",
-        "s": "2026-08-08T21:00:00Z",
         "e": "2026-08-08T22:00:00Z",
         "d": null,
-        "j": "Oluwa",
+        "j": "Winona, Donsurf, D'Monk & Mark Force (Bugz In The Attic)",
         "u": null,
         "t": "biweekly",
-        "p": "nervoushorizon"
+        "p": "dametalmessiah",
+        "ap": [
+          "donsurf"
+        ]
       },
       {
-        "n": "7ip7o3",
+        "n": "Baalti",
         "s": "2026-08-08T22:00:00Z",
         "e": "2026-08-08T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "biweekly",
-        "p": "7ip7o3"
+        "p": "baalti"
       },
       {
         "n": "Eliza Rose",
@@ -2201,7 +2209,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "elizarose"
+        "p": "elizarose",
+        "t": "biweekly"
       },
       {
         "n": "Electronic Playlist",
@@ -2266,7 +2275,8 @@
         "d": null,
         "j": null,
         "u": null,
-        "p": "tribalbrothers"
+        "p": "tribalbrothers",
+        "t": "monthly"
       },
       {
         "n": "Jamo Beatz",
@@ -2275,7 +2285,7 @@
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "jamobeatz"
       },
       {
@@ -2284,7 +2294,8 @@
         "e": "2026-08-09T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "bullet tooth",
@@ -2315,7 +2326,7 @@
         "d": null,
         "j": "Winona, Donsurf, D'Monk & Mark Force (Bugz In The Attic)",
         "u": null,
-        "t": "monthly",
+        "t": "biweekly",
         "p": "dametalmessiah",
         "ap": [
           "donsurf"
@@ -2333,15 +2344,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-08T07:00:00Z",
-        "e": "2026-08-08T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-08T10:00:00Z",
