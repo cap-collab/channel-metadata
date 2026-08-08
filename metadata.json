@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-08T03:16:47.836Z",
+  "updated": "2026-08-08T04:46:35.809Z",
   "stations": {
     "nts1": [
-      {
-        "n": "GiGi FM presents Camila Rodhes (R)",
-        "s": "2026-08-08T04:00:00+01:00",
-        "e": "2026-08-08T05:00:00+01:00",
-        "d": "Monthly inter-dimensional techno and rhythm transmissions from GiGi FM.\nFrom the host: _\"This month, GiGi FM welcomes Brussels-based artist Camila Rodhes ~ blending cinema, photography and sound into hypnotic, trippy techno.\nHer mix moves like November’s sky ~ fire meeting earth, freedom grounding into form, a journey through shadow and shimmer.\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gigi-fm/episodes/gigi-fm-5th-november-2025",
-        "t": "restream",
-        "p": "gigifm"
-      },
       {
         "n": "Japan Blues (R)",
         "s": "2026-08-08T05:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "Post-Geography (R)",
         "s": "2026-08-08T07:00:00+01:00",
         "e": "2026-08-08T08:00:00+01:00",
-        "d": null,
+        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-29th-january-2021",
         "t": "restream",
         "p": "postgeography"
       },
@@ -162,19 +152,18 @@
         "j": "EndgamE",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Kutmah Presents: Sketchbook Radio (R)",
+        "s": "2026-08-09T04:00:00+01:00",
+        "e": "2026-08-09T06:00:00+01:00",
+        "d": null,
+        "j": "Sketchbook Radio",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "FLOATING POINTS (R)",
-        "s": "2026-08-08T03:00:00+01:00",
-        "e": "2026-08-08T05:00:00+01:00",
-        "d": "Sam Shepherd a.k.a Floating Points barely needs introduction. Cataloguing depths uncharted to expose some of the best jazz, soul, rare groove and disco around. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/floating-points/episodes/floating-points-10th-april-2023",
-        "t": "restream",
-        "p": "floatingpoints"
-      },
       {
         "n": "Popstar Benny (R)",
         "s": "2026-08-08T05:00:00+01:00",
@@ -189,9 +178,9 @@
         "n": "DJ Harrison (R)",
         "s": "2026-08-08T06:00:00+01:00",
         "e": "2026-08-08T07:00:00+01:00",
-        "d": null,
+        "d": "Virginia-based producer Devonne Harris joins NTS for a monthly hour of hip-hop influenced sounds, including original and unreleased productions.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dj-harrison/episodes/dj-harrison-13th-june-2019",
         "t": "restream"
       },
       {
@@ -336,6 +325,15 @@
         "u": null,
         "t": "monthly",
         "p": "bensims"
+      },
+      {
+        "n": "BFDM ZAHEF SHOW (R)",
+        "s": "2026-08-09T02:00:00+01:00",
+        "e": "2026-08-09T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -2100,6 +2098,14 @@
         "j": "Black Audio Society",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Aggie Lee – guest session",
+        "s": "2026-08-15T04:00:00Z",
+        "e": "2026-08-15T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
@@ -2503,16 +2509,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "Coyote FM",
-        "s": "2026-08-08T02:00:00Z",
-        "e": "2026-08-08T04:00:00Z",
-        "d": null,
-        "j": "Raven",
-        "u": null,
-        "t": "monthly",
-        "p": "raven"
-      },
       {
         "n": "DYATRON INDUSTRIES - let's go all in, to go all out!",
         "s": "2026-08-09T02:00:00Z",
