@@ -1,18 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-08T06:35:56.210Z",
+  "updated": "2026-08-08T08:28:53.068Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Post-Geography (R)",
-        "s": "2026-08-08T07:00:00+01:00",
-        "e": "2026-08-08T08:00:00+01:00",
-        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-29th-january-2021",
-        "t": "restream",
-        "p": "postgeography"
-      },
       {
         "n": "SOUNDS OF THE DAWN",
         "s": "2026-08-08T08:00:00+01:00",
@@ -26,9 +16,9 @@
         "n": "The One Glove Breakfast Show w/ Saige Sounds & Santiago Morales",
         "s": "2026-08-08T10:00:00+01:00",
         "e": "2026-08-08T12:00:00+01:00",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-8th-august-2026"
       },
       {
         "n": "ROSS ALLEN",
@@ -161,47 +151,34 @@
         "j": "DETROIT JAZZ",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "MARTIN NEWELL'S ODDCASTE",
+        "s": "2026-08-09T07:30:00+01:00",
+        "e": "2026-08-09T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "GEORGIA: ALL KIND MUSIC (R)",
-        "s": "2026-08-08T07:00:00+01:00",
-        "e": "2026-08-08T08:00:00+01:00",
-        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
-        "j": "ALL KIND MUSIC",
-        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-9th-january-2025",
-        "t": "restream"
-      },
-      {
-        "n": "SOPHIE THATCHER (R)",
-        "s": "2026-08-08T08:00:00+01:00",
-        "e": "2026-08-08T09:00:00+01:00",
-        "d": "Chime into a world of noise and melancholia. \nRanging from ambient to 70s Italian film scores. \nPerfect time for a long long walk. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-14th-january-2026",
-        "t": "restream",
-        "p": "sophie",
-        "ap": [
-          "sophiethatcher"
-        ]
-      },
-      {
         "n": "CAROLINA SOUL: CLASSICAL (R)",
         "s": "2026-08-08T09:00:00+01:00",
         "e": "2026-08-08T11:00:00+01:00",
-        "d": null,
+        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
         "j": "CLASSICAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-6th-march-2026",
         "t": "restream"
       },
       {
         "n": "CRYSTALLMESS: UNLEASHED - RYUICHI SAKAMOTO SPECIAL (R)",
         "s": "2026-08-08T11:00:00+01:00",
         "e": "2026-08-08T12:00:00+01:00",
-        "d": null,
+        "d": "The French producer, DJ & Work In Progress 2019 alumna Crystallmess is Unleashed - bleeding edge club sounds & emotional content every month.",
         "j": "UNLEASHED - RYUICHI SAKAMOTO SPECIAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/crystallmess/episodes/unleashed-w-crystallmess-18th-january-2021",
         "t": "restream"
       },
       {
@@ -335,26 +312,35 @@
         "u": null,
         "t": "restream",
         "p": "riodoce"
+      },
+      {
+        "n": "CARLOS RENÉ: WOMEN OF BOLERO IN THE '50S & '60S. (R)",
+        "s": "2026-08-09T07:00:00+01:00",
+        "e": "2026-08-09T08:00:00+01:00",
+        "d": null,
+        "j": "WOMEN OF BOLERO IN THE '50S & '60S.",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "SIC Records: Luis Miguel Special (R)",
+        "s": "2026-08-09T08:00:00+01:00",
+        "e": "2026-08-09T09:00:00+01:00",
+        "d": null,
+        "j": "Luis Miguel Special",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
       {
         "n": "Subtle Selects",
-        "s": "2026-08-08T03:00:00Z",
-        "e": "2026-08-08T07:00:00Z",
+        "s": "2026-08-08T08:00:00Z",
+        "e": "2026-08-08T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "REFERENCES...w/ KPB",
-        "s": "2026-08-08T07:00:00Z",
-        "e": "2026-08-08T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
         "n": " SCOPE__EM",
@@ -1496,19 +1482,18 @@
     ],
     "dublab": [
       {
-        "n": "Daniel Troberg - Transition",
-        "s": "2026-08-08T05:00:00Z",
-        "e": "2026-08-08T07:00:00Z",
-        "d": null,
-        "j": "Transition",
-        "u": null,
-        "t": "monthly",
-        "p": "danieltroberg"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-08-08T07:00:00Z",
         "e": "2026-08-08T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-08T09:00:00Z",
+        "e": "2026-08-08T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2110,6 +2095,15 @@
         "ap": [
           "paradise"
         ]
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-15T07:00:00Z",
+        "e": "2026-08-15T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -2341,15 +2335,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-07T19:00:00Z",
-        "e": "2026-08-08T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-08T07:00:00Z",
         "e": "2026-08-08T10:00:00Z",
         "d": null,
@@ -2367,9 +2352,90 @@
         "t": "playlist"
       },
       {
-        "n": "Léna Daniel",
+        "n": "Camion Bazar",
         "s": "2026-08-08T12:00:00Z",
-        "e": "2026-08-08T13:00:00Z",
+        "e": "2026-08-08T14:00:00Z",
+        "d": null,
+        "j": "invite Marabou : What's in our bags ?",
+        "u": null,
+        "p": "camionbazar"
+      },
+      {
+        "n": "Nathan Melja",
+        "s": "2026-08-08T14:00:00Z",
+        "e": "2026-08-08T15:00:00Z",
+        "d": null,
+        "j": "PARODIA RECORDS",
+        "u": null,
+        "p": "nathanmelja"
+      },
+      {
+        "n": "Hyas",
+        "s": "2026-08-08T15:00:00Z",
+        "e": "2026-08-08T16:00:00Z",
+        "d": null,
+        "j": "B2B Mad Rey",
+        "u": null,
+        "p": "hyas"
+      },
+      {
+        "n": "Ams",
+        "s": "2026-08-08T16:00:00Z",
+        "e": "2026-08-08T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Useless Seconds",
+        "s": "2026-08-08T17:00:00Z",
+        "e": "2026-08-08T18:00:00Z",
+        "d": null,
+        "j": "invite basic chanel",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Curses",
+        "s": "2026-08-08T18:00:00Z",
+        "e": "2026-08-08T19:00:00Z",
+        "d": null,
+        "j": "TOGETHER ALONE",
+        "u": null,
+        "t": "monthly",
+        "p": "curses"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-08T19:00:00Z",
+        "e": "2026-08-09T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-09T07:00:00Z",
+        "e": "2026-08-09T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-09T10:00:00Z",
+        "e": "2026-08-09T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Léna Daniel",
+        "s": "2026-08-09T12:00:00Z",
+        "e": "2026-08-09T13:00:00Z",
         "d": null,
         "j": "Preciouscargo.fm with Felix Gesnouin",
         "u": null,
@@ -2377,16 +2443,16 @@
       },
       {
         "n": "ShunGu",
-        "s": "2026-08-08T13:00:00Z",
-        "e": "2026-08-08T14:00:00Z",
+        "s": "2026-08-09T13:00:00Z",
+        "e": "2026-08-09T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "DOUBLE-O-THEATRE",
-        "s": "2026-08-08T14:00:00Z",
-        "e": "2026-08-08T15:00:00Z",
+        "s": "2026-08-09T14:00:00Z",
+        "e": "2026-08-09T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2394,8 +2460,8 @@
       },
       {
         "n": "Menace Progressive",
-        "s": "2026-08-08T15:00:00Z",
-        "e": "2026-08-08T15:30:00Z",
+        "s": "2026-08-09T15:00:00Z",
+        "e": "2026-08-09T15:30:00Z",
         "d": null,
         "j": "Franssouax",
         "u": null,
@@ -2407,8 +2473,8 @@
       },
       {
         "n": "Menace Progressive",
-        "s": "2026-08-08T15:30:00Z",
-        "e": "2026-08-08T16:00:00Z",
+        "s": "2026-08-09T15:30:00Z",
+        "e": "2026-08-09T16:00:00Z",
         "d": null,
         "j": "Qoso",
         "u": null,
@@ -2420,8 +2486,8 @@
       },
       {
         "n": "Menace Progressive",
-        "s": "2026-08-08T16:00:00Z",
-        "e": "2026-08-08T16:30:00Z",
+        "s": "2026-08-09T16:00:00Z",
+        "e": "2026-08-09T16:30:00Z",
         "d": null,
         "j": "Miss Sheitana",
         "u": null,
@@ -2434,8 +2500,8 @@
       },
       {
         "n": "Menace Progressive",
-        "s": "2026-08-08T16:30:00Z",
-        "e": "2026-08-08T17:00:00Z",
+        "s": "2026-08-09T16:30:00Z",
+        "e": "2026-08-09T17:00:00Z",
         "d": null,
         "j": "Brodinski",
         "u": null,
@@ -2448,8 +2514,8 @@
       },
       {
         "n": "Menace Progressive",
-        "s": "2026-08-08T17:00:00Z",
-        "e": "2026-08-08T17:30:00Z",
+        "s": "2026-08-09T17:00:00Z",
+        "e": "2026-08-09T17:30:00Z",
         "d": null,
         "j": "King Doudou",
         "u": null,
@@ -2462,8 +2528,8 @@
       },
       {
         "n": "Menace Progressive",
-        "s": "2026-08-08T17:30:00Z",
-        "e": "2026-08-08T18:00:00Z",
+        "s": "2026-08-09T17:30:00Z",
+        "e": "2026-08-09T18:00:00Z",
         "d": null,
         "j": "Yunk b2b Racing Nokia",
         "u": null,
@@ -2475,8 +2541,8 @@
       },
       {
         "n": "Merca Bae",
-        "s": "2026-08-08T18:00:00Z",
-        "e": "2026-08-08T19:00:00Z",
+        "s": "2026-08-09T18:00:00Z",
+        "e": "2026-08-09T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2484,8 +2550,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-08T19:00:00Z",
-        "e": "2026-08-08T20:00:00Z",
+        "s": "2026-08-09T19:00:00Z",
+        "e": "2026-08-09T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
