@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-08T04:46:35.809Z",
+  "updated": "2026-08-08T06:35:56.210Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Japan Blues (R)",
-        "s": "2026-08-08T05:00:00+01:00",
-        "e": "2026-08-08T07:00:00+01:00",
-        "d": "The finest London selection of Japanese grooves, from the 30s to 80s, and more. Anything from folk, jazz, psychedelia, new wave, soul, disco and electronic, all Made In Japan. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/japanblues/episodes/japan-blues-23rd-march-2020",
-        "t": "restream"
-      },
       {
         "n": "Post-Geography (R)",
         "s": "2026-08-08T07:00:00+01:00",
@@ -26,9 +17,9 @@
         "n": "SOUNDS OF THE DAWN",
         "s": "2026-08-08T08:00:00+01:00",
         "e": "2026-08-08T10:00:00+01:00",
-        "d": null,
+        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-8th-august-2026",
         "t": "monthly"
       },
       {
@@ -161,44 +152,34 @@
         "j": "Sketchbook Radio",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "NTS GUIDE TO: DETROIT JAZZ (R)",
+        "s": "2026-08-09T06:00:00+01:00",
+        "e": "2026-08-09T07:30:00+01:00",
+        "d": null,
+        "j": "DETROIT JAZZ",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "Popstar Benny (R)",
-        "s": "2026-08-08T05:00:00+01:00",
-        "e": "2026-08-08T06:00:00+01:00",
-        "d": "Popstar Benny, DJ & producer based in Atlanta, Georgia",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/popstar-benny/episodes/popstar-benny-27th-january-2026",
-        "t": "restream",
-        "p": "popstarbenny"
-      },
-      {
-        "n": "DJ Harrison (R)",
-        "s": "2026-08-08T06:00:00+01:00",
-        "e": "2026-08-08T07:00:00+01:00",
-        "d": "Virginia-based producer Devonne Harris joins NTS for a monthly hour of hip-hop influenced sounds, including original and unreleased productions.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dj-harrison/episodes/dj-harrison-13th-june-2019",
-        "t": "restream"
-      },
-      {
         "n": "GEORGIA: ALL KIND MUSIC (R)",
         "s": "2026-08-08T07:00:00+01:00",
         "e": "2026-08-08T08:00:00+01:00",
-        "d": null,
+        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
         "j": "ALL KIND MUSIC",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-9th-january-2025",
         "t": "restream"
       },
       {
         "n": "SOPHIE THATCHER (R)",
         "s": "2026-08-08T08:00:00+01:00",
         "e": "2026-08-08T09:00:00+01:00",
-        "d": null,
+        "d": "Chime into a world of noise and melancholia. \nRanging from ambient to 70s Italian film scores. \nPerfect time for a long long walk. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-14th-january-2026",
         "t": "restream",
         "p": "sophie",
         "ap": [
@@ -334,6 +315,26 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Nosedrip (R)",
+        "s": "2026-08-09T03:00:00+01:00",
+        "e": "2026-08-09T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "nosedrip"
+      },
+      {
+        "n": "Rio Doce (R)",
+        "s": "2026-08-09T05:00:00+01:00",
+        "e": "2026-08-09T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream",
+        "p": "riodoce"
       }
     ],
     "subtle": [
@@ -1495,16 +1496,6 @@
     ],
     "dublab": [
       {
-        "n": "45 Live Radio Show",
-        "s": "2026-08-08T03:00:00Z",
-        "e": "2026-08-08T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly",
-        "p": "45live"
-      },
-      {
         "n": "Daniel Troberg - Transition",
         "s": "2026-08-08T05:00:00Z",
         "e": "2026-08-08T07:00:00Z",
@@ -2106,28 +2097,22 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "88 - Club Paradise",
+        "s": "2026-08-15T05:00:00Z",
+        "e": "2026-08-15T07:00:00Z",
+        "d": null,
+        "j": "Club Paradise",
+        "u": null,
+        "t": "monthly",
+        "p": "88",
+        "ap": [
+          "paradise"
+        ]
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-08-08T01:00:00Z",
-        "e": "2026-08-08T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "malix",
-        "s": "2026-08-08T05:00:00Z",
-        "e": "2026-08-08T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly",
-        "p": "malix"
-      },
       {
         "n": "Playlist",
         "s": "2026-08-08T06:00:00Z",
