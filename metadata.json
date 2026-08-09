@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-09T20:21:10.820Z",
+  "updated": "2026-08-09T22:20:12.833Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Heesaha Hawada",
-        "s": "2026-08-09T21:00:00+01:00",
-        "e": "2026-08-09T22:00:00+01:00",
-        "d": "Idel Rasheed from Waaberi Phone returns to the airwaves with another hypnotic voyage through Somali music—bridging forgotten golden-era archives, soulful melodies, and modern favorites from across the airwaves.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/heesaha-hawada-9th-august-2026"
-      },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO & SHOLTO (LIVE SESSION)",
         "s": "2026-08-09T22:00:00+01:00",
@@ -23,9 +15,10 @@
         "n": "LIVE AT THE CLINIC W/ WOWJEAN",
         "s": "2026-08-10T00:00:00+01:00",
         "e": "2026-08-10T01:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "LIVE AT THE CLINIC (or LATC for short) is an artist-led initiative founded by shadowy London beatmaker and US Rap collaborator psychedelic ensemble. Currently, the LATC umbrella includes a record label, and this monthly radio show on NTS, unravelling an hour-long assemblage of grimy instrumentals and edits.\nFrom the host: \"Psychedelic Ensemble invites Wowjean for a guest mix live at THE CLINIC.\"",
+        "j": "WOWJEAN",
+        "u": "https://www.nts.live/api/v2/shows/psychedelic-ensemble/episodes/psychedelic-ensemble-10th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "SHAMOS - 100% ORIGINAL MATERIAL (R)",
@@ -160,18 +153,17 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DOWN AT THE END OF THE GARDEN W/ FLYING NUN RECORDS",
+        "s": "2026-08-11T00:00:00+01:00",
+        "e": "2026-08-11T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "ALL NIGHT FLIGHT",
-        "s": "2026-08-09T21:00:00+01:00",
-        "e": "2026-08-09T22:00:00+01:00",
-        "d": "A winding journey through the catalogue of All Night Flight's Stockport record store, spanning from modern classical and free-flowing jazz to a wide soundscape of dark ambient, folk and techno… with All Night Flight, anything goes!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/all-night-flight/episodes/all-night-flight-9th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "IN FOCUS: WILLIAM ORBIT (R)",
         "s": "2026-08-09T22:00:00+01:00",
@@ -185,9 +177,9 @@
         "n": "PANORAMA HEAVEN W/ BIANCA LEXIS (R)",
         "s": "2026-08-10T00:00:00+01:00",
         "e": "2026-08-10T01:00:00+01:00",
-        "d": null,
+        "d": "LA native Bianca Lexis showcases a monthly, genre-blending hour, exploring the different facets of pop, rock, synth and house music. all in panoramic view, for you.",
         "j": "BIANCA LEXIS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/panorama-heaven/episodes/panorama-heaven-27th-september-2023",
         "t": "restream"
       },
       {
@@ -320,27 +312,17 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THE LAVENDER KITE AUDIO RESEARCH HOUR",
+        "s": "2026-08-10T19:00:00+01:00",
+        "e": "2026-08-10T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "FKOF",
-        "s": "2026-08-09T19:00:00Z",
-        "e": "2026-08-09T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "VitalArea",
-        "s": "2026-08-09T21:00:00Z",
-        "e": "2026-08-09T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Eva de Ree",
         "s": "2026-08-09T22:00:00Z",
@@ -1419,18 +1401,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Becky Ebenkamp – Bubblegum & Other Delights",
-        "s": "2026-08-09T19:00:00Z",
-        "e": "2026-08-09T21:00:00Z",
+        "n": "SPOTLIGHT EVENTS ",
+        "s": "2026-08-16T21:00:00Z",
+        "e": "2026-08-16T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "htypeproduky",
+        "s": "2026-08-16T22:00:00Z",
+        "e": "2026-08-16T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Archivo13 - Escuchar al Istmo",
         "s": "2026-08-09T21:00:00Z",
@@ -1964,17 +1955,18 @@
         "j": "Atlas",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "body / negative - cloud music",
+        "s": "2026-08-16T21:00:00Z",
+        "e": "2026-08-16T23:00:00Z",
+        "d": null,
+        "j": "cloud music",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "DaMetalMessiah presents Winona, Donsurf, D'Monk & Mark Force (Bugz In The Attic)",
-        "s": "2026-08-09T20:00:00Z",
-        "e": "2026-08-09T22:00:00Z",
-        "d": null,
-        "j": "Broken Beat Special",
-        "u": null
-      },
       {
         "n": "Baalti",
         "s": "2026-08-09T22:00:00Z",
@@ -2121,15 +2113,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-09T19:00:00Z",
-        "e": "2026-08-10T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-10T07:00:00Z",
         "e": "2026-08-10T10:00:00Z",
         "d": null,
@@ -2204,7 +2187,8 @@
         "e": "2026-08-10T19:00:00Z",
         "d": null,
         "j": "présente Manami (100% production mix)",
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "Playlist France",
@@ -2218,15 +2202,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "Inner Mono",
-        "s": "2026-08-09T20:00:00Z",
-        "e": "2026-08-09T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "EEL Automaton",
         "s": "2026-08-09T21:00:00Z",
