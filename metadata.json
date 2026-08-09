@@ -1,39 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-08-09T18:26:27.408Z",
+  "updated": "2026-08-09T20:21:10.820Z",
   "stations": {
     "nts1": [
-      {
-        "n": "JANIE JONES",
-        "s": "2026-08-09T19:00:00+01:00",
-        "e": "2026-08-09T20:00:00+01:00",
-        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-9th-august-2026"
-      },
-      {
-        "n": "Perfect Lives w/ Bruno & Daniel",
-        "s": "2026-08-09T20:00:00+01:00",
-        "e": "2026-08-09T21:00:00+01:00",
-        "d": "London Perfect Lives shopkeepers Bruno and Danny share an hour of discoveries each month, Dipping into charming private press releases, cozy dub & dancehall, way out of left-field synth pop & postpunk, among other surprises..",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/perfect-lives/episodes/perfect-lives-9th-august-2026"
-      },
       {
         "n": "Heesaha Hawada",
         "s": "2026-08-09T21:00:00+01:00",
         "e": "2026-08-09T22:00:00+01:00",
-        "d": null,
+        "d": "Idel Rasheed from Waaberi Phone returns to the airwaves with another hypnotic voyage through Somali music—bridging forgotten golden-era archives, soulful melodies, and modern favorites from across the airwaves.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/heesaha-hawada-9th-august-2026"
       },
       {
         "n": "MIDNIGHT MARAUDERS W/ MARSHMELLO & SHOLTO (LIVE SESSION)",
         "s": "2026-08-09T22:00:00+01:00",
         "e": "2026-08-10T00:00:00+01:00",
-        "d": null,
+        "d": "Marsha by name and mellow by nature, MarshmeLLo takes you on a musical journey of all her influences plus a little extra. The first show ever broadcast on the station, Marsha continues to find her groove…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/midnight-marauders/episodes/midnight-marauders-9th-august-2026"
       },
       {
         "n": "LIVE AT THE CLINIC W/ WOWJEAN",
@@ -158,43 +142,43 @@
         "j": "JACK SAPSED",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "SYSTEM OLYMPIA: A FEVER DREAM IN HYPER COLOR (R)",
-        "s": "2026-08-09T19:00:00+01:00",
-        "e": "2026-08-09T20:00:00+01:00",
-        "d": "System Olympia joins us for an hour a month.\nFrom the host: \"Premiering my new single El Paso.\"",
-        "j": "A FEVER DREAM IN HYPER COLOR",
-        "u": "https://www.nts.live/api/v2/shows/system-olympia/episodes/system-olympia-12th-january-2026",
-        "t": "restream"
       },
       {
-        "n": "Fixed Abode w/ Rainy Miller",
-        "s": "2026-08-09T20:00:00+01:00",
-        "e": "2026-08-09T21:00:00+01:00",
-        "d": "Prestonian singer songwriter Rainy Miller presents the progress check, a bi-monthly show playing an hour of archived experiments and influences.",
-        "j": "Rainy Miller",
-        "u": "https://www.nts.live/api/v2/shows/rainy-miller/episodes/rainy-miller-9th-august-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ALL NIGHT FLIGHT",
-        "s": "2026-08-09T21:00:00+01:00",
-        "e": "2026-08-09T22:00:00+01:00",
+        "n": "LUNG DART",
+        "s": "2026-08-10T22:00:00+01:00",
+        "e": "2026-08-10T23:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
+        "n": "TORN HAWK",
+        "s": "2026-08-10T23:00:00+01:00",
+        "e": "2026-08-11T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "nts2": [
+      {
+        "n": "ALL NIGHT FLIGHT",
+        "s": "2026-08-09T21:00:00+01:00",
+        "e": "2026-08-09T22:00:00+01:00",
+        "d": "A winding journey through the catalogue of All Night Flight's Stockport record store, spanning from modern classical and free-flowing jazz to a wide soundscape of dark ambient, folk and techno… with All Night Flight, anything goes!",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/all-night-flight/episodes/all-night-flight-9th-august-2026",
+        "t": "monthly"
+      },
+      {
         "n": "IN FOCUS: WILLIAM ORBIT (R)",
         "s": "2026-08-09T22:00:00+01:00",
         "e": "2026-08-10T00:00:00+01:00",
-        "d": null,
+        "d": "A two hour journey through the the intricate and epic electronic productions of William Orbit - featuring both his instrumental and experimental modes and his world-beating pop hits from All Saints, Madonna and more.\nSelected and mixed by The Pilotwings.",
         "j": "WILLIAM ORBIT",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-william-orbit-20th-september-2024",
         "t": "restream"
       },
       {
@@ -318,18 +302,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "DIG n SPIN W/ STAN",
-        "s": "2026-08-09T18:00:00Z",
-        "e": "2026-08-09T19:00:00Z",
+        "n": "ANTHONY CHALMERS",
+        "s": "2026-08-10T17:00:00+01:00",
+        "e": "2026-08-10T18:00:00+01:00",
         "d": null,
-        "j": "STAN",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "ALDOUS RH",
+        "s": "2026-08-10T18:00:00+01:00",
+        "e": "2026-08-10T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": "FKOF",
         "s": "2026-08-09T19:00:00Z",
@@ -1417,18 +1410,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Bob Baker Marionette Theater – Puppetphonic",
-        "s": "2026-08-09T17:00:00Z",
-        "e": "2026-08-09T19:00:00Z",
+        "n": "Off-Switch Audio",
+        "s": "2026-08-16T20:00:00Z",
+        "e": "2026-08-16T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "dublab": [
       {
         "n": "Becky Ebenkamp – Bubblegum & Other Delights",
         "s": "2026-08-09T19:00:00Z",
@@ -1962,27 +1955,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Barbarelle - Atlas",
+        "s": "2026-08-16T19:00:00Z",
+        "e": "2026-08-16T21:00:00Z",
+        "d": null,
+        "j": "Atlas",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "bullet tooth",
-        "s": "2026-08-09T18:00:00Z",
-        "e": "2026-08-09T19:00:00Z",
-        "d": null,
-        "j": "Owen Andrews",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "NLDC",
-        "s": "2026-08-09T19:00:00Z",
-        "e": "2026-08-09T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "DaMetalMessiah presents Winona, Donsurf, D'Monk & Mark Force (Bugz In The Attic)",
         "s": "2026-08-09T20:00:00Z",
@@ -2135,15 +2119,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Merca Bae",
-        "s": "2026-08-09T18:00:00Z",
-        "e": "2026-08-09T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-09T19:00:00Z",
