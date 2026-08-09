@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-08-09T01:00:40.954Z",
+  "updated": "2026-08-09T03:24:55.939Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Beyond The Clouds (R)",
-        "s": "2026-08-09T02:00:00+01:00",
-        "e": "2026-08-09T03:00:00+01:00",
-        "d": "Slowed Down, sun kissed journeys through dub, synth, cosmic & balearic beats. Brought to you from LA each month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/masha/episodes/beyond-the-clouds-w-masha-15th-april-2020",
-        "t": "restream"
-      },
-      {
-        "n": "Precious Metals w/ EndgamE (R)",
-        "s": "2026-08-09T03:00:00+01:00",
-        "e": "2026-08-09T04:00:00+01:00",
-        "d": null,
-        "j": "EndgamE",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "Kutmah Presents: Sketchbook Radio (R)",
         "s": "2026-08-09T04:00:00+01:00",
         "e": "2026-08-09T06:00:00+01:00",
-        "d": null,
+        "d": "Sketchbook was the LA beat night started by Kutmah back in 2004 and was the breeding ground for artists like Daedelus, Ras G, Dibiase, Georgia Anne Muldrow, Teebs and Flying Lotus. Now it's radio reincarnation is on this side of the Atlantic. Lock in.",
         "j": "Sketchbook Radio",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sketchbook/episodes/sketchbook-2nd-may-2025",
         "t": "restream"
       },
       {
         "n": "NTS GUIDE TO: DETROIT JAZZ (R)",
         "s": "2026-08-09T06:00:00+01:00",
         "e": "2026-08-09T07:30:00+01:00",
-        "d": null,
+        "d": "A two hours overview of Detroit jazz labels and artists, featuring music from Ade Olatunji, Ursula Walker, Wendell Harrison and others.",
         "j": "DETROIT JAZZ",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/detroit-jazz-special-16th-april-2022",
         "t": "restream"
       },
       {
@@ -160,25 +142,43 @@
         "j": null,
         "u": null,
         "p": "midnightmarauders"
+      },
+      {
+        "n": "LIVE AT THE CLINIC w/ PSYCHEDELIC ENSEMBLE",
+        "s": "2026-08-10T00:00:00+01:00",
+        "e": "2026-08-10T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SHAMOS - 100% ORIGINAL MATERIAL (R)",
+        "s": "2026-08-10T01:00:00+01:00",
+        "e": "2026-08-10T02:00:00+01:00",
+        "d": null,
+        "j": "100% ORIGINAL MATERIAL",
+        "u": null,
+        "t": "restream",
+        "p": "shamos"
+      },
+      {
+        "n": "Mosca (R)",
+        "s": "2026-08-10T02:00:00+01:00",
+        "e": "2026-08-10T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "BFDM ZAHEF SHOW (R)",
-        "s": "2026-08-09T02:00:00+01:00",
-        "e": "2026-08-09T03:00:00+01:00",
-        "d": "BFDM, a.k.a Brothers From Different Mothers, are the snottiest techno label around. Non-stop crunch rollers, all the way from Lyon - tune in for an hour on 2, monthly Mondays.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/BFDM/episodes/bfdm-13th-december-2021",
-        "t": "restream"
-      },
-      {
         "n": "Nosedrip (R)",
         "s": "2026-08-09T03:00:00+01:00",
         "e": "2026-08-09T05:00:00+01:00",
-        "d": null,
+        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-2nd-november-2023",
         "t": "restream",
         "p": "nosedrip"
       },
@@ -186,9 +186,9 @@
         "n": "Rio Doce (R)",
         "s": "2026-08-09T05:00:00+01:00",
         "e": "2026-08-09T07:00:00+01:00",
-        "d": null,
+        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.\nFrom the host: _\"Rio Doce de Janeiro pays homage to the Carnival of Salvador, Bahia.\nWith guest Lorena Silveira, we created a mix that tells the story of one of Brazil's main celebrations.\"_",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-28th-january-2026",
         "t": "restream",
         "p": "riodoce"
       },
@@ -320,26 +320,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "IN FOCUS: WILLIAM ORBIT (R)",
+        "s": "2026-08-09T22:00:00+01:00",
+        "e": "2026-08-10T00:00:00+01:00",
+        "d": null,
+        "j": "WILLIAM ORBIT",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "PANORAMA HEAVEN W/ BIANCA LEXIS (R)",
+        "s": "2026-08-10T00:00:00+01:00",
+        "e": "2026-08-10T01:00:00+01:00",
+        "d": null,
+        "j": "BIANCA LEXIS",
+        "u": null,
+        "t": "restream",
+        "p": "biancalexis",
+        "ap": [
+          "panoramaheaven"
+        ]
       }
     ],
     "subtle": [
-      {
-        "n": "Dubwise & Beyond w/ 8BallPosse",
-        "s": "2026-08-09T01:00:00Z",
-        "e": "2026-08-09T02:00:00Z",
-        "d": null,
-        "j": "8BallPosse",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Adam Aponte",
-        "s": "2026-08-09T02:00:00Z",
-        "e": "2026-08-09T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "RWND140",
         "s": "2026-08-09T03:00:00Z",
@@ -348,6 +353,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Subtle Selects",
+        "s": "2026-08-09T05:00:00Z",
+        "e": "2026-08-09T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Kiki B",
@@ -1489,19 +1503,18 @@
         "j": "Bindās",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Et Al",
+        "s": "2026-08-16T02:00:00Z",
+        "e": "2026-08-16T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sodapop - sodapop sounds",
-        "s": "2026-08-09T01:00:00Z",
-        "e": "2026-08-09T03:00:00Z",
-        "d": null,
-        "j": "sodapop sounds",
-        "u": null,
-        "t": "monthly",
-        "p": "sodapop"
-      },
       {
         "n": "Rekick – Mondial Disco @Beuvron en auge !",
         "s": "2026-08-09T03:00:00Z",
@@ -2094,6 +2107,15 @@
         "n": "2092 presents... Funk Radio",
         "s": "2026-08-16T01:00:00Z",
         "e": "2026-08-16T03:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Discoteca 3ala Mars",
+        "s": "2026-08-16T03:00:00Z",
+        "e": "2026-08-16T05:00:00Z",
         "d": null,
         "j": null,
         "u": null,
