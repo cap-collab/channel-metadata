@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-09T12:30:25.663Z",
+  "updated": "2026-08-09T14:25:13.358Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Tommasi - Summer Special",
-        "s": "2026-08-09T12:00:00+01:00",
-        "e": "2026-08-09T14:00:00+01:00",
-        "d": "In Iceland, Thomas Stankiewicz contemplates the constant flux of the elements. A composer & musician in his own right, he selectively weaves in between soundtracks, classical music, and evocative ambient sounds, symphonically unveiling untold stories from past and future…\n@tommmasi",
-        "j": "Summer Special",
-        "u": "https://www.nts.live/api/v2/shows/tommasi/episodes/tommasi-9th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "CORTICEPS W/ MINUS KENDAL",
         "s": "2026-08-09T14:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "KIT GRILL",
         "s": "2026-08-09T16:00:00+01:00",
         "e": "2026-08-09T17:00:00+01:00",
-        "d": null,
+        "d": "Kit Grill presents a monthly excursion into music from around the world. Sunday, monthly, 4-5pm GMT.\nkitgrill.com",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/kit-grill/episodes/kit-grill-9th-august-2026",
         "t": "monthly"
       },
       {
@@ -79,7 +70,7 @@
         "u": null
       },
       {
-        "n": "LIVE AT THE CLINIC w/ PSYCHEDELIC ENSEMBLE",
+        "n": "LIVE AT THE CLINIC W/ WOWJEAN",
         "s": "2026-08-10T00:00:00+01:00",
         "e": "2026-08-10T01:00:00+01:00",
         "d": null,
@@ -157,42 +148,33 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DACTYLIAN & PALO SANTO DISCOS",
+        "s": "2026-08-10T15:00:00+01:00",
+        "e": "2026-08-10T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "DESIRE PATHS W/ LAURA GROVES: SLY & ROBBIE SPECIAL (R)",
-        "s": "2026-08-09T13:00:00+01:00",
-        "e": "2026-08-09T14:00:00+01:00",
-        "d": "Desire paths are formed by repeated deviation from official routes. Artist/producer Laura Groves explores private roads and dreamscapes with a series of mixtapes featuring demos, synth sketches, collaborations, pop classics, field recordings and soundtracks.",
-        "j": "LAURA GROVES",
-        "u": "https://www.nts.live/api/v2/shows/desire-paths/episodes/desire-paths-29th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "CHILDREN OF ZEUS",
-        "s": "2026-08-09T14:00:00+01:00",
-        "e": "2026-08-09T15:00:00+01:00",
-        "d": "Children of Zeus's Konny Kon takes over our Manchester studio once a month to play upfront Soul, Classic Hip Hop & New RnB.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/children-of-zeus/episodes/children-of-zeus-9th-august-2026",
-        "t": "monthly"
-      },
-      {
         "n": "Abena",
         "s": "2026-08-09T15:00:00+01:00",
         "e": "2026-08-09T16:00:00+01:00",
-        "d": null,
+        "d": "All Hands On Deck co-founder Abena jumps on once a month - music to help loosen your joints, live from the Manchester studio. Expect dub, techno & a bit of ambient.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/abena/episodes/abena-9th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "EDV3CTOR",
         "s": "2026-08-09T16:00:00+01:00",
         "e": "2026-08-09T17:00:00+01:00",
-        "d": null,
+        "d": "Leeds scene leader and DJ edv3ctor presents archival and contemporary selections from his personal archive, exploring rhythms, sounds, and moods past and present.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/edv3ctor/episodes/edv3ctor-9th-august-2026",
         "t": "monthly"
       },
       {
@@ -319,26 +301,26 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "FORZUG w/ Óriah ",
-        "s": "2026-08-09T12:00:00Z",
-        "e": "2026-08-09T13:00:00Z",
+        "n": "AN1MA w/ MOLINARO",
+        "s": "2026-08-10T11:00:00+01:00",
+        "e": "2026-08-10T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Comfy Bella",
-        "s": "2026-08-09T13:00:00Z",
-        "e": "2026-08-09T14:00:00Z",
+        "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL",
+        "s": "2026-08-10T12:00:00+01:00",
+        "e": "2026-08-10T13:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "YAWNING PORTAL",
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": " Alien Izz",
         "s": "2026-08-09T14:00:00Z",
@@ -1426,18 +1408,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": " What's The Weather, Selecta? w/ Megan Wroe",
+        "s": "2026-08-16T13:00:00Z",
+        "e": "2026-08-16T14:00:00Z",
+        "d": null,
+        "j": "Megan Wroe",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Chaitu",
+        "s": "2026-08-16T14:00:00Z",
+        "e": "2026-08-16T15:00:00Z",
+        "d": "Hailing from Mumbai, now living in London, Chaitu is energised by the UK sound and scene.\r\n\r\nWith a love of all things weird, weighty and groovy; his mixes and productions bridge electro, techno, breaks, UKG and Jungle, with sprinklings of everything in between.\r\n\r\nChaitu champions provocative beats that break down the barriers of style, genre and expectation, all while keeping you moving.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "djjs",
-        "s": "2026-08-09T12:00:00Z",
-        "e": "2026-08-09T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "djjs 2",
         "s": "2026-08-09T14:00:00Z",
@@ -1971,18 +1962,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "djjs 2",
+        "s": "2026-08-16T14:00:00Z",
+        "e": "2026-08-16T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Dean Bryce",
-        "s": "2026-08-09T11:00:00Z",
-        "e": "2026-08-09T13:00:00Z",
-        "d": null,
-        "j": "Infinite Coles",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Shuffle 'n' Swing",
         "s": "2026-08-09T13:00:00Z",
@@ -1997,7 +1988,7 @@
         "s": "2026-08-09T15:00:00Z",
         "e": "2026-08-09T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Kristelle & ZVRI",
         "u": null
       },
       {
@@ -2188,23 +2179,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Léna Daniel",
-        "s": "2026-08-09T12:00:00Z",
-        "e": "2026-08-09T13:00:00Z",
-        "d": null,
-        "j": "Preciouscargo.fm with Felix Gesnouin",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "ShunGu",
-        "s": "2026-08-09T13:00:00Z",
-        "e": "2026-08-09T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "DOUBLE-O-THEATRE",
         "s": "2026-08-09T14:00:00Z",
