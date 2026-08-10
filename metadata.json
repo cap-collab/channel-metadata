@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-10T10:58:43.892Z",
+  "updated": "2026-08-10T12:46:22.857Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Soup To Nuts w/ John Gómez",
-        "s": "2026-08-10T11:00:00+01:00",
-        "e": "2026-08-10T13:00:00+01:00",
-        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
-        "j": "John Gómez",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-10th-august-2026",
-        "t": "weekly"
-      },
       {
         "n": "PATRICK FORGE",
         "s": "2026-08-10T13:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "PALO SANTO DISCOS",
         "s": "2026-08-10T15:00:00+01:00",
         "e": "2026-08-10T16:00:00+01:00",
-        "d": null,
+        "d": "Vinyl and acetate from Brazil and beyond. Instagram.com/Dactylian Instagram.com/Palo Santo Discos\nFrom the host: \"An hour of Brazilian music\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dactylian-and-palo-santo/episodes/dactylian-and-palo-santo-10th-august-2026"
       },
       {
         "n": "FROM THE DEPTHS W/ DRAKEFORD: Don Cherry's 'Organic Music'",
@@ -161,41 +152,32 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Tropic of Love w/ Mafalda",
+        "s": "2026-08-11T13:00:00+01:00",
+        "e": "2026-08-11T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "AN1MA w/ MOLINARO",
-        "s": "2026-08-10T11:00:00+01:00",
-        "e": "2026-08-10T12:00:00+01:00",
-        "d": "integration sounds from the source; an invitation into the shadow.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-10th-august-2026"
-      },
-      {
-        "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL",
-        "s": "2026-08-10T12:00:00+01:00",
-        "e": "2026-08-10T13:00:00+01:00",
-        "d": "Zzzzzzzzzzzz… Shhhh… There's a baby sleeping in the house!",
-        "j": "YAWNING PORTAL",
-        "u": "https://www.nts.live/api/v2/shows/under-sleepy-moon/episodes/under-sleepy-moon-10th-august-2026",
-        "t": "monthly"
-      },
-      {
         "n": "Esse Pi Enne",
         "s": "2026-08-10T13:00:00+01:00",
         "e": "2026-08-10T14:00:00+01:00",
-        "d": null,
+        "d": "Torino musician and DJ Stefano Murgia aka Esse Pi Enne shares a soundscape of post-rock, experimental, IDM and more.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/esse-pi-enne-10th-august-2026"
       },
       {
         "n": "CXEMA w/ Oleksii Podat",
         "s": "2026-08-10T14:00:00+01:00",
         "e": "2026-08-10T15:00:00+01:00",
-        "d": null,
+        "d": "The sound of Ukraine's independent music scene. Presented by Схема, a Kyiv-based collective that moves forward rave culture in Ukraine.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/cxema/episodes/cxema-10th-august-2026"
       },
       {
         "n": "ZULI",
@@ -315,27 +297,27 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "syncop8",
-        "s": "2026-08-10T10:00:00Z",
-        "e": "2026-08-10T11:00:00Z",
-        "d": "ixxi and Fei take you on a percussive journey with their show syncop8, moving from downtempo ambient to breaks, polyrhythms, and high energy beats, exploring every rhythmic and textural nuance in between.",
-        "j": null,
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "lot five two",
-        "s": "2026-08-10T11:00:00Z",
-        "e": "2026-08-10T12:00:00Z",
+        "n": "Sounds on Screen: Jon Brion (R)",
+        "s": "2026-08-11T07:00:00+01:00",
+        "e": "2026-08-11T08:00:00+01:00",
+        "d": null,
+        "j": "Jon Brion",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Lamin Fofana (R)",
+        "s": "2026-08-11T08:00:00+01:00",
+        "e": "2026-08-11T09:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Bittersweet Sounds w/ Mass Hysteria",
         "s": "2026-08-10T12:00:00Z",
@@ -1433,13 +1415,31 @@
         "j": "PXLTERGEIST",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Lady Jules",
+        "s": "2026-08-17T11:00:00Z",
+        "e": "2026-08-17T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Meech",
+        "s": "2026-08-17T12:00:00Z",
+        "e": "2026-08-17T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-10T09:00:00Z",
-        "e": "2026-08-10T11:00:00Z",
+        "s": "2026-08-10T11:00:00Z",
+        "e": "2026-08-10T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1447,8 +1447,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-10T11:00:00Z",
-        "e": "2026-08-10T13:00:00Z",
+        "s": "2026-08-10T13:00:00Z",
+        "e": "2026-08-10T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1991,24 +1991,6 @@
     ],
     "rinse": [
       {
-        "n": "Tim Garcia",
-        "s": "2026-08-10T09:00:00Z",
-        "e": "2026-08-10T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Camille Munn",
-        "s": "2026-08-10T11:00:00Z",
-        "e": "2026-08-10T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Christine Kakaire presents Loose Tracks",
         "s": "2026-08-10T12:00:00Z",
         "e": "2026-08-10T13:00:00Z",
@@ -2221,15 +2203,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-10T10:00:00Z",
-        "e": "2026-08-10T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Queer Cult",
         "s": "2026-08-10T12:00:00Z",
