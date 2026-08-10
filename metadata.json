@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-10T14:50:34.401Z",
+  "updated": "2026-08-10T16:43:36.349Z",
   "stations": {
     "nts1": [
-      {
-        "n": "PALO SANTO DISCOS",
-        "s": "2026-08-10T15:00:00+01:00",
-        "e": "2026-08-10T16:00:00+01:00",
-        "d": "Vinyl and acetate from Brazil and beyond. Instagram.com/Dactylian Instagram.com/Palo Santo Discos\nFrom the host: \"An hour of Brazilian music\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dactylian-and-palo-santo/episodes/dactylian-and-palo-santo-10th-august-2026"
-      },
       {
         "n": "FROM THE DEPTHS W/ DRAKEFORD: Don Cherry's 'Organic Music'",
         "s": "2026-08-10T16:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-08-10T18:00:00+01:00",
         "e": "2026-08-10T20:00:00+01:00",
-        "d": null,
+        "d": "Welcome to Club Coco: a place where globe-trotting vinyl hunter Coco María shares her joyous discoveries - jazz, fusion, international pop, vintage latin music of all flavours…",
         "j": "COCO MARIA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/club-coco-coco-maria/episodes/club-coco-coco-maria-10th-august-2026",
         "t": "weekly"
       },
       {
@@ -160,23 +152,23 @@
         "j": "Margeaux",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "REBE",
+        "s": "2026-08-11T16:00:00+01:00",
+        "e": "2026-08-11T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "ZULI",
-        "s": "2026-08-10T15:00:00+01:00",
-        "e": "2026-08-10T17:00:00+01:00",
-        "d": "ZULI, experimental club producer and VENT co-founder hailing from Cairo hits the NTS airwaves to showcase his club wares: aggressively left-field.\nFrom the host: \"The first hour of today's show takes the scenic route with a live recording by Belgrade-based odrugud, recorded at Aki Yamondai's Bedroom Night earlier this year. The second hour is by Belgrade mainstay and Mostly Joking boss UBICA.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ZULI/episodes/ZULI-10th-august-2026"
-      },
-      {
-        "n": "ANTHONY CHALMERS",
+        "n": "Anthony Chalmers w/ Nick Granata",
         "s": "2026-08-10T17:00:00+01:00",
         "e": "2026-08-10T18:00:00+01:00",
         "d": "Anthony Chalmers, promoter of Baba Yaga's Hut, London's top night for left-field & experimental music visits NTS for a monthly showcase of his heavy collection, which spans jazz, dub, stoner rock, psych, electronic & more.",
-        "j": null,
+        "j": "Nick Granata",
         "u": "https://www.nts.live/api/v2/shows/anthonychalmers/episodes/anthonychalmers-10th-august-2026",
         "t": "monthly"
       },
@@ -184,9 +176,9 @@
         "n": "ALDOUS RH",
         "s": "2026-08-10T18:00:00+01:00",
         "e": "2026-08-10T19:00:00+01:00",
-        "d": null,
+        "d": "Old psych jams, soul, folk-rock and generally all-round pleasant radio sounds from Aldous RH. Once a month from our Manchester studio - tune in…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/aldous-rh/episodes/aldous-rh-10th-august-2026",
         "t": "monthly"
       },
       {
@@ -283,6 +275,15 @@
         "t": "restream"
       },
       {
+        "n": "LEILA SAMIR (R)",
+        "s": "2026-08-11T06:00:00+01:00",
+        "e": "2026-08-11T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "Sounds on Screen: Jon Brion (R)",
         "s": "2026-08-11T07:00:00+01:00",
         "e": "2026-08-11T08:00:00+01:00",
@@ -320,24 +321,6 @@
       }
     ],
     "subtle": [
-      {
-        "n": "Louis Selwyn",
-        "s": "2026-08-10T13:00:00Z",
-        "e": "2026-08-10T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Suga House",
-        "s": "2026-08-10T15:00:00Z",
-        "e": "2026-08-10T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "PADWICK",
         "s": "2026-08-10T16:00:00Z",
@@ -1444,18 +1427,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-08-10T13:00:00Z",
-        "e": "2026-08-10T15:00:00Z",
+        "n": "Bidl",
+        "s": "2026-08-17T15:00:00Z",
+        "e": "2026-08-17T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Skari",
+        "s": "2026-08-17T16:00:00Z",
+        "e": "2026-08-17T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Middle Pillar Sounds",
         "s": "2026-08-10T15:00:00Z",
@@ -1989,18 +1981,18 @@
         "j": "APEX",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Andrew Goldberg - Rainy Day Fund",
+        "s": "2026-08-17T15:00:00Z",
+        "e": "2026-08-17T17:00:00Z",
+        "d": null,
+        "j": "Rainy Day Fund",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Scratcha",
-        "s": "2026-08-10T14:00:00Z",
-        "e": "2026-08-10T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Sharnie",
         "s": "2026-08-10T16:00:00Z",
@@ -2188,24 +2180,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Club Mycélium",
-        "s": "2026-08-10T14:00:00Z",
-        "e": "2026-08-10T15:00:00Z",
-        "d": null,
-        "j": "Réenraciner les musiques électroniques avec Tina Tornade et Nana Buluku",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "SOA420",
-        "s": "2026-08-10T15:00:00Z",
-        "e": "2026-08-10T16:00:00Z",
-        "d": null,
-        "j": "The Four Twenty Radio Show",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Amal",
         "s": "2026-08-10T16:00:00Z",
