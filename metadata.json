@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-10T09:07:58.830Z",
+  "updated": "2026-08-10T10:58:43.892Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-08-10T09:00:00+01:00",
-        "e": "2026-08-10T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-10th-august-2026",
-        "t": "regular"
-      },
       {
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-08-10T11:00:00+01:00",
@@ -25,13 +16,13 @@
         "n": "PATRICK FORGE",
         "s": "2026-08-10T13:00:00+01:00",
         "e": "2026-08-10T15:00:00+01:00",
-        "d": null,
+        "d": "Tropical rhythms, devotional boogie and soulful shenanigans with a heavy jazz undertone, Patrick Forge gathers it all up for your listening pleasure.\nFrom the Host: \"A very soulful show!\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/patrickforge/episodes/patrickforge-10th-august-2026",
         "t": "monthly"
       },
       {
-        "n": "DACTYLIAN & PALO SANTO DISCOS",
+        "n": "PALO SANTO DISCOS",
         "s": "2026-08-10T15:00:00+01:00",
         "e": "2026-08-10T16:00:00+01:00",
         "d": null,
@@ -39,7 +30,7 @@
         "u": null
       },
       {
-        "n": "FROM THE DEPTHS W/ DRAKEFORD",
+        "n": "FROM THE DEPTHS W/ DRAKEFORD: Don Cherry's 'Organic Music'",
         "s": "2026-08-10T16:00:00+01:00",
         "e": "2026-08-10T18:00:00+01:00",
         "d": null,
@@ -162,33 +153,32 @@
         "j": "FLO",
         "u": null,
         "t": "regular"
+      },
+      {
+        "n": "SOUP TO NUTS W/ CHARLIE SATSUMAS",
+        "s": "2026-08-11T11:00:00+01:00",
+        "e": "2026-08-11T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Kiefer (R)",
-        "s": "2026-08-10T10:00:00+01:00",
-        "e": "2026-08-10T11:00:00+01:00",
-        "d": "LA pianist and beatmaker Kiefer shares his monthly selection of beats and jazz.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/kiefer/episodes/kiefer-16th-august-2017",
-        "t": "restream"
-      },
-      {
         "n": "AN1MA w/ MOLINARO",
         "s": "2026-08-10T11:00:00+01:00",
         "e": "2026-08-10T12:00:00+01:00",
-        "d": null,
+        "d": "integration sounds from the source; an invitation into the shadow.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-10th-august-2026"
       },
       {
         "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL",
         "s": "2026-08-10T12:00:00+01:00",
         "e": "2026-08-10T13:00:00+01:00",
-        "d": null,
+        "d": "Zzzzzzzzzzzz… Shhhh… There's a baby sleeping in the house!",
         "j": "YAWNING PORTAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/under-sleepy-moon/episodes/under-sleepy-moon-10th-august-2026",
         "t": "monthly"
       },
       {
@@ -200,7 +190,7 @@
         "u": null
       },
       {
-        "n": "CXEMA",
+        "n": "CXEMA w/ Oleksii Podat",
         "s": "2026-08-10T14:00:00+01:00",
         "e": "2026-08-10T15:00:00+01:00",
         "d": null,
@@ -234,7 +224,7 @@
         "t": "monthly"
       },
       {
-        "n": "THE LAVENDER KITE AUDIO RESEARCH HOUR",
+        "n": "THE LAVENDER KITE AUDIO RESEARCH HOUR w/ broadcast+",
         "s": "2026-08-10T19:00:00+01:00",
         "e": "2026-08-10T20:00:00+01:00",
         "d": null,
@@ -242,7 +232,7 @@
         "u": null
       },
       {
-        "n": "BO NINGEN",
+        "n": "BO NINGEN - Almost Everyday",
         "s": "2026-08-10T20:00:00+01:00",
         "e": "2026-08-10T21:00:00+01:00",
         "d": null,
@@ -307,18 +297,27 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-08-10T09:00:00Z",
-        "e": "2026-08-10T10:00:00Z",
+        "n": "LIVING GATLATO (R)",
+        "s": "2026-08-11T04:00:00+01:00",
+        "e": "2026-08-11T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream"
       },
+      {
+        "n": "Altered Soul Experiment (R)",
+        "s": "2026-08-11T05:00:00+01:00",
+        "e": "2026-08-11T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "syncop8",
         "s": "2026-08-10T10:00:00Z",
@@ -1425,6 +1424,15 @@
         "j": "Komanche",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Sweet Things w/ PXLTERGEIST",
+        "s": "2026-08-17T10:00:00Z",
+        "e": "2026-08-17T11:00:00Z",
+        "d": null,
+        "j": "PXLTERGEIST",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -2213,15 +2221,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-10T07:00:00Z",
-        "e": "2026-08-10T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-10T10:00:00Z",
