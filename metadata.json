@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-10T01:02:53.242Z",
+  "updated": "2026-08-10T03:44:02.308Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Mosca (R)",
-        "s": "2026-08-10T02:00:00+01:00",
-        "e": "2026-08-10T04:00:00+01:00",
-        "d": "Mosca runs underground club music inspired by tunes from all over: dub, house, techno, grime and jungle, as well as East coast hip hop, South African house, Shaolin soul, indie and post-rock from his youth, first-wave electro, stripped down ragga and dancehall, a little minimal ghetto stuff, and more. On top of that he's racked up some pretty big guest mixes in past shows. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mosca/episodes/mosca-4th-february-2015",
-        "t": "restream"
-      },
       {
         "n": "Elena Colombi (R)",
         "s": "2026-08-10T04:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "DOING TIME  (R)",
         "s": "2026-08-10T05:00:00+01:00",
         "e": "2026-08-10T07:00:00+01:00",
-        "d": null,
+        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-24th-may-2026",
         "t": "restream"
       },
       {
@@ -162,43 +153,34 @@
         "j": "Tristan Allen",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "FINE (R)",
+        "s": "2026-08-11T05:00:00+01:00",
+        "e": "2026-08-11T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "Mishka (R)",
-        "s": "2026-08-10T02:00:00+01:00",
-        "e": "2026-08-10T03:00:00+01:00",
-        "d": "An auditory exploration with SF native Mishka ranging from synth pop and balearic to softrock and global dance gems. One hour, once a month, with love.\nFrom the host: \"Fergus Jones is a Scottish artist living and working in Copenhagen. He also runs FELT, an independent record label and event series.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mishka/episodes/mishka-30th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "SOFAY & RIBEKA (R)",
-        "s": "2026-08-10T03:00:00+01:00",
-        "e": "2026-08-10T04:00:00+01:00",
-        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-15th-july-2025",
-        "t": "restream"
-      },
-      {
         "n": "BLAZER SOUND SYSTEM (R)",
         "s": "2026-08-10T04:00:00+01:00",
         "e": "2026-08-10T05:00:00+01:00",
-        "d": null,
+        "d": "NYC's Blazer Sound System bring the heat once a month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/blazer-sound-system/episodes/blazer-sound-system-26th-march-2019",
         "t": "restream"
       },
       {
         "n": "Tafelmusik w/ Francesco Fusaro (R)",
         "s": "2026-08-10T05:00:00+01:00",
         "e": "2026-08-10T07:00:00+01:00",
-        "d": null,
+        "d": "Francesco Fusaro, the man behind MFZ Records and classical music recording series 19'40'', brings a considered and varied selection of baroque, classical and contemporary music for a full two hours each month.",
         "j": "Francesco Fusaro",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/francesco-fusaro/episodes/francesco-fusaro-5th-july-2025",
         "t": "restream"
       },
       {
@@ -318,26 +300,35 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Sean Ross",
-        "s": "2026-08-10T01:00:00Z",
-        "e": "2026-08-10T02:00:00Z",
+        "n": "DEBBIESTHUGLIFE",
+        "s": "2026-08-10T23:00:00+01:00",
+        "e": "2026-08-11T00:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "K-SHA",
-        "s": "2026-08-10T02:00:00Z",
-        "e": "2026-08-10T03:00:00Z",
+        "n": "POPSTAR BENNY",
+        "s": "2026-08-11T00:00:00+01:00",
+        "e": "2026-08-11T01:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
+      }
+    ],
+    "subtle": [
+      {
+        "n": "Subtle Selects",
+        "s": "2026-08-10T03:00:00Z",
+        "e": "2026-08-10T04:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "5p3c141",
@@ -1418,18 +1409,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "McAllister and Kyle Art Threat - Please and Thank You",
-        "s": "2026-08-10T01:00:00Z",
-        "e": "2026-08-10T03:00:00Z",
+        "n": " LowNotes presents: Low Frequencies",
+        "s": "2026-08-17T02:00:00Z",
+        "e": "2026-08-17T03:00:00Z",
         "d": null,
-        "j": "Please and Thank You",
+        "j": "Low Frequencies",
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Dub Den Records",
+        "s": "2026-08-17T03:00:00Z",
+        "e": "2026-08-17T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "DMM - Loosely Attached",
         "s": "2026-08-10T03:00:00Z",
@@ -1963,6 +1963,15 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Jackie Stewart - Fantastica",
+        "s": "2026-08-17T03:00:00Z",
+        "e": "2026-08-17T05:00:00Z",
+        "d": null,
+        "j": "Fantastica",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
@@ -2325,15 +2334,6 @@
     "newtown": [],
     "sutro": [
       {
-        "n": "Interwoven",
-        "s": "2026-08-10T00:00:00Z",
-        "e": "2026-08-10T02:00:00Z",
-        "d": null,
-        "j": "In Bloom",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "The Witching Hour",
         "s": "2026-08-10T02:00:00Z",
         "e": "2026-08-10T04:00:00Z",
@@ -2635,6 +2635,15 @@
         "e": "2026-09-07T06:00:00Z",
         "d": null,
         "j": "Kosmik",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "What's The Game?",
+        "s": "2026-09-10T03:00:00Z",
+        "e": "2026-09-10T05:00:00Z",
+        "d": null,
+        "j": "Matthew Paul",
         "u": null,
         "t": "monthly"
       }
