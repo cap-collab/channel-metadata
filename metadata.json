@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-10T05:16:56.959Z",
+  "updated": "2026-08-10T07:12:33.601Z",
   "stations": {
     "nts1": [
-      {
-        "n": "DOING TIME  (R)",
-        "s": "2026-08-10T05:00:00+01:00",
-        "e": "2026-08-10T07:00:00+01:00",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-24th-may-2026",
-        "t": "restream"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
         "s": "2026-08-10T07:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-08-10T09:00:00+01:00",
         "e": "2026-08-10T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-10th-august-2026",
         "t": "regular"
       },
       {
@@ -162,18 +153,18 @@
         "j": "Astral Vibes",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
+        "s": "2026-08-11T07:00:00+01:00",
+        "e": "2026-08-11T09:00:00+01:00",
+        "d": null,
+        "j": "MARIA SOMERVILLE",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "Tafelmusik w/ Francesco Fusaro (R)",
-        "s": "2026-08-10T05:00:00+01:00",
-        "e": "2026-08-10T07:00:00+01:00",
-        "d": "Francesco Fusaro, the man behind MFZ Records and classical music recording series 19'40'', brings a considered and varied selection of baroque, classical and contemporary music for a full two hours each month.",
-        "j": "Francesco Fusaro",
-        "u": "https://www.nts.live/api/v2/shows/francesco-fusaro/episodes/francesco-fusaro-5th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "IN FOCUS: CHEIKHA RIMITTI (R)",
         "s": "2026-08-10T07:00:00+01:00",
@@ -187,9 +178,9 @@
         "n": "Homeshake (R)",
         "s": "2026-08-10T09:00:00+01:00",
         "e": "2026-08-10T10:00:00+01:00",
-        "d": null,
+        "d": "Cheeky slacker selections from everyone's favourite - Homeshake. Kick back. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/homeshake/episodes/homeshake-25th-november-2020",
         "t": "restream"
       },
       {
@@ -318,6 +309,14 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "FINE-TUNE W/ Michael Seyer",
+        "s": "2026-08-11T02:00:00+01:00",
+        "e": "2026-08-11T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
@@ -1427,13 +1426,22 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Liquid Daybreak",
+        "s": "2026-08-17T07:00:00Z",
+        "e": "2026-08-17T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-10T05:00:00Z",
-        "e": "2026-08-10T07:00:00Z",
+        "s": "2026-08-10T07:00:00Z",
+        "e": "2026-08-10T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1441,8 +1449,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-10T07:00:00Z",
-        "e": "2026-08-10T09:00:00Z",
+        "s": "2026-08-10T09:00:00Z",
+        "e": "2026-08-10T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1985,15 +1993,6 @@
     ],
     "rinse": [
       {
-        "n": "DJ Plead",
-        "s": "2026-08-10T05:00:00Z",
-        "e": "2026-08-10T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Playlist",
         "s": "2026-08-10T06:00:00Z",
         "e": "2026-08-10T09:00:00Z",
@@ -2235,15 +2234,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-09T19:00:00Z",
-        "e": "2026-08-10T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-10T07:00:00Z",
         "e": "2026-08-10T10:00:00Z",
         "d": null,
@@ -2261,9 +2251,97 @@
         "t": "playlist"
       },
       {
-        "n": "Ohjeelo",
+        "n": "Queer Cult",
         "s": "2026-08-10T12:00:00Z",
         "e": "2026-08-10T13:00:00Z",
+        "d": null,
+        "j": "In The Studio : DJ Monique avec Akinola Davies",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Lysiane N.",
+        "s": "2026-08-10T13:00:00Z",
+        "e": "2026-08-10T14:00:00Z",
+        "d": null,
+        "j": "Dedicace au Groove",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Club Mycélium",
+        "s": "2026-08-10T14:00:00Z",
+        "e": "2026-08-10T15:00:00Z",
+        "d": null,
+        "j": "Réenraciner les musiques électroniques avec Tina Tornade et Nana Buluku",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "SOA420",
+        "s": "2026-08-10T15:00:00Z",
+        "e": "2026-08-10T16:00:00Z",
+        "d": null,
+        "j": "The Four Twenty Radio Show",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Amal",
+        "s": "2026-08-10T16:00:00Z",
+        "e": "2026-08-10T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Aspen",
+        "s": "2026-08-10T17:00:00Z",
+        "e": "2026-08-10T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Bait",
+        "s": "2026-08-10T18:00:00Z",
+        "e": "2026-08-10T19:00:00Z",
+        "d": null,
+        "j": "présente Manami (100% production mix)",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-10T19:00:00Z",
+        "e": "2026-08-11T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-11T07:00:00Z",
+        "e": "2026-08-11T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-11T10:00:00Z",
+        "e": "2026-08-11T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Ohjeelo",
+        "s": "2026-08-11T12:00:00Z",
+        "e": "2026-08-11T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2271,16 +2349,16 @@
       },
       {
         "n": "Rebequita",
-        "s": "2026-08-10T13:00:00Z",
-        "e": "2026-08-10T14:00:00Z",
+        "s": "2026-08-11T13:00:00Z",
+        "e": "2026-08-11T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Louise Pétrouchka",
-        "s": "2026-08-10T14:00:00Z",
-        "e": "2026-08-10T15:00:00Z",
+        "s": "2026-08-11T14:00:00Z",
+        "e": "2026-08-11T15:00:00Z",
         "d": null,
         "j": "Double Tap avec Kokoprisci",
         "u": null,
@@ -2288,8 +2366,8 @@
       },
       {
         "n": "Souzo",
-        "s": "2026-08-10T15:00:00Z",
-        "e": "2026-08-10T16:00:00Z",
+        "s": "2026-08-11T15:00:00Z",
+        "e": "2026-08-11T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2297,8 +2375,8 @@
       },
       {
         "n": "Souzo",
-        "s": "2026-08-10T16:00:00Z",
-        "e": "2026-08-10T17:00:00Z",
+        "s": "2026-08-11T16:00:00Z",
+        "e": "2026-08-11T17:00:00Z",
         "d": null,
         "j": "invite Azamat B.",
         "u": null,
@@ -2306,8 +2384,8 @@
       },
       {
         "n": "Rama",
-        "s": "2026-08-10T17:00:00Z",
-        "e": "2026-08-10T18:00:00Z",
+        "s": "2026-08-11T17:00:00Z",
+        "e": "2026-08-11T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2315,16 +2393,16 @@
       },
       {
         "n": "TEMƎT",
-        "s": "2026-08-10T18:00:00Z",
-        "e": "2026-08-10T19:00:00Z",
+        "s": "2026-08-11T18:00:00Z",
+        "e": "2026-08-11T19:00:00Z",
         "d": null,
         "j": "Less-O",
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-10T19:00:00Z",
-        "e": "2026-08-10T20:00:00Z",
+        "s": "2026-08-11T19:00:00Z",
+        "e": "2026-08-11T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
