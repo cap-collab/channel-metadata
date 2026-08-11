@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-11T08:44:16.625Z",
+  "updated": "2026-08-11T10:42:03.392Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-08-11T09:00:00+01:00",
-        "e": "2026-08-11T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-11th-august-2026",
-        "t": "regular"
-      },
       {
         "n": "SOUP TO NUTS W/ CHARLIE SATSUMAS",
         "s": "2026-08-11T11:00:00+01:00",
@@ -24,9 +15,10 @@
         "n": "Tropic of Love w/ Mafalda",
         "s": "2026-08-11T13:00:00+01:00",
         "e": "2026-08-11T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Vibrant eclecticism from Portuguese selector Mafalda, for two hours every month. ",
+        "j": "Mafalda",
+        "u": "https://www.nts.live/api/v2/shows/mafalda/episodes/mafalda-11th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "Self Soothe w/ Margeaux",
@@ -159,42 +151,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "TEST PRESSING",
+        "s": "2026-08-12T15:00:00+01:00",
+        "e": "2026-08-12T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "The Head Zone w/ Ripley Johnson (R)",
-        "s": "2026-08-11T09:00:00+01:00",
-        "e": "2026-08-11T10:00:00+01:00",
-        "d": "Step into The Head Zone - one hour of musical selections from the mind of Moon Duo's Ripley Johnson.",
-        "j": "Ripley Johnson",
-        "u": "https://www.nts.live/api/v2/shows/moon-duo/episodes/moon-duo-22nd-august-2024",
-        "t": "restream"
-      },
-      {
-        "n": "PLAY IT AS IT LATHES W/ ZACH COWIE (R)",
-        "s": "2026-08-11T10:00:00+01:00",
-        "e": "2026-08-11T11:00:00+01:00",
-        "d": "Zach Cowie - former record label guy & DJ turned music supervisor. Every month Zach lays down a vinyl-only one hour mix of ambient, experimental, folk, psych and jazz records with Play It As It Lathes.",
-        "j": "ZACH COWIE",
-        "u": "https://www.nts.live/api/v2/shows/zach-cowie/episodes/play-it-as-it-lathes-zach-cowie-23rd-march-2018",
-        "t": "restream"
-      },
-      {
         "n": "Worlds Only",
         "s": "2026-08-11T11:00:00+01:00",
         "e": "2026-08-11T12:00:00+01:00",
-        "d": null,
+        "d": "Sydney via Barcelona band present an hour of collabs, unreleased material, remixes and inspirations for their “transient ambience” sonic style.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/worlds-only-11th-august-2026"
       },
       {
         "n": "KATIE SHANNON",
         "s": "2026-08-11T12:00:00+01:00",
         "e": "2026-08-11T13:00:00+01:00",
-        "d": null,
+        "d": "Artist Katie Shannon brings a series of thematic shows; connections between people, place and sound with a strong focus on DIY music cultures.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/katie-shannon/episodes/katie-shannon-11th-august-2026"
       },
       {
         "n": "SOFAY AND RIBEKA",
@@ -234,6 +217,14 @@
         "n": "Omari Lyseight",
         "s": "2026-08-11T17:00:00+01:00",
         "e": "2026-08-11T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Pretty Sick Summer 26",
+        "s": "2026-08-11T18:00:00+01:00",
+        "e": "2026-08-11T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
@@ -289,11 +280,11 @@
         "u": null
       },
       {
-        "n": "In Focus: Outkast (R)",
+        "n": "In Focus: Quincy Jones (R)",
         "s": "2026-08-12T01:00:00+01:00",
         "e": "2026-08-12T03:00:00+01:00",
         "d": null,
-        "j": "Outkast",
+        "j": "Quincy Jones",
         "u": null,
         "t": "restream"
       },
@@ -313,27 +304,18 @@
         "j": "Brian Vidal",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "ECTOTHERM W/ LIA & TRED (R)",
+        "s": "2026-08-12T05:00:00+01:00",
+        "e": "2026-08-12T06:00:00+01:00",
+        "d": null,
+        "j": "LIA & TRED",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Gingerly",
-        "s": "2026-08-11T08:00:00Z",
-        "e": "2026-08-11T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-08-11T09:00:00Z",
-        "e": "2026-08-11T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Lucidik ",
         "s": "2026-08-11T10:00:00Z",
@@ -1440,13 +1422,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Albert Moon",
+        "s": "2026-08-18T09:00:00Z",
+        "e": "2026-08-18T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": " Ovrtic",
+        "s": "2026-08-18T10:00:00Z",
+        "e": "2026-08-18T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-11T07:00:00Z",
-        "e": "2026-08-11T09:00:00Z",
+        "s": "2026-08-11T09:00:00Z",
+        "e": "2026-08-11T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1454,8 +1454,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-11T09:00:00Z",
-        "e": "2026-08-11T11:00:00Z",
+        "s": "2026-08-11T11:00:00Z",
+        "e": "2026-08-11T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2006,15 +2006,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-08-11T06:00:00Z",
-        "e": "2026-08-11T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Papaoul",
         "s": "2026-08-11T09:00:00Z",
         "e": "2026-08-11T11:00:00Z",
@@ -2046,7 +2037,7 @@
         "s": "2026-08-11T13:00:00Z",
         "e": "2026-08-11T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "TONE RARRI",
         "u": null,
         "t": "biweekly"
       },
@@ -2060,7 +2051,7 @@
         "t": "weekly"
       },
       {
-        "n": "FIFI",
+        "n": "Heatstroke with Fifi",
         "s": "2026-08-11T16:00:00Z",
         "e": "2026-08-11T17:00:00Z",
         "d": null,
@@ -2082,7 +2073,7 @@
         "s": "2026-08-11T18:00:00Z",
         "e": "2026-08-11T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Regular Fantasy",
         "u": null,
         "t": "monthly"
       },
@@ -2242,15 +2233,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-11T07:00:00Z",
-        "e": "2026-08-11T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-11T10:00:00Z",
