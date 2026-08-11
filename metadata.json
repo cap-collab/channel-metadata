@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-11T12:42:39.676Z",
+  "updated": "2026-08-11T14:50:25.006Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Tropic of Love w/ Mafalda",
-        "s": "2026-08-11T13:00:00+01:00",
-        "e": "2026-08-11T15:00:00+01:00",
-        "d": "Vibrant eclecticism from Portuguese selector Mafalda, for two hours every month. ",
-        "j": "Mafalda",
-        "u": "https://www.nts.live/api/v2/shows/mafalda/episodes/mafalda-11th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-08-11T15:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "REBE",
         "s": "2026-08-11T16:00:00+01:00",
         "e": "2026-08-11T17:00:00+01:00",
-        "d": null,
+        "d": "Rebe, \"the only official Princess of Spain\", hijacks the radio, Playing Romanian and Spanish folk, flamenco pop, soundtracks, originals and many more mysteries. Radio-Rebe, Radio-Ready’s worst nightmare.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/rebe/episodes/rebe-11th-august-2026"
       },
       {
         "n": "JENNIFER WALTON",
@@ -66,7 +57,7 @@
         "t": "monthly"
       },
       {
-        "n": "MIDNITE MADNESS",
+        "n": "A Fist in the Face of God presents: Midnite Madness, obituary CCXV - Dimension of Fear",
         "s": "2026-08-12T00:00:00+01:00",
         "e": "2026-08-12T01:00:00+01:00",
         "d": null,
@@ -160,42 +151,34 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "PEACH",
+        "s": "2026-08-12T18:00:00+01:00",
+        "e": "2026-08-12T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "SOFAY AND RIBEKA",
-        "s": "2026-08-11T13:00:00+01:00",
-        "e": "2026-08-11T14:00:00+01:00",
-        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-11th-august-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Vanilla Glint w/ Dj Cinco de mayo & Gustavio",
-        "s": "2026-08-11T14:00:00+01:00",
-        "e": "2026-08-11T15:00:00+01:00",
-        "d": "Into a new sonic universe, blending tropical ambient soundscapes with dancehall and hip hop in a regular hour from Gustavio Koslowski.\nFrom the host: \"Vanilla Glint 4th episode welcomes Dj Cinco de mayo, my dear neighbor from Paris 13th arrondissement and also one of my biggest inspiration in terms of mixing and editing sounds\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gustavio-koslowski/episodes/gustavio-koslowski-11th-august-2026"
-      },
-      {
         "n": "SKINNY GIRL DIET",
         "s": "2026-08-11T15:00:00+01:00",
         "e": "2026-08-11T16:00:00+01:00",
-        "d": null,
+        "d": "Skinny Girl Diet are London's foremost riot grrrl duo. Delilah Holliday and Ursula Holliday. Post-punk, glam, garage and all things nice… or something like that.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/skinny-girl-diet/episodes/skinny-girl-diet-11th-august-2026",
         "t": "monthly"
       },
       {
         "n": "TUESDAY TRIPS w/ NAHHG",
         "s": "2026-08-11T16:00:00+01:00",
         "e": "2026-08-11T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "NahhG hosts Tuesday Trips, exploring the different sounds of underground beats and hip-hop alongside special guest mixes from current beatmakers and curators. - Live once a month\nFrom the host: \"Celebrating 10 years of Tuesday Trips and the end of summer, here's another upbeat mix to get you moving.\"",
+        "j": "NAHHG",
+        "u": "https://www.nts.live/api/v2/shows/tuesday-trips/episodes/tuesday-trips-11th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "Omari Lyseight",
@@ -315,26 +298,35 @@
         "j": "Mark",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "CONE",
-        "s": "2026-08-11T12:00:00Z",
-        "e": "2026-08-11T13:00:00Z",
+        "n": "RAGA VIBRATIONS (R)",
+        "s": "2026-08-12T09:00:00+01:00",
+        "e": "2026-08-12T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Natalia Panzer",
+        "s": "2026-08-12T11:00:00+01:00",
+        "e": "2026-08-12T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "subtle": [
       {
-        "n": "luwi won",
-        "s": "2026-08-11T13:00:00Z",
-        "e": "2026-08-11T14:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-08-11T14:00:00Z",
+        "e": "2026-08-11T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "playlist"
       },
       {
         "n": "Tayzwurld",
@@ -1433,18 +1425,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-08-11T11:00:00Z",
-        "e": "2026-08-11T13:00:00Z",
+        "n": "Launcher",
+        "s": "2026-08-18T13:00:00Z",
+        "e": "2026-08-18T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "Seah",
+        "s": "2026-08-18T14:00:00Z",
+        "e": "2026-08-18T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "sounds of NOW",
         "s": "2026-08-11T13:00:00Z",
@@ -1999,24 +2000,6 @@
     ],
     "rinse": [
       {
-        "n": "Meena Sears",
-        "s": "2026-08-11T12:00:00Z",
-        "e": "2026-08-11T13:00:00Z",
-        "d": null,
-        "j": "Marcia Carr",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "HABITAT",
-        "s": "2026-08-11T13:00:00Z",
-        "e": "2026-08-11T14:00:00Z",
-        "d": null,
-        "j": "TONE RARRI",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Brighter Days Family",
         "s": "2026-08-11T14:00:00Z",
         "e": "2026-08-11T16:00:00Z",
@@ -2208,24 +2191,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Ohjeelo",
-        "s": "2026-08-11T12:00:00Z",
-        "e": "2026-08-11T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Rebequita",
-        "s": "2026-08-11T13:00:00Z",
-        "e": "2026-08-11T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Louise Pétrouchka",
         "s": "2026-08-11T14:00:00Z",
