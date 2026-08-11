@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-11T10:42:03.392Z",
+  "updated": "2026-08-11T12:42:39.676Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ CHARLIE SATSUMAS",
-        "s": "2026-08-11T11:00:00+01:00",
-        "e": "2026-08-11T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-11th-august-2026"
-      },
       {
         "n": "Tropic of Love w/ Mafalda",
         "s": "2026-08-11T13:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-08-11T15:00:00+01:00",
         "e": "2026-08-11T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-11th-august-2026",
         "t": "weekly"
       },
       {
@@ -160,41 +152,33 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Ashley Gill",
+        "s": "2026-08-12T17:00:00+01:00",
+        "e": "2026-08-12T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Worlds Only",
-        "s": "2026-08-11T11:00:00+01:00",
-        "e": "2026-08-11T12:00:00+01:00",
-        "d": "Sydney via Barcelona band present an hour of collabs, unreleased material, remixes and inspirations for their “transient ambience” sonic style.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/worlds-only-11th-august-2026"
-      },
-      {
-        "n": "KATIE SHANNON",
-        "s": "2026-08-11T12:00:00+01:00",
-        "e": "2026-08-11T13:00:00+01:00",
-        "d": "Artist Katie Shannon brings a series of thematic shows; connections between people, place and sound with a strong focus on DIY music cultures.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/katie-shannon/episodes/katie-shannon-11th-august-2026"
-      },
-      {
         "n": "SOFAY AND RIBEKA",
         "s": "2026-08-11T13:00:00+01:00",
         "e": "2026-08-11T14:00:00+01:00",
-        "d": null,
+        "d": "Regular transmissions from two of Glasgow's most idiosyncratic & knowledgable DJs.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sofay-ribeka/episodes/sofay-ribeka-11th-august-2026",
         "t": "monthly"
       },
       {
         "n": "Vanilla Glint w/ Dj Cinco de mayo & Gustavio",
         "s": "2026-08-11T14:00:00+01:00",
         "e": "2026-08-11T15:00:00+01:00",
-        "d": null,
+        "d": "Into a new sonic universe, blending tropical ambient soundscapes with dancehall and hip hop in a regular hour from Gustavio Koslowski.\nFrom the host: \"Vanilla Glint 4th episode welcomes Dj Cinco de mayo, my dear neighbor from Paris 13th arrondissement and also one of my biggest inspiration in terms of mixing and editing sounds\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/gustavio-koslowski/episodes/gustavio-koslowski-11th-august-2026"
       },
       {
         "n": "SKINNY GIRL DIET",
@@ -313,27 +297,27 @@
         "j": "LIA & TRED",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Pacing The Platform w/ upsammy (R)",
+        "s": "2026-08-12T07:00:00+01:00",
+        "e": "2026-08-12T08:00:00+01:00",
+        "d": null,
+        "j": "upsammy",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "True As Few w/ Mark (R)",
+        "s": "2026-08-12T08:00:00+01:00",
+        "e": "2026-08-12T09:00:00+01:00",
+        "d": null,
+        "j": "Mark",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Lucidik ",
-        "s": "2026-08-11T10:00:00Z",
-        "e": "2026-08-11T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Radio Roshy",
-        "s": "2026-08-11T11:00:00Z",
-        "e": "2026-08-11T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "CONE",
         "s": "2026-08-11T12:00:00Z",
@@ -1440,13 +1424,22 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "drisk",
+        "s": "2026-08-18T12:00:00Z",
+        "e": "2026-08-18T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-11T09:00:00Z",
-        "e": "2026-08-11T11:00:00Z",
+        "s": "2026-08-11T11:00:00Z",
+        "e": "2026-08-11T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1454,8 +1447,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-11T11:00:00Z",
-        "e": "2026-08-11T13:00:00Z",
+        "s": "2026-08-11T13:00:00Z",
+        "e": "2026-08-11T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2006,24 +1999,6 @@
     ],
     "rinse": [
       {
-        "n": "Papaoul",
-        "s": "2026-08-11T09:00:00Z",
-        "e": "2026-08-11T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Jordan Mae",
-        "s": "2026-08-11T11:00:00Z",
-        "e": "2026-08-11T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Meena Sears",
         "s": "2026-08-11T12:00:00Z",
         "e": "2026-08-11T13:00:00Z",
@@ -2233,15 +2208,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-11T10:00:00Z",
-        "e": "2026-08-11T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Ohjeelo",
         "s": "2026-08-11T12:00:00Z",
