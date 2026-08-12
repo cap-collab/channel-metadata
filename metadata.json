@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-12T05:26:02.769Z",
+  "updated": "2026-08-12T07:09:53.560Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ORGANIC MUSIC TOKYO W/ CHEE SHIMIZU",
-        "s": "2026-08-12T06:00:00+01:00",
-        "e": "2026-08-12T07:00:00+01:00",
-        "d": "The man behind Tokyo's revered Organic Music record store takes to the airwaves for a monthly 60 minute journey through his extensive collection…",
-        "j": "CHEE SHIMIZU",
-        "u": "https://www.nts.live/api/v2/shows/organic-music/episodes/organic-music-12th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "THE EARLY BIRD SHOW W/ SPIRIT BLUE",
         "s": "2026-08-12T07:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-08-12T09:00:00+01:00",
         "e": "2026-08-12T11:00:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-12th-august-2026",
         "t": "regular"
       },
       {
@@ -156,43 +147,34 @@
         "j": "FLO",
         "u": null,
         "t": "regular"
+      },
+      {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN",
+        "s": "2026-08-13T10:45:00+01:00",
+        "e": "2026-08-13T13:00:00+01:00",
+        "d": null,
+        "j": "BABYSCHÖN",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "ILLSEE (R)",
-        "s": "2026-08-12T06:00:00+01:00",
-        "e": "2026-08-12T07:00:00+01:00",
-        "d": "Shanghai DJ and promoter Illsee (known for her parties Aqualung, Synth Crush, and Cosign) presents an hour of precision-tooled machine funk, industrial oddities, mangled club tracks, melodramatic ambient and pop, dispatches from the Chinese underground, and more.\nFrom the host: \"It's a mixture of many things I enjoy, as usual. I had no idea it would turn out like this.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/illsee/episodes/illsee-28th-november-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Pacing The Platform w/ upsammy (R)",
-        "s": "2026-08-12T07:00:00+01:00",
-        "e": "2026-08-12T08:00:00+01:00",
-        "d": "Rising Dutch producer + DJ Upsammy brings her ear for crystalline melody and intricate rhythm to the NTS airwaves for adventurous and narrative mixes once a month. ",
-        "j": "upsammy",
-        "u": "https://www.nts.live/api/v2/shows/upsammy/episodes/upsammy-19th-march-2026",
-        "t": "restream"
-      },
-      {
         "n": "True As Few w/ Mark (R)",
         "s": "2026-08-12T08:00:00+01:00",
         "e": "2026-08-12T09:00:00+01:00",
-        "d": null,
+        "d": "This month's show is dedicated entirely to Toru Takemitsu's soundtrack for Hiroshi Teshigahara's 1984 documentary about Antonio Gaudi, showing Takemitsu's orchestral, abstract and for-picture sensibilities working together to full effect.  ",
         "j": "Mark",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/true-as-few/episodes/true-as-few-24th-june-2025",
         "t": "restream"
       },
       {
         "n": "RAGA VIBRATIONS (R)",
         "s": "2026-08-12T09:00:00+01:00",
         "e": "2026-08-12T11:00:00+01:00",
-        "d": null,
+        "d": "\"Raga Vibrations\" is a monthly selection of Indian music curated by Greg Davis.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/raga-vibrations/episodes/raga-vibrations-16th-march-2024",
         "t": "restream"
       },
       {
@@ -312,6 +294,22 @@
         "n": "La Cosecha Internacional - Cuerno De Chivo w/ XOLO",
         "s": "2026-08-13T02:00:00+01:00",
         "e": "2026-08-13T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Candy w/ Vinyl Conflict",
+        "s": "2026-08-13T03:00:00+01:00",
+        "e": "2026-08-13T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Rambo Radio - SACTOWN RAP! w/ 12manrambo",
+        "s": "2026-08-13T04:00:00+01:00",
+        "e": "2026-08-13T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
@@ -1433,22 +1431,40 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "J.TRIPP - DWELL TIME",
-        "s": "2026-08-12T05:00:00Z",
-        "e": "2026-08-12T07:00:00Z",
+        "n": "SJH",
+        "s": "2026-08-19T06:00:00Z",
+        "e": "2026-08-19T07:00:00Z",
         "d": null,
-        "j": "DWELL TIME",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
       {
+        "n": "BLACK SHEEP RADIO by LEFTY",
+        "s": "2026-08-19T07:00:00Z",
+        "e": "2026-08-19T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
+      {
         "n": "sounds of NOW",
         "s": "2026-08-12T07:00:00Z",
         "e": "2026-08-12T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-12T09:00:00Z",
+        "e": "2026-08-12T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1992,15 +2008,6 @@
     ],
     "rinse": [
       {
-        "n": "Braga Circuit",
-        "s": "2026-08-12T05:00:00Z",
-        "e": "2026-08-12T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Playlist",
         "s": "2026-08-12T06:00:00Z",
         "e": "2026-08-12T09:00:00Z",
@@ -2248,15 +2255,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-11T19:00:00Z",
-        "e": "2026-08-12T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-12T07:00:00Z",
         "e": "2026-08-12T10:00:00Z",
         "d": null,
@@ -2274,9 +2272,87 @@
         "t": "playlist"
       },
       {
-        "n": "Mystique",
+        "n": "Charlie 3000",
         "s": "2026-08-12T12:00:00Z",
-        "e": "2026-08-12T13:00:00Z",
+        "e": "2026-08-12T14:00:00Z",
+        "d": null,
+        "j": "Mind Like Blue special",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "La Mamie's",
+        "s": "2026-08-12T14:00:00Z",
+        "e": "2026-08-12T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Triple G Records",
+        "s": "2026-08-12T15:00:00Z",
+        "e": "2026-08-12T16:00:00Z",
+        "d": null,
+        "j": "present Lefblom",
+        "u": null
+      },
+      {
+        "n": "Gillie",
+        "s": "2026-08-12T16:00:00Z",
+        "e": "2026-08-12T17:00:00Z",
+        "d": null,
+        "j": "100% Production Mix",
+        "u": null
+      },
+      {
+        "n": "Otto Diva",
+        "s": "2026-08-12T17:00:00Z",
+        "e": "2026-08-12T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Imer6ia",
+        "s": "2026-08-12T18:00:00Z",
+        "e": "2026-08-12T19:00:00Z",
+        "d": null,
+        "j": "WOMAN'S DAY",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-12T19:00:00Z",
+        "e": "2026-08-13T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-13T07:00:00Z",
+        "e": "2026-08-13T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-13T10:00:00Z",
+        "e": "2026-08-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Mystique",
+        "s": "2026-08-13T12:00:00Z",
+        "e": "2026-08-13T13:00:00Z",
         "d": null,
         "j": "MURDA ON THE DANCEFLOOR: 100% CHARLOMANTI",
         "u": null,
@@ -2284,8 +2360,8 @@
       },
       {
         "n": "Flegon",
-        "s": "2026-08-12T13:00:00Z",
-        "e": "2026-08-12T14:00:00Z",
+        "s": "2026-08-13T13:00:00Z",
+        "e": "2026-08-13T14:00:00Z",
         "d": null,
         "j": "Rap FR (2023-2025)",
         "u": null,
@@ -2293,8 +2369,8 @@
       },
       {
         "n": "ASIAN CORE",
-        "s": "2026-08-12T14:00:00Z",
-        "e": "2026-08-12T15:00:00Z",
+        "s": "2026-08-13T14:00:00Z",
+        "e": "2026-08-13T15:00:00Z",
         "d": null,
         "j": "INVITE Tracy De Sá",
         "u": null,
@@ -2302,40 +2378,40 @@
       },
       {
         "n": "Miss Sheitana",
-        "s": "2026-08-12T15:00:00Z",
-        "e": "2026-08-12T16:00:00Z",
+        "s": "2026-08-13T15:00:00Z",
+        "e": "2026-08-13T16:00:00Z",
         "d": null,
         "j": "& renoiterrible invite Pr1nc1p3ss4",
         "u": null
       },
       {
         "n": "LE MOM",
-        "s": "2026-08-12T16:00:00Z",
-        "e": "2026-08-12T17:00:00Z",
+        "s": "2026-08-13T16:00:00Z",
+        "e": "2026-08-13T17:00:00Z",
         "d": null,
         "j": "B2B MAGO",
         "u": null
       },
       {
         "n": "1-800-BOOTY",
-        "s": "2026-08-12T17:00:00Z",
-        "e": "2026-08-12T18:00:00Z",
+        "s": "2026-08-13T17:00:00Z",
+        "e": "2026-08-13T18:00:00Z",
         "d": null,
         "j": "PRESENTS : BANKLAADY, calamity, TSIP & jonas alexander",
         "u": null
       },
       {
         "n": "Anaco",
-        "s": "2026-08-12T18:00:00Z",
-        "e": "2026-08-12T19:00:00Z",
+        "s": "2026-08-13T18:00:00Z",
+        "e": "2026-08-13T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "2much",
-        "s": "2026-08-12T19:00:00Z",
-        "e": "2026-08-12T20:00:00Z",
+        "s": "2026-08-13T19:00:00Z",
+        "e": "2026-08-13T20:00:00Z",
         "d": null,
         "j": "invite Jacidorex",
         "u": null,
@@ -2343,8 +2419,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-12T20:00:00Z",
-        "e": "2026-08-12T21:00:00Z",
+        "s": "2026-08-13T20:00:00Z",
+        "e": "2026-08-13T21:00:00Z",
         "d": null,
         "j": null,
         "u": null,
