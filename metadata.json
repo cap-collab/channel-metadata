@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-12T14:50:23.526Z",
+  "updated": "2026-08-12T16:47:22.034Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TEST PRESSING",
-        "s": "2026-08-12T15:00:00+01:00",
-        "e": "2026-08-12T17:00:00+01:00",
-        "d": "Apiento, a.k.a Paul Byrne runs the invaluable Test Pressing blog and releases music on World Building, World Unknown and more. His show has that esoteric techno thing and whatever suits the mood…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/test-pressing/episodes/test-pressing-12th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "Ashley Gill",
         "s": "2026-08-12T17:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "PEACH",
         "s": "2026-08-12T18:00:00+01:00",
         "e": "2026-08-12T19:00:00+01:00",
-        "d": null,
+        "d": "The snack enthusiast and London based producer and DJ takes on the NTS airwaves. Stay tuned for mixes spanning the breadth of dance and club music.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/peach/episodes/peach-12th-august-2026"
       },
       {
         "n": "MINA w/ BLCK Stream - Kumasi Takeover",
@@ -70,12 +61,22 @@
         "u": null
       },
       {
-        "n": "DARIA KOLOSOVA",
+        "n": "BLUE TRIO RADIO W/ FULL BODY 2 (R)",
         "s": "2026-08-13T00:00:00+01:00",
         "e": "2026-08-13T01:00:00+01:00",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "FULL BODY 2",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "7038634357: VIRGINIA RAIN (R)",
+        "s": "2026-08-13T01:00:00+01:00",
+        "e": "2026-08-13T02:00:00+01:00",
+        "d": null,
+        "j": "VIRGINIA RAIN",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "NTS GUIDE TO: THE MUSIC OF BASQUIAT (R)",
@@ -103,6 +104,15 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "The Early Bird Show w/ CARLA DAL FORNO",
+        "s": "2026-08-13T07:00:00+01:00",
+        "e": "2026-08-13T09:00:00+01:00",
+        "d": null,
+        "j": "CARLA DAL FORNO",
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
@@ -166,38 +176,21 @@
     ],
     "nts2": [
       {
-        "n": "ARUSHI JAIN",
-        "s": "2026-08-12T15:00:00+01:00",
-        "e": "2026-08-12T16:00:00+01:00",
-        "d": "All-genre NTS monthly by New York–based, New Delhi–born Arushi Jain fka modularprincess",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ghunghru/episodes/ghunghru-12th-august-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ZEL ZELE W/ GIORTENSIA",
-        "s": "2026-08-12T16:00:00+01:00",
-        "e": "2026-08-12T17:00:00+01:00",
-        "d": "London & Istanbul based record label Zel Zele takes us on a monthly ride to earthly wonders and cosmic adventures. Bite the lip take the trip!\nFrom the host: \"GiortensiA shares an hour of music featuring their recently released single ‘Duemila E Venticinque’ and tracks from their upcoming EP ‘Il Tamigi A Parigi’ on  along with unreleased cuts and inspirations.\"",
-        "j": "GIORTENSIA",
-        "u": "https://www.nts.live/api/v2/shows/zel-zele/episodes/zel-zele-12th-august-2026",
-        "t": "monthly"
-      },
-      {
         "n": "MILKWEED",
         "s": "2026-08-12T17:00:00+01:00",
         "e": "2026-08-12T18:00:00+01:00",
-        "d": null,
+        "d": "Monthly wanderings in experimental folk, field recordings, and original music from UK slacker folk duo Milkweed. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/milkweed/episodes/milkweed-12th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "NTS GUIDE TO: CZECH TEAROOM AMBIENT (R)",
         "s": "2026-08-12T18:00:00+01:00",
         "e": "2026-08-12T19:00:00+01:00",
-        "d": null,
+        "d": "Tearooms in post-revolution Czechoslovakia symbolised places through which new spiritualities were flowing, and the influx of largely uncharted ways of life closely intertwined with new age, ambient, folk and minimalism. With their minds altered thanks to smuggled records by Fripp & Eno or Steve Reich, this loose network of musicians had begun composing meditative music, using loops and handmade instruments, with a different sensibility. Compared to the boisterous Zappa-adjacent and booze-soaked underground movement, which was led by Plastic People of the Universe and provoked the state authorities, this music was meant instead for tea rooms and spiritual sites like churches or monasteries, as if occupying some place where time flows anticlockwise. Music journalist Pavel Klusák dubbed this 1990s scene a “tearoom alternative”. Experimental folk singer Oldřich Janota, Jaroslav Kořán’s various ensembles like Modrá or Orloj Snivců (The Horologe of Dreamers) or Irena and Vojtěch Havlovi were drawn by the light and composed music that didn’t match the fast pace of newly imported capitalism.\nMix created by: Miloš Hroch",
         "j": "CZECH TEAROOM AMBIENT",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-tearoom-ambient-16th-june-2025",
         "t": "restream"
       },
       {
@@ -319,27 +312,26 @@
         "j": "Calvin LeCompte",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Westward Ho! w/ Ashley Wales",
+        "s": "2026-08-13T11:00:00+01:00",
+        "e": "2026-08-13T12:00:00+01:00",
+        "d": null,
+        "j": "Ashley Wales",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Conrad Standish",
+        "s": "2026-08-13T12:00:00+01:00",
+        "e": "2026-08-13T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": " Bleached Club",
-        "s": "2026-08-12T14:00:00Z",
-        "e": "2026-08-12T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Benz",
-        "s": "2026-08-12T15:00:00Z",
-        "e": "2026-08-12T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Jo.hana",
         "s": "2026-08-12T16:00:00Z",
@@ -1446,18 +1438,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "sounds of NOW",
-        "s": "2026-08-12T13:00:00Z",
-        "e": "2026-08-12T15:00:00Z",
+        "n": " Gilbo",
+        "s": "2026-08-19T15:00:00Z",
+        "e": "2026-08-19T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "MixRaw",
+        "s": "2026-08-19T16:00:00Z",
+        "e": "2026-08-19T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "The Urxed - Seeing It As You Really Are",
         "s": "2026-08-12T15:00:00Z",
@@ -1992,18 +1993,18 @@
         "j": "Optical Track",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Teen Daze - Easy Listening",
+        "s": "2026-08-19T15:00:00Z",
+        "e": "2026-08-19T17:00:00Z",
+        "d": null,
+        "j": "Easy Listening",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Utopia Presents",
-        "s": "2026-08-12T14:00:00Z",
-        "e": "2026-08-12T16:00:00Z",
-        "d": null,
-        "j": "Ayanna Heaven",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "DJ Love",
         "s": "2026-08-12T16:00:00Z",
@@ -2106,7 +2107,7 @@
         "s": "2026-08-13T11:00:00Z",
         "e": "2026-08-13T12:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Sean Innit",
         "u": null,
         "t": "monthly"
       },
@@ -2115,7 +2116,7 @@
         "s": "2026-08-13T12:00:00Z",
         "e": "2026-08-13T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Dexta Daps",
         "u": null,
         "t": "weekly"
       },
@@ -2124,7 +2125,7 @@
         "s": "2026-08-13T13:00:00Z",
         "e": "2026-08-13T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Summer Holiday",
         "u": null,
         "t": "biweekly"
       },
@@ -2199,23 +2200,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "La Mamie's",
-        "s": "2026-08-12T14:00:00Z",
-        "e": "2026-08-12T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Triple G Records",
-        "s": "2026-08-12T15:00:00Z",
-        "e": "2026-08-12T16:00:00Z",
-        "d": null,
-        "j": "present Lefblom",
-        "u": null
-      },
       {
         "n": "Gillie",
         "s": "2026-08-12T16:00:00Z",
