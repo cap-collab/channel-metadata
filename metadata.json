@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-13T18:50:04.406Z",
+  "updated": "2026-08-13T20:31:53.611Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SCARY THINGS",
-        "s": "2026-08-13T18:00:00+01:00",
-        "e": "2026-08-13T20:00:00+01:00",
-        "d": "Digga D and 67's DJ Bempah & JK hosts Scary Things, inviting a rotating cast of the best MCs and DJs in UK drill into the studio every other week. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/scary-things/episodes/scary-things-13th-august-2026",
-        "t": "biweekly"
-      },
       {
         "n": "THE TIM & BARRY SHOW",
         "s": "2026-08-13T20:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "SNOWMALIS PRESENTS: SAHN",
         "s": "2026-08-13T22:00:00+01:00",
         "e": "2026-08-13T23:00:00+01:00",
-        "d": null,
+        "d": "Crew inside for Twin Cities artist Sahn’s debut NTS guest show, playing a stack of original music from himself and friends.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sahn-13th-august-2026"
       },
       {
         "n": "EASTERN MARGINS w/ 劣：垃圾场8城巡演回魂",
@@ -164,41 +155,33 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "PLATOS COMBINADOS W/ JOE COTCH",
+        "s": "2026-08-14T19:00:00+01:00",
+        "e": "2026-08-14T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Homunkuli w/ Lena Willikens",
-        "s": "2026-08-13T19:00:00+01:00",
-        "e": "2026-08-13T20:00:00+01:00",
-        "d": "New explorations in sounds from one of the most esteemed selectors in Europe, Lena Willikens. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/homunkuli/episodes/homunkuli-13th-august-2026"
-      },
-      {
-        "n": "TEMPORAL COVE w/ Adeleine",
-        "s": "2026-08-13T20:00:00+01:00",
-        "e": "2026-08-13T21:00:00+01:00",
-        "d": "From the host: \"smilegoth invites adeleine - a project by New York based painter and friend Kyler Garrison for a special guest mix on Temporal cove - 1 hour adeleine mix.\"\n\"a collection of songs and sounds to illustrate the melancholic atmosphere of the trees, the ocean, the wind, the temporal cove.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/temporal-cove/episodes/temporal-cove-13th-august-2026"
-      },
-      {
         "n": "SARA A (R)",
         "s": "2026-08-13T21:00:00+01:00",
         "e": "2026-08-13T22:00:00+01:00",
-        "d": null,
+        "d": "Lesser heard sounds with a focus on femmes in punk from artist and musician Sara A.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-14th-november-2025",
         "t": "restream"
       },
       {
         "n": "Forager Records: Lonely Man's Dream Premiere",
         "s": "2026-08-13T22:00:00+01:00",
         "e": "2026-08-13T23:00:00+01:00",
-        "d": null,
+        "d": "Forager Records is a Los Angeles based record label, committed to unearthing and breathing new life into rare and under appreciated sounds from the past.\nFrom the host: \"This month on Forager Records, we’re premiering Lonely Man’s Dream, our 10th release in full. We’ll also be sharing some of the music and stories surrounding the record.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/forager-records/episodes/forager-records-13th-august-2026"
       },
       {
         "n": "Brown Acid Trippin' w/ Lance Barresi & DJ Tara Dactyl",
@@ -321,27 +304,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Say Less",
-        "s": "2026-08-13T17:00:00Z",
-        "e": "2026-08-13T19:00:00Z",
+        "n": "Starcleaner Reunion",
+        "s": "2026-08-14T16:00:00+01:00",
+        "e": "2026-08-14T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ANDY BUTLER",
+        "s": "2026-08-14T17:00:00+01:00",
+        "e": "2026-08-14T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-08-13T19:00:00Z",
-        "e": "2026-08-13T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
+      }
+    ],
+    "subtle": [
       {
         "n": "D-Code & Psylence",
         "s": "2026-08-13T20:00:00Z",
@@ -1466,18 +1448,27 @@
         "j": "Niceup",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "EDICA+ - Dub & Effection",
-        "s": "2026-08-13T17:00:00Z",
-        "e": "2026-08-13T19:00:00Z",
+        "n": "SCALADE",
+        "s": "2026-08-20T19:00:00Z",
+        "e": "2026-08-20T20:00:00Z",
         "d": null,
-        "j": "Dub & Effection",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "DJ Jedah ",
+        "s": "2026-08-20T20:00:00Z",
+        "e": "2026-08-20T21:00:00Z",
+        "d": "Jedah started DJ'ing at the tender age of 18 years of age specialising in UK Garage/Grime. \r\n\r\nJedah is currently the DJ for Grime Original Hollowman Jendor of the former Grime Collective Essentials/ OG's.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Jimmy Tamborello - Dying Songs",
         "s": "2026-08-13T19:00:00Z",
@@ -2034,26 +2025,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Jimmy Tamborello - Dying Songs",
+        "s": "2026-08-20T19:00:00Z",
+        "e": "2026-08-20T21:00:00Z",
+        "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
+        "j": "Dying Songs",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "rinse": [
-      {
-        "n": "Mr. Redley",
-        "s": "2026-08-13T18:00:00Z",
-        "e": "2026-08-13T19:00:00Z",
-        "d": null,
-        "j": "Live from Rinse Summer Series 2026",
-        "u": null
-      },
-      {
-        "n": "LILA",
-        "s": "2026-08-13T19:00:00Z",
-        "e": "2026-08-13T20:00:00Z",
-        "d": null,
-        "j": "Live from Rinse Summer Series 2026",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Scotti Dee",
         "s": "2026-08-13T20:00:00Z",
@@ -2207,24 +2190,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Anaco",
-        "s": "2026-08-13T18:00:00Z",
-        "e": "2026-08-13T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "2much",
-        "s": "2026-08-13T19:00:00Z",
-        "e": "2026-08-13T20:00:00Z",
-        "d": null,
-        "j": "invite Jacidorex",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-13T20:00:00Z",
@@ -2655,6 +2620,15 @@
         "e": "2026-09-13T04:00:00Z",
         "d": null,
         "j": "Mechanica & TMFD",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Inner Mono",
+        "s": "2026-09-13T20:00:00Z",
+        "e": "2026-09-13T21:00:00Z",
+        "d": null,
+        "j": null,
         "u": null,
         "t": "monthly"
       }
