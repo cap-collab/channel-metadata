@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-13T04:01:21.245Z",
+  "updated": "2026-08-13T07:13:43.243Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Doing Time (R)",
-        "s": "2026-08-13T05:00:00+01:00",
-        "e": "2026-08-13T07:00:00+01:00",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-7th-december-2025",
-        "t": "restream"
-      },
       {
         "n": "The Early Bird Show w/ CARLA DAL FORNO",
         "s": "2026-08-13T07:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-08-13T09:00:00+01:00",
         "e": "2026-08-13T10:45:00+01:00",
-        "d": null,
+        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
         "j": "FLO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-13th-august-2026",
         "t": "regular"
       },
       {
@@ -156,43 +147,33 @@
         "j": "JACK ROLLO",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "The NTS Breakfast Show w/ CHEB MIMO",
+        "s": "2026-08-14T09:00:00+01:00",
+        "e": "2026-08-14T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Otaku: Beserk (R)",
-        "s": "2026-08-13T05:00:00+01:00",
-        "e": "2026-08-13T06:00:00+01:00",
-        "d": "Soundtrack selections from the cult anime series Berserk, featuring compositions from Susumu Hirasawa and Shiro Sagisu. ",
-        "j": "Beserk",
-        "u": "https://www.nts.live/api/v2/shows/otaku/episodes/otaku-berserk-9th-february-2026",
-        "t": "restream"
-      },
-      {
-        "n": "King Britt Presents: Transmissions (R)",
-        "s": "2026-08-13T06:00:00+01:00",
-        "e": "2026-08-13T07:00:00+01:00",
-        "d": "\"Centering The Center, is a sonic moment in the midst of global chaos. I needed to center myself using frequencies that make me feel good and I hope that it helps you in your journey thru the madness” - King Britt ",
-        "j": "Transmissions",
-        "u": "https://www.nts.live/api/v2/shows/king-britt-presents-transmissions/episodes/king-britt-14th-july-2020",
-        "t": "restream"
-      },
-      {
         "n": "NTS Guide to: Modern Classical Piano (R)",
         "s": "2026-08-13T07:00:00+01:00",
         "e": "2026-08-13T09:00:00+01:00",
-        "d": null,
+        "d": "An overview of modern classical solo piano recordings, from the 1970s to the present day. Selected and mixed by DJ Sundae. ",
         "j": "Modern Classical Piano",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-modern-classical-piano-18th-january-2026",
         "t": "restream"
       },
       {
         "n": "Shukai (R)",
         "s": "2026-08-13T09:00:00+01:00",
         "e": "2026-08-13T10:00:00+01:00",
-        "d": null,
+        "d": "A unique dip into the musical history of Ukraine with archival label Shukai, journeying back to the ‘90s, playing music from documentaries, sci-fi films, obscure cartoons and late-night music programming, curated by Dmytro Nikolaienko, Dmytro Prutkin and Alec Tsapenko.\nFrom the host: \"Step inside the sonic laboratory of Soviet Ukraine’s Kyivnaukfilm (Eng: Kyiv Science Film, active years 1941-1993) studio — a workshop where composers and sound designers crafted scores for documentary, science, education, and animation films. From eerie synth textures to inventive tape collages, these rare recordings (1967–1990) reveal a secret world of avant-garde music created under censorship yet brimming with experiments.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/shukai/episodes/shukai-24th-september-2025",
         "t": "restream"
       },
       {
@@ -312,18 +293,27 @@
         "j": "Lance Barresi & DJ Tara Dactyl",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Subtle Selects",
-        "s": "2026-08-13T04:00:00Z",
-        "e": "2026-08-13T07:00:00Z",
+        "n": "Mishka  (R)",
+        "s": "2026-08-14T00:00:00+01:00",
+        "e": "2026-08-14T01:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "restream"
       },
+      {
+        "n": "Abiu (R)",
+        "s": "2026-08-14T01:00:00+01:00",
+        "e": "2026-08-14T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Making Hay w/ natdav",
         "s": "2026-08-13T07:00:00Z",
@@ -1439,26 +1429,35 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Psychogeography",
+        "s": "2026-08-20T06:00:00Z",
+        "e": "2026-08-20T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Rusty Santos - Microworlds",
-        "s": "2026-08-13T03:00:00Z",
-        "e": "2026-08-13T05:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-08-13T06:00:00Z",
+        "e": "2026-08-13T08:00:00Z",
         "d": null,
-        "j": "Microworlds",
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
-        "n": "Laura Shumate - Indoor Cats",
-        "s": "2026-08-13T05:00:00Z",
-        "e": "2026-08-13T06:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-08-13T08:00:00Z",
+        "e": "2026-08-13T10:00:00Z",
         "d": null,
-        "j": "Indoor Cats",
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "LARAAJI and OUT THERE",
@@ -2002,27 +2001,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Richard Chartier – between two points",
+        "s": "2026-08-20T05:00:00Z",
+        "e": "2026-08-20T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Electronic Playlist",
-        "s": "2026-08-13T01:00:00Z",
-        "e": "2026-08-13T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Jordan Mae",
-        "s": "2026-08-13T05:00:00Z",
-        "e": "2026-08-13T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Playlist",
         "s": "2026-08-13T06:00:00Z",
@@ -2267,15 +2257,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-12T20:00:00Z",
-        "e": "2026-08-13T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-13T07:00:00Z",
         "e": "2026-08-13T10:00:00Z",
         "d": null,
@@ -2293,61 +2274,78 @@
         "t": "playlist"
       },
       {
-        "n": "Zohar",
+        "n": "Mystique",
         "s": "2026-08-13T12:00:00Z",
-        "e": "2026-08-13T14:00:00Z",
+        "e": "2026-08-13T13:00:00Z",
         "d": null,
-        "j": "Nothing Here Now w/ Pessimist",
-        "u": null
+        "j": "MURDA ON THE DANCEFLOOR: 100% CHARLOMANTI",
+        "u": null,
+        "t": "monthly"
       },
       {
-        "n": "Sentaku",
+        "n": "Flegon",
+        "s": "2026-08-13T13:00:00Z",
+        "e": "2026-08-13T14:00:00Z",
+        "d": null,
+        "j": "Rap FR (2023-2025)",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ASIAN CORE",
         "s": "2026-08-13T14:00:00Z",
         "e": "2026-08-13T15:00:00Z",
         "d": null,
-        "j": "Ill Spleen",
+        "j": "INVITE Tracy De Sá",
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
-        "n": "Louis Roméo",
+        "n": "Miss Sheitana",
         "s": "2026-08-13T15:00:00Z",
         "e": "2026-08-13T16:00:00Z",
         "d": null,
-        "j": "Romeoradio : The Neptunes special",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Lorkestra",
-        "s": "2026-08-13T16:00:00Z",
-        "e": "2026-08-13T17:00:00Z",
-        "d": null,
-        "j": "présente Secret Gems Show avec Yung Singh",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Mel V",
-        "s": "2026-08-13T17:00:00Z",
-        "e": "2026-08-13T18:00:00Z",
-        "d": null,
-        "j": null,
+        "j": "& renoiterrible invite Pr1nc1p3ss4",
         "u": null
       },
       {
-        "n": "Kokoprisci",
+        "n": "LE MOM",
+        "s": "2026-08-13T16:00:00Z",
+        "e": "2026-08-13T17:00:00Z",
+        "d": null,
+        "j": "B2B MAGO",
+        "u": null
+      },
+      {
+        "n": "1-800-BOOTY",
+        "s": "2026-08-13T17:00:00Z",
+        "e": "2026-08-13T18:00:00Z",
+        "d": null,
+        "j": "PRESENTS : BANKLAADY, calamity, TSIP & jonas alexander",
+        "u": null
+      },
+      {
+        "n": "Anaco",
         "s": "2026-08-13T18:00:00Z",
         "e": "2026-08-13T19:00:00Z",
         "d": null,
-        "j": "The Koko Show avec Yoko Ûno",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Playlist France",
+        "n": "2much",
         "s": "2026-08-13T19:00:00Z",
         "e": "2026-08-13T20:00:00Z",
+        "d": null,
+        "j": "invite Jacidorex",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-13T20:00:00Z",
+        "e": "2026-08-14T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2355,8 +2353,78 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-13T20:00:00Z",
-        "e": "2026-08-13T21:00:00Z",
+        "s": "2026-08-14T07:00:00Z",
+        "e": "2026-08-14T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-14T10:00:00Z",
+        "e": "2026-08-14T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Zohar",
+        "s": "2026-08-14T12:00:00Z",
+        "e": "2026-08-14T14:00:00Z",
+        "d": null,
+        "j": "Nothing Here Now w/ Pessimist",
+        "u": null
+      },
+      {
+        "n": "Sentaku",
+        "s": "2026-08-14T14:00:00Z",
+        "e": "2026-08-14T15:00:00Z",
+        "d": null,
+        "j": "Ill Spleen",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Louis Roméo",
+        "s": "2026-08-14T15:00:00Z",
+        "e": "2026-08-14T16:00:00Z",
+        "d": null,
+        "j": "Romeoradio : The Neptunes special",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Lorkestra",
+        "s": "2026-08-14T16:00:00Z",
+        "e": "2026-08-14T17:00:00Z",
+        "d": null,
+        "j": "présente Secret Gems Show avec Yung Singh",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Mel V",
+        "s": "2026-08-14T17:00:00Z",
+        "e": "2026-08-14T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Kokoprisci",
+        "s": "2026-08-14T18:00:00Z",
+        "e": "2026-08-14T19:00:00Z",
+        "d": null,
+        "j": "The Koko Show avec Yoko Ûno",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-14T19:00:00Z",
+        "e": "2026-08-14T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2365,15 +2433,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "What's The Game?",
-        "s": "2026-08-13T03:00:00Z",
-        "e": "2026-08-13T05:00:00Z",
-        "d": null,
-        "j": "Matthew Paul",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Avant Gardens",
         "s": "2026-08-13T22:00:00Z",
@@ -2470,7 +2529,8 @@
         "e": "2026-08-24T03:00:00Z",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "Modern Speech",
