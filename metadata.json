@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-13T09:03:19.477Z",
+  "updated": "2026-08-13T10:53:49.996Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-08-13T09:00:00+01:00",
-        "e": "2026-08-13T10:45:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-13th-august-2026",
-        "t": "regular"
-      },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-08-13T10:45:00+01:00",
@@ -22,12 +13,21 @@
         "t": "weekly"
       },
       {
+        "n": "SOUP TO NUTS W/ BABYSCHÖN & ANDREA DAMA",
+        "s": "2026-08-13T11:00:00+01:00",
+        "e": "2026-08-13T13:00:00+01:00",
+        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-13th-august-2026"
+      },
+      {
         "n": "SHANTI CELESTE",
         "s": "2026-08-13T13:00:00+01:00",
         "e": "2026-08-13T15:00:00+01:00",
-        "d": null,
+        "d": "Shanti is a veteran and expert in four to the floor dance music - tune in once a month for a considered two-hour selection of the best house and techno around, transmitting direct from the NTS studio.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/shanticeleste/episodes/shanticeleste-13th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "SITUATIONSHIP W/ JENNY CARA",
@@ -154,18 +154,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Kianna",
+        "s": "2026-08-14T13:00:00+01:00",
+        "e": "2026-08-14T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "The Uline Catalog w/ Calvin LeCompte (R)",
-        "s": "2026-08-13T10:00:00+01:00",
-        "e": "2026-08-13T11:00:00+01:00",
-        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
-        "j": "Calvin LeCompte",
-        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-15th-march-2024",
-        "t": "restream"
-      },
       {
         "n": "Westward Ho! w/ Ashley Wales",
         "s": "2026-08-13T11:00:00+01:00",
@@ -179,9 +178,10 @@
         "n": "Conrad Standish",
         "s": "2026-08-13T12:00:00+01:00",
         "e": "2026-08-13T13:00:00+01:00",
-        "d": null,
+        "d": "Bi-monthly worm-holing from Melbourne’s Conrad Standish, wandering deep and free…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/conrad-standish/episodes/conrad-standish-13th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "THE NUMERO GROUP - August Again",
@@ -305,6 +305,14 @@
         "n": "Foreign Hour — Sounds of South Africa (live in DTLA)",
         "s": "2026-08-14T03:00:00+01:00",
         "e": "2026-08-14T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CDMX Tapes w/ DINA & Cybebe",
+        "s": "2026-08-14T04:00:00+01:00",
+        "e": "2026-08-14T06:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
@@ -1435,13 +1443,22 @@
         "j": "Su",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Housekeeping",
+        "s": "2026-08-20T10:00:00Z",
+        "e": "2026-08-20T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-13T08:00:00Z",
-        "e": "2026-08-13T10:00:00Z",
+        "s": "2026-08-13T10:00:00Z",
+        "e": "2026-08-13T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1449,8 +1466,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-13T10:00:00Z",
-        "e": "2026-08-13T12:00:00Z",
+        "s": "2026-08-13T12:00:00Z",
+        "e": "2026-08-13T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2243,15 +2260,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-13T07:00:00Z",
-        "e": "2026-08-13T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-13T10:00:00Z",
