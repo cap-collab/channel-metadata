@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-14T10:49:45.497Z",
+  "updated": "2026-08-14T12:42:50.680Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Soup To Nuts w/ Tash LC",
-        "s": "2026-08-14T11:00:00+01:00",
-        "e": "2026-08-14T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-tash-lc-14th-august-2026"
-      },
       {
         "n": "Kianna",
         "s": "2026-08-14T13:00:00+01:00",
@@ -23,9 +15,9 @@
         "n": "¥ØU$UK€ ¥UK1MAT$U: 100% The Prodigy Mix",
         "s": "2026-08-14T14:00:00+01:00",
         "e": "2026-08-14T15:00:00+01:00",
-        "d": null,
+        "d": "One of the world’s most exciting DJs, Osaka’s Yousuke Yukimatsu celebrates the legacy of The Prodigy with a tribute mix recorded live in the NTS studio. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/yousuke-yukimatsu-14th-august-2026"
       },
       {
         "n": "COURTESY",
@@ -95,13 +87,12 @@
         "t": "monthly"
       },
       {
-        "n": "SPINEE",
+        "n": "SPINEE w/ Princess Elf Bar",
         "s": "2026-08-15T00:00:00+01:00",
         "e": "2026-08-15T01:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "MALA JUNTA W/ VERUSHKA (R)",
@@ -156,18 +147,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "LUNG DART (R)",
+        "s": "2026-08-15T07:00:00+01:00",
+        "e": "2026-08-15T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "In Focus: Cecil Taylor",
-        "s": "2026-08-14T11:00:00+01:00",
-        "e": "2026-08-14T13:00:00+01:00",
-        "d": "Soon after he first emerged in the mid-’50s, pianist Cecil Taylor was the most advanced improviser in jazz; five decades later he is still the most radical. Although in his early days he used some standards as vehicles for improvisation, since the early ’60s Taylor has stuck exclusively to originals. To simplify describing his style, one could say that Taylor’s intense atonal percussive approach involves playing the piano as if it were a set of drums. He generally emphasizes dense clusters of sound played with remarkable technique and endurance, often during marathon performances. Suffice it to say that Cecil Taylor’s music is not for everyone.\" - Blue Note\nCreated by Claire Rousay",
-        "j": "Cecil Taylor",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-cecil-taylor-14th-august-2026",
-        "t": "weekly"
-      },
       {
         "n": "FERVENT MOON",
         "s": "2026-08-14T13:00:00+01:00",
@@ -181,9 +172,9 @@
         "n": "June McDoom",
         "s": "2026-08-14T14:00:00+01:00",
         "e": "2026-08-14T15:00:00+01:00",
-        "d": null,
+        "d": "New York based neo-folk songwriter June McDoom takes over for regular trips into vintage folk, reggae, soul, experimental sounds and more.\nFrom the host: \"This show features songs that inspired the making of June's new single \"Without You,\" off of her upcoming album \"Follow the Light\".\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/june-mcdoom/episodes/june-mcdoom-14th-august-2026",
         "t": "monthly"
       },
       {
@@ -218,6 +209,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Futuro Ancestral  w/ Antropoceno - Abya Yala",
+        "s": "2026-08-14T19:00:00+01:00",
+        "e": "2026-08-14T20:00:00+01:00",
+        "d": null,
+        "j": "Antropoceno",
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "CONFUSING MIX W/ JOSH DA COSTA",
@@ -318,22 +318,13 @@
     ],
     "subtle": [
       {
-        "n": "Tom Ferrare",
-        "s": "2026-08-14T10:00:00Z",
-        "e": "2026-08-14T11:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-08-14T12:00:00Z",
+        "e": "2026-08-14T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Electrolytes with Joly",
-        "s": "2026-08-14T11:00:00Z",
-        "e": "2026-08-14T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "Sauce Collective ",
@@ -1441,13 +1432,22 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Gwero b2b Nightshade",
+        "s": "2026-08-21T11:00:00Z",
+        "e": "2026-08-21T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-14T09:00:00Z",
-        "e": "2026-08-14T11:00:00Z",
+        "s": "2026-08-14T11:00:00Z",
+        "e": "2026-08-14T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1455,8 +1455,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-14T11:00:00Z",
-        "e": "2026-08-14T13:00:00Z",
+        "s": "2026-08-14T13:00:00Z",
+        "e": "2026-08-14T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2169,7 +2169,7 @@
         "s": "2026-08-15T17:00:00Z",
         "e": "2026-08-15T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B Jeshi",
         "u": null,
         "t": "biweekly"
       },
@@ -2204,21 +2204,12 @@
         "s": "2026-08-15T22:00:00Z",
         "e": "2026-08-15T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Rinse Summer Series 2026",
         "u": null,
         "t": "biweekly"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-14T10:00:00Z",
-        "e": "2026-08-14T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Zohar",
         "s": "2026-08-14T12:00:00Z",
