@@ -1,33 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-08-14T05:27:40.963Z",
+  "updated": "2026-08-14T07:10:12.139Z",
   "stations": {
     "nts1": [
       {
-        "n": "SOPHIA ZHURAVKOVA (R)",
-        "s": "2026-08-14T06:00:00+01:00",
-        "e": "2026-08-14T07:00:00+01:00",
-        "d": "Organic soundscapes, field recordings and melodic ambience from composer Sophia Zhuravkova.\nFrom the host: \"Podcast from guest multi-instrumentalist and an ambient and experimental musician, Jefre Cantu-Ledesma.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sophia-zhuravkova/episodes/sophia-zhuravkova-30th-november-2025",
-        "t": "restream"
-      },
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & Visit Me (live)",
         "s": "2026-08-14T07:00:00+01:00",
         "e": "2026-08-14T09:00:00+01:00",
         "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": "JACK ROLLO",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-14th-august-2026",
-        "t": "biweekly"
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-14th-august-2026"
       },
       {
         "n": "The NTS Breakfast Show w/ CHEB MIMO",
         "s": "2026-08-14T09:00:00+01:00",
         "e": "2026-08-14T11:00:00+01:00",
-        "d": null,
+        "d": "Wake up with NTS…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-cheb-mimo-14th-august-2026"
       },
       {
         "n": "Soup To Nuts w/ Tash LC",
@@ -166,18 +156,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "POST-GEOGRAPHY (R)",
+        "s": "2026-08-15T05:00:00+01:00",
+        "e": "2026-08-15T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "ZULI (R)",
-        "s": "2026-08-14T06:00:00+01:00",
-        "e": "2026-08-14T08:00:00+01:00",
-        "d": "ZULI, experimental club producer and VENT co-founder hailing from Cairo hits the NTS airwaves to showcase his club wares: aggressively left-field.\nFrom the host: \n\"Hour 1: ZULI\nHour 2: Guest mix by Turkish composer and sound editor; Kaan Işık (fka Blank Wall Season)\n\"…a mix containing textural/gestural experiments within speculative rests and dynamics.\n1 hour of aural plethora constructed by cutting edge movements and un/shifting feelings\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ZULI/episodes/zuli-23rd-february-2026",
-        "t": "restream"
-      },
       {
         "n": "626 COMPANY RADIO (R)",
         "s": "2026-08-14T08:00:00+01:00",
@@ -191,9 +181,9 @@
         "n": "LYRA PRAMUK PRESENTS: POP.SOIL (R)",
         "s": "2026-08-14T09:00:00+01:00",
         "e": "2026-08-14T10:00:00+01:00",
-        "d": null,
+        "d": "pop.soil is Alif Hilal’s’s bimonthly series exploring catharsis, transformation, and healing through sonic storytelling.\nFrom the host \"A one-hour mix of unreleased Alif Hilal material, these intimate sketches of devotional electronic vocals are rooted in techno, trance, dub, and gospel.\"",
         "j": "POP.SOIL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lyra-pramuk/episodes/lyra-pramuk-21st-october-2025",
         "t": "restream"
       },
       {
@@ -323,6 +313,15 @@
         "e": "2026-08-15T03:00:00+01:00",
         "d": null,
         "j": "DJ Wawa",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Hood Rave x Dweller w/ FORCE PLACEMENT (R)",
+        "s": "2026-08-15T03:00:00+01:00",
+        "e": "2026-08-15T04:00:00+01:00",
+        "d": null,
+        "j": "FORCE PLACEMENT",
         "u": null,
         "t": "restream"
       }
@@ -1456,18 +1455,18 @@
     ],
     "dublab": [
       {
-        "n": "Alex Pelly - PELLYVISION",
-        "s": "2026-08-14T05:00:00Z",
-        "e": "2026-08-14T07:00:00Z",
-        "d": null,
-        "j": "PELLYVISION",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-08-14T07:00:00Z",
         "e": "2026-08-14T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-14T09:00:00Z",
+        "e": "2026-08-14T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2034,15 +2033,6 @@
     ],
     "rinse": [
       {
-        "n": "cu.rve",
-        "s": "2026-08-14T05:00:00Z",
-        "e": "2026-08-14T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Playlist",
         "s": "2026-08-14T06:00:00Z",
         "e": "2026-08-14T09:00:00Z",
@@ -2250,15 +2240,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-13T19:00:00Z",
-        "e": "2026-08-14T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-14T07:00:00Z",
         "e": "2026-08-14T10:00:00Z",
         "d": null,
@@ -2276,17 +2257,98 @@
         "t": "playlist"
       },
       {
-        "n": "Jim Irie",
+        "n": "Zohar",
         "s": "2026-08-14T12:00:00Z",
-        "e": "2026-08-14T13:00:00Z",
+        "e": "2026-08-14T14:00:00Z",
+        "d": null,
+        "j": "Nothing Here Now w/ Pessimist",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Sentaku",
+        "s": "2026-08-14T14:00:00Z",
+        "e": "2026-08-14T15:00:00Z",
+        "d": null,
+        "j": "Ill Spleen",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Louis Roméo",
+        "s": "2026-08-14T15:00:00Z",
+        "e": "2026-08-14T16:00:00Z",
+        "d": null,
+        "j": "Romeoradio : The Neptunes special",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Lorkestra",
+        "s": "2026-08-14T16:00:00Z",
+        "e": "2026-08-14T17:00:00Z",
+        "d": null,
+        "j": "présente Secret Gems Show avec Yung Singh",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Mel V",
+        "s": "2026-08-14T17:00:00Z",
+        "e": "2026-08-14T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Kokoprisci",
+        "s": "2026-08-14T18:00:00Z",
+        "e": "2026-08-14T19:00:00Z",
+        "d": null,
+        "j": "The Koko Show avec Yoko Ûno",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-14T19:00:00Z",
+        "e": "2026-08-15T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-15T07:00:00Z",
+        "e": "2026-08-15T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-15T10:00:00Z",
+        "e": "2026-08-15T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Jim Irie",
+        "s": "2026-08-15T12:00:00Z",
+        "e": "2026-08-15T13:00:00Z",
         "d": null,
         "j": "présente one love",
         "u": null
       },
       {
         "n": "Black Square Club",
-        "s": "2026-08-14T13:00:00Z",
-        "e": "2026-08-14T15:00:00Z",
+        "s": "2026-08-15T13:00:00Z",
+        "e": "2026-08-15T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2294,8 +2356,8 @@
       },
       {
         "n": "ElectrAfrique",
-        "s": "2026-08-14T15:00:00Z",
-        "e": "2026-08-14T16:00:00Z",
+        "s": "2026-08-15T15:00:00Z",
+        "e": "2026-08-15T16:00:00Z",
         "d": null,
         "j": "invite SPICE&CURLS",
         "u": null,
@@ -2303,16 +2365,16 @@
       },
       {
         "n": "AB DOLLARS",
-        "s": "2026-08-14T16:00:00Z",
-        "e": "2026-08-14T17:00:00Z",
+        "s": "2026-08-15T16:00:00Z",
+        "e": "2026-08-15T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Jokkoo Collective",
-        "s": "2026-08-14T17:00:00Z",
-        "e": "2026-08-14T18:00:00Z",
+        "s": "2026-08-15T17:00:00Z",
+        "e": "2026-08-15T18:00:00Z",
         "d": null,
         "j": "B4MBA - SPECIAL 100% SHATTA & DANCEHALL COLOMBIANO",
         "u": null,
@@ -2320,8 +2382,8 @@
       },
       {
         "n": "Nyege Nyege",
-        "s": "2026-08-14T18:00:00Z",
-        "e": "2026-08-14T19:00:00Z",
+        "s": "2026-08-15T18:00:00Z",
+        "e": "2026-08-15T19:00:00Z",
         "d": null,
         "j": "Azzi on the Beat",
         "u": null,
@@ -2329,8 +2391,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-14T19:00:00Z",
-        "e": "2026-08-14T20:00:00Z",
+        "s": "2026-08-15T19:00:00Z",
+        "e": "2026-08-15T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2339,15 +2401,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "TVOD",
-        "s": "2026-08-14T05:00:00Z",
-        "e": "2026-08-14T07:00:00Z",
-        "d": null,
-        "j": "Jason P",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Temple of Dreams",
         "s": "2026-08-15T03:00:00Z",
