@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-15T06:21:23.202Z",
+  "updated": "2026-08-15T08:16:31.455Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LUNG DART (R)",
-        "s": "2026-08-15T07:00:00+01:00",
-        "e": "2026-08-15T08:00:00+01:00",
-        "d": "Lung Dart take over the NTS airwaves every fourth Monday at 10pm. Playing chopped & screwed, ambient, pop, experimental and more.\nhttp://lungd.art/",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/lung-dart/episodes/lung-dart-14th-july-2025",
-        "t": "restream"
-      },
       {
         "n": "Nāda Sonic w/ Sway Of The Verses",
         "s": "2026-08-15T08:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ Macca & Manfredo Lament",
         "s": "2026-08-15T10:00:00+01:00",
         "e": "2026-08-15T12:00:00+01:00",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-15th-august-2026"
       },
       {
         "n": "DARE BALOGUN",
@@ -157,18 +148,18 @@
         "j": "French Rap & R&B",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "AN EVENING OF TWIN PEAKS (R)",
+        "s": "2026-08-16T07:00:00+01:00",
+        "e": "2026-08-16T08:30:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "Shells (R)",
-        "s": "2026-08-15T07:00:00+01:00",
-        "e": "2026-08-15T08:00:00+01:00",
-        "d": "Michigan selector Shells plays records and owns Ginkgo Records in Detroit. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ccc---shells/episodes/ccc---shells-27th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "Mint Condition (R)",
         "s": "2026-08-15T08:00:00+01:00",
@@ -182,9 +173,9 @@
         "n": "Leila Samir (R)",
         "s": "2026-08-15T10:00:00+01:00",
         "e": "2026-08-15T11:00:00+01:00",
-        "d": null,
+        "d": "London producer & DJ Leila Samir presents an hour every month. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/leila-samir/episodes/leila-samir-17th-november-2024",
         "t": "restream"
       },
       {
@@ -313,6 +304,15 @@
         "e": "2026-08-16T05:00:00+01:00",
         "d": null,
         "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "The NCA Show w/ Brassfoot (R)",
+        "s": "2026-08-16T05:00:00+01:00",
+        "e": "2026-08-16T06:00:00+01:00",
+        "d": null,
+        "j": "Brassfoot",
         "u": null,
         "t": "restream"
       }
@@ -1460,22 +1460,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "HOUSEWORK w/ CABLE",
+        "s": "2026-08-22T07:00:00Z",
+        "e": "2026-08-22T09:00:00Z",
+        "d": null,
+        "j": "CABLE",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "88 - Club Paradise",
-        "s": "2026-08-15T05:00:00Z",
-        "e": "2026-08-15T07:00:00Z",
-        "d": null,
-        "j": "Club Paradise",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-08-15T07:00:00Z",
         "e": "2026-08-15T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-15T09:00:00Z",
+        "e": "2026-08-15T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2002,18 +2011,18 @@
         "j": "Bears in Space",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-08-15T06:00:00Z",
-        "e": "2026-08-15T08:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-08-22T07:00:00Z",
+        "e": "2026-08-22T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Breakfast with DJ Polo",
         "s": "2026-08-15T08:00:00Z",
@@ -2222,15 +2231,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-14T19:00:00Z",
-        "e": "2026-08-15T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-15T07:00:00Z",
         "e": "2026-08-15T10:00:00Z",
         "d": null,
@@ -2248,9 +2248,88 @@
         "t": "playlist"
       },
       {
-        "n": "JP MANO",
+        "n": "Jim Irie",
         "s": "2026-08-15T12:00:00Z",
-        "e": "2026-08-15T14:00:00Z",
+        "e": "2026-08-15T13:00:00Z",
+        "d": null,
+        "j": "présente one love",
+        "u": null
+      },
+      {
+        "n": "Black Square Club",
+        "s": "2026-08-15T13:00:00Z",
+        "e": "2026-08-15T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ElectrAfrique",
+        "s": "2026-08-15T15:00:00Z",
+        "e": "2026-08-15T16:00:00Z",
+        "d": null,
+        "j": "invite SPICE&CURLS",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "AB DOLLARS",
+        "s": "2026-08-15T16:00:00Z",
+        "e": "2026-08-15T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Jokkoo Collective",
+        "s": "2026-08-15T17:00:00Z",
+        "e": "2026-08-15T18:00:00Z",
+        "d": null,
+        "j": "B4MBA - SPECIAL 100% SHATTA & DANCEHALL COLOMBIANO",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Nyege Nyege",
+        "s": "2026-08-15T18:00:00Z",
+        "e": "2026-08-15T19:00:00Z",
+        "d": null,
+        "j": "Azzi on the Beat",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-15T19:00:00Z",
+        "e": "2026-08-16T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-16T07:00:00Z",
+        "e": "2026-08-16T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-16T10:00:00Z",
+        "e": "2026-08-16T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "JP MANO",
+        "s": "2026-08-16T12:00:00Z",
+        "e": "2026-08-16T14:00:00Z",
         "d": null,
         "j": "My Best Tracks",
         "u": null,
@@ -2258,8 +2337,8 @@
       },
       {
         "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
-        "s": "2026-08-15T14:00:00Z",
-        "e": "2026-08-15T15:00:00Z",
+        "s": "2026-08-16T14:00:00Z",
+        "e": "2026-08-16T15:00:00Z",
         "d": null,
         "j": "EP 03 : LES FEMMES ET LA VIOLENCE w/ Maud Royer & Douce Dibondo",
         "u": null,
@@ -2267,8 +2346,8 @@
       },
       {
         "n": "honeymel",
-        "s": "2026-08-15T15:00:00Z",
-        "e": "2026-08-15T16:00:00Z",
+        "s": "2026-08-16T15:00:00Z",
+        "e": "2026-08-16T16:00:00Z",
         "d": null,
         "j": "honeymel b2b H2O",
         "u": null,
@@ -2276,8 +2355,8 @@
       },
       {
         "n": "Sevenbeatz",
-        "s": "2026-08-15T16:00:00Z",
-        "e": "2026-08-15T17:00:00Z",
+        "s": "2026-08-16T16:00:00Z",
+        "e": "2026-08-16T17:00:00Z",
         "d": null,
         "j": "invite Anacaona & Lean",
         "u": null,
@@ -2285,8 +2364,8 @@
       },
       {
         "n": "King Doudou",
-        "s": "2026-08-15T17:00:00Z",
-        "e": "2026-08-15T18:00:00Z",
+        "s": "2026-08-16T17:00:00Z",
+        "e": "2026-08-16T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2294,16 +2373,16 @@
       },
       {
         "n": "SCHNAUTZI",
-        "s": "2026-08-15T18:00:00Z",
-        "e": "2026-08-15T19:00:00Z",
+        "s": "2026-08-16T18:00:00Z",
+        "e": "2026-08-16T19:00:00Z",
         "d": null,
         "j": "PRESENTE DANCEHALL RAVE",
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-15T19:00:00Z",
-        "e": "2026-08-15T20:00:00Z",
+        "s": "2026-08-16T19:00:00Z",
+        "e": "2026-08-16T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
