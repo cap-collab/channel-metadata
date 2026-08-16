@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-16T12:20:30.533Z",
+  "updated": "2026-08-16T14:13:59.924Z",
   "stations": {
     "nts1": [
-      {
-        "n": "DOING TIME - Ben's wrongplace",
-        "s": "2026-08-16T13:00:00+01:00",
-        "e": "2026-08-16T15:00:00+01:00",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": "Ben's wrongplace",
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-16th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "PARADISE BANGKOK",
         "s": "2026-08-16T15:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "KHARTOUM ARRIVALS W/ BASMA",
         "s": "2026-08-16T16:00:00+01:00",
         "e": "2026-08-16T17:00:00+01:00",
-        "d": null,
+        "d": "Basma shares songs and stories from passings through Khartoum and beyond.\nFrom the host:'Feel good sudani classics - this one's for the aunties!'",
         "j": "BASMA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/basma/episodes/basma-16th-august-2026",
         "t": "monthly"
       },
       {
@@ -164,43 +155,33 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "TILLY",
+        "s": "2026-08-17T14:00:00+01:00",
+        "e": "2026-08-17T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "HUNG, DRAWN & QUARTERED (R)",
-        "s": "2026-08-16T13:00:00+01:00",
-        "e": "2026-08-16T14:00:00+01:00",
-        "d": "They should return to the place from whence they came, from thence be drawn to the common place of execution upon hurdles, and there to be hanged by the necks, then cut down alive, their privy-Members cut off, and bowels taken out to be burned before their faces, their Heads to be severed from their bodies, and their bodies divided into four parts, to be disposed of as the King should think fit.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/hung-drawn-quartered/episodes/hung-drawn-quartered-13th-june-2019",
-        "t": "restream"
-      },
-      {
-        "n": "HEAVEN AND EARTH MAGIC W/ JOCELYN ROMO (R)",
-        "s": "2026-08-16T14:00:00+01:00",
-        "e": "2026-08-16T15:00:00+01:00",
-        "d": "Exploring inner and outer worlds, cosmic and pastoral sounds, and the intersection between reality and dreams once a month with Jocelyn Romo's mix of international and private press folk, instrumental guitar, dream country, ambient, new age, kosmiche, psych and beyond",
-        "j": "JOCELYN ROMO",
-        "u": "https://www.nts.live/api/v2/shows/jocelyn-romo/episodes/jocelyn-romo-8th-july-2020",
-        "t": "restream"
-      },
-      {
         "n": "CLAIRE MILBRATH (R)",
         "s": "2026-08-16T15:00:00+01:00",
         "e": "2026-08-16T16:00:00+01:00",
-        "d": null,
+        "d": "Visual artist and founder and editor-in-chief of The Editorial Magazine Claire Milbrath joins us for an hour of ambient, classical, and italian library music. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/claire-milbrath/episodes/claire-milbrath-13th-november-2021",
         "t": "restream"
       },
       {
         "n": "TRINH (R)",
         "s": "2026-08-16T16:00:00+01:00",
         "e": "2026-08-16T17:00:00+01:00",
-        "d": null,
+        "d": "TRiNH - an hour of covers and nostalgic feels, playing a wide range of genres with a focus on L-O-V-E. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/trinh/episodes/trinh-22nd-november-2024",
         "t": "restream"
       },
       {
@@ -328,27 +309,27 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "ItsJermayne",
-        "s": "2026-08-16T12:00:00Z",
-        "e": "2026-08-16T13:00:00Z",
+        "n": "Sofie Birch (R)",
+        "s": "2026-08-17T08:00:00+01:00",
+        "e": "2026-08-17T09:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
       {
-        "n": " What's The Weather, Selecta? w/ Megan Wroe",
-        "s": "2026-08-16T13:00:00Z",
-        "e": "2026-08-16T14:00:00Z",
+        "n": "IN FOCUS: KEIJI HAINO (R)",
+        "s": "2026-08-17T09:00:00+01:00",
+        "e": "2026-08-17T11:00:00+01:00",
         "d": null,
-        "j": "Megan Wroe",
+        "j": "KEIJI HAINO",
         "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Chaitu",
         "s": "2026-08-16T14:00:00Z",
@@ -1463,18 +1444,27 @@
         "j": "VIOLENTLYILL",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "djjs",
-        "s": "2026-08-16T12:00:00Z",
-        "e": "2026-08-16T14:00:00Z",
+        "n": " Sarah Jones",
+        "s": "2026-08-23T13:00:00Z",
+        "e": "2026-08-23T14:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
+      {
+        "n": "LIT CLIPS w/ DVS",
+        "s": "2026-08-23T14:00:00Z",
+        "e": "2026-08-23T15:00:00Z",
+        "d": null,
+        "j": "DVS",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "djjs 2",
         "s": "2026-08-16T14:00:00Z",
@@ -1981,18 +1971,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Shuffle 'n' Swing",
-        "s": "2026-08-16T11:00:00Z",
-        "e": "2026-08-16T13:00:00Z",
+        "n": "djjs 2",
+        "s": "2026-08-23T14:00:00Z",
+        "e": "2026-08-23T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "CoOp Presents",
         "s": "2026-08-16T13:00:00Z",
@@ -2070,7 +2060,7 @@
         "s": "2026-08-16T23:00:00Z",
         "e": "2026-08-17T01:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Summer Hot Tunes",
         "u": null,
         "t": "biweekly"
       },
@@ -2088,7 +2078,7 @@
         "s": "2026-08-17T05:00:00Z",
         "e": "2026-08-17T06:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Rinse Summer Series 2026",
         "u": null,
         "t": "biweekly"
       },
@@ -2106,7 +2096,7 @@
         "s": "2026-08-17T09:00:00Z",
         "e": "2026-08-17T11:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Saul Williams",
         "u": null,
         "t": "weekly"
       },
@@ -2124,7 +2114,7 @@
         "s": "2026-08-17T12:00:00Z",
         "e": "2026-08-17T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Linett Kamala (Notting Hill Carnival)",
         "u": null,
         "t": "biweekly"
       },
@@ -2142,7 +2132,7 @@
         "s": "2026-08-17T14:00:00Z",
         "e": "2026-08-17T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Marcus Damon",
         "u": null,
         "t": "weekly"
       },
@@ -2174,12 +2164,13 @@
         "t": "biweekly"
       },
       {
-        "n": "Pariah B2B Tash LC",
+        "n": "Pariah presents Voam",
         "s": "2026-08-17T20:00:00Z",
         "e": "2026-08-17T21:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "B2B Tash LC",
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Tasha",
@@ -2201,15 +2192,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "JP MANO",
-        "s": "2026-08-16T12:00:00Z",
-        "e": "2026-08-16T14:00:00Z",
-        "d": null,
-        "j": "My Best Tracks",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "AMANDINE GAY - VIVRE, LIBRE : LE PODCAST",
         "s": "2026-08-16T14:00:00Z",
