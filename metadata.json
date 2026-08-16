@@ -1,41 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-08-16T10:13:58.546Z",
+  "updated": "2026-08-16T12:20:30.533Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Radiant Life w/ Ruby Savage",
-        "s": "2026-08-16T10:00:00+01:00",
-        "e": "2026-08-16T12:00:00+01:00",
-        "d": "Get radiant with Ruby Savage's mixed bag of goodies.",
-        "j": "Ruby Savage",
-        "u": "https://www.nts.live/api/v2/shows/ruby-savage/episodes/ruby-savage-16th-august-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "HOUSE CALL",
-        "s": "2026-08-16T12:00:00+01:00",
-        "e": "2026-08-16T13:00:00+01:00",
-        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-16th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "DOING TIME - Ben's wrongplace",
         "s": "2026-08-16T13:00:00+01:00",
         "e": "2026-08-16T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
+        "j": "Ben's wrongplace",
+        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-16th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "PARADISE BANGKOK",
         "s": "2026-08-16T15:00:00+01:00",
         "e": "2026-08-16T16:00:00+01:00",
-        "d": null,
+        "d": "Chris Menist’s Paradise Bangkok label hits the NTS airwaves for a rundown of the best folk music from Africa, Indonesia and more. Reggae and Jazz rub shoulders with Gamalan as Menist uncovers classics; folk music without borders.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/paradise-bangkok/episodes/paradise-bangkok-16th-august-2026",
         "t": "monthly"
       },
       {
@@ -163,43 +146,43 @@
         "j": "FLO",
         "u": null,
         "t": "regular"
+      },
+      {
+        "n": "Soup To Nuts w/ John Gómez",
+        "s": "2026-08-17T11:00:00+01:00",
+        "e": "2026-08-17T13:00:00+01:00",
+        "d": null,
+        "j": "John Gómez",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "RAISA K",
+        "s": "2026-08-17T13:00:00+01:00",
+        "e": "2026-08-17T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "NTS GUIDE TO: INDIETRONICA & FOLKTRONICA (R)",
-        "s": "2026-08-16T10:00:00+01:00",
-        "e": "2026-08-16T12:00:00+01:00",
-        "d": "A two hour overview of the artists connected by the \"indietronica\" or \"folktronica\" descriptors – these terms rose to prominence in the mid-1990s as electronic artists began exploring acoustic arrangements and organic leaning sounds and samples, and traditional guitar-based bands experimented with sampling technology and electronic sounds. ",
-        "j": "INDIETRONICA & FOLKTRONICA",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-indietronica-18th-july-2025",
-        "t": "restream"
-      },
-      {
-        "n": "OMICHIVE'S BOOKSHELF: VOCALOID (R)",
-        "s": "2026-08-16T12:00:00+01:00",
-        "e": "2026-08-16T13:00:00+01:00",
-        "d": "Blogger and playlister Omichive selects music from Asia, with a heavy focus on rock and alternative guitar sounds.\nFrom the host: \"In this episode, I cover Vocaloid music.\"",
-        "j": "VOCALOID",
-        "u": "https://www.nts.live/api/v2/shows/omichive/episodes/omichive-22nd-may-2026",
-        "t": "restream"
-      },
-      {
         "n": "HUNG, DRAWN & QUARTERED (R)",
         "s": "2026-08-16T13:00:00+01:00",
         "e": "2026-08-16T14:00:00+01:00",
-        "d": null,
+        "d": "They should return to the place from whence they came, from thence be drawn to the common place of execution upon hurdles, and there to be hanged by the necks, then cut down alive, their privy-Members cut off, and bowels taken out to be burned before their faces, their Heads to be severed from their bodies, and their bodies divided into four parts, to be disposed of as the King should think fit.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hung-drawn-quartered/episodes/hung-drawn-quartered-13th-june-2019",
         "t": "restream"
       },
       {
         "n": "HEAVEN AND EARTH MAGIC W/ JOCELYN ROMO (R)",
         "s": "2026-08-16T14:00:00+01:00",
         "e": "2026-08-16T15:00:00+01:00",
-        "d": null,
+        "d": "Exploring inner and outer worlds, cosmic and pastoral sounds, and the intersection between reality and dreams once a month with Jocelyn Romo's mix of international and private press folk, instrumental guitar, dream country, ambient, new age, kosmiche, psych and beyond",
         "j": "JOCELYN ROMO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jocelyn-romo/episodes/jocelyn-romo-8th-july-2020",
         "t": "restream"
       },
       {
@@ -327,27 +310,27 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "YOSHIMIO (R)",
+        "s": "2026-08-17T06:00:00+01:00",
+        "e": "2026-08-17T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "SIGOURNEY (R)",
+        "s": "2026-08-17T07:00:00+01:00",
+        "e": "2026-08-17T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "tabs",
-        "s": "2026-08-16T10:00:00Z",
-        "e": "2026-08-16T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "The SoundLab Series",
-        "s": "2026-08-16T11:00:00Z",
-        "e": "2026-08-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "ItsJermayne",
         "s": "2026-08-16T12:00:00Z",
@@ -1463,27 +1446,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "4ever_uploading",
+        "s": "2026-08-23T11:00:00Z",
+        "e": "2026-08-23T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "WAX HEAVY w/ VIOLENTLYILL",
+        "s": "2026-08-23T12:00:00Z",
+        "e": "2026-08-23T13:00:00Z",
+        "d": null,
+        "j": "VIOLENTLYILL",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-08-16T09:00:00Z",
-        "e": "2026-08-16T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-08-16T11:00:00Z",
-        "e": "2026-08-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "djjs",
         "s": "2026-08-16T12:00:00Z",
@@ -1990,18 +1972,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "djjs",
+        "s": "2026-08-23T12:00:00Z",
+        "e": "2026-08-23T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
-      {
-        "n": "Phonica Records",
-        "s": "2026-08-16T09:00:00Z",
-        "e": "2026-08-16T11:00:00Z",
-        "d": null,
-        "j": "Dáire Carolan (Long Gone)",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Shuffle 'n' Swing",
         "s": "2026-08-16T11:00:00Z",
@@ -2070,7 +2052,7 @@
         "s": "2026-08-16T20:00:00Z",
         "e": "2026-08-16T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Lil Ambush, Lil Shakz, YaroAlways & Friends",
         "u": null,
         "t": "monthly"
       },
@@ -2219,15 +2201,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-16T10:00:00Z",
-        "e": "2026-08-16T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "JP MANO",
         "s": "2026-08-16T12:00:00Z",
