@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-16T08:17:37.148Z",
+  "updated": "2026-08-16T10:13:58.546Z",
   "stations": {
     "nts1": [
-      {
-        "n": "TIME IS AWAY - The Department of Euterpe, Vol. 3: Jonathan Dee, 1978-1995",
-        "s": "2026-08-16T09:00:00+01:00",
-        "e": "2026-08-16T10:00:00+01:00",
-        "d": "Time Is Away and somewhere else every month on NTS. Each hour-long show uses music, alongside snippets of spoken word, to produce something that is part soundscape, part essay for the radio. Host portraits by Robin Silas Christian (@makinabooks)\nFrom the host: \"The Department of Euterpe, 1926-2026’ exhibition is open now at the Warburg Institute, London, until 3 October 2026. Love and thanks to: Samir Chadha, Phoebe Cripps, Sam Dolbear, Matthew Harle, Misha Hering, Esther Leslie, Michael Leuffen, Cyana Madsen, Alice Merida Richards and Jane Wildgoose.\"",
-        "j": "Jonathan Dee, 1978-1995",
-        "u": "https://www.nts.live/api/v2/shows/timeisaway/episodes/timeisaway-16th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "Radiant Life w/ Ruby Savage",
         "s": "2026-08-16T10:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "HOUSE CALL",
         "s": "2026-08-16T12:00:00+01:00",
         "e": "2026-08-16T13:00:00+01:00",
-        "d": null,
+        "d": "Heavy vinyl records collector Dr. Kruger digs deep every other Sunday to bring soulful, funky and odd tunes from his crates straight to your home. Sometimes joined by a fellow crate digger/DJ of his choice, just tune in and let the doctor treat you.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/housecall/episodes/housecall-16th-august-2026",
         "t": "monthly"
       },
       {
@@ -163,18 +154,18 @@
         "j": "MARIA SOMERVILLE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-08-17T09:00:00+01:00",
+        "e": "2026-08-17T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular"
       }
     ],
     "nts2": [
-      {
-        "n": "AS I WAS MOVING AHEAD (R)",
-        "s": "2026-08-16T09:00:00+01:00",
-        "e": "2026-08-16T10:00:00+01:00",
-        "d": "Tania Feghali is an independent filmmaker, her work focuses on music, the poetry of journeying and documentary.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tania-feghali/episodes/tania-feghali-7th-dec-2020",
-        "t": "restream"
-      },
       {
         "n": "NTS GUIDE TO: INDIETRONICA & FOLKTRONICA (R)",
         "s": "2026-08-16T10:00:00+01:00",
@@ -188,9 +179,9 @@
         "n": "OMICHIVE'S BOOKSHELF: VOCALOID (R)",
         "s": "2026-08-16T12:00:00+01:00",
         "e": "2026-08-16T13:00:00+01:00",
-        "d": null,
+        "d": "Blogger and playlister Omichive selects music from Asia, with a heavy focus on rock and alternative guitar sounds.\nFrom the host: \"In this episode, I cover Vocaloid music.\"",
         "j": "VOCALOID",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/omichive/episodes/omichive-22nd-may-2026",
         "t": "restream"
       },
       {
@@ -327,27 +318,18 @@
         "j": "Lý Trang",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Antinote (R)",
+        "s": "2026-08-17T05:00:00+01:00",
+        "e": "2026-08-17T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "ECHO CHAMBER",
-        "s": "2026-08-16T08:00:00Z",
-        "e": "2026-08-16T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Subtle Selects",
-        "s": "2026-08-16T09:00:00Z",
-        "e": "2026-08-16T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "tabs",
         "s": "2026-08-16T10:00:00Z",
@@ -1463,13 +1445,31 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Housewife (UK)",
+        "s": "2026-08-23T09:00:00Z",
+        "e": "2026-08-23T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Velvet Frequencies",
+        "s": "2026-08-23T10:00:00Z",
+        "e": "2026-08-23T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-16T07:00:00Z",
-        "e": "2026-08-16T09:00:00Z",
+        "s": "2026-08-16T09:00:00Z",
+        "e": "2026-08-16T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1477,8 +1477,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-16T09:00:00Z",
-        "e": "2026-08-16T11:00:00Z",
+        "s": "2026-08-16T11:00:00Z",
+        "e": "2026-08-16T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1994,15 +1994,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-08-16T06:00:00Z",
-        "e": "2026-08-16T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Phonica Records",
         "s": "2026-08-16T09:00:00Z",
         "e": "2026-08-16T11:00:00Z",
@@ -2228,15 +2219,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-16T07:00:00Z",
-        "e": "2026-08-16T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-16T10:00:00Z",
