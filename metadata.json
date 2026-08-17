@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-17T08:32:32.141Z",
+  "updated": "2026-08-17T10:22:33.724Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-08-17T09:00:00+01:00",
-        "e": "2026-08-17T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-17th-august-2026",
-        "t": "regular"
-      },
       {
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-08-17T11:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "RAISA K",
         "s": "2026-08-17T13:00:00+01:00",
         "e": "2026-08-17T14:00:00+01:00",
-        "d": null,
+        "d": "The London songwriter, producer and musician shares a selection of favourites, influences, newly discovered music, and some of her own tunes, joined occasionally by friends and guests.\nFrom the Host: \"Initially inspired by the recently passed William Orbit, so the mix contains a few artists I was listening to in my teen years. But the mix evolved to contain a range of new and old music, plus a couple of remixes.\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/raisa-k/episodes/raisa-k-17th-august-2026",
         "t": "monthly"
       },
       {
@@ -160,18 +151,18 @@
         "j": "FLO",
         "u": null,
         "t": "regular"
+      },
+      {
+        "n": "Low Life Loves You w/ Bill Brewster",
+        "s": "2026-08-18T13:00:00+01:00",
+        "e": "2026-08-18T15:00:00+01:00",
+        "d": null,
+        "j": "Bill Brewster",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "IN FOCUS: KEIJI HAINO (R)",
-        "s": "2026-08-17T09:00:00+01:00",
-        "e": "2026-08-17T11:00:00+01:00",
-        "d": "Two hours of bravery from the avatar of the Japanese avant-garde, Keiji Haino. Brain rattling noise, smoke-laden psychedelic rock, and experiments in any and all musical dark arts.",
-        "j": "KEIJI HAINO",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-keiji-heino-27th-june-2025",
-        "t": "restream"
-      },
       {
         "n": "3XL",
         "s": "2026-08-17T11:00:00+01:00",
@@ -185,9 +176,10 @@
         "n": "C.A.R. - ON THE SLIP ROAD w/ B’Licious",
         "s": "2026-08-17T12:00:00+01:00",
         "e": "2026-08-17T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "A monthly, eclectic road-trip exploring old landmarks and new terrain.",
+        "j": "B’Licious",
+        "u": "https://www.nts.live/api/v2/shows/c-a-r/episodes/c-a-r-17th-august-2026",
+        "t": "monthly"
       },
       {
         "n": "Jam City Presents: Earthly",
@@ -315,27 +307,27 @@
         "j": "Anysia Kym",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Liquid Daybreak",
-        "s": "2026-08-17T07:00:00Z",
-        "e": "2026-08-17T09:00:00Z",
+        "n": "Tears in the Club w/ Jeune Pouce (R)",
+        "s": "2026-08-18T05:00:00+01:00",
+        "e": "2026-08-18T06:00:00+01:00",
+        "d": null,
+        "j": "Jeune Pouce",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Mishka  (R)",
+        "s": "2026-08-18T06:00:00+01:00",
+        "e": "2026-08-18T07:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "The PICKNMIX Show w/ Komanche",
-        "s": "2026-08-17T09:00:00Z",
-        "e": "2026-08-17T10:00:00Z",
-        "d": null,
-        "j": "Komanche",
-        "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Sweet Things w/ PXLTERGEIST",
         "s": "2026-08-17T10:00:00Z",
@@ -1432,13 +1424,22 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Not a Baile Radio Show",
+        "s": "2026-08-24T09:00:00Z",
+        "e": "2026-08-24T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-17T07:00:00Z",
-        "e": "2026-08-17T09:00:00Z",
+        "s": "2026-08-17T09:00:00Z",
+        "e": "2026-08-17T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1446,8 +1447,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-17T09:00:00Z",
-        "e": "2026-08-17T11:00:00Z",
+        "s": "2026-08-17T11:00:00Z",
+        "e": "2026-08-17T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1944,15 +1945,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-08-17T06:00:00Z",
-        "e": "2026-08-17T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
         "n": "Tim Garcia",
         "s": "2026-08-17T09:00:00Z",
         "e": "2026-08-17T11:00:00Z",
@@ -2186,15 +2178,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-17T07:00:00Z",
-        "e": "2026-08-17T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-17T10:00:00Z",
