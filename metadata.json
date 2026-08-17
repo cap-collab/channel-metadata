@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-17T02:52:10.127Z",
+  "updated": "2026-08-17T04:32:37.547Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Carolina Soul (R)",
-        "s": "2026-08-17T03:00:00+01:00",
-        "e": "2026-08-17T05:00:00+01:00",
-        "d": "Carolina Soul is a record seller based in Durham, NC, USA. They specialize in rare and classic soul, boogie, gospel and modern obscure tracks from the Carolinas and beyond, mixed with all-time bangers and ballads.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/carolinasoul/episodes/carolinasoul-12th-december-2025",
-        "t": "restream"
-      },
       {
         "n": "ADULTZ ONLY (R)",
         "s": "2026-08-17T05:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "Le Jardin w/ Sarah Davachi (R)",
         "s": "2026-08-17T06:00:00+01:00",
         "e": "2026-08-17T07:00:00+01:00",
-        "d": null,
+        "d": "Sarah Davachi serenades the LA airwaves once a month with Le Jardin - an amalgamation of progressive rock, acid folk, early music, experimental productions, & minimal sympathetic sounds.",
         "j": "Sarah Davachi",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sarah-davachi/episodes/sarah-davachi-18th-november-2024",
         "t": "restream"
       },
       {
@@ -160,43 +151,34 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "WAVE FORM W/ AURÉLIEN ARBET & PIERRE ROUSSEAU (R)",
+        "s": "2026-08-18T05:00:00+01:00",
+        "e": "2026-08-18T06:00:00+01:00",
+        "d": null,
+        "j": "AURÉLIEN ARBET & PIERRE ROUSSEAU",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "The Big Happy Show (R)",
-        "s": "2026-08-17T03:00:00+01:00",
-        "e": "2026-08-17T04:00:00+01:00",
-        "d": "Mr. Big Happy is a graphic designer, artist, DJ, and music archivist from San Francisco, California. While he is an accomplished designer and artist, over the years he has always had a love for music and spends time searching for rare and obscure vinyl. Big Happy’s focus is the late 70s into the late 80s - modern soul, funk, boogie and disco. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-big-happy-show/episodes/the-big-happy-show-10th-may-2022",
-        "t": "restream"
-      },
-      {
-        "n": "SOLAR DIN w/ Lý Trang (R)",
-        "s": "2026-08-17T04:00:00+01:00",
-        "e": "2026-08-17T05:00:00+01:00",
-        "d": "Hanoi producer Lý Trang presents an hour of vibrant noise.",
-        "j": "Lý Trang",
-        "u": "https://www.nts.live/api/v2/shows/ly-trang/episodes/ly-trang-5th-december-2023",
-        "t": "restream"
-      },
-      {
         "n": "Antinote (R)",
         "s": "2026-08-17T05:00:00+01:00",
         "e": "2026-08-17T06:00:00+01:00",
-        "d": null,
+        "d": "Monthly sessions from Zaltan, the mind behind Paris-based leftfield dance, electronic & downtempo imprint Antinote, with occasional appearances from friends and artists on the label. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/zaltan/episodes/zaltan-28th-november-2024",
         "t": "restream"
       },
       {
         "n": "YOSHIMIO (R)",
         "s": "2026-08-17T06:00:00+01:00",
         "e": "2026-08-17T07:00:00+01:00",
-        "d": null,
+        "d": "YoshimiO, the Japanese multi-instrumentalist and member of Boredoms, OOIOO, and Free Kitten takes over the NTS signal in a monthly residency, sharing sounds from her record collection.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/yoshimio/episodes/yoshimio-22nd-april-2024",
         "t": "restream"
       },
       {
@@ -316,18 +298,27 @@
         "j": "OLIVE KIMOTO",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " LowNotes presents: Low Frequencies",
-        "s": "2026-08-17T02:00:00Z",
-        "e": "2026-08-17T03:00:00Z",
+        "n": "Diiv",
+        "s": "2026-08-17T23:00:00+01:00",
+        "e": "2026-08-18T00:00:00+01:00",
         "d": null,
-        "j": "Low Frequencies",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "DJ SPANISH FLY",
+        "s": "2026-08-18T00:00:00+01:00",
+        "e": "2026-08-18T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "subtle": [
       {
         "n": "Dub Den Records",
         "s": "2026-08-17T03:00:00Z",
@@ -1455,15 +1446,6 @@
     ],
     "dublab": [
       {
-        "n": "Juliet Mendoza – That One Time",
-        "s": "2026-08-17T01:00:00Z",
-        "e": "2026-08-17T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Jackie Stewart - Fantastica",
         "s": "2026-08-17T03:00:00Z",
         "e": "2026-08-17T05:00:00Z",
@@ -1959,6 +1941,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Gabie Strong and Ian Wellman - Zone Mapping",
+        "s": "2026-08-24T03:00:00Z",
+        "e": "2026-08-24T05:00:00Z",
+        "d": null,
+        "j": "Zone Mapping",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
