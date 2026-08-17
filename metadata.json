@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-17T06:35:07.725Z",
+  "updated": "2026-08-17T08:32:32.141Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-08-17T07:00:00+01:00",
-        "e": "2026-08-17T09:00:00+01:00",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-17th-august-2026",
-        "t": "weekly"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-08-17T09:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "Soup To Nuts w/ John Gómez",
         "s": "2026-08-17T11:00:00+01:00",
         "e": "2026-08-17T13:00:00+01:00",
-        "d": null,
+        "d": "Collector John Gómez brightens up Mondays with some music from different times and different places. ",
         "j": "John Gómez",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-john-gomez/episodes/soup-to-nuts-john-gomez-17th-august-2026",
         "t": "weekly"
       },
       {
@@ -160,43 +151,34 @@
         "j": "MARIA SOMERVILLE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-08-18T09:00:00+01:00",
+        "e": "2026-08-18T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular"
       }
     ],
     "nts2": [
       {
-        "n": "SIGOURNEY (R)",
-        "s": "2026-08-17T07:00:00+01:00",
-        "e": "2026-08-17T08:00:00+01:00",
-        "d": "Film composer SIGOURNEY takes you on a journey through Romantic compositions and classical crossover.\nArtwork: Mpho Nkadimeng | @nkadimeng_arts ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sigourney/episodes/sigourney-16th-july-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Sofie Birch (R)",
-        "s": "2026-08-17T08:00:00+01:00",
-        "e": "2026-08-17T09:00:00+01:00",
-        "d": "Relaxing & spiritual sounds with Copenhagen-based composer & producer Sofie Birch.\nillustration by Jozsef Csato",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sofie-birch/episodes/sofie-birch-9th-may-2022",
-        "t": "restream"
-      },
-      {
         "n": "IN FOCUS: KEIJI HAINO (R)",
         "s": "2026-08-17T09:00:00+01:00",
         "e": "2026-08-17T11:00:00+01:00",
-        "d": null,
+        "d": "Two hours of bravery from the avatar of the Japanese avant-garde, Keiji Haino. Brain rattling noise, smoke-laden psychedelic rock, and experiments in any and all musical dark arts.",
         "j": "KEIJI HAINO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-keiji-heino-27th-june-2025",
         "t": "restream"
       },
       {
         "n": "3XL",
         "s": "2026-08-17T11:00:00+01:00",
         "e": "2026-08-17T12:00:00+01:00",
-        "d": null,
+        "d": "Transmissions from the Outer Rim/Inner Edge. “you know the gates themselves are made of flood.” -Nadia Marcus\nFrom the Host: \"Nema Hän live recorded at Echoes of the Archive March 2026\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/3xl/episodes/3xl-17th-august-2026",
         "t": "monthly"
       },
       {
@@ -316,18 +298,26 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "DOOM IS NO EXCUSE - Vexed! w/ Ife Olujobi",
+        "s": "2026-08-18T03:00:00+01:00",
+        "e": "2026-08-18T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "No ID w/ Anysia Kym (R)",
+        "s": "2026-08-18T04:00:00+01:00",
+        "e": "2026-08-18T05:00:00+01:00",
+        "d": null,
+        "j": "Anysia Kym",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-08-17T06:00:00Z",
-        "e": "2026-08-17T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Liquid Daybreak",
         "s": "2026-08-17T07:00:00Z",
@@ -1433,22 +1423,31 @@
         "j": "araUKana",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Casual P",
+        "s": "2026-08-24T08:00:00Z",
+        "e": "2026-08-24T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
       {
-        "n": "Jess Fu - APEX",
-        "s": "2026-08-17T05:00:00Z",
-        "e": "2026-08-17T07:00:00Z",
-        "d": null,
-        "j": "APEX",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-08-17T07:00:00Z",
         "e": "2026-08-17T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-17T09:00:00Z",
+        "e": "2026-08-17T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2189,8 +2188,8 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-16T22:00:00Z",
-        "e": "2026-08-17T07:00:00Z",
+        "s": "2026-08-17T07:00:00Z",
+        "e": "2026-08-17T10:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -2198,7 +2197,7 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-17T07:00:00Z",
+        "s": "2026-08-17T10:00:00Z",
         "e": "2026-08-17T12:00:00Z",
         "d": null,
         "j": null,
@@ -2206,9 +2205,88 @@
         "t": "playlist"
       },
       {
-        "n": "Sabor A Mi",
+        "n": "Whitney Weiss",
         "s": "2026-08-17T12:00:00Z",
-        "e": "2026-08-17T13:00:00Z",
+        "e": "2026-08-17T14:00:00Z",
+        "d": null,
+        "j": "It's Whitney, Bitch with JD Samson",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Technopol",
+        "s": "2026-08-17T14:00:00Z",
+        "e": "2026-08-17T15:00:00Z",
+        "d": null,
+        "j": "#56 - Réinventer d’autres modèles de fêtes : focus sur les micro-festivals",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Enzo M.",
+        "s": "2026-08-17T15:00:00Z",
+        "e": "2026-08-17T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ITZ3BBY",
+        "s": "2026-08-17T16:00:00Z",
+        "e": "2026-08-17T17:00:00Z",
+        "d": null,
+        "j": "Global Bass",
+        "u": null
+      },
+      {
+        "n": "De Grandi",
+        "s": "2026-08-17T17:00:00Z",
+        "e": "2026-08-17T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "MUTEK",
+        "s": "2026-08-17T18:00:00Z",
+        "e": "2026-08-17T19:00:00Z",
+        "d": null,
+        "j": "invite SIETE CATORCE",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-17T19:00:00Z",
+        "e": "2026-08-17T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-17T22:00:00Z",
+        "e": "2026-08-18T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-18T07:00:00Z",
+        "e": "2026-08-18T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Sabor A Mi",
+        "s": "2026-08-18T12:00:00Z",
+        "e": "2026-08-18T13:00:00Z",
         "d": null,
         "j": "Musica del Alma",
         "u": null,
@@ -2216,24 +2294,24 @@
       },
       {
         "n": "Kuuma",
-        "s": "2026-08-17T13:00:00Z",
-        "e": "2026-08-17T14:00:00Z",
+        "s": "2026-08-18T13:00:00Z",
+        "e": "2026-08-18T14:00:00Z",
         "d": null,
         "j": "Raising Voices : A Black Music Journey",
         "u": null
       },
       {
         "n": "Finesse Frequency",
-        "s": "2026-08-17T14:00:00Z",
-        "e": "2026-08-17T15:00:00Z",
+        "s": "2026-08-18T14:00:00Z",
+        "e": "2026-08-18T15:00:00Z",
         "d": null,
         "j": "avec les Nubians",
         "u": null
       },
       {
         "n": "LeZduA",
-        "s": "2026-08-17T15:00:00Z",
-        "e": "2026-08-17T16:00:00Z",
+        "s": "2026-08-18T15:00:00Z",
+        "e": "2026-08-18T16:00:00Z",
         "d": null,
         "j": "Grizzly & Jay Da Kid présentent Memphis Horror Story",
         "u": null,
@@ -2241,8 +2319,8 @@
       },
       {
         "n": "Broodoo Ramses",
-        "s": "2026-08-17T16:00:00Z",
-        "e": "2026-08-17T17:00:00Z",
+        "s": "2026-08-18T16:00:00Z",
+        "e": "2026-08-18T17:00:00Z",
         "d": null,
         "j": "Suzi Analogue",
         "u": null,
@@ -2250,24 +2328,24 @@
       },
       {
         "n": "Pura Pura",
-        "s": "2026-08-17T17:00:00Z",
-        "e": "2026-08-17T18:00:00Z",
+        "s": "2026-08-18T17:00:00Z",
+        "e": "2026-08-18T18:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Mensonges",
-        "s": "2026-08-17T18:00:00Z",
-        "e": "2026-08-17T19:00:00Z",
+        "s": "2026-08-18T18:00:00Z",
+        "e": "2026-08-18T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-17T19:00:00Z",
-        "e": "2026-08-17T20:00:00Z",
+        "s": "2026-08-18T19:00:00Z",
+        "e": "2026-08-18T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
