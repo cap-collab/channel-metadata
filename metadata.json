@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-17T20:15:49.784Z",
+  "updated": "2026-08-17T22:14:31.718Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Shoplifting",
-        "s": "2026-08-17T21:00:00+01:00",
-        "e": "2026-08-17T22:00:00+01:00",
-        "d": "London musician, producer and new-school skramz kid Shopliting pulls up to the studio with an hour of music and his DJ equipment (Nintendo DS). ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/shoplifting-17th-august-2026"
-      },
       {
         "n": "CHERRYSTONES",
         "s": "2026-08-17T22:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "GRIBS",
         "s": "2026-08-18T00:00:00+01:00",
         "e": "2026-08-18T01:00:00+01:00",
-        "d": null,
+        "d": "Life on wide mode.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/gribs/episodes/gribs-18th-august-2026",
         "t": "monthly"
       },
       {
@@ -157,42 +149,33 @@
         "j": "MANTRA & DOUBLE O",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DANIELLE",
+        "s": "2026-08-18T21:00:00+01:00",
+        "e": "2026-08-18T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "ALBA Radio w/ Lorenzo Daniels",
-        "s": "2026-08-17T21:00:00+01:00",
-        "e": "2026-08-17T22:00:00+01:00",
-        "d": "''In the Western world, improvisation is a failure; you do it when something goes wrong. But when black people improvise it's a form of mastery.'' Alba\nFrom the host: \"Be like water, my friend.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/alba/episodes/alba-17th-august-2026"
-      },
-      {
-        "n": "LIQUID MIRROR W/ OLIVE KIMOTO",
-        "s": "2026-08-17T22:00:00+01:00",
-        "e": "2026-08-17T23:00:00+01:00",
-        "d": "Liquid Mirror is the aural exploration of all intersections of ethereality with musician and artist Olive Kimoto. Interpreted eclectically, the monthly broadcast ranges from shoegaze and dream pop, to electronic and experimental.",
-        "j": "OLIVE KIMOTO",
-        "u": "https://www.nts.live/api/v2/shows/liquid-mirror/episodes/liquid-mirror-17th-august-2026",
-        "t": "monthly"
-      },
-      {
         "n": "Diiv",
         "s": "2026-08-17T23:00:00+01:00",
         "e": "2026-08-18T00:00:00+01:00",
-        "d": null,
+        "d": "Selections from across the musical landscape by members of the band DIIV.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/diiv/episodes/diiv-17th-august-2026",
         "t": "monthly"
       },
       {
         "n": "DJ SPANISH FLY",
         "s": "2026-08-18T00:00:00+01:00",
         "e": "2026-08-18T01:00:00+01:00",
-        "d": null,
+        "d": "You know you can expect that real Memphis shit when it's DJ Spanish Fly: vintage tapes, 808s and smoking onion.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/dj-spanish-fly/episodes/dj-spanish-fly-18th-august-2026",
         "t": "monthly"
       },
       {
@@ -318,27 +301,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "YU SU",
+        "s": "2026-08-18T17:00:00+01:00",
+        "e": "2026-08-18T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "PENDER STREET STEPPERS",
+        "s": "2026-08-18T18:00:00+01:00",
+        "e": "2026-08-18T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "In:flux Audio",
-        "s": "2026-08-17T20:00:00Z",
-        "e": "2026-08-17T21:00:00Z",
-        "d": "In:flux Audio are a record label based in Leeds, UK founded by production duo Tik&Borrow. Since the label's inception in October 2013, they have dabbled in multiple dance music styles with the emphasis always being on the tracks being unique, and packed full of bass. Today the primary output for the label is from their Dubstep roster and this is focus of their show on Subtle - giving the artists and remixers chance to showcase their sounds with an hour guest mix, all hosted by label bossman Tik.",
-        "j": "flux Audio",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "tighe",
-        "s": "2026-08-17T21:00:00Z",
-        "e": "2026-08-17T22:00:00Z",
-        "d": "I’m a 19 year old DJ and producer from Newcastle upon Tyne, mainly playing and producing music around the 140bpm mark. I started out playing old 2-step and jungle records, before moving my focus to mainly dubstep and grime. Along with my friends Pirata and White Label, I run Newcastle’s only current 140 night, Well Irie. ",
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Marcus Phillippe",
         "s": "2026-08-17T22:00:00Z",
@@ -1426,17 +1407,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Chaz",
+        "s": "2026-08-24T21:00:00Z",
+        "e": "2026-08-24T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Lumeni",
+        "s": "2026-08-24T22:00:00Z",
+        "e": "2026-08-24T23:00:00Z",
+        "d": "London based DJ who enjoys exploring the darker, bassier corners of Jungle, Breaks, Techno and Drum & Bass, especially when it is laced with a bit of acid.",
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
-      {
-        "n": "Rare Candy Radio or autotuneKaraoke.FM",
-        "s": "2026-08-17T19:00:00Z",
-        "e": "2026-08-17T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Rani de Leon - Tizita Radio",
         "s": "2026-08-17T21:00:00Z",
@@ -1603,6 +1594,15 @@
         "e": "2026-08-20T04:00:00Z",
         "d": null,
         "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Laura Shumate - Indoor Cats",
+        "s": "2026-08-20T04:00:00Z",
+        "e": "2026-08-20T05:00:00Z",
+        "d": null,
+        "j": "Indoor Cats",
         "u": null,
         "t": "monthly"
       },
@@ -1933,27 +1933,17 @@
         "j": "'66 Sunset Strip",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Cailin Russo – guest session",
+        "s": "2026-08-24T21:00:00Z",
+        "e": "2026-08-24T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Pariah presents Voam",
-        "s": "2026-08-17T20:00:00Z",
-        "e": "2026-08-17T21:00:00Z",
-        "d": null,
-        "j": "B2B Tash LC",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Tasha",
-        "s": "2026-08-17T21:00:00Z",
-        "e": "2026-08-17T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Loris",
         "s": "2026-08-17T22:00:00Z",
@@ -2099,15 +2089,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-17T19:00:00Z",
-        "e": "2026-08-17T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-17T22:00:00Z",
