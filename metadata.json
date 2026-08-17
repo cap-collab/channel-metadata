@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-17T16:16:57.503Z",
+  "updated": "2026-08-17T18:24:23.582Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NAOMI ASA",
-        "s": "2026-08-17T17:00:00+01:00",
-        "e": "2026-08-17T18:00:00+01:00",
-        "d": "Naomi Asa on the NTS airwaves, delivering soothing soul and spiritual jazz. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/naomi-asaturyan/episodes/naomi-asaturyan-17th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "CLUB COCO w/ COCO MARIA",
         "s": "2026-08-17T18:00:00+01:00",
@@ -22,12 +13,13 @@
         "t": "weekly"
       },
       {
-        "n": "OBSIDIAN DREAMS W/ BITTER BABE",
+        "n": "AS I WAS MOVING AHEAD - UNMASTERED AWAKENINGS (R)",
         "s": "2026-08-17T20:00:00+01:00",
         "e": "2026-08-17T21:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Regional missives from filmmaker Tania Feghali, whose work focuses on music, the poetry of journeying and documentary.\nFrom the host: \"Inner worlds emerging softly through new year dawns. Featuring mastered and unmastered pieces by Duval Timothy, Zena, Dominique Dela Cola, Keenyn Omari, Chikchika, Ariel Kalma, unreleased material from Dawuna’s secret vault, Toshiyuki Tsuchitori & Ryuichi Sakamoto, and Amira Deng.\"",
+        "j": "UNMASTERED AWAKENINGS",
+        "u": "https://www.nts.live/api/v2/shows/tania-feghali/episodes/tania-feghali-17th-january-2026",
+        "t": "restream"
       },
       {
         "n": "Shoplifting",
@@ -158,18 +150,17 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SNOWMALIS PRESENTS CITYBOYMOE & AARONORAGE: CHASING RABBITS SPECIAL",
+        "s": "2026-08-18T18:00:00+01:00",
+        "e": "2026-08-18T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "THE TRILOGY TAPES",
-        "s": "2026-08-17T17:00:00+01:00",
-        "e": "2026-08-17T19:00:00+01:00",
-        "d": "Clandestine record label, The Trilogy Tapes, tear up the NTS studios once a month, ripping through the grittiest and muddiest tracks. No words on this one, just tunes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/the-trilogy-tapes/episodes/the-trilogy-tapes-17th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "Underlight w/ Stolen Velour, FLOCO and Aria SL",
         "s": "2026-08-17T19:00:00+01:00",
@@ -182,9 +173,9 @@
         "n": "Valencia House w/ Kevin Halasan",
         "s": "2026-08-17T20:00:00+01:00",
         "e": "2026-08-17T21:00:00+01:00",
-        "d": null,
+        "d": "\"Valencia House Radio, formerly known as The Yeek Show, is an extension of a creative studio led by multidisciplinary artists Yeek and Kevin Halasan.\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/yeek/episodes/yeek-17th-august-2026"
       },
       {
         "n": "ALBA Radio w/ Lorenzo Daniels",
@@ -318,27 +309,18 @@
         "j": "JAMES W",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "NTS Guide to: Rebetiko",
+        "s": "2026-08-18T13:00:00+01:00",
+        "e": "2026-08-18T14:00:00+01:00",
+        "d": null,
+        "j": "Rebetiko",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "subtle": [
-      {
-        "n": "Skari",
-        "s": "2026-08-17T16:00:00Z",
-        "e": "2026-08-17T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "H3L3NA",
-        "s": "2026-08-17T17:00:00Z",
-        "e": "2026-08-17T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " ZEMA",
         "s": "2026-08-17T18:00:00Z",
@@ -1426,18 +1408,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Andrew Goldberg - Rainy Day Fund",
-        "s": "2026-08-17T15:00:00Z",
-        "e": "2026-08-17T17:00:00Z",
+        "n": "Grigio",
+        "s": "2026-08-24T17:00:00Z",
+        "e": "2026-08-24T18:00:00Z",
         "d": null,
-        "j": "Rainy Day Fund",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Deadly Unserious",
+        "s": "2026-08-24T18:00:00Z",
+        "e": "2026-08-24T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Rene Contreras - Viva! Talks",
         "s": "2026-08-17T17:00:00Z",
@@ -1446,6 +1437,15 @@
         "j": "Viva! Talks",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-17T19:00:00Z",
+        "e": "2026-08-17T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       },
       {
         "n": "Rani de Leon - Tizita Radio",
@@ -1925,27 +1925,18 @@
         "j": "cherry custard",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Rene Contreras - Viva! Talks",
+        "s": "2026-08-24T17:00:00Z",
+        "e": "2026-08-24T19:00:00Z",
+        "d": null,
+        "j": "Viva! Talks",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "rinse": [
-      {
-        "n": "Dyslecta",
-        "s": "2026-08-17T16:00:00Z",
-        "e": "2026-08-17T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Amaliah",
-        "s": "2026-08-17T17:00:00Z",
-        "e": "2026-08-17T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Hessle Audio",
         "s": "2026-08-17T18:00:00Z",
@@ -2118,23 +2109,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "ITZ3BBY",
-        "s": "2026-08-17T16:00:00Z",
-        "e": "2026-08-17T17:00:00Z",
-        "d": null,
-        "j": "Global Bass",
-        "u": null
-      },
-      {
-        "n": "De Grandi",
-        "s": "2026-08-17T17:00:00Z",
-        "e": "2026-08-17T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "MUTEK",
         "s": "2026-08-17T18:00:00Z",
