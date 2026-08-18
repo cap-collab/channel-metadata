@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-18T06:27:06.802Z",
+  "updated": "2026-08-18T08:24:30.590Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-08-18T07:00:00+01:00",
-        "e": "2026-08-18T09:00:00+01:00",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-18th-august-2026",
-        "t": "weekly"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-08-18T09:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "Soup To Nuts w/ DARE BALOGUN",
         "s": "2026-08-18T11:00:00+01:00",
         "e": "2026-08-18T13:00:00+01:00",
-        "d": null,
+        "d": "British-Nigerian DJ Dare Balogun is back on Soup To Nuts. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-dare-balogun-18th-august-2026"
       },
       {
         "n": "Low Life Loves You w/ Bill Brewster & Flamingo Pier",
@@ -156,18 +147,18 @@
         "j": "FLO",
         "u": null,
         "t": "regular"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-08-19T11:00:00+01:00",
+        "e": "2026-08-19T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
-      {
-        "n": "Kiss Cafe w/ Maraschino (R)",
-        "s": "2026-08-18T07:00:00+01:00",
-        "e": "2026-08-18T08:00:00+01:00",
-        "d": "Piper Durabo AKA Maraschino serves up an assortment of hyperdelic jams from her NYC HQ\nFrom the host: \"soundtrack for the Saturn-Neptune conjunction '26\"",
-        "j": "Maraschino",
-        "u": "https://www.nts.live/api/v2/shows/piper-durabo/episodes/piper-durabo-5th-february-2026",
-        "t": "restream"
-      },
       {
         "n": "TUFF SHED (R)",
         "s": "2026-08-18T08:00:00+01:00",
@@ -181,9 +172,9 @@
         "n": "AN1MA (R)",
         "s": "2026-08-18T10:00:00+01:00",
         "e": "2026-08-18T11:00:00+01:00",
-        "d": null,
+        "d": "integration sounds from the source; an invitation into the shadow.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-3rd-november-2025",
         "t": "restream"
       },
       {
@@ -313,26 +304,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "WORD OF COMMAND",
+        "s": "2026-08-19T05:00:00+01:00",
+        "e": "2026-08-19T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
       {
-        "n": "THE CULTURE HEAD w. SAINT VOX",
-        "s": "2026-08-18T06:00:00Z",
-        "e": "2026-08-18T07:00:00Z",
+        "n": "Subtle Selects",
+        "s": "2026-08-18T08:00:00Z",
+        "e": "2026-08-18T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Ardishko",
-        "s": "2026-08-18T07:00:00Z",
-        "e": "2026-08-18T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "Albert Moon",
@@ -1412,18 +1403,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "dublab": [
+      },
       {
-        "n": "Brennan - Unresolved Dependencies",
-        "s": "2026-08-18T05:00:00Z",
-        "e": "2026-08-18T07:00:00Z",
+        "n": "Azadi Sound",
+        "s": "2026-08-25T07:00:00Z",
+        "e": "2026-08-25T08:00:00Z",
         "d": null,
-        "j": "Unresolved Dependencies",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Scampi",
+        "s": "2026-08-25T08:00:00Z",
+        "e": "2026-08-25T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "dublab": [
       {
         "n": "Benson Taylor - TUSCAN JUNK FOOD",
         "s": "2026-08-18T15:00:00Z",
@@ -2167,15 +2167,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-17T22:00:00Z",
-        "e": "2026-08-18T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-18T07:00:00Z",
         "e": "2026-08-18T12:00:00Z",
         "d": null,
@@ -2184,41 +2175,128 @@
         "t": "playlist"
       },
       {
-        "n": "MABOUL BASMATI",
+        "n": "Sabor A Mi",
         "s": "2026-08-18T12:00:00Z",
         "e": "2026-08-18T13:00:00Z",
+        "d": null,
+        "j": "Musica del Alma",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Kuuma",
+        "s": "2026-08-18T13:00:00Z",
+        "e": "2026-08-18T14:00:00Z",
+        "d": null,
+        "j": "Raising Voices : A Black Music Journey",
+        "u": null
+      },
+      {
+        "n": "Finesse Frequency",
+        "s": "2026-08-18T14:00:00Z",
+        "e": "2026-08-18T15:00:00Z",
+        "d": null,
+        "j": "avec les Nubians",
+        "u": null
+      },
+      {
+        "n": "LeZduA",
+        "s": "2026-08-18T15:00:00Z",
+        "e": "2026-08-18T16:00:00Z",
+        "d": null,
+        "j": "Grizzly & Jay Da Kid présentent Memphis Horror Story",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Broodoo Ramses",
+        "s": "2026-08-18T16:00:00Z",
+        "e": "2026-08-18T17:00:00Z",
+        "d": null,
+        "j": "Suzi Analogue",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Pura Pura",
+        "s": "2026-08-18T17:00:00Z",
+        "e": "2026-08-18T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Mensonges",
+        "s": "2026-08-18T18:00:00Z",
+        "e": "2026-08-18T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-18T19:00:00Z",
+        "e": "2026-08-18T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-18T22:00:00Z",
+        "e": "2026-08-19T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-19T07:00:00Z",
+        "e": "2026-08-19T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "MABOUL BASMATI",
+        "s": "2026-08-19T12:00:00Z",
+        "e": "2026-08-19T13:00:00Z",
         "d": null,
         "j": "mode FRENCH VORTEX #86",
         "u": null
       },
       {
         "n": "Sauti",
-        "s": "2026-08-18T13:00:00Z",
-        "e": "2026-08-18T14:00:00Z",
+        "s": "2026-08-19T13:00:00Z",
+        "e": "2026-08-19T14:00:00Z",
         "d": null,
         "j": "Amapiano France Presents UMOYA - Beyond Amapiano",
         "u": null
       },
       {
         "n": "Maquis Sale",
-        "s": "2026-08-18T14:00:00Z",
-        "e": "2026-08-18T15:00:00Z",
+        "s": "2026-08-19T14:00:00Z",
+        "e": "2026-08-19T15:00:00Z",
         "d": null,
         "j": "invite Laissonsluciefaire",
         "u": null
       },
       {
         "n": "Divin0",
-        "s": "2026-08-18T15:00:00Z",
-        "e": "2026-08-18T16:00:00Z",
+        "s": "2026-08-19T15:00:00Z",
+        "e": "2026-08-19T16:00:00Z",
         "d": null,
         "j": "by Crocoqueen invite DJ LIZZ",
         "u": null
       },
       {
         "n": "Fervo Fluxo",
-        "s": "2026-08-18T16:00:00Z",
-        "e": "2026-08-18T17:00:00Z",
+        "s": "2026-08-19T16:00:00Z",
+        "e": "2026-08-19T17:00:00Z",
         "d": null,
         "j": "Karan",
         "u": null,
@@ -2226,8 +2304,8 @@
       },
       {
         "n": "RONI",
-        "s": "2026-08-18T17:00:00Z",
-        "e": "2026-08-18T18:00:00Z",
+        "s": "2026-08-19T17:00:00Z",
+        "e": "2026-08-19T18:00:00Z",
         "d": null,
         "j": "INVITE FLORENTINO",
         "u": null,
@@ -2235,16 +2313,16 @@
       },
       {
         "n": "The Iueke Show",
-        "s": "2026-08-18T18:00:00Z",
-        "e": "2026-08-18T19:00:00Z",
+        "s": "2026-08-19T18:00:00Z",
+        "e": "2026-08-19T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-18T19:00:00Z",
-        "e": "2026-08-18T20:00:00Z",
+        "s": "2026-08-19T19:00:00Z",
+        "e": "2026-08-19T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
