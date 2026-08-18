@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-18T08:24:30.590Z",
+  "updated": "2026-08-18T10:18:22.455Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-08-18T09:00:00+01:00",
-        "e": "2026-08-18T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-18th-august-2026",
-        "t": "regular"
-      },
       {
         "n": "Soup To Nuts w/ DARE BALOGUN",
         "s": "2026-08-18T11:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "Low Life Loves You w/ Bill Brewster & Flamingo Pier",
         "s": "2026-08-18T13:00:00+01:00",
         "e": "2026-08-18T15:00:00+01:00",
-        "d": null,
+        "d": "Writer, historian and DJ Bill Brewster showcasing two hours of love, laughter, and music.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/bill-brewster/episodes/bill-brewster-18th-august-2026"
       },
       {
         "n": "Self Soothe w/ Margeaux",
@@ -38,7 +29,7 @@
         "t": "weekly"
       },
       {
-        "n": "Exploring Earth Through Sound w/ Machiv",
+        "n": "Exploring Earth Through Sound w/ Machi 'Songs I Consider Perfect'",
         "s": "2026-08-18T16:00:00+01:00",
         "e": "2026-08-18T17:00:00+01:00",
         "d": null,
@@ -156,43 +147,34 @@
         "j": "SHY ONE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-08-19T13:00:00+01:00",
+        "e": "2026-08-19T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "TUFF SHED (R)",
-        "s": "2026-08-18T08:00:00+01:00",
-        "e": "2026-08-18T10:00:00+01:00",
-        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-1st-july-2025",
-        "t": "restream"
-      },
-      {
-        "n": "AN1MA (R)",
-        "s": "2026-08-18T10:00:00+01:00",
-        "e": "2026-08-18T11:00:00+01:00",
-        "d": "integration sounds from the source; an invitation into the shadow.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-3rd-november-2025",
-        "t": "restream"
-      },
-      {
         "n": "TRUE AS FEW W/ MARK",
         "s": "2026-08-18T11:00:00+01:00",
         "e": "2026-08-18T12:00:00+01:00",
-        "d": null,
+        "d": "Diving into classical composition with Mark aka Klon Dump…",
         "j": "MARK",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/true-as-few/episodes/true-as-few-18th-august-2026",
         "t": "monthly"
       },
       {
         "n": "GREAT SOUTHERN LANDS W/ JAMES W",
         "s": "2026-08-18T12:00:00+01:00",
         "e": "2026-08-18T13:00:00+01:00",
-        "d": null,
+        "d": "Recorded live from Naarm/Melbourne, Great Southern Lands is an excursion through the deep Australian and New Zealand underground. Expect post-VU freakouts, dolewave jangles, forgotten lathe-cuts and avant-garde chin scratchers, served up by a bunch of Antipodean amateurs.",
         "j": "JAMES W",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/great-southern-lands/episodes/great-southern-lands-18th-august-2026",
         "t": "monthly"
       },
       {
@@ -313,27 +295,27 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
-      {
-        "n": "Subtle Selects",
-        "s": "2026-08-18T08:00:00Z",
-        "e": "2026-08-18T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
       },
       {
-        "n": "Albert Moon",
-        "s": "2026-08-18T09:00:00Z",
-        "e": "2026-08-18T10:00:00Z",
+        "n": "TRiNH w/ DJ DJ Qualls",
+        "s": "2026-08-19T06:00:00+01:00",
+        "e": "2026-08-19T07:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "DJ DJ Qualls",
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "INSOLAR w/ CAMI LAYÉ OKÚN (R)",
+        "s": "2026-08-19T07:00:00+01:00",
+        "e": "2026-08-19T08:00:00+01:00",
+        "d": null,
+        "j": "CAMI LAYÉ OKÚN",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": " Ovrtic",
         "s": "2026-08-18T10:00:00Z",
@@ -1421,6 +1403,24 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Posh Mornings",
+        "s": "2026-08-25T09:00:00Z",
+        "e": "2026-08-25T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Local Movements",
+        "s": "2026-08-25T10:00:00Z",
+        "e": "2026-08-25T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "dublab": [
@@ -1922,15 +1922,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-08-18T06:00:00Z",
-        "e": "2026-08-18T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Papaoul",
         "s": "2026-08-18T09:00:00Z",
