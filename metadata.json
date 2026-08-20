@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-20T08:26:30.139Z",
+  "updated": "2026-08-20T10:20:19.677Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ Fauzia",
-        "s": "2026-08-20T09:00:00+01:00",
-        "e": "2026-08-20T11:00:00+01:00",
-        "d": "Fauzia on The NTS Breakfast Show. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-fauzia-20th-august-2026"
-      },
       {
         "n": "SOUP TO NUTS W/ BABYSCHÖN",
         "s": "2026-08-20T11:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "Simon TK",
         "s": "2026-08-20T13:00:00+01:00",
         "e": "2026-08-20T14:00:00+01:00",
-        "d": null,
+        "d": "Melbourne selector Simon TK back in the London studio…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/simon-tk-20th-august-2026"
       },
       {
         "n": "Lola Leon",
@@ -80,13 +72,12 @@
         "t": "weekly"
       },
       {
-        "n": "DON'T TRIP W/ MARGARITA",
+        "n": "Don't Trip w/ Hora Lunga",
         "s": "2026-08-21T00:00:00+01:00",
         "e": "2026-08-21T02:00:00+01:00",
         "d": null,
-        "j": "MARGARITA",
-        "u": null,
-        "t": "monthly"
+        "j": null,
+        "u": null
       },
       {
         "n": "Lee Gamble (R)",
@@ -118,14 +109,14 @@
       {
         "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
         "s": "2026-08-21T07:00:00+01:00",
-        "e": "2026-08-21T08:00:00+01:00",
+        "e": "2026-08-21T09:00:00+01:00",
         "d": null,
         "j": "JACK ROLLO",
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "THE NTS BREAKFAST SHOW",
+        "n": "The NTS Breakfast Show w/ LOUISE CHEN",
         "s": "2026-08-21T09:00:00+01:00",
         "e": "2026-08-21T11:00:00+01:00",
         "d": null,
@@ -156,42 +147,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Slap City w/ Architect",
+        "s": "2026-08-21T15:00:00+01:00",
+        "e": "2026-08-21T16:00:00+01:00",
+        "d": null,
+        "j": "Architect",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Gribs (R)",
-        "s": "2026-08-20T09:00:00+01:00",
-        "e": "2026-08-20T10:00:00+01:00",
-        "d": "Life on wide mode.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/gribs/episodes/gribs-30th-april-2024",
-        "t": "restream"
-      },
-      {
-        "n": "PURE w/ Grand Voyage (R)",
-        "s": "2026-08-20T10:00:00+01:00",
-        "e": "2026-08-20T11:00:00+01:00",
-        "d": "El sol desapareciendo en el horizonte.\nPURE at Café Del Mar in Ibiza, and beyond. \nMusic for sunsets, directed by Evian Christ and Slam Jam.",
-        "j": "Grand Voyage",
-        "u": "https://www.nts.live/api/v2/shows/pure/episodes/pure-grand-voyage-5th-october-2025",
-        "t": "restream"
-      },
-      {
         "n": "YL Hooi w/ Curtis",
         "s": "2026-08-20T11:00:00+01:00",
         "e": "2026-08-20T12:00:00+01:00",
-        "d": null,
+        "d": "From the Host:'Guest mix made by 9 year old Curtis, airing live on his 10th birthday! We sat together to go through his list of songs las weekend. He chose where to put them all, when they should fade in or out, and was very specific about his final track. Great show, Curtis, and happy birthday!<3'",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-20th-august-2026"
       },
       {
         "n": "Mountain Cry w/ Marylou 'the cycles special'",
         "s": "2026-08-20T12:00:00+01:00",
         "e": "2026-08-20T13:00:00+01:00",
-        "d": null,
+        "d": "From the Host:'The Cycles Special - Ode to the infinite, the unpermanence, they are the eternal driving force. \nAmbient, dub, experimental as always, I hope you enjoy the journey.'",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/marylou/episodes/marylou-20th-august-2026"
       },
       {
         "n": "Tough Clouds W/ AGATHE ROUSSELLE",
@@ -309,27 +291,27 @@
         "j": "Marcy Mane",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "source",
-        "s": "2026-08-20T08:00:00Z",
-        "e": "2026-08-20T09:00:00Z",
+        "n": "626 Company (R)",
+        "s": "2026-08-21T04:00:00+01:00",
+        "e": "2026-08-21T05:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
       {
-        "n": "In The Rotation w/ Su",
-        "s": "2026-08-20T09:00:00Z",
-        "e": "2026-08-20T10:00:00Z",
+        "n": "LIV.E (R)",
+        "s": "2026-08-21T05:00:00+01:00",
+        "e": "2026-08-21T06:00:00+01:00",
         "d": null,
-        "j": "Su",
+        "j": null,
         "u": null,
-        "t": "biweekly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "Housekeeping",
         "s": "2026-08-20T10:00:00Z",
@@ -1233,8 +1215,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-20T07:00:00Z",
-        "e": "2026-08-20T09:00:00Z",
+        "s": "2026-08-20T09:00:00Z",
+        "e": "2026-08-20T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1242,8 +1224,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-20T09:00:00Z",
-        "e": "2026-08-20T11:00:00Z",
+        "s": "2026-08-20T11:00:00Z",
+        "e": "2026-08-20T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1753,15 +1735,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-08-20T06:00:00Z",
-        "e": "2026-08-20T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Charles Green",
         "s": "2026-08-20T09:00:00Z",
