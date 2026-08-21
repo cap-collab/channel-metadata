@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-08-21T14:25:00.891Z",
+  "updated": "2026-08-21T16:21:25.137Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Slap City w/ Architect",
-        "s": "2026-08-21T15:00:00+01:00",
-        "e": "2026-08-21T16:00:00+01:00",
-        "d": "DJ and producer, Architect, blends Rap music of all flavours and forms. Connecting classic and contemporary sounds from the UK, US, Caribbean and beyond. ",
-        "j": "Architect",
-        "u": "https://www.nts.live/api/v2/shows/architect/episodes/architect-21st-august-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "SELASSIE TBC",
-        "s": "2026-08-21T16:00:00+01:00",
-        "e": "2026-08-21T17:00:00+01:00",
-        "d": "A one hour ride through the soulful corners of alt rap, R&B, beats + hazy nu-soul, with the occasional electronic detour.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/selassie-tbc/episodes/selassie-tbc-21st-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "CHARISSE C",
         "s": "2026-08-21T17:00:00+01:00",
         "e": "2026-08-21T18:00:00+01:00",
-        "d": null,
+        "d": "Party starter & dancehall connoisseur Lil C live in session. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lil-c/episodes/lil-c-21st-august-2026",
         "t": "monthly"
       },
       {
         "n": "RUF DUG",
         "s": "2026-08-21T18:00:00+01:00",
         "e": "2026-08-21T19:00:00+01:00",
-        "d": null,
+        "d": "Ruf Dug brings the leftfield: old video game soundtracks, dusty analogue dreamers and poolside Balearic sounds. No nonsense from the original tropical cyberpunk.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ruf-dug/episodes/ruf-dug-21st-august-2026",
         "t": "biweekly"
       },
       {
@@ -74,12 +56,13 @@
         "u": null
       },
       {
-        "n": "LATE NIGHT BILLIARDS",
+        "n": "Prescription Records Special w/ Rush Hour (R)",
         "s": "2026-08-21T23:00:00+01:00",
         "e": "2026-08-22T00:00:00+01:00",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Rush Hour",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Blackest Ever Black (R)",
@@ -159,41 +142,41 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
+        "s": "2026-08-22T15:00:00+01:00",
+        "e": "2026-08-22T17:00:00+01:00",
+        "d": null,
+        "j": "MR PEDRO",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Aqwea",
+        "s": "2026-08-22T17:00:00+01:00",
+        "e": "2026-08-22T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Sally Shapiro 90's special",
-        "s": "2026-08-21T15:00:00+01:00",
-        "e": "2026-08-21T16:00:00+01:00",
-        "d": "From the Host:'We play and talk about some of our favourite tracks from the 90s, mostly synth pop, that have inspired us and aged well…and we also hear the brand new single by Johan Agebjörn & Little Boots.'",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/sally-shapiro/episodes/sally-shapiro-21st-august-2026"
-      },
-      {
-        "n": "DISCO PICKLES W/ DRY CLEANING",
-        "s": "2026-08-21T16:00:00+01:00",
-        "e": "2026-08-21T17:00:00+01:00",
-        "d": "The South London postpunk crew take control sharing an hour of selections every month.",
-        "j": "DRY CLEANING",
-        "u": "https://www.nts.live/api/v2/shows/dry-cleaning/episodes/dry-cleaning-21st-august-2026",
-        "t": "monthly"
-      },
-      {
         "n": "Olivia O. Worn Tapes & Rarities",
         "s": "2026-08-21T17:00:00+01:00",
         "e": "2026-08-21T18:00:00+01:00",
-        "d": null,
+        "d": "From the Host:'featuring music found through crate digging for cassettes & also highlighting many amazing female singer songwriters'",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/olivia-o/episodes/olivia-o-21st-august-2026"
       },
       {
         "n": "SARA A",
         "s": "2026-08-21T18:00:00+01:00",
         "e": "2026-08-21T19:00:00+01:00",
-        "d": null,
+        "d": "From the Host:'All American punk and hardcore \nRIP Screaming Mad George!'",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sara-a/episodes/sara-a-21st-august-2026",
         "t": "monthly"
       },
       {
@@ -315,18 +298,26 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "IDEALA w/ DUBBY (R)",
+        "s": "2026-08-22T13:00:00+01:00",
+        "e": "2026-08-22T14:00:00+01:00",
+        "d": null,
+        "j": "DUBBY",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "YOUTH",
+        "s": "2026-08-22T14:00:00+01:00",
+        "e": "2026-08-22T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [
-      {
-        "n": "Emma & Embla",
-        "s": "2026-08-21T14:00:00Z",
-        "e": "2026-08-21T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "The All Colours Show",
         "s": "2026-08-21T15:00:00Z",
@@ -1050,15 +1041,6 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-21T13:00:00Z",
-        "e": "2026-08-21T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
         "s": "2026-08-21T15:00:00Z",
         "e": "2026-08-21T17:00:00Z",
         "d": null,
@@ -1589,15 +1571,6 @@
     ],
     "rinse": [
       {
-        "n": "Jeremy Sylvester",
-        "s": "2026-08-21T13:00:00Z",
-        "e": "2026-08-21T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Scratcha",
         "s": "2026-08-21T15:00:00Z",
         "e": "2026-08-21T17:00:00Z",
@@ -1733,11 +1706,11 @@
         "t": "biweekly"
       },
       {
-        "n": "X CLUB.",
+        "n": "X CLUB. presents HIDE THE JUNK",
         "s": "2026-08-22T18:00:00Z",
         "e": "2026-08-22T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "SAIDAH",
         "u": null,
         "t": "monthly"
       },
@@ -1770,23 +1743,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "De Vedelly",
-        "s": "2026-08-21T14:00:00Z",
-        "e": "2026-08-21T15:00:00Z",
-        "d": null,
-        "j": "invite Corbeille Dallas",
-        "u": null
-      },
-      {
-        "n": "Jeune à Jamais",
-        "s": "2026-08-21T15:00:00Z",
-        "e": "2026-08-21T16:00:00Z",
-        "d": null,
-        "j": "invite B3BZ",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "HORS-SOL",
         "s": "2026-08-21T16:00:00Z",
