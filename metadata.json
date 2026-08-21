@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-21T06:29:48.635Z",
+  "updated": "2026-08-21T08:28:09.385Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO & Caapi",
-        "s": "2026-08-21T07:00:00+01:00",
-        "e": "2026-08-21T09:00:00+01:00",
-        "d": "First thing on Fridays - Jack Rollo's here to take care of things. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-jack-rollo/episodes/early-bird-show-jack-rollo-21st-august-2026"
-      },
       {
         "n": "The NTS Breakfast Show w/ LOUISE CHEN",
         "s": "2026-08-21T09:00:00+01:00",
@@ -23,9 +15,9 @@
         "n": "Soup To Nuts w/ Finn",
         "s": "2026-08-21T11:00:00+01:00",
         "e": "2026-08-21T13:00:00+01:00",
-        "d": null,
+        "d": "Let NTS brighten up your lunchtime hours.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-finn-21st-august-2026"
       },
       {
         "n": "PUM PUM POWER HOUR W/ LIL C",
@@ -157,43 +149,34 @@
         "j": "Acoustic Country Blues",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Fervent Moon (R)",
+        "s": "2026-08-22T07:00:00+01:00",
+        "e": "2026-08-22T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
       {
-        "n": "Aloha Got Soul Presents: Home Grown w/ Roger Bong (R)",
-        "s": "2026-08-21T07:00:00+01:00",
-        "e": "2026-08-21T08:00:00+01:00",
-        "d": "An exploration into obscure, underground, and lesser known music from Hawaii, bound not by genre or generation but by a connection to the islands. Hosted by Roger Bong of Aloha Got Soul, a record label and record store in Honolulu.\nFrom the host: \"Like a fever dream of free jazz, indie pop, ambient classical and other strange stuff.\"",
-        "j": "Roger Bong",
-        "u": "https://www.nts.live/api/v2/shows/aloha-got-soul/episodes/aloha-got-soul-18th-february-2026",
-        "t": "restream"
-      },
-      {
-        "n": "Trapdoor w/ Neil Krug (R)",
-        "s": "2026-08-21T08:00:00+01:00",
-        "e": "2026-08-21T09:00:00+01:00",
-        "d": "Neil Krug is an American visual artist, director, and photographer based in Los Angeles. Tune in for a sonic lysergic tale of love, heartbreak, and redemption.",
-        "j": "Neil Krug",
-        "u": "https://www.nts.live/api/v2/shows/neil-krug/episodes/neil-krug-15th-february-2025",
-        "t": "restream"
-      },
-      {
         "n": "ICHIKO AOBA (R)",
         "s": "2026-08-21T09:00:00+01:00",
         "e": "2026-08-21T10:00:00+01:00",
-        "d": null,
+        "d": "Diving into the dreamscape of Japanese ambient folk phenomenon Ichiko Aoba. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ichiko-aoba/episodes/ichiko-aoba-19th-november-2025",
         "t": "restream"
       },
       {
         "n": "In Focus: Miriam Makeba",
         "s": "2026-08-21T10:00:00+01:00",
         "e": "2026-08-21T12:00:00+01:00",
-        "d": null,
+        "d": "Miriam Makeba, nicknamed Mama Africa, was a South African singer, songwriter, actress, and civil rights activist. Associated with musical genres including Afropop, jazz, and world music, she was an advocate against apartheid and white-minority government in South Africa.\nSelected and mixed by TrYb.",
         "j": "Miriam Makeba",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-miriam-makeba-21st-august-2026",
         "t": "weekly"
       },
       {
@@ -310,6 +293,24 @@
         "n": "Stephane (R)",
         "s": "2026-08-22T05:00:00+01:00",
         "e": "2026-08-22T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Bad Vibes w/ Eyedress (R)",
+        "s": "2026-08-22T06:00:00+01:00",
+        "e": "2026-08-22T07:00:00+01:00",
+        "d": null,
+        "j": "Eyedress",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Image Search (R)",
+        "s": "2026-08-22T07:00:00+01:00",
+        "e": "2026-08-22T08:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
@@ -1084,18 +1085,18 @@
     ],
     "dublab": [
       {
-        "n": "Spaceship Earth - Space Master",
-        "s": "2026-08-21T05:00:00Z",
-        "e": "2026-08-21T07:00:00Z",
-        "d": null,
-        "j": "Space Master",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-08-21T07:00:00Z",
         "e": "2026-08-21T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-21T09:00:00Z",
+        "e": "2026-08-21T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1825,15 +1826,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-20T22:00:00Z",
-        "e": "2026-08-21T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-21T07:00:00Z",
         "e": "2026-08-21T12:00:00Z",
         "d": null,
@@ -1842,9 +1834,95 @@
         "t": "playlist"
       },
       {
-        "n": "Yaël Ohayon",
+        "n": "Roman Delore",
         "s": "2026-08-21T12:00:00Z",
         "e": "2026-08-21T13:00:00Z",
+        "d": null,
+        "j": "Tri Selectif",
+        "u": null
+      },
+      {
+        "n": "D’Julz",
+        "s": "2026-08-21T13:00:00Z",
+        "e": "2026-08-21T14:00:00Z",
+        "d": null,
+        "j": "Home Diggin'",
+        "u": null
+      },
+      {
+        "n": "De Vedelly",
+        "s": "2026-08-21T14:00:00Z",
+        "e": "2026-08-21T15:00:00Z",
+        "d": null,
+        "j": "invite Corbeille Dallas",
+        "u": null
+      },
+      {
+        "n": "Jeune à Jamais",
+        "s": "2026-08-21T15:00:00Z",
+        "e": "2026-08-21T16:00:00Z",
+        "d": null,
+        "j": "invite B3BZ",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "HORS-SOL",
+        "s": "2026-08-21T16:00:00Z",
+        "e": "2026-08-21T17:00:00Z",
+        "d": null,
+        "j": "Maryu",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Bunkaball",
+        "s": "2026-08-21T17:00:00Z",
+        "e": "2026-08-21T18:00:00Z",
+        "d": null,
+        "j": "invite Marvy",
+        "u": null
+      },
+      {
+        "n": "Public System Recordings",
+        "s": "2026-08-21T18:00:00Z",
+        "e": "2026-08-21T19:00:00Z",
+        "d": null,
+        "j": "MYN invite LAKE HAZE",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-21T19:00:00Z",
+        "e": "2026-08-21T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-21T22:00:00Z",
+        "e": "2026-08-22T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-22T07:00:00Z",
+        "e": "2026-08-22T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Yaël Ohayon",
+        "s": "2026-08-22T12:00:00Z",
+        "e": "2026-08-22T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1852,8 +1930,8 @@
       },
       {
         "n": "Human Disease Network",
-        "s": "2026-08-21T13:00:00Z",
-        "e": "2026-08-21T14:00:00Z",
+        "s": "2026-08-22T13:00:00Z",
+        "e": "2026-08-22T14:00:00Z",
         "d": null,
         "j": "avec A-Sim - Tribute to Ghetto House",
         "u": null,
@@ -1861,16 +1939,16 @@
       },
       {
         "n": "2-Steppers",
-        "s": "2026-08-21T14:00:00Z",
-        "e": "2026-08-21T15:00:00Z",
+        "s": "2026-08-22T14:00:00Z",
+        "e": "2026-08-22T15:00:00Z",
         "d": null,
         "j": "invite Friend Of Mine",
         "u": null
       },
       {
         "n": "Adam BFD",
-        "s": "2026-08-21T15:00:00Z",
-        "e": "2026-08-21T16:00:00Z",
+        "s": "2026-08-22T15:00:00Z",
+        "e": "2026-08-22T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1878,8 +1956,8 @@
       },
       {
         "n": "Shampain",
-        "s": "2026-08-21T16:00:00Z",
-        "e": "2026-08-21T17:00:00Z",
+        "s": "2026-08-22T16:00:00Z",
+        "e": "2026-08-22T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1887,8 +1965,8 @@
       },
       {
         "n": "Tijolo Records",
-        "s": "2026-08-21T17:00:00Z",
-        "e": "2026-08-21T18:00:00Z",
+        "s": "2026-08-22T17:00:00Z",
+        "e": "2026-08-22T18:00:00Z",
         "d": null,
         "j": "DATA ASSAULT",
         "u": null,
@@ -1896,16 +1974,16 @@
       },
       {
         "n": "Neida",
-        "s": "2026-08-21T18:00:00Z",
-        "e": "2026-08-21T19:00:00Z",
+        "s": "2026-08-22T18:00:00Z",
+        "e": "2026-08-22T19:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-21T19:00:00Z",
-        "e": "2026-08-21T20:00:00Z",
+        "s": "2026-08-22T19:00:00Z",
+        "e": "2026-08-22T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
