@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-21T22:13:51.313Z",
+  "updated": "2026-08-22T00:42:13.862Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Prescription Records Special w/ Rush Hour (R)",
-        "s": "2026-08-21T23:00:00+01:00",
-        "e": "2026-08-22T00:00:00+01:00",
-        "d": "One hour of Ron Trent and Prescription Records favourites, put together by Antal. Prescription, the defining label of the 90s deep house sound, founded by Chez Damier & Ron Trent.\nA 2hr version of the show was broadcast on 22/02/2017 to co-inside with the release of Ron Trent presents Prescription - Word, Sound & Power.",
-        "j": "Rush Hour",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/prescription-w-rush-hour-22nd-february-2017",
-        "t": "restream"
-      },
       {
         "n": "Blackest Ever Black (R)",
         "s": "2026-08-22T00:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "Nosedrip (R)",
         "s": "2026-08-22T02:00:00+01:00",
         "e": "2026-08-22T04:00:00+01:00",
-        "d": null,
+        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-20th-february-2025",
         "t": "restream"
       },
       {
@@ -158,17 +149,18 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "CLAIRO (R)",
+        "s": "2026-08-23T02:00:00+01:00",
+        "e": "2026-08-23T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "CRY LATER W/ TROPIC OF CANCER",
-        "s": "2026-08-21T23:00:00+01:00",
-        "e": "2026-08-22T00:00:00+01:00",
-        "d": "From the Host:'A dynamic range of classics, randoms and rarities from the band, Felt, on the heels of their recent reunion'",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tropic-of-cancer/episodes/tropic-of-cancer-21st-august-2026"
-      },
       {
         "n": "Bump City w/ Billy Goods & Yamagucci",
         "s": "2026-08-22T00:00:00+01:00",
@@ -182,9 +174,9 @@
         "n": "NTS Guide To Something 2 Ride 2 - NTS G-Funk Vol. 1",
         "s": "2026-08-22T02:00:00+01:00",
         "e": "2026-08-22T03:00:00+01:00",
-        "d": null,
+        "d": "Laid back attitudes and trunk rattling bass lines from the west coast. \nCreated by NTS.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/g-funk-vol-1-24thapril-2020"
       },
       {
         "n": "TOPIAS W/ GABRIEL MEIER",
@@ -312,27 +304,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "defkon (R)",
+        "s": "2026-08-22T21:00:00+01:00",
+        "e": "2026-08-22T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
-      {
-        "n": "TMANTUS",
-        "s": "2026-08-21T22:00:00Z",
-        "e": "2026-08-21T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Reefa Lé Funk",
-        "s": "2026-08-21T23:00:00Z",
-        "e": "2026-08-22T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": " Liquid Basslines",
         "s": "2026-08-22T00:00:00Z",
@@ -992,15 +975,6 @@
     ],
     "dublab": [
       {
-        "n": "Zama Dube - The Witch's Flight",
-        "s": "2026-08-21T21:00:00Z",
-        "e": "2026-08-21T23:00:00Z",
-        "d": null,
-        "j": "The Witch's Flight",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Hymnal and Mixmaster Wolf - Psychedelic Stax",
         "s": "2026-08-21T23:00:00Z",
         "e": "2026-08-22T01:00:00Z",
@@ -1520,18 +1494,18 @@
         "j": "Tipping Point",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Danny Goliger - Backwards Looking Forwards",
+        "s": "2026-08-28T23:00:00Z",
+        "e": "2026-08-29T01:00:00Z",
+        "d": null,
+        "j": "Backwards Looking Forwards",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Clementaum",
-        "s": "2026-08-21T22:00:00Z",
-        "e": "2026-08-21T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Tom Ravenscroft",
         "s": "2026-08-21T23:00:00Z",
@@ -1648,6 +1622,122 @@
         "j": "FUKHED",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Jeremy Sylvester",
+        "s": "2026-08-22T23:00:00Z",
+        "e": "2026-08-23T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-08-23T01:00:00Z",
+        "e": "2026-08-23T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "DJ Polo",
+        "s": "2026-08-23T05:00:00Z",
+        "e": "2026-08-23T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Playlist",
+        "s": "2026-08-23T06:00:00Z",
+        "e": "2026-08-23T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Wisdom Teeth",
+        "s": "2026-08-23T09:00:00Z",
+        "e": "2026-08-23T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Dean Bryce",
+        "s": "2026-08-23T11:00:00Z",
+        "e": "2026-08-23T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Dance Regular",
+        "s": "2026-08-23T13:00:00Z",
+        "e": "2026-08-23T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "HABITAT",
+        "s": "2026-08-23T15:00:00Z",
+        "e": "2026-08-23T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Flyo",
+        "s": "2026-08-23T16:00:00Z",
+        "e": "2026-08-23T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Plastician",
+        "s": "2026-08-23T17:00:00Z",
+        "e": "2026-08-23T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "EMA",
+        "s": "2026-08-23T19:00:00Z",
+        "e": "2026-08-23T20:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Oblig",
+        "s": "2026-08-23T20:00:00Z",
+        "e": "2026-08-23T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "TEKLIFE",
+        "s": "2026-08-23T22:00:00Z",
+        "e": "2026-08-23T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "rinsefr": [
@@ -1670,65 +1760,67 @@
         "t": "playlist"
       },
       {
-        "n": "Yaël Ohayon",
+        "n": "Dimé Takeover",
         "s": "2026-08-22T12:00:00Z",
         "e": "2026-08-22T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Mémoire de l'esclavage aux Antilles ('48-'98) avec Valerie-Ann Edmond-Mariette",
         "u": null,
-        "t": "monthly"
+        "t": "weekly"
       },
       {
-        "n": "Human Disease Network",
+        "n": "Dimé Takeover",
         "s": "2026-08-22T13:00:00Z",
         "e": "2026-08-22T14:00:00Z",
         "d": null,
-        "j": "avec A-Sim - Tribute to Ghetto House",
+        "j": "Karukera Continuum - Gwoka et Nubeats Afro-caribéens avec Jeebrahil",
         "u": null,
-        "t": "monthly"
+        "t": "weekly"
       },
       {
-        "n": "2-Steppers",
+        "n": "Dimé Takeover",
         "s": "2026-08-22T14:00:00Z",
         "e": "2026-08-22T15:00:00Z",
         "d": null,
-        "j": "invite Friend Of Mine",
-        "u": null
+        "j": "Voyage avec les ancêtres - Book club Overbooké avec Isis Labeau Caberia",
+        "u": null,
+        "t": "weekly"
       },
       {
-        "n": "Adam BFD",
+        "n": "Dimé Takeover",
         "s": "2026-08-22T15:00:00Z",
         "e": "2026-08-22T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Roses déracinées - Mémoires d'une famille guyanaise avec Jadine de Fanm Média",
         "u": null,
-        "t": "monthly"
+        "t": "weekly"
       },
       {
-        "n": "Shampain",
+        "n": "Dimé Takeover",
         "s": "2026-08-22T16:00:00Z",
         "e": "2026-08-22T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Séance d'écoute commentée sur les musiques palops et les indépendances avec OKINKA",
         "u": null,
-        "t": "biweekly"
+        "t": "weekly"
       },
       {
-        "n": "Tijolo Records",
+        "n": "Dimé Takeover",
         "s": "2026-08-22T17:00:00Z",
         "e": "2026-08-22T18:00:00Z",
         "d": null,
-        "j": "DATA ASSAULT",
+        "j": "Côte d’Ivoire Sonic Archive : Indépendance & Post-Indépendance avec Baoulé Core",
         "u": null,
-        "t": "monthly"
+        "t": "weekly"
       },
       {
-        "n": "Neida",
+        "n": "Dimé Takeover",
         "s": "2026-08-22T18:00:00Z",
         "e": "2026-08-22T19:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Archives et Sonorités de l'Océan Indien - Noun Envi Dansé avec Roi Luis",
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "Playlist France",
