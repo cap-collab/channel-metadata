@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-22T10:13:38.855Z",
+  "updated": "2026-08-22T12:20:20.213Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ Minus Kendal",
-        "s": "2026-08-22T10:00:00+01:00",
-        "e": "2026-08-22T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-22nd-august-2026"
-      },
       {
         "n": "ROSS ALLEN",
         "s": "2026-08-22T12:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "TARZSA",
         "s": "2026-08-22T14:00:00+01:00",
         "e": "2026-08-22T15:00:00+01:00",
-        "d": null,
+        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-22nd-august-2026",
         "t": "monthly"
       },
       {
@@ -158,41 +150,35 @@
         "j": null,
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Ondas w/ Dubby",
+        "s": "2026-08-23T08:00:00+01:00",
+        "e": "2026-08-23T09:00:00+01:00",
+        "d": null,
+        "j": "Dubby",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Rough Version w/ Andrea Bowers",
-        "s": "2026-08-22T11:00:00+01:00",
-        "e": "2026-08-22T12:00:00+01:00",
-        "d": "Francesca Gavin talks to contemporary artists about their work, music, and the relationships between. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rough-version/episodes/rough-version-22nd-august-2026"
-      },
-      {
-        "n": "Living.Canon w/ Cassie Kinoshi",
-        "s": "2026-08-22T12:00:00+01:00",
-        "e": "2026-08-22T13:00:00+01:00",
-        "d": "Living.Canon is a show hosted by Cassie Kinoshi exploring heritage, memory, and self-discovery in contemporary classical, electronic, and improvised music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/livingcanon-w-cassie-kinoshi-22nd-august-2026"
-      },
-      {
         "n": "IDEALA w/ DUBBY (R)",
         "s": "2026-08-22T13:00:00+01:00",
         "e": "2026-08-22T14:00:00+01:00",
-        "d": null,
+        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
         "j": "DUBBY",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-4th-june-2023",
         "t": "restream"
       },
       {
         "n": "YOUTH",
         "s": "2026-08-22T14:00:00+01:00",
         "e": "2026-08-22T15:00:00+01:00",
-        "d": null,
+        "d": "Andrew Lyster's YOUTH takes over the NTS airwaves live from MO6B in Stockport once a month.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/youth/episodes/youth-22nd-august-2026",
+        "t": "monthly"
       },
       {
         "n": "NTS Guide to: Mafia & Fluxy Versions",
@@ -314,27 +300,27 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": " Afroasis",
-        "s": "2026-08-22T10:00:00Z",
-        "e": "2026-08-22T11:00:00Z",
+        "n": "80s Rampwalk (R)",
+        "s": "2026-08-23T08:00:00+01:00",
+        "e": "2026-08-23T09:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "restream"
       },
       {
-        "n": "Solid Moves w/ Sophia & Ronaldo",
-        "s": "2026-08-22T11:00:00Z",
-        "e": "2026-08-22T12:00:00Z",
+        "n": "NTS Guide to: World Music Library",
+        "s": "2026-08-23T09:00:00+01:00",
+        "e": "2026-08-23T11:00:00+01:00",
         "d": null,
-        "j": "Sophia & Ronaldo",
+        "j": "World Music Library",
         "u": null,
-        "t": "monthly"
-      },
+        "t": "weekly"
+      }
+    ],
+    "subtle": [
       {
         "n": "Collectors' Cuts",
         "s": "2026-08-22T13:00:00Z",
@@ -923,15 +909,6 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-22T09:00:00Z",
-        "e": "2026-08-22T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
         "s": "2026-08-22T11:00:00Z",
         "e": "2026-08-22T15:00:00Z",
         "d": null,
@@ -1450,18 +1427,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Breakfast with Charles Green & Anthony Faulkner",
-        "s": "2026-08-22T09:00:00Z",
-        "e": "2026-08-22T11:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-08-29T11:00:00Z",
+        "e": "2026-08-29T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
+        "t": "playlist"
+      }
+    ],
+    "rinse": [
       {
         "n": "Hi-Fidelity",
         "s": "2026-08-22T11:00:00Z",
@@ -1661,15 +1638,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-22T07:00:00Z",
-        "e": "2026-08-22T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Yaël Ohayon",
         "s": "2026-08-22T12:00:00Z",
