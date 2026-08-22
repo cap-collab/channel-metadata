@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-08-22T12:20:20.213Z",
+  "updated": "2026-08-22T14:14:15.559Z",
   "stations": {
     "nts1": [
-      {
-        "n": "ROSS ALLEN",
-        "s": "2026-08-22T12:00:00+01:00",
-        "e": "2026-08-22T14:00:00+01:00",
-        "d": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ross-allen/episodes/ross-allen-22nd-august-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "TARZSA",
-        "s": "2026-08-22T14:00:00+01:00",
-        "e": "2026-08-22T15:00:00+01:00",
-        "d": "Manchester's Tarzsa brings good vibes Soul, RnB & Jazz to the NTS airwaves once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tarzsa/episodes/tarzsa-22nd-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "THE EXTENDED PLAY SESSIONS W/ MR PEDRO",
         "s": "2026-08-22T15:00:00+01:00",
         "e": "2026-08-22T17:00:00+01:00",
-        "d": null,
+        "d": "Long time record collector and purveyor of fine musical flavours Mr. Pedro cooks up a banquet of aural delights every other week: afrobeat to disco and more, time to liven up. ",
         "j": "MR PEDRO",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-extended-play-sessions/episodes/the-extended-play-sessions-22nd-august-2026",
         "t": "biweekly"
       },
       {
         "n": "Aqwea",
         "s": "2026-08-22T17:00:00+01:00",
         "e": "2026-08-22T18:00:00+01:00",
-        "d": null,
+        "d": "The London based producer and DJ takes on the NTS airwaves…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/aqwea/episodes/aqwea-22nd-august-2026"
       },
       {
         "n": "Séance Centre: Toronto Reggae Special (R)",
@@ -159,43 +141,43 @@
         "j": "Dubby",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "THEA HD",
+        "s": "2026-08-23T09:00:00+01:00",
+        "e": "2026-08-23T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "THE SLIP w/ Officer John (live set)",
+        "s": "2026-08-23T10:00:00+01:00",
+        "e": "2026-08-23T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "IDEALA w/ DUBBY (R)",
-        "s": "2026-08-22T13:00:00+01:00",
-        "e": "2026-08-22T14:00:00+01:00",
-        "d": "This program is curated by Ondas Representative, Dubby. It features artists, both well-known and unknown, with a unique aesthetic from a wide range of genres that used to be available at Ondas.",
-        "j": "DUBBY",
-        "u": "https://www.nts.live/api/v2/shows/ideala/episodes/ideala-4th-june-2023",
-        "t": "restream"
-      },
-      {
-        "n": "YOUTH",
-        "s": "2026-08-22T14:00:00+01:00",
-        "e": "2026-08-22T15:00:00+01:00",
-        "d": "Andrew Lyster's YOUTH takes over the NTS airwaves live from MO6B in Stockport once a month.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/youth/episodes/youth-22nd-august-2026",
-        "t": "monthly"
-      },
-      {
         "n": "NTS Guide to: Mafia & Fluxy Versions",
         "s": "2026-08-22T15:00:00+01:00",
         "e": "2026-08-22T16:00:00+01:00",
-        "d": null,
+        "d": "Keeping things dubwise with an hour of versions from UK producers Mafia & Fluxy.",
         "j": "Mafia & Fluxy Versions",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-mafia-fluxy-versions-11th-august-2023",
         "t": "weekly"
       },
       {
         "n": "CheckMate",
         "s": "2026-08-22T16:00:00+01:00",
         "e": "2026-08-22T17:00:00+01:00",
-        "d": null,
+        "d": "The Brothers Grimm of Manchester aka The Eskitürks, bring their far-reaching tastes to the NTS studio once a month with regular guests joining the journey.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dubuntu/episodes/dubuntu-22nd-august-2026",
+        "t": "monthly"
       },
       {
         "n": "Gintė Preisaitė",
@@ -318,18 +300,27 @@
         "j": "World Music Library",
         "u": null,
         "t": "weekly"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Collectors' Cuts",
-        "s": "2026-08-22T13:00:00Z",
-        "e": "2026-08-22T14:00:00Z",
+        "n": "Naya Beat Records Presents Awaaz (R)",
+        "s": "2026-08-23T11:00:00+01:00",
+        "e": "2026-08-23T12:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
+      {
+        "n": "Image Search - Summer Day Mix (R)",
+        "s": "2026-08-23T12:00:00+01:00",
+        "e": "2026-08-23T13:00:00+01:00",
+        "d": null,
+        "j": "Summer Day Mix",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": "SPD",
         "s": "2026-08-22T14:00:00Z",
@@ -1440,15 +1431,6 @@
     ],
     "rinse": [
       {
-        "n": "Hi-Fidelity",
-        "s": "2026-08-22T11:00:00Z",
-        "e": "2026-08-22T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Counter Culture",
         "s": "2026-08-22T13:00:00Z",
         "e": "2026-08-22T15:00:00Z",
@@ -1638,24 +1620,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Yaël Ohayon",
-        "s": "2026-08-22T12:00:00Z",
-        "e": "2026-08-22T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Human Disease Network",
-        "s": "2026-08-22T13:00:00Z",
-        "e": "2026-08-22T14:00:00Z",
-        "d": null,
-        "j": "avec A-Sim - Tribute to Ghetto House",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "2-Steppers",
         "s": "2026-08-22T14:00:00Z",
