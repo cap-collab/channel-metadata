@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-22T06:23:25.403Z",
+  "updated": "2026-08-22T08:18:16.326Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Fervent Moon (R)",
-        "s": "2026-08-22T07:00:00+01:00",
-        "e": "2026-08-22T08:00:00+01:00",
-        "d": "DJ: “… I don’t know, I didn’t… I didn’t think I’d be the one holding the air, I never spoke live before the event consumed the many. I’ve no news for the desperate survivors and… and I can’t… well, I can hope that this next song might help us survive a little longer…\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/fervent-moon/episodes/fervent-moon-16th-september-2022",
-        "t": "restream"
-      },
       {
         "n": "YOUARELISTENING.TO",
         "s": "2026-08-22T08:00:00+01:00",
@@ -24,9 +15,9 @@
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ Minus Kendal",
         "s": "2026-08-22T10:00:00+01:00",
         "e": "2026-08-22T12:00:00+01:00",
-        "d": null,
+        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-22nd-august-2026"
       },
       {
         "n": "ROSS ALLEN",
@@ -157,18 +148,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Alice Coltrane Special: Brandee Younger Live Performance (R)",
+        "s": "2026-08-23T07:00:00+01:00",
+        "e": "2026-08-23T07:30:00+01:00",
+        "d": null,
+        "j": "Brandee Younger Live Performance",
+        "u": null,
+        "t": "restream"
       }
     ],
     "nts2": [
-      {
-        "n": "Image Search (R)",
-        "s": "2026-08-22T07:00:00+01:00",
-        "e": "2026-08-22T08:00:00+01:00",
-        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month.\nEmail: animalimagesearch@gmail.com",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-21st-november-2024",
-        "t": "restream"
-      },
       {
         "n": "ROCKERS DELIGHT W/ EXOTIC GARDENS (R)",
         "s": "2026-08-22T08:00:00+01:00",
@@ -182,9 +173,9 @@
         "n": "Image Search - Aster Aweke Special (R)",
         "s": "2026-08-22T10:00:00+01:00",
         "e": "2026-08-22T11:00:00+01:00",
-        "d": null,
+        "d": "An hour of cassette-ripped selections from Ethiopian singer Aster Aweke.",
         "j": "Aster Aweke Special",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-22nd-december-2022",
         "t": "restream"
       },
       {
@@ -311,6 +302,15 @@
         "e": "2026-08-23T04:00:00+01:00",
         "d": null,
         "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "SKYAPNEA w/ INDEX:Records (R)",
+        "s": "2026-08-23T04:00:00+01:00",
+        "e": "2026-08-23T06:00:00+01:00",
+        "d": null,
+        "j": "INDEX",
         "u": null,
         "t": "restream"
       }
@@ -939,18 +939,18 @@
     ],
     "dublab": [
       {
-        "n": "Victor Rodriguez and Chris Bowen - Bears in Space",
-        "s": "2026-08-22T05:00:00Z",
-        "e": "2026-08-22T07:00:00Z",
-        "d": null,
-        "j": "Bears in Space",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-08-22T07:00:00Z",
         "e": "2026-08-22T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-22T09:00:00Z",
+        "e": "2026-08-22T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1467,6 +1467,15 @@
         "j": "The Basement",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-29T07:00:00Z",
+        "e": "2026-08-29T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
       }
     ],
     "rinse": [
@@ -1680,15 +1689,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-21T22:00:00Z",
-        "e": "2026-08-22T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-22T07:00:00Z",
         "e": "2026-08-22T12:00:00Z",
         "d": null,
@@ -1697,9 +1697,97 @@
         "t": "playlist"
       },
       {
-        "n": "Dimé Takeover",
+        "n": "Yaël Ohayon",
         "s": "2026-08-22T12:00:00Z",
         "e": "2026-08-22T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Human Disease Network",
+        "s": "2026-08-22T13:00:00Z",
+        "e": "2026-08-22T14:00:00Z",
+        "d": null,
+        "j": "avec A-Sim - Tribute to Ghetto House",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "2-Steppers",
+        "s": "2026-08-22T14:00:00Z",
+        "e": "2026-08-22T15:00:00Z",
+        "d": null,
+        "j": "invite Friend Of Mine",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Adam BFD",
+        "s": "2026-08-22T15:00:00Z",
+        "e": "2026-08-22T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Shampain",
+        "s": "2026-08-22T16:00:00Z",
+        "e": "2026-08-22T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Tijolo Records",
+        "s": "2026-08-22T17:00:00Z",
+        "e": "2026-08-22T18:00:00Z",
+        "d": null,
+        "j": "DATA ASSAULT",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Neida",
+        "s": "2026-08-22T18:00:00Z",
+        "e": "2026-08-22T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-22T19:00:00Z",
+        "e": "2026-08-22T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-22T22:00:00Z",
+        "e": "2026-08-23T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-23T07:00:00Z",
+        "e": "2026-08-23T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Dimé Takeover",
+        "s": "2026-08-23T12:00:00Z",
+        "e": "2026-08-23T13:00:00Z",
         "d": null,
         "j": "Mémoire de l'esclavage aux Antilles ('48-'98) avec Valerie-Ann Edmond-Mariette",
         "u": null,
@@ -1707,8 +1795,8 @@
       },
       {
         "n": "Dimé Takeover",
-        "s": "2026-08-22T13:00:00Z",
-        "e": "2026-08-22T14:00:00Z",
+        "s": "2026-08-23T13:00:00Z",
+        "e": "2026-08-23T14:00:00Z",
         "d": null,
         "j": "Karukera Continuum - Gwoka et Nubeats Afro-caribéens avec Jeebrahil",
         "u": null,
@@ -1716,8 +1804,8 @@
       },
       {
         "n": "Dimé Takeover",
-        "s": "2026-08-22T14:00:00Z",
-        "e": "2026-08-22T15:00:00Z",
+        "s": "2026-08-23T14:00:00Z",
+        "e": "2026-08-23T15:00:00Z",
         "d": null,
         "j": "Voyage avec les ancêtres - Book club Overbooké avec Isis Labeau Caberia",
         "u": null,
@@ -1725,8 +1813,8 @@
       },
       {
         "n": "Dimé Takeover",
-        "s": "2026-08-22T15:00:00Z",
-        "e": "2026-08-22T16:00:00Z",
+        "s": "2026-08-23T15:00:00Z",
+        "e": "2026-08-23T16:00:00Z",
         "d": null,
         "j": "Roses déracinées - Mémoires d'une famille guyanaise avec Jadine de Fanm Média",
         "u": null,
@@ -1734,8 +1822,8 @@
       },
       {
         "n": "Dimé Takeover",
-        "s": "2026-08-22T16:00:00Z",
-        "e": "2026-08-22T17:00:00Z",
+        "s": "2026-08-23T16:00:00Z",
+        "e": "2026-08-23T17:00:00Z",
         "d": null,
         "j": "Séance d'écoute commentée sur les musiques palops et les indépendances avec OKINKA",
         "u": null,
@@ -1743,8 +1831,8 @@
       },
       {
         "n": "Dimé Takeover",
-        "s": "2026-08-22T17:00:00Z",
-        "e": "2026-08-22T18:00:00Z",
+        "s": "2026-08-23T17:00:00Z",
+        "e": "2026-08-23T18:00:00Z",
         "d": null,
         "j": "Côte d’Ivoire Sonic Archive : Indépendance & Post-Indépendance avec Baoulé Core",
         "u": null,
@@ -1752,8 +1840,8 @@
       },
       {
         "n": "Dimé Takeover",
-        "s": "2026-08-22T18:00:00Z",
-        "e": "2026-08-22T19:00:00Z",
+        "s": "2026-08-23T18:00:00Z",
+        "e": "2026-08-23T19:00:00Z",
         "d": null,
         "j": "Archives et Sonorités de l'Océan Indien - Noun Envi Dansé avec Roi Luis",
         "u": null,
@@ -1761,8 +1849,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-22T19:00:00Z",
-        "e": "2026-08-22T20:00:00Z",
+        "s": "2026-08-23T19:00:00Z",
+        "e": "2026-08-23T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1771,15 +1859,6 @@
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "TVOD",
-        "s": "2026-08-22T05:00:00Z",
-        "e": "2026-08-22T07:00:00Z",
-        "d": null,
-        "j": "Jason P",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Head in the Subs",
         "s": "2026-08-24T01:00:00Z",
