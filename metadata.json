@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-08-23T02:54:34.117Z",
+  "updated": "2026-08-23T04:27:58.779Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Janie Jones (R)",
-        "s": "2026-08-23T03:00:00+01:00",
-        "e": "2026-08-23T04:00:00+01:00",
-        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-29th-october-2023",
-        "t": "restream"
-      },
-      {
-        "n": "AN1MA (R)",
-        "s": "2026-08-23T04:00:00+01:00",
-        "e": "2026-08-23T05:00:00+01:00",
-        "d": "integration sounds from the source; an invitation into the shadow.\nFrom the host: \"<3\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-1st-december-2025",
-        "t": "restream"
-      },
       {
         "n": "LIVE AT THE CLINIC - SIDETRACKED BY TIZITA (R)",
         "s": "2026-08-23T05:00:00+01:00",
         "e": "2026-08-23T06:00:00+01:00",
-        "d": null,
+        "d": "LIVE AT THE CLINIC (or LATC for short) is an artist-led initiative founded by shadowy London beatmaker and US Rap collaborator psychedelic ensemble.\nCurrently, the LATC umbrella includes a record label, and this monthly radio show on NTS, unravelling an hour-long assemblage of grimy instrumentals and edits.",
         "j": "SIDETRACKED BY TIZITA",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/psychedelic-ensemble/episodes/psychedelic-ensemble-2nd-december-2024",
         "t": "restream"
       },
       {
         "n": "In Focus: Leontyne Price",
         "s": "2026-08-23T06:00:00+01:00",
         "e": "2026-08-23T07:00:00+01:00",
-        "d": null,
+        "d": "Mississippi-born Opera singer Leontyne Price's career was a long list of firsts and pioneering breakthroughs, including being the first African American opera singer to perform on television, becoming one of the most recorded opera singers of all time, and receiving upwards of 20 Grammy awards. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-leontyne-price-1st-december-2023"
       },
       {
         "n": "Alice Coltrane Special: Brandee Younger Live Performance (R)",
@@ -161,18 +143,27 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "OTOLOGIC",
+        "s": "2026-08-24T00:00:00+01:00",
+        "e": "2026-08-24T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Sounds On Screen: Techno Thrillers",
+        "s": "2026-08-24T02:00:00+01:00",
+        "e": "2026-08-24T04:00:00+01:00",
+        "d": null,
+        "j": "Techno Thrillers",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "No Weapon Is Absolute (R)",
-        "s": "2026-08-23T03:00:00+01:00",
-        "e": "2026-08-23T04:00:00+01:00",
-        "d": "Cosmo Vitelli & DJ Sundae head up the monthly hour-long slot for No Weapon Is Absolute, direct from Paris…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/no-weapon-is-absolute/episodes/no-weapon-is-absolute-7th-january-2026",
-        "t": "restream"
-      },
       {
         "n": "SKYAPNEA w/ INDEX:Records (R)",
         "s": "2026-08-23T04:00:00+01:00",
@@ -186,9 +177,9 @@
         "n": "Post-Geography (R)",
         "s": "2026-08-23T06:00:00+01:00",
         "e": "2026-08-23T07:00:00+01:00",
-        "d": null,
+        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-30th-october-2025",
         "t": "restream"
       },
       {
@@ -320,27 +311,18 @@
         "j": "Keiyaa",
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [
+      },
       {
-        "n": "Evo",
-        "s": "2026-08-23T02:00:00Z",
-        "e": "2026-08-23T03:00:00Z",
+        "n": "Hollow Points Radio (R)",
+        "s": "2026-08-24T03:00:00+01:00",
+        "e": "2026-08-24T04:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Clairvoyage w/ Search Urchin",
-        "s": "2026-08-23T03:00:00Z",
-        "e": "2026-08-23T04:00:00Z",
-        "d": null,
-        "j": "Search Urchin",
-        "u": null,
-        "t": "monthly"
-      },
+        "t": "restream"
+      }
+    ],
+    "subtle": [
       {
         "n": " All Fitz",
         "s": "2026-08-23T07:00:00Z",
@@ -820,18 +802,18 @@
     ],
     "dublab": [
       {
-        "n": "Motorist – Continuum",
-        "s": "2026-08-23T01:00:00Z",
-        "e": "2026-08-23T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "sounds of NOW",
         "s": "2026-08-23T03:00:00Z",
         "e": "2026-08-23T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-08-23T05:00:00Z",
+        "e": "2026-08-23T07:00:00Z",
         "d": null,
         "j": null,
         "u": null,
