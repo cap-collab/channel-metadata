@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-24T12:28:55.190Z",
+  "updated": "2026-08-24T14:32:27.751Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Melodies International",
-        "s": "2026-08-24T13:00:00+01:00",
-        "e": "2026-08-24T15:00:00+01:00",
-        "d": "From dusty crates and dingy basements to the NTS airwaves - reissue label Melodies International bring special, undiscovered, and beautiful records from across the world their show, every month. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/melodies-international/episodes/melodies-international-24th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "System Olympia - Official, Illegal and Drama Remixes",
         "s": "2026-08-24T15:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "OHBLIV",
         "s": "2026-08-24T16:00:00+01:00",
         "e": "2026-08-24T17:00:00+01:00",
-        "d": null,
+        "d": "Hip-hop and soul-inflected sounds from Richmond's Ohbliv.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ohbliv/episodes/ohbliv-24th-august-2026",
         "t": "monthly"
       },
       {
@@ -157,32 +148,25 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS Guide to: Kaiso Power",
+        "s": "2026-08-25T14:00:00+01:00",
+        "e": "2026-08-25T15:00:00+01:00",
+        "d": null,
+        "j": "Kaiso Power",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "nts2": [
       {
-        "n": "PAVEL MILYAKOV w/ Alexandra Grübler",
-        "s": "2026-08-24T13:00:00+01:00",
-        "e": "2026-08-24T14:00:00+01:00",
-        "d": "Berlin-based artist Pavel Milyakov aka Buttechno joins us for an hour a month.\nFrom the host: \"For this mix I invite Alexandra Grübler aka Baal & Mortimer – a Berlin-based musician, producer and vocalist. The mix moves between Bass landscapes, vocal harmony structures and Celtic ornaments, pairing the Low End with melodic vibratory bodies.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/buttechno/episodes/buttechno-24th-august-2026"
-      },
-      {
-        "n": "PALESTINIAN SOUND ARCHIVE - Street sound system",
-        "s": "2026-08-24T14:00:00+01:00",
-        "e": "2026-08-24T15:00:00+01:00",
-        "d": "Mo'min Swaitat teams up with some of his favourite artists and labels to present his collection of vintage cassettes from Palestine and beyond, including jazz, funk and Bedouin field recordings.\nFrom the host: \"More than 25,000 weddings are held each year in the West Bank, where hundreds of attendees gather to share music and do dabka and dahiya: two fast-paced, stomping folk dances common throughout the region.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/palestinian-sound-archive/episodes/palestinian-sound-archive-24th-august-2026"
-      },
-      {
         "n": "Yaz Lancaster",
         "s": "2026-08-24T15:00:00+01:00",
         "e": "2026-08-24T16:00:00+01:00",
-        "d": null,
+        "d": "Anything goes radio from multi-hyphenate NYC experimental artist Yaz Lancaster, live in the London studio. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/yaz-lancaster-24th-august-2026"
       },
       {
         "n": "SMERZ",
@@ -197,9 +181,9 @@
         "n": "CLAIRE ROUSAY",
         "s": "2026-08-24T17:00:00+01:00",
         "e": "2026-08-24T18:00:00+01:00",
-        "d": null,
+        "d": "Los Angeles producer & sound artist claire rousay journeys through healing plaintive electronics, quotidian field recordings & minimalist compositions.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/claire-rousay/episodes/claire-rousay-24th-august-2026",
         "t": "monthly"
       },
       {
@@ -287,13 +271,13 @@
         "t": "restream"
       },
       {
-        "n": "In Focus: Ramona Andra Langley / Vektroid (R)",
+        "n": "In Focus: Robert Wyatt",
         "s": "2026-08-25T05:00:00+01:00",
         "e": "2026-08-25T07:00:00+01:00",
         "d": null,
-        "j": "Ramona Andra Langley / Vektroid",
+        "j": "Robert Wyatt",
         "u": null,
-        "t": "restream"
+        "t": "weekly"
       },
       {
         "n": "SHAKSHOUKA W/ CHEB MIMO (R)",
@@ -305,43 +289,43 @@
         "t": "restream"
       },
       {
-        "n": "NTS Guide to: SPANISH RAP AND RNB (R)",
+        "n": "NTS Guide to: South And South East Asian Garage",
         "s": "2026-08-25T08:00:00+01:00",
         "e": "2026-08-25T09:00:00+01:00",
         "d": null,
-        "j": "SPANISH RAP AND RNB",
+        "j": "South And South East Asian Garage",
         "u": null,
-        "t": "restream"
+        "t": "weekly"
       },
       {
-        "n": "Dimension Door (R)",
+        "n": "Dimension Door w/ 4TUNE (R)",
         "s": "2026-08-25T09:00:00+01:00",
         "e": "2026-08-25T10:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "4TUNE",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "LUKID",
+        "s": "2026-08-25T12:00:00+01:00",
+        "e": "2026-08-25T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Adultz Only",
+        "s": "2026-08-25T13:00:00+01:00",
+        "e": "2026-08-25T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "Chaotic Goods ",
-        "s": "2026-08-24T12:00:00Z",
-        "e": "2026-08-24T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "tiny rebel ",
-        "s": "2026-08-24T13:00:00Z",
-        "e": "2026-08-24T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "do work please",
         "s": "2026-08-24T14:00:00Z",
@@ -625,8 +609,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-24T11:00:00Z",
-        "e": "2026-08-24T13:00:00Z",
+        "s": "2026-08-24T13:00:00Z",
+        "e": "2026-08-24T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -634,8 +618,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-24T13:00:00Z",
-        "e": "2026-08-24T15:00:00Z",
+        "s": "2026-08-24T15:00:00Z",
+        "e": "2026-08-24T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1050,24 +1034,6 @@
     ],
     "rinse": [
       {
-        "n": "Patrick Hinton",
-        "s": "2026-08-24T12:00:00Z",
-        "e": "2026-08-24T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "HalfPint Presents Roundabout",
-        "s": "2026-08-24T13:00:00Z",
-        "e": "2026-08-24T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Scratcha",
         "s": "2026-08-24T14:00:00Z",
         "e": "2026-08-24T16:00:00Z",
@@ -1272,23 +1238,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "O.Xander",
-        "s": "2026-08-24T12:00:00Z",
-        "e": "2026-08-24T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Sébastien Forrester",
-        "s": "2026-08-24T13:00:00Z",
-        "e": "2026-08-24T14:00:00Z",
-        "d": null,
-        "j": "Japanese Ambient Special avec Kiala Ogawa & Sébastien Forrester",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Music For Tourist",
         "s": "2026-08-24T14:00:00Z",
