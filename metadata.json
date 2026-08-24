@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-24T06:37:41.536Z",
+  "updated": "2026-08-24T08:37:10.214Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE & w Asa Nisi Masa",
-        "s": "2026-08-24T07:00:00+01:00",
-        "e": "2026-08-24T09:00:00+01:00",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-24th-august-2026"
-      },
       {
         "n": "THE NTS BREAKFAST SHOW W/ FLO",
         "s": "2026-08-24T09:00:00+01:00",
@@ -24,9 +16,9 @@
         "n": "Soup To Nuts w/ MINUS KENDAL",
         "s": "2026-08-24T11:00:00+01:00",
         "e": "2026-08-24T13:00:00+01:00",
-        "d": null,
+        "d": "Minus Kendal covering for John Gomez on Soup To Nuts.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-minus-kendal-24th-august-2026"
       },
       {
         "n": "Floating Points",
@@ -157,43 +149,34 @@
         "j": "MARIA SOMERVILLE",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-08-25T09:00:00+01:00",
+        "e": "2026-08-25T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular"
       }
     ],
     "nts2": [
       {
-        "n": "Light in the Attic w/ Emilee Booher (R)",
-        "s": "2026-08-24T06:00:00+01:00",
-        "e": "2026-08-24T08:00:00+01:00",
-        "d": "Since starting in a basement apartment in Seattle back in 2001, Light In The Attic has established itself as one of the best and brightest reissue labels around. With releases ranging from D’Angelo to Serge Gainsbourg, Lewis to Betty Davis, Sly Stone to Karen Dalton, LITA prides itself on the breadth of its output.",
-        "j": "Emilee Booher",
-        "u": "https://www.nts.live/api/v2/shows/light-in-the-attic/episodes/light-in-the-attic-1st-september-2023",
-        "t": "restream"
-      },
-      {
-        "n": "m00dtapes (R)",
-        "s": "2026-08-24T08:00:00+01:00",
-        "e": "2026-08-24T09:00:00+01:00",
-        "d": "Music Supervisor and DJ Dhamirah Coombes brings a monthly multi-genre curation of m00d-bending tracks intended for a deep listening experience.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/m00dtapes/episodes/m00dtapes-4th-february-2024",
-        "t": "restream"
-      },
-      {
         "n": "Austral w/ AYLU (R)",
         "s": "2026-08-24T09:00:00+01:00",
         "e": "2026-08-24T10:00:00+01:00",
-        "d": null,
+        "d": "This episode is a special made from Basel, Switzerland. While I am on a residency from Pro-Helvetia, I watched for the first time an acoustic concert by Mercedes Sosa played in 1980 in Lugano, Switzerland. After being detained in 1978 while playing live in the city of La Plata, Argentina by the government during the last military coup, and receiving death threats, she exiled to France. This concert is a clear manifestation of her sadness and her longing for returning, while also expressing hope, love and faith in the wisdom of music. ",
         "j": "AYLU",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/aylu/episodes/aylu-26th-may-2025",
         "t": "restream"
       },
       {
         "n": "GISELLE",
         "s": "2026-08-24T10:00:00+01:00",
         "e": "2026-08-24T11:00:00+01:00",
-        "d": null,
+        "d": "GISELLE of K-pop megastars aespa takes an hour to show us what she’s all about musically. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/giselle-24th-august-2026"
       },
       {
         "n": "BLOODZ BOI",
@@ -312,6 +295,23 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Hollow Points Radio w/ NOTS",
+        "s": "2026-08-25T02:00:00+01:00",
+        "e": "2026-08-25T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Total Stasis w/ Alex Ho (R)",
+        "s": "2026-08-25T03:00:00+01:00",
+        "e": "2026-08-25T04:00:00+01:00",
+        "d": null,
+        "j": "Alex Ho",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [
@@ -643,8 +643,8 @@
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-24T05:00:00Z",
-        "e": "2026-08-24T07:00:00Z",
+        "s": "2026-08-24T07:00:00Z",
+        "e": "2026-08-24T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -652,8 +652,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-24T07:00:00Z",
-        "e": "2026-08-24T09:00:00Z",
+        "s": "2026-08-24T09:00:00Z",
+        "e": "2026-08-24T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1319,15 +1319,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-08-23T22:00:00Z",
-        "e": "2026-08-24T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-08-24T07:00:00Z",
         "e": "2026-08-24T12:00:00Z",
         "d": null,
@@ -1336,34 +1327,118 @@
         "t": "playlist"
       },
       {
-        "n": "MOMENTUM Highlight",
+        "n": "O.Xander",
         "s": "2026-08-24T12:00:00Z",
         "e": "2026-08-24T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Sébastien Forrester",
+        "s": "2026-08-24T13:00:00Z",
+        "e": "2026-08-24T14:00:00Z",
+        "d": null,
+        "j": "Japanese Ambient Special avec Kiala Ogawa & Sébastien Forrester",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Music For Tourist",
+        "s": "2026-08-24T14:00:00Z",
+        "e": "2026-08-24T15:00:00Z",
+        "d": null,
+        "j": "invite Tiago Caetano",
+        "u": null
+      },
+      {
+        "n": "Tatie Dee",
+        "s": "2026-08-24T15:00:00Z",
+        "e": "2026-08-24T16:00:00Z",
+        "d": null,
+        "j": "A Soulful State of Mind",
+        "u": null
+      },
+      {
+        "n": "FIONA",
+        "s": "2026-08-24T16:00:00Z",
+        "e": "2026-08-24T17:00:00Z",
+        "d": null,
+        "j": "présente Red Light Therapy",
+        "u": null
+      },
+      {
+        "n": "Belaria",
+        "s": "2026-08-24T17:00:00Z",
+        "e": "2026-08-24T18:00:00Z",
+        "d": null,
+        "j": "Dynamic State",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Weirdies Records",
+        "s": "2026-08-24T18:00:00Z",
+        "e": "2026-08-24T19:00:00Z",
+        "d": null,
+        "j": "avec Violeta West b2b Jon Beige",
+        "u": null
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-24T19:00:00Z",
+        "e": "2026-08-24T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-24T22:00:00Z",
+        "e": "2026-08-25T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-08-25T07:00:00Z",
+        "e": "2026-08-25T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "MOMENTUM Highlight",
+        "s": "2026-08-25T12:00:00Z",
+        "e": "2026-08-25T13:00:00Z",
         "d": null,
         "j": "Kany",
         "u": null
       },
       {
         "n": "Tysha Cee",
-        "s": "2026-08-24T13:00:00Z",
-        "e": "2026-08-24T14:00:00Z",
+        "s": "2026-08-25T13:00:00Z",
+        "e": "2026-08-25T14:00:00Z",
         "d": null,
         "j": "WAH GWAAN",
         "u": null
       },
       {
         "n": "La Passe D avec Armel Bizzman",
-        "s": "2026-08-24T14:00:00Z",
-        "e": "2026-08-24T15:00:00Z",
+        "s": "2026-08-25T14:00:00Z",
+        "e": "2026-08-25T15:00:00Z",
         "d": null,
         "j": "MEET THE BIZZ TAKEOVER",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Lola Ondikwa",
-        "s": "2026-08-24T15:00:00Z",
-        "e": "2026-08-24T16:00:00Z",
+        "s": "2026-08-25T15:00:00Z",
+        "e": "2026-08-25T16:00:00Z",
         "d": null,
         "j": "Ondi Kwa Show : Bialy - Kel9da - Twizzy Cinco - Dibby",
         "u": null,
@@ -1371,16 +1446,16 @@
       },
       {
         "n": "Rinse France Community Takeover : FLINTA Special",
-        "s": "2026-08-24T16:00:00Z",
-        "e": "2026-08-24T17:00:00Z",
+        "s": "2026-08-25T16:00:00Z",
+        "e": "2026-08-25T17:00:00Z",
         "d": null,
         "j": "Artem b2b Mariad b2b encoreuneautre",
         "u": null
       },
       {
         "n": "ERNA",
-        "s": "2026-08-24T17:00:00Z",
-        "e": "2026-08-24T18:00:00Z",
+        "s": "2026-08-25T17:00:00Z",
+        "e": "2026-08-25T18:00:00Z",
         "d": null,
         "j": "SIDEQUEST",
         "u": null,
@@ -1388,8 +1463,8 @@
       },
       {
         "n": "TTristana",
-        "s": "2026-08-24T18:00:00Z",
-        "e": "2026-08-24T19:00:00Z",
+        "s": "2026-08-25T18:00:00Z",
+        "e": "2026-08-25T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1397,8 +1472,8 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-08-24T19:00:00Z",
-        "e": "2026-08-24T20:00:00Z",
+        "s": "2026-08-25T19:00:00Z",
+        "e": "2026-08-25T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
