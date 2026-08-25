@@ -1,40 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-08-25T20:18:06.586Z",
+  "updated": "2026-08-25T22:16:46.290Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Trevor Jackson",
-        "s": "2026-08-25T20:00:00+01:00",
-        "e": "2026-08-25T22:00:00+01:00",
-        "d": "Music for Sick Minds & Warms Hearts - Trevor Jackson takes you on a monthly excursion into the latest essential new releases, obscurities & neglected classics from every corner of the musical spectrum. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/trevorjackson/episodes/trevorjackson-25th-august-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "PERM POLITICS W/ CHANTAL",
-        "s": "2026-08-25T22:00:00+01:00",
-        "e": "2026-08-25T23:00:00+01:00",
-        "d": "Hosted by Chantal Adams, Perm Politics oscillates between noisier textures, smooth futuristic beats and a myriad of rap/hip-hop offshoots.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/chantal/episodes/chantal-25th-august-2026"
-      },
       {
         "n": "Saint Abdullah & Jason Nazary",
         "s": "2026-08-25T23:00:00+01:00",
         "e": "2026-08-26T00:00:00+01:00",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/saint-abdullah-jason-nazary-25th-august-2026"
       },
       {
         "n": "After dark w/ HELM",
         "s": "2026-08-26T00:00:00+01:00",
         "e": "2026-08-26T02:00:00+01:00",
-        "d": null,
+        "d": "Luke Younger heads up 2 hours of weirdo music, experiments and recordings once a month. ",
         "j": "HELM",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/helm/episodes/helm-26th-august-2026",
         "t": "monthly"
       },
       {
@@ -158,18 +141,25 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "HOOVERSOUND W/ SHERELLE & NAINA",
+        "s": "2026-08-26T21:00:00+01:00",
+        "e": "2026-08-26T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "NKISI",
+        "s": "2026-08-26T22:00:00+01:00",
+        "e": "2026-08-26T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
-      {
-        "n": "TUFF SHED",
-        "s": "2026-08-25T21:00:00+01:00",
-        "e": "2026-08-25T23:00:00+01:00",
-        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-25th-august-2026",
-        "t": "monthly"
-      },
       {
         "n": "ABBY IMPERIAL: French Hip-Hop & Rnb Special",
         "s": "2026-08-25T23:00:00+01:00",
@@ -182,9 +172,9 @@
         "n": "Post-Geography (R)",
         "s": "2026-08-26T00:00:00+01:00",
         "e": "2026-08-26T01:00:00+01:00",
-        "d": null,
+        "d": "Nick Malkin hosts Post-Geography, featuring ambient and atmospheric selections, live from the NTS studio in L.A.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/post-geography/episodes/post-geography-20th-march-2026",
         "t": "restream"
       },
       {
@@ -316,27 +306,18 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "PANORAMA HEAVEN W/ BIANCA LEXIS",
+        "s": "2026-08-26T20:00:00+01:00",
+        "e": "2026-08-26T21:00:00+01:00",
+        "d": null,
+        "j": "BIANCA LEXIS",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [
-      {
-        "n": "stuckinwaveforms",
-        "s": "2026-08-25T20:00:00Z",
-        "e": "2026-08-25T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "OVN",
-        "s": "2026-08-25T21:00:00Z",
-        "e": "2026-08-25T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "ATKINS",
         "s": "2026-08-25T22:00:00Z",
@@ -384,15 +365,6 @@
       }
     ],
     "dublab": [
-      {
-        "n": "Patrick Shiroishi - Tangled",
-        "s": "2026-08-25T19:00:00Z",
-        "e": "2026-08-25T21:00:00Z",
-        "d": null,
-        "j": "Tangled",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Photay - Extravagant Frequencies",
         "s": "2026-08-25T21:00:00Z",
@@ -756,26 +728,18 @@
         "j": null,
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Ben Hauke",
-        "s": "2026-08-25T20:00:00Z",
-        "e": "2026-08-25T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
       },
       {
-        "n": "Fracture",
-        "s": "2026-08-25T21:00:00Z",
-        "e": "2026-08-25T22:00:00Z",
+        "n": "Protect Me – PROPRO’s HIP-HOP PUNK HOUSE",
+        "s": "2026-09-01T21:00:00Z",
+        "e": "2026-09-01T23:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "biweekly"
-      },
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "Diffrent",
         "s": "2026-08-25T22:00:00Z",
@@ -931,15 +895,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-08-25T19:00:00Z",
-        "e": "2026-08-25T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-08-25T22:00:00Z",
