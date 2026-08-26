@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-08-26T08:32:06.646Z",
+  "updated": "2026-08-26T10:25:15.842Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ RADIO JIRO",
-        "s": "2026-08-26T09:00:00+01:00",
-        "e": "2026-08-26T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-26th-august-2026"
-      },
       {
         "n": "SOUP TO NUTS W/ SHY ONE",
         "s": "2026-08-26T11:00:00+01:00",
@@ -24,13 +16,13 @@
         "n": "LUNCH CLUB w/ FINN",
         "s": "2026-08-26T13:00:00+01:00",
         "e": "2026-08-26T14:00:00+01:00",
-        "d": null,
+        "d": "Dance music with feeling, lunch time with Finn",
         "j": "FINN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/lunch-club/episodes/lunch-club-26th-august-2026",
         "t": "weekly"
       },
       {
-        "n": "Danny L. Harle",
+        "n": "Raft In The Sea w/ Sasha & Danny L Harle",
         "s": "2026-08-26T14:00:00+01:00",
         "e": "2026-08-26T15:00:00+01:00",
         "d": null,
@@ -156,43 +148,33 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ Ruby Savage",
+        "s": "2026-08-27T09:00:00+01:00",
+        "e": "2026-08-27T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Death Is Not The End - Classical Guitar Special (R)",
-        "s": "2026-08-26T08:00:00+01:00",
-        "e": "2026-08-26T10:00:00+01:00",
-        "d": "Death Is Not The End digs up the oldest of the old, serving up your gospel, blues and folk with a crackle. Hear the dust.",
-        "j": "Classical Guitar Special",
-        "u": "https://www.nts.live/api/v2/shows/death-is-not-the-end/episodes/death-is-not-the-end-8th-june-2025",
-        "t": "restream"
-      },
-      {
-        "n": "OREN AMBARCHI (R)",
-        "s": "2026-08-26T10:00:00+01:00",
-        "e": "2026-08-26T11:00:00+01:00",
-        "d": "The underground and experimental hero, composer, and guitar abstractionist Oren Ambarchi invites us to regular eclectic listening sessions, exploring the breadth of his extensive record collection.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/oren-ambarchi/episodes/oren-ambarchi-4th-may-2023",
-        "t": "restream"
-      },
-      {
         "n": "CARLA DAL FORNO",
         "s": "2026-08-26T11:00:00+01:00",
         "e": "2026-08-26T12:00:00+01:00",
-        "d": null,
+        "d": "The Blackest Ever Black released singer-songwriter Carla Dal Forno stops by NTS' London studio once a month for an hour-long show featuring original productions side by side with old favourites and inspirations ranging from minimal synth to folk and dream pop…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/carla-dal-forno/episodes/carla-dal-forno-26th-august-2026",
         "t": "monthly"
       },
       {
         "n": "ACID MEMORIES W/ ASTRAL VIBES",
         "s": "2026-08-26T12:00:00+01:00",
         "e": "2026-08-26T13:00:00+01:00",
-        "d": null,
+        "d": "Rose-tinted hallucinogenic sounds from Astral Vibes' Acid Memories. Illicit dealings in psychedelia of all persuasions. Sit back and enjoy…\nFrom the host: \"An endless summer mix of French psychedelia, soft rock, acid folk and cosmic grooves — alongside forgotten gems from Japan, Italy and beyond. Sun-faded sounds drifting somewhere between memory, dreams and another time. This is Acid Memories*\"",
         "j": "ASTRAL VIBES",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/acid-memories/episodes/acid-memories-26th-august-2026",
         "t": "monthly"
       },
       {
@@ -213,13 +195,12 @@
         "t": "monthly"
       },
       {
-        "n": "SHUKAI",
+        "n": "SHUKAI w/ Jakub Knera - Polish Underground Music from 1950s-90s",
         "s": "2026-08-26T15:00:00+01:00",
         "e": "2026-08-26T16:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "FIFTH WORLD W/ IAN KIM JUDD",
@@ -312,14 +293,32 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "System Olympia - Truth or pleasure (R)",
+        "s": "2026-08-27T04:00:00+01:00",
+        "e": "2026-08-27T05:00:00+01:00",
+        "d": null,
+        "j": "Truth or pleasure",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "In Focus: The Burrell Brothers",
+        "s": "2026-08-27T05:00:00+01:00",
+        "e": "2026-08-27T06:00:00+01:00",
+        "d": null,
+        "j": "The Burrell Brothers",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "subtle": [],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-08-26T07:00:00Z",
-        "e": "2026-08-26T09:00:00Z",
+        "s": "2026-08-26T09:00:00Z",
+        "e": "2026-08-26T11:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -327,8 +326,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-08-26T09:00:00Z",
-        "e": "2026-08-26T11:00:00Z",
+        "s": "2026-08-26T11:00:00Z",
+        "e": "2026-08-26T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -708,15 +707,6 @@
       }
     ],
     "rinse": [
-      {
-        "n": "Playlist",
-        "s": "2026-08-26T06:00:00Z",
-        "e": "2026-08-26T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Drifty",
         "s": "2026-08-26T09:00:00Z",
