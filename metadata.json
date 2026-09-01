@@ -1,50 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-09-01T09:01:19.912Z",
+  "updated": "2026-09-01T14:24:55.459Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-09-01T09:00:00+01:00",
-        "e": "2026-09-01T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-1st-september-2026",
-        "t": "regular"
-      },
-      {
-        "n": "SOUP TO NUTS W/ ANU",
-        "s": "2026-09-01T11:00:00+01:00",
-        "e": "2026-09-01T13:00:00+01:00",
-        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-1st-september-2026"
-      },
-      {
-        "n": "Prosumer - Reggae & Dub Special",
-        "s": "2026-09-01T13:00:00+01:00",
-        "e": "2026-09-01T15:00:00+01:00",
-        "d": null,
-        "j": "Reggae & Dub Special",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Self Soothe w/ Margeaux",
         "s": "2026-09-01T15:00:00+01:00",
         "e": "2026-09-01T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-1st-september-2026",
         "t": "weekly"
       },
       {
         "n": "WAVE FLOWER W/ YUKA MIZUHARA",
         "s": "2026-09-01T16:00:00+01:00",
         "e": "2026-09-01T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Japanese DJ Yuka Mizuhara joins us for an hour every month, selecting the most feel good classic house and disco. Dig!  ",
+        "j": "YUKA MIZUHARA",
+        "u": "https://www.nts.live/api/v2/shows/groove-in-the-heart-w-yuka-mizuhara/episodes/groove-in-the-heart-w-yuka-mizuhara-1st-september-2026",
+        "t": "monthly"
       },
       {
         "n": "SNO",
@@ -70,6 +45,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "AUNTIE-ISM W/ SHABAZZ (R)",
+        "s": "2026-09-01T21:00:00+01:00",
+        "e": "2026-09-01T22:00:00+01:00",
+        "d": null,
+        "j": "SHABAZZ",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "5 GATE TEMPLE",
@@ -157,67 +141,41 @@
         "j": "RHYTHM SECTION",
         "u": null,
         "t": "biweekly"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Imagine Soundtracks w/ redkoffee (R)",
-        "s": "2026-09-01T10:00:00+01:00",
-        "e": "2026-09-01T11:00:00+01:00",
-        "d": "Words, illustrations, and images all possess atmospheres. \nImagine Soundtracks depicts the musical emotions that animations, literature, manga, movies, or video games inspire. This series, curated by Paris-based poet and DJ Clarisse Prévost, aka redkoffee, is presented with interpreted dialogues from the explored selection.",
-        "j": "redkoffee",
-        "u": "https://www.nts.live/api/v2/shows/redkoffee/episodes/redkoffee-michiko-to-hatchin-2nd-august-2025",
-        "t": "restream"
       },
       {
-        "n": "NTS Guide to: Welsh Choir Music",
-        "s": "2026-09-01T11:00:00+01:00",
-        "e": "2026-09-01T12:00:00+01:00",
-        "d": null,
-        "j": "Welsh Choir Music",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Phambinho w/ Dungi Sapor",
-        "s": "2026-09-01T12:00:00+01:00",
-        "e": "2026-09-01T13:00:00+01:00",
+        "n": "Moxie w/ DJ Possum & Myles Mac",
+        "s": "2026-09-02T15:00:00+01:00",
+        "e": "2026-09-02T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Mark Leckey 1971",
-        "s": "2026-09-01T13:00:00+01:00",
-        "e": "2026-09-01T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "LORAINE JAMES",
-        "s": "2026-09-01T14:00:00+01:00",
-        "e": "2026-09-01T15:00:00+01:00",
+        "n": "TASH LC",
+        "s": "2026-09-02T17:00:00+01:00",
+        "e": "2026-09-02T18:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
-      },
+      }
+    ],
+    "nts2": [
       {
-        "n": "ELA MINUS",
+        "n": "ELA MINUS & NICK LEÓN",
         "s": "2026-09-01T15:00:00+01:00",
         "e": "2026-09-01T16:00:00+01:00",
-        "d": null,
+        "d": "Colombia-born, NYC based artist Ela Minus continues her NTS residency.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/ela-minus/episodes/ela-minus-1st-september-2026"
       },
       {
         "n": "WES BAGGALEY",
         "s": "2026-09-01T16:00:00+01:00",
         "e": "2026-09-01T17:00:00+01:00",
-        "d": null,
+        "d": "Deep-cut house and techno sessions from vet club selector Wes Baggaley. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/wes-baggaley/episodes/wes-baggaley-1st-september-2026",
         "t": "monthly"
       },
       {
@@ -245,11 +203,11 @@
         "u": null
       },
       {
-        "n": "Auntie-ism w/ SHABAZZ (R)",
+        "n": "SARA A (R)",
         "s": "2026-09-01T21:00:00+01:00",
         "e": "2026-09-01T22:00:00+01:00",
         "d": null,
-        "j": "SHABAZZ",
+        "j": null,
         "u": null,
         "t": "restream"
       },
@@ -305,14 +263,67 @@
         "j": "Forward Transition",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "CXEMA w/ Auua (R)",
+        "s": "2026-09-02T04:00:00+01:00",
+        "e": "2026-09-02T05:00:00+01:00",
+        "d": null,
+        "j": "Auua",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Breaking People w/ Noa Kurzweil (R)",
+        "s": "2026-09-02T05:00:00+01:00",
+        "e": "2026-09-02T06:00:00+01:00",
+        "d": null,
+        "j": "Noa Kurzweil",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Lung Dart (R)",
+        "s": "2026-09-02T06:00:00+01:00",
+        "e": "2026-09-02T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "PHILIP FM (R)",
+        "s": "2026-09-02T07:00:00+01:00",
+        "e": "2026-09-02T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "3XL (R)",
+        "s": "2026-09-02T10:00:00+01:00",
+        "e": "2026-09-02T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Explorations w/ DIGGING IN INDIA",
+        "s": "2026-09-02T11:00:00+01:00",
+        "e": "2026-09-02T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-09-01T09:00:00Z",
-        "e": "2026-09-01T11:00:00Z",
+        "s": "2026-09-01T13:00:00Z",
+        "e": "2026-09-01T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -889,42 +900,6 @@
     ],
     "rinse": [
       {
-        "n": "Papaoul",
-        "s": "2026-09-01T09:00:00Z",
-        "e": "2026-09-01T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Bel Cobain",
-        "s": "2026-09-01T11:00:00Z",
-        "e": "2026-09-01T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Savannah Blake",
-        "s": "2026-09-01T12:00:00Z",
-        "e": "2026-09-01T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "LILA",
-        "s": "2026-09-01T13:00:00Z",
-        "e": "2026-09-01T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Brighter Days Family",
         "s": "2026-09-01T14:00:00Z",
         "e": "2026-09-01T16:00:00Z",
@@ -952,12 +927,13 @@
         "t": "biweekly"
       },
       {
-        "n": "KILIMANJARO",
+        "n": "Taylah Elaine",
         "s": "2026-09-01T18:00:00Z",
         "e": "2026-09-01T20:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "T.E.RRITORY",
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Fonzo",
@@ -1113,38 +1089,11 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-09-01T07:00:00Z",
-        "e": "2026-09-01T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Lysiane N.",
-        "s": "2026-09-01T12:00:00Z",
-        "e": "2026-09-01T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Izzy Lindqwister",
-        "s": "2026-09-01T13:00:00Z",
-        "e": "2026-09-01T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Roi Luis",
+        "n": "Roi Luis - Spiiiiicy!",
         "s": "2026-09-01T14:00:00Z",
         "e": "2026-09-01T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Aujourd’hui : la fête n’est jamais finie",
         "u": null,
         "t": "monthly"
       },
@@ -1153,18 +1102,18 @@
         "s": "2026-09-01T15:00:00Z",
         "e": "2026-09-01T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "BACK TO SCHOOL",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "renoiterrible",
+        "n": "Playlist France",
         "s": "2026-09-01T16:00:00Z",
         "e": "2026-09-01T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "Teddy Kitano",
