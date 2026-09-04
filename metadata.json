@@ -1,49 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-09-04T08:20:04.922Z",
+  "updated": "2026-09-04T13:53:35.359Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ PAM",
-        "s": "2026-09-04T09:00:00+01:00",
-        "e": "2026-09-04T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-pam-4th-september-2026"
-      },
-      {
-        "n": "SOUP TO NUTS w/ Fauzia",
-        "s": "2026-09-04T11:00:00+01:00",
-        "e": "2026-09-04T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-fauzia-4th-september-2026"
-      },
-      {
-        "n": "PUM PUM POWER HOUR W/ LIL C",
-        "s": "2026-09-04T13:00:00+01:00",
-        "e": "2026-09-04T14:00:00+01:00",
-        "d": null,
-        "j": "LIL C",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "TEARS IN THE CLUB W/ JEUNE POUCE",
         "s": "2026-09-04T14:00:00+01:00",
         "e": "2026-09-04T15:00:00+01:00",
-        "d": null,
+        "d": "\"Tears in the Club\" presents a unique blend of structured and chaotic music, combining intense hip hop, drum and bass, footwork, jersey club, and sometimes Afro rhythms. This multi-genre musical show explores diverse musical landscapes, creating a striking contrast between genres, while also showcasing new artists.",
         "j": "JEUNE POUCE",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/jeune-pouce/episodes/jeune-pouce-4th-september-2026",
         "t": "monthly"
       },
       {
         "n": "Taves",
         "s": "2026-09-04T15:00:00+01:00",
         "e": "2026-09-04T16:00:00+01:00",
-        "d": null,
+        "d": "Nigerian afro-pop artist Taves exploring the sounds that influenced his new EP “Popstar Side A”. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/taves-4th-september-2026"
       },
       {
         "n": "STEPHANE",
@@ -156,60 +131,53 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Light in the Attic w/ Emilee Booher (R)",
-        "s": "2026-09-04T08:00:00+01:00",
-        "e": "2026-09-04T10:00:00+01:00",
-        "d": "Since starting in a basement apartment in Seattle back in 2001, Light In The Attic has established itself as one of the best and brightest reissue labels around. With releases ranging from D’Angelo to Serge Gainsbourg, Lewis to Betty Davis, Sly Stone to Karen Dalton, LITA prides itself on the breadth of its output.",
-        "j": "Emilee Booher",
-        "u": "https://www.nts.live/api/v2/shows/light-in-the-attic/episodes/light-in-the-attic-1st-september-2023",
-        "t": "restream"
       },
       {
-        "n": "AARON ANGELL (R)",
-        "s": "2026-09-04T10:00:00+01:00",
-        "e": "2026-09-04T11:00:00+01:00",
-        "d": "Visual artist and ceramicist Aaron Angell plays a vinyl-only monthly selection of music from his collection - usually focussing on guitar soli, privately pressed UK folk, psychedelia, and the occult new age.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/aaron-angell/episodes/aaron-angell-12th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "In Focus: Dolly Parton",
-        "s": "2026-09-04T11:00:00+01:00",
-        "e": "2026-09-04T13:00:00+01:00",
-        "d": null,
-        "j": "Dolly Parton",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Orpheu The Wizard",
-        "s": "2026-09-04T13:00:00+01:00",
-        "e": "2026-09-04T14:00:00+01:00",
+        "n": "SOUNDS OF THE DAWN",
+        "s": "2026-09-05T08:00:00+01:00",
+        "e": "2026-09-05T10:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
+        "s": "2026-09-05T10:00:00+01:00",
+        "e": "2026-09-05T12:00:00+01:00",
+        "d": null,
+        "j": "MACCA",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "ROSS ALLEN",
+        "s": "2026-09-05T12:00:00+01:00",
+        "e": "2026-09-05T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      }
+    ],
+    "nts2": [
+      {
         "n": "Antinote w/ Zaltan",
         "s": "2026-09-04T14:00:00+01:00",
         "e": "2026-09-04T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Monthly sessions from Zaltan, the mind behind Paris-based leftfield dance, electronic & downtempo imprint Antinote, with occasional appearances from friends and artists on the label. ",
+        "j": "Zaltan",
+        "u": "https://www.nts.live/api/v2/shows/zaltan/episodes/zaltan-4th-september-2026",
+        "t": "monthly"
       },
       {
         "n": "Image search - Alessandro la Padula 1997-2000",
         "s": "2026-09-04T15:00:00+01:00",
         "e": "2026-09-04T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Themed mixes, hidden gems, bedroom demos, interviews and other odds and ends once a month. Email: animalimagesearch@gmail.com\nFrom the host: \"Special program highlighting Alessandro la Padula's late 90s period\"",
+        "j": "Alessandro la Padula 1997-2000",
+        "u": "https://www.nts.live/api/v2/shows/image-search/episodes/image-search-4th-september-2026",
+        "t": "monthly"
       },
       {
         "n": "SUNDAY SCHOOL w/ Nick Klein",
@@ -226,6 +194,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SURF GANG RADIO W/ SAMBA JEAN-BAPTISTE (R)",
+        "s": "2026-09-04T18:00:00+01:00",
+        "e": "2026-09-04T19:00:00+01:00",
+        "d": null,
+        "j": "SAMBA JEAN",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "This Is Lorelei",
@@ -313,14 +290,41 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "GEORGIA: ALL KIND MUSIC (R)",
+        "s": "2026-09-05T07:00:00+01:00",
+        "e": "2026-09-05T08:00:00+01:00",
+        "d": null,
+        "j": "ALL KIND MUSIC",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Sophie Thatcher w/ Emma Barreto (R)",
+        "s": "2026-09-05T08:00:00+01:00",
+        "e": "2026-09-05T09:00:00+01:00",
+        "d": null,
+        "j": "Emma Barreto",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "DOING TIME W/ FANTASY IN ORBIT: BELOW THE NEON - JAPAN'S UNDERGROUND '80S – '90S (R)",
+        "s": "2026-09-05T09:00:00+01:00",
+        "e": "2026-09-05T11:00:00+01:00",
+        "d": null,
+        "j": "FANTASY IN ORBIT",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-09-04T07:00:00Z",
-        "e": "2026-09-04T09:00:00Z",
+        "s": "2026-09-04T13:00:00Z",
+        "e": "2026-09-04T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -328,8 +332,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-09-04T09:00:00Z",
-        "e": "2026-09-04T11:00:00Z",
+        "s": "2026-09-04T15:00:00Z",
+        "e": "2026-09-04T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -875,32 +879,6 @@
     ],
     "rinse": [
       {
-        "n": "Playlist",
-        "s": "2026-09-04T06:00:00Z",
-        "e": "2026-09-04T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Mornings with...",
-        "s": "2026-09-04T09:00:00Z",
-        "e": "2026-09-04T10:00:00Z",
-        "d": null,
-        "j": "Tasha",
-        "u": null
-      },
-      {
-        "n": "Uncle Dugs",
-        "s": "2026-09-04T10:00:00Z",
-        "e": "2026-09-04T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "Rosebud Records with Eliza Rose",
         "s": "2026-09-04T13:00:00Z",
         "e": "2026-09-04T15:00:00Z",
@@ -1087,33 +1065,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-09-04T07:00:00Z",
-        "e": "2026-09-04T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-09-04T10:00:00Z",
-        "e": "2026-09-04T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Technopol",
-        "s": "2026-09-04T12:00:00Z",
-        "e": "2026-09-04T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "ARTEM",
         "s": "2026-09-04T13:00:00Z",
         "e": "2026-09-04T14:00:00Z",
@@ -1136,7 +1087,7 @@
         "s": "2026-09-04T15:00:00Z",
         "e": "2026-09-04T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite SUGAR TANTINE",
         "u": null,
         "t": "monthly"
       },
@@ -1150,13 +1101,12 @@
         "t": "monthly"
       },
       {
-        "n": "Mariad",
+        "n": "mariad b2b Benjamin Baniassadi b2b Fanny Vilhelmsson",
         "s": "2026-09-04T17:00:00Z",
         "e": "2026-09-04T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Soa420 b2b Marguerite",
@@ -1202,7 +1152,7 @@
         "u": null
       },
       {
-        "n": "Griffes d'Anges",
+        "n": "Want One ?",
         "s": "2026-09-05T14:00:00Z",
         "e": "2026-09-05T15:00:00Z",
         "d": null,
