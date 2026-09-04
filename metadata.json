@@ -1,26 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-09-04T17:16:55.165Z",
+  "updated": "2026-09-04T20:03:53.462Z",
   "stations": {
     "nts1": [
-      {
-        "n": "RUF DUG",
-        "s": "2026-09-04T18:00:00+01:00",
-        "e": "2026-09-04T19:00:00+01:00",
-        "d": "Ruf Dug brings the leftfield: old video game soundtracks, dusty analogue dreamers and poolside Balearic sounds. No nonsense from the original tropical cyberpunk.\nFrom the host: \"100% Dancefloor this time… Summer is OVER\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/ruf-dug/episodes/ruf-dug-4th-september-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "MINIMAL EFFORT",
-        "s": "2026-09-04T19:00:00+01:00",
-        "e": "2026-09-04T21:00:00+01:00",
-        "d": "Ira demonstrates how to do extra soulful with a masterclass in vibes. It's easy when you know how.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/minimal-effort/episodes/minimal-effort-4th-september-2026",
-        "t": "monthly"
-      },
       {
         "n": "GABRIELLE KWARTENG (R)",
         "s": "2026-09-04T21:00:00+01:00",
@@ -34,9 +16,10 @@
         "n": "INNERVISIONS ÜBERAL LW/ KUNIYUKI TAKAHASHI",
         "s": "2026-09-04T22:00:00+01:00",
         "e": "2026-09-04T23:00:00+01:00",
-        "d": null,
+        "d": "Innervisions brings its sound to NTS with monthly shows featuring its core artists and special guests.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/innervisions/episodes/innervisions-4th-september-2026",
+        "t": "monthly"
       },
       {
         "n": "Endless Radio w/ Iankon & Elliotreadd",
@@ -160,42 +143,43 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS GUIDE TO: '90S DENVER RAP (R)",
+        "s": "2026-09-05T19:00:00+01:00",
+        "e": "2026-09-05T20:00:00+01:00",
+        "d": null,
+        "j": "'90S DENVER RAP",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "CHERRIE FLAVA",
+        "s": "2026-09-05T20:00:00+01:00",
+        "e": "2026-09-05T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "SURF GANG RADIO W/ SAMBA JEAN-BAPTISTE (R)",
-        "s": "2026-09-04T18:00:00+01:00",
-        "e": "2026-09-04T19:00:00+01:00",
-        "d": "A radio show curated by Surf Gang Records. ",
-        "j": "SAMBA JEAN",
-        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-6th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "This Is Lorelei",
-        "s": "2026-09-04T19:00:00+01:00",
-        "e": "2026-09-04T20:00:00+01:00",
-        "d": "NYC songwriter, producer and guitarist Nate Amos aka This Is Lorelei takes us on a trip through 90s IDM, pop-punk, trap and more. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/this-is-lorelei-4th-september-2026"
-      },
-      {
         "n": "CROSSED WIRES W/ AMANDA SIEGEL",
         "s": "2026-09-04T20:00:00+01:00",
         "e": "2026-09-04T22:00:00+01:00",
-        "d": null,
+        "d": "A monthly transmission of displaced rock n roll, exotic punk and early electronics, paying favor to all things primitive and sleazy. LA visual artist Amanda Siegel delves into the international underground, offering a thorough sonic survey of protopunk, hard rock, synthpunk, powerpop, psych, industrial and more.",
         "j": "AMANDA SIEGEL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/amanda-siegel/episodes/amanda-siegel-4th-september-2026",
         "t": "monthly"
       },
       {
         "n": "ALL ABOUT OUR LOVE W/ HARRIET BROWN",
         "s": "2026-09-04T22:00:00+01:00",
         "e": "2026-09-04T23:00:00+01:00",
-        "d": null,
+        "d": "Tenderness, yearning, spirituality and sensuality come together on Harriet Brown’s monthly show.\nFrom the host: \"Some wistful, dreamy pop to hold all our feelings through the close of this eclipse season and tail of summer.\"",
         "j": "HARRIET BROWN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/harriet-brown/episodes/harriet-brown-4th-september-2026",
         "t": "monthly"
       },
       {
@@ -321,19 +305,28 @@
         "j": "YOUNG SPARKS",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "ACROSS THE HORIZON W/ BOB HOLMES (SUSS) - Music at the crossroads of ambient, experimental and Americana",
+        "s": "2026-09-05T15:00:00+01:00",
+        "e": "2026-09-05T16:00:00+01:00",
+        "d": null,
+        "j": "BOB HOLMES (SUSS)",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "MIL TOWNLEY (R)",
+        "s": "2026-09-05T16:00:00+01:00",
+        "e": "2026-09-05T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [],
     "dublab": [
-      {
-        "n": "Daddy Differently and Dirty Dave - Things of Life",
-        "s": "2026-09-04T17:00:00Z",
-        "e": "2026-09-04T19:00:00Z",
-        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
-        "j": "Things of Life",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Masha Mar – Analogue Players Club",
         "s": "2026-09-04T19:00:00Z",
@@ -879,26 +872,18 @@
         "j": "Things of Life",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Xica Soul - SoundProof",
+        "s": "2026-09-11T19:00:00Z",
+        "e": "2026-09-11T21:00:00Z",
+        "d": null,
+        "j": "SoundProof",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Arthi",
-        "s": "2026-09-04T17:00:00Z",
-        "e": "2026-09-04T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Skin On Skin B2B Skrillex",
-        "s": "2026-09-04T18:00:00Z",
-        "e": "2026-09-04T20:00:00Z",
-        "d": null,
-        "j": "Rinse HQ049",
-        "u": null
-      },
       {
         "n": "Lamsi",
         "s": "2026-09-04T20:00:00Z",
@@ -963,18 +948,27 @@
       {
         "n": "Playlist",
         "s": "2026-09-05T06:00:00Z",
-        "e": "2026-09-05T11:00:00Z",
+        "e": "2026-09-05T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
+        "n": "Breakfast with Adam John (Ghoulish)",
+        "s": "2026-09-05T09:00:00Z",
+        "e": "2026-09-05T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
         "n": "Hi-Fidelity",
         "s": "2026-09-05T11:00:00Z",
         "e": "2026-09-05T13:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Bambi",
         "u": null,
         "t": "biweekly"
       },
@@ -983,25 +977,24 @@
         "s": "2026-09-05T13:00:00Z",
         "e": "2026-09-05T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "BBE Music feat. Jeff Higgins",
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "Rollo Jackson",
+        "n": "Rollo Jackson feat. Skibadee & Wildchild",
         "s": "2026-09-05T15:00:00Z",
         "e": "2026-09-05T16:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
+        "j": "Carnival (1996)",
+        "u": null
       },
       {
         "n": "The North Quarter",
         "s": "2026-09-05T16:00:00Z",
         "e": "2026-09-05T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Echo Brown",
         "u": null,
         "t": "biweekly"
       },
@@ -1010,7 +1003,7 @@
         "s": "2026-09-05T17:00:00Z",
         "e": "2026-09-05T18:00:00Z",
         "d": null,
-        "j": "Pent 1",
+        "j": "Pent1",
         "u": null,
         "t": "monthly"
       },
@@ -1019,7 +1012,7 @@
         "s": "2026-09-05T18:00:00Z",
         "e": "2026-09-05T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Beyond The Valley Festival",
         "u": null
       },
       {
@@ -1036,7 +1029,7 @@
         "s": "2026-09-05T21:00:00Z",
         "e": "2026-09-05T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "FESTIVAL SZN NOSTALGIA",
         "u": null,
         "t": "monthly"
       },
@@ -1051,22 +1044,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "mariad b2b Benjamin Baniassadi b2b Fanny Vilhelmsson",
-        "s": "2026-09-04T17:00:00Z",
-        "e": "2026-09-04T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Soa420 b2b Marguerite",
-        "s": "2026-09-04T18:00:00Z",
-        "e": "2026-09-04T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Playlist France",
         "s": "2026-09-04T19:00:00Z",
