@@ -1,42 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-09-05T07:56:26.598Z",
+  "updated": "2026-09-05T11:31:56.393Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUNDS OF THE DAWN",
-        "s": "2026-09-05T08:00:00+01:00",
-        "e": "2026-09-05T10:00:00+01:00",
-        "d": "Sounds of the Dawn is a monthly two hour session through new age, ambient, environmental, meditation and relaxation cassettes from the seventies to the nineties. Tune in and zone out.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soundsofthedawn/episodes/soundsofthedawn-5th-september-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
-        "s": "2026-09-05T10:00:00+01:00",
-        "e": "2026-09-05T12:00:00+01:00",
-        "d": "Stay left and take a trip with Macca's Saturday breakfast show on NTS. Weekend musings and eclectic cuts from all over the place, it's a low-key affair and you're all invited. ONE GLOVE!!!",
-        "j": "MACCA",
-        "u": "https://www.nts.live/api/v2/shows/macca/episodes/macca-5th-september-2026",
-        "t": "biweekly"
-      },
       {
         "n": "ROSS ALLEN",
         "s": "2026-09-05T12:00:00+01:00",
         "e": "2026-09-05T14:00:00+01:00",
-        "d": null,
+        "d": "Ross Allen knows music. Mainly new but plenty of old. The broadest range of music that moves dance floors from across the era’s and across the planet. On his regular Foundation Music Specials he invites guests to share their histories and seminal tracks…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ross-allen/episodes/ross-allen-5th-september-2026",
         "t": "biweekly"
       },
       {
         "n": "JAMES MASSIAH",
         "s": "2026-09-05T14:00:00+01:00",
         "e": "2026-09-05T15:00:00+01:00",
-        "d": null,
+        "d": "From dub and dancehall to acid house and grime, London DJ, producer, and poet James Massiah showcases his references and creative influences",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-new-funk-breakfast-show/episodes/the-new-funk-breakfast-show-5th-september-2026",
         "t": "monthly"
       },
       {
@@ -161,52 +143,43 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "Tommasi",
+        "s": "2026-09-06T12:00:00+01:00",
+        "e": "2026-09-06T14:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "CORTICEPS W/ MINUS KENDAL",
+        "s": "2026-09-06T14:00:00+01:00",
+        "e": "2026-09-06T16:00:00+01:00",
+        "d": null,
+        "j": "MINUS KENDAL",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Sophie Thatcher w/ Emma Barreto (R)",
-        "s": "2026-09-05T08:00:00+01:00",
-        "e": "2026-09-05T09:00:00+01:00",
-        "d": "Chime into a world of noise and melancholia. \nRanging from ambient to 70s Italian film scores. \nPerfect time for a long long walk. ",
-        "j": "Emma Barreto",
-        "u": "https://www.nts.live/api/v2/shows/sophie-thatcher/episodes/sophie-thatcher-14th-january-2026",
-        "t": "restream"
-      },
-      {
-        "n": "DOING TIME W/ FANTASY IN ORBIT: BELOW THE NEON - JAPAN'S UNDERGROUND '80S – '90S (R)",
-        "s": "2026-09-05T09:00:00+01:00",
-        "e": "2026-09-05T11:00:00+01:00",
-        "d": "Veteran NTS host Hampus brings you Doing Time: a genre-agnostic monthly trip through quality records from around the world’s past and present, featuring regular appearances from musical friends and family.",
-        "j": "FANTASY IN ORBIT",
-        "u": "https://www.nts.live/api/v2/shows/doing-time/episodes/doing-time-14th-september-2025",
-        "t": "restream"
-      },
-      {
-        "n": "KALI MALONE (R)",
-        "s": "2026-09-05T11:00:00+01:00",
-        "e": "2026-09-05T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "Living.Canon w/ Cassie Kinoshi",
         "s": "2026-09-05T12:00:00+01:00",
         "e": "2026-09-05T13:00:00+01:00",
-        "d": null,
+        "d": "Special guest shows from around the world.",
         "j": "Cassie Kinoshi",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/livingcanon-w-cassie-kinoshi-5th-september-2026",
         "t": "biweekly"
       },
       {
         "n": "ANDY VOTEL'S RANDOMONIUM",
         "s": "2026-09-05T13:00:00+01:00",
         "e": "2026-09-05T14:00:00+01:00",
-        "d": null,
+        "d": "The legend that is Andy Votel strolls into our Manchester studio once a month to play a portion of his record collection selected at random.\nFrom the host: \"ANDY VOTEL AND JANE WEAVER 2010 EUROPIUM ALLUMINATE MIXTAPE\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/andy-votel/episodes/andy-votel-5th-september-2026",
         "t": "monthly"
       },
       {
@@ -321,32 +294,50 @@
         "j": "GRUPO DE EXPERIMENTACIÓN SONORA DEL ICAIC.",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "A MONTH OF SUNDAYS W/ BILL SPENCER (R)",
+        "s": "2026-09-06T09:00:00+01:00",
+        "e": "2026-09-06T10:00:00+01:00",
+        "d": null,
+        "j": "BILL SPENCER",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "MUSIC FOR A HEALING EARTH W/ THE COSMIC TONES RESEARCH TRIO (R)",
+        "s": "2026-09-06T10:00:00+01:00",
+        "e": "2026-09-06T11:00:00+01:00",
+        "d": null,
+        "j": "THE COSMIC TONES RESEARCH TRIO",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "COUNTRY HAYRIDE",
+        "s": "2026-09-06T11:00:00+01:00",
+        "e": "2026-09-06T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-09-05T07:00:00Z",
-        "e": "2026-09-05T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-09-05T09:00:00Z",
-        "e": "2026-09-05T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
         "s": "2026-09-05T11:00:00Z",
         "e": "2026-09-05T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "sounds of NOW",
+        "s": "2026-09-05T15:00:00Z",
+        "e": "2026-09-05T16:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -897,27 +888,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
-      }
-    ],
-    "rinse": [
+      },
       {
-        "n": "Playlist",
-        "s": "2026-09-05T06:00:00Z",
-        "e": "2026-09-05T09:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-09-12T11:00:00Z",
+        "e": "2026-09-12T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "Breakfast with Adam John (Ghoulish)",
-        "s": "2026-09-05T09:00:00Z",
-        "e": "2026-09-05T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
+      }
+    ],
+    "rinse": [
       {
         "n": "Hi-Fidelity",
         "s": "2026-09-05T11:00:00Z",
@@ -1115,15 +1097,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-09-05T07:00:00Z",
-        "e": "2026-09-05T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-09-05T10:00:00Z",
