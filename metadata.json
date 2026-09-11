@@ -1,49 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-09-11T17:28:57.030Z",
+  "updated": "2026-09-11T20:14:18.112Z",
   "stations": {
     "nts1": [
-      {
-        "n": "MARTHA",
-        "s": "2026-09-11T18:00:00+01:00",
-        "e": "2026-09-11T19:00:00+01:00",
-        "d": "Martha is a DJ and broadcaster from South London with roots in community radio and documentary making. Each of Martha’s thoughtfully curated radio shows navigate the fringes of electronic music, with a clear narrative that is grounded in community and storytelling. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/martha/episodes/martha-11th-september-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "PLATOS COMBINADOS W/ JOE COTCH",
-        "s": "2026-09-11T19:00:00+01:00",
-        "e": "2026-09-11T20:00:00+01:00",
-        "d": "Serving up monthly discoveries in clubland and beyond. ",
-        "j": "JOE COTCH",
-        "u": "https://www.nts.live/api/v2/shows/platos-combinados-w-joe-cotch/episodes/platos-combinados-w-joe-cotch-11th-september-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ìyáàlù",
-        "s": "2026-09-11T20:00:00+01:00",
-        "e": "2026-09-11T21:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "BRBKO",
         "s": "2026-09-11T21:00:00+01:00",
         "e": "2026-09-11T23:00:00+01:00",
-        "d": null,
+        "d": "The enigmatic polymath, producer and MC brbko takes over the NTS airwaves each month. Brak don't crack. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/brbko/episodes/brbko-11th-september-2026"
       },
       {
         "n": "INTROSPEKT",
         "s": "2026-09-11T23:00:00+01:00",
         "e": "2026-09-12T00:00:00+01:00",
-        "d": null,
+        "d": "LA-based DJ and producer Introspekt delivers a monthly missive of UK garage, 2-step and more.\nFrom the host: \"For this month's show I structured the mix thinking about various moments from the summer. Moments of joy and pleasure take center stage for most of the mix while things transition towards the moodier feelings of autumn. Enjoy!\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/introspekt/episodes/introspekt-11th-september-2026",
         "t": "monthly"
       },
       {
@@ -109,13 +83,13 @@
         "t": "restream"
       },
       {
-        "n": "Nāda Sonic w/ Sway Of The Verses",
+        "n": "RAGA VIBRATIONS (R)",
         "s": "2026-09-12T08:00:00+01:00",
         "e": "2026-09-12T10:00:00+01:00",
         "d": null,
-        "j": "Sway Of The Verses",
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
       {
         "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA & Melé",
@@ -159,49 +133,51 @@
         "j": "DANNIELLA DEE",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "nts2": [
-      {
-        "n": "Black Meteoric Star",
-        "s": "2026-09-11T18:00:00+01:00",
-        "e": "2026-09-11T19:00:00+01:00",
-        "d": "Gavilán Rayna Russom aka Black Meteoric Star shares an hour of original productions, sounds tying the spirit of dance music to the theme of drag, queer, leather and BDSM culture.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/black-meteoric-star-11th-september-2026"
       },
       {
-        "n": "FUTURO ANCESTRAL W/ ANTROPOCENO - Abya Yala",
-        "s": "2026-09-11T19:00:00+01:00",
-        "e": "2026-09-11T20:00:00+01:00",
-        "d": "In \"Futuro Ancestral\", Antropoceno explores the main trends of Brazilian experimental music, paying homage to the artists that paved the way for the sounds we know today. In \"Abya Yala\", she dives into South American traditions by researching the indigenous influences in the continent's folk music.\nFrom the host: \"Today's episode of \"Abya Yala\" is dedicated to the music of the forest. We'll explore how South American indigenous music has influenced contemporary Brazilian artists (some who are indigenous and others who aren't) that incorporates birdsongs and other sounds of the forest into their music.\"",
+        "n": "BAHAMIAN MOOR",
+        "s": "2026-09-12T17:00:00+01:00",
+        "e": "2026-09-12T18:00:00+01:00",
+        "d": null,
         "j": null,
-        "u": "https://www.nts.live/api/v2/shows/antropoceno/episodes/antropoceno-11th-september-2026"
+        "u": null,
+        "t": "monthly"
       },
       {
-        "n": "CONFUSING MIX W/ JOSH DA COSTA",
-        "s": "2026-09-11T20:00:00+01:00",
-        "e": "2026-09-11T21:00:00+01:00",
+        "n": "MUSIC 4 LOVERS",
+        "s": "2026-09-12T18:00:00+01:00",
+        "e": "2026-09-12T19:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
+        "n": "NTS GUIDE TO: BARBER BEATS (R)",
+        "s": "2026-09-12T19:00:00+01:00",
+        "e": "2026-09-12T20:00:00+01:00",
+        "d": null,
+        "j": "BARBER BEATS",
+        "u": null,
+        "t": "restream"
+      }
+    ],
+    "nts2": [
+      {
         "n": "WABI SABI W/ TANA YONAS",
         "s": "2026-09-11T21:00:00+01:00",
         "e": "2026-09-11T22:00:00+01:00",
-        "d": null,
+        "d": "Tana Yonas collects songs like souvenirs, each recalling precious moments found leafing through dusty foreign record shops or catching sonic fragments weathered by time from the radio of bumpy taxi rides. Listen as she delicately guilds together these memories and shares music from lesser known and under represented musical traditions from across the globe and decades.\nFrom the host: \"The artists on this mix, seem to inhabit little worlds of their own. Moving between aquatic ambient music, pastoral folk, cosmic electronics, and quiet experimentation, these recordings feel both ancient and futuristic. Synthesizers dissolve into field recordings, familiar melodies drift into ♾️.\"",
         "j": "TANA YONAS",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tana-yonas/episodes/tana-yonas-11th-september-2026",
         "t": "monthly"
       },
       {
         "n": "NTS Guide to: Hard Bop Vol. 1",
         "s": "2026-09-11T22:00:00+01:00",
         "e": "2026-09-12T00:00:00+01:00",
-        "d": null,
+        "d": "The landscape of jazz was altered forever when Charlie Parker electrified the genre, pioneering bebop. When he suddenly passed away in 1955 at the age of 34, many wondered how they could follow him. Some opted to branch off from the bebop style, eschewing the Bird's dense melodic runs and swing influence – they slowed the tempo, and stripped back elements, taking notes from gospel, blues and the R&B sound that was becoming the popular music of the day. \nDespite its less technically demanding style, and slower tempos, the new sound became known as \"hard bop\", because of its gritty, blues-indebted emotion, and tough driving grooves. ",
         "j": "Hard Bop Vol. 1",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-hard-bop-vol-1-11th-september-2026",
         "t": "weekly"
       },
       {
@@ -312,19 +288,37 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "GETTING WARMER W/ JEN MONROE - EARLY CHORAL SPECIAL (R)",
+        "s": "2026-09-12T13:00:00+01:00",
+        "e": "2026-09-12T14:00:00+01:00",
+        "d": null,
+        "j": "JEN MONROE",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "CHARLIE SATSUMAS",
+        "s": "2026-09-12T14:00:00+01:00",
+        "e": "2026-09-12T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "PACING THE PLATFORM W/ UPSAMMY (R)",
+        "s": "2026-09-12T15:00:00+01:00",
+        "e": "2026-09-12T16:00:00+01:00",
+        "d": null,
+        "j": "UPSAMMY",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [],
     "dublab": [
-      {
-        "n": "Daddy Differently and Dirty Dave - Things of Life",
-        "s": "2026-09-11T17:00:00Z",
-        "e": "2026-09-11T19:00:00Z",
-        "d": "It’s the simple things isn’t it? The little things of life. Good food, sunshine, no traffic, dark coffee, 72˚ breeze, telephone off the hook and music every Friday morning a la Daddy Differently & Dirty Dave.",
-        "j": "Things of Life",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Xica Soul - SoundProof",
         "s": "2026-09-11T19:00:00Z",
@@ -371,7 +365,7 @@
         "t": "monthly"
       },
       {
-        "n": "guest session?",
+        "n": "DJ Sinkopatas – guest session",
         "s": "2026-09-12T03:00:00Z",
         "e": "2026-09-12T05:00:00Z",
         "d": null,
@@ -404,6 +398,15 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Ill Camille x Jesse Fairfax - The Sweeter the Juice",
+        "s": "2026-09-12T15:00:00Z",
+        "e": "2026-09-12T17:00:00Z",
+        "d": null,
+        "j": "The Sweeter the Juice",
+        "u": null,
+        "t": "biweekly"
       },
       {
         "n": "Ryan Lee Moore – Holy Ghost Honky Tonk",
@@ -874,27 +877,17 @@
         "j": "Things of Life",
         "u": null,
         "t": "weekly"
+      },
+      {
+        "n": "Hakim Tafari – Siddhartha Soundsystem",
+        "s": "2026-09-18T19:00:00Z",
+        "e": "2026-09-18T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "Roska",
-        "s": "2026-09-11T17:00:00Z",
-        "e": "2026-09-11T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Interplanetary Criminal",
-        "s": "2026-09-11T18:00:00Z",
-        "e": "2026-09-11T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "DREA",
         "s": "2026-09-11T20:00:00Z",
@@ -1039,24 +1032,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Machka",
-        "s": "2026-09-11T17:00:00Z",
-        "e": "2026-09-11T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Trois-Quarts Taxi System",
-        "s": "2026-09-11T18:00:00Z",
-        "e": "2026-09-11T19:00:00Z",
-        "d": null,
-        "j": "Invite Sarah Wanita",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Playlist France",
         "s": "2026-09-11T19:00:00Z",
