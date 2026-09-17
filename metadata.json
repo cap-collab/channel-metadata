@@ -1,58 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-09-17T09:02:21.087Z",
+  "updated": "2026-09-17T14:33:06.680Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-09-17T09:00:00+01:00",
-        "e": "2026-09-17T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-17th-september-2026",
-        "t": "regular"
-      },
-      {
-        "n": "SOUP TO NUTS W/ BABYSCHÖN",
-        "s": "2026-09-17T11:00:00+01:00",
-        "e": "2026-09-17T13:00:00+01:00",
-        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
-        "j": "BABYSCHÖN",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-17th-september-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "Otaku: CITY HUNTER",
-        "s": "2026-09-17T13:00:00+01:00",
-        "e": "2026-09-17T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Fauzia",
-        "s": "2026-09-17T14:00:00+01:00",
-        "e": "2026-09-17T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Secretsundaze",
         "s": "2026-09-17T15:00:00+01:00",
         "e": "2026-09-17T17:00:00+01:00",
-        "d": null,
+        "d": "London based DJ, producer, curator, band-leader and 9FINITY label boss Secretsundaze live from the studio for a bi-monthly exploration of carefully filtered house music through the lens of the rave continuum. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/secret-sundaze/episodes/secret-sundaze-17th-september-2026",
+        "t": "monthly"
       },
       {
         "n": "OK WILLIAMS",
         "s": "2026-09-17T17:00:00+01:00",
         "e": "2026-09-17T18:00:00+01:00",
-        "d": null,
+        "d": "Monthly missives from a London club selector par excellence - expect anything from finger-on-the-pulse UK rap, to deep house and techno records, to jungle & UK funky. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ok-williams/episodes/ok-williams-17th-september-2026",
         "t": "monthly"
       },
       {
@@ -65,7 +31,7 @@
         "t": "biweekly"
       },
       {
-        "n": "GHOST NOTES WORLDWIDE",
+        "n": "GHOST NOTES WORLDWIDE W/ 1700GRADE & GLOB DEEJAY",
         "s": "2026-09-17T20:00:00+01:00",
         "e": "2026-09-17T22:00:00+01:00",
         "d": null,
@@ -95,6 +61,15 @@
         "e": "2026-09-18T03:00:00+01:00",
         "d": null,
         "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "IN FOCUS: HILDEGARD VON BINGEN (R)",
+        "s": "2026-09-18T03:00:00+01:00",
+        "e": "2026-09-18T04:00:00+01:00",
+        "d": null,
+        "j": "HILDEGARD VON BINGEN",
         "u": null,
         "t": "restream"
       },
@@ -157,66 +132,53 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "nts2": [
-      {
-        "n": "serious sounds w/ ksksksk8ks",
-        "s": "2026-09-17T10:00:00+01:00",
-        "e": "2026-09-17T11:00:00+01:00",
-        "d": "A selection of mostly disco records made for the dancefloor I couldn't find in my city. I think it's impossible to stand while these records are playing.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dancing-2026/episodes/dancing-2026-serious-sounds-w-ksksksk8ks-17th-september-2026"
       },
       {
-        "n": "YL HOOI",
-        "s": "2026-09-17T11:00:00+01:00",
-        "e": "2026-09-17T12:00:00+01:00",
-        "d": "Melbourne based producer YL HOOI share an hour of dub, electronics, postpunk and more every month…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/yl-hooi/episodes/yl-hooi-17th-september-2026",
+        "n": "SLAP CITY W/ ARCHITECT",
+        "s": "2026-09-18T15:00:00+01:00",
+        "e": "2026-09-18T16:00:00+01:00",
+        "d": null,
+        "j": "ARCHITECT",
+        "u": null,
         "t": "monthly"
       },
       {
-        "n": "Happy Death",
-        "s": "2026-09-17T12:00:00+01:00",
-        "e": "2026-09-17T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "FRAGRANT SACRIFICE w/ NAIMA Nefertari",
-        "s": "2026-09-17T13:00:00+01:00",
-        "e": "2026-09-17T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Bridget Small",
-        "s": "2026-09-17T14:00:00+01:00",
-        "e": "2026-09-17T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "GEORGIA",
-        "s": "2026-09-17T15:00:00+01:00",
-        "e": "2026-09-17T16:00:00+01:00",
+        "n": "SELASSIE TBC",
+        "s": "2026-09-18T16:00:00+01:00",
+        "e": "2026-09-18T17:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "AUTOTUNE THE WORLD W/ CHRISTOPHER KIRKLEY",
-        "s": "2026-09-17T16:00:00+01:00",
-        "e": "2026-09-17T17:00:00+01:00",
+        "n": "CHARISSE C",
+        "s": "2026-09-18T17:00:00+01:00",
+        "e": "2026-09-18T18:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "nts2": [
+      {
+        "n": "GEORGIA",
+        "s": "2026-09-17T15:00:00+01:00",
+        "e": "2026-09-17T16:00:00+01:00",
+        "d": "Georgia are Justin Tripp and Brian Close - and they make music, videos, films and performances from their base in Chinatown, New York. Tune in for a monthly hour of oddball electronics; whether ambient or fit for the floor…",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/georgia/episodes/georgia-17th-september-2026",
+        "t": "monthly"
+      },
+      {
+        "n": "NTS GUIDE TO: DIGITAL TRIP (R)",
+        "s": "2026-09-17T16:00:00+01:00",
+        "e": "2026-09-17T17:00:00+01:00",
+        "d": "An overview of the cult Japanese label series, Digital Trip. Including the subtitle \"Fantasy Series\", Digital trip was a celebration of the synthesizer. Across the labels output, well known anime and film soundtracks were re-interpreted with electronic arrangements, producing a fascinating, multi-genre array of results, from proto-ambient, to synth-pop, to a digitised take on Italian library music.",
+        "j": "DIGITAL TRIP",
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-digital-trip-20th-january-2026",
+        "t": "restream"
       },
       {
         "n": "RICH & JOHNNY PRESENT INZANE MICHIGAN - Made in Detroit",
@@ -310,14 +272,55 @@
         "j": "Jackzebra & DJ GONORRHEA",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "LIV.E (R)",
+        "s": "2026-09-18T05:00:00+01:00",
+        "e": "2026-09-18T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ELEKTRONIK FUNXION W/ NOT THE SINGER",
+        "s": "2026-09-18T06:00:00+01:00",
+        "e": "2026-09-18T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ntsradio altémix w/ insrd",
+        "s": "2026-09-18T07:00:00+01:00",
+        "e": "2026-09-18T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "The Loudness Wars w/ Ultimata",
+        "s": "2026-09-18T08:00:00+01:00",
+        "e": "2026-09-18T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SIMS W/ CT168BB",
+        "s": "2026-09-18T09:00:00+01:00",
+        "e": "2026-09-18T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-09-17T09:00:00Z",
-        "e": "2026-09-17T11:00:00Z",
+        "s": "2026-09-17T13:00:00Z",
+        "e": "2026-09-17T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -325,8 +328,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-09-17T11:00:00Z",
-        "e": "2026-09-17T13:00:00Z",
+        "s": "2026-09-17T15:00:00Z",
+        "e": "2026-09-17T15:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -876,42 +879,6 @@
     ],
     "rinse": [
       {
-        "n": "Yazmin Lacey",
-        "s": "2026-09-17T09:00:00Z",
-        "e": "2026-09-17T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Bambi",
-        "s": "2026-09-17T11:00:00Z",
-        "e": "2026-09-17T12:00:00Z",
-        "d": null,
-        "j": "Aideen Ryan",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-09-17T12:00:00Z",
-        "e": "2026-09-17T13:00:00Z",
-        "d": null,
-        "j": "Thiago",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Mr. Redley presents The Black Wine Club Show",
-        "s": "2026-09-17T13:00:00Z",
-        "e": "2026-09-17T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Tom Ravenscroft",
         "s": "2026-09-17T14:00:00Z",
         "e": "2026-09-17T16:00:00Z",
@@ -934,7 +901,7 @@
         "s": "2026-09-17T17:00:00Z",
         "e": "2026-09-17T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "RICHIE & Mikayla Rose",
         "u": null,
         "t": "biweekly"
       },
@@ -969,7 +936,7 @@
         "s": "2026-09-17T22:00:00Z",
         "e": "2026-09-17T23:00:00Z",
         "d": null,
-        "j": null,
+        "j": "TOM YETI",
         "u": null,
         "t": "monthly"
       },
@@ -978,7 +945,7 @@
         "s": "2026-09-17T23:00:00Z",
         "e": "2026-09-18T01:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Iñutu",
         "u": null
       },
       {
@@ -1082,33 +1049,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-09-17T07:00:00Z",
-        "e": "2026-09-17T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "MABOUL BASMATI",
-        "s": "2026-09-17T12:00:00Z",
-        "e": "2026-09-17T13:00:00Z",
-        "d": null,
-        "j": "mode FRENCH VORTEX #90 invite LORD FUNK (More Orgasms Y La Vibracion)",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Mattias Mimoun",
-        "s": "2026-09-17T13:00:00Z",
-        "e": "2026-09-17T14:00:00Z",
-        "d": null,
-        "j": "présente Croque-Monsieur : BEIGE",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Marge",
         "s": "2026-09-17T14:00:00Z",
         "e": "2026-09-17T15:00:00Z",
@@ -1122,7 +1062,7 @@
         "s": "2026-09-17T15:00:00Z",
         "e": "2026-09-17T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "présente SIDEQUEST avec JEKKAMAÏ",
         "u": null,
         "t": "monthly"
       },
