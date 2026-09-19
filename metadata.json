@@ -1,16 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-09-19T19:47:38.276Z",
+  "updated": "2026-09-19T21:57:40.007Z",
   "stations": {
     "nts1": [
-      {
-        "n": "LDLDN - OG & The Remix Pt.2",
-        "s": "2026-09-19T20:00:00+01:00",
-        "e": "2026-09-19T22:00:00+01:00",
-        "d": "LD and guests deliver a slice of realness via jazz, fusion, deep soul, funk, warm techno and the rest. Expect music you can move to from the long-time DJ and producer.\nFrom the host: \"A few years ago, I did a show where I played a track and then played some of its remixes, a kind of compare-and-contrast vibe. I'm doing it again, exploring music that I love and seeing how the textures and sounds change when you get somebody else to remix. A beautiful session of up-and-down sounds\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/spacebass/episodes/spacebass-19th-september-2026"
-      },
       {
         "n": "BLACK IMPULSE",
         "s": "2026-09-19T22:00:00+01:00",
@@ -23,9 +15,9 @@
         "n": "DIDDY WAH",
         "s": "2026-09-20T00:00:00+01:00",
         "e": "2026-09-20T01:00:00+01:00",
-        "d": null,
+        "d": "Adam digs deep into his box of 45s and pulls out a wild selection of 1950s and '60s blues, surf, rockabilly, R&B, gospel, garage, soul and rock'n'roll.\nFrom the host: \"Played a bunch of cool 45s, some new to me, a bit of soul\"",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/diddywah/episodes/diddywah-20th-september-2026"
       },
       {
         "n": "Panorama Yerevan - Sounds of the Divine (R)",
@@ -161,41 +153,33 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "LOOSE BONES",
+        "s": "2026-09-20T17:00:00+01:00",
+        "e": "2026-09-20T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
-      {
-        "n": "Sade Dubs w/ Nick Bam (R)",
-        "s": "2026-09-19T20:04:00+01:00",
-        "e": "2026-09-19T21:00:00+01:00",
-        "d": "London DJ Nick Bam pulls out a power hour of Sade remixes, edits, and versions. ",
-        "j": "Nick Bam",
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/sade-dubs-w-nick-bam-14th-february-2026",
-        "t": "restream"
-      },
-      {
-        "n": "$HIT & $HINE",
-        "s": "2026-09-19T21:00:00+01:00",
-        "e": "2026-09-19T22:00:00+01:00",
-        "d": "Craig Clouse's genre-bending project Shit and Shine hijacks the NTS airwaves. Tune in on a Saturday for an hour of audio felonies spanning everything from post punk to dirty electro, techno or new wave. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/shit-and-shine/episodes/shit-and-shine-19th-september-2026"
-      },
       {
         "n": "PARIDE MARIA CALVIA - VANILLAJELLABA",
         "s": "2026-09-19T22:00:00+01:00",
         "e": "2026-09-19T23:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/paride-maria-calvia-vanillajellaba/episodes/paride-maria-calvia-vanillajellaba-19th-september-2026"
       },
       {
         "n": "UNDER SLEEPY MOON W/ YAWNING PORTAL (R)",
         "s": "2026-09-19T23:00:00+01:00",
         "e": "2026-09-20T00:00:00+01:00",
-        "d": null,
+        "d": "Zzzzzzzzzzzz… Shhhh… There's a baby sleeping in the house!",
         "j": "YAWNING PORTAL",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/under-sleepy-moon/episodes/under-sleepy-moon-3rd-june-2024",
         "t": "restream"
       },
       {
@@ -309,18 +293,26 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "subtle": [],
-    "dublab": [
+      },
       {
-        "n": "Elyn Kazarian – Her Vision Her Voice",
-        "s": "2026-09-19T19:00:00Z",
-        "e": "2026-09-19T21:00:00Z",
+        "n": "Loskatt",
+        "s": "2026-09-20T14:00:00+01:00",
+        "e": "2026-09-20T15:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
+      {
+        "n": "De Borinquen a Brazil w/ Mateo Correa",
+        "s": "2026-09-20T15:00:00+01:00",
+        "e": "2026-09-20T16:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [],
+    "dublab": [
       {
         "n": "Beats of All-Nations",
         "s": "2026-09-19T21:00:00Z",
@@ -872,27 +864,18 @@
         "j": "Sound Study",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Derelict - Damage Control",
+        "s": "2026-09-26T21:00:00Z",
+        "e": "2026-09-26T23:00:00Z",
+        "d": null,
+        "j": "Damage Control",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Cinthie",
-        "s": "2026-09-19T18:00:00Z",
-        "e": "2026-09-19T20:00:00Z",
-        "d": null,
-        "j": "Digging In The Crates",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "unknown - untitled",
-        "s": "2026-09-19T20:00:00Z",
-        "e": "2026-09-19T21:00:00Z",
-        "d": null,
-        "j": "untitled",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Roman Flügel",
         "s": "2026-09-19T21:00:00Z",
@@ -1042,27 +1025,11 @@
       {
         "n": "Playlist France",
         "s": "2026-09-19T19:00:00Z",
-        "e": "2026-09-19T20:00:00Z",
+        "e": "2026-09-19T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
-      },
-      {
-        "n": "Studio III",
-        "s": "2026-09-19T20:00:00Z",
-        "e": "2026-09-19T21:00:00Z",
-        "d": null,
-        "j": "Ohjeelo (DJ Set)",
-        "u": null
-      },
-      {
-        "n": "Studio III",
-        "s": "2026-09-19T21:00:00Z",
-        "e": "2026-09-19T22:00:00Z",
-        "d": null,
-        "j": "restonsflex (DJ Set)",
-        "u": null
       },
       {
         "n": "Playlist France",
