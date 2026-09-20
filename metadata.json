@@ -1,79 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-09-20T02:31:18.369Z",
+  "updated": "2026-09-20T08:55:43.138Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Janie Jones (R)",
-        "s": "2026-09-20T03:00:00+01:00",
-        "e": "2026-09-20T04:00:00+01:00",
-        "d": "Janie Jones delivers an hour a month of kraut, psych and other treats. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/janie-jones/episodes/janie-jones-10th-august-2025",
-        "t": "restream"
-      },
-      {
-        "n": "An1ma w/ Molinaro (R)",
-        "s": "2026-09-20T04:00:00+01:00",
-        "e": "2026-09-20T05:00:00+01:00",
-        "d": "integration sounds from the source; an invitation into the shadow.",
-        "j": "Molinaro",
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-20th-april-2026",
-        "t": "restream"
-      },
-      {
-        "n": "LIVE AT THE CLINIC w/ Mary Sue and the Clementi Sound Appreciation Club (R)",
-        "s": "2026-09-20T05:00:00+01:00",
-        "e": "2026-09-20T06:00:00+01:00",
-        "d": null,
-        "j": "Mary Sue and the Clementi Sound Appreciation Club",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "IN FOCUS: K LEIMER (R)",
-        "s": "2026-09-20T06:00:00+01:00",
-        "e": "2026-09-20T07:30:00+01:00",
-        "d": null,
-        "j": "K LEIMER",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "MARTIN NEWELL'S ODDCASTE",
-        "s": "2026-09-20T07:30:00+01:00",
-        "e": "2026-09-20T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Ondas w/ Dubby",
-        "s": "2026-09-20T08:00:00+01:00",
-        "e": "2026-09-20T09:00:00+01:00",
-        "d": null,
-        "j": "Dubby",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "THEA HD",
         "s": "2026-09-20T09:00:00+01:00",
         "e": "2026-09-20T10:00:00+01:00",
-        "d": null,
+        "d": "Odda Recordings label owner Thea HD unearths the lesser known common sounds. from old soundtracks, library music to experimental electronic music…",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/thea-hd/episodes/thea-hd-20th-september-2026",
         "t": "biweekly"
       },
       {
-        "n": "THE SLIP",
+        "n": "NTS Guide to: Independent North American Jazz Vol 4 (R)",
         "s": "2026-09-20T10:00:00+01:00",
         "e": "2026-09-20T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
+        "d": "This guide takes another deep dive into the world of independently released and private-press jazz from across the US and Canada. The fourth instalment highlights visionary artists who worked beyond the major label system: from the spiritual minimalism of Ahmed Jamal and the cosmic brass meditations of Brother Ah, to the rare community recording of The African Jazz Ensemble, captured live at Brightwood Elementary School in Washington D.C. Expect modal explorations, small-press ingenuity, and the restless experimentation that defined the continent’s underground jazz movement.",
+        "j": "Independent North American Jazz Vol 4",
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-independent-north-american-jazz-vol-4-11th-october-2025",
+        "t": "restream"
       },
       {
         "n": "High Hopes w/ Judah",
@@ -163,72 +109,78 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "SPACE AFRIKA X MATRYOSHKA (R)",
+        "s": "2026-09-21T02:00:00+01:00",
+        "e": "2026-09-21T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Music 4 Lovers w/ Jabu & Andy Payback (R)",
+        "s": "2026-09-21T04:00:00+01:00",
+        "e": "2026-09-21T05:00:00+01:00",
+        "d": null,
+        "j": "Jabu & Andy Payback",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "NTS GUIDE TO: KOMUSO SHAKUHACHI FLUTE MUSIC (R)",
+        "s": "2026-09-21T05:00:00+01:00",
+        "e": "2026-09-21T06:00:00+01:00",
+        "d": null,
+        "j": "KOMUSO SHAKUHACHI FLUTE MUSIC",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "STILL LIGHT W/ SHIDA SHAHABI (R)",
+        "s": "2026-09-21T06:00:00+01:00",
+        "e": "2026-09-21T07:00:00+01:00",
+        "d": null,
+        "j": "SHIDA SHAHABI",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
+        "s": "2026-09-21T07:00:00+01:00",
+        "e": "2026-09-21T09:00:00+01:00",
+        "d": null,
+        "j": "MARIA SOMERVILLE",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW W/ FLO",
+        "s": "2026-09-21T09:00:00+01:00",
+        "e": "2026-09-21T11:00:00+01:00",
+        "d": null,
+        "j": "FLO",
+        "u": null,
+        "t": "regular"
       }
     ],
     "nts2": [
       {
-        "n": "Reparto w/ DJ Vago Caribe",
-        "s": "2026-09-20T03:00:00+01:00",
-        "e": "2026-09-20T04:00:00+01:00",
-        "d": "Reparto: A Dancefloor History of Contemporary Cuba / DJ Vago Caribe\nA one-hour dancefloor history of Cuban reparto: from the raw proto-repartero pulse of Elvis Manuel to Chocolate MC’s guachineo, through the viral street anthems that travelled by USB sticks, phones, YouTube links and diaspora parties, all the way to the 2026 wave led by Bebeshito, Wampi, Dany Ome & Kevincito, Melanie Santiler, Rey Tony and Helabusador.\nReparto is often described as a Cuban mutation of reggaeton, but that feels too small. It is also timba memory, barrio language, dirty drums, coded humour, social choreography and survival music. This mix follows how a local Havana sound became one of the most urgent dance languages in contemporary Cuban music.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dancing-2026/episodes/dancing-2026-contemporary-cuba-w-dj-vago-caribe-20th-september-2026"
-      },
-      {
-        "n": "change yr mind w/ non prophet",
-        "s": "2026-09-20T04:00:00+01:00",
-        "e": "2026-09-20T05:00:00+01:00",
-        "d": "Change yr mind and move yr feet with this selection of tracks ranging from electro-funk to high energy house. Lock in, turn the volume up, and let the rhythm take control.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dancing-2026/episodes/dancing-2026-change-yr-mind-w-non-prophet-20th-september-2026"
-      },
-      {
-        "n": "Breakfast run w/ Tiffany",
-        "s": "2026-09-20T05:00:00+01:00",
-        "e": "2026-09-20T06:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Groove Line w/ CJ Morris",
-        "s": "2026-09-20T06:00:00+01:00",
-        "e": "2026-09-20T07:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "WSI-2026-000-OTT W/ TIZIANE",
-        "s": "2026-09-20T07:00:00+01:00",
-        "e": "2026-09-20T08:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Between Stations w/ melonorfelon",
-        "s": "2026-09-20T08:00:00+01:00",
-        "e": "2026-09-20T09:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Inna Riddim w/ Junior Maurice",
         "s": "2026-09-20T09:00:00+01:00",
         "e": "2026-09-20T10:00:00+01:00",
-        "d": null,
+        "d": "A special selection of foot moving cuts, delays and versions from across the West Indies and those who carried the sound further.\nCurated to keep feet moving on soundsystems both big and small, Inna Riddim showcases an ongoing exploration of the reggae diaspora, from the lowest of low ends to quickfire patois toasters, all with the dancehall in mind.\nMade to play loud with enough space to move.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dancing-2026/episodes/dancing-2026-inna-riddim-w-junior-maurice-20th-september-2026"
       },
       {
         "n": "Studio 54 Weather Report w/ lauri3am",
         "s": "2026-09-20T10:00:00+01:00",
         "e": "2026-09-20T11:00:00+01:00",
-        "d": null,
+        "d": "Today's forecast: wall-to-wall sunshine, gold-lit strings, and heat that doesn't let you come up for breath. Disco edits, nu-disco cuts, and deep soulful house. From Man Power to Shuggie Otis. Built for golden hour, mirrorballs, and dancing till it's raining sweat.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/dancing-2026/episodes/dancing-2026-studio-54-weather-report-w-lauri3am-20th-september-2026"
       },
       {
         "n": "selected disco works 75-88 w/ tjon-aloi",
@@ -309,45 +261,78 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Pájaro de la mar W/ María Vélez Gallo",
+        "s": "2026-09-20T21:00:00+01:00",
+        "e": "2026-09-20T22:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Just Fawkin DANCE w/ MAJESTY",
+        "s": "2026-09-20T22:00:00+01:00",
+        "e": "2026-09-20T23:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Agnostic Disco w/ micookielaka",
+        "s": "2026-09-20T23:00:00+01:00",
+        "e": "2026-09-21T00:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "ADVENTURES W/ CLARISSA CONNELLY (R)",
+        "s": "2026-09-21T00:00:00+01:00",
+        "e": "2026-09-21T01:00:00+01:00",
+        "d": null,
+        "j": "CLARISSA CONNELLY",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Keel Her (R)",
+        "s": "2026-09-21T01:00:00+01:00",
+        "e": "2026-09-21T02:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Milk Radio w/ Keiyaa (R)",
+        "s": "2026-09-21T02:00:00+01:00",
+        "e": "2026-09-21T03:00:00+01:00",
+        "d": null,
+        "j": "Keiyaa",
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [],
     "dublab": [
       {
-        "n": "2092 presents... Funk Radio",
-        "s": "2026-09-20T01:00:00Z",
-        "e": "2026-09-20T03:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Discoteca 3ala Mars",
-        "s": "2026-09-20T03:00:00Z",
-        "e": "2026-09-20T04:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "sounds of NOW",
-        "s": "2026-09-20T04:00:00Z",
-        "e": "2026-09-20T05:00:00Z",
+        "s": "2026-09-20T07:00:00Z",
+        "e": "2026-09-20T09:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "playlist"
       },
       {
-        "n": "Mark Maxwell - Sankofa Sound System",
-        "s": "2026-09-20T05:00:00Z",
-        "e": "2026-09-20T07:00:00Z",
+        "n": "sounds of NOW",
+        "s": "2026-09-20T09:00:00Z",
+        "e": "2026-09-20T11:00:00Z",
         "d": null,
-        "j": "Sankofa Sound System",
+        "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "playlist"
       },
       {
         "n": "djjs",
@@ -877,24 +862,6 @@
     ],
     "rinse": [
       {
-        "n": "Electronic Playlist",
-        "s": "2026-09-20T01:00:00Z",
-        "e": "2026-09-20T05:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "DJ Polo",
-        "s": "2026-09-20T05:00:00Z",
-        "e": "2026-09-20T06:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Playlist",
         "s": "2026-09-20T06:00:00Z",
         "e": "2026-09-20T09:00:00Z",
@@ -1130,15 +1097,6 @@
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-09-19T22:00:00Z",
-        "e": "2026-09-20T07:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
         "s": "2026-09-20T07:00:00Z",
         "e": "2026-09-20T12:00:00Z",
         "d": null,
@@ -1147,72 +1105,61 @@
         "t": "playlist"
       },
       {
-        "n": "O.Xander",
+        "n": "Luxie b2b bdstf",
         "s": "2026-09-20T12:00:00Z",
         "e": "2026-09-20T13:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
+        "j": "weightless remixes release party",
+        "u": null
       },
       {
-        "n": "Sébastien Forrester",
+        "n": "Dann SSV",
         "s": "2026-09-20T13:00:00Z",
         "e": "2026-09-20T14:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
+        "j": "EUROPEAN TAKEOVER",
+        "u": null
       },
       {
-        "n": "Tatie Dee",
+        "n": "Promesses",
         "s": "2026-09-20T14:00:00Z",
-        "e": "2026-09-20T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Music For Tourist",
-        "s": "2026-09-20T15:00:00Z",
         "e": "2026-09-20T16:00:00Z",
         "d": null,
-        "j": "Invite Sonya Hibiscus",
+        "j": "invite Nori",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "FIONA",
+        "n": "Jokkoo Collective",
         "s": "2026-09-20T16:00:00Z",
         "e": "2026-09-20T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "999ADJ",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Belaria",
+        "n": "MUTEK",
         "s": "2026-09-20T17:00:00Z",
         "e": "2026-09-20T18:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Weirdies Records",
-        "s": "2026-09-20T18:00:00Z",
-        "e": "2026-09-20T19:00:00Z",
-        "d": null,
-        "j": null,
+        "j": "invite CUERPOS",
         "u": null,
         "t": "monthly"
       },
       {
         "n": "Playlist France",
+        "s": "2026-09-20T18:00:00Z",
+        "e": "2026-09-20T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
         "s": "2026-09-20T19:00:00Z",
-        "e": "2026-09-20T20:00:00Z",
+        "e": "2026-09-20T22:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1242,8 +1189,7 @@
         "e": "2026-09-21T13:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Sébastien Forrester",
@@ -1260,8 +1206,7 @@
         "e": "2026-09-21T15:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Music For Tourist",
@@ -1269,8 +1214,7 @@
         "e": "2026-09-21T16:00:00Z",
         "d": null,
         "j": "Invite Sonya Hibiscus",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "FIONA",
@@ -1278,8 +1222,7 @@
         "e": "2026-09-21T17:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Belaria",
@@ -1296,8 +1239,7 @@
         "e": "2026-09-21T19:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Playlist France",
