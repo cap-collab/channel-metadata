@@ -1,50 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-09-24T08:52:17.500Z",
+  "updated": "2026-09-24T14:32:03.844Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO - DJ SUZY (LIVE)",
-        "s": "2026-09-24T09:00:00+01:00",
-        "e": "2026-09-24T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-24th-september-2026",
-        "t": "regular"
-      },
-      {
-        "n": "SOUP TO NUTS W/ BABYSCHÖN",
-        "s": "2026-09-24T11:00:00+01:00",
-        "e": "2026-09-24T13:00:00+01:00",
-        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
-        "j": "BABYSCHÖN",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-24th-september-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "DANCE MUSIC SHOW W/ BELL TOWERS",
-        "s": "2026-09-24T13:00:00+01:00",
-        "e": "2026-09-24T14:00:00+01:00",
-        "d": null,
-        "j": "BELL TOWERS",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "RHYTHM CONNECTION",
         "s": "2026-09-24T14:00:00+01:00",
         "e": "2026-09-24T16:00:00+01:00",
-        "d": null,
+        "d": "A monthly journey into H.O.U.S.E. hosted by Dan Beaumont & Nadia Ksaiba featuring interviews & mixes from super special guests. Expect two hours of old bangers and upfront pumpers.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/rhythmconnection/episodes/rhythmconnection-24th-september-2026",
+        "t": "monthly"
       },
       {
         "n": "WORK OUT W/ SOFIE K",
         "s": "2026-09-24T16:00:00+01:00",
         "e": "2026-09-24T17:00:00+01:00",
-        "d": null,
+        "d": "Tune in, turn on, clock out. Sofie K brings sleazy synthpop, pumping proto-house and campy club cuts to the NTS studio once a month. ",
         "j": "SOFIE K",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sofie-k/episodes/sofie-k-24th-september-2026",
         "t": "monthly"
       },
       {
@@ -107,12 +81,21 @@
         "t": "restream"
       },
       {
-        "n": "DEBT & REFUGE",
+        "n": "DEBT & REFUGE w/ Tears",
         "s": "2026-09-25T01:00:00+01:00",
         "e": "2026-09-25T02:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "80S RAMPWALK (R)",
+        "s": "2026-09-25T02:00:00+01:00",
+        "e": "2026-09-25T03:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "OMICHIVE’S BOOKSHELF (R)",
@@ -157,75 +140,42 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Soup To Nuts w/ Bitter Babe",
+        "s": "2026-09-25T11:00:00+01:00",
+        "e": "2026-09-25T13:00:00+01:00",
+        "d": null,
+        "j": "Bitter Babe",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "RAJI RAGS",
+        "s": "2026-09-25T13:00:00+01:00",
+        "e": "2026-09-25T15:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "RAW & FUNKY W/ HEKAI",
-        "s": "2026-09-24T09:00:00+01:00",
-        "e": "2026-09-24T10:00:00+01:00",
-        "d": "This is the music that resonates with me. The frequencies making my body move. Hoping they will resonate inside you too, and make, whatever the distance, our entangled molecules dance together, to the same beat.\nThis is a pure selection of tracks I love dancing to, put together in a Rekordbox Playlist, and mixed without anything prepared at 11am (no sleep) the 22nd, date of submission. Trying to achieve raw, dumb, and fun at the same time ;)",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dancing-2026/episodes/dancing-2026-raw-funky-w-hekai-24th-september-2026"
-      },
-      {
-        "n": "Hazy Feels w/ Roger T",
-        "s": "2026-09-24T10:00:00+01:00",
-        "e": "2026-09-24T11:00:00+01:00",
-        "d": "I created this mix to evoke the feeling of a hot sunny day, capturing that childhood sense of innocence and excitement from when I was a little boy at the beach with the seagulls overhead and the sea running over my feet\nFilled with hazy feels, euphoric moments and a few surprises but ultimately joyful fun",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dancing-2026/episodes/dancing-2026-hazy-feels-w-roger-t-24th-september-2026"
-      },
-      {
-        "n": "Music For Instruments And Synths w/ Cinna Peyghamy",
-        "s": "2026-09-24T11:00:00+01:00",
-        "e": "2026-09-24T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Anton Anishchanka",
-        "s": "2026-09-24T12:00:00+01:00",
-        "e": "2026-09-24T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "NTS Guide to: Baithak Gana",
-        "s": "2026-09-24T13:00:00+01:00",
-        "e": "2026-09-24T14:00:00+01:00",
-        "d": null,
-        "j": "Baithak Gana",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "MiNaYo w/ Ruth Tafébé",
-        "s": "2026-09-24T14:00:00+01:00",
-        "e": "2026-09-24T15:00:00+01:00",
-        "d": null,
-        "j": "Ruth Tafébé",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DesiVinyl w/ Ruby Khaira",
+        "n": "DesiVinyl w/ Ruby Khaira - 80s Flashback",
         "s": "2026-09-24T15:00:00+01:00",
         "e": "2026-09-24T16:00:00+01:00",
-        "d": null,
+        "d": "Selections from Ruby Khaira, long time record collector with a love of all things Punjabi music. Digging deep into the record crates as a celebration of Punjab's rich musical heritage and worldwide impact. From dance floor Bhangra bangers to desi folk anthems — if it was pressed onto vinyl, it might just get played.\nFrom the host: \"Ruby Khaira presents DesiVinyl 80s Flashback - an hour-long nostalgic journey through the early UK Bhangra sound. Revisiting the records, artists and memories that shaped the emerging 80s UK Punjabi music scene.\"",
         "j": "Ruby Khaira",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ruby-khaira/episodes/ruby-khaira-24th-september-2026",
         "t": "monthly"
       },
       {
         "n": "NOT WAVING",
         "s": "2026-09-24T16:00:00+01:00",
         "e": "2026-09-24T17:00:00+01:00",
-        "d": null,
+        "d": "Alessio Natalizia is Not Waving. Take the plunge with his monthly hour of fucked-up left techno, leftfield electronics, brain-twisting oddball pop and post-punk, dub offshoots and other diversions. \necstaticrecordings.com",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/not-waving/episodes/not-waving-24th-september-2026",
         "t": "monthly"
       },
       {
@@ -253,7 +203,7 @@
         "u": null
       },
       {
-        "n": "TEMPORAL COVE W/ SMILEGOTH",
+        "n": "Temporal Cove w/ Dummy",
         "s": "2026-09-24T20:00:00+01:00",
         "e": "2026-09-24T21:00:00+01:00",
         "d": null,
@@ -275,6 +225,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "TRIP LICK W/ VLADA (R)",
+        "s": "2026-09-24T23:00:00+01:00",
+        "e": "2026-09-25T00:00:00+01:00",
+        "d": null,
+        "j": "VLADA",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "No Bells w/ Mano Sundaresan",
@@ -308,23 +267,55 @@
         "j": "Rainy Miller",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "TAGABOW / Julia’s War (R)",
+        "s": "2026-09-25T05:00:00+01:00",
+        "e": "2026-09-25T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "ODORI w/ IKUO",
+        "s": "2026-09-25T06:00:00+01:00",
+        "e": "2026-09-25T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CAN YOU DANCE TO NOISE? w/ Guillaume F",
+        "s": "2026-09-25T07:00:00+01:00",
+        "e": "2026-09-25T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "INVISIBLE LATITUDE W/ NUMA",
+        "s": "2026-09-25T08:00:00+01:00",
+        "e": "2026-09-25T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Air Afrique w/ DJ AFRODESI",
+        "s": "2026-09-25T09:00:00+01:00",
+        "e": "2026-09-25T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-09-24T08:00:00Z",
-        "e": "2026-09-24T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-09-24T10:00:00Z",
-        "e": "2026-09-24T12:00:00Z",
+        "s": "2026-09-24T14:00:00Z",
+        "e": "2026-09-24T15:30:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -840,50 +831,6 @@
     ],
     "rinse": [
       {
-        "n": "Mad Cats",
-        "s": "2026-09-24T08:00:00Z",
-        "e": "2026-09-24T09:00:00Z",
-        "d": null,
-        "j": "Sean Innit & Eno Williams (Ibibio Sound Machine)",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Yazmin Lacey",
-        "s": "2026-09-24T09:00:00Z",
-        "e": "2026-09-24T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Behind This Wall",
-        "s": "2026-09-24T11:00:00Z",
-        "e": "2026-09-24T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-09-24T12:00:00Z",
-        "e": "2026-09-24T13:00:00Z",
-        "d": null,
-        "j": "60 Mins of Sway in the mix",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Rollo Jackson",
-        "s": "2026-09-24T13:00:00Z",
-        "e": "2026-09-24T14:00:00Z",
-        "d": null,
-        "j": "SEPTEMBER MIX",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Tom Ravenscroft",
         "s": "2026-09-24T14:00:00Z",
         "e": "2026-09-24T16:00:00Z",
@@ -962,10 +909,36 @@
       {
         "n": "Eclecticist",
         "s": "2026-09-25T05:00:00Z",
-        "e": "2026-09-25T10:00:00Z",
+        "e": "2026-09-25T06:00:00Z",
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Yazmin Lacey",
+        "s": "2026-09-25T06:00:00Z",
+        "e": "2026-09-25T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Cuppa Sounds",
+        "s": "2026-09-25T08:00:00Z",
+        "e": "2026-09-25T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Breakfast with Mr. Redley",
+        "s": "2026-09-25T09:00:00Z",
+        "e": "2026-09-25T10:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       },
       {
         "n": "Daddy Nature",
@@ -1041,24 +1014,6 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-09-24T07:00:00Z",
-        "e": "2026-09-24T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "TONAK.fm",
-        "s": "2026-09-24T12:00:00Z",
-        "e": "2026-09-24T14:00:00Z",
-        "d": null,
-        "j": "Music For The Soul #21",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Naomi b2b Saari",
         "s": "2026-09-24T14:00:00Z",
         "e": "2026-09-24T15:00:00Z",
@@ -1080,7 +1035,7 @@
         "s": "2026-09-24T16:00:00Z",
         "e": "2026-09-24T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Superspeed ?",
         "u": null,
         "t": "biweekly"
       },
@@ -1089,7 +1044,7 @@
         "s": "2026-09-24T17:00:00Z",
         "e": "2026-09-24T18:00:00Z",
         "d": null,
-        "j": "invite Conceptual",
+        "j": "invite CONCEPTUAL",
         "u": null,
         "t": "monthly"
       },
@@ -1137,13 +1092,12 @@
         "t": "playlist"
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "Ouanounou",
         "s": "2026-09-25T12:00:00Z",
         "e": "2026-09-25T13:00:00Z",
         "d": null,
-        "j": "Ferdinand Prairie",
-        "u": null,
-        "t": "weekly"
+        "j": "Drum Lessons",
+        "u": null
       },
       {
         "n": "RAVL",
@@ -1154,13 +1108,12 @@
         "u": null
       },
       {
-        "n": "Rinse France Guest Show",
+        "n": "Never broke again",
         "s": "2026-09-25T14:00:00Z",
         "e": "2026-09-25T15:00:00Z",
         "d": null,
-        "j": "Ouanounou",
-        "u": null,
-        "t": "weekly"
+        "j": "invite venti & special guest",
+        "u": null
       },
       {
         "n": "Boukan Records",
