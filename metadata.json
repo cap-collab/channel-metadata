@@ -1,48 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-09-25T09:13:09.150Z",
+  "updated": "2026-09-25T14:52:37.821Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ Lil C",
-        "s": "2026-09-25T09:00:00+01:00",
-        "e": "2026-09-25T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-lil-c-25th-september-2026"
-      },
-      {
-        "n": "Soup To Nuts w/ Bitter Babe",
-        "s": "2026-09-25T11:00:00+01:00",
-        "e": "2026-09-25T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": "Bitter Babe",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-bitter-babe-25th-september-2026",
-        "t": "biweekly"
-      },
-      {
-        "n": "RAJI RAGS",
-        "s": "2026-09-25T13:00:00+01:00",
-        "e": "2026-09-25T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "ADONIS w/ Ariel Zetina",
         "s": "2026-09-25T15:00:00+01:00",
         "e": "2026-09-25T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Iconic queer party crew Adonis showcase their residents on a monthly rotation live from the London studio.",
+        "j": "Ariel Zetina",
+        "u": "https://www.nts.live/api/v2/shows/adonis/episodes/adonis-25th-september-2026",
+        "t": "monthly"
       },
       {
-        "n": "WAYA FYAM W/ PRIESTE$$ TELZZZZZZ",
+        "n": "WHY BE (R)",
         "s": "2026-09-25T16:00:00+01:00",
         "e": "2026-09-25T17:00:00+01:00",
-        "d": null,
+        "d": "Yegorka label co-founder Why Be back in charge for an hour.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/why-be-13th-december-2023",
+        "t": "restream"
       },
       {
         "n": "TED DRAWS",
@@ -76,6 +53,15 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS GUIDE TO: FOOTWORK 2026 (R)",
+        "s": "2026-09-25T21:00:00+01:00",
+        "e": "2026-09-25T22:00:00+01:00",
+        "d": null,
+        "j": "FOOTWORK 2026",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "DEEP MEDI",
@@ -156,57 +142,42 @@
         "j": "Laura Groves",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "RAGA VIBRATIONS",
+        "s": "2026-09-26T08:00:00+01:00",
+        "e": "2026-09-26T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "THE ONE GLOVE BREAKFAST SHOW W/ MACCA",
+        "s": "2026-09-26T10:00:00+01:00",
+        "e": "2026-09-26T12:00:00+01:00",
+        "d": null,
+        "j": "MACCA",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "dancing at amigos del groove w/ héctr",
-        "s": "2026-09-25T10:00:00+01:00",
-        "e": "2026-09-25T11:00:00+01:00",
-        "d": "just mixing my partner’s favourite tracks. inspired by our ‘amigos del groove’ parties.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dancing-2026/episodes/dancing-2026-dancing-at-amigos-del-groove-w-hectr-25th-september-2026"
-      },
-      {
-        "n": "In Focus: Kourosh Yaghmaei",
-        "s": "2026-09-25T11:00:00+01:00",
-        "e": "2026-09-25T13:00:00+01:00",
-        "d": null,
-        "j": "Kourosh Yaghmaei",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Moments With Mass",
-        "s": "2026-09-25T13:00:00+01:00",
-        "e": "2026-09-25T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Foot Foot",
-        "s": "2026-09-25T14:00:00+01:00",
-        "e": "2026-09-25T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "Churchmice Anonymous w/ Calvin LeCompte and Cooper Handy",
         "s": "2026-09-25T15:00:00+01:00",
         "e": "2026-09-25T16:00:00+01:00",
-        "d": null,
+        "d": "A conversation between Calvin LeCompte and Cooper Handy, organized into acts with The Nutcracker serving as its internal architecture.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-25th-september-2026"
       },
       {
         "n": "CREEP ZONE W/ JAMES PANTS & MARC SCHALLER",
         "s": "2026-09-25T16:00:00+01:00",
         "e": "2026-09-25T17:00:00+01:00",
-        "d": null,
+        "d": "Stones Throw's James Pants joins forces with Marc Schaller for an hour-long dive into dreamy electronics, wired sounds and experimentation.",
         "j": "JAMES PANTS & MARC SCHALLER",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/creepzone/episodes/creepzone-25th-september-2026",
         "t": "monthly"
       },
       {
@@ -235,7 +206,7 @@
         "t": "monthly"
       },
       {
-        "n": "Trinh",
+        "n": "TRiNH - Venus in Furs",
         "s": "2026-09-25T20:00:00+01:00",
         "e": "2026-09-25T21:00:00+01:00",
         "d": null,
@@ -243,12 +214,13 @@
         "u": null
       },
       {
-        "n": "Mild Animals",
+        "n": "The Sam Wilkes Radio Hour (R)",
         "s": "2026-09-25T21:00:00+01:00",
         "e": "2026-09-25T22:00:00+01:00",
         "d": null,
         "j": null,
-        "u": null
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Axcess Amnesia w/ DEREK KANOWSKY",
@@ -297,14 +269,55 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS GUIDE TO: '80S SOPHISTI-FUNK (R)",
+        "s": "2026-09-26T04:00:00+01:00",
+        "e": "2026-09-26T06:00:00+01:00",
+        "d": null,
+        "j": "'80S SOPHISTI-FUNK",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "IDIOTIC DANCE MIX W/ HEIBAIWUCHANG",
+        "s": "2026-09-26T06:00:00+01:00",
+        "e": "2026-09-26T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "LA MOVIDA W/ COURTS",
+        "s": "2026-09-26T07:00:00+01:00",
+        "e": "2026-09-26T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Ancient rhythms, new rituals",
+        "s": "2026-09-26T08:00:00+01:00",
+        "e": "2026-09-26T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "CREPUSCULAR CLUB W/ MOSS TOOTH",
+        "s": "2026-09-26T09:00:00+01:00",
+        "e": "2026-09-26T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [],
     "dublab": [
       {
         "n": "sounds of NOW",
-        "s": "2026-09-25T09:00:00Z",
-        "e": "2026-09-25T11:00:00Z",
+        "s": "2026-09-25T13:00:00Z",
+        "e": "2026-09-25T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -312,8 +325,8 @@
       },
       {
         "n": "sounds of NOW",
-        "s": "2026-09-25T11:00:00Z",
-        "e": "2026-09-25T13:00:00Z",
+        "s": "2026-09-25T15:00:00Z",
+        "e": "2026-09-25T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -811,23 +824,6 @@
     ],
     "rinse": [
       {
-        "n": "Breakfast with Mr. Redley",
-        "s": "2026-09-25T09:00:00Z",
-        "e": "2026-09-25T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Daddy Nature",
-        "s": "2026-09-25T10:00:00Z",
-        "e": "2026-09-25T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
         "n": "The MoodSwing Show",
         "s": "2026-09-25T13:00:00Z",
         "e": "2026-09-25T15:00:00Z",
@@ -1034,36 +1030,11 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-09-25T07:00:00Z",
-        "e": "2026-09-25T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Ouanounou",
-        "s": "2026-09-25T12:00:00Z",
-        "e": "2026-09-25T13:00:00Z",
-        "d": null,
-        "j": "Drum Lessons",
-        "u": null
-      },
-      {
-        "n": "RAVL",
-        "s": "2026-09-25T13:00:00Z",
-        "e": "2026-09-25T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Never broke again",
+        "n": "renoiterrible",
         "s": "2026-09-25T14:00:00Z",
         "e": "2026-09-25T15:00:00Z",
         "d": null,
-        "j": "invite venti & special guest",
+        "j": "Don't stress be blessed avec UNISHAINN label",
         "u": null
       },
       {
@@ -1080,21 +1051,21 @@
         "s": "2026-09-25T16:00:00Z",
         "e": "2026-09-25T17:00:00Z",
         "d": null,
-        "j": "invite Chinnamasta",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "rougail space program",
-        "s": "2026-09-25T17:00:00Z",
-        "e": "2026-09-25T18:00:00Z",
-        "d": null,
-        "j": null,
+        "j": "Bougé Cho avec Chinnamasta",
         "u": null,
         "t": "monthly"
       },
       {
         "n": "ASIAN CORE",
+        "s": "2026-09-25T17:00:00Z",
+        "e": "2026-09-25T18:00:00Z",
+        "d": null,
+        "j": "INVITE NHU XUAN HUA",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "rougail space program",
         "s": "2026-09-25T18:00:00Z",
         "e": "2026-09-25T19:00:00Z",
         "d": null,
@@ -1142,7 +1113,7 @@
         "s": "2026-09-26T14:00:00Z",
         "e": "2026-09-26T15:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Invite clara.hdd",
         "u": null,
         "t": "monthly"
       },
@@ -1169,7 +1140,7 @@
         "s": "2026-09-26T17:00:00Z",
         "e": "2026-09-26T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Saturnsarii",
         "u": null,
         "t": "monthly"
       },
