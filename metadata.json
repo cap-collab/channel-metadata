@@ -1,66 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-09-29T10:15:28.841Z",
+  "updated": "2026-09-29T17:19:09.672Z",
   "stations": {
     "nts1": [
-      {
-        "n": "SOUP TO NUTS W/ ANU - DEEP DIVE: Yellow Magic Orchestra",
-        "s": "2026-09-29T11:00:00+01:00",
-        "e": "2026-09-29T13:00:00+01:00",
-        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-29th-september-2026"
-      },
-      {
-        "n": "Prosumer w/ Dave Stringer Hughes",
-        "s": "2026-09-29T13:00:00+01:00",
-        "e": "2026-09-29T15:00:00+01:00",
-        "d": "Berlin techno aficionado Prosumer lays it out for all the wannabes. A harmonious lecture in house and soul, Prosumer’s here to share. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/prosumer/episodes/prosumer-29th-september-2026"
-      },
-      {
-        "n": "Self Soothe w/ Margeaux",
-        "s": "2026-09-29T15:00:00+01:00",
-        "e": "2026-09-29T16:00:00+01:00",
-        "d": null,
-        "j": "Margeaux",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "BASKET OF LIGHT W/ LIANA FLORES",
-        "s": "2026-09-29T16:00:00+01:00",
-        "e": "2026-09-29T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "SNO",
-        "s": "2026-09-29T17:00:00+01:00",
-        "e": "2026-09-29T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "INSOLAR w/ CAMI LAYÉ OKÚN",
         "s": "2026-09-29T18:00:00+01:00",
         "e": "2026-09-29T19:00:00+01:00",
-        "d": null,
+        "d": "Cuban record collector, ethnomusicologist researcher, picks up a hour of global vinyl via Havana every months.",
         "j": "CAMI LAYÉ OKÚN",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/cami-laye-okun/episodes/cami-laye-okun-29th-september-2026",
         "t": "monthly"
       },
       {
         "n": "Chicken Foot Soup w/ Goya Gumbani and Dom P",
         "s": "2026-09-29T19:00:00+01:00",
         "e": "2026-09-29T21:00:00+01:00",
-        "d": null,
+        "d": "London-based jazz artist Goya Gumbani stops by to share heartfelt picks from his collection.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/goya-gumbani/episodes/goya-gumbani-29th-september-2026"
       },
       {
         "n": "DJ Beegazand",
@@ -71,12 +29,13 @@
         "u": null
       },
       {
-        "n": "Space Afrika",
+        "n": "IN FOCUS: POPOL VUH (R)",
         "s": "2026-09-29T22:00:00+01:00",
         "e": "2026-09-30T00:00:00+01:00",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "POPOL VUH",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "BLUE TRIO RADIO W/ FULL BODY 2",
@@ -88,12 +47,21 @@
         "t": "monthly"
       },
       {
-        "n": "Plastic Language",
+        "n": "Plastic Language w/ Nur Turkmani",
         "s": "2026-09-30T01:00:00+01:00",
         "e": "2026-09-30T02:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "MOBBS (R)",
+        "s": "2026-09-30T02:00:00+01:00",
+        "e": "2026-09-30T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "Furniture without Memories w/ livwutang (R)",
@@ -108,6 +76,15 @@
         "n": "YU SU (R)",
         "s": "2026-09-30T05:00:00+01:00",
         "e": "2026-09-30T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "THE SAGEGAZERS (R)",
+        "s": "2026-09-30T06:00:00+01:00",
+        "e": "2026-09-30T07:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
@@ -157,75 +134,51 @@
         "j": "RHYTHM SECTION",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "MOXIE",
+        "s": "2026-09-30T15:00:00+01:00",
+        "e": "2026-09-30T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TASH LC",
+        "s": "2026-09-30T17:00:00+01:00",
+        "e": "2026-09-30T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "MOTIVE",
+        "s": "2026-09-30T18:00:00+01:00",
+        "e": "2026-09-30T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Pianpianino w/ DJ Fine",
-        "s": "2026-09-29T11:00:00+01:00",
-        "e": "2026-09-29T12:00:00+01:00",
-        "d": "Geneva's DJ Fine plays piano-centered pieces, often accompanying compositions with spoken world and poems.\nFrom the host: \"This episode features two original poems / sound-pieces written and performed by Aasta Gupta.\"",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dj-fine/episodes/dj-fine-29th-september-2026"
-      },
-      {
-        "n": "Phambinho - BẢN THẬP NIỆN ÁI",
-        "s": "2026-09-29T12:00:00+01:00",
-        "e": "2026-09-29T13:00:00+01:00",
-        "d": "Monthly enqiuries into encounters in harmony, forms of hearing, and occasionally responding.",
-        "j": "BẢN THẬP NIỆN ÁI",
-        "u": "https://www.nts.live/api/v2/shows/phambinho/episodes/phambinho-29th-september-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Mark Leckey w/ Andy Holden & The Grubby Mitts - Grubby Mix",
-        "s": "2026-09-29T13:00:00+01:00",
-        "e": "2026-09-29T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "LORAINE JAMES",
-        "s": "2026-09-29T14:00:00+01:00",
-        "e": "2026-09-29T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "magic mashups w/ miss sheitana",
-        "s": "2026-09-29T15:00:00+01:00",
-        "e": "2026-09-29T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "WES BAGGALEY",
-        "s": "2026-09-29T16:00:00+01:00",
-        "e": "2026-09-29T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "Optimo - Wild Planet Sounds",
         "s": "2026-09-29T17:00:00+01:00",
         "e": "2026-09-29T19:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Optimo is JG Wilkes & JD Twitch; record label, and longstanding Glaswegian party. You can expect a lot from their new monthly slot, sure to dig up some obscurities from post-punk, new wave, EBM, house and techno. Bags of unreleased stuff, too.",
+        "j": "Wild Planet Sounds",
+        "u": "https://www.nts.live/api/v2/shows/optimo/episodes/optimo-29th-september-2026",
+        "t": "monthly"
       },
       {
         "n": "The Lunacy of Flowers w/ TEMPERS",
         "s": "2026-09-29T19:00:00+01:00",
         "e": "2026-09-29T20:00:00+01:00",
-        "d": null,
+        "d": "Dave I.D takes us through industrial, and techno – melodic and dark. New and classic goth, his selection sets him apart from most, branching decades and scenes.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/daveid/episodes/daveid-29th-september-2026"
       },
       {
         "n": "John Carpenter, Cody Carpenter & Daniel Davies",
@@ -261,12 +214,13 @@
         "u": null
       },
       {
-        "n": "Programmin' w/ DJ Kita",
+        "n": "No ID Radio w/ Anysia Kym (R)",
         "s": "2026-09-30T00:00:00+01:00",
         "e": "2026-09-30T01:00:00+01:00",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Anysia Kym",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "JANA RUSH",
@@ -312,28 +266,59 @@
         "j": "Noa Kurzweil",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "Slow Dancing in a Burning Room w/ somker",
+        "s": "2026-09-30T06:00:00+01:00",
+        "e": "2026-09-30T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "A night at the balls",
+        "s": "2026-09-30T07:00:00+01:00",
+        "e": "2026-09-30T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Thames West",
+        "s": "2026-09-30T08:00:00+01:00",
+        "e": "2026-09-30T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "moods of the cunt w/ kitschkai",
+        "s": "2026-09-30T09:00:00+01:00",
+        "e": "2026-09-30T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "A BAILAR W/ AUSTIN MOULTON",
+        "s": "2026-09-30T10:00:00+01:00",
+        "e": "2026-09-30T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Explorations w/ DIGGING IN INDIA - 100% Desi Rap",
+        "s": "2026-09-30T11:00:00+01:00",
+        "e": "2026-09-30T12:00:00+01:00",
+        "d": null,
+        "j": "DIGGING IN INDIA",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-09-29T09:00:00Z",
-        "e": "2026-09-29T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-09-29T11:00:00Z",
-        "e": "2026-09-29T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "High Desert Soundings",
         "s": "2026-09-29T17:00:00Z",
@@ -870,43 +855,35 @@
         "j": "SS Extension Course",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Papaoul",
-        "s": "2026-09-29T09:00:00Z",
-        "e": "2026-09-29T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
       },
       {
-        "n": "Jordan Mae",
-        "s": "2026-09-29T11:00:00Z",
-        "e": "2026-09-29T12:00:00Z",
+        "n": "Gulniyal - gtalks! radio",
+        "s": "2026-10-06T15:00:00Z",
+        "e": "2026-10-06T16:00:00Z",
         "d": null,
-        "j": "Soul Selections - Feel Free",
+        "j": null,
         "u": null
       },
       {
-        "n": "Elle Clark",
-        "s": "2026-09-29T12:00:00Z",
-        "e": "2026-09-29T13:00:00Z",
+        "n": "Chandler Poling - Studio Soundtracks",
+        "s": "2026-10-06T16:00:00Z",
+        "e": "2026-10-06T17:00:00Z",
         "d": null,
-        "j": "DJ Spanish Fly",
+        "j": "Studio Soundtracks",
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "MiNNA",
-        "s": "2026-09-29T13:00:00Z",
-        "e": "2026-09-29T14:00:00Z",
+        "n": "Joko Homo - Discoteca Imaginaria",
+        "s": "2026-10-06T17:00:00Z",
+        "e": "2026-10-06T19:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
-      },
+        "j": "Discoteca Imaginaria",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "Brighter Days Family",
         "s": "2026-09-29T14:00:00Z",
@@ -918,12 +895,20 @@
       },
       {
         "n": "p-rallel",
-        "s": "2026-09-29T18:00:00Z",
-        "e": "2026-09-29T21:00:00Z",
+        "s": "2026-09-29T16:00:00Z",
+        "e": "2026-09-29T18:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Debba",
+        "s": "2026-09-29T18:00:00Z",
+        "e": "2026-09-29T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       },
       {
         "n": "bullet tooth B2B INSTINCT",
@@ -1067,56 +1052,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-09-29T10:00:00Z",
-        "e": "2026-09-29T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Rinse France Guest Show",
-        "s": "2026-09-29T12:00:00Z",
-        "e": "2026-09-29T13:00:00Z",
-        "d": null,
-        "j": "ALDAVE",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Blanca Brusci",
-        "s": "2026-09-29T13:00:00Z",
-        "e": "2026-09-29T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Sinom",
-        "s": "2026-09-29T14:00:00Z",
-        "e": "2026-09-29T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Allegory b2b Lyss",
-        "s": "2026-09-29T15:00:00Z",
-        "e": "2026-09-29T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "La Connect’ avec Le Kaiju",
-        "s": "2026-09-29T16:00:00Z",
-        "e": "2026-09-29T17:00:00Z",
-        "d": null,
-        "j": "Kill the party",
-        "u": null
-      },
       {
         "n": "Tina Tornade",
         "s": "2026-09-29T17:00:00Z",
