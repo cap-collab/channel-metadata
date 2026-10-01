@@ -1,59 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-10-01T08:03:28.275Z",
+  "updated": "2026-10-01T16:47:48.187Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-10-01T09:00:00+01:00",
-        "e": "2026-10-01T11:00:00+01:00",
-        "d": "Low, slow and sleazy sounds with babyschön, in the studio for the early afternoon shift… ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-babyschon/episodes/soup-to-nuts-babyschon-1st-october-2026",
-        "t": "regular"
-      },
-      {
-        "n": "SOUP TO NUTS W/ BABYSCHÖN",
-        "s": "2026-10-01T11:00:00+01:00",
-        "e": "2026-10-01T13:00:00+01:00",
-        "d": null,
-        "j": "BABYSCHÖN",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Legowelt",
-        "s": "2026-10-01T13:00:00+01:00",
-        "e": "2026-10-01T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "DRIZLE.FM W/ PLO MAN (R)",
-        "s": "2026-10-01T15:00:00+01:00",
-        "e": "2026-10-01T17:00:00+01:00",
-        "d": null,
-        "j": "PLO MAN",
-        "u": null,
-        "t": "restream"
-      },
       {
         "n": "OK WILLIAMS",
         "s": "2026-10-01T17:00:00+01:00",
         "e": "2026-10-01T18:00:00+01:00",
-        "d": null,
+        "d": "From the Host:'one hour of electronica from my CD collection'",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/ok-williams/episodes/ok-williams-1st-october-2026",
         "t": "monthly"
       },
       {
-        "n": "SCARY THINGS",
+        "n": "Scary Things w/ Kida Kudz & NSG",
         "s": "2026-10-01T18:00:00+01:00",
         "e": "2026-10-01T20:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
+        "d": "Digga D and 67's DJ Bempah & JK hosts Scary Things, inviting a rotating cast of the best MCs and DJs in UK drill into the studio every other week. ",
+        "j": "Kida Kudz & NSG",
+        "u": "https://www.nts.live/api/v2/shows/scary-things/episodes/scary-things-1st-october-2026",
         "t": "biweekly"
       },
       {
@@ -65,12 +30,22 @@
         "u": null
       },
       {
-        "n": "Peking Spring w/ Jon K & Dom P",
+        "n": "FLAWLESS VICTORY W/ DJ SWISHA (R)",
         "s": "2026-10-01T21:00:00+01:00",
+        "e": "2026-10-01T22:00:00+01:00",
+        "d": null,
+        "j": "DJ SWISHA",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "DEADAIR - TRANSMISSIONS W/ DAZEGXD (R)",
+        "s": "2026-10-01T22:00:00+01:00",
         "e": "2026-10-01T23:00:00+01:00",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "DAZEGXD",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "KASRA V",
@@ -81,13 +56,12 @@
         "u": null
       },
       {
-        "n": "SLIME FM W/ KHADIJA AL HANAFI (R)",
+        "n": "I've Seen That Face Before w/ Marnie Weber",
         "s": "2026-10-02T00:00:00+01:00",
         "e": "2026-10-02T01:00:00+01:00",
         "d": null,
-        "j": "KHADIJA AL HANAFI",
-        "u": null,
-        "t": "restream"
+        "j": null,
+        "u": null
       },
       {
         "n": "DJ TOBZY IMOLE GIWA (R)",
@@ -144,98 +118,66 @@
         "t": "restream"
       },
       {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "n": "The Early Bird Show w/ Jack Rollo - Popol Vuh Special",
         "s": "2026-10-02T07:00:00+01:00",
         "e": "2026-10-02T09:00:00+01:00",
         "d": null,
-        "j": "JACK ROLLO",
+        "j": "Jack Rollo",
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "THE NTS BREAKFAST SHOW w/ FINN",
+        "s": "2026-10-02T09:00:00+01:00",
+        "e": "2026-10-02T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SOUP TO NUTS w/ GIULIA TESS",
+        "s": "2026-10-02T11:00:00+01:00",
+        "e": "2026-10-02T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "PUM PUM POWER HOUR W/ LIL C",
+        "s": "2026-10-02T13:00:00+01:00",
+        "e": "2026-10-02T14:00:00+01:00",
+        "d": null,
+        "j": "LIL C",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "TEARS IN THE CLUB W/ JEUNE POUCE",
+        "s": "2026-10-02T14:00:00+01:00",
+        "e": "2026-10-02T15:00:00+01:00",
+        "d": null,
+        "j": "JEUNE POUCE",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "AFTERPARTY ANOMALIES w/ DJ ICE CRYSTAL 333",
-        "s": "2026-10-01T09:00:00+01:00",
-        "e": "2026-10-01T10:00:00+01:00",
-        "d": "A recreation of a DJ set from the last house party of last summer. A showcase of anomalies; unconventional tunes that shouldn’t work together but somehow create the perfect vibe for a sweaty living room in the early hours of the morning. A diverse selection of electro, acid, trance, techno, and more, with underground gems, fan favourites and overlooked classics all merging into one chaotic euphoric mix. \nDedicated to anyone who doesn’t want the night to end.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/dancing-2026/episodes/dancing-2026-afterparty-anomalies-w-dj-ice-crystal-333-1st-october-2026"
-      },
-      {
-        "n": "Breath deep w/ Kikkomann",
-        "s": "2026-10-01T10:00:00+01:00",
-        "e": "2026-10-01T11:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Jim O'Rourke Steamroom",
-        "s": "2026-10-01T11:00:00+01:00",
-        "e": "2026-10-01T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "MUSIQUE TOPS (R)",
-        "s": "2026-10-01T12:00:00+01:00",
-        "e": "2026-10-01T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "Shadow Dance w/ Salamanda",
-        "s": "2026-10-01T13:00:00+01:00",
-        "e": "2026-10-01T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Leicester's Finest w/ Mohammad Adam - Rock bottom",
-        "s": "2026-10-01T14:00:00+01:00",
-        "e": "2026-10-01T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "LA VIDA ES UN MUS W/ HARPER",
-        "s": "2026-10-01T15:00:00+01:00",
-        "e": "2026-10-01T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Goblin Milk",
-        "s": "2026-10-01T16:00:00+01:00",
-        "e": "2026-10-01T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "The Outsiders w/ Rich Tupica: Loner Folk Vol. 4",
         "s": "2026-10-01T17:00:00+01:00",
         "e": "2026-10-01T18:00:00+01:00",
-        "d": null,
+        "d": "From the Host:'The Outsiders host Rich Tupica spins his fourth special of throwback, private-press loner-folk tracks. It veers somewhere between A+ songwriting, oddball tunes and psychedelic meltdowns. Stay tuned for another round of brilliant budget-folk.'",
         "j": "Rich Tupica",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/outsider-oldies/episodes/outsider-oldies-1st-october-2026",
         "t": "monthly"
       },
       {
         "n": "CRYPT OF THE WIZARD",
         "s": "2026-10-01T18:00:00+01:00",
         "e": "2026-10-01T19:00:00+01:00",
-        "d": null,
+        "d": "\"Dark dirges to satisfy your darkest urges…”",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/crypt-of-the-wizard/episodes/crypt-of-the-wizard-1st-october-2026",
         "t": "monthly"
       },
       {
@@ -296,37 +238,86 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NTS GUIDE TO: TREASURE ISLE DUBS & VERSIONS (R)",
+        "s": "2026-10-02T03:00:00+01:00",
+        "e": "2026-10-02T04:00:00+01:00",
+        "d": null,
+        "j": "TREASURE ISLE DUBS & VERSIONS",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Kampire (R)",
+        "s": "2026-10-02T04:00:00+01:00",
+        "e": "2026-10-02T05:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "EQUIKNOXX (R)",
+        "s": "2026-10-02T05:00:00+01:00",
+        "e": "2026-10-02T06:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Club Stambul w/ Forces From Above",
+        "s": "2026-10-02T06:00:00+01:00",
+        "e": "2026-10-02T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "THE KOLLAGE SHOW W/ KOLLAGE REKORDS",
+        "s": "2026-10-02T07:00:00+01:00",
+        "e": "2026-10-02T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "COMFORT DANCING W/ PABLO ZORRILLA",
+        "s": "2026-10-02T08:00:00+01:00",
+        "e": "2026-10-02T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "DENSING W/ PIOTRYNIA",
+        "s": "2026-10-02T09:00:00+01:00",
+        "e": "2026-10-02T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Mattonella! (1958–1966) W/ Mattia Barro Splendore",
+        "s": "2026-10-02T10:00:00+01:00",
+        "e": "2026-10-02T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "In Focus: Steve Reich",
+        "s": "2026-10-02T11:00:00+01:00",
+        "e": "2026-10-02T14:00:00+01:00",
+        "d": null,
+        "j": "Steve Reich",
+        "u": null,
+        "t": "weekly"
       }
     ],
     "subtle": [],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-10-01T06:15:00Z",
-        "e": "2026-10-01T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-10-01T09:00:00Z",
-        "e": "2026-10-01T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "LARAAJI and OUT THERE",
-        "s": "2026-10-01T15:30:00Z",
-        "e": "2026-10-01T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "DJ Sabroso – guest session",
         "s": "2026-10-01T16:00:00Z",
@@ -885,63 +876,27 @@
         "j": "Hearing Color",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "LARAAJI and OUT THERE",
+        "s": "2026-10-08T15:30:00Z",
+        "e": "2026-10-08T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Heavy Trip – Inner Ear",
+        "s": "2026-10-08T16:00:00Z",
+        "e": "2026-10-08T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Sticky Dub",
-        "s": "2026-10-01T08:00:00Z",
-        "e": "2026-10-01T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Yazmin Lacey",
-        "s": "2026-10-01T09:00:00Z",
-        "e": "2026-10-01T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Cafe 1001",
-        "s": "2026-10-01T11:00:00Z",
-        "e": "2026-10-01T12:00:00Z",
-        "d": null,
-        "j": "ell.iot & Leo Saunders",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "SK Vibemaker",
-        "s": "2026-10-01T12:00:00Z",
-        "e": "2026-10-01T13:00:00Z",
-        "d": null,
-        "j": "1996 RAP & R&B MIX",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Mr. Redley presents The Black Wine Club Show",
-        "s": "2026-10-01T13:00:00Z",
-        "e": "2026-10-01T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Tom Ravenscroft",
-        "s": "2026-10-01T14:00:00Z",
-        "e": "2026-10-01T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "malix",
         "s": "2026-10-01T16:00:00Z",
@@ -1006,7 +961,7 @@
         "s": "2026-10-01T23:00:00Z",
         "e": "2026-10-02T01:00:00Z",
         "d": null,
-        "j": null,
+        "j": "100% Drill Mix",
         "u": null
       },
       {
@@ -1038,9 +993,18 @@
       {
         "n": "Cafe 1001",
         "s": "2026-10-02T08:00:00Z",
+        "e": "2026-10-02T09:00:00Z",
+        "d": null,
+        "j": "ell.iot & Leo Saunders",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Mornings with...",
+        "s": "2026-10-02T09:00:00Z",
         "e": "2026-10-02T10:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Interplanetary Criminal",
         "u": null,
         "t": "monthly"
       },
@@ -1067,7 +1031,7 @@
         "s": "2026-10-02T15:00:00Z",
         "e": "2026-10-02T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "CALISTA KAZUKO",
         "u": null,
         "t": "weekly"
       },
@@ -1117,60 +1081,7 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-10-01T07:00:00Z",
-        "e": "2026-10-01T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-10-01T10:00:00Z",
-        "e": "2026-10-01T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Léna Daniel",
-        "s": "2026-10-01T12:00:00Z",
-        "e": "2026-10-01T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "DOUBLE-O-THEATRE",
-        "s": "2026-10-01T13:00:00Z",
-        "e": "2026-10-01T14:00:00Z",
-        "d": null,
-        "j": "Joey Zaza",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Louise Pétrouchka B2B Xëvi",
-        "s": "2026-10-01T14:00:00Z",
-        "e": "2026-10-01T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "ARTEM",
-        "s": "2026-10-01T15:00:00Z",
-        "e": "2026-10-01T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "carin kelly",
+        "n": "Joey Zaza",
         "s": "2026-10-01T16:00:00Z",
         "e": "2026-10-01T17:00:00Z",
         "d": null,
@@ -1208,7 +1119,7 @@
         "s": "2026-10-01T20:00:00Z",
         "e": "2026-10-02T07:00:00Z",
         "d": null,
-        "j": "NAP",
+        "j": "SOUZO",
         "u": null,
         "t": "regular"
       },
@@ -1261,7 +1172,7 @@
         "s": "2026-10-02T15:00:00Z",
         "e": "2026-10-02T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite M4NY",
         "u": null
       },
       {
