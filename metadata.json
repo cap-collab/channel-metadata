@@ -1,17 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-10-11T21:16:13.985Z",
+  "updated": "2026-10-12T00:51:29.165Z",
   "stations": {
     "nts1": [
-      {
-        "n": "NOSEDRIP",
-        "s": "2026-10-11T22:00:00+01:00",
-        "e": "2026-10-12T00:00:00+01:00",
-        "d": "Ziggy Devriendt is the DJ behind Nosedrip. Tune in once a month for an expert selection of any or all of the following: new age, new wave, French psych, minimal synth, post-punk and a whole lot else…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/nosedrip/episodes/nosedrip-11th-october-2026",
-        "t": "monthly"
-      },
       {
         "n": "Otologic (R)",
         "s": "2026-10-12T00:00:00+01:00",
@@ -25,9 +16,9 @@
         "n": "150 Session (R)",
         "s": "2026-10-12T02:00:00+01:00",
         "e": "2026-10-12T03:00:00+01:00",
-        "d": null,
+        "d": "“I start associating your voice with ….”, for a while ML has been part of the NTS community, jingling around, airing his monthly 150 Session out of Berlin’s North, where all seasons give reasons. For clarification, creation, inspiration. One hour of poetic and musical explorations, questions, and curiosities. Circling around daring electronics, ethno-sonics, jazz-constructivism, minimalism, open structured digital dopamine, risky dub excitement and other sounds, that still need to be written. No country, no flag – outernational without a cause!",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/150session/episodes/150session-6th-november-2023",
         "t": "restream"
       },
       {
@@ -158,43 +149,34 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "GRIBS",
+        "s": "2026-10-13T00:00:00+01:00",
+        "e": "2026-10-13T01:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "nts2": [
       {
-        "n": "Post Punk Britain: What Came Next (R)",
-        "s": "2026-10-11T22:00:00+01:00",
-        "e": "2026-10-12T00:00:00+01:00",
-        "d": "Post-punk never went away. On the closing episode of Post Punk Britain, Carla Dal Forno and Sanjay bridge the old to the new, exploring the more contemporary sounds that were heavily influenced by the music featured on previous episodes, exploring their favourite post punk adjacent tracks from the '90s to the current day.",
-        "j": "What Came Next",
-        "u": "https://www.nts.live/api/v2/shows/post-punk-in-britain/episodes/post-punk-in-britain-what-came-next-20th-may-2023",
-        "t": "restream"
-      },
-      {
-        "n": "No White Tees (R)",
-        "s": "2026-10-12T00:00:00+01:00",
-        "e": "2026-10-12T01:00:00+01:00",
-        "d": "Regional hip-hop of every persuasion from the No White Tees crew up in Manchester.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/no-white-tees/episodes/no-white-tees-w-joeyb-and-holodec-25th-april-2020",
-        "t": "restream"
-      },
-      {
         "n": "ABBY IMPERIAL (R)",
         "s": "2026-10-12T01:00:00+01:00",
         "e": "2026-10-12T02:00:00+01:00",
-        "d": null,
+        "d": "The eclectic and diverse frequencies from a true East Bay Area native, Abby Imperial is ready to bring the soulful sounds of Rnb, g-funk, deep house, jungle & more..\nFrom the host: \"Praising the Lord on this last mix of 2025! Rare 90s Gospel Rnb, Gospel Hip-hop, & a bit of Gospel House in the end! \nGOD BLESS YOU ALL! -Abby\"",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/abby-imperial/episodes/abby-imperial-16th-december-2025",
         "t": "restream"
       },
       {
         "n": "Sameed (R)",
         "s": "2026-10-12T02:00:00+01:00",
         "e": "2026-10-12T03:00:00+01:00",
-        "d": null,
+        "d": "Manchester DJ Sameed plays a selection of tracks sampled by various hip hop artists.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/sameed/episodes/sameed-big-pun-samples-9th-october-2019",
         "t": "restream"
       },
       {
@@ -319,19 +301,26 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Vanessa Bedoret",
+        "s": "2026-10-12T19:00:00+01:00",
+        "e": "2026-10-12T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "VALENCIA HOUSE W/ YEEK",
+        "s": "2026-10-12T20:00:00+01:00",
+        "e": "2026-10-12T21:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [],
     "dublab": [
-      {
-        "n": "Archivo13 - Escuchar al Istmo",
-        "s": "2026-10-11T21:00:00Z",
-        "e": "2026-10-11T23:00:00Z",
-        "d": null,
-        "j": "Escuchar al Istmo",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "DJ Lady C - Rare Air",
         "s": "2026-10-11T23:00:00Z",
@@ -852,27 +841,18 @@
         "j": "cloud music",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Aquarium Drunkard",
+        "s": "2026-10-18T23:00:00Z",
+        "e": "2026-10-19T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "DaMetalMessiah",
-        "s": "2026-10-11T20:00:00Z",
-        "e": "2026-10-11T22:00:00Z",
-        "d": null,
-        "j": "With Toura",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Baalti",
-        "s": "2026-10-11T22:00:00Z",
-        "e": "2026-10-11T23:00:00Z",
-        "d": null,
-        "j": "100% Baalti & Friends",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Emerald",
         "s": "2026-10-11T23:00:00Z",
@@ -1003,12 +983,144 @@
         "j": "Feline",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "DaMetalMessiah",
+        "s": "2026-10-12T23:00:00Z",
+        "e": "2026-10-13T01:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Electronic Playlist",
+        "s": "2026-10-13T01:00:00Z",
+        "e": "2026-10-13T05:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Baalti",
+        "s": "2026-10-13T05:00:00Z",
+        "e": "2026-10-13T06:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Tim Garcia",
+        "s": "2026-10-13T06:00:00Z",
+        "e": "2026-10-13T08:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Savannah Blake",
+        "s": "2026-10-13T08:00:00Z",
+        "e": "2026-10-13T09:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Papaoul",
+        "s": "2026-10-13T09:00:00Z",
+        "e": "2026-10-13T11:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Jordan Mae",
+        "s": "2026-10-13T11:00:00Z",
+        "e": "2026-10-13T12:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Meena Sears",
+        "s": "2026-10-13T12:00:00Z",
+        "e": "2026-10-13T13:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "HABITAT",
+        "s": "2026-10-13T13:00:00Z",
+        "e": "2026-10-13T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Brighter Days Family",
+        "s": "2026-10-13T14:00:00Z",
+        "e": "2026-10-13T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "FIFI",
+        "s": "2026-10-13T16:00:00Z",
+        "e": "2026-10-13T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "G33",
+        "s": "2026-10-13T17:00:00Z",
+        "e": "2026-10-13T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "Chloé Caillet presents SMILE",
+        "s": "2026-10-13T18:00:00Z",
+        "e": "2026-10-13T21:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Y U QT",
+        "s": "2026-10-13T21:00:00Z",
+        "e": "2026-10-13T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Noirnor",
+        "s": "2026-10-13T22:00:00Z",
+        "e": "2026-10-13T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinsefr": [
       {
         "n": "Playlist France",
-        "s": "2026-10-11T19:00:00Z",
+        "s": "2026-10-11T22:00:00Z",
         "e": "2026-10-12T07:00:00Z",
         "d": null,
         "j": null,
@@ -1018,15 +1130,6 @@
       {
         "n": "Playlist France",
         "s": "2026-10-12T07:00:00Z",
-        "e": "2026-10-12T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Playlist France",
-        "s": "2026-10-12T10:00:00Z",
         "e": "2026-10-12T12:00:00Z",
         "d": null,
         "j": null,
@@ -1034,24 +1137,24 @@
         "t": "playlist"
       },
       {
-        "n": "LES YEUX FERMÉS",
+        "n": "Kiala Ogawa",
         "s": "2026-10-12T12:00:00Z",
         "e": "2026-10-12T13:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "monthly"
+        "t": "biweekly"
       },
       {
-        "n": "Walla P",
+        "n": "Doline",
         "s": "2026-10-12T13:00:00Z",
         "e": "2026-10-12T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "L Perso Shriek",
         "u": null
       },
       {
-        "n": "Sabor A Mi",
+        "n": "Rebequita",
         "s": "2026-10-12T14:00:00Z",
         "e": "2026-10-12T15:00:00Z",
         "d": null,
@@ -1060,39 +1163,39 @@
         "t": "monthly"
       },
       {
-        "n": "DVDE",
+        "n": "Hey Bony",
         "s": "2026-10-12T15:00:00Z",
         "e": "2026-10-12T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Azamat B.",
-        "s": "2026-10-12T16:00:00Z",
-        "e": "2026-10-12T17:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Souzo",
-        "s": "2026-10-12T17:00:00Z",
-        "e": "2026-10-12T18:00:00Z",
+        "n": "Missy Da Kunt",
+        "s": "2026-10-12T16:00:00Z",
+        "e": "2026-10-12T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Miley Serious",
+        "n": "Playlist France",
+        "s": "2026-10-12T17:00:00Z",
+        "e": "2026-10-12T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
         "s": "2026-10-12T18:00:00Z",
         "e": "2026-10-12T19:00:00Z",
         "d": null,
-        "j": "invite rok riley",
+        "j": null,
         "u": null,
-        "t": "biweekly"
+        "t": "playlist"
       },
       {
         "n": "Playlist France",
@@ -1102,28 +1205,18 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Z.I.P.P.O",
+        "s": "2026-10-12T20:00:00Z",
+        "e": "2026-10-12T21:00:00Z",
+        "d": null,
+        "j": "Live from the Echoes Stage @ Polifonic Festival",
+        "u": null
       }
     ],
     "newtown": [],
     "sutro": [
-      {
-        "n": "EEL Automaton",
-        "s": "2026-10-11T21:00:00Z",
-        "e": "2026-10-11T23:00:00Z",
-        "d": null,
-        "j": "fallen matter & kk.Shucko",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Energy is Eternal Delight",
-        "s": "2026-10-11T23:00:00Z",
-        "e": "2026-10-12T00:00:00Z",
-        "d": null,
-        "j": "Matt Sussman",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Interwoven",
         "s": "2026-10-12T00:00:00Z",
