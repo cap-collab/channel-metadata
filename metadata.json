@@ -1,75 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-10-13T08:43:56.237Z",
+  "updated": "2026-10-13T17:16:40.298Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ GABI",
-        "s": "2026-10-13T09:00:00+01:00",
-        "e": "2026-10-13T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-gabi-13th-october-2026"
-      },
-      {
-        "n": "SOUP TO NUTS W/ ANU",
-        "s": "2026-10-13T11:00:00+01:00",
-        "e": "2026-10-13T13:00:00+01:00",
-        "d": "Listen in for positivity and light as Anu broadcasts through the afternoon.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts-anu/episodes/soup-to-nuts-anu-13th-october-2026"
-      },
-      {
-        "n": "Low Life Loves You w/ Bill Brewster",
-        "s": "2026-10-13T13:00:00+01:00",
-        "e": "2026-10-13T15:00:00+01:00",
-        "d": null,
-        "j": "Bill Brewster",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Self Soothe w/ Margeaux",
-        "s": "2026-10-13T15:00:00+01:00",
-        "e": "2026-10-13T16:00:00+01:00",
-        "d": null,
-        "j": "Margeaux",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "EXPLORING EARTH THROUGH SOUND W/ MACHI",
-        "s": "2026-10-13T16:00:00+01:00",
-        "e": "2026-10-13T17:00:00+01:00",
-        "d": null,
-        "j": "MACHI",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "QUEST NO MORE W/ ELHEIST",
-        "s": "2026-10-13T17:00:00+01:00",
-        "e": "2026-10-13T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "NTS Guide To: Cloud Rap Vol. II",
         "s": "2026-10-13T18:00:00+01:00",
         "e": "2026-10-13T19:00:00+01:00",
-        "d": null,
+        "d": "A deep dive into scenes, record labels and genres from around the world.",
         "j": "Cloud Rap Vol. II",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-cloud-rap-vol-ii-13th-october-2026",
         "t": "weekly"
       },
       {
-        "n": "SURF GANG RADIO",
+        "n": "SURF GANG RADIO W/ NATION",
         "s": "2026-10-13T19:00:00+01:00",
         "e": "2026-10-13T20:00:00+01:00",
-        "d": null,
+        "d": "A radio show curated by Surf Gang Records. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/surf-gang/episodes/surf-gang-13th-october-2026"
       },
       {
         "n": "RUPTURE W/ MANTRA & DOUBLE O",
@@ -80,7 +29,7 @@
         "u": null
       },
       {
-        "n": "DANIELLE",
+        "n": "Danielle - SOFT RAW PRESENTS #6 (LIVE EXCERPT)",
         "s": "2026-10-13T21:00:00+01:00",
         "e": "2026-10-13T22:00:00+01:00",
         "d": null,
@@ -150,9 +99,61 @@
         "t": "weekly"
       },
       {
-        "n": "THE NTS BREAKFAST SHOW W/ CAMI LAYE OKUN",
+        "n": "THE NTS BREAKFAST SHOW W/ Cami Layé Okún",
         "s": "2026-10-14T09:00:00+01:00",
         "e": "2026-10-14T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-10-14T11:00:00+01:00",
+        "e": "2026-10-14T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-10-14T13:00:00+01:00",
+        "e": "2026-10-14T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "BRADLEY ZERO PRESENTS: RHYTHM SECTION",
+        "s": "2026-10-14T14:00:00+01:00",
+        "e": "2026-10-14T15:00:00+01:00",
+        "d": null,
+        "j": "RHYTHM SECTION",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "MOXIE W/ THEO KOTTIS",
+        "s": "2026-10-14T15:00:00+01:00",
+        "e": "2026-10-14T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "TASH LC",
+        "s": "2026-10-14T17:00:00+01:00",
+        "e": "2026-10-14T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "TOUCHING BASS W/ ERROL & ALEX RITA",
+        "s": "2026-10-14T18:00:00+01:00",
+        "e": "2026-10-14T20:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
@@ -160,92 +161,21 @@
     ],
     "nts2": [
       {
-        "n": "Tuff Shed w/ Spiritual World (R)",
-        "s": "2026-10-13T08:00:00+01:00",
-        "e": "2026-10-13T10:00:00+01:00",
-        "d": "Phil Cho & Russell Alexander share monthly recordings from their hilltop soundsystem in Echo Park, California.\nFrom the host: \"Full two hour guest mix from Spiritual World.\"",
-        "j": "Spiritual World",
-        "u": "https://www.nts.live/api/v2/shows/tuff-shed/episodes/tuff-shed-18th-november-2025",
-        "t": "restream"
-      },
-      {
-        "n": "An1ma w/ Molinaro (R)",
-        "s": "2026-10-13T10:00:00+01:00",
-        "e": "2026-10-13T11:00:00+01:00",
-        "d": "integration sounds from the source; an invitation into the shadow.",
-        "j": "Molinaro",
-        "u": "https://www.nts.live/api/v2/shows/molinaro/episodes/molinaro-23rd-march-2026",
-        "t": "restream"
-      },
-      {
-        "n": "TRUE AS FEW W/ MARK",
-        "s": "2026-10-13T11:00:00+01:00",
-        "e": "2026-10-13T12:00:00+01:00",
-        "d": null,
-        "j": "MARK",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "GREAT SOUTHERN LANDS W/ JAMES W",
-        "s": "2026-10-13T12:00:00+01:00",
-        "e": "2026-10-13T13:00:00+01:00",
-        "d": null,
-        "j": "JAMES W",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Adela Mede & Štefan Szabó",
-        "s": "2026-10-13T13:00:00+01:00",
-        "e": "2026-10-13T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "ARRHYTHMIA",
-        "s": "2026-10-13T14:00:00+01:00",
-        "e": "2026-10-13T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Roadkill Ikebana",
-        "s": "2026-10-13T16:00:00+01:00",
-        "e": "2026-10-13T17:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "YU SU",
-        "s": "2026-10-13T17:00:00+01:00",
-        "e": "2026-10-13T18:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "PENDER STREET STEPPERS",
         "s": "2026-10-13T18:00:00+01:00",
         "e": "2026-10-13T20:00:00+01:00",
-        "d": null,
+        "d": "From the host:'calling in from somewhere between Bilbao and Burnaby'",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/pender-street-steppers/episodes/pender-street-steppers-13th-october-2026",
         "t": "monthly"
       },
       {
         "n": "Nick Hakim",
         "s": "2026-10-13T20:00:00+01:00",
         "e": "2026-10-13T21:00:00+01:00",
-        "d": null,
+        "d": "Brooklyn musician Nick Hakim takes over the NTS airwaves.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/nick-hakim/episodes/nick-hakim-13th-october-2026",
         "t": "monthly"
       },
       {
@@ -283,11 +213,19 @@
         "u": null
       },
       {
-        "n": "Cold Pizza w/ Stud1nt (R)",
-        "s": "2026-10-14T03:15:00+01:00",
+        "n": "CHUQUIMAMANI-CONDORI - TURN",
+        "s": "2026-10-14T02:00:00+01:00",
+        "e": "2026-10-14T03:17:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "HE4RTBROKEN W/ LIYO (R)",
+        "s": "2026-10-14T03:17:00+01:00",
         "e": "2026-10-14T04:00:00+01:00",
         "d": null,
-        "j": "Stud1nt",
+        "j": "LIYO",
         "u": null,
         "t": "restream"
       },
@@ -316,37 +254,72 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "INSOLAR w/ CAMI LAYÉ OKÚN (R)",
+        "s": "2026-10-14T07:00:00+01:00",
+        "e": "2026-10-14T08:00:00+01:00",
+        "d": null,
+        "j": "CAMI LAYÉ OKÚN",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Forager Records w/ Gena Swint (R)",
+        "s": "2026-10-14T08:00:00+01:00",
+        "e": "2026-10-14T09:00:00+01:00",
+        "d": null,
+        "j": "Gena Swint",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "A Colourful Storm - Bitter Dream (R)",
+        "s": "2026-10-14T09:00:00+01:00",
+        "e": "2026-10-14T10:00:00+01:00",
+        "d": null,
+        "j": "Bitter Dream",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Jim O'Rourke  (R)",
+        "s": "2026-10-14T10:00:00+01:00",
+        "e": "2026-10-14T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Jespfur",
+        "s": "2026-10-14T11:00:00+01:00",
+        "e": "2026-10-14T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "HTRK",
+        "s": "2026-10-14T12:00:00+01:00",
+        "e": "2026-10-14T13:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "THROUGH THE GROUND FLOOR WINDOW W/ ABDULLAH MINIAWY",
+        "s": "2026-10-14T13:00:00+01:00",
+        "e": "2026-10-14T14:00:00+01:00",
+        "d": null,
+        "j": "ABDULLAH MINIAWY",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-10-13T07:00:00Z",
-        "e": "2026-10-13T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-10-13T09:00:00Z",
-        "e": "2026-10-13T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Mike Harding and Bana Haffar - Long Wave",
-        "s": "2026-10-13T15:00:00Z",
-        "e": "2026-10-13T17:00:00Z",
-        "d": null,
-        "j": "Long Wave",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Will Brady - Sand Dollar Radio",
         "s": "2026-10-13T17:00:00Z",
@@ -850,72 +823,27 @@
         "j": "Unresolved Dependencies",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Savannah Blake",
-        "s": "2026-10-13T08:00:00Z",
-        "e": "2026-10-13T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
       },
       {
-        "n": "Papaoul",
-        "s": "2026-10-13T09:00:00Z",
-        "e": "2026-10-13T11:00:00Z",
+        "n": "Benson Taylor - TUSCAN JUNK FOOD",
+        "s": "2026-10-20T15:00:00Z",
+        "e": "2026-10-20T17:00:00Z",
         "d": null,
-        "j": "Jamz Supernova",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Jordan Mae",
-        "s": "2026-10-13T11:00:00Z",
-        "e": "2026-10-13T12:00:00Z",
-        "d": null,
-        "j": "Soul Selections - Moody Alchemy",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Meena Sears",
-        "s": "2026-10-13T12:00:00Z",
-        "e": "2026-10-13T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "HABITAT",
-        "s": "2026-10-13T13:00:00Z",
-        "e": "2026-10-13T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Brighter Days Family",
-        "s": "2026-10-13T14:00:00Z",
-        "e": "2026-10-13T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Heatstroke with FIFI",
-        "s": "2026-10-13T16:00:00Z",
-        "e": "2026-10-13T17:00:00Z",
-        "d": null,
-        "j": null,
+        "j": "TUSCAN JUNK FOOD",
         "u": null,
         "t": "monthly"
       },
+      {
+        "n": "Kohinoorgasm - People's Portal",
+        "s": "2026-10-20T17:00:00Z",
+        "e": "2026-10-20T19:00:00Z",
+        "d": null,
+        "j": "People's Portal",
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "G33",
         "s": "2026-10-13T17:00:00Z",
@@ -938,7 +866,7 @@
         "s": "2026-10-13T21:00:00Z",
         "e": "2026-10-13T22:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Vivace",
         "u": null
       },
       {
@@ -1084,74 +1012,21 @@
     ],
     "rinsefr": [
       {
-        "n": "Playlist France",
-        "s": "2026-10-13T07:00:00Z",
-        "e": "2026-10-13T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Kiala Ogawa",
-        "s": "2026-10-13T12:00:00Z",
-        "e": "2026-10-13T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Doline",
-        "s": "2026-10-13T13:00:00Z",
-        "e": "2026-10-13T14:00:00Z",
-        "d": null,
-        "j": "L Perso Shriek",
-        "u": null
-      },
-      {
-        "n": "Rebequita",
-        "s": "2026-10-13T14:00:00Z",
-        "e": "2026-10-13T15:00:00Z",
-        "d": null,
-        "j": "Hips Don't Cry",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Hey Bony",
-        "s": "2026-10-13T15:00:00Z",
-        "e": "2026-10-13T16:00:00Z",
-        "d": null,
-        "j": "Only fans : Amsterdam",
-        "u": null
-      },
-      {
-        "n": "Missy Da Kunt",
-        "s": "2026-10-13T16:00:00Z",
-        "e": "2026-10-13T17:00:00Z",
-        "d": null,
-        "j": "Dyne b2Bb JAD",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Playlist France",
+        "n": "Farsight",
         "s": "2026-10-13T17:00:00Z",
         "e": "2026-10-13T18:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "playlist"
+        "u": null
       },
       {
-        "n": "Playlist France",
+        "n": "Amor Satyr",
         "s": "2026-10-13T18:00:00Z",
         "e": "2026-10-13T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
-        "t": "playlist"
+        "t": "monthly"
       },
       {
         "n": "Playlist France",
