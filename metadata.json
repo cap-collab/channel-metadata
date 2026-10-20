@@ -1,57 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-10-20T06:53:24.046Z",
+  "updated": "2026-10-20T13:09:23.366Z",
   "stations": {
     "nts1": [
-      {
-        "n": "THE EARLY BIRD SHOW W/ MARIA SOMERVILLE",
-        "s": "2026-10-20T07:00:00+01:00",
-        "e": "2026-10-20T09:00:00+01:00",
-        "d": "Drifting into a new day with Maria Somerville, live from Ireland's wild west coast. \nTouring across UK, Europe and USA this winter, tickets here.",
-        "j": "MARIA SOMERVILLE",
-        "u": "https://www.nts.live/api/v2/shows/early-bird-show-maria-somerville/episodes/early-bird-show-maria-somerville-20th-october-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "THE NTS BREAKFAST SHOW W/ FLO",
-        "s": "2026-10-20T09:00:00+01:00",
-        "e": "2026-10-20T11:00:00+01:00",
-        "d": "Breakfast, in Flo motion - served by Flo Dill, every Monday to Thursday. ",
-        "j": "FLO",
-        "u": "https://www.nts.live/api/v2/shows/the-breakfast-show-flo/episodes/the-breakfast-show-flo-20th-october-2026",
-        "t": "regular"
-      },
-      {
-        "n": "SOUP TO NUTS W/ ANU",
-        "s": "2026-10-20T11:00:00+01:00",
-        "e": "2026-10-20T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "CELINE DESSBERG",
-        "s": "2026-10-20T13:00:00+01:00",
-        "e": "2026-10-20T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "10 Years of Deptford Northern Soul Club",
         "s": "2026-10-20T14:00:00+01:00",
         "e": "2026-10-20T15:00:00+01:00",
-        "d": null,
+        "d": "This year marks 10 years of Deptford Northern Soul Club, the South London club night founded by Will Foot and Lewis Henderson. They celebrate the landmark playing classic records from the club night’s history. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/10-years-of-deptford-northern-soul-club-20th-october-2026"
       },
       {
-        "n": "Self Soothe w/ Margeaux",
+        "n": "Self Soothe w/ Margeaux: Halloween Special",
         "s": "2026-10-20T15:00:00+01:00",
         "e": "2026-10-20T16:00:00+01:00",
-        "d": null,
+        "d": "Settle in for weekly shows from Margeaux aka @marg.mp3, soothing with an hour of selections, offering an eclectic range of sounds old and new.",
         "j": "Margeaux",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/margeaux/episodes/margeaux-20th-october-2026",
         "t": "weekly"
       },
       {
@@ -114,6 +80,15 @@
         "t": "monthly"
       },
       {
+        "n": "IN FOCUS: JUANA MOLINA (R)",
+        "s": "2026-10-21T02:00:00+01:00",
+        "e": "2026-10-21T04:00:00+01:00",
+        "d": null,
+        "j": "JUANA MOLINA",
+        "u": null,
+        "t": "restream"
+      },
+      {
         "n": "Adultz Only (R)",
         "s": "2026-10-21T04:00:00+01:00",
         "e": "2026-10-21T05:00:00+01:00",
@@ -156,87 +131,52 @@
         "j": "FLO",
         "u": null,
         "t": "regular"
+      },
+      {
+        "n": "SOUP TO NUTS W/ SHY ONE",
+        "s": "2026-10-21T11:00:00+01:00",
+        "e": "2026-10-21T13:00:00+01:00",
+        "d": null,
+        "j": "SHY ONE",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "LUNCH CLUB w/ FINN",
+        "s": "2026-10-21T13:00:00+01:00",
+        "e": "2026-10-21T14:00:00+01:00",
+        "d": null,
+        "j": "FINN",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "LOUISE CHEN",
+        "s": "2026-10-21T15:00:00+01:00",
+        "e": "2026-10-21T17:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "Shakshouka w/ Madame Ghorbelle (R)",
-        "s": "2026-10-20T07:00:00+01:00",
-        "e": "2026-10-20T08:00:00+01:00",
-        "d": "\"Shakshouka\" is a dialectal arabic word used in North Africa to reflect an unexpected mixture of elements that wouldn’t naturally go together.",
-        "j": "Madame Ghorbelle",
-        "u": "https://www.nts.live/api/v2/shows/cheb-mimo/episodes/cheb-mimo-3rd-september-2025",
-        "t": "restream"
-      },
-      {
-        "n": "NTS Guide to: '70s Angolan Semba & Méringue (R)",
-        "s": "2026-10-20T08:00:00+01:00",
-        "e": "2026-10-20T09:00:00+01:00",
-        "d": "An hour of '70s Angolan Semba & Mergenue, two distinct styles which emerged during Angola’s liberation movement against Portuguese colonial rule through Angolan records labels such as Rebita & Merengue.",
-        "j": "'70s Angolan Semba & Méringue",
-        "u": "https://www.nts.live/api/v2/shows/the-nts-guide-to/episodes/the-nts-guide-to-angolan-semba-21st-march-2025",
-        "t": "restream"
-      },
-      {
-        "n": "Dimension Door: Faarhaeven (R)",
-        "s": "2026-10-20T09:00:00+01:00",
-        "e": "2026-10-20T10:00:00+01:00",
-        "d": null,
-        "j": "Faarhaeven",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "OMRISS W/ CARMEN VILLAIN (R)",
-        "s": "2026-10-20T10:00:00+01:00",
-        "e": "2026-10-20T11:00:00+01:00",
-        "d": null,
-        "j": "CARMEN VILLAIN",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "NTS x Bershka Next Up! w/ Kaanijo & iKeda",
-        "s": "2026-10-20T11:00:00+01:00",
-        "e": "2026-10-20T12:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "LUKID",
-        "s": "2026-10-20T12:00:00+01:00",
-        "e": "2026-10-20T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Adultz Only",
-        "s": "2026-10-20T13:00:00+01:00",
-        "e": "2026-10-20T14:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "YOU'LL SOON KNOW W/ TIM PARKER",
         "s": "2026-10-20T14:00:00+01:00",
         "e": "2026-10-20T15:00:00+01:00",
-        "d": null,
+        "d": "Tim Parker explores the experimental corners of beats and hip hop, weaving together jazz, underground cuts and global sounds - live once a month from London & Amsterdam.",
         "j": "TIM PARKER",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/youll-soon-know/episodes/youll-soon-know-20th-october-2026",
         "t": "monthly"
       },
       {
         "n": "TONE",
         "s": "2026-10-20T15:00:00+01:00",
         "e": "2026-10-20T16:00:00+01:00",
-        "d": null,
+        "d": "A feel-good hour of deep grooves and soulful selections served up by Tone.",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/tone/episodes/tone-20th-october-2026",
         "t": "monthly"
       },
       {
@@ -314,23 +254,85 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "NIGHT SHIFT W/ DIAMONDSTEIN",
+        "s": "2026-10-21T02:00:00+01:00",
+        "e": "2026-10-21T04:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Low Life Loves You w/ Bill Brewster (R)",
+        "s": "2026-10-21T04:00:00+01:00",
+        "e": "2026-10-21T06:00:00+01:00",
+        "d": null,
+        "j": "Bill Brewster",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Horsegirl Sounds Radio Hour (R)",
+        "s": "2026-10-21T06:00:00+01:00",
+        "e": "2026-10-21T07:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Séance Centre (R)",
+        "s": "2026-10-21T07:00:00+01:00",
+        "e": "2026-10-21T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Death Is Not The End - Jah Shaka Tribute (R)",
+        "s": "2026-10-21T08:00:00+01:00",
+        "e": "2026-10-21T10:00:00+01:00",
+        "d": null,
+        "j": "Jah Shaka Tribute",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "OREN AMBARCHI (R)",
+        "s": "2026-10-21T10:00:00+01:00",
+        "e": "2026-10-21T11:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "CARLA DAL FORNO",
+        "s": "2026-10-21T11:00:00+01:00",
+        "e": "2026-10-21T12:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "ACID MEMORIES W/ ASTRAL VIBES",
+        "s": "2026-10-21T12:00:00+01:00",
+        "e": "2026-10-21T13:00:00+01:00",
+        "d": null,
+        "j": "ASTRAL VIBES",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "subtle": [],
     "dublab": [
       {
-        "n": "Brennan - Unresolved Dependencies",
-        "s": "2026-10-20T05:00:00Z",
-        "e": "2026-10-20T07:00:00Z",
-        "d": null,
-        "j": "Unresolved Dependencies",
-        "u": null,
-        "t": "monthly"
-      },
-      {
         "n": "sounds of NOW",
-        "s": "2026-10-20T07:00:00Z",
-        "e": "2026-10-20T09:00:00Z",
+        "s": "2026-10-20T13:00:00Z",
+        "e": "2026-10-20T15:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -810,51 +812,6 @@
     ],
     "rinse": [
       {
-        "n": "Tim Garcia",
-        "s": "2026-10-20T06:00:00Z",
-        "e": "2026-10-20T08:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Donsurf",
-        "s": "2026-10-20T08:00:00Z",
-        "e": "2026-10-20T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Papaoul",
-        "s": "2026-10-20T09:00:00Z",
-        "e": "2026-10-20T11:00:00Z",
-        "d": null,
-        "j": "Goya Gumbani",
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "Cara Crosby",
-        "s": "2026-10-20T11:00:00Z",
-        "e": "2026-10-20T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Suzie Bakos",
-        "s": "2026-10-20T12:00:00Z",
-        "e": "2026-10-20T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
         "n": "Manuel Darquart",
         "s": "2026-10-20T13:00:00Z",
         "e": "2026-10-20T14:00:00Z",
@@ -894,7 +851,7 @@
         "s": "2026-10-20T18:00:00Z",
         "e": "2026-10-20T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Dozie",
         "u": null,
         "t": "monthly"
       },
@@ -903,7 +860,7 @@
         "s": "2026-10-20T20:00:00Z",
         "e": "2026-10-20T21:00:00Z",
         "d": null,
-        "j": "DJ Sprinter",
+        "j": "Efa O'Neill",
         "u": null
       },
       {
@@ -911,7 +868,7 @@
         "s": "2026-10-20T21:00:00Z",
         "e": "2026-10-20T22:00:00Z",
         "d": null,
-        "j": "Suzuki Drifting w/ Surusinghe",
+        "j": null,
         "u": null,
         "t": "monthly"
       },
@@ -920,7 +877,7 @@
         "s": "2026-10-20T22:00:00Z",
         "e": "2026-10-20T23:00:00Z",
         "d": null,
-        "j": "LUPE FUENTES presents In The Loop",
+        "j": "In The Loop",
         "u": null,
         "t": "monthly"
       },
@@ -934,13 +891,12 @@
         "t": "biweekly"
       },
       {
-        "n": "Amaliah",
+        "n": "Amaliah B2B Human Movement",
         "s": "2026-10-21T00:00:00Z",
         "e": "2026-10-21T01:00:00Z",
         "d": null,
         "j": null,
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Electronic Playlist",
@@ -1078,9 +1034,52 @@
     ],
     "rinsefr": [
       {
+        "n": "Charlie 3000",
+        "s": "2026-10-20T12:00:00Z",
+        "e": "2026-10-20T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "illi",
+        "s": "2026-10-20T14:00:00Z",
+        "e": "2026-10-20T15:00:00Z",
+        "d": null,
+        "j": "Post riot material",
+        "u": null
+      },
+      {
+        "n": "Jeune à Jamais",
+        "s": "2026-10-20T15:00:00Z",
+        "e": "2026-10-20T16:00:00Z",
+        "d": null,
+        "j": "invite Fatras",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "LE MOM",
+        "s": "2026-10-20T16:00:00Z",
+        "e": "2026-10-20T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Nyege Nyege",
+        "s": "2026-10-20T17:00:00Z",
+        "e": "2026-10-20T18:00:00Z",
+        "d": null,
+        "j": "invite Azzi on the Beat",
+        "u": null,
+        "t": "monthly"
+      },
+      {
         "n": "Playlist France",
-        "s": "2026-10-19T22:00:00Z",
-        "e": "2026-10-20T07:00:00Z",
+        "s": "2026-10-20T18:00:00Z",
+        "e": "2026-10-20T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1088,8 +1087,26 @@
       },
       {
         "n": "Playlist France",
-        "s": "2026-10-20T07:00:00Z",
-        "e": "2026-10-20T12:00:00Z",
+        "s": "2026-10-20T19:00:00Z",
+        "e": "2026-10-20T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-10-20T22:00:00Z",
+        "e": "2026-10-21T07:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "playlist"
+      },
+      {
+        "n": "Playlist France",
+        "s": "2026-10-21T07:00:00Z",
+        "e": "2026-10-21T12:00:00Z",
         "d": null,
         "j": null,
         "u": null,
@@ -1097,41 +1114,41 @@
       },
       {
         "n": "STENCIA",
-        "s": "2026-10-20T12:00:00Z",
-        "e": "2026-10-20T13:00:00Z",
+        "s": "2026-10-21T12:00:00Z",
+        "e": "2026-10-21T13:00:00Z",
         "d": null,
         "j": "INVITE UZI FREYJA",
         "u": null
       },
       {
         "n": "Le Cercle",
-        "s": "2026-10-20T13:00:00Z",
-        "e": "2026-10-20T14:00:00Z",
+        "s": "2026-10-21T13:00:00Z",
+        "e": "2026-10-21T14:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "ADRIXXX",
-        "s": "2026-10-20T14:00:00Z",
-        "e": "2026-10-20T15:00:00Z",
+        "s": "2026-10-21T14:00:00Z",
+        "e": "2026-10-21T15:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
         "n": "CHÔ!",
-        "s": "2026-10-20T15:00:00Z",
-        "e": "2026-10-20T16:00:00Z",
+        "s": "2026-10-21T15:00:00Z",
+        "e": "2026-10-21T16:00:00Z",
         "d": null,
-        "j": null,
+        "j": "avec 1heure42",
         "u": null,
         "t": "monthly"
       },
       {
         "n": "Not Sorry",
-        "s": "2026-10-20T16:00:00Z",
-        "e": "2026-10-20T17:00:00Z",
+        "s": "2026-10-21T16:00:00Z",
+        "e": "2026-10-21T17:00:00Z",
         "d": null,
         "j": "AASANA invite Katze",
         "u": null,
@@ -1139,8 +1156,8 @@
       },
       {
         "n": "Hyas",
-        "s": "2026-10-20T17:00:00Z",
-        "e": "2026-10-20T18:00:00Z",
+        "s": "2026-10-21T17:00:00Z",
+        "e": "2026-10-21T18:00:00Z",
         "d": null,
         "j": "invite SLMVX",
         "u": null,
@@ -1148,16 +1165,16 @@
       },
       {
         "n": "GOTIS",
-        "s": "2026-10-20T18:00:00Z",
-        "e": "2026-10-20T19:00:00Z",
+        "s": "2026-10-21T18:00:00Z",
+        "e": "2026-10-21T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "présente CLUB 909 avec Mechanism C. (Live)",
         "u": null
       },
       {
         "n": "Playlist France",
-        "s": "2026-10-20T19:00:00Z",
-        "e": "2026-10-20T20:00:00Z",
+        "s": "2026-10-21T19:00:00Z",
+        "e": "2026-10-21T20:00:00Z",
         "d": null,
         "j": null,
         "u": null,
