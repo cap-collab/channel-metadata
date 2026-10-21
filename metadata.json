@@ -1,48 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-10-21T19:47:44.650Z",
+  "updated": "2026-10-21T22:54:30.390Z",
   "stations": {
     "nts1": [
-      {
-        "n": "DJ Tray",
-        "s": "2026-10-21T20:00:00+01:00",
-        "e": "2026-10-21T21:00:00+01:00",
-        "d": "Jersey club royalty DJ Tray inside for a special guest mix, with “club vibes that get you lit”. ",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dj-tray-21st-october-2026"
-      },
-      {
-        "n": "HOOVERSOUND W/ SHERELLE & NAINA",
-        "s": "2026-10-21T21:00:00+01:00",
-        "e": "2026-10-21T22:00:00+01:00",
-        "d": "Hi octane monthly missives from Naina & Sherelle, the minds behind the hybrid Jungle, Techno & Footwork label Hooversound.",
-        "j": "SHERELLE & NAINA",
-        "u": "https://www.nts.live/api/v2/shows/hooversound/episodes/hooversound-21st-october-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "NKISI invites LE CHEF",
-        "s": "2026-10-21T22:00:00+01:00",
-        "e": "2026-10-21T23:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Heartgaze",
         "s": "2026-10-21T23:00:00+01:00",
         "e": "2026-10-22T00:00:00+01:00",
-        "d": null,
+        "d": "New noise from Latin America with Argentinian producer Heartgaze in the mix.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/heartgaze-21st-october-2026"
       },
       {
         "n": "GRRL",
         "s": "2026-10-22T00:00:00+01:00",
         "e": "2026-10-22T01:00:00+01:00",
-        "d": null,
+        "d": "Soundcloud curator-turned-DJ, Grrl, handles the wheel one Thursday each month between two and three in the early morning. Neoprene muffled helium vocals bounce over chrome-addled club soundtracks - an extremely broad spectrum of the internet-born club sound. ",
         "j": null,
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/grrl/episodes/grrl-22nd-october-2026",
         "t": "monthly"
       },
       {
@@ -157,51 +132,50 @@
         "d": null,
         "j": null,
         "u": null
-      }
-    ],
-    "nts2": [
-      {
-        "n": "PANORAMA HEAVEN W/ BIANCA LEXIS",
-        "s": "2026-10-21T20:00:00+01:00",
-        "e": "2026-10-21T21:00:00+01:00",
-        "d": "LA native Bianca Lexis showcases a monthly, genre-blending hour, exploring the different facets of pop, rock, synth and house music. all in panoramic view, for you.",
-        "j": "BIANCA LEXIS",
-        "u": "https://www.nts.live/api/v2/shows/panorama-heaven/episodes/panorama-heaven-21st-october-2026",
-        "t": "monthly"
       },
       {
-        "n": "HEAVEN AND EARTH MAGIC W/ JOCELYN ROMO",
-        "s": "2026-10-21T21:00:00+01:00",
-        "e": "2026-10-21T22:00:00+01:00",
-        "d": "Exploring inner and outer worlds, cosmic and pastoral sounds, and the intersection between reality and dreams once a month with Jocelyn Romo's mix of international and private press folk, instrumental guitar, dream country, ambient, new age, kosmiche, psych and beyond\nFrom the host: \"Exploring the haunted margins of progressive music with an hour of eerie electronics, sinister orchestrations, and apocalyptic visions for the witching hour.\"",
-        "j": "JOCELYN ROMO",
-        "u": "https://www.nts.live/api/v2/shows/jocelyn-romo/episodes/jocelyn-romo-21st-october-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "LUKE MELE",
-        "s": "2026-10-21T22:00:00+01:00",
-        "e": "2026-10-21T23:00:00+01:00",
+        "n": "DRUM POETRY",
+        "s": "2026-10-22T21:00:00+01:00",
+        "e": "2026-10-22T22:00:00+01:00",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "BEYOND THE CLOUDS W/ MASHA MAR",
-        "s": "2026-10-21T23:00:00+01:00",
-        "e": "2026-10-22T00:00:00+01:00",
+        "n": "MOESHA13",
+        "s": "2026-10-22T22:00:00+01:00",
+        "e": "2026-10-22T23:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "THE ATHENIAN MARKETPLACE",
-        "s": "2026-10-22T00:00:00+01:00",
-        "e": "2026-10-22T02:00:00+01:00",
+        "n": "GRANDMIXXER",
+        "s": "2026-10-22T23:00:00+01:00",
+        "e": "2026-10-23T00:00:00+01:00",
         "d": null,
         "j": null,
         "u": null
+      }
+    ],
+    "nts2": [
+      {
+        "n": "BEYOND THE CLOUDS W/ MASHA MAR",
+        "s": "2026-10-21T23:00:00+01:00",
+        "e": "2026-10-22T00:00:00+01:00",
+        "d": "Slowed Down, sun kissed journeys through dub, synth, cosmic & balearic beats. Brought to you from LA each month.\nFrom the host: \"spooky season\"",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/masha/episodes/masha-21st-october-2026"
+      },
+      {
+        "n": "THE ATHENIAN MARKETPLACE",
+        "s": "2026-10-22T00:00:00+01:00",
+        "e": "2026-10-22T02:00:00+01:00",
+        "d": "Athenian Marketplace takes the reigns of a 2 hour monthly slot from our LA studio. \nSoundcloud\nYoutube",
+        "j": null,
+        "u": "https://www.nts.live/api/v2/shows/yayayi/episodes/yayayi-22nd-october-2026",
+        "t": "monthly"
       },
       {
         "n": "Civilization Radio",
@@ -314,19 +288,34 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "POSH ISOLATION'S COPENHAGEN REPORT w/ Frederik Valentin",
+        "s": "2026-10-22T17:00:00+01:00",
+        "e": "2026-10-22T18:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "HE4RTBROKEN W/ GRETA",
+        "s": "2026-10-22T18:00:00+01:00",
+        "e": "2026-10-22T19:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "IKR. IMPRINT w/ Jung dj",
+        "s": "2026-10-22T19:00:00+01:00",
+        "e": "2026-10-22T20:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [],
     "dublab": [
-      {
-        "n": "Heidi Lawden – Extra Sensory",
-        "s": "2026-10-21T19:00:00Z",
-        "e": "2026-10-21T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Ashraf – (very rare)",
         "s": "2026-10-21T21:00:00Z",
@@ -720,8 +709,8 @@
         "u": null
       },
       {
-        "n": "Davina Two Bears - Indigenous Voice",
-        "s": "2026-10-27T15:00:00Z",
+        "n": "Jersey – guest session",
+        "s": "2026-10-27T16:00:00Z",
         "e": "2026-10-27T17:00:00Z",
         "d": null,
         "j": null,
@@ -823,36 +812,25 @@
         "j": "The Banana Question",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "Girl Ultra - guest session",
+        "s": "2026-10-28T21:00:00Z",
+        "e": "2026-10-28T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Dani DiCiaccio - guest session",
+        "s": "2026-10-28T22:00:00Z",
+        "e": "2026-10-28T23:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "rinse": [
-      {
-        "n": "KILIMANJARO",
-        "s": "2026-10-21T18:00:00Z",
-        "e": "2026-10-21T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "IsGwan",
-        "s": "2026-10-21T20:00:00Z",
-        "e": "2026-10-21T21:00:00Z",
-        "d": null,
-        "j": "B2B\tSMIFF",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Paradise",
-        "s": "2026-10-21T21:00:00Z",
-        "e": "2026-10-21T22:00:00Z",
-        "d": null,
-        "j": "With Kellie Allen",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "ANTCONSTANTINO",
         "s": "2026-10-21T22:00:00Z",
@@ -1013,15 +991,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-10-21T19:00:00Z",
-        "e": "2026-10-21T22:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Playlist France",
         "s": "2026-10-21T22:00:00Z",
