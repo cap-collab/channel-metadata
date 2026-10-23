@@ -1,47 +1,24 @@
 {
   "v": 2,
-  "updated": "2026-10-23T08:57:00.145Z",
+  "updated": "2026-10-23T14:33:55.809Z",
   "stations": {
     "nts1": [
-      {
-        "n": "The NTS Breakfast Show w/ GOYA GUMBANI & DOM P",
-        "s": "2026-10-23T09:00:00+01:00",
-        "e": "2026-10-23T11:00:00+01:00",
-        "d": "Wake up with NTS…",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/breakfast/episodes/breakfast-goya-gumbani-dom-p-23rd-october-2026"
-      },
-      {
-        "n": "Soup To Nuts w/ Finn",
-        "s": "2026-10-23T11:00:00+01:00",
-        "e": "2026-10-23T13:00:00+01:00",
-        "d": "Let NTS brighten up your lunchtime hours.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/soup-to-nuts/episodes/soup-to-nuts-finn-23rd-october-2026"
-      },
-      {
-        "n": "Darama",
-        "s": "2026-10-23T13:00:00+01:00",
-        "e": "2026-10-23T15:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "ADONIS w/ Fancy Shews!",
         "s": "2026-10-23T15:00:00+01:00",
         "e": "2026-10-23T16:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Iconic queer party crew Adonis showcase their residents on a monthly rotation live from the London studio.",
+        "j": "Fancy Shews!",
+        "u": "https://www.nts.live/api/v2/shows/adonis/episodes/adonis-23rd-october-2026",
+        "t": "monthly"
       },
       {
         "n": "WAYA FYAM W/ PRIESTE$$ TELZZZZZZ - HipHop 101",
         "s": "2026-10-23T16:00:00+01:00",
         "e": "2026-10-23T17:00:00+01:00",
-        "d": null,
+        "d": "Waya Fyam dives into Nairobi’s wild soundscape – shrap bars, kapuka, and dancehall riddims. Mixing these with moombahton, a Dutch-born sound built on the same Caribbean grooves, to show how Kenyan street energy links up with global club culture. Expect heavy bass, raw slang, and pure movement.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/waya-fyam-w-prieste--telzzzzzz/episodes/waya-fyam-w-prieste--telzzzzzz-23rd-october-2026"
       },
       {
         "n": "TED DRAWS",
@@ -69,13 +46,13 @@
         "u": null
       },
       {
-        "n": "HOPPER1000 RADIO",
+        "n": "In Focus: Goldie (R)",
         "s": "2026-10-23T20:00:00+01:00",
         "e": "2026-10-23T21:00:00+01:00",
         "d": null,
-        "j": null,
+        "j": "Goldie",
         "u": null,
-        "t": "monthly"
+        "t": "restream"
       },
       {
         "n": "ORIGINS W/ KEVIN SAUNDERSON",
@@ -86,7 +63,7 @@
         "u": null
       },
       {
-        "n": "DEEP MEDI",
+        "n": "DEEP MEDI w/ Chad Dubz",
         "s": "2026-10-23T22:00:00+01:00",
         "e": "2026-10-23T23:00:00+01:00",
         "d": null,
@@ -101,6 +78,15 @@
         "j": "REGAL86",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "CITIES AVIV: Gee Two (R)",
+        "s": "2026-10-24T00:00:00+01:00",
+        "e": "2026-10-24T01:00:00+01:00",
+        "d": null,
+        "j": "Gee Two",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "OHBLIV (R)",
@@ -155,59 +141,43 @@
         "j": "Laura Groves",
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "RAGA VIBRATIONS",
+        "s": "2026-10-24T08:00:00+01:00",
+        "e": "2026-10-24T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "The One Glove Breakfast Show w/ Macca",
+        "s": "2026-10-24T10:00:00+01:00",
+        "e": "2026-10-24T12:00:00+01:00",
+        "d": null,
+        "j": "Macca",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "VIBRATIONS FOR A BETTER WORLD W/ AOKI TAKAMASA (R)",
-        "s": "2026-10-23T09:00:00+01:00",
-        "e": "2026-10-23T11:00:00+01:00",
-        "d": "Sticky Groove for Every Direction.",
-        "j": "AOKI TAKAMASA",
-        "u": "https://www.nts.live/api/v2/shows/aoki-takamasa/episodes/aoki-takamasa-26th-march-2025",
-        "t": "restream"
-      },
-      {
-        "n": "In Focus: Robyn",
-        "s": "2026-10-23T11:00:00+01:00",
-        "e": "2026-10-23T12:00:00+01:00",
-        "d": "60 minutes of essential pop music from Robyn, the Swedish singer, songwriter and producer whose formula for melancholic dance pop took over the charts. ",
-        "j": "Robyn",
-        "u": "https://www.nts.live/api/v2/shows/in-focus/episodes/in-focus-robyn-23rd-october-2026",
-        "t": "weekly"
-      },
-      {
-        "n": "Hasfeldt",
-        "s": "2026-10-23T12:00:00+01:00",
-        "e": "2026-10-23T13:00:00+01:00",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "NTS Guide to: Snoopy’s dub list",
-        "s": "2026-10-23T13:00:00+01:00",
-        "e": "2026-10-23T15:00:00+01:00",
-        "d": null,
-        "j": "Snoopy’s dub list",
-        "u": null,
-        "t": "weekly"
-      },
-      {
         "n": "THE ULINE CATALOG",
         "s": "2026-10-23T15:00:00+01:00",
         "e": "2026-10-23T16:00:00+01:00",
-        "d": null,
+        "d": "Leaf through songwriter Calvin LeCompte’s monthly selection via The Uline Catalog…",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/uline-catalog/episodes/uline-catalog-23rd-october-2026",
+        "t": "monthly"
       },
       {
         "n": "CREEP ZONE W/ JAMES PANTS & MARC SCHALLER",
         "s": "2026-10-23T16:00:00+01:00",
         "e": "2026-10-23T17:00:00+01:00",
-        "d": null,
+        "d": "Stones Throw's James Pants joins forces with Marc Schaller for an hour-long dive into dreamy electronics, wired sounds and experimentation.",
         "j": "JAMES PANTS & MARC SCHALLER",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/creepzone/episodes/creepzone-23rd-october-2026",
         "t": "monthly"
       },
       {
@@ -311,28 +281,46 @@
         "j": null,
         "u": null,
         "t": "restream"
+      },
+      {
+        "n": "BLUE CANDY W/ CASEY MQ (R)",
+        "s": "2026-10-24T06:00:00+01:00",
+        "e": "2026-10-24T07:00:00+01:00",
+        "d": null,
+        "j": "CASEY MQ",
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Phambinho (R)",
+        "s": "2026-10-24T07:00:00+01:00",
+        "e": "2026-10-24T08:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Merzbow (R)",
+        "s": "2026-10-24T08:00:00+01:00",
+        "e": "2026-10-24T09:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
+      },
+      {
+        "n": "Enter The Portal (R)",
+        "s": "2026-10-24T09:00:00+01:00",
+        "e": "2026-10-24T10:00:00+01:00",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "restream"
       }
     ],
     "subtle": [],
     "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-10-23T07:00:00Z",
-        "e": "2026-10-23T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "sounds of NOW",
-        "s": "2026-10-23T09:00:00Z",
-        "e": "2026-10-23T11:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
       {
         "n": "Daddy Differently and Dirty Dave - Things of Life",
         "s": "2026-10-23T17:00:00Z",
@@ -776,38 +764,12 @@
     ],
     "rinse": [
       {
-        "n": "Behind The Wall",
-        "s": "2026-10-23T08:00:00Z",
-        "e": "2026-10-23T09:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Breakfast with... Prozak",
-        "s": "2026-10-23T09:00:00Z",
-        "e": "2026-10-23T10:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Uncle Dugs",
-        "s": "2026-10-23T10:00:00Z",
-        "e": "2026-10-23T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "weekly"
-      },
-      {
-        "n": "The MoodSwing Show",
+        "n": "The Moodswing Show with Perception",
         "s": "2026-10-23T13:00:00Z",
         "e": "2026-10-23T15:00:00Z",
         "d": null,
-        "j": "Perception",
-        "u": null,
-        "t": "biweekly"
+        "j": "Makkie",
+        "u": null
       },
       {
         "n": "Continental GT",
@@ -832,7 +794,7 @@
         "s": "2026-10-23T18:00:00Z",
         "e": "2026-10-23T20:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Newsham",
         "u": null,
         "t": "biweekly"
       },
@@ -995,35 +957,18 @@
         "j": null,
         "u": null,
         "t": "biweekly"
+      },
+      {
+        "n": "IsGwan",
+        "s": "2026-10-24T22:00:00Z",
+        "e": "2026-10-24T23:00:00Z",
+        "d": null,
+        "j": "Shez Kurx",
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-10-23T07:00:00Z",
-        "e": "2026-10-23T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Vie Garantie",
-        "s": "2026-10-23T12:00:00Z",
-        "e": "2026-10-23T13:00:00Z",
-        "d": null,
-        "j": "invite Bismillah",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Odile Myrtil",
-        "s": "2026-10-23T13:00:00Z",
-        "e": "2026-10-23T14:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "Dann SSV b2B 77xenon",
         "s": "2026-10-23T14:00:00Z",
@@ -1046,7 +991,7 @@
         "s": "2026-10-23T16:00:00Z",
         "e": "2026-10-23T17:00:00Z",
         "d": null,
-        "j": null,
+        "j": "invite RED Jeunes",
         "u": null,
         "t": "monthly"
       },
@@ -1136,7 +1081,7 @@
         "s": "2026-10-24T17:00:00Z",
         "e": "2026-10-24T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "phiphi",
         "u": null,
         "t": "monthly"
       },
@@ -1160,23 +1105,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "Restream",
-        "s": "2026-10-23T05:00:00Z",
-        "e": "2026-10-23T12:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "GRAVITATION",
-        "s": "2026-10-23T12:00:00Z",
-        "e": "2026-10-23T13:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
       {
         "n": "HANGTIME RADIO",
         "s": "2026-10-23T13:00:00Z",
