@@ -1,49 +1,23 @@
 {
   "v": 2,
-  "updated": "2026-10-25T14:01:25.381Z",
+  "updated": "2026-10-25T18:37:49.080Z",
   "stations": {
     "nts1": [
-      {
-        "n": "IF MUSIC PRESENTS YOU NEED THIS W/ JEAN-CLAUDE",
-        "s": "2026-10-25T13:00:00Z",
-        "e": "2026-10-25T15:00:00Z",
-        "d": "Jean-Claude searches through his extensive mountain of records to bring out some of that new new, and some new old as well. It always bangs.\nFrom the host: \"Our usual mix of all things eclectic, new and old….\"",
-        "j": "JEAN",
-        "u": "https://www.nts.live/api/v2/shows/ifmusic/episodes/ifmusic-25th-october-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "Rio Doce",
-        "s": "2026-10-25T15:00:00Z",
-        "e": "2026-10-25T17:00:00Z",
-        "d": "Rio Doce, a deep dive into Brazilian music and its roots, with contributions from Caio Rosa and guests.\nFrom the host: _\"Brazil heads into the second round of one of the most consequential elections in decades. A pivotal moment in the choice between democracy or fascism.\nI’ve put together a mix celebrating the best of Brazilian rap and its unwavering commitment to working-class and favela communities.\"_",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/rio-doce/episodes/rio-doce-25th-october-2026"
-      },
-      {
-        "n": "A Month of Sundays w/ Bill Spencer",
-        "s": "2026-10-25T17:00:00Z",
-        "e": "2026-10-25T18:00:00Z",
-        "d": null,
-        "j": "Bill Spencer",
-        "u": null,
-        "t": "biweekly"
-      },
       {
         "n": "Gibrana Cervantes",
         "s": "2026-10-25T18:00:00Z",
         "e": "2026-10-25T19:00:00Z",
-        "d": null,
+        "d": "Mexican violinist, composer and improviser Gibrana Cervantes shares the sounds of her inventive violin performance, alongside music from Philip Glass, Jessica Moss and more.",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/gibrana-cervantes-25th-october-2026"
       },
       {
         "n": "Juline Hadaya",
         "s": "2026-10-25T19:00:00Z",
         "e": "2026-10-25T20:00:00Z",
-        "d": null,
+        "d": "Juline Hadaya bridges her sonic and filmic practice with an hour of ambient, experimental and soft club selections alongside her own compositions. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/juline-hadaya-25th-october-2026"
       },
       {
         "n": "NTS Guide to: Canadian New Age 1980-87 (R)",
@@ -158,61 +132,51 @@
         "j": null,
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "NAOMI ASA",
+        "s": "2026-10-26T17:00:00Z",
+        "e": "2026-10-26T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "CLUB COCO w/ COCO MARIA",
+        "s": "2026-10-26T18:00:00Z",
+        "e": "2026-10-26T20:00:00Z",
+        "d": null,
+        "j": "COCO MARIA",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "UNITED IN FLAMES W/ MALIBU",
+        "s": "2026-10-26T20:00:00Z",
+        "e": "2026-10-26T22:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "nts2": [
       {
-        "n": "Kokonut Trip w/ Black Dice (R)",
-        "s": "2026-10-25T14:00:00Z",
-        "e": "2026-10-25T15:00:00Z",
-        "d": "Take a Kokonut Trip with Tim Koh, playing vintage pop, kaleidoscopic rock & folk, and whatever else he feels.",
-        "j": "Black Dice",
-        "u": "https://www.nts.live/api/v2/shows/tim-koh/episodes/black-dice-22nd-september-2021",
-        "t": "restream"
-      },
-      {
-        "n": "Smithsonian Folkways: Environmental Sounds (R)",
-        "s": "2026-10-25T15:00:00Z",
-        "e": "2026-10-25T16:00:00Z",
-        "d": null,
-        "j": "Environmental Sounds",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "OPEN HAND REAL FLAMES w/ Bass Clef - Bruton Special (R)",
-        "s": "2026-10-25T16:00:00Z",
-        "e": "2026-10-25T17:00:00Z",
-        "d": null,
-        "j": "Bass Clef",
-        "u": null,
-        "t": "restream"
-      },
-      {
-        "n": "Jaro Sounder - Children's Special (R)",
-        "s": "2026-10-25T17:00:00Z",
-        "e": "2026-10-25T18:00:00Z",
-        "d": null,
-        "j": "Children's Special",
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "Champeta w/ Edna Martinez - TV Series & Cartoons (R)",
         "s": "2026-10-25T18:00:00Z",
         "e": "2026-10-25T19:00:00Z",
-        "d": null,
+        "d": "DJ and curator Edna Martínez, from Cartagena de Indias, presents champeta, a genre born inside the picós, the sound systems of Colombia’s Caribbean coast where music is presence, tension, gathering. It carries fragmented routes shaped by circulation and bootlegs. It becomes body, dance, code, a way of occupying a space that has never been neutral.",
         "j": "Edna Martinez",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/edna-martinez/episodes/edna-martinez-10th-october-2023",
         "t": "restream"
       },
       {
         "n": "DJ SoFa - Cosmic Children Music (R)",
         "s": "2026-10-25T19:00:00Z",
         "e": "2026-10-25T20:00:00Z",
-        "d": null,
+        "d": "Veteran Brussels selector DJ SoFa stitches together an hour of cosmic nursery rhymes.",
         "j": "Cosmic Children Music",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dj-sofa-17th-december-2019",
         "t": "restream"
       },
       {
@@ -312,28 +276,52 @@
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "SKYAPNEA w/ Renato Grieco",
+        "s": "2026-10-26T12:00:00Z",
+        "e": "2026-10-26T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "MALA JUNTA",
+        "s": "2026-10-26T15:00:00Z",
+        "e": "2026-10-26T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Archived W/ Rotational",
+        "s": "2026-10-26T16:00:00Z",
+        "e": "2026-10-26T17:00:00Z",
+        "d": null,
+        "j": "Rotational",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "HIT A LICK RADIO",
+        "s": "2026-10-26T17:00:00Z",
+        "e": "2026-10-26T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "Leicester's Finest w/ Mohammad Five - Ustad Nusrat Fateh Ali Khan",
+        "s": "2026-10-26T18:00:00Z",
+        "e": "2026-10-26T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
       }
     ],
     "subtle": [],
     "dublab": [
-      {
-        "n": "djjs 2",
-        "s": "2026-10-25T14:00:00Z",
-        "e": "2026-10-25T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Kenneth Bager - Music for Dreams",
-        "s": "2026-10-25T16:00:00Z",
-        "e": "2026-10-25T17:00:00Z",
-        "d": null,
-        "j": "Music for Dreams",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "Thomas Klepper - Library of Sounds",
         "s": "2026-10-25T17:00:00Z",
@@ -746,36 +734,27 @@
         "j": null,
         "u": null,
         "t": "playlist"
+      },
+      {
+        "n": "Kenneth Bager - Music for Dreams",
+        "s": "2026-11-01T17:00:00Z",
+        "e": "2026-11-01T18:00:00Z",
+        "d": null,
+        "j": "Music for Dreams",
+        "u": null,
+        "t": "weekly"
+      },
+      {
+        "n": "Chris Kissel and Chuck Soo-Hoo - Contact Wave",
+        "s": "2026-11-01T18:00:00Z",
+        "e": "2026-11-01T20:00:00Z",
+        "d": null,
+        "j": "Contact Wave",
+        "u": null,
+        "t": "monthly"
       }
     ],
     "rinse": [
-      {
-        "n": "Dance Regular",
-        "s": "2026-10-25T14:00:00Z",
-        "e": "2026-10-25T16:00:00Z",
-        "d": null,
-        "j": "Echo Juliette",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Scotti Dee",
-        "s": "2026-10-25T16:00:00Z",
-        "e": "2026-10-25T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Flyo",
-        "s": "2026-10-25T17:00:00Z",
-        "e": "2026-10-25T18:00:00Z",
-        "d": null,
-        "j": "Layyah",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "Plastician",
         "s": "2026-10-25T18:00:00Z",
@@ -786,11 +765,11 @@
         "t": "monthly"
       },
       {
-        "n": "Woozy with EMA",
+        "n": "WOOZY with EMA",
         "s": "2026-10-25T20:00:00Z",
         "e": "2026-10-25T21:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Strada",
         "u": null
       },
       {
@@ -842,7 +821,7 @@
         "s": "2026-10-26T06:00:00Z",
         "e": "2026-10-26T07:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Shez Kurx",
         "u": null,
         "t": "biweekly"
       },
@@ -887,7 +866,7 @@
         "s": "2026-10-26T13:00:00Z",
         "e": "2026-10-26T14:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Raivo",
         "u": null,
         "t": "monthly"
       },
@@ -913,7 +892,7 @@
         "s": "2026-10-26T17:00:00Z",
         "e": "2026-10-26T18:00:00Z",
         "d": null,
-        "j": null,
+        "j": "Live from Hï Ibiza",
         "u": null,
         "t": "biweekly"
       },
@@ -922,7 +901,7 @@
         "s": "2026-10-26T18:00:00Z",
         "e": "2026-10-26T19:00:00Z",
         "d": null,
-        "j": null,
+        "j": "B2B Fabio Fc",
         "u": null,
         "t": "biweekly"
       },
@@ -936,13 +915,12 @@
         "t": "monthly"
       },
       {
-        "n": "DJ Stingray 313",
+        "n": "DJ STINGRAY PRESENTS ZONE 313",
         "s": "2026-10-26T20:00:00Z",
         "e": "2026-10-26T21:00:00Z",
         "d": null,
         "j": "Van Der",
-        "u": null,
-        "t": "monthly"
+        "u": null
       },
       {
         "n": "Introspekt",
@@ -972,42 +950,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "Playlist France",
-        "s": "2026-10-25T14:00:00Z",
-        "e": "2026-10-25T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "Dubquake Records",
-        "s": "2026-10-25T15:00:00Z",
-        "e": "2026-10-25T16:00:00Z",
-        "d": null,
-        "j": "O.B.F x Terremoto - São Paulo Special",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "POLAAR",
-        "s": "2026-10-25T16:00:00Z",
-        "e": "2026-10-25T17:00:00Z",
-        "d": null,
-        "j": "invite Honeydrip",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Rinse France Guest Show",
-        "s": "2026-10-25T17:00:00Z",
-        "e": "2026-10-25T18:00:00Z",
-        "d": null,
-        "j": "Vitamine C",
-        "u": null,
-        "t": "weekly"
-      },
       {
         "n": "carin kelly",
         "s": "2026-10-25T18:00:00Z",
@@ -1114,32 +1056,6 @@
       }
     ],
     "newtown": [
-      {
-        "n": "ROAD RHYTHM",
-        "s": "2026-10-25T14:00:00Z",
-        "e": "2026-10-25T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "HACKNEY UPON CALUMET",
-        "s": "2026-10-25T15:00:00Z",
-        "e": "2026-10-25T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "MXD SGNLS",
-        "s": "2026-10-25T16:00:00Z",
-        "e": "2026-10-25T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "OPEN",
         "s": "2026-10-25T18:00:00Z",
