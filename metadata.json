@@ -1,74 +1,25 @@
 {
   "v": 2,
-  "updated": "2026-11-26T13:22:28.672Z",
+  "updated": "2026-11-26T22:41:45.276Z",
   "stations": {
     "nts1": [
-      {
-        "n": "Mori RA & LREN - Japanese-Breeze 16",
-        "s": "2026-11-26T13:00:00Z",
-        "e": "2026-11-26T14:00:00Z",
-        "d": "DJ & DJ LREDN based in Osaka, Japan, Mori Ra presents a 90min Japanese Breeze mix.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/mori-ra-lren-japanese-breeze-16-26th-november-2026"
-      },
-      {
-        "n": "MAÏ-LINH",
-        "s": "2026-11-26T14:00:00Z",
-        "e": "2026-11-26T15:00:00Z",
-        "d": "With an ear for the timeless and the undiscovered, Maï-Linh—head of CTW Podcasts—brings a rich selection blending rare finds, overlooked classics, and tracks that span decades. Tune in for a blend of deep cuts and fresh gems that bridge the familiar and the forgotten.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/mai-linh/episodes/mai-linh-26th-november-2026",
-        "t": "monthly"
-      },
-      {
-        "n": "ECLAIR FIFI",
-        "s": "2026-11-26T15:00:00Z",
-        "e": "2026-11-26T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "OK WILLIAMS - Juan Atkins Special",
-        "s": "2026-11-26T17:00:00Z",
-        "e": "2026-11-26T18:00:00Z",
-        "d": null,
-        "j": "Juan Atkins Special",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "SCARY THINGS W/ LOE SHIMMY",
-        "s": "2026-11-26T18:00:00Z",
-        "e": "2026-11-26T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "NILE TO BANK w/ NIHAL",
-        "s": "2026-11-26T20:00:00Z",
-        "e": "2026-11-26T21:00:00Z",
-        "d": null,
-        "j": "NIHAL",
-        "u": null,
-        "t": "monthly"
-      },
       {
         "n": "PEKING SPRING w/ JON K",
         "s": "2026-11-26T21:00:00Z",
         "e": "2026-11-26T23:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Jon K explores the spaces between monthly for 120 mins.",
+        "j": "JON K",
+        "u": "https://www.nts.live/api/v2/shows/jon-k-presents-peking-spring/episodes/jon-k-presents-peking-spring-26th-november-2026",
+        "t": "monthly"
       },
       {
-        "n": "KASRA V",
+        "n": "KASRA V w/ Verushka",
         "s": "2026-11-26T23:00:00Z",
         "e": "2026-11-27T00:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
+        "d": "Kasra Vaseghi homes in on leftfield music on a monthly Friday, playing new beat to trance, ambient to Middle Eastern disco and other oddities. The show regularly features guests who are upcoming DJs, local heroes or avid collectors.\nFor archive shows: Paradise Show",
+        "j": "Verushka",
+        "u": "https://www.nts.live/api/v2/shows/kasra-v/episodes/kasra-v-26th-november-2026",
+        "t": "monthly"
       },
       {
         "n": "SLIME FM W/ KHADIJA AL HANAFI (R)",
@@ -134,16 +85,16 @@
         "t": "restream"
       },
       {
-        "n": "THE EARLY BIRD SHOW W/ JACK ROLLO",
+        "n": "The Early Bird Show w/ Jack Rollo - Stroom Special",
         "s": "2026-11-27T07:00:00Z",
         "e": "2026-11-27T09:00:00Z",
         "d": null,
-        "j": "JACK ROLLO",
+        "j": "Jack Rollo",
         "u": null,
         "t": "biweekly"
       },
       {
-        "n": "THE NTS BREAKFAST SHOW w/ Palms trax",
+        "n": "The NTS Breakfast Show w/ Giulia Tess",
         "s": "2026-11-27T09:00:00Z",
         "e": "2026-11-27T11:00:00Z",
         "d": null,
@@ -158,106 +109,78 @@
         "j": "Manara",
         "u": null,
         "t": "monthly"
+      },
+      {
+        "n": "PUM PUM POWER HOUR W/ LIL C",
+        "s": "2026-11-27T13:00:00Z",
+        "e": "2026-11-27T14:00:00Z",
+        "d": null,
+        "j": "LIL C",
+        "u": null,
+        "t": "biweekly"
+      },
+      {
+        "n": "TEARS IN THE CLUB W/ SOYKLŌ",
+        "s": "2026-11-27T14:00:00Z",
+        "e": "2026-11-27T15:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "FATIMA'S MAPLE SYRUP WAFFLE SHOW",
+        "s": "2026-11-27T15:00:00Z",
+        "e": "2026-11-27T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "STEPHANE w/ 8ruki",
+        "s": "2026-11-27T16:00:00Z",
+        "e": "2026-11-27T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "AFREECAN IN LDN W/ BBBwithluv x Akunna",
+        "s": "2026-11-27T17:00:00Z",
+        "e": "2026-11-27T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "RUF DUG",
+        "s": "2026-11-27T18:00:00Z",
+        "e": "2026-11-27T19:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "biweekly"
       }
     ],
     "nts2": [
       {
-        "n": "Shadow Dance w/ Salamanda - Jazz Special",
-        "s": "2026-11-26T13:00:00Z",
-        "e": "2026-11-26T14:00:00Z",
-        "d": "Bimonthly invitation from Seoul-based duo Salamanda to an hour-long cosmic rave, guiding you through wiggly, fluctuating dance tunes.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/shadow-dance-w-salamanda/episodes/shadow-dance-w-salamanda-26th-november-2026"
-      },
-      {
-        "n": "DJ PAPERWORLD",
-        "s": "2026-11-26T14:00:00Z",
-        "e": "2026-11-26T15:00:00Z",
-        "d": "Special guest shows from around the world.",
-        "j": null,
-        "u": "https://www.nts.live/api/v2/shows/guests/episodes/dj-paperworld-26th-november-2026"
-      },
-      {
-        "n": "LA VIDA ES UN MUS",
-        "s": "2026-11-26T15:00:00Z",
-        "e": "2026-11-26T16:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Goblin Milk w/ Medievalistic & Bitter 000000",
-        "s": "2026-11-26T16:00:00Z",
-        "e": "2026-11-26T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "The Outsiders w/ Rich Tupica: Mudhoney Special",
-        "s": "2026-11-26T17:00:00Z",
-        "e": "2026-11-26T18:00:00Z",
-        "d": null,
-        "j": "Rich Tupica",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "CRYPT OF THE WIZARD",
-        "s": "2026-11-26T18:00:00Z",
-        "e": "2026-11-26T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Sasha Crush",
-        "s": "2026-11-26T19:00:00Z",
-        "e": "2026-11-26T20:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "COSMIC PEEKABOO",
-        "s": "2026-11-26T20:00:00Z",
-        "e": "2026-11-26T21:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "THE ULINE CATALOG W/ CALVIN LECOMPTE (R)",
-        "s": "2026-11-26T21:00:00Z",
-        "e": "2026-11-26T22:00:00Z",
-        "d": null,
-        "j": "CALVIN LECOMPTE",
-        "u": null,
-        "t": "restream"
-      },
-      {
         "n": "UNDERGROUND & BLACK W/ ASH LAURYN",
         "s": "2026-11-26T22:00:00Z",
         "e": "2026-11-26T23:00:00Z",
-        "d": null,
+        "d": "Self proclaimed “Underground and Black”, Detroit native Ash Lauryn leads her musical charge with a candid love for the historical roots of dance music, and the power of reclamation in modern day America. ",
         "j": null,
-        "u": null
+        "u": "https://www.nts.live/api/v2/shows/ash-lauryn/episodes/ash-lauryn-26th-november-2026"
       },
       {
         "n": "Hit Factory W/ DJ Wawa - City Pop Special (R)",
         "s": "2026-11-26T23:00:00Z",
         "e": "2026-11-27T00:00:00Z",
-        "d": null,
+        "d": "\"Hello again, my friends and family at NTS radio once again this is DJ Wawa feeling blessed to be here. I don’t know about you but I can use a little whimsy right now. Things are well. The weather is good. My people are OK but not everyone’s people are OK. Labor is labor and it continues on … so here’s some of my favorite city pop tracks from my collection that I like to listen to when I’m trying to maintain a little whimsy. no digital files were used in the recording of this episode. as always.\"",
         "j": "DJ Wawa",
-        "u": null,
+        "u": "https://www.nts.live/api/v2/shows/hit-factory/episodes/hit-factory-30th-september-2025",
         "t": "restream"
       },
       {
-        "n": "RAVE REPARATIONS RADIO",
+        "n": "Rave Reparations Radio - eternal bliss mode w/ Leelee",
         "s": "2026-11-27T00:00:00Z",
         "e": "2026-11-27T02:00:00Z",
         "d": null,
@@ -273,12 +196,13 @@
         "u": null
       },
       {
-        "n": "TOUCHTHEPLANTS",
+        "n": "Wah Wah Wino - Thanksgiving Special w/ Jah Beers & Bobby (R)",
         "s": "2026-11-27T03:00:00Z",
         "e": "2026-11-27T05:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
+        "j": "Jah Beers & Bobby",
+        "u": null,
+        "t": "restream"
       },
       {
         "n": "The Trilogy Tapes w/ Lil Mofo (R)",
@@ -290,11 +214,11 @@
         "t": "restream"
       },
       {
-        "n": "Image Search - on Henry Flynt (R)",
-        "s": "2026-11-27T07:00:00Z",
+        "n": "NTS GUIDE TO: ALBARIKA RECORDS (R)",
+        "s": "2026-11-27T06:00:00Z",
         "e": "2026-11-27T08:00:00Z",
         "d": null,
-        "j": "on Henry Flynt",
+        "j": "ALBARIKA RECORDS",
         "u": null,
         "t": "restream"
       },
@@ -315,71 +239,86 @@
         "j": null,
         "u": null,
         "t": "restream"
-      }
-    ],
-    "subtle": [],
-    "dublab": [
-      {
-        "n": "sounds of NOW",
-        "s": "2026-11-26T13:00:00Z",
-        "e": "2026-11-26T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
       },
       {
-        "n": "sounds of NOW",
-        "s": "2026-11-26T15:00:00Z",
-        "e": "2026-11-26T16:30:00Z",
+        "n": "In Focus: Maurice Fulton",
+        "s": "2026-11-27T11:00:00Z",
+        "e": "2026-11-27T13:00:00Z",
         "d": null,
-        "j": null,
-        "u": null,
-        "t": "playlist"
-      },
-      {
-        "n": "LARAAJI and OUT THERE",
-        "s": "2026-11-26T16:30:00Z",
-        "e": "2026-11-26T17:00:00Z",
-        "d": null,
-        "j": null,
+        "j": "Maurice Fulton",
         "u": null,
         "t": "weekly"
       },
       {
-        "n": "Ariella – CryBaby Hour",
-        "s": "2026-11-26T17:00:00Z",
-        "e": "2026-11-26T18:00:00Z",
+        "n": "Image search w/ Quiet Control",
+        "s": "2026-11-27T15:00:00Z",
+        "e": "2026-11-27T16:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "The Healing Power of Horses",
+        "s": "2026-11-27T16:00:00Z",
+        "e": "2026-11-27T17:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "Finest Hour w/ Cynthia & Dozie Kanu",
+        "s": "2026-11-27T17:00:00Z",
+        "e": "2026-11-27T18:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      },
+      {
+        "n": "JUNE MCDOOM",
+        "s": "2026-11-27T18:00:00Z",
+        "e": "2026-11-27T19:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "monthly"
       },
       {
-        "n": "Moment of Mourning: Tara Houska & Lyla June Johnston",
-        "s": "2026-11-26T18:00:00Z",
-        "e": "2026-11-26T18:25:00Z",
+        "n": "UNCOVERED w/ Brian Glasser & Phil Thornalley",
+        "s": "2026-11-27T19:00:00Z",
+        "e": "2026-11-27T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Moment of Mourning: Northern Cree",
-        "s": "2026-11-26T18:25:00Z",
-        "e": "2026-11-26T20:00:00Z",
+        "n": "CROSSED WIRES W/ AMANDA SIEGEL (R)",
+        "s": "2026-11-27T20:00:00Z",
+        "e": "2026-11-27T22:00:00Z",
         "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Jimmy Tamborello - Dying Songs",
-        "s": "2026-11-26T20:00:00Z",
-        "e": "2026-11-26T22:00:00Z",
-        "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
-        "j": "Dying Songs",
+        "j": "AMANDA SIEGEL",
         "u": null,
-        "t": "weekly"
+        "t": "restream"
       },
+      {
+        "n": "ALL ABOUT OUR LOVE W/ HARRIET BROWN",
+        "s": "2026-11-27T22:00:00Z",
+        "e": "2026-11-27T23:00:00Z",
+        "d": null,
+        "j": "HARRIET BROWN",
+        "u": null,
+        "t": "monthly"
+      },
+      {
+        "n": "East Never Loses: CLOUD GATE DANCE THEATER w/ Angie QQ",
+        "s": "2026-11-27T23:00:00Z",
+        "e": "2026-11-28T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null
+      }
+    ],
+    "subtle": [],
+    "dublab": [
       {
         "n": "Apiento’s New Age Dance Show",
         "s": "2026-11-26T22:00:00Z",
@@ -832,70 +771,44 @@
         "j": "Hearing Color",
         "u": null,
         "t": "monthly"
-      }
-    ],
-    "rinse": [
-      {
-        "n": "Rollo Jackson",
-        "s": "2026-11-26T13:00:00Z",
-        "e": "2026-11-26T14:00:00Z",
-        "d": null,
-        "j": "WULFBOY",
-        "u": null,
-        "t": "monthly"
       },
       {
-        "n": "Anastazja",
-        "s": "2026-11-26T14:00:00Z",
-        "e": "2026-11-26T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Tom Ravenscroft",
-        "s": "2026-11-26T15:00:00Z",
-        "e": "2026-11-26T17:00:00Z",
+        "n": "LARAAJI and OUT THERE",
+        "s": "2026-12-03T16:30:00Z",
+        "e": "2026-12-03T17:00:00Z",
         "d": null,
         "j": null,
         "u": null,
         "t": "weekly"
       },
       {
-        "n": "Mona Yim",
-        "s": "2026-11-26T17:00:00Z",
-        "e": "2026-11-26T18:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Nancy June",
-        "s": "2026-11-26T18:00:00Z",
-        "e": "2026-11-26T19:00:00Z",
-        "d": null,
-        "j": "Char LaLa",
-        "u": null,
-        "t": "biweekly"
-      },
-      {
-        "n": "Kenny Dope",
-        "s": "2026-11-26T19:00:00Z",
-        "e": "2026-11-26T21:00:00Z",
+        "n": "Dustin Wong – Why Did Why Did Why Did",
+        "s": "2026-12-03T18:00:00Z",
+        "e": "2026-12-03T20:00:00Z",
         "d": null,
         "j": null,
         "u": null
       },
       {
-        "n": "Steel City Dance Discs",
-        "s": "2026-11-26T21:00:00Z",
-        "e": "2026-11-26T22:00:00Z",
-        "d": null,
-        "j": "moktar",
-        "u": null
+        "n": "Jimmy Tamborello - Dying Songs",
+        "s": "2026-12-03T20:00:00Z",
+        "e": "2026-12-03T22:00:00Z",
+        "d": "“Dying Songs focuses on melancholic electronic music but isn’t limited to that. Sometimes it gets dark, sometimes I try to mix techno awkwardly, sometimes i get nostalgic… I like stuff that’s dreamy, ghostly, pretty and sad. I’ll try out new productions of my own, as well. I’m keeping it pretty open and we’ll see how it evolves.” – Jimmy",
+        "j": "Dying Songs",
+        "u": null,
+        "t": "weekly"
       },
+      {
+        "n": "Deepbody – Digi Drift",
+        "s": "2026-12-03T22:00:00Z",
+        "e": "2026-12-04T00:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "monthly"
+      }
+    ],
+    "rinse": [
       {
         "n": "NIKS",
         "s": "2026-11-26T22:00:00Z",
@@ -970,10 +883,19 @@
       {
         "n": "Breakfast with... re:ni",
         "s": "2026-11-27T10:00:00Z",
-        "e": "2026-11-27T14:00:00Z",
+        "e": "2026-11-27T11:00:00Z",
         "d": null,
         "j": null,
         "u": null
+      },
+      {
+        "n": "Uncle Dugs",
+        "s": "2026-11-27T11:00:00Z",
+        "e": "2026-11-27T14:00:00Z",
+        "d": null,
+        "j": null,
+        "u": null,
+        "t": "weekly"
       },
       {
         "n": "The Moodswing Show with Perception",
@@ -1039,57 +961,6 @@
       }
     ],
     "rinsefr": [
-      {
-        "n": "TONAK.fm",
-        "s": "2026-11-26T13:00:00Z",
-        "e": "2026-11-26T15:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Naomi",
-        "s": "2026-11-26T15:00:00Z",
-        "e": "2026-11-26T16:00:00Z",
-        "d": null,
-        "j": "présente Club Gems",
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "Le Labo avec Jaydakid",
-        "s": "2026-11-26T16:00:00Z",
-        "e": "2026-11-26T17:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null
-      },
-      {
-        "n": "Scarlett",
-        "s": "2026-11-26T17:00:00Z",
-        "e": "2026-11-26T18:00:00Z",
-        "d": null,
-        "j": "Artist in Focus : Imaabs",
-        "u": null
-      },
-      {
-        "n": "Roulita",
-        "s": "2026-11-26T18:00:00Z",
-        "e": "2026-11-26T19:00:00Z",
-        "d": null,
-        "j": null,
-        "u": null,
-        "t": "monthly"
-      },
-      {
-        "n": "To Van Kao",
-        "s": "2026-11-26T19:00:00Z",
-        "e": "2026-11-26T20:00:00Z",
-        "d": null,
-        "j": "Electro, Grime, Repeat",
-        "u": null
-      },
       {
         "n": "Playlist France",
         "s": "2026-11-26T20:00:00Z",
